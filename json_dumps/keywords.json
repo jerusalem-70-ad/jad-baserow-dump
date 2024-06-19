@@ -1,0 +1,122 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Crusades",
+    "short_description": "",
+    "jad_id": "jad_keyword__1",
+    "part_of": []
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Third Crusade",
+    "short_description": "",
+    "jad_id": "jad_keyword__2",
+    "part_of": [
+      {
+        "id": 1,
+        "value": "Crusades"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Anti-Judaism",
+    "short_description": "",
+    "jad_id": "jad_keyword__3",
+    "part_of": []
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Another conquest of Jerusalem",
+    "short_description": "",
+    "jad_id": "jad_keyword__4",
+    "part_of": []
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Preaching",
+    "short_description": "",
+    "jad_id": "jad_keyword__5",
+    "part_of": []
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Apocalypticism",
+    "short_description": "",
+    "jad_id": "jad_keyword__6",
+    "part_of": []
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Jerusalem's conquest 1099",
+    "short_description": "",
+    "jad_id": "jad_keyword__7",
+    "part_of": [
+      {
+        "id": 4,
+        "value": "Another conquest of Jerusalem"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "Jerusalem's conquest 1187",
+    "short_description": "",
+    "jad_id": "jad_keyword__8",
+    "part_of": [
+      {
+        "id": 2,
+        "value": "Third Crusade"
+      },
+      {
+        "id": 4,
+        "value": "Another conquest of Jerusalem"
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "First Crusade",
+    "short_description": "",
+    "jad_id": "jad_keyword__9",
+    "part_of": [
+      {
+        "id": 1,
+        "value": "Crusades"
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "name": "Typology",
+    "short_description": "",
+    "jad_id": "jad_keyword__10",
+    "part_of": []
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "name": "Babylonian conquest Jerusalem",
+    "short_description": "",
+    "jad_id": "jad_keyword__11",
+    "part_of": []
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "name": "Christ cleansing Temple",
+    "short_description": "",
+    "jad_id": "jad_keyword__12",
+    "part_of": []
+  }
+}
