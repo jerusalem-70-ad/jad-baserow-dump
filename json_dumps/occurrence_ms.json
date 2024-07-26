@@ -1,0 +1,64 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "ms_instance": [
+      {
+        "id": 4,
+        "value": "[{\"id\": 2, \"value\": \"BNF\"}], Latin 8865, 12r"
+      }
+    ],
+    "occurrence": [
+      {
+        "id": 1,
+        "value": "Jerosolymorum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 4,
+        "value": "BNF, Latin 8865"
+      }
+    ],
+    "position_in_ms": "12r",
+    "main_ms": true
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "ms_instance": [
+      {
+        "id": 3,
+        "value": "[{\"id\": 3, \"value\": \"San Isidoro\"}], MS 11, "
+      }
+    ],
+    "occurrence": [
+      {
+        "id": 1,
+        "value": "Jerosolymorum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": false
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "ms_instance": [],
+    "occurrence": [
+      {
+        "id": 2,
+        "value": "Ihesus Christus cum predixisset discipulis suis scicitantibus signa eversionis Ierusalem"
+      }
+    ],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false
+  }
+}

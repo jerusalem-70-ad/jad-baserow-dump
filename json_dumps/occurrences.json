@@ -33,16 +33,10 @@
         "value": "Röm. 11,25"
       }
     ],
-    "Author": [
-      {
-        "id": 6,
-        "value": "Beda, Heiliger"
-      }
-    ],
     "work": [
       {
         "id": 6,
-        "value": "Commentary Luke (Beda, Heiliger)"
+        "value": "Commentary Luke "
       }
     ],
     "position_in_ms": null,
@@ -70,7 +64,18 @@
         },
         "value": "Beda, Heiliger"
       }
-    ]
+    ],
+    "occurrence_ms": [
+      {
+        "id": 1,
+        "value": "[{\"id\": 2, \"value\": \"BNF\"}], Latin 8865, 12r"
+      },
+      {
+        "id": 2,
+        "value": "[{\"id\": 3, \"value\": \"San Isidoro\"}], MS 11, "
+      }
+    ],
+    "source_passage": []
   },
   "2": {
     "id": 2,
@@ -94,16 +99,10 @@
     "note": null,
     "explicit_contemp_ref": null,
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 9,
-        "value": "Petrus, Comestor"
-      }
-    ],
     "work": [
       {
         "id": 9,
-        "value": "Sermones (Petrus, Comestor)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "183v",
@@ -131,7 +130,14 @@
         },
         "value": "Petrus, Comestor"
       }
-    ]
+    ],
+    "occurrence_ms": [
+      {
+        "id": 3,
+        "value": ""
+      }
+    ],
+    "source_passage": []
   },
   "3": {
     "id": 3,
@@ -150,16 +156,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 10,
-        "value": "Commentary Maccabees (Hrabanus, Maurus)"
+        "value": "Commentary Maccabees "
       }
     ],
     "position_in_ms": null,
@@ -182,7 +182,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "4": {
     "id": 4,
@@ -201,16 +203,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 10,
-        "value": "Commentary Maccabees (Hrabanus, Maurus)"
+        "value": "Commentary Maccabees "
       }
     ],
     "position_in_ms": null,
@@ -233,7 +229,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "5": {
     "id": 5,
@@ -257,16 +255,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 10,
-        "value": "Langton, Stephen"
-      }
-    ],
     "work": [
       {
         "id": 11,
-        "value": "Commentary Isaiah (Langton, Stephen)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "2r",
@@ -289,7 +281,9 @@
         },
         "value": "Langton, Stephen"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "6": {
     "id": 6,
@@ -313,16 +307,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 10,
-        "value": "Langton, Stephen"
-      }
-    ],
     "work": [
       {
         "id": 11,
-        "value": "Commentary Isaiah (Langton, Stephen)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "115r",
@@ -345,7 +333,9 @@
         },
         "value": "Langton, Stephen"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "7": {
     "id": 7,
@@ -369,16 +359,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 10,
-        "value": "Langton, Stephen"
-      }
-    ],
     "work": [
       {
         "id": 12,
-        "value": "Sermones (Langton, Stephen)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "137v",
@@ -401,7 +385,9 @@
         },
         "value": "Langton, Stephen"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "8": {
     "id": 8,
@@ -430,16 +416,10 @@
         "value": "Lk. 19,41"
       }
     ],
-    "Author": [
-      {
-        "id": 3,
-        "value": "anonymous"
-      }
-    ],
     "work": [
       {
         "id": 3,
-        "value": "Certa relatio de situ Jerusalem (anonymous)"
+        "value": "Certa relatio de situ Jerusalem "
       }
     ],
     "position_in_ms": "117r",
@@ -462,7 +442,9 @@
         },
         "value": "anonymous"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "9": {
     "id": 9,
@@ -486,16 +468,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 3,
-        "value": "anonymous"
-      }
-    ],
     "work": [
       {
         "id": 15,
-        "value": "Sermones (anonymous)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "152r",
@@ -513,7 +489,9 @@
         },
         "value": "anonymous"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "10": {
     "id": 10,
@@ -537,16 +515,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 11,
-        "value": "Luculentius"
-      }
-    ],
     "work": [
       {
         "id": 17,
-        "value": "Homiliae super evangelia (Luculentius)"
+        "value": "Homiliae super evangelia "
       }
     ],
     "position_in_ms": null,
@@ -574,7 +546,9 @@
         },
         "value": "Luculentius"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "11": {
     "id": 11,
@@ -598,16 +572,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 12,
-        "value": "Philippus, Cancellarius"
-      }
-    ],
     "work": [
       {
         "id": 18,
-        "value": "Sermones super evangelia (Philippus, Cancellarius)"
+        "value": "Sermones super evangelia "
       }
     ],
     "position_in_ms": "259v-260r",
@@ -630,7 +598,9 @@
         },
         "value": "Philippus, Cancellarius"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "12": {
     "id": 12,
@@ -654,16 +624,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 12,
-        "value": "Philippus, Cancellarius"
-      }
-    ],
     "work": [
       {
         "id": 18,
-        "value": "Sermones super evangelia (Philippus, Cancellarius)"
+        "value": "Sermones super evangelia "
       }
     ],
     "position_in_ms": "14r",
@@ -686,7 +650,9 @@
         },
         "value": "Philippus, Cancellarius"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "13": {
     "id": 13,
@@ -719,16 +685,10 @@
         "value": "Zach. 11,1"
       }
     ],
-    "Author": [
-      {
-        "id": 9,
-        "value": "Petrus, Comestor"
-      }
-    ],
     "work": [
       {
         "id": 9,
-        "value": "Sermones (Petrus, Comestor)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "102v; 166v",
@@ -761,7 +721,9 @@
         },
         "value": "Petrus, Comestor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "14": {
     "id": 14,
@@ -790,16 +752,10 @@
         "value": "Lk. 19,41"
       }
     ],
-    "Author": [
-      {
-        "id": 9,
-        "value": "Petrus, Comestor"
-      }
-    ],
     "work": [
       {
         "id": 9,
-        "value": "Sermones (Petrus, Comestor)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "95r",
@@ -822,7 +778,9 @@
         },
         "value": "Petrus, Comestor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "15": {
     "id": 15,
@@ -841,16 +799,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 23,
-        "value": "Fulcher, von Chartres"
-      }
-    ],
     "work": [
       {
         "id": 25,
-        "value": "Historia Hierosolymitana (Fulcher, von Chartres)"
+        "value": "Historia Hierosolymitana "
       }
     ],
     "position_in_ms": "",
@@ -878,7 +830,9 @@
         },
         "value": "Fulcher, von Chartres"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "16": {
     "id": 16,
@@ -902,16 +856,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 7,
-        "value": "Lambertus, Sancti Bertini"
-      }
-    ],
     "work": [
       {
         "id": 7,
-        "value": "Liber Floridus (Lambertus, Sancti Bertini)"
+        "value": "Liber Floridus "
       }
     ],
     "position_in_ms": "86r",
@@ -934,7 +882,9 @@
         },
         "value": "Lambertus, Sancti Bertini"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "17": {
     "id": 17,
@@ -971,16 +921,10 @@
         "value": "Ps. 51,20"
       }
     ],
-    "Author": [
-      {
-        "id": 1,
-        "value": "Petrus, von Blois"
-      }
-    ],
     "work": [
       {
         "id": 2,
-        "value": "Sermones (Petrus, von Blois)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "",
@@ -1031,7 +975,9 @@
         },
         "value": "Petrus, von Blois"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "18": {
     "id": 18,
@@ -1080,16 +1026,10 @@
         "value": "Lk. 23,34"
       }
     ],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -1131,7 +1071,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "19": {
     "id": 19,
@@ -1172,16 +1114,10 @@
         "value": "Joh. 7,16"
       }
     ],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -1219,7 +1155,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "20": {
     "id": 20,
@@ -1247,16 +1185,10 @@
         "value": "Joh. 13,2"
       }
     ],
-    "Author": [
-      {
-        "id": 25,
-        "value": "Haimo, von Auxerre"
-      }
-    ],
     "work": [
       {
         "id": 26,
-        "value": "Commentary Isaiah (Haimo, von Auxerre)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "",
@@ -1284,7 +1216,9 @@
         },
         "value": "Haimo, von Auxerre"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "21": {
     "id": 21,
@@ -1303,16 +1237,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 25,
-        "value": "Haimo, von Auxerre"
-      }
-    ],
     "work": [
       {
         "id": 26,
-        "value": "Commentary Isaiah (Haimo, von Auxerre)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "",
@@ -1335,7 +1263,9 @@
         },
         "value": "Haimo, von Auxerre"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "22": {
     "id": 22,
@@ -1354,16 +1284,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 25,
-        "value": "Haimo, von Auxerre"
-      }
-    ],
     "work": [
       {
         "id": 26,
-        "value": "Commentary Isaiah (Haimo, von Auxerre)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "",
@@ -1386,7 +1310,9 @@
         },
         "value": "Haimo, von Auxerre"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "23": {
     "id": 23,
@@ -1405,16 +1331,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 25,
-        "value": "Haimo, von Auxerre"
-      }
-    ],
     "work": [
       {
         "id": 26,
-        "value": "Commentary Isaiah (Haimo, von Auxerre)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "",
@@ -1442,7 +1362,9 @@
         },
         "value": "Haimo, von Auxerre"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "24": {
     "id": 24,
@@ -1461,16 +1383,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 25,
-        "value": "Haimo, von Auxerre"
-      }
-    ],
     "work": [
       {
         "id": 26,
-        "value": "Commentary Isaiah (Haimo, von Auxerre)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "",
@@ -1493,7 +1409,9 @@
         },
         "value": "Haimo, von Auxerre"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "25": {
     "id": 25,
@@ -1512,16 +1430,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 25,
-        "value": "Haimo, von Auxerre"
-      }
-    ],
     "work": [
       {
         "id": 27,
-        "value": "Sermones (Haimo, von Auxerre)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "",
@@ -1549,7 +1461,9 @@
         },
         "value": "Haimo, von Auxerre"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "26": {
     "id": 26,
@@ -1568,16 +1482,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 25,
-        "value": "Haimo, von Auxerre"
-      }
-    ],
     "work": [
       {
         "id": 27,
-        "value": "Sermones (Haimo, von Auxerre)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "",
@@ -1610,7 +1518,9 @@
         },
         "value": "Haimo, von Auxerre"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "27": {
     "id": 27,
@@ -1629,16 +1539,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 25,
-        "value": "Haimo, von Auxerre"
-      }
-    ],
     "work": [
       {
         "id": 27,
-        "value": "Sermones (Haimo, von Auxerre)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "",
@@ -1666,7 +1570,9 @@
         },
         "value": "Haimo, von Auxerre"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "28": {
     "id": 28,
@@ -1685,16 +1591,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 25,
-        "value": "Haimo, von Auxerre"
-      }
-    ],
     "work": [
       {
         "id": 27,
-        "value": "Sermones (Haimo, von Auxerre)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "",
@@ -1722,7 +1622,9 @@
         },
         "value": "Haimo, von Auxerre"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "29": {
     "id": 29,
@@ -1754,16 +1656,10 @@
         "value": "Lam. 3,10"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 28,
-        "value": "Commentary Kings (Hrabanus, Maurus)"
+        "value": "Commentary Kings "
       }
     ],
     "position_in_ms": "",
@@ -1791,7 +1687,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "30": {
     "id": 30,
@@ -1824,16 +1722,10 @@
         "value": "Lk. 19,41"
       }
     ],
-    "Author": [
-      {
-        "id": 13,
-        "value": "Maurice, de Sully"
-      }
-    ],
     "work": [
       {
         "id": 23,
-        "value": "Sermones (Maurice, de Sully)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "38v; 46v",
@@ -1866,7 +1758,9 @@
         },
         "value": "Maurice, de Sully"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "31": {
     "id": 31,
@@ -1895,16 +1789,10 @@
         "value": "Mt. 22,7"
       }
     ],
-    "Author": [
-      {
-        "id": 13,
-        "value": "Maurice, de Sully"
-      }
-    ],
     "work": [
       {
         "id": 23,
-        "value": "Sermones (Maurice, de Sully)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "45v",
@@ -1932,7 +1820,9 @@
         },
         "value": "Maurice, de Sully"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "32": {
     "id": 32,
@@ -1956,16 +1846,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 13,
-        "value": "Maurice, de Sully"
-      }
-    ],
     "work": [
       {
         "id": 23,
-        "value": "Sermones (Maurice, de Sully)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "47r",
@@ -1993,7 +1877,9 @@
         },
         "value": "Maurice, de Sully"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "33": {
     "id": 33,
@@ -2022,16 +1908,10 @@
         "value": "Lk. 19,41"
       }
     ],
-    "Author": [
-      {
-        "id": 13,
-        "value": "Maurice, de Sully"
-      }
-    ],
     "work": [
       {
         "id": 23,
-        "value": "Sermones (Maurice, de Sully)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "88v",
@@ -2059,7 +1939,9 @@
         },
         "value": "Maurice, de Sully"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "34": {
     "id": 34,
@@ -2083,16 +1965,10 @@
         "value": "Ps. 77,49"
       }
     ],
-    "Author": [
-      {
-        "id": 17,
-        "value": "Paschasius, Radbertus"
-      }
-    ],
     "work": [
       {
         "id": 29,
-        "value": "Commentary Matthew (Paschasius, Radbertus)"
+        "value": "Commentary Matthew "
       }
     ],
     "position_in_ms": "",
@@ -2115,7 +1991,9 @@
         },
         "value": "Paschasius, Radbertus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "35": {
     "id": 35,
@@ -2143,16 +2021,10 @@
         "value": "Mt. 24,15"
       }
     ],
-    "Author": [
-      {
-        "id": 17,
-        "value": "Paschasius, Radbertus"
-      }
-    ],
     "work": [
       {
         "id": 29,
-        "value": "Commentary Matthew (Paschasius, Radbertus)"
+        "value": "Commentary Matthew "
       }
     ],
     "position_in_ms": "",
@@ -2175,7 +2047,9 @@
         },
         "value": "Paschasius, Radbertus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "36": {
     "id": 36,
@@ -2199,16 +2073,10 @@
         "value": "Lk. 21,20"
       }
     ],
-    "Author": [
-      {
-        "id": 17,
-        "value": "Paschasius, Radbertus"
-      }
-    ],
     "work": [
       {
         "id": 29,
-        "value": "Commentary Matthew (Paschasius, Radbertus)"
+        "value": "Commentary Matthew "
       }
     ],
     "position_in_ms": "",
@@ -2231,7 +2099,9 @@
         },
         "value": "Paschasius, Radbertus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "37": {
     "id": 37,
@@ -2259,16 +2129,10 @@
         "value": "Ps. 79,14"
       }
     ],
-    "Author": [
-      {
-        "id": 17,
-        "value": "Paschasius, Radbertus"
-      }
-    ],
     "work": [
       {
         "id": 29,
-        "value": "Commentary Matthew (Paschasius, Radbertus)"
+        "value": "Commentary Matthew "
       }
     ],
     "position_in_ms": "",
@@ -2291,7 +2155,9 @@
         },
         "value": "Paschasius, Radbertus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "38": {
     "id": 38,
@@ -2323,16 +2189,10 @@
         "value": "Gal. 6,14"
       }
     ],
-    "Author": [
-      {
-        "id": 30,
-        "value": "Remigius, von Auxerre"
-      }
-    ],
     "work": [
       {
         "id": 30,
-        "value": "Commentary Psalms (Remigius, von Auxerre)"
+        "value": "Commentary Psalms "
       }
     ],
     "position_in_ms": "",
@@ -2360,7 +2220,9 @@
         },
         "value": "Remigius, von Auxerre"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "39": {
     "id": 39,
@@ -2392,16 +2254,10 @@
         "value": "Mt. 27,29"
       }
     ],
-    "Author": [
-      {
-        "id": 31,
-        "value": "Gerhoch, von Reichersberg"
-      }
-    ],
     "work": [
       {
         "id": 31,
-        "value": "Commentary Psalms (Gerhoch, von Reichersberg)"
+        "value": "Commentary Psalms "
       }
     ],
     "position_in_ms": "",
@@ -2429,7 +2285,9 @@
         },
         "value": "Gerhoch, von Reichersberg"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "40": {
     "id": 40,
@@ -2453,16 +2311,10 @@
         "value": "4 Reg. 2,23"
       }
     ],
-    "Author": [
-      {
-        "id": 32,
-        "value": "Anselm, von Laon"
-      }
-    ],
     "work": [
       {
         "id": 32,
-        "value": "Commentary Kings (Anselm, von Laon)"
+        "value": "Commentary Kings "
       }
     ],
     "position_in_ms": "",
@@ -2490,7 +2342,9 @@
         },
         "value": "Anselm, von Laon"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "41": {
     "id": 41,
@@ -2518,16 +2372,10 @@
         "value": "4 Reg. 2,24"
       }
     ],
-    "Author": [
-      {
-        "id": 33,
-        "value": "Angelomus Luxovensis"
-      }
-    ],
     "work": [
       {
         "id": 33,
-        "value": "Commentary Kings (Angelomus Luxovensis)"
+        "value": "Commentary Kings "
       }
     ],
     "position_in_ms": "",
@@ -2555,7 +2403,9 @@
         },
         "value": "Angelomus Luxovensis"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "42": {
     "id": 42,
@@ -2587,16 +2437,10 @@
         "value": "Gen. 37,28"
       }
     ],
-    "Author": [
-      {
-        "id": 21,
-        "value": "Aelred, von Rievaulx"
-      }
-    ],
     "work": [
       {
         "id": 34,
-        "value": "Sermones (Aelred, von Rievaulx)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "",
@@ -2619,7 +2463,9 @@
         },
         "value": "Aelred, von Rievaulx"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "43": {
     "id": 43,
@@ -2638,16 +2484,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 21,
-        "value": "Aelred, von Rievaulx"
-      }
-    ],
     "work": [
       {
         "id": 34,
-        "value": "Sermones (Aelred, von Rievaulx)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "",
@@ -2670,7 +2510,9 @@
         },
         "value": "Aelred, von Rievaulx"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "44": {
     "id": 44,
@@ -2689,16 +2531,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 24,
-        "value": "Albert, von Aachen"
-      }
-    ],
     "work": [
       {
         "id": 35,
-        "value": "Historia expeditionis Hierosolymitanae (Albert, von Aachen)"
+        "value": "Historia expeditionis Hierosolymitanae "
       }
     ],
     "position_in_ms": "",
@@ -2731,7 +2567,9 @@
         },
         "value": "Albert, von Aachen"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "45": {
     "id": 45,
@@ -2750,16 +2588,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 28,
-        "value": "Gregor, der Grosse"
-      }
-    ],
     "work": [
       {
         "id": 36,
-        "value": "Homiliae in euangelia (Gregor, der Grosse)"
+        "value": "Homiliae in euangelia "
       }
     ],
     "position_in_ms": "",
@@ -2782,7 +2614,9 @@
         },
         "value": "Gregor, der Grosse"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "46": {
     "id": 46,
@@ -2801,16 +2635,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 34,
-        "value": "Bonaventura"
-      }
-    ],
     "work": [
       {
         "id": 37,
-        "value": "Sermones dominicales (Bonaventura)"
+        "value": "Sermones dominicales "
       }
     ],
     "position_in_ms": "",
@@ -2833,7 +2661,9 @@
         },
         "value": "Bonaventura"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "47": {
     "id": 47,
@@ -2857,16 +2687,10 @@
         "value": "Ps. 78,1"
       }
     ],
-    "Author": [
-      {
-        "id": 35,
-        "value": "Jakob, von Vitry"
-      }
-    ],
     "work": [
       {
         "id": 38,
-        "value": "Historia Orientalis (Jakob, von Vitry)"
+        "value": "Historia Orientalis "
       }
     ],
     "position_in_ms": "",
@@ -2889,7 +2713,9 @@
         },
         "value": "Jakob, von Vitry"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "48": {
     "id": 48,
@@ -2908,16 +2734,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 35,
-        "value": "Jakob, von Vitry"
-      }
-    ],
     "work": [
       {
         "id": 38,
-        "value": "Historia Orientalis (Jakob, von Vitry)"
+        "value": "Historia Orientalis "
       }
     ],
     "position_in_ms": "",
@@ -2940,7 +2760,9 @@
         },
         "value": "Jakob, von Vitry"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "49": {
     "id": 49,
@@ -2959,16 +2781,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 35,
-        "value": "Jakob, von Vitry"
-      }
-    ],
     "work": [
       {
         "id": 38,
-        "value": "Historia Orientalis (Jakob, von Vitry)"
+        "value": "Historia Orientalis "
       }
     ],
     "position_in_ms": "",
@@ -2991,7 +2807,9 @@
         },
         "value": "Jakob, von Vitry"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "50": {
     "id": 50,
@@ -3010,16 +2828,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 36,
-        "value": "Lukas, von Tuy"
-      }
-    ],
     "work": [
       {
         "id": 39,
-        "value": "Chronicon Mundi (Lukas, von Tuy)"
+        "value": "Chronicon Mundi "
       }
     ],
     "position_in_ms": "",
@@ -3042,7 +2854,9 @@
         },
         "value": "Lukas, von Tuy"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "51": {
     "id": 51,
@@ -3061,16 +2875,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 36,
-        "value": "Lukas, von Tuy"
-      }
-    ],
     "work": [
       {
         "id": 39,
-        "value": "Chronicon Mundi (Lukas, von Tuy)"
+        "value": "Chronicon Mundi "
       }
     ],
     "position_in_ms": "",
@@ -3093,7 +2901,9 @@
         },
         "value": "Lukas, von Tuy"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "52": {
     "id": 52,
@@ -3122,16 +2932,10 @@
         "value": "Ps. 78,1"
       }
     ],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 4,
-        "value": "Commentary Psalms (Petrus, Cantor)"
+        "value": "Commentary Psalms "
       }
     ],
     "position_in_ms": "62v",
@@ -3159,7 +2963,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "53": {
     "id": 53,
@@ -3200,16 +3006,10 @@
         "value": "Lk. 19,44"
       }
     ],
-    "Author": [
-      {
-        "id": 3,
-        "value": "anonymous"
-      }
-    ],
     "work": [
       {
         "id": 40,
-        "value": "Homiliarium Mondseense (anonymous)"
+        "value": "Homiliarium Mondseense "
       }
     ],
     "position_in_ms": "168v",
@@ -3237,7 +3037,9 @@
         },
         "value": "anonymous"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "54": {
     "id": 54,
@@ -3266,16 +3068,10 @@
         "value": "Lk. 19,41"
       }
     ],
-    "Author": [
-      {
-        "id": 3,
-        "value": "anonymous"
-      }
-    ],
     "work": [
       {
         "id": 41,
-        "value": "Sermones de tempore (anonymous)"
+        "value": "Sermones de tempore "
       }
     ],
     "position_in_ms": "",
@@ -3298,7 +3094,9 @@
         },
         "value": "anonymous"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "55": {
     "id": 55,
@@ -3317,16 +3115,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 9,
-        "value": "Petrus, Comestor"
-      }
-    ],
     "work": [
       {
         "id": 42,
-        "value": "Historia Scholastica (Petrus, Comestor)"
+        "value": "Historia Scholastica "
       }
     ],
     "position_in_ms": "",
@@ -3354,7 +3146,9 @@
         },
         "value": "Petrus, Comestor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "56": {
     "id": 56,
@@ -3378,16 +3172,10 @@
         "value": "Lk. 21,20"
       }
     ],
-    "Author": [
-      {
-        "id": 9,
-        "value": "Petrus, Comestor"
-      }
-    ],
     "work": [
       {
         "id": 42,
-        "value": "Historia Scholastica (Petrus, Comestor)"
+        "value": "Historia Scholastica "
       }
     ],
     "position_in_ms": "",
@@ -3410,7 +3198,9 @@
         },
         "value": "Petrus, Comestor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "57": {
     "id": 57,
@@ -3438,16 +3228,10 @@
         "value": "Mt. 24,50"
       }
     ],
-    "Author": [
-      {
-        "id": 9,
-        "value": "Petrus, Comestor"
-      }
-    ],
     "work": [
       {
         "id": 9,
-        "value": "Sermones (Petrus, Comestor)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "",
@@ -3475,7 +3259,9 @@
         },
         "value": "Petrus, Comestor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "58": {
     "id": 58,
@@ -3499,16 +3285,10 @@
         "value": "Mt. 22,7"
       }
     ],
-    "Author": [
-      {
-        "id": 37,
-        "value": "Honorius, Augustodunensis"
-      }
-    ],
     "work": [
       {
         "id": 43,
-        "value": "Speculum Ecclesiae (Honorius, Augustodunensis)"
+        "value": "Speculum Ecclesiae "
       }
     ],
     "position_in_ms": "",
@@ -3536,7 +3316,9 @@
         },
         "value": "Honorius, Augustodunensis"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "59": {
     "id": 59,
@@ -3560,16 +3342,10 @@
         "value": "Lk. 13,6"
       }
     ],
-    "Author": [
-      {
-        "id": 37,
-        "value": "Honorius, Augustodunensis"
-      }
-    ],
     "work": [
       {
         "id": 43,
-        "value": "Speculum Ecclesiae (Honorius, Augustodunensis)"
+        "value": "Speculum Ecclesiae "
       }
     ],
     "position_in_ms": "",
@@ -3597,7 +3373,9 @@
         },
         "value": "Honorius, Augustodunensis"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "60": {
     "id": 60,
@@ -3625,16 +3403,10 @@
         "value": "Mt. 23,35"
       }
     ],
-    "Author": [
-      {
-        "id": 37,
-        "value": "Honorius, Augustodunensis"
-      }
-    ],
     "work": [
       {
         "id": 43,
-        "value": "Speculum Ecclesiae (Honorius, Augustodunensis)"
+        "value": "Speculum Ecclesiae "
       }
     ],
     "position_in_ms": "",
@@ -3662,7 +3434,9 @@
         },
         "value": "Honorius, Augustodunensis"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "61": {
     "id": 61,
@@ -3694,16 +3468,10 @@
         "value": "Ps. 78,3"
       }
     ],
-    "Author": [
-      {
-        "id": 37,
-        "value": "Honorius, Augustodunensis"
-      }
-    ],
     "work": [
       {
         "id": 43,
-        "value": "Speculum Ecclesiae (Honorius, Augustodunensis)"
+        "value": "Speculum Ecclesiae "
       }
     ],
     "position_in_ms": "",
@@ -3731,7 +3499,9 @@
         },
         "value": "Honorius, Augustodunensis"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "62": {
     "id": 62,
@@ -3755,16 +3525,10 @@
         "value": "Mt. 22,7"
       }
     ],
-    "Author": [
-      {
-        "id": 38,
-        "value": "Christianus, Druthmar"
-      }
-    ],
     "work": [
       {
         "id": 44,
-        "value": "Commentary Matthew (Christianus, Druthmar)"
+        "value": "Commentary Matthew "
       }
     ],
     "position_in_ms": "",
@@ -3787,7 +3551,9 @@
         },
         "value": "Christianus, Druthmar"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "63": {
     "id": 63,
@@ -3811,16 +3577,10 @@
         "value": "Lk. 21,20"
       }
     ],
-    "Author": [
-      {
-        "id": 38,
-        "value": "Christianus, Druthmar"
-      }
-    ],
     "work": [
       {
         "id": 44,
-        "value": "Commentary Matthew (Christianus, Druthmar)"
+        "value": "Commentary Matthew "
       }
     ],
     "position_in_ms": "",
@@ -3843,7 +3603,9 @@
         },
         "value": "Christianus, Druthmar"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "64": {
     "id": 64,
@@ -3867,16 +3629,10 @@
         "value": "Mt. 22,7"
       }
     ],
-    "Author": [
-      {
-        "id": 39,
-        "value": "Werner, von Sankt Blasien"
-      }
-    ],
     "work": [
       {
         "id": 45,
-        "value": "Libri deflorationum (Werner, von Sankt Blasien)"
+        "value": "Libri deflorationum "
       }
     ],
     "position_in_ms": "",
@@ -3899,7 +3655,9 @@
         },
         "value": "Werner, von Sankt Blasien"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "65": {
     "id": 65,
@@ -3923,16 +3681,10 @@
         "value": "Mt. 22,7"
       }
     ],
-    "Author": [
-      {
-        "id": 39,
-        "value": "Werner, von Sankt Blasien"
-      }
-    ],
     "work": [
       {
         "id": 45,
-        "value": "Libri deflorationum (Werner, von Sankt Blasien)"
+        "value": "Libri deflorationum "
       }
     ],
     "position_in_ms": "",
@@ -3955,7 +3707,9 @@
         },
         "value": "Werner, von Sankt Blasien"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "66": {
     "id": 66,
@@ -3974,16 +3728,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 39,
-        "value": "Werner, von Sankt Blasien"
-      }
-    ],
     "work": [
       {
         "id": 45,
-        "value": "Libri deflorationum (Werner, von Sankt Blasien)"
+        "value": "Libri deflorationum "
       }
     ],
     "position_in_ms": "",
@@ -4006,7 +3754,9 @@
         },
         "value": "Werner, von Sankt Blasien"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "67": {
     "id": 67,
@@ -4030,16 +3780,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -4072,7 +3816,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "68": {
     "id": 68,
@@ -4113,16 +3859,10 @@
         "value": "Ps. 79,14"
       }
     ],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -4155,7 +3895,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "69": {
     "id": 69,
@@ -4184,16 +3926,10 @@
         "value": "Joh. 11,48"
       }
     ],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -4226,7 +3962,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "70": {
     "id": 70,
@@ -4250,16 +3988,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -4292,7 +4024,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "71": {
     "id": 71,
@@ -4316,16 +4050,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -4358,7 +4086,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "72": {
     "id": 72,
@@ -4391,16 +4121,10 @@
         "value": "Jer. 15,9"
       }
     ],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -4433,7 +4157,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "73": {
     "id": 73,
@@ -4478,16 +4204,10 @@
         "value": "Lk. 23,18"
       }
     ],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -4520,7 +4240,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "74": {
     "id": 74,
@@ -4553,16 +4275,10 @@
         "value": "Ps. 140,2"
       }
     ],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -4595,7 +4311,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "75": {
     "id": 75,
@@ -4624,16 +4342,10 @@
         "value": "Amos 8,10"
       }
     ],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -4666,7 +4378,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "76": {
     "id": 76,
@@ -4699,16 +4413,10 @@
         "value": "Mt. 3,2"
       }
     ],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -4741,7 +4449,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "77": {
     "id": 77,
@@ -4770,16 +4480,10 @@
         "value": "Mt. 27,66"
       }
     ],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 1,
-        "value": "Liber Sermonum (Martin, von León)"
+        "value": "Liber Sermonum "
       }
     ],
     "position_in_ms": "",
@@ -4812,7 +4516,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "78": {
     "id": 78,
@@ -4845,16 +4551,10 @@
         "value": "4 Reg. 2,24"
       }
     ],
-    "Author": [
-      {
-        "id": 10,
-        "value": "Langton, Stephen"
-      }
-    ],
     "work": [
       {
         "id": 46,
-        "value": "Commentary Kings (Langton, Stephen)"
+        "value": "Commentary Kings "
       }
     ],
     "position_in_ms": "62v",
@@ -4877,7 +4577,9 @@
         },
         "value": "Langton, Stephen"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "79": {
     "id": 79,
@@ -4909,16 +4611,10 @@
         "value": "Hebr. 13,12"
       }
     ],
-    "Author": [
-      {
-        "id": 19,
-        "value": "Petrus, Damiani"
-      }
-    ],
     "work": [
       {
         "id": 47,
-        "value": "Sermones (Petrus, Damiani)"
+        "value": "Sermones "
       }
     ],
     "position_in_ms": "",
@@ -4941,7 +4637,9 @@
         },
         "value": "Petrus, Damiani"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "80": {
     "id": 80,
@@ -4960,16 +4658,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 40,
-        "value": "Petrus, de Riga"
-      }
-    ],
     "work": [
       {
         "id": 49,
-        "value": "Fragmenta ex aurora (Petrus, de Riga)"
+        "value": "Fragmenta ex aurora "
       }
     ],
     "position_in_ms": "",
@@ -4992,7 +4684,9 @@
         },
         "value": "Petrus, de Riga"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "81": {
     "id": 81,
@@ -5016,16 +4710,10 @@
         "value": "4 Reg. 2,24"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 50,
-        "value": "Commentary Ecclesiasticus (Hrabanus, Maurus)"
+        "value": "Commentary Ecclesiasticus "
       }
     ],
     "position_in_ms": "",
@@ -5048,7 +4736,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "82": {
     "id": 82,
@@ -5080,16 +4770,10 @@
         "value": "Joh. 19,15"
       }
     ],
-    "Author": [
-      {
-        "id": 41,
-        "value": "Peter Lombard"
-      }
-    ],
     "work": [
       {
         "id": 51,
-        "value": "Commentary Psalms (Peter Lombard)"
+        "value": "Commentary Psalms "
       }
     ],
     "position_in_ms": "",
@@ -5112,7 +4796,9 @@
         },
         "value": "Peter Lombard"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "83": {
     "id": 83,
@@ -5136,16 +4822,10 @@
         "value": "Mt. 24,2"
       }
     ],
-    "Author": [
-      {
-        "id": 42,
-        "value": "Wilhelm, von Tyrus"
-      }
-    ],
     "work": [
       {
         "id": 52,
-        "value": "Historia (Wilhelm, von Tyrus)"
+        "value": "Historia "
       }
     ],
     "position_in_ms": "",
@@ -5177,7 +4857,9 @@
         },
         "value": "Wilhelm, von Tyrus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "84": {
     "id": 84,
@@ -5196,16 +4878,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 44,
-        "value": "Petrus, Venerabilis"
-      }
-    ],
     "work": [
       {
         "id": 53,
-        "value": "Adversus Iudaeos (Petrus, Venerabilis)"
+        "value": "Adversus Iudaeos "
       }
     ],
     "position_in_ms": "",
@@ -5233,7 +4909,9 @@
         },
         "value": "Petrus, Venerabilis"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "85": {
     "id": 85,
@@ -5252,16 +4930,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 44,
-        "value": "Petrus, Venerabilis"
-      }
-    ],
     "work": [
       {
         "id": 53,
-        "value": "Adversus Iudaeos (Petrus, Venerabilis)"
+        "value": "Adversus Iudaeos "
       }
     ],
     "position_in_ms": "",
@@ -5284,7 +4956,9 @@
         },
         "value": "Petrus, Venerabilis"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "86": {
     "id": 86,
@@ -5303,16 +4977,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 44,
-        "value": "Petrus, Venerabilis"
-      }
-    ],
     "work": [
       {
         "id": 53,
-        "value": "Adversus Iudaeos (Petrus, Venerabilis)"
+        "value": "Adversus Iudaeos "
       }
     ],
     "position_in_ms": "",
@@ -5335,7 +5003,9 @@
         },
         "value": "Petrus, Venerabilis"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "87": {
     "id": 87,
@@ -5354,16 +5024,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 45,
-        "value": "Andreas, von Sankt Viktor"
-      }
-    ],
     "work": [
       {
         "id": 54,
-        "value": "Commentary Isaiah (Andreas, von Sankt Viktor)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "",
@@ -5386,7 +5050,9 @@
         },
         "value": "Andreas, von Sankt Viktor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "88": {
     "id": 88,
@@ -5405,16 +5071,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 45,
-        "value": "Andreas, von Sankt Viktor"
-      }
-    ],
     "work": [
       {
         "id": 54,
-        "value": "Commentary Isaiah (Andreas, von Sankt Viktor)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "",
@@ -5437,7 +5097,9 @@
         },
         "value": "Andreas, von Sankt Viktor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "89": {
     "id": 89,
@@ -5461,16 +5123,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 19,
-        "value": "Commentary Isaiah (Petrus, Cantor)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "52r",
@@ -5493,7 +5149,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "90": {
     "id": 90,
@@ -5522,16 +5180,10 @@
         "value": "Is. 3,1"
       }
     ],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 19,
-        "value": "Commentary Isaiah (Petrus, Cantor)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "54r",
@@ -5554,7 +5206,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "91": {
     "id": 91,
@@ -5591,16 +5245,10 @@
         "value": "Is. 10"
       }
     ],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 19,
-        "value": "Commentary Isaiah (Petrus, Cantor)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "54v",
@@ -5623,7 +5271,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "92": {
     "id": 92,
@@ -5647,16 +5297,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 19,
-        "value": "Commentary Isaiah (Petrus, Cantor)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "62v",
@@ -5679,7 +5323,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "93": {
     "id": 93,
@@ -5708,16 +5354,10 @@
         "value": "Is. 53,7"
       }
     ],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 19,
-        "value": "Commentary Isaiah (Petrus, Cantor)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "68v",
@@ -5740,7 +5380,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "94": {
     "id": 94,
@@ -5769,16 +5411,10 @@
         "value": "Is. 61,2"
       }
     ],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 19,
-        "value": "Commentary Isaiah (Petrus, Cantor)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "92v",
@@ -5801,7 +5437,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "95": {
     "id": 95,
@@ -5825,16 +5463,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 19,
-        "value": "Commentary Isaiah (Petrus, Cantor)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "97r",
@@ -5857,7 +5489,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "96": {
     "id": 96,
@@ -5881,16 +5515,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 19,
-        "value": "Commentary Isaiah (Petrus, Cantor)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "98r",
@@ -5913,7 +5541,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "97": {
     "id": 97,
@@ -5950,16 +5580,10 @@
         "value": "Lam. 3,11"
       }
     ],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 21,
-        "value": "Commentary Lamentationes (Petrus, Cantor)"
+        "value": "Commentary Lamentationes "
       }
     ],
     "position_in_ms": "126v",
@@ -5982,7 +5606,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "98": {
     "id": 98,
@@ -6006,16 +5632,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 21,
-        "value": "Commentary Lamentationes (Petrus, Cantor)"
+        "value": "Commentary Lamentationes "
       }
     ],
     "position_in_ms": "130r",
@@ -6038,7 +5658,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "99": {
     "id": 99,
@@ -6067,16 +5689,10 @@
         "value": "Ez. 7"
       }
     ],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 21,
-        "value": "Commentary Lamentationes (Petrus, Cantor)"
+        "value": "Commentary Lamentationes "
       }
     ],
     "position_in_ms": "131r",
@@ -6099,7 +5715,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "100": {
     "id": 100,
@@ -6128,16 +5746,10 @@
         "value": "Ez. 24"
       }
     ],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 20,
-        "value": "Commentary Ezekiel (Petrus, Cantor)"
+        "value": "Commentary Ezekiel "
       }
     ],
     "position_in_ms": "143v",
@@ -6160,7 +5772,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "101": {
     "id": 101,
@@ -6184,16 +5798,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 20,
-        "value": "Commentary Ezekiel (Petrus, Cantor)"
+        "value": "Commentary Ezekiel "
       }
     ],
     "position_in_ms": "155r",
@@ -6216,7 +5824,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "102": {
     "id": 102,
@@ -6245,16 +5855,10 @@
         "value": "Dan. 7"
       }
     ],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 22,
-        "value": "Commentary Daniel (Petrus, Cantor)"
+        "value": "Commentary Daniel "
       }
     ],
     "position_in_ms": "178r-v",
@@ -6277,7 +5881,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "103": {
     "id": 103,
@@ -6306,16 +5912,10 @@
         "value": "Dan. 9"
       }
     ],
-    "Author": [
-      {
-        "id": 4,
-        "value": "Petrus, Cantor"
-      }
-    ],
     "work": [
       {
         "id": 22,
-        "value": "Commentary Daniel (Petrus, Cantor)"
+        "value": "Commentary Daniel "
       }
     ],
     "position_in_ms": "f.179v",
@@ -6338,7 +5938,9 @@
         },
         "value": "Petrus, Cantor"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "104": {
     "id": 104,
@@ -6362,16 +5964,10 @@
         "value": "Mt. 12,36"
       }
     ],
-    "Author": [
-      {
-        "id": 27,
-        "value": "Hieronymus, Sophronius Eusebius"
-      }
-    ],
     "work": [
       {
         "id": 56,
-        "value": "Commentary Galater (Hieronymus, Sophronius Eusebius)"
+        "value": "Commentary Galater "
       }
     ],
     "position_in_ms": "",
@@ -6394,7 +5990,9 @@
         },
         "value": "Hieronymus, Sophronius Eusebius"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "105": {
     "id": 105,
@@ -6422,16 +6020,10 @@
         "value": "Gal. 5,15"
       }
     ],
-    "Author": [
-      {
-        "id": 27,
-        "value": "Hieronymus, Sophronius Eusebius"
-      }
-    ],
     "work": [
       {
         "id": 57,
-        "value": "Commentary Isaiah (Hieronymus, Sophronius Eusebius)"
+        "value": "Commentary Isaiah "
       }
     ],
     "position_in_ms": "",
@@ -6459,7 +6051,9 @@
         },
         "value": "Hieronymus, Sophronius Eusebius"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "106": {
     "id": 106,
@@ -6478,16 +6072,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 47,
-        "value": "Ado, von Vienne"
-      }
-    ],
     "work": [
       {
         "id": 58,
-        "value": "Chronicon (Ado, von Vienne)"
+        "value": "Chronicon "
       }
     ],
     "position_in_ms": "",
@@ -6515,7 +6103,9 @@
         },
         "value": "Ado, von Vienne"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "107": {
     "id": 107,
@@ -6534,16 +6124,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 48,
-        "value": "Ekkehart, von Aura"
-      }
-    ],
     "work": [
       {
         "id": 59,
-        "value": "Chronicon universale (Ekkehart, von Aura)"
+        "value": "Chronicon universale "
       }
     ],
     "position_in_ms": "",
@@ -6576,7 +6160,9 @@
         },
         "value": "Ekkehart, von Aura"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "108": {
     "id": 108,
@@ -6595,16 +6181,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 49,
-        "value": "Amulo, Lugdunensis"
-      }
-    ],
     "work": [
       {
         "id": 60,
-        "value": "Contra Judeaos (Amulo, Lugdunensis)"
+        "value": "Contra Judeaos "
       }
     ],
     "position_in_ms": "",
@@ -6632,7 +6212,9 @@
         },
         "value": "Amulo, Lugdunensis"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "109": {
     "id": 109,
@@ -6668,16 +6250,10 @@
         "value": "1 Macc. 4"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 61,
-        "value": "Commentary Ezekiel (Hrabanus, Maurus)"
+        "value": "Commentary Ezekiel "
       }
     ],
     "position_in_ms": "",
@@ -6705,7 +6281,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "110": {
     "id": 110,
@@ -6729,16 +6307,10 @@
         "value": "Ex. 12,40"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 61,
-        "value": "Commentary Ezekiel (Hrabanus, Maurus)"
+        "value": "Commentary Ezekiel "
       }
     ],
     "position_in_ms": "",
@@ -6761,7 +6333,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "111": {
     "id": 111,
@@ -6789,16 +6363,10 @@
         "value": "1 Thes. 2,16"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 61,
-        "value": "Commentary Ezekiel (Hrabanus, Maurus)"
+        "value": "Commentary Ezekiel "
       }
     ],
     "position_in_ms": "",
@@ -6821,7 +6389,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "112": {
     "id": 112,
@@ -6849,16 +6419,10 @@
         "value": "Ez. 7,22"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 61,
-        "value": "Commentary Ezekiel (Hrabanus, Maurus)"
+        "value": "Commentary Ezekiel "
       }
     ],
     "position_in_ms": "",
@@ -6881,7 +6445,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "113": {
     "id": 113,
@@ -6905,16 +6471,10 @@
         "value": "Jer. 1,13"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 61,
-        "value": "Commentary Ezekiel (Hrabanus, Maurus)"
+        "value": "Commentary Ezekiel "
       }
     ],
     "position_in_ms": "",
@@ -6937,7 +6497,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "114": {
     "id": 114,
@@ -6956,16 +6518,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 50,
-        "value": "Atto, von Vercelli"
-      }
-    ],
     "work": [
       {
         "id": 62,
-        "value": "Expositio epistolarum S. Pauli (Atto, von Vercelli)"
+        "value": "Expositio epistolarum S. Pauli "
       }
     ],
     "position_in_ms": "",
@@ -6993,7 +6549,9 @@
         },
         "value": "Atto, von Vercelli"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "115": {
     "id": 115,
@@ -7012,16 +6570,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 63,
-        "value": "Commentary Jeremiah (Hrabanus, Maurus)"
+        "value": "Commentary Jeremiah "
       }
     ],
     "position_in_ms": "",
@@ -7049,7 +6601,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "116": {
     "id": 116,
@@ -7068,16 +6622,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 63,
-        "value": "Commentary Jeremiah (Hrabanus, Maurus)"
+        "value": "Commentary Jeremiah "
       }
     ],
     "position_in_ms": "",
@@ -7100,7 +6648,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "117": {
     "id": 117,
@@ -7124,16 +6674,10 @@
         "value": "Dan. 9,26"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 63,
-        "value": "Commentary Jeremiah (Hrabanus, Maurus)"
+        "value": "Commentary Jeremiah "
       }
     ],
     "position_in_ms": "",
@@ -7156,7 +6700,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "118": {
     "id": 118,
@@ -7175,16 +6721,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 63,
-        "value": "Commentary Jeremiah (Hrabanus, Maurus)"
+        "value": "Commentary Jeremiah "
       }
     ],
     "position_in_ms": "",
@@ -7207,7 +6747,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "119": {
     "id": 119,
@@ -7226,16 +6768,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 63,
-        "value": "Commentary Jeremiah (Hrabanus, Maurus)"
+        "value": "Commentary Jeremiah "
       }
     ],
     "position_in_ms": "",
@@ -7258,7 +6794,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "120": {
     "id": 120,
@@ -7277,16 +6815,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 63,
-        "value": "Commentary Jeremiah (Hrabanus, Maurus)"
+        "value": "Commentary Jeremiah "
       }
     ],
     "position_in_ms": "",
@@ -7309,7 +6841,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "121": {
     "id": 121,
@@ -7337,16 +6871,10 @@
         "value": "Jud. 7"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 64,
-        "value": "Commentary Judices (Hrabanus, Maurus)"
+        "value": "Commentary Judices "
       }
     ],
     "position_in_ms": "",
@@ -7369,7 +6897,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "122": {
     "id": 122,
@@ -7388,16 +6918,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 66,
-        "value": "Commentary Matthew (Hrabanus, Maurus)"
+        "value": "Commentary Matthew "
       }
     ],
     "position_in_ms": "",
@@ -7429,7 +6953,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "123": {
     "id": 123,
@@ -7448,16 +6974,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 66,
-        "value": "Commentary Matthew (Hrabanus, Maurus)"
+        "value": "Commentary Matthew "
       }
     ],
     "position_in_ms": "",
@@ -7480,7 +7000,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "124": {
     "id": 124,
@@ -7499,16 +7021,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 66,
-        "value": "Commentary Matthew (Hrabanus, Maurus)"
+        "value": "Commentary Matthew "
       }
     ],
     "position_in_ms": "",
@@ -7536,7 +7052,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "125": {
     "id": 125,
@@ -7555,16 +7073,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 65,
-        "value": "Commentary Deuteronomium (Hrabanus, Maurus)"
+        "value": "Commentary Deuteronomium "
       }
     ],
     "position_in_ms": "",
@@ -7587,7 +7099,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "126": {
     "id": 126,
@@ -7611,16 +7125,10 @@
         "value": "Ps. 79,14"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 67,
-        "value": "De universo (Hrabanus, Maurus)"
+        "value": "De universo "
       }
     ],
     "position_in_ms": "",
@@ -7643,7 +7151,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "127": {
     "id": 127,
@@ -7671,16 +7181,10 @@
         "value": "1 Reg. 17,34"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 67,
-        "value": "De universo (Hrabanus, Maurus)"
+        "value": "De universo "
       }
     ],
     "position_in_ms": "",
@@ -7703,7 +7207,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "128": {
     "id": 128,
@@ -7727,16 +7233,10 @@
         "value": "Mt. 24,20"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 67,
-        "value": "De universo (Hrabanus, Maurus)"
+        "value": "De universo "
       }
     ],
     "position_in_ms": "",
@@ -7759,7 +7259,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "129": {
     "id": 129,
@@ -7778,16 +7280,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 67,
-        "value": "De universo (Hrabanus, Maurus)"
+        "value": "De universo "
       }
     ],
     "position_in_ms": "",
@@ -7810,7 +7306,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "130": {
     "id": 130,
@@ -7834,16 +7332,10 @@
         "value": "4 Reg. 2,23"
       }
     ],
-    "Author": [
-      {
-        "id": 5,
-        "value": "Hrabanus, Maurus"
-      }
-    ],
     "work": [
       {
         "id": 67,
-        "value": "De universo (Hrabanus, Maurus)"
+        "value": "De universo "
       }
     ],
     "position_in_ms": "",
@@ -7866,7 +7358,9 @@
         },
         "value": "Hrabanus, Maurus"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "131": {
     "id": 131,
@@ -7895,16 +7389,10 @@
         "value": "Rev. 6,4"
       }
     ],
-    "Author": [
-      {
-        "id": 2,
-        "value": "Martin, von León"
-      }
-    ],
     "work": [
       {
         "id": 68,
-        "value": "Commentary Revelation (Martin, von León)"
+        "value": "Commentary Revelation "
       }
     ],
     "position_in_ms": "",
@@ -7932,7 +7420,9 @@
         },
         "value": "Martin, von León"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "132": {
     "id": 132,
@@ -7951,16 +7441,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 48,
-        "value": "Ekkehart, von Aura"
-      }
-    ],
     "work": [
       {
         "id": 59,
-        "value": "Chronicon universale (Ekkehart, von Aura)"
+        "value": "Chronicon universale "
       }
     ],
     "position_in_ms": "",
@@ -7988,7 +7472,9 @@
         },
         "value": "Ekkehart, von Aura"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "133": {
     "id": 133,
@@ -8007,16 +7493,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 48,
-        "value": "Ekkehart, von Aura"
-      }
-    ],
     "work": [
       {
         "id": 59,
-        "value": "Chronicon universale (Ekkehart, von Aura)"
+        "value": "Chronicon universale "
       }
     ],
     "position_in_ms": "",
@@ -8044,7 +7524,9 @@
         },
         "value": "Ekkehart, von Aura"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "134": {
     "id": 134,
@@ -8063,16 +7545,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 48,
-        "value": "Ekkehart, von Aura"
-      }
-    ],
     "work": [
       {
         "id": 59,
-        "value": "Chronicon universale (Ekkehart, von Aura)"
+        "value": "Chronicon universale "
       }
     ],
     "position_in_ms": "",
@@ -8100,7 +7576,9 @@
         },
         "value": "Ekkehart, von Aura"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "135": {
     "id": 135,
@@ -8119,16 +7597,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 48,
-        "value": "Ekkehart, von Aura"
-      }
-    ],
     "work": [
       {
         "id": 59,
-        "value": "Chronicon universale (Ekkehart, von Aura)"
+        "value": "Chronicon universale "
       }
     ],
     "position_in_ms": "",
@@ -8156,7 +7628,9 @@
         },
         "value": "Ekkehart, von Aura"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   },
   "136": {
     "id": 136,
@@ -8175,16 +7649,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "Author": [
-      {
-        "id": 48,
-        "value": "Ekkehart, von Aura"
-      }
-    ],
     "work": [
       {
         "id": 59,
-        "value": "Chronicon universale (Ekkehart, von Aura)"
+        "value": "Chronicon universale "
       }
     ],
     "position_in_ms": "",
@@ -8217,6 +7685,60 @@
         },
         "value": "Ekkehart, von Aura"
       }
-    ]
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
+  },
+  "137": {
+    "id": 137,
+    "order": "137.00000000000000000000",
+    "passage": "Hierusalem in vindictam Christi vastaretur à Romanis",
+    "jad_id": "jad_occurence__137",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript": [],
+    "position_in_work": "B11",
+    "position_in_work_url": "",
+    "text_paragraph": "Et tunc, inquit, tradent vos in tribulationem et occident vos, et eritis odio omnibus gentibus propter nomen meam. Tunc autem, quod dicit, expressius quidem videtur significare tempus, et ad illud referre, quando Surget gens in gentem, et regnum 120.0803B | adversus regnum, seu caetera. Sed Apostoli mox ut testes exstiterunt veritatis, traditi sunt et occisi, quidam etiam antequam Hierusalem in vindictam Christi vastaretur à Romanis. Et ideo melius, ut dixi, quod gens contra gentem surgat, et regnum adversus regnum, de regno Christi accipimus et regno diaboli, ac de gente cujus perfidia saeviit, mox ut fides coepit, contra Christi Ecclesiam.",
+    "note": "",
+    "explicit_contemp_ref": "Viking invasions",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 29,
+        "value": "Commentary Matthew "
+      }
+    ],
+    "position_in_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [
+      {
+        "id": 4,
+        "value": "Viking invasions"
+      }
+    ],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 17,
+          "database_table_3499": 29
+        },
+        "value": "Paschasius, Radbertus"
+      }
+    ],
+    "occurrence_ms": [],
+    "source_passage": []
   }
 }
