@@ -1089,11 +1089,20 @@
     "written_date": "",
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 13,
+        "value": "Benedictines Corbie"
+      }
+    ],
     "published_edition": [
       {
         "id": 2,
         "value": "Patrologia Latina"
+      },
+      {
+        "id": 7,
+        "value": "Corpus Christianorum"
       }
     ]
   },
@@ -2356,5 +2365,125 @@
         "value": "Patrologia Latina"
       }
     ]
+  },
+  "69": {
+    "id": 69,
+    "order": "68.00000000000000000000",
+    "name": "Commentary Lamentationes ",
+    "jad_id": "jad_work__69",
+    "author": [
+      {
+        "id": 17,
+        "value": "Paschasius, Radbertus"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Lamentationes",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 13,
+        "value": "Benedictines Corbie"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum"
+      }
+    ]
+  },
+  "70": {
+    "id": 70,
+    "order": "69.00000000000000000000",
+    "name": "Commentary Psalms ",
+    "jad_id": "jad_work__70",
+    "author": [
+      {
+        "id": 17,
+        "value": "Paschasius, Radbertus"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Psalms",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 13,
+        "value": "Benedictines Corbie"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum"
+      }
+    ]
+  },
+  "71": {
+    "id": 71,
+    "order": "70.00000000000000000000",
+    "name": "Commentary Kings ",
+    "jad_id": "jad_work__71",
+    "author": [
+      {
+        "id": 18,
+        "value": "Isidorus, von Sevilla"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Kings",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "72": {
+    "id": 72,
+    "order": "71.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__72",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
   }
 }

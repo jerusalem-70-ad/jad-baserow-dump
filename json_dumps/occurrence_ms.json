@@ -2,12 +2,7 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "ms_instance": [
-      {
-        "id": 4,
-        "value": "[{\"id\": 2, \"value\": \"BNF\"}], Latin 8865, 12r"
-      }
-    ],
+    "jad_id": "jad_occurence__1",
     "occurrence": [
       {
         "id": 1,
@@ -21,17 +16,13 @@
       }
     ],
     "position_in_ms": "12r",
-    "main_ms": true
+    "main_ms": true,
+    "facsimile_position": ""
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "ms_instance": [
-      {
-        "id": 3,
-        "value": "[{\"id\": 3, \"value\": \"San Isidoro\"}], MS 11, "
-      }
-    ],
+    "jad_id": "jad_occurence__2",
     "occurrence": [
       {
         "id": 1,
@@ -45,20 +36,27 @@
       }
     ],
     "position_in_ms": "",
-    "main_ms": false
+    "main_ms": false,
+    "facsimile_position": ""
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "ms_instance": [],
-    "occurrence": [
-      {
-        "id": 2,
-        "value": "Ihesus Christus cum predixisset discipulis suis scicitantibus signa eversionis Ierusalem"
-      }
-    ],
+    "jad_id": "jad_occurence__3",
+    "occurrence": [],
     "manuscript": [],
     "position_in_ms": "",
-    "main_ms": false
+    "main_ms": false,
+    "facsimile_position": ""
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "jad_id": "jad_occurence__4",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": ""
   }
 }
