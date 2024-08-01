@@ -2472,18 +2472,32 @@
   "72": {
     "id": 72,
     "order": "71.00000000000000000000",
-    "name": " ",
+    "name": "Collectiones in epistolas et evangelia ",
     "jad_id": "jad_work__72",
-    "author": [],
+    "author": [
+      {
+        "id": 54,
+        "value": "Smaragdus, Sancti Michaelis"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "title": "Collectiones in epistolas et evangelia",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "not_before": "800",
+    "not_after": "840",
+    "written_date": "early 9",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   }
 }
