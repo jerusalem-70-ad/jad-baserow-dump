@@ -2499,5 +2499,139 @@
         "value": "Patrologia Latina"
       }
     ]
+  },
+  "73": {
+    "id": 73,
+    "order": "72.00000000000000000000",
+    "name": "De comprobatione sextae aetatis ",
+    "jad_id": "jad_work__73",
+    "author": [
+      {
+        "id": 55,
+        "value": "Iulianus, Toletanus"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De comprobatione sextae aetatis",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "not_before": null,
+    "not_after": "690",
+    "written_date": "late 7",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 15,
+        "value": "See of Toledo"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "74": {
+    "id": 74,
+    "order": "73.00000000000000000000",
+    "name": "Commentarius in Nahum ",
+    "jad_id": "jad_work__74",
+    "author": [
+      {
+        "id": 55,
+        "value": "Iulianus, Toletanus"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentarius in Nahum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 15,
+        "value": "See of Toledo"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "75": {
+    "id": 75,
+    "order": "74.00000000000000000000",
+    "name": "Chronicon ",
+    "jad_id": "jad_work__75",
+    "author": [
+      {
+        "id": 56,
+        "value": "Hugo, Flaviniacensis"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronicon",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "around 1100",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "76": {
+    "id": 76,
+    "order": "75.00000000000000000000",
+    "name": "Collectanea in omnes B. Pauli epistolas ",
+    "jad_id": "jad_work__76",
+    "author": [
+      {
+        "id": 57,
+        "value": "Sedulius, Scotus"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Collectanea in omnes B. Pauli epistolas",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "9",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   }
 }

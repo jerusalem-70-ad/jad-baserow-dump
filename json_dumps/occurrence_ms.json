@@ -3,20 +3,10 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "jad_id": "jad_occurence__1",
-    "occurrence": [
-      {
-        "id": 1,
-        "value": "Jerosolymorum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 4,
-        "value": "BNF, Latin 8865"
-      }
-    ],
-    "position_in_ms": "12r",
-    "main_ms": true,
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
     "facsimile_position": "",
     "created_by": {
       "id": 36,
@@ -27,24 +17,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2024-07-25"
+    "last_modified_on": "2024-08-02"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "jad_id": "jad_occurence__2",
-    "occurrence": [
-      {
-        "id": 1,
-        "value": "Jerosolymorum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est"
-      }
-    ],
-    "manuscript": [
-      {
-        "id": 3,
-        "value": "San Isidoro, MS 11"
-      }
-    ],
+    "occurrence": [],
+    "manuscript": [],
     "position_in_ms": "",
     "main_ms": false,
     "facsimile_position": "",
@@ -57,16 +37,26 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2024-07-25"
+    "last_modified_on": "2024-08-02"
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "jad_id": "jad_occurence__3",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 13,
+        "value": "Zacharias inter ipsa quasi renascentis templi cunabilia futurum ipsius excidium per Romanos predixit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 25,
+        "value": "BNF, Latin 3301C"
+      }
+    ],
+    "position_in_ms": "102v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -74,18 +64,28 @@
     },
     "created_on": "2024-07-25",
     "last_modified_by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 85,
+      "name": "amarx"
     },
-    "last_modified_on": "2024-07-26"
+    "last_modified_on": "2024-08-02"
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
     "jad_id": "jad_occurence__4",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 13,
+        "value": "Zacharias inter ipsa quasi renascentis templi cunabilia futurum ipsius excidium per Romanos predixit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 31,
+        "value": "BNF, Latin 2950"
+      }
+    ],
+    "position_in_ms": "166v",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -94,9 +94,69 @@
     },
     "created_on": "2024-07-26",
     "last_modified_by": {
-      "id": 36,
-      "name": "Ivana Dobcheva"
+      "id": 85,
+      "name": "amarx"
     },
-    "last_modified_on": "2024-07-26"
+    "last_modified_on": "2024-08-02"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "jad_id": "jad_occurence__5",
+    "occurrence": [
+      {
+        "id": 30,
+        "value": "hec destructio ab imperatoribus romanis a tyto et vaspasiano ob perfidiam Iudeorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 24,
+        "value": "Maz., MS 999"
+      }
+    ],
+    "position_in_ms": "38v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-02",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-02"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "jad_id": "jad_occurence__6",
+    "occurrence": [
+      {
+        "id": 30,
+        "value": "hec destructio ab imperatoribus romanis a tyto et vaspasiano ob perfidiam Iudeorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 30,
+        "value": "BNF, Latin 14937"
+      }
+    ],
+    "position_in_ms": "46v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-02",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-02"
   }
 }

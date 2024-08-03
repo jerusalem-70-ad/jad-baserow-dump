@@ -66,36 +66,9 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [
-      {
-        "id": 2,
-        "value": "BNF, Latin 8865"
-      },
-      {
-        "id": 3,
-        "value": "San Isidoro, MS 11"
-      }
-    ],
-    "occurrence_ms": [
-      {
-        "id": 1,
-        "value": "jad_occurence__1"
-      },
-      {
-        "id": 2,
-        "value": "jad_occurence__2"
-      }
-    ],
-    "main_ms": [
-      {
-        "id": 1,
-        "value": true
-      },
-      {
-        "id": 2,
-        "value": false
-      }
-    ]
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
   },
   "2": {
     "id": 2,
@@ -760,9 +733,36 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3301C"
+      },
+      {
+        "id": 2,
+        "value": "BNF, Latin 2950"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 3,
+        "value": "jad_occurence__3"
+      },
+      {
+        "id": 4,
+        "value": "jad_occurence__4"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 3,
+        "value": true
+      },
+      {
+        "id": 4,
+        "value": false
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -955,7 +955,7 @@
     "position_in_work_url": "",
     "text_paragraph": "Benigne fac, Domine, in bona voluntate tua Sion, ut aedificentur muri Jerusalem. Si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est. Et ne ad veteres historias nos ire oporteat, in promptu est destructio illius civitatis facta tempore papae Urbani secundi, regnante rege Francorum Philippo. Sed nunc, culpis nostris exigentibus, haec novissima captio et destructio facta est sub Urbano papa tertio, et sub alio Philippo rege Francorum. Sed est alia Jerusalem superna, et coelestis illa, quae est mater nostra, cujus muri in ruina, et lapsu Luciferi atque complicum p. 0677D | ejus, ex parte non modica corruerunt.",
     "note": "",
-    "explicit_contemp_ref": "",
+    "explicit_contemp_ref": "Fall of Jerusalem 1187",
     "biblical_references": [
       {
         "id": 41,
@@ -1831,9 +1831,36 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 999"
+      },
+      {
+        "id": 2,
+        "value": "BNF, Latin 14937"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 5,
+        "value": "jad_occurence__5"
+      },
+      {
+        "id": 6,
+        "value": "jad_occurence__6"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 5,
+        "value": true
+      },
+      {
+        "id": 6,
+        "value": false
+      }
+    ]
   },
   "31": {
     "id": 31,
@@ -8845,25 +8872,48 @@
   "154": {
     "id": 154,
     "order": "153.00000000000000000000",
-    "passage": "",
+    "passage": "Venit enim exercitus Romanus cum duce Vespasiano, et debellata est civitas, expugnati Judaei,",
     "jad_id": "jad_occurence__154",
     "language": null,
     "manuscript_to_delete": [],
-    "position_in_work": "",
+    "position_in_work": "B1, Ch27",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "Et post hebdomadas sexaginta duas occidetur Christus: et civitatem et sanctuarium dissipabit populus cum duce venturo, et finis ejus vastitas, et post finem belli statuta desolatio * . Ecce angelus iste postquam occisionem Christi praedixit, sic subsequenda haec omnia nuntiavit. Nunquid ista omnia post mortem Salvatoris civitati illi et civibus acciderunt? Nam postquam clamaverunt adversus p. 0558D | Filium Dei ut occideretur, successit illis post aliquod tempus vindicta a Domino. Venit enim exercitus Romanus cum duce Vespasiano, et debellata est civitas, expugnati Judaei, multaque millia interfecti, nullusque illuc modo permittitur accedere Judaeorum, ubi Christum crucifigendum acclamaverunt. Manifestum est, inquam, propter Christum Judaeis ista accidisse, conspirante sensu Scripturarum cum exitu rerum, et ordine temporum. Aut si nondum venit Christus, propter quem haec passuri praedicabantur? Cum venerit ergo patientur? Et ubi nunc filia Sion relinquenda, quae nulla est hodie *? Ubi civitates exurendae, quae in tumulis? Ubi dispersio gentis, quae jam extorris?",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
-    "work": [],
+    "biblical_references": [
+      {
+        "id": 20,
+        "value": "Dan. 9,24"
+      }
+    ],
+    "work": [
+      {
+        "id": 73,
+        "value": "De comprobatione sextae aetatis "
+      }
+    ],
     "position_move_to_occurrence_ms": "",
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 55,
+          "database_table_3499": 73
+        },
+        "value": "Iulianus, Toletanus"
+      }
+    ],
     "source_passage": [],
     "manuscript": [],
     "occurrence_ms": [],
@@ -8872,25 +8922,43 @@
   "155": {
     "id": 155,
     "order": "154.00000000000000000000",
-    "passage": "",
+    "passage": "Vespasianus anno primo imperii sui debellavit Judaeos",
     "jad_id": "jad_occurence__155",
     "language": null,
     "manuscript_to_delete": [],
-    "position_in_work": "",
+    "position_in_work": "B1, Ch26",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "Post adventum enim et passionem ejus jam non visio neque prophetes est, qui Christum nuntiet esse venturum. » Et post paululum, « Videamus, inquit, aliae septem et dimidia hebdomadae, quae sunt subdivisae in abscisione priorum hebdomadarum, in quo actu sunt adimpletae. Post Augustum enim qui supervixit post nativitatem Christi annis quindecim, cui successit Tiberius Caesar, et imperium habuit annis viginti duobus, menses septem, dies viginti octo, hujus quinto decimo anno imperii patitur Christus. Item Caius Caesar, qui et Caligula, annis tribus, menses octo, dies tredecim. Nero annis novem, diebus p. 0558A | tredecim. Galba menses septem, diebus viginti et octo. Vespasianus anno primo imperii sui debellavit Judaeos, et fiunt anni numero quinquaginta duo, menses sex. Nam imperavit annis undecim. Atque ita in die suae expugnationis Judaei impleverunt hebdomades septuaginta praedictas a Daniele. »",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 73,
+        "value": "De comprobatione sextae aetatis "
+      }
+    ],
     "position_move_to_occurrence_ms": "",
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 55,
+          "database_table_3499": 73
+        },
+        "value": "Iulianus, Toletanus"
+      }
+    ],
     "source_passage": [],
     "manuscript": [],
     "occurrence_ms": [],
@@ -8899,25 +8967,48 @@
   "156": {
     "id": 156,
     "order": "155.00000000000000000000",
-    "passage": "",
+    "passage": "expugnatione Judaeorum, qua per Vespasianum devicti sunt,",
     "jad_id": "jad_occurence__156",
     "language": null,
     "manuscript_to_delete": [],
-    "position_in_work": "",
+    "position_in_work": "B1, Ch26",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "Alii autem a primo Darii anno, quando et p. 0556D | Daniel hanc visionem vidit, usque ad adventum Christi evolutas fuisse hebdomadas sexaginta duas et dimidiam docuerunt, pro eo quod et in ipsa prophetia Danielis sic subdivisae monstrantur. Reliquas autem septem hebdomadas et dimidiam in passione Christi, et expugnatione Judaeorum, qua per Vespasianum devicti sunt, completas esse definiunt: alium ut pote ordinem regum et supputationem sequentes annorum, quam quod illi, quos praemisimus, tenuerunt. Sicut Tertullianus in libro quem contra Judaeos scripsit, praeloquitur, cujus jam breviter verba ponenda sunt. Sic enim ait *: « Unde igitur ostendimus, quia Christus venit intra sexaginta duas et p. 0557A | dimidiam hebdomadas? Numeremus a primo anno Darii, quoniam in ipso tempore ostenditur Danieli visio, quae dicit ei: Intellige prophetationes sermonis hujus * . Unde a primo anno Darii debemus computare, quando hanc vidit visionem Daniel. Videamus ergo quomodo anni impleantur usque ad adventum Christi. Darius regnavit annis undeviginti, Artaxerxes quadraginta. Ocus qui et Cyrus viginti quatuor. Argus annum unum. Alius Darius, qui et Melas nominatus est, annis viginti uno. Alexander Macedo annis decem. P",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
-    "work": [],
+    "biblical_references": [
+      {
+        "id": 20,
+        "value": "Dan. 9,24"
+      }
+    ],
+    "work": [
+      {
+        "id": 73,
+        "value": "De comprobatione sextae aetatis "
+      }
+    ],
     "position_move_to_occurrence_ms": "",
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 55,
+          "database_table_3499": 73
+        },
+        "value": "Iulianus, Toletanus"
+      }
+    ],
     "source_passage": [],
     "manuscript": [],
     "occurrence_ms": [],
@@ -8926,25 +9017,196 @@
   "157": {
     "id": 157,
     "order": "156.00000000000000000000",
-    "passage": "",
+    "passage": "Tempestas fuit, dum a Romanis flagellaretur",
     "jad_id": "jad_occurence__157",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch64",
+    "position_in_work_url": "",
+    "text_paragraph": "Prima carnis circumcidit actum, secunda honestat sensum, tertia ordinat affectum. Per primam de Aegypto redeunt, per secundam de Babylone veniunt, per tertiam Romanam cladem fugiunt. Siquidem per Aegyptum luxuria, ebrietas et crapula; per Babylonem confusio sensuum vanissima; per Romam, quae interpretatur sublimitas, vel elatio, designatur superbia. p. 0736A |\n64.\n\n¶\n  Sic fugere tempestates et turbines hujus mundi, per has vias ad patriam regredi voce Joannis admonemur apostoli. Si quis, inquit, diligit mundum, non est charitas Patris in eo, quia quidquid in mundo est concupiscentia carnis est, aut concupiscentia oculorum, aut superbia vitae: quae non sunt ex Patre, sed ex diabolo * . Per primam igitur redeunt sobrii et casti; per secundam honesti et quieti; per tertiam devoti et perfecti. Possunt etiam haec ad caput Ecclesiae Christum referri, et in ejus persecutione et passione tempestas et turbo inveniri. De hac tempestate per Psalmistam dicitur: Ita persequeris eos in tempestate tua, et in ira tua turbabis eos * . Judaeos siquidem Dominus in tempestate sua persecutus est, quia dum ab eis perferret p. 0736B | passionum stigmata, ab illis juste abstulit legis notitiam, et virtutum charismata. In tempestate sua eos persecutus est, quia dum eis humana pertulit, divina non immerito ab eis abstulit. Sequitur: Et in ira tua turbabis eos. Quosdam quidem turbat Dominus in ira, quosdam vero clementia. Clementer turbat, quos flagellis a gehenna revocat; in ira vero, quos justo judicio flagellari permittit perpetuo. Clementer turbat, de peccatis compungendo; in ira quoque naufragii, in sordibus vitiorum relinquendo. Clementer immittit interius contritionis et poenitentiae turbinem; immisericorditer, in tenebrarum et gehennae induci juste permittit caliginem. De primo turbine dicitur: Immittet angelus Domini in circuitu timentium eum, et eripiet eos * ; p. 0736C | de secundo: Indignationem et iram, et tribulationem per angelos malos * . Tempestas ergo Domini fuit, dum a Judaeorum vexaretur populo; turbo, dum pio magistro, simulato osculo, Ave, Rabbi * , a tradente diceretur discipulo. Tempestas fuit, dum a Romanis flagellaretur (XXVII, 26); turbo, dum a plebe Judaeorum, Crucifige, crucifige * , clamaretur. Tempestas in horto circa villam Gethsemani; turbo, dum duceretur praesuli. Tempestas ante crucem, turbo ante judicem.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 74,
+        "value": "Commentarius in Nahum "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism"
+      },
+      {
+        "id": 6,
+        "value": "Apocalypticism"
+      },
+      {
+        "id": 11,
+        "value": "Babylonian conquest Jerusalem"
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 55,
+          "database_table_3499": 74
+        },
+        "value": "Iulianus, Toletanus"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "158": {
+    "id": 158,
+    "order": "157.00000000000000000000",
+    "passage": "Titus imperator ab exercitu pronuntiatus, templum Hierosolymis incendit ac diruit",
+    "jad_id": "jad_occurence__158",
     "language": null,
     "manuscript_to_delete": [],
     "position_in_work": "",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "Vespasianus itaque cum Judaeos multis eorum oppidis captis, in urbe Hierosolymorum praecipue ob p. 0080A | diem festum congregatos, obsidionis clausisset, cognita Neronis morte, hortatu plurimorum regum et ducum imperium adeptus, relicto in castris ad procurationem obsidionis Hierosolymorum Tito filio, cognita etiam interfectione Vitellii, paulisper Alexandriae substitit. Titus vero magna ac diuturna obsidione Judaeos premens, machinis cunctisque bellicis molitus non sine multo suorum sanguine, tandem muros civitatis irrupit. Sed ad expugnandam interiorem templi munitionem quam reclusa multitudo sacerdotum ac principum tuebatur, majore et vi et mora opus fuit. Itaque Titus imperator ab exercitu pronuntiatus, templum Hierosolymis incendit ac diruit; quod a die conditionis primae usque ad diem eversionis ultimae manserat annos p. 0080B | mille octoginta novem, vel sicut a pluribus colligitur mille centum et duo. Muros urbis universos solo adaequavit. Sexcena millia Judaeorum eo bello interfecta Cornelius et Suetonius referunt. Josephus vero Judaeus qui ei tunc bello praefuit, et apud Vespasianum propter praedictum imperium veniam gratiamque meruerat, scribit undecies centena millia gladio et fame periisse; sed et praeter hos centum millia publice venundata, totoque orbe dispersa.",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 58,
+        "value": "Chronicon "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 47,
+          "database_table_3499": 58
+        },
+        "value": "Ado, von Vienne"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "159": {
+    "id": 159,
+    "order": "158.00000000000000000000",
+    "passage": "a prima aedificatione templi sub Salamone usque ad ultimam ejus ruinam sub ipso Vespasiano",
+    "jad_id": "jad_occurence__159",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "B1",
+    "position_in_work_url": "",
+    "text_paragraph": "Quod si studiosus lector plenius cupit addiscere, advertat, quia 13º anno imperii Neronis, quo anno Petrus et Paulus gloriose occubuerunt, qui erat annus ab inc. Dom. 72, Vespasianus a Nerone in Judeam cum exercitu missus est. Mortuo autem Nerone anno sequenti antequam Vespasianus Romam rediret, Galba, Otho et Vitellius regnaverunt anno 1 et mensibus 6. Vcspasianus ergo apud Judeam imperator appellatus est, qui et Capitolium aedificavit; cujus secundo anno Judeorum regnum finitum est, quum a prima aedificatione templi sub Salamone usque ad ultimam ejus ruinam sub ipso Vespasiano colligantur anni 1202. [REGINO.] Regnavit igitur Vespasianus a. 9, m. 11, d. 22. His 11 mensibus additi p. 0037C | 7 Neronis fiunt 19, et his 22 diebus additi illius 28 fiunt 50 dies i. e. annus et 7 menses et 20 dies, qui annus hoc in loco inseritur. Titus quoque regnavit a. 2, m. 2. Domicianus a. 15, m. 5. His 5 addamus 7 menses Vespasiani, completur annus, qui hic inseritur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 75,
+        "value": "Chronicon "
+      }
+    ],
     "position_move_to_occurrence_ms": "",
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 56,
+          "database_table_3499": 75
+        },
+        "value": "Hugo, Flaviniacensis"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "160": {
+    "id": 160,
+    "order": "159.00000000000000000000",
+    "passage": "in captionem scilicet transmigrationis, quae sub Tito et Vespasiano facta est",
+    "jad_id": "jad_occurence__160",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Rom., Ch11",
+    "position_in_work_url": "",
+    "text_paragraph": "Et hanc puto esse mensam, de qua dicit Salomon: Si redieris coenare ad mensam potentis, intelligibiliter intellige quae apponuntur tibi, et mitte manum tuam, sciens quia talia te parare oportet? Omnis ergo Scriptura mensa est sapientiae. Aliter, fiat mensa eorum coram ipsis in laqueum; hoc impletum est quando occisi sunt in vindictam crucis pascha manducantes, in laqueum scilicet obsidionis? Sive in p. 0102D | laqueum mensa divinae Scripturae Judaeis efficitur, quando ea quae de Christo prophetata sunt, non nisi ad litteram perverse interpretantur, in captionem scilicet transmigrationis, quae sub Tito et Vespasiano facta est. Potest autem et illa captio mensae hujus videri, quia Dominus eos cepit, cum ad eos dixit: Quid vobis videtur de Christo? Sequitur: Et non potuerunt ei respondere verbum *. Et in retributionem. Hoc est, in mali operis vindictam: fit autem et in scandalum mensa hoc modo. Ex Scripturis didicerunt Judaei, quia Christus in aeternum manet; Jesum vero videntes in carne, et non solum in carne, sed in morte, et morte crucis, scandalizabantur in eum, nescientes quia etsi passus est p. 0103A | ex infirmitate carnis, sed vivit ex virtute Dei. Dorsum eorum curvatum est semper. Neque enim debent ultra coelum despicere, qui in escatorem coeli peccaverunt: sed dorsum significat fortitudinem Judaeorum ad servitutem redactam extraneis gentibus.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 76,
+        "value": "Collectanea in omnes B. Pauli epistolas "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 15,
+        "value": "Vengeance"
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
     "occurrence_found_in": [],
-    "author_lookup": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 57,
+          "database_table_3499": 76
+        },
+        "value": "Sedulius, Scotus"
+      }
+    ],
     "source_passage": [],
     "manuscript": [],
     "occurrence_ms": [],
