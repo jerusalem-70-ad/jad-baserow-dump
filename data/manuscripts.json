@@ -37,7 +37,10 @@
     "institutional_context": [
       {
         "id": 1,
-        "value": "University of Paris"
+        "order": "1.00000000000000000000",
+        "name": "University of Paris",
+        "jad__id": "jad_institutional_context__1",
+        "part_of": []
       }
     ]
   },
@@ -79,7 +82,18 @@
     "institutional_context": [
       {
         "id": 7,
-        "value": "Augustinian canons León"
+        "order": "7.00000000000000000000",
+        "name": "Augustinian canons León",
+        "jad__id": "jad_institutional_context__7",
+        "part_of": [
+          {
+            "id": 8,
+            "order": "8.00000000000000000000",
+            "name": "Augustinian canons",
+            "jad__id": "jad_institutional_context__8",
+            "part_of": []
+          }
+        ]
       }
     ]
   },
@@ -150,7 +164,10 @@
     "institutional_context": [
       {
         "id": 1,
-        "value": "University of Paris"
+        "order": "1.00000000000000000000",
+        "name": "University of Paris",
+        "jad__id": "jad_institutional_context__1",
+        "part_of": []
       }
     ]
   },
@@ -279,7 +296,10 @@
     "institutional_context": [
       {
         "id": 6,
-        "value": "See of Canterbury"
+        "order": "6.00000000000000000000",
+        "name": "See of Canterbury",
+        "jad__id": "jad_institutional_context__6",
+        "part_of": []
       }
     ]
   },
@@ -387,7 +407,10 @@
     "institutional_context": [
       {
         "id": 1,
-        "value": "University of Paris"
+        "order": "1.00000000000000000000",
+        "name": "University of Paris",
+        "jad__id": "jad_institutional_context__1",
+        "part_of": []
       }
     ]
   },
@@ -487,7 +510,10 @@
     "institutional_context": [
       {
         "id": 1,
-        "value": "University of Paris"
+        "order": "1.00000000000000000000",
+        "name": "University of Paris",
+        "jad__id": "jad_institutional_context__1",
+        "part_of": []
       }
     ]
   },

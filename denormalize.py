@@ -109,6 +109,17 @@ for key, value in source_data.items():
         new_values.append(seed_data[f"{x['id']}"])
     value["library"] = new_values
 
+print("  - institutional_context")
+seed_file = os.path.join(DATA_FOLDER, "institutional_context.json")
+with open(seed_file, "r", encoding="utf-8") as f:
+    seed_data = json.load(f)
+for key, value in source_data.items():
+    old_values = value["institutional_context"]
+    new_values = []
+    for x in old_values:
+        new_values.append(seed_data[f"{x['id']}"])
+    value["institutional_context"] = new_values
+
 print(f"  saving MANUSCRIPTS as {final_file}")
 with open(final_file, "w", encoding="utf-8") as f:
     json.dump(source_data, f, ensure_ascii=False, indent=2)
