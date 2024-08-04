@@ -163,17 +163,6 @@ for key, value in source_data.items():
         new_values.append(seed_data[f"{x['id']}"])
     value["work"] = new_values
 
-print("  - work")
-seed_file = os.path.join(DATA_FOLDER, "works.json")
-with open(seed_file, "r", encoding="utf-8") as f:
-    seed_data = json.load(f)
-for key, value in source_data.items():
-    old_values = value["work"]
-    new_values = []
-    for x in old_values:
-        new_values.append(seed_data[f"{x['id']}"])
-    value["work"] = new_values
-
 print("  - manuscript")
 seed_file = os.path.join(DATA_FOLDER, "manuscripts.json")
 with open(seed_file, "r", encoding="utf-8") as f:
