@@ -1184,7 +1184,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "around 900",
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
@@ -2143,7 +2143,20 @@
             "notes": null
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 12,
+            "value": "St.Gen., MS 2787"
+          },
+          {
+            "id": 13,
+            "value": "BL, Arundel 322"
+          },
+          {
+            "id": 14,
+            "value": "BL, Royal 8 F XVII"
+          }
+        ],
         "title": "Sermones",
         "genre": {
           "id": 14726,
@@ -12725,7 +12738,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "around 400",
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
@@ -12811,7 +12824,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "around 400",
         "notes": "",
         "notes__author": "",
         "institutional_context": [],

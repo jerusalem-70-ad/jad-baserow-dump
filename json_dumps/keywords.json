@@ -106,7 +106,7 @@
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "name": "Babylonian conquest Jerusalem",
+    "name": "Babylonian conquest of Jerusalem",
     "short_description": "",
     "jad_id": "jad_keyword__11",
     "part_of": []
@@ -149,6 +149,61 @@
     "name": "Concurrence Easter",
     "short_description": "",
     "jad_id": "jad_keyword__16",
+    "part_of": []
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "name": "Eschatological conversion Jews",
+    "short_description": "",
+    "jad_id": "jad_keyword__17",
+    "part_of": [
+      {
+        "id": 6,
+        "value": "Apocalypticism"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Greek conquest of Jerusalem",
+    "short_description": "",
+    "jad_id": "jad_keyword__18",
+    "part_of": [
+      {
+        "id": 4,
+        "value": "Another conquest of Jerusalem"
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "Persian conquest of Jerusalem",
+    "short_description": "",
+    "jad_id": "jad_keyword__19",
+    "part_of": [
+      {
+        "id": 4,
+        "value": "Another conquest of Jerusalem"
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "name": "Story of Mary/Miriam",
+    "short_description": "",
+    "jad_id": "jad_keyword__20",
+    "part_of": []
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "name": "",
+    "short_description": "",
+    "jad_id": "jad_keyword__21",
     "part_of": []
   }
 }

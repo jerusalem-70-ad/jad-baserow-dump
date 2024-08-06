@@ -51,7 +51,20 @@
         "value": "Petrus, von Blois"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 12,
+        "value": "St.Gen., MS 2787"
+      },
+      {
+        "id": 13,
+        "value": "BL, Arundel 322"
+      },
+      {
+        "id": 14,
+        "value": "BL, Royal 8 F XVII"
+      }
+    ],
     "title": "Sermones",
     "genre": {
       "id": 14726,
@@ -631,7 +644,7 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "around 900",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -1988,7 +2001,7 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "around 400",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2014,7 +2027,7 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "around 400",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2689,7 +2702,12 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -2711,11 +2729,16 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "80": {
     "id": 80,
@@ -2737,11 +2760,16 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "81": {
     "id": 81,
@@ -2763,11 +2791,16 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "82": {
     "id": 82,
@@ -2793,7 +2826,12 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "83": {
     "id": 83,
@@ -2819,7 +2857,12 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "84": {
     "id": 84,
@@ -2845,7 +2888,12 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "85": {
     "id": 85,
@@ -2871,7 +2919,12 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "86": {
     "id": 86,
@@ -2893,11 +2946,21 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": []
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "87": {
     "id": 87,
@@ -2919,11 +2982,21 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": []
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "88": {
     "id": 88,
@@ -2945,11 +3018,21 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": []
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "89": {
     "id": 89,
@@ -2971,11 +3054,21 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": []
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "90": {
     "id": 90,
@@ -2997,11 +3090,21 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": []
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "91": {
     "id": 91,
@@ -3032,7 +3135,12 @@
         "value": "Benedictines"
       }
     ],
-    "published_edition": []
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
   },
   "92": {
     "id": 92,
@@ -3063,6 +3171,509 @@
         "value": "Benedictines"
       }
     ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      },
+      {
+        "id": 7,
+        "value": "Corpus Christianorum"
+      }
+    ]
+  },
+  "93": {
+    "id": 93,
+    "order": "92.00000000000000000000",
+    "name": "Expositio in Apocalypsim ",
+    "jad_id": "jad_work__93",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio in Apocalypsim",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "94": {
+    "id": 94,
+    "order": "93.00000000000000000000",
+    "name": "Commentaria in duodecim prophetas minores ",
+    "jad_id": "jad_work__94",
+    "author": [
+      {
+        "id": 16,
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentaria in duodecim prophetas minores",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "early 12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "95": {
+    "id": 95,
+    "order": "94.00000000000000000000",
+    "name": "Commentary Johannes ",
+    "jad_id": "jad_work__95",
+    "author": [
+      {
+        "id": 16,
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Johannes",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "early 12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "96": {
+    "id": 96,
+    "order": "95.00000000000000000000",
+    "name": "Commentary Job ",
+    "jad_id": "jad_work__96",
+    "author": [
+      {
+        "id": 16,
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Job",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "early 12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "97": {
+    "id": 97,
+    "order": "96.00000000000000000000",
+    "name": "Commentary Ecclesiastes ",
+    "jad_id": "jad_work__97",
+    "author": [
+      {
+        "id": 16,
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Ecclesiastes",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "early 12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "98": {
+    "id": 98,
+    "order": "97.00000000000000000000",
+    "name": "De glorificatione Trinitatis ",
+    "jad_id": "jad_work__98",
+    "author": [
+      {
+        "id": 16,
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De glorificatione Trinitatis",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "early 12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "99": {
+    "id": 99,
+    "order": "98.00000000000000000000",
+    "name": "Commentary Genesis ",
+    "jad_id": "jad_work__99",
+    "author": [
+      {
+        "id": 16,
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Genesis",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "early 12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "100": {
+    "id": 100,
+    "order": "99.00000000000000000000",
+    "name": "Commentary Deutoronomy ",
+    "jad_id": "jad_work__100",
+    "author": [
+      {
+        "id": 16,
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Deutoronomy",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "early 12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "101": {
+    "id": 101,
+    "order": "100.00000000000000000000",
+    "name": "Commentary KIngs ",
+    "jad_id": "jad_work__101",
+    "author": [
+      {
+        "id": 16,
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary KIngs",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "early 12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "102": {
+    "id": 102,
+    "order": "101.00000000000000000000",
+    "name": "Commentary Psalms ",
+    "jad_id": "jad_work__102",
+    "author": [
+      {
+        "id": 16,
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Psalms",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "early 12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "103": {
+    "id": 103,
+    "order": "102.00000000000000000000",
+    "name": "De victoria verbi Dei ",
+    "jad_id": "jad_work__103",
+    "author": [
+      {
+        "id": 16,
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De victoria verbi Dei",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "early 12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "104": {
+    "id": 104,
+    "order": "103.00000000000000000000",
+    "name": "Dialogus inter Christianum et Judaeum ",
+    "jad_id": "jad_work__104",
+    "author": [
+      {
+        "id": 16,
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Dialogus inter Christianum et Judaeum",
+    "genre": {
+      "id": 14728,
+      "value": "Anti-Jewish treatise",
+      "color": "darker-purple"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "early 12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "105": {
+    "id": 105,
+    "order": "104.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__105",
+    "author": [
+      {
+        "id": 59,
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 34,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 2,
+        "value": "Benedictines Auxerre"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum"
+      }
+    ]
+  },
+  "106": {
+    "id": 106,
+    "order": "105.00000000000000000000",
+    "name": "Commentary Matthew ",
+    "jad_id": "jad_work__106",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Matthew",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "around 400",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
     "published_edition": []
   }
 }

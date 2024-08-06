@@ -12,7 +12,7 @@
     "manuscript_to_delete": [],
     "position_in_work": "B5, Ch19",
     "position_in_work_url": "",
-    "text_paragraph": "Quibus ipse ait: Dico vobis quia si hi tacuerint, lapides clamabunt. Crucifixo Domino stabant omnes noti ejus a longe, Deum confiteri timebant, quem fixum ligno videbant, sed, his tacentibus, lapides et saxa Regem qui venit in nomine Domini magno clamore canebant. Emisit enim spiritum, et ecce terra mota est, et petrae scissae sunt, et monumenta aperta sunt: quemque homines vel timore vel perfidia confiteri trepidant, hunc durissima etiam elementa Deum mundi ac Dominum aperto ore praedicant. Verum altiori mysterio gentium nationes incredulas aliquando ac duricordes lapidum nomine demonstrat, 92.0570C | quibus ablato corde lapideo dedit cor carneum (Ezech. XI), hoc est, sensibile et humanum, quo Deum Creatoremque suum credere, laudare, et cernere possent. Etsi ergo turbae tacuerint hominum, lapides clamabunt, quia caecitas ex parte contigit in Israel, donec plenitudo gentium intraret, et sic omnis Israel salvus fieret (Rom. III).",
+    "text_paragraph": "Quibus ipse ait: Dico vobis quia si hi tacuerint, lapides clamabunt. Crucifixo Domino stabant omnes noti ejus a longe, Deum confiteri timebant, quem fixum ligno videbant, sed, his tacentibus, lapides et saxa Regem qui venit in nomine Domini magno clamore canebant. Emisit enim spiritum, et ecce terra mota est, et petrae scissae sunt, et monumenta aperta sunt: quemque homines vel timore vel perfidia confiteri trepidant, hunc durissima etiam elementa Deum mundi ac Dominum aperto ore praedicant. Verum altiori mysterio gentium nationes incredulas aliquando ac duricordes lapidum nomine demonstrat, 92.0570C | quibus ablato corde lapideo dedit cor carneum (Ezech. XI), hoc est, sensibile et humanum, quo Deum Creatoremque suum credere, laudare, et cernere possent. Etsi ergo turbae tacuerint hominum, lapides clamabunt, quia caecitas ex parte contigit in Israel, donec plenitudo gentium intraret, et sic omnis Israel salvus fieret (Rom. III).\nEt ut appropinquavit, videns civitatem, flevit super illam, diceus: Quia si cognovisses et tu.   Quod flente Domino illa Jerosolymorum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est, nullus qui historiam eversionis ejusdem legit ignorat.   Sed quaerendum prius est quid sit quod dicitur: Videns civitatem, flevit super illam, dicens: p. 0570D | Quia si cognovisses et tu.   Flevit etenim pius Redemptor ruinam perfidae civitatis, quam ipsa civitas non cognoscebat esse venturam.",
     "note": null,
     "explicit_contemp_ref": null,
     "biblical_references": [
@@ -31,6 +31,10 @@
       {
         "id": 40,
         "value": "Röm. 11,25"
+      },
+      {
+        "id": 145,
+        "value": "Ez. 11,19"
       }
     ],
     "work": [
@@ -65,7 +69,12 @@
         "value": "Beda, Heiliger"
       }
     ],
-    "source_passage": [],
+    "source_passage": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subuersio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
     "manuscript": [],
     "occurrence_ms": [],
     "main_ms": []
@@ -125,9 +134,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 4,
+        "value": "St.Gen., MS 1423"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 1,
+        "value": "jad_occurence__1"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 1,
+        "value": true
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -153,11 +177,30 @@
       }
     ],
     "position_move_to_occurrence_ms": null,
-    "sources_used": [],
-    "keywords": [],
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 16,
+        "value": "Concurrence Easter"
+      },
+      {
+        "id": 18,
+        "value": "Greek conquest of Jerusalem"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
-    "liturgical_references": [],
+    "liturgical_references": [
+      {
+        "id": 5,
+        "value": "Easter"
+      }
+    ],
     "occurrence_found_in": [
       {
         "id": 2,
@@ -203,7 +246,16 @@
     ],
     "position_move_to_occurrence_ms": null,
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 6,
+        "value": "Apocalypticism"
+      },
+      {
+        "id": 18,
+        "value": "Greek conquest of Jerusalem"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
@@ -277,9 +329,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 492"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 2,
+        "value": "jad_occurence__2"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 2,
+        "value": true
+      }
+    ]
   },
   "6": {
     "id": 6,
@@ -331,9 +398,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 492"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 7,
+        "value": "jad_occurence__7"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 7,
+        "value": true
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -385,9 +467,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 4,
+        "value": "St.Gen., MS 1422"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 8,
+        "value": "jad_occurence__8"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 8,
+        "value": true
+      }
+    ]
   },
   "8": {
     "id": 8,
@@ -444,9 +541,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 6,
+        "value": "Lam., MS 144"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 9,
+        "value": "jad_occurence__9"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 9,
+        "value": true
+      }
+    ]
   },
   "9": {
     "id": 9,
@@ -493,9 +605,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3737"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 10,
+        "value": "jad_occurence__10"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 10,
+        "value": true
+      }
+    ]
   },
   "10": {
     "id": 10,
@@ -552,9 +679,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3829"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 11,
+        "value": "jad_occurence__11"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 11,
+        "value": false
+      }
+    ]
   },
   "11": {
     "id": 11,
@@ -606,9 +748,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3281"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 12,
+        "value": "jad_occurence__12"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 12,
+        "value": true
+      }
+    ]
   },
   "12": {
     "id": 12,
@@ -660,9 +817,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3281"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 13,
+        "value": "jad_occurence__13"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 13,
+        "value": true
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -819,9 +991,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3301C"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 14,
+        "value": "jad_occurence__14"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 14,
+        "value": true
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -848,7 +1035,20 @@
     ],
     "position_move_to_occurrence_ms": "",
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 9,
+        "value": "First Crusade"
+      },
+      {
+        "id": 10,
+        "value": "Typology"
+      },
+      {
+        "id": 18,
+        "value": "Greek conquest of Jerusalem"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 1,
@@ -927,9 +1127,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 8865"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 15,
+        "value": "jad_occurence__15"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 15,
+        "value": true
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -991,6 +1206,14 @@
       {
         "id": 9,
         "value": "First Crusade"
+      },
+      {
+        "id": 10,
+        "value": "Typology"
+      },
+      {
+        "id": 11,
+        "value": "Babylonian conquest of Jerusalem"
       }
     ],
     "part_of_cluster": [
@@ -1022,9 +1245,36 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "BL, Arundel 322"
+      },
+      {
+        "id": 7,
+        "value": "BL, Royal 8 F XVII"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 16,
+        "value": "jad_occurence__16"
+      },
+      {
+        "id": 17,
+        "value": "jad_occurence__17"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 16,
+        "value": false
+      },
+      {
+        "id": 17,
+        "value": false
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -1120,9 +1370,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 18,
+        "value": "jad_occurence__18"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 18,
+        "value": true
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -1206,9 +1471,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 19,
+        "value": "jad_occurence__19"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 19,
+        "value": true
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -1284,12 +1564,17 @@
       "color": "dark-yellow"
     },
     "manuscript_to_delete": [],
-    "position_in_work": "",
+    "position_in_work": "B2, Ch27",
     "position_in_work_url": "",
-    "text_paragraph": "« In siccitate messis illius conterentur mulieres, venientes et docentes eam. » Metaphorice loquitur Propheta, per messem vel vineam volens ostendere plebem Israeliticam. Mulieres appellat hic synagogas diversarum gentium Aegyptiorum, Philistinorum caeterarumque. Quando autem Jerusalem destructa est a Romanis, et omnis populus ejus praeda fuit gentibus synagogae diversarum gentium quae in circuitu ejus erant, convenerunt ad illam, et contritae sunt dolore et luctu, non de Domini passione, sed de subversione tantae civitatis. Vel etiam Judaeorum p. 0846B | mulierum sapientes quae dispersae erant per diversas regiones, quaeque solitae erant venire ante illam captivitatem, et docere eos qualiter se praepararent contra hostes",
+    "text_paragraph": "« In siccitate messis illius conterentur mulieres, venientes et docentes eam. » Metaphorice loquitur Propheta, per messem vel vineam volens ostendere plebem Israeliticam. Mulieres appellat hic synagogas diversarum gentium Aegyptiorum, Philistinorum caeterarumque. Quando autem Jerusalem destructa est a Romanis, et omnis populus ejus praeda fuit gentibus synagogae diversarum gentium quae in circuitu ejus erant, convenerunt ad illam, et contritae sunt dolore et luctu, non de Domini passione, sed de subversione tantae civitatis. Vel etiam Judaeorum p. 0846B | mulierum sapientes quae dispersae erant per diversas regiones, quaeque solitae erant venire ante illam captivitatem, et docere eos qualiter se praepararent contra hostes: cum audissent eam dirutam et venissent videre ignominiam suorum propinquorum, contritae sunt et attritae dolore nimio.   Sicut enim verecundum fuit illud quod Debbora ivit in bellum, et hoc quod Orda mulier imminente captivitate Chaldaeorum tacentibus viris prophetavit, sic quoque turpe admodum fuit, quod mulieres ad docendum illos veniebant imminente captivitate Romanorum.   In siccitate ergo vastationis Jerusalem mulieres quae solitae erant venire et docere eos, contritae sunt, videntes ignominiam suorum.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 147,
+        "value": "Is. 27,11"
+      }
+    ],
     "work": [
       {
         "id": 26,
@@ -1612,13 +1897,22 @@
     ],
     "position_move_to_occurrence_ms": "",
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 16,
+        "value": "Concurrence Easter"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [
       {
         "id": 1,
         "value": "X Sunday after Holy Trinity"
+      },
+      {
+        "id": 5,
+        "value": "Easter"
       }
     ],
     "occurrence_found_in": [
@@ -1922,9 +2216,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 999"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 20,
+        "value": "jad_occurence__20"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 20,
+        "value": true
+      }
+    ]
   },
   "32": {
     "id": 32,
@@ -1981,9 +2290,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 999"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 21,
+        "value": "jad_occurence__21"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 21,
+        "value": true
+      }
+    ]
   },
   "33": {
     "id": 33,
@@ -2045,9 +2369,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 999"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 22,
+        "value": "jad_occurence__22"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 22,
+        "value": true
+      }
+    ]
   },
   "34": {
     "id": 34,
@@ -2078,7 +2417,12 @@
       }
     ],
     "position_move_to_occurrence_ms": "",
-    "sources_used": [],
+    "sources_used": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius"
+      }
+    ],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
@@ -2098,7 +2442,12 @@
         "value": "Paschasius, Radbertus"
       }
     ],
-    "source_passage": [],
+    "source_passage": [
+      {
+        "id": 213,
+        "value": "Romanos intelligamus, sub duce Vespasiano et Tito, qui occisis Judaeae populis, praevaricatricem succenderint civitatem"
+      }
+    ],
     "manuscript": [],
     "occurrence_ms": [],
     "main_ms": []
@@ -2715,7 +3064,20 @@
     "text_paragraph": "Lectionem breuem sancti euangelii breui, si possum, uolo sermone percurrere, ut illis in ea prolixior detur intentio, qui sciunt ex paucis multa cogitare. Quod flente Domino illa Ierosolymorum subuersio describatur, quae a Vespasiano et Tito romanis principibus facta est, nullus qui historiam euersionis eiusdem legit ignorat. Romani enim principes denuntiantur cum dicitur: Quia uenient dies in te, et circumdabunt te inimici tui uallo, et circumdabunt te, et coangustabunt te undique, et ad terram consternent te et filios tuos qui in te sunt. Hoc quoque quod additur: Et non relinquent in te lapidem super lapidem, etiam ipsa iam eiusdem ciuitatis transmigratio testatur, quia dum nunc in eo loco constructa est, ubi extra portam fuerat Dominus crucifixus, prior illa Ierusalem, ut dicitur, funditus est euersa.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 1,
+        "value": "Lk. 19,41"
+      },
+      {
+        "id": 3,
+        "value": "Lk. 19,43"
+      },
+      {
+        "id": 33,
+        "value": "Lk. 21,6"
+      }
+    ],
     "work": [
       {
         "id": 36,
@@ -2814,6 +3176,10 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [
+      {
+        "id": 50,
+        "value": "Ps. 79,14"
+      },
       {
         "id": 56,
         "value": "Ps. 78,1"
@@ -3107,9 +3473,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 14426"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 23,
+        "value": "jad_occurence__23"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 23,
+        "value": true
+      }
+    ]
   },
   "53": {
     "id": 53,
@@ -3183,9 +3564,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 1014"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 24,
+        "value": "jad_occurence__24"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 24,
+        "value": true
+      }
+    ]
   },
   "54": {
     "id": 54,
@@ -3242,9 +3638,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3567"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 25,
+        "value": "jad_occurence__25"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 25,
+        "value": true
+      }
+    ]
   },
   "55": {
     "id": 55,
@@ -3388,10 +3799,19 @@
     ],
     "position_move_to_occurrence_ms": "",
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 16,
+        "value": "Concurrence Easter"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [
+      {
+        "id": 5,
+        "value": "Easter"
+      },
       {
         "id": 10,
         "value": "In litania maiore"
@@ -3569,7 +3989,12 @@
     ],
     "position_move_to_occurrence_ms": "",
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 16,
+        "value": "Concurrence Easter"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 1,
@@ -3581,6 +4006,10 @@
       {
         "id": 1,
         "value": "X Sunday after Holy Trinity"
+      },
+      {
+        "id": 5,
+        "value": "Easter"
       }
     ],
     "occurrence_found_in": [
@@ -4000,9 +4429,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 26,
+        "value": "jad_occurence__26"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 26,
+        "value": true
+      }
+    ]
   },
   "68": {
     "id": 68,
@@ -4081,9 +4525,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 27,
+        "value": "jad_occurence__27"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 27,
+        "value": true
+      }
+    ]
   },
   "69": {
     "id": 69,
@@ -4150,9 +4609,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 28,
+        "value": "jad_occurence__28"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 28,
+        "value": true
+      }
+    ]
   },
   "70": {
     "id": 70,
@@ -4214,9 +4688,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 29,
+        "value": "jad_occurence__29"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 29,
+        "value": true
+      }
+    ]
   },
   "71": {
     "id": 71,
@@ -4278,9 +4767,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 30,
+        "value": "jad_occurence__30"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 30,
+        "value": true
+      }
+    ]
   },
   "72": {
     "id": 72,
@@ -4321,7 +4825,12 @@
     ],
     "position_move_to_occurrence_ms": "",
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 16,
+        "value": "Concurrence Easter"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 2,
@@ -4333,6 +4842,10 @@
       {
         "id": 4,
         "value": "Maundy Thursday"
+      },
+      {
+        "id": 5,
+        "value": "Easter"
       }
     ],
     "occurrence_found_in": [
@@ -4351,9 +4864,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 31,
+        "value": "jad_occurence__31"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 31,
+        "value": true
+      }
+    ]
   },
   "73": {
     "id": 73,
@@ -4436,9 +4964,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 32,
+        "value": "jad_occurence__32"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 32,
+        "value": true
+      }
+    ]
   },
   "74": {
     "id": 74,
@@ -4509,9 +5052,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 33,
+        "value": "jad_occurence__33"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 33,
+        "value": true
+      }
+    ]
   },
   "75": {
     "id": 75,
@@ -4578,9 +5136,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 34,
+        "value": "jad_occurence__34"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 34,
+        "value": true
+      }
+    ]
   },
   "76": {
     "id": 76,
@@ -4651,9 +5224,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 35,
+        "value": "jad_occurence__35"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 35,
+        "value": true
+      }
+    ]
   },
   "77": {
     "id": 77,
@@ -4720,9 +5308,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 36,
+        "value": "jad_occurence__36"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 36,
+        "value": true
+      }
+    ]
   },
   "78": {
     "id": 78,
@@ -4783,9 +5386,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 177"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 37,
+        "value": "jad_occurence__37"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 37,
+        "value": true
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -5377,9 +5995,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 38,
+        "value": "jad_occurence__38"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 38,
+        "value": true
+      }
+    ]
   },
   "90": {
     "id": 90,
@@ -5436,9 +6069,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 39,
+        "value": "jad_occurence__39"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 39,
+        "value": true
+      }
+    ]
   },
   "91": {
     "id": 91,
@@ -5503,9 +6151,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 40,
+        "value": "jad_occurence__40"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 40,
+        "value": true
+      }
+    ]
   },
   "92": {
     "id": 92,
@@ -5557,9 +6220,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 41,
+        "value": "jad_occurence__41"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 41,
+        "value": true
+      }
+    ]
   },
   "93": {
     "id": 93,
@@ -5616,9 +6294,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 42,
+        "value": "jad_occurence__42"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 42,
+        "value": true
+      }
+    ]
   },
   "94": {
     "id": 94,
@@ -5675,9 +6368,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 43,
+        "value": "jad_occurence__43"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 43,
+        "value": true
+      }
+    ]
   },
   "95": {
     "id": 95,
@@ -5729,9 +6437,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 44,
+        "value": "jad_occurence__44"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 44,
+        "value": true
+      }
+    ]
   },
   "96": {
     "id": 96,
@@ -5783,9 +6506,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 45,
+        "value": "jad_occurence__45"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 45,
+        "value": true
+      }
+    ]
   },
   "97": {
     "id": 97,
@@ -5850,9 +6588,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 46,
+        "value": "jad_occurence__46"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 46,
+        "value": true
+      }
+    ]
   },
   "98": {
     "id": 98,
@@ -5904,9 +6657,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 47,
+        "value": "jad_occurence__47"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 47,
+        "value": true
+      }
+    ]
   },
   "99": {
     "id": 99,
@@ -5963,9 +6731,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 48,
+        "value": "jad_occurence__48"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 48,
+        "value": true
+      }
+    ]
   },
   "100": {
     "id": 100,
@@ -6022,9 +6805,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 49,
+        "value": "jad_occurence__49"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 49,
+        "value": true
+      }
+    ]
   },
   "101": {
     "id": 101,
@@ -6076,9 +6874,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 50,
+        "value": "jad_occurence__50"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 50,
+        "value": true
+      }
+    ]
   },
   "102": {
     "id": 102,
@@ -6135,9 +6948,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 51,
+        "value": "jad_occurence__51"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 51,
+        "value": true
+      }
+    ]
   },
   "103": {
     "id": 103,
@@ -6172,7 +7000,7 @@
         "value": "Commentary Daniel "
       }
     ],
-    "position_move_to_occurrence_ms": "f.179v",
+    "position_move_to_occurrence_ms": "179v",
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
@@ -6194,9 +7022,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 52,
+        "value": "jad_occurence__52"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 52,
+        "value": true
+      }
+    ]
   },
   "104": {
     "id": 104,
@@ -6263,7 +7106,7 @@
       "color": "dark-yellow"
     },
     "manuscript_to_delete": [],
-    "position_in_work": "",
+    "position_in_work": "B2, Ch3",
     "position_in_work_url": "",
     "text_paragraph": "(Vers. 5.) Et corruet populus vir ad virum, unusquisque ad proximum suum: tumultuabitur puer contra senem, et ignobilis contra nobilem. Quando juvenes fuerint principes, et illusores Domini, quales propheticus sermo describit, tunc nec dignitatis, p. 0064B | nec aetatis, nec scientiae ullus ordo servabitur; sed rebellabunt pueri senibus, et ignobiles nobilibus, et mutuo corruent. Et implebitur illud Apostolicum: Mordentes invicem, consumpti estis ab invicem (Galat. V, 15). Haec sub Tito filio Vespasiani accidisse populo Judaeorum, scribit Josephus (Lib. V de Bello Jud.): et quod, cum expugnarentur a Romanis, fuerit Jerusalem in tres partes divisa seditio: et alii arcem et Templum, alii inferiorem, alii superiorem partem urbis tenuerint.",
     "note": "",
@@ -7209,7 +8052,12 @@
     "text_paragraph": "Reliqui vero tenuerunt servos ejus, et contumelia affectos occiderunt. Rex autem cum audisset iratus est, et missis exercitibus suis perdidit homicidas illos, et civitatem illorum succendit. (Chrys.) Hoc est, Romanos sub duce Vespasiano et Tito, qui occisis Judaeae populis praevaricatricem succenderent civitatem. (Greg.) Sive aliter, homicidas perdidit, qui persequentes intervenit; civitatem illorum succendit igni, quia illorum non solum animae, sed caro quoque in qua habitaverant aeternae gehennae flamma cruciatur. p. 1055A | Missis vero exercitibus exstinxisse homicidas dicitur, quia in hominibus omne judicium per angelos exhibetur.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 28,
+        "value": "Mt. 22,7"
+      }
+    ],
     "work": [
       {
         "id": 66,
@@ -7219,15 +8067,20 @@
     "position_move_to_occurrence_ms": "",
     "sources_used": [
       {
-        "id": 28,
-        "value": "Gregor, der Grosse"
-      },
-      {
-        "id": 51,
-        "value": "Johannes, Chrysostomus"
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius"
       }
     ],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism"
+      },
+      {
+        "id": 6,
+        "value": "Apocalypticism"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
@@ -7246,7 +8099,12 @@
         "value": "Hrabanus, Maurus"
       }
     ],
-    "source_passage": [],
+    "source_passage": [
+      {
+        "id": 213,
+        "value": "Romanos intelligamus, sub duce Vespasiano et Tito, qui occisis Judaeae populis, praevaricatricem succenderint civitatem"
+      }
+    ],
     "manuscript": [],
     "occurrence_ms": [],
     "main_ms": []
@@ -7732,9 +8590,24 @@
       }
     ],
     "source_passage": [],
-    "manuscript": [],
-    "occurrence_ms": [],
-    "main_ms": []
+    "manuscript": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 53,
+        "value": "jad_occurence__53"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 53,
+        "value": true
+      }
+    ]
   },
   "132": {
     "id": 132,
@@ -7760,8 +8633,18 @@
       }
     ],
     "position_move_to_occurrence_ms": "",
-    "sources_used": [],
-    "keywords": [],
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 16,
+        "value": "Concurrence Easter"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 1,
@@ -7769,7 +8652,12 @@
       }
     ],
     "authority_discourse": 0,
-    "liturgical_references": [],
+    "liturgical_references": [
+      {
+        "id": 5,
+        "value": "Easter"
+      }
+    ],
     "occurrence_found_in": [
       {
         "id": 2,
@@ -8560,10 +9448,19 @@
     ],
     "position_move_to_occurrence_ms": "",
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 16,
+        "value": "Concurrence Easter"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [
+      {
+        "id": 5,
+        "value": "Easter"
+      },
       {
         "id": 6,
         "value": "Pentecost"
@@ -8680,7 +9577,12 @@
       }
     ],
     "position_move_to_occurrence_ms": "",
-    "sources_used": [],
+    "sources_used": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius"
+      }
+    ],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
@@ -8700,7 +9602,12 @@
         "value": "Smaragdus, Sancti Michaelis"
       }
     ],
-    "source_passage": [],
+    "source_passage": [
+      {
+        "id": 213,
+        "value": "Romanos intelligamus, sub duce Vespasiano et Tito, qui occisis Judaeae populis, praevaricatricem succenderint civitatem"
+      }
+    ],
     "manuscript": [],
     "occurrence_ms": [],
     "main_ms": []
@@ -8884,7 +9791,11 @@
     "order": "153.00000000000000000000",
     "passage": "Venit enim exercitus Romanus cum duce Vespasiano, et debellata est civitas, expugnati Judaei,",
     "jad_id": "jad_occurence__154",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B1, Ch27",
     "position_in_work_url": "",
@@ -8934,7 +9845,11 @@
     "order": "154.00000000000000000000",
     "passage": "Vespasianus anno primo imperii sui debellavit Judaeos",
     "jad_id": "jad_occurence__155",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B1, Ch26",
     "position_in_work_url": "",
@@ -8979,7 +9894,11 @@
     "order": "155.00000000000000000000",
     "passage": "expugnatione Judaeorum, qua per Vespasianum devicti sunt,",
     "jad_id": "jad_occurence__156",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B1, Ch26",
     "position_in_work_url": "",
@@ -9029,7 +9948,11 @@
     "order": "156.00000000000000000000",
     "passage": "Tempestas fuit, dum a Romanis flagellaretur",
     "jad_id": "jad_occurence__157",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "Ch64",
     "position_in_work_url": "",
@@ -9056,7 +9979,7 @@
       },
       {
         "id": 11,
-        "value": "Babylonian conquest Jerusalem"
+        "value": "Babylonian conquest of Jerusalem"
       }
     ],
     "part_of_cluster": [],
@@ -9087,7 +10010,11 @@
     "order": "157.00000000000000000000",
     "passage": "Titus imperator ab exercitu pronuntiatus, templum Hierosolymis incendit ac diruit",
     "jad_id": "jad_occurence__158",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "",
     "position_in_work_url": "",
@@ -9137,7 +10064,11 @@
     "order": "158.00000000000000000000",
     "passage": "a prima aedificatione templi sub Salamone usque ad ultimam ejus ruinam sub ipso Vespasiano",
     "jad_id": "jad_occurence__159",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B1",
     "position_in_work_url": "",
@@ -9182,7 +10113,11 @@
     "order": "159.00000000000000000000",
     "passage": "in captionem scilicet transmigrationis, quae sub Tito et Vespasiano facta est",
     "jad_id": "jad_occurence__160",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "Rom., Ch11",
     "position_in_work_url": "",
@@ -9202,12 +10137,26 @@
       {
         "id": 15,
         "value": "Vengeance"
+      },
+      {
+        "id": 16,
+        "value": "Concurrence Easter"
       }
     ],
     "part_of_cluster": [],
     "authority_discourse": 0,
-    "liturgical_references": [],
-    "occurrence_found_in": [],
+    "liturgical_references": [
+      {
+        "id": 5,
+        "value": "Easter"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9227,7 +10176,11 @@
     "order": "160.00000000000000000000",
     "passage": "Judaica gens est violata, quando ob vindictam crucis a Tito et Vespasiano est captivata",
     "jad_id": "jad_occurence__161",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B4, Ch8",
     "position_in_work_url": "",
@@ -9260,7 +10213,12 @@
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9280,7 +10238,11 @@
     "order": "161.00000000000000000000",
     "passage": "Hierusalem a Romanis destruitur",
     "jad_id": "jad_occurence__162",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "Contents",
     "position_in_work_url": "",
@@ -9295,12 +10257,22 @@
       }
     ],
     "position_move_to_occurrence_ms": "",
-    "sources_used": [],
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9320,7 +10292,11 @@
     "order": "162.00000000000000000000",
     "passage": "a Vespasiano captus",
     "jad_id": "jad_occurence__163",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B1, Ch13",
     "position_in_work_url": "",
@@ -9345,7 +10321,12 @@
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9365,7 +10346,11 @@
     "order": "163.00000000000000000000",
     "passage": "Jerusalem a Romanis est destructa",
     "jad_id": "jad_occurence__164",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "Ps. 50",
     "position_in_work_url": "",
@@ -9384,13 +10369,18 @@
     "keywords": [
       {
         "id": 11,
-        "value": "Babylonian conquest Jerusalem"
+        "value": "Babylonian conquest of Jerusalem"
       }
     ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9410,7 +10400,11 @@
     "order": "164.00000000000000000000",
     "passage": "destructio Hierosolymorum praedicitur, quia in hoc mense et prius a Nabuchodonosor et postmodum a Romanis in eodem mense facta legitur",
     "jad_id": "jad_occurence__165",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B4, Ch64",
     "position_in_work_url": "",
@@ -9435,7 +10429,12 @@
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9455,7 +10454,11 @@
     "order": "165.00000000000000000000",
     "passage": "Romani in ultionem Domini Hierosolimam destruxerunt",
     "jad_id": "jad_occurence__166",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "De nativitate domini",
     "position_in_work_url": "",
@@ -9489,7 +10492,12 @@
         "value": "In natale sancti Stephani"
       }
     ],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9509,7 +10517,11 @@
     "order": "166.00000000000000000000",
     "passage": "transactis de passione Domini XL annis Romani Hierosolimam funditus destruxerant",
     "jad_id": "jad_occurence__167",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "In inventione sanctae crucis",
     "position_in_work_url": "",
@@ -9534,7 +10546,12 @@
         "value": "In inventione sanctae crucis"
       }
     ],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9554,7 +10571,11 @@
     "order": "167.00000000000000000000",
     "passage": "hoc quidem tempore Titi et Vespasiani completum est, quando capta urbe",
     "jad_id": "jad_occurence__168",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "Ps. 28",
     "position_in_work_url": "",
@@ -9579,7 +10600,12 @@
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9599,7 +10625,11 @@
     "order": "168.00000000000000000000",
     "passage": "Per frameam Titum, et Vespasianum, et Romanum exercitum intelligimus, a quibus Judaeorum populus multis modis interemptus et perditus est",
     "jad_id": "jad_occurence__169",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "Ps. 34",
     "position_in_work_url": "",
@@ -9638,7 +10668,12 @@
         "value": "Easter"
       }
     ],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9658,7 +10693,11 @@
     "order": "169.00000000000000000000",
     "passage": "Haec enim sub Tito et Vespasiano completa sunt",
     "jad_id": "jad_occurence__170",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B4, Ch99",
     "position_in_work_url": "",
@@ -9692,7 +10731,12 @@
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9712,7 +10756,11 @@
     "order": "170.00000000000000000000",
     "passage": "Haec autem omnia sub Vespasiano, et Tito filio ejus completa sunt, sicut Josephus plenissime narrat",
     "jad_id": "jad_occurence__171",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B2, Ch46",
     "position_in_work_url": "",
@@ -9746,7 +10794,12 @@
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9766,7 +10819,11 @@
     "order": "171.00000000000000000000",
     "passage": "duobus ursis, Tito videlicet, et Vespasiano, Judaei interfecti sunt",
     "jad_id": "jad_occurence__172",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B2, Ch46",
     "position_in_work_url": "",
@@ -9799,7 +10856,12 @@
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9819,7 +10881,11 @@
     "order": "172.00000000000000000000",
     "passage": "prius a Chaldaeis, deinde a Romanis usque ad fundamenta destructa",
     "jad_id": "jad_occurence__173",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B6, Ch21",
     "position_in_work_url": "",
@@ -9852,7 +10918,12 @@
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9872,7 +10943,11 @@
     "order": "173.00000000000000000000",
     "passage": "venient Romani, et tollent nobis locum et gentem",
     "jad_id": "jad_occurence__174",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "Ps. 13",
     "position_in_work_url": "",
@@ -9897,7 +10972,12 @@
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9917,7 +10997,11 @@
     "order": "174.00000000000000000000",
     "passage": "urbem, et sanctuarium dissipabit populus Romanus cum duce Vespasiano",
     "jad_id": "jad_occurence__175",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B3, Ch3",
     "position_in_work_url": "",
@@ -9946,7 +11030,12 @@
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -9966,7 +11055,11 @@
     "order": "175.00000000000000000000",
     "passage": "eos quos Romana severitas ferro ignique punierat",
     "jad_id": "jad_occurence__176",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
     "position_in_work": "B2, Ch1",
     "position_in_work_url": "",
@@ -9986,7 +11079,12 @@
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -10004,25 +11102,2330 @@
   "177": {
     "id": 177,
     "order": "176.00000000000000000000",
-    "passage": "",
+    "passage": "Vespasiano et Tito arma undique contrahentibus et Jerusalem exercitu suo circumdantibus",
     "jad_id": "jad_occurence__177",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "manuscript_to_delete": [],
-    "position_in_work": "",
+    "position_in_work": "B4, Ch6",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "Multa sunt valdeque sonora et ad intelligendum aperta quae sub isto sigillo continebantur, id est, 405 quae Judaeorum desertionem atque gentium vocationem claris vocibus legis et prophetarum atque psalmorum futuram testificabantur. Nunc jam ejusdem sigilli sexti rescratum locum spatiosum perambulemus. « Cum, inquit, aperuisset sigillum sextum, ecce terraemotus factus est magnus. » Et p. 0954D | est sensus: Ut impleretur id quod de Judaeorum dispersione atque gentium convocatione in sacris litteris continebatur, mota est terra, commotus est orbis Romanus, Vespasiano et Tito arma undique contrahentibus et Jerusalem exercitu suo circumdantibus.\n\n¶\n  « Tunc sol, inquit, factus est niger tanquam saccus cilicinus, et luna tota facta est sicut sanguis, et stellae coeli ceciderunt super terram, sicut ficus mittit grossos suos, cum a vento magno movetur. » Jerusalem illa. terrena aestimatione sua, erat sicut sol, et erat sicut luna, quippe cum fuisset sedes David, in qua ille homo regnando temporaliter sederat.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
-    "work": [],
+    "biblical_references": [
+      {
+        "id": 105,
+        "value": "Rev. 6,12"
+      }
+    ],
+    "work": [
+      {
+        "id": 86,
+        "value": "Commentary Revelation "
+      }
+    ],
     "position_move_to_occurrence_ms": "",
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 86
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "178": {
+    "id": 178,
+    "order": "177.00000000000000000000",
+    "passage": "Hierosolymorum excidium sub Tito et Vespasiano factum",
+    "jad_id": "jad_occurence__178",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B4, Ch6",
+    "position_in_work_url": "",
+    "text_paragraph": "Hoc illi datum, id est, permissum est suadenti Judaeis, quorum utique sessor erat, et quos agitabat, quatenus seditiosum Barabbam sibi dimitti, Jesum vero postularent crucifigi *. Hoc namque agendo, pacem de terra sumpsit, id est absumpsit. Nunquam enim extunc pax fuit genti illi, justo videlicet judicio, ut qui peremerant principem pacis, seditiones haereditarent Barabbae, quem sibi petierant p. 0943C | dimitti. Et ideo pacem sumere de terra, datum est ei (ut invicem interficiant), quod quam verum sit, plenius videt atque miratur, quisquis illud tam mirabile quam miserabile, Hierosolymorum excidium sub Tito et Vespasiano factum legit, cujus videlicet excidii nos adhuc in solutione sexti sigilli meminisse oportebit. « Et datus est ei gladius magnus. » Gladius magnus, magna et longa persecutio intelligitur, quem videlicet persecutionis gladium equus ille malignus a Christo usque ad novissimos electos ejus tanquam a capite magni corporis usque ad ejus pedes ducere permittitur. Verum de hoc plenius suo loco dicendum erit, ubi de sanguine sanctorum ebria demonstratur Babylon meretrix.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 93,
+        "value": "Rev. 6,4"
+      }
+    ],
+    "work": [
+      {
+        "id": 86,
+        "value": "Commentary Revelation "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 86
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "179": {
+    "id": 179,
+    "order": "177.00000000000000000000",
+    "passage": "a Romanis haec gens est devastata",
+    "jad_id": "jad_occurence__179",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch6",
+    "position_in_work_url": "",
+    "text_paragraph": "Et cum aperuisset sigillum sextum. Sigilli sexti apertio ad Judaeorum dejectionem, sicut diximus, et ad gentium vocationem pertinet. Et quia Christus de Judaeorum perditione et de gentium electione multa per parabolas est locutus, quaedam etiam gessit, quae hoc designaverunt; sextum sigillum aperuit, quando doctoribus Ecclesiae ea quae per figuras dixit et fecit, per inspirationis suae gratiam p. 0840D | patefecit. Aperuit etiam sextum sigillum, quando ea quae praedixit, opere implevit. Terrae motus factus est magnus. Per terram in hoc loco Judaei designantur: terrae motus factus est magnus, quando a Romanis haec gens est devastata. Et sol factus est niger, sicut saccus cilicinus. Per solem idem Judaeorum populus designatur: sol igitur factus est niger, tamquam saccus cilicinus; quia populus Judaeorum qui propter cognitionem unius Dei, et propter custodiam Legis, velut sol in mundo, refulgebat inter caeteras gentes, factus est omnibus hominibus odiosus propter iniquitates suas; sacco namque poenitentes vestiuntur, p. 0841A | ut indicent se esse peccatores.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 93,
+        "value": "Rev. 6,4"
+      }
+    ],
+    "work": [
+      {
+        "id": 93,
+        "value": "Expositio in Apocalypsim "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 93
+        },
+        "value": "anonymous"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "180": {
+    "id": 180,
+    "order": "178.00000000000000000000",
+    "passage": "terra Judaeorum a Romanis invasa est",
+    "jad_id": "jad_occurence__180",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch6",
+    "position_in_work_url": "",
+    "text_paragraph": "Et stellae ceciderunt super terram, sicut ficus mittit grossos suos, cum a vento magno movetur. Per stellas principes sacerdotum designantur, scribae et pharisaei: per ficum autem terram Judaeorum possumus intelligere: grossi vero ejusdem arboris fructus inutiles vocantur, qui cito labuntur, cum arbor eadem vento concutitur. Ficus igitur vento p. 0841B | commota est, et inutiles fructus a se emisit; quia terra Judaeorum a Romanis invasa est, et gentem inutilem, et Deo odibilem a se expulit, ut habitatio fieret fidelium. Stellae itaque grossorum more in terram ceciderunt; quia eos qui per doctrinam Legis velut stellae in populo refulgebant, eadem poena conclusit, quae et caeteram multitudinem.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 106,
+        "value": "Rev. 6,13"
+      }
+    ],
+    "work": [
+      {
+        "id": 93,
+        "value": "Expositio in Apocalypsim "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 93
+        },
+        "value": "anonymous"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "181": {
+    "id": 181,
+    "order": "179.00000000000000000000",
+    "passage": "ne forte veniant Romani, et tollant nostrum locum et gentem",
+    "jad_id": "jad_occurence__181",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch19",
+    "position_in_work_url": "",
+    "text_paragraph": "Aliter: Hi in curribus vanarum dignitatum, et p. 0974C | inanis gloriae gloriantur: et hi in equis cervicosae superbiae aut fluxae luxuriae feruntur cum Pharaone et exercitu ejus. Nos autem cum Moyse quasi pedestres ab hujusmodi fugiendo cum ipso Moyse cantamus, et alios ad cantandum provocamus, dicendo: « Cantemus Domino, gloriose enim honorificatus est *. » Talia dicentes, Deum de praeteritis bonis laudamus, et in nomine Domini Dei nostri invocabimus adjutorium divinum ad consequenda futura bona, quae sunt in dextera. Nam, qui sinistris inhiabant, et pro retinendis dicebant: « Expedit nobis ut unus moriatur homo, ne forte veniant Romani, et tollant nostrum locum et gentem *. »\n\n¶\n  p. 0974D | VERS. 9. Ipsi obligati sunt, et ceciderunt, locum et gentem amiserunt: ipsi et omnes eorum consimiles temporalia et sinistra bona aeternis ac dextris praeponentes, etsi videantur sibi stare in alto rerum culmine, tamen ceciderunt obligati funibus peccatorum suorum.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 36,
+        "value": "Joh. 11,48"
+      },
+      {
+        "id": 107,
+        "value": "Ps. 19,8"
+      },
+      {
+        "id": 108,
+        "value": "Ps. 19,9"
+      }
+    ],
+    "work": [
+      {
+        "id": 31,
+        "value": "Commentary Psalms "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 31,
+          "database_table_3499": 31
+        },
+        "value": "Gerhoch, von Reichersberg"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "182": {
+    "id": 182,
+    "order": "180.00000000000000000000",
+    "passage": "ut omnes in ea ardeant Romano igne circumdati",
+    "jad_id": "jad_occurence__182",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B8, Ch27",
+    "position_in_work_url": "",
+    "text_paragraph": "Juxta LXX hic est sensus, ut ex persona accipiamus Ecclesiae: Ego civitas firma, civitas multis vallata hostibus, quae frustra dedi pocula inimicae meae Synagogae. Capietur enim nocte, et corruet murus ejus, nullaque erit de adversariis potestatibus, quae non apprehendat eam. Rursum loquar: Quid mihi prodest custodire eam, quae stipulam in se habeat, non frumenta: quae ita inculta est, ut p. 0309B | veprium plena sit et spinarum, quam salvare volui? Sed quia hostiliter mecum agit, recessi ab ea. Dixeruntque in me et ex me nati Apostoli: Vobis quidem oportebat primum loqui verbum Dei: sed quoniam repulistis illud, et indignos vos judicastis aeternae vitae, ecce convertimur ad gentes * . Idcirco faciet Dominus quod minatus est, ut omnes in ea ardeant Romano igne circumdati. Vel certe ardeant vitiis atque peccatis, ne possint ardentia diaboli jacula restinguere. Omnes enim adulterantes quasi clibanus corda eorum.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 57,
+        "value": "Commentary Isaiah "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 27,
+          "database_table_3499": 57
+        },
+        "value": "Hieronymus, Sophronius Eusebius"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "183": {
+    "id": 183,
+    "order": "181.00000000000000000000",
+    "passage": "Ibi pascetur vitulus, Romanus exercitus, de quo et in alio loco sub nomine apri dictum est: Vastabit eam aper de silva",
+    "jad_id": "jad_occurence__183",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B8, Ch27",
+    "position_in_work_url": "",
+    "text_paragraph": "Et quae quondam fuit speciosa, de qua et in Ezechiele dicitur: Similam, et mel et oleum comedisti, et speciosa facta es vehementer nimis * , et in qua habitat ille de quo scriptum est: Speciosus forma prae filiis hominum * , relinquetur et dimittetur quasi desertum, dicente Domino ad Apostolos: Surgite, abeamus hinc * . Ibi pascetur vitulus, Romanus exercitus, de quo et in alio loco sub nomine apri dictum est: Vastabit eam aper de silva: et singularis ferus depastus est eam * . Et ibi accubabit et consumet summitates p. 0311B | ejus sub metaphora vineae et propaginum ejus, ut nihil in ea viride, nihil remaneat flagellorum, sed omnia consumat inimicus. Juxta LXX, quia non receperunt pastorem bonum: propterea erunt quasi grex derelictus, et patebunt morsibus bestiarum; et nihil in eis viride remanebit, quia siccitas omnia possidebit.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 50,
+        "value": "Ps. 79,14"
+      },
+      {
+        "id": 109,
+        "value": "Ez. 16,13"
+      }
+    ],
+    "work": [
+      {
+        "id": 57,
+        "value": "Commentary Isaiah "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 27,
+          "database_table_3499": 57
+        },
+        "value": "Hieronymus, Sophronius Eusebius"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "184": {
+    "id": 184,
+    "order": "182.00000000000000000000",
+    "passage": "traditi erant gentibus, id est, Romanis, ut ab eis delerentur atque exterminarentur",
+    "jad_id": "jad_occurence__184",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch11",
+    "position_in_work_url": "",
+    "text_paragraph": "Et ad prophetam Ezechielem Dominus loquitur, dicens: Ecce ego adhaerescere faciam linguam tuam palato tuo, nec eris quasi vir objurgans; quia domus exasperans est * . Hocque atrium datum esse gentibus dicitur; p. 0868A | quia Judaei propter incredulitatem suam paganis gentibus erant conjuncti: sive traditi erant gentibus, id est, Romanis, ut ab eis delerentur atque exterminarentur. Et civitatem sanctam calcabunt mensibus quadraginta duobus. Subito saltum facit ad Eliam atque Enoch, qui temporibus Antichristi venturi sunt: et pulchro satis ordine, videlicet, ut qui Judaeorum dejectionem per figuram atrii protulerat, eorum restaurationem tacite subnecteret; constat enim Judaeos in fine mundi per praedicationem Eliae et Enoch ad fidem Christi esse reversuros. Civitatem itaque sanctam, id est, Ecclesiam, Antichristus et ministri ejus calcabunt, id est, persequentur mensibus quadraginta duobus, qui faciunt tres annos et dimidium.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 110,
+        "value": "Rev. 11,2"
+      },
+      {
+        "id": 111,
+        "value": "Ez. 3,26"
+      }
+    ],
+    "work": [
+      {
+        "id": 93,
+        "value": "Expositio in Apocalypsim "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism"
+      },
+      {
+        "id": 6,
+        "value": "Apocalypticism"
+      },
+      {
+        "id": 17,
+        "value": "Eschatological conversion Jews"
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 93
+        },
+        "value": "anonymous"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "185": {
+    "id": 185,
+    "order": "183.00000000000000000000",
+    "passage": "Judaei, qui Dominum interfecerunt, et apostolos ejus persecuti sunt, qui in quinto ponuntur loco; eo tempore quo haec visio Joanni demonstrata est, jam a Romanis devastati fuerant",
+    "jad_id": "jad_occurence__185",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch17",
+    "position_in_work_url": "",
+    "text_paragraph": "Similiter et secundi qui post diluvium usque ad Legem fuerunt, in eadem perditionis fovea demersi tenebantur. Ceciderant et tertii, qui populo Dei, quibus Lex data est, idola colere suadebant. Similiter et falsi prophetae, qui in quarto loco ponuntur, jam ceciderant in interitum suae perditionis, eo quod deceptores fuerint populo Dei. Iniqui vero p. 0913D | Judaei, qui Dominum interfecerunt, et apostolos ejus persecuti sunt, qui in quinto ponuntur loco; eo tempore quo haec visio Joanni demonstrata est, jam a Romanis devastati fuerant. Quinque ergo capita bestiae jam ceciderant, quae montes regesque nominantur; quia omnes praecedentes, et impii Judaei qui in quinto loco ponuntur, jam perditionis suae poenas luebant. Unus erat; quia pagani, illi videlicet qui Ecclesiam Dei persecuti sunt, qui et in sexto loco ponuntur, tunc Ecclesiam Dei persequebantur; ob quam causam et iste Joannes in Pathmos insula p. 0914A | relegatus tenebatur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 93,
+        "value": "Expositio in Apocalypsim "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 93
+        },
+        "value": "anonymous"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "186": {
+    "id": 186,
+    "order": "184.00000000000000000000",
+    "passage": "impii Judaei a Romanis delendi essent",
+    "jad_id": "jad_occurence__186",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch16",
+    "position_in_work_url": "",
+    "text_paragraph": "Quartus igitur angelus phialam suam in solem effudit; quia Christus et apostoli ejus, quod impii Judaei a Romanis delendi essent, apertis vocibus praedixerunt. Nam sicut quilibet servus accipit a Domino suo gladium, non unde ipse juguletur, sed unde reum jugulet: ita et Romani effusionem phialae, in qua ira Dei continebatur, non p. 0905D | ad hoc susceperunt, ut ipsi in ea perirent, sed ad vindicandum Christi sanguinem in Judaeos effunderent; unde et sequitur: Quia datum est illi aestu afficere homines et igni. Possumus per aestum obsidionem, per ignem autem famem et gladium, quibus Judaei pene omnes consumpti sunt, intelligere. Datum est ergo soli afficere homines aestu et igni; quia Romanis datum est a Deo, ut impios Judaeos diversis calamitatibus afflictos, quosdam occiderent, quosdam p. 0906A | a sua terra evellerent. Et aestuaverunt homines aestu magno. Quam magnus fuerit ille aestus, quo Romani Judaeos afflixerunt, qui vult scire, Josephum legat, et inveniet nullam gentem in omnibus regnis terrarum atrocius periisse (De bello Judaico). Et blasphemaverunt nomen Dei habentis potestatem super has plagas. Tam impia fuit gens Judaeorum, ut cum scirent se pro sceleribus suis inaudita mala perpeti, non solum a blasphemiis Christi non cessaverint, sed etiam multo deteriores blasphemias in suis afflictionibus contra Deum evomuerint.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 112,
+        "value": "Rev. 16,8"
+      }
+    ],
+    "work": [
+      {
+        "id": 93,
+        "value": "Expositio in Apocalypsim "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 93
+        },
+        "value": "anonymous"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "187": {
+    "id": 187,
+    "order": "185.00000000000000000000",
+    "passage": "in angusto comprimat exercitus Titi et Vespasiani",
+    "jad_id": "jad_occurence__187",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B11",
+    "position_in_work_url": "",
+    "text_paragraph": "« Et ipse calcat torcular vini furoris irae Dei omnipotentis, p. 1168B | et habet in vestimento et in femore suo scriptum Rex regum et Dominus dominantium. » Ipse qui percutit sive percutiet gentes, et reget eos in virga ferrea, jam « calcat torcular vini furoris irae Dei omnipotentis, » id est jam parat percussuram populo illi, jam causae suscitatae sunt, propter quas veniat et incumbat illis pondus et pressura Romani imperii, ut concludat multitudines eorum, et in angusto comprimat exercitus Titi et Vespasiani. Haec pressura nimirum recte et nimis congrue designatur per torcular vini. Gens namque illa fuit vel esse debuit vinea Domini, et quia cum debuisset facere uvas, fecit labruscas *, malum hoc illi eventurum Deus ipse in propheta praedixit: « Et quia de vinea Sodomorum vinea eorum, quia uva eorum uva p. 1168C | fellis *, » idcirco mala haec illis reddenda apud se condita et in thesauris suis esse signata Deus praedixit in cantico Moysi.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 113,
+        "value": "Rev. 19,15"
+      },
+      {
+        "id": 114,
+        "value": "Is. 5,2"
+      },
+      {
+        "id": 115,
+        "value": "Deut. 32,32"
+      }
+    ],
+    "work": [
+      {
+        "id": 86,
+        "value": "Commentary Revelation "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 86
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "188": {
+    "id": 188,
+    "order": "186.00000000000000000000",
+    "passage": "scribit Josephus septem voluminibus, Vespasiani et Titi denarrans triumphos",
+    "jad_id": "jad_occurence__188",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "In Joelem, B1",
+    "position_in_work_url": "",
+    "text_paragraph": "Per bruchum p. 0207B | Macedones et omnes Alexandri successores, maximeque regem Antiochum, cognomento Epiphanem, qui instar bruchi sedit in Judaea et omnes priorum regum reliquias devoravit, sub quo Machabaeorum bella narrantur. Per rubiginem imperium Romanorum, qui quarti et ultimi in tantum oppressere Judaeos, ut de suis eos finibus protrahentes ducerent vel transmitterent captivos, cujus rei mirabilem atque miserabilem tragoediam plenius scribit Josephus septem voluminibus, Vespasiani et Titi denarrans triumphos. Haec quatuor regna subverterunt Judaeam.\n\n¶\n  Nec mirum quod hic ipsa eadem regna sub nominibus ejusmodi vermium praenuntiantur, quae apud Danielem per feras terribiles, leaenam, ursum, pardum, p. 0207C | et aliam quae sine nomine mirabilis et fortis dicitur, dentes ferreos habens magnos, significantur",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 77,
+        "value": "Dan. 7"
+      }
+    ],
+    "work": [
+      {
+        "id": 94,
+        "value": "Commentaria in duodecim prophetas minores "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism"
+      },
+      {
+        "id": 18,
+        "value": "Greek conquest of Jerusalem"
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 94
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "189": {
+    "id": 189,
+    "order": "187.00000000000000000000",
+    "passage": "Dominus locutus est, ut populi sui ulciscatur injuriam",
+    "jad_id": "jad_occurence__189",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "In Joelem, B1",
+    "position_in_work_url": "",
+    "text_paragraph": "Porro hic jam non praetereundum, quia Judaei de hoc sermone, quo his dicitur: « Ecce ego suscitabo eos, » videlicet filios Juda et Hierusalem, quos vendidistis p. 0246C | filiis Graecorum, « de loco in quo vendidistis eos, et convertam retributionem vestram in caput vestrum, et vendam filios vestros in manibus filiorum Juda, et venundabunt eos Sabaeis genti longinquae, quia Dominus locutus est. » Ex hoc, inquam, sermone vanam sibi, imo miserabilem consolationem assumunt. Illa namque de Romanis sub nominibus Tyri et Sidonis atque Palaestinorum haec intelligi volunt, eo quod Vespasianus et Titus Romae templo pacis aedificato vasa templi et universa donaria in delubro illius consecraverit. Promittunt ergo sibi, imo somniant, quod in ultimo tempore congregarentur a Domino, ut reducantur in Hierusalem, neque hac felicitate contenti, ipsum Deum manibus suis Romanorum filios et filias et filias asserunt traditurum, ut p. 0246D | vendant eos Judaei non Persis et Aethiopibus et caeteris nationibus, quae vicinae sunt, sed Sabaeis genti longinquissimae, quia Dominus locutus est, ut populi sui ulciscatur injuriam. Nos econtra non Romanos, sed ipsos qui se dicunt esse Judaeos et non sunt, sed sunt synagoga Satanae, dicimus designari ac percuti sub nominibus Tyri et Sidonis, et intra omnem terminum Palaestinorum concludi eamdem ob causam, quam et in alio propheta Deus considerans, cum eumdem populum redargueret: « Pater tuus, inquit, Amorrhaeus, et mater tua Caethea",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 116,
+        "value": "Joel 4,6"
+      },
+      {
+        "id": 117,
+        "value": "Joel 4,7"
+      },
+      {
+        "id": 118,
+        "value": "Joel 4,8"
+      },
+      {
+        "id": 119,
+        "value": "Ez. 16,3"
+      }
+    ],
+    "work": [
+      {
+        "id": 94,
+        "value": "Commentaria in duodecim prophetas minores "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 94
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "190": {
+    "id": 190,
+    "order": "188.00000000000000000000",
+    "passage": "dispersione Judaeorum quae facta est imperio Vespasiani et Titi",
+    "jad_id": "jad_occurence__190",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B2",
+    "position_in_work_url": "",
+    "text_paragraph": "Recordamur nunc illius in psalmo versiculi: « Deus ostendit mihi super inimicos meos, ne occidas eos, ne quando obliviscantur populi mei, disperge p. 0299B | illos in virtute tua *. » Neque enim dictum illud arbiramur tantummodo de illa dispersione Judaeorum quae facta est imperio Vespasiani et Titi, verum etiam de illa captivitate decem tribuum, quae tunc instabat et facta est captivantibus Assyriis. Spiritus prophetiae captivitatem utramque praevidit, quae idcirco facta, ut non tantum uno in loco, sed in 130 omni terra fidem gentium confirmaret, et idcirco pars eorum tanquam « duo crura aut extremum auriculae de ore leonis, » id est, de caede vastantium eruta est, et vivere permissi sunt, ut etiam eorum testimonio, sive monimento Dei justitia propagetur, et Scripturarum veritas ubique sit, illis circumferentibus, ex quibus Christus Dei Filius testimonium habens, ex lege et prophetis cognoscitur. p. 0299C",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 120,
+        "value": "Ps. 58,11"
+      },
+      {
+        "id": 121,
+        "value": "Ps. 58,12"
+      }
+    ],
+    "work": [
+      {
+        "id": 94,
+        "value": "Commentaria in duodecim prophetas minores "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 94
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "191": {
+    "id": 191,
+    "order": "189.00000000000000000000",
+    "passage": "Venit aper, scilicet Vespasianus, et singularis ferus, videlicet Titus, filius ejus, de silva, id est de urbe Roma",
+    "jad_id": "jad_occurence__191",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B2",
+    "position_in_work_url": "",
+    "text_paragraph": "Ut dictum, ita et factum est. Venerunt enim animalia de silva, de quibus Psalmista: Exterminavit eam, inquit, scilicet vineam tuam, aper de silva, et singularis ferus depastus est eam * , nimirum propter scelus, quo cum debuit facere uvas et afferre vinum, supradicto amico suo, Domino vel possessori, imo et plantatori suo misit p. 0623C | fel suum, et amaritudine mortis inebriavit cum. Venit aper, scilicet Vespasianus, et singularis ferus, videlicet Titus, filius ejus, de silva, id est de urbe Roma, ubi erat multiplicitas errorum, et feri homines habitabant, sicut ferae in silva. Horum vastitas animalium deterruit eos de sanguinibus hominis et iniquitate terrae, civitatis et omnium habitantium in ea. Ex tunc enim perdiderunt audaciam, qua primi ex omnibus gentibus ausi fuerunt ad se missos prophetas et sapientes et Scribas occidere et crucifigere, flagellare in synagogis suis, et de civitate in civitatem persequi",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 50,
+        "value": "Ps. 79,14"
+      },
+      {
+        "id": 122,
+        "value": "Mt. 23,34"
+      }
+    ],
+    "work": [
+      {
+        "id": 94,
+        "value": "Commentaria in duodecim prophetas minores "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 94
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "192": {
+    "id": 192,
+    "order": "190.00000000000000000000",
+    "passage": "cecidit in ore gladii sub Tito et Vespasiano imperatoribus",
+    "jad_id": "jad_occurence__192",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B6, Ch6",
+    "position_in_work_url": "",
+    "text_paragraph": "Caeterum quacunque in solitudine, quacunque in deserti, id est, saeculi hujus regione, turba gentium Christum sequitur trans mare baptismi ejus, ut videat signa quae facit super his qui infirmabantur, diversis peccatorum languoribus, illuc adest puer stultitiae magnitudine cunctis notus, scilicet ille Judaeorum p. 0441D | « populus, qui pro eo quod non habuit scientiam, captivus ductus est *; » populus, inquam, dissipatus, puer sensu, sed malitia veteranus, qui sanguine Christi pollutus, cecidit in ore gladii sub Tito et Vespasiano imperatoribus, et in omnes gentes captivus ductus est. Quocunque Christum turba credentium secuta est *, illuc iste puer deportavit se, cum integros quinque Mosaicae legis panes, id est totidem libros; duos quoque pisces, id est prophetas omnes et Psalmos, Legem simul et Evangelium testificantes, vel unum eumdem Christum regem simul et sacerdotem, claris praeconiis concinentes.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 123,
+        "value": "Is. 5,13"
+      },
+      {
+        "id": 126,
+        "value": "Joh. 6"
+      }
+    ],
+    "work": [
+      {
+        "id": 95,
+        "value": "Commentary Johannes "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 95
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "193": {
+    "id": 193,
+    "order": "191.00000000000000000000",
+    "passage": "Legant qui volunt vestrum sub Tito et Vespasiano excidium, et videant vos unicam gentem homicidarum semetipsos interficientium.",
+    "jad_id": "jad_occurence__193",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B8, Ch8",
+    "position_in_work_url": "",
+    "text_paragraph": "O Judaei, homicidae cruderes et scelerati, adeone nil boni de hoc homine qui mortuos vestros suscitavit, sentire potestis, ut hoc solum, quod interficiat semetipsum viis ejus superesse arbitremini? Et vos nunquid ejus rei adeo indociles estis, nec fieri potest, ut vosipsos exemplo ejus interficiatis? Imo vos, interfecto homine isto, vos ipsos interficietis; tanto furore, tanta rabie ut miretur orbis, et vestri quoque condoleant inimici. Legant qui volunt vestrum sub Tito et Vespasiano excidium, et videant vos unicam gentem homicidarum semetipsos interficientium. p. 0543B | Sequitur:\n\n¶\n  « Et dicebat eis: Vos de deorsum estis, ego de supernis sum. Vos de mundo hoc estis, ego non sum de hoc mundo. Dixi ergo vobis, quia moriemini in peccatis vestris. » Rationem illis acerbam reddidit, cur quo ipse vadit, ipsi venire non possint, et in peccato suo sint morituri: « Vos, inquit, de deorsum estis, ego de supernis sum. »",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 124,
+        "value": "Joh. 8,22"
+      },
+      {
+        "id": 125,
+        "value": "Joh. 8,23"
+      }
+    ],
+    "work": [
+      {
+        "id": 95,
+        "value": "Commentary Johannes "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 95
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "194": {
+    "id": 194,
+    "order": "192.00000000000000000000",
+    "passage": "Qui commovet, » subaudi per Titum et Vespasianum, « terram, » scilicet Judaeam, « de loco suo, » videlicet subversa civitate et templo",
+    "jad_id": "jad_occurence__194",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "Iob 9,6",
+    "position_in_work_url": "",
+    "text_paragraph": "Hinc est quod ait: p. 1005D | « Qui transtulit montes, » id est apostolos, scilicet a Judaeis ad gentes, « et nescierunt hi, » subaudi Judaei « quos subvertit in furore suo, » subaudi quantum lumen amitterent interius vel quod expellendo apostolos ipsi a gratia Dei subverterentur.\n\n  VERS. 6.-- « Qui commovet, » subaudi per Titum et Vespasianum, « terram, » scilicet Judaeam, « de loco suo, » videlicet subversa civitate et templo, « et columnae ejus, » id est sacerdotes, principes, legis doctores atque Pharisaei, « concutientur [concutiuntur], » id est in illa terra habitare non permittentur.\n\n¶\n  VERS. 7.-- « Qui praecipit soli, » id est praedicantium p. 1006A | vitae fulgenti « et non oritur, » scilicet Judaeis a quibus animum praedicantium Deus avertit. « Et stellas, » id est eosdem praedicatores, noctem vitae praesentis doctrinae claritate illustrantes, « claudit, » id est amovet ab illis, « quasi sub signaculo, » id est ita ut iterum ad eos quandoque mittantur, sicut aliquid idcirco sub sigillo claudimus, ut hoc, cum tempus congruit, ad medium proferamus.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 127,
+        "value": "Job 9,6"
+      }
+    ],
+    "work": [
+      {
+        "id": 96,
+        "value": "Commentary Job "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 96
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "195": {
+    "id": 195,
+    "order": "193.00000000000000000000",
+    "passage": "Duas tribus, quae Judaea vocabantur, devoravit bestia quarta, terribilis et magna, quam vidit Daniel, Romanum scilicet Imperium, per litum et Vespasianum",
+    "jad_id": "jad_occurence__195",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch2",
+    "position_in_work_url": "",
+    "text_paragraph": "Tempus plangendi, et tempus saltandi. SYNAGOGA. Tempus plangendi mihi est, quoniam Hebraicus populus durae cervicis, et rebellis Deo suo, longe a terra sua cum radice sui nominis evulsus interiit. Quid memorem decem tribus, quas rex Assur victas transmigravit procul ultra montes Medorum, et alio pene posuit sub orbe? Nulla spes revertendi, nulla spes miserendi. Duas tribus, quae Judaea vocabantur, devoravit bestia quarta, terribilis et magna, quam vidit Daniel, Romanum scilicet Imperium, per litum et Vespasianum. Non plangam super ista, non p. 1223D | tundam pectora? Exspecto tamen saltandi tempus, cum veniet Messias *, et restituet omnia nobis *. Ita plangendum: ita mihi saltandum reor. ECCLESIA. Quod sit tibi, o Synagoga, et mihi tempus plangendi, et tempus saltandi, Dominus noster bene in Evangelio docet, qui incredulitatem et duritiam admirans Judaeorum, ait: Cui generatio ista similis erit? Similis est pueris qui clamant coaevis suis dicentes: Lamentavimus vobis et non planxistis, cantavimus vobis et non saltastis",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 77,
+        "value": "Dan. 7"
+      },
+      {
+        "id": 128,
+        "value": "Koh. 3,4"
+      },
+      {
+        "id": 129,
+        "value": "Mt. 11,17"
+      }
+    ],
+    "work": [
+      {
+        "id": 97,
+        "value": "Commentary Ecclesiastes "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 97
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "196": {
+    "id": 196,
+    "order": "194.00000000000000000000",
+    "passage": "tantummodo locum et gentem, ducibus Vespasiano et Tito, tulisse contenti",
+    "jad_id": "jad_occurence__196",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B11",
+    "position_in_work_url": "",
+    "text_paragraph": "Etenim econtra idcirco factum est, ut venirent Romani, quia non dimiserunt eum sic, et ecce non tantummodo secundum visionem illorum, pro sensu ipsorum mendaci, locum tulerunt et gentem, verum etiam id quod plus est, quod ipsi videre aut nesciebant timere; tulerunt quoque optima quae illorum erant, scilicet adoptionem filiorum et gloriam, et testamenta, et legislationem, et obsequium et promissa, et totam haereditatem patrum ex quibus Christus secundum carnem, 669 qui est super omnia Deus benedictus in saecula, p. 1560B | Amen *. » Haec enim omnia tulerunt eis, et cum caeteris nunc gentibus possident Romani, longe alii quam Romani illi qui tantummodo locum et gentem tulerunt eis, perfuerunt, et permanserunt pagani, quia non curaverunt, neque curare scierunt de spoliis istis opimis, tantummodo locum et gentem, ducibus Vespasiano et Tito, tulisse contenti.\n\n¶\n  Quapropter militaverint, quidem huic Domino et regi Jesu Christo, in vindictam sanguinis ejus contra civitatem Ariel, quod interpretatur leo Dei, juxta quod ipse dixit: Facta est mihi haereditas mea quasi leo in silva *, » contra civitatem Hierusalem, quam expugnavit per eos, iste verus David filius, secundum carnem illius David, secundum prophetiam hujusmodi: « Vae Ariel, civitas quam p. 1560C | expugnavit David. Additus est annus ad annum, solemnitates evolutae sunt.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 36,
+        "value": "Joh. 11,48"
+      },
+      {
+        "id": 130,
+        "value": "Rom. 9,5"
+      },
+      {
+        "id": 131,
+        "value": "Jer. 12,8"
+      }
+    ],
+    "work": [
+      {
+        "id": 89,
+        "value": "Commentary Matthew "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 89
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "197": {
+    "id": 197,
+    "order": "195.00000000000000000000",
+    "passage": "consumpsit in obsidione illa saltus Romani exercitus post quadraginta annos, ducibus Vespasiano et Tyto",
+    "jad_id": "jad_occurence__197",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B11",
+    "position_in_work_url": "",
+    "text_paragraph": "Et hic suspenso Juda, populus Judaeorum totam damnationis ejus suscepit haereditatem pendens inter coelum et terram, id est neque spem habens in coelo, quia vitae aeternae indignum se judicavit, neque terram habens suam; venerunt enim Romani tuleruntque locum et gentem et multo plures quam ullo unquam die vocasset gladius de populo illo consumpsit in obsidione illa saltus Romani exercitus post quadraginta annos, ducibus Vespasiano et Tyto, juxta quod p. 1568C | praedictum fuerat per Psalmistam: Exterminavit eam aper de silva, et singularis ferus depastus est eam *. » Nonne hoc est pendere inter coelum et terram, et crepuisse, et omnia pendentis viscera diffusa esse, scilicet neque in coelo spem sive ullam partem, neque in terra quam calcamus locum ullum proprium habere, et post seditionem ingentem crepitum, quem historiographus denarrat Josephus, reliquias conclusae multitudinis, quae gladio superfuerunt, in omnes gentes captivas ductas esse?",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 36,
+        "value": "Joh. 11,48"
+      },
+      {
+        "id": 50,
+        "value": "Ps. 79,14"
+      }
+    ],
+    "work": [
+      {
+        "id": 89,
+        "value": "Commentary Matthew "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 89
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "198": {
+    "id": 198,
+    "order": "196.00000000000000000000",
+    "passage": "Quod factum est per Titum et Vespasianum, quando regno Dei jam perdito, locum quoque et gentem perdiderunt",
+    "jad_id": "jad_occurence__198",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B5, Ch5",
+    "position_in_work_url": "",
+    "text_paragraph": "Bene ergo illa lectio Hieremiae prophetae praemittitur adversus canes illos, qui Dominum circumdederunt, adversus illud concilium malignantium p. 0128C | quod obsedit illum: Domine, omnes qui te derelinquunt, confundentur, et recedentes a te in terram scribentur * , et post pauca, pravam sollicitudinem eorum intuens qua dicunt: Venient Romani et tollent nostrum locum et gentem * . Paveant, inquit, illi, et non paveam ego. Induc super eos diem afflictionis, et duplici contritione contere eos * . Quod factum est per Titum et Vespasianum, quando regno Dei jam perdito, locum quoque et gentem perdiderunt. Quamvis autem multoties Judaei Dominum quaesierunt occidere; nam et lapides non semel sustulerunt ut illum lapidarent, ministros quoque miserunt pontifices et Pharisaei, ut illum apprehenderent. Recte tamen de hoc concilio p. 0128D | dixit evangelista: Ab illo ergo die cogitaverunt ut interficerent eum",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 36,
+        "value": "Joh. 11,48"
+      },
+      {
+        "id": 133,
+        "value": "Jer. 17,13"
+      },
+      {
+        "id": 134,
+        "value": "Jer. 17,18"
+      },
+      {
+        "id": 135,
+        "value": "Joh. 11,53"
+      }
+    ],
+    "work": [
+      {
+        "id": 90,
+        "value": "De divinis officiis "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 90
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "199": {
+    "id": 199,
+    "order": "197.00000000000000000000",
+    "passage": "dissipabit populus cum duce venturo, subauditur Vespasiano sive Tito",
+    "jad_id": "jad_occurence__199",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B9, Ch15",
+    "position_in_work_url": "",
+    "text_paragraph": "Quomodo nobis, scilicet natura Judaeis non relinquitur hostia pro peccatis, si voluntarie peccamus, id est, si vocem ejus audientes, et ex Scripturis eum cognoscentes, corda nostra obdurare voluerimus? Nimirum taliter, ut nec hostia, sive sacrificium, nec locus sive templum remaneat, in p. 0196B | quo sacrificetur. Sic enim et Danieli praemonstratum fuerat: « Occidetur Christus, et non erit ejus populus, qui cum negaturus est, et civitatem et sanctuarium dissipabit populus cum duce venturo, subauditur Vespasiano sive Tito, et finis ejus vastitas, et post finem belli statuta desolatio *. » Et deficiet hostia sive sacrificium, et in templo erit abominatio desolationis, et usque ad consummationem et finem perseverabit desolatio",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 22,
+        "value": "Dan. 9,26"
+      },
+      {
+        "id": 48,
+        "value": "Mt. 24,15"
+      }
+    ],
+    "work": [
+      {
+        "id": 98,
+        "value": "De glorificatione Trinitatis "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 98
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "200": {
+    "id": 200,
+    "order": "198.00000000000000000000",
+    "passage": "ducibus sive principibus Tito et Vespasiano, regnum illud comedit atque comminuit",
+    "jad_id": "jad_occurence__200",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B8, Ch16",
+    "position_in_work_url": "",
+    "text_paragraph": "Comedens atque comminuens, et reliqua pedibus suis conculcans, ad eumdem populum spectat, quem, ducibus sive principibus p. 0177A | Tito et Vespasiano, regnum illud comedit atque comminuit, tam terribili comestione, tam mirabili comminutione, ut nulli unquam populo, vel civitati ab initio saeculi taliter contigerit, sicut Josephus scriptor admirando pariter et dolendo patenter edisserit *, et reliqua sic pedibus suis conculcavit, ut nunc usque patet quia in omnes gentes ducti sunt captivi, qui reliqui fuerunt ex eis. Nunquid tres viri isti, Noe, Daniel et Job, si fuissent in medio eorum, liberassent eos?",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 98,
+        "value": "De glorificatione Trinitatis "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 98
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "201": {
+    "id": 201,
+    "order": "199.00000000000000000000",
+    "passage": "quod factum est sub Vespasiano et Tito, principibus Romanorum",
+    "jad_id": "jad_occurence__201",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B6, Ch20",
+    "position_in_work_url": "",
+    "text_paragraph": "Amplius autem in eo ancilla vel filius ejus ejicitur, ne ludat cum Isaac, quod Jerusalem illa, quae serviebat cum filiis suis, et famosissimum illud templum Dei destruitur, et populus ille captivus in omnes gentes ducitur, 101 et sic totus ordo servilium caeremoniarum dissipatur: quod factum est sub Vespasiano et Tito, principibus Romanorum, videlicet ne novae legis Ecclesiae, vetus Synagoga tunc vehementius insultaret, sic in statu pristino perseveraret, quae nunc etiam sic ejecta superbire, et primogenita sibi vel filio suo ascribere audet. p. 0420B | Illam utique ejectionem idcirco passus est ille filius ancillae, quia lusit, quia filium liberae Christum regem, totius libertatis principem, illusit, flagellavit, crucifixit et occidit; et deinde domesticos ejus, libertos ejus male pertinaci ludo persecutus est.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 99,
+        "value": "Commentary Genesis "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 99
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "202": {
+    "id": 202,
+    "order": "200.00000000000000000000",
+    "passage": "Hoc enim irrecuperabiliter sub Vespasiano et Tito factum est",
+    "jad_id": "jad_occurence__202",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B6, Ch4",
+    "position_in_work_url": "",
+    "text_paragraph": "Audite verbum Domini, principes Sodomorum, percipite auribus legem Dei nostri, populus Gomorrhae * deplorans in hominibus defecisse: dicit circa finem ejusdem libri flebili conquestione: Non est qui invocet nomen tuum, non est qui consurgat p. 0406D | ut teneat te * . Videbat utique in Spiritu, versum Dominum ad Sodomam illam, nec esse quemquam qui teneret illum, propter abundantem 95 malitiam. Nam quid gemeret subsecutus aperuit. Deserta facta est Jerusalem, desolata domus sanctificationis nostrae, et gloriae nostrae, ubi laudaverunt te patres nostri, facta est in exustione ignis * . Hoc enim irrecuperabiliter sub Vespasiano et Tito factum est.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 15,
+        "value": "Is. 64,10"
+      },
+      {
+        "id": 132,
+        "value": "Is. 64,6"
+      },
+      {
+        "id": 136,
+        "value": "Is. 1,10"
+      }
+    ],
+    "work": [
+      {
+        "id": 99,
+        "value": "Commentary Genesis "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 99
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "203": {
+    "id": 203,
+    "order": "201.00000000000000000000",
+    "passage": "Hanc diebus Titi et Vespasiani Judaicus populus, magno ejulatu requisivit",
+    "jad_id": "jad_occurence__203",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B7, Ch18",
+    "position_in_work_url": "",
+    "text_paragraph": "Posuit namque David in Idumaea custodes, statuitque praesidium, et facta est universa Idumaea serviens David *, rectius tamen hic illa intelligitur servitus, de qua Sapientia dicit: Servo sensato liberi servient * . Hoc loco pinguedo terrae et ros coeli temporalis est saturitas ventris. Et haec illi extrema benedictio congruit, qui esuriem nesciebat gratiae spiritualis, quippe qui propter unam escam primogenita sua vendidit. Hanc diebus Titi et Vespasiani Judaicus populus, magno ejulatu requisivit, tenens in manibus cibos, non quibus libenter Isaac vesceretur, de venatione sua quos coxerat, id est, incredibili pertinacia magis quam tolerantia inter gladios hostium et sanguinem suum victimas importunas p. 0463D | offerens, ita ut ante aram (quod mirum erat hostibus spectaculum) et cadentes offerrent, et caderent offerentes.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 137,
+        "value": "Sir. 10,28"
+      }
+    ],
+    "work": [
+      {
+        "id": 99,
+        "value": "Commentary Genesis "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 99
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "204": {
+    "id": 204,
+    "order": "201.00000000000000000000",
+    "passage": "Per aprum de silva, et per singularem ferum, Titum et Vespasianum Romanos imperatores significans",
+    "jad_id": "jad_occurence__204",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B2, Ch7",
+    "position_in_work_url": "",
+    "text_paragraph": "Aliter: Dentes bestiarum immittam in eos cum furore trahentium 346 super terram, atque serpentium. Dentes bestiarum, id est p. 0974A | saevitiam vel arma Romanorum immittam in eos, cum furore trahentium super terram, id est absque misericordia residuos in captivitate ducentium in omnem terram, dentesque serpentium, id est saevitiam malignorum spirituum post cruciatus et mortes corporum, usque ad inferni novissima trahentium. Nam per bestias Romanos fortes ac feroces recte intelligi, illud pro testimonio vel exemplo est, quod Psalmista cum eamdem calamitatem deplorans dixisset: Ut quid destruxisti maceriam ejus, et diripiunt eam omnes qui praetergrediuntur viam * ? continuo subjunxit, exterminavit eam aper de silva, et singularis ferus depastus est eam * . Per aprum de silva, et per singularem ferum, Titum et Vespasianum Romanos imperatores significans. Igitur p. 0974B | dentes bestiarum super terram trahentium, arma sunt Romanorum occidentium, et in captivitatem trahentium. Colligens namque supradictus historiographus omnem numerum peremptorum vel fame, vel ferro, undecies centena millia designat.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 49,
+        "value": "Ps. 79,13"
+      },
+      {
+        "id": 50,
+        "value": "Ps. 79,14"
+      }
+    ],
+    "work": [
+      {
+        "id": 100,
+        "value": "Commentary Deutoronomy "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 100
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "205": {
+    "id": 205,
+    "order": "202.00000000000000000000",
+    "passage": "tricies centena millia Josephus dicit fuisse, scilicet justo judicio, tempore hoc ultionis electo, ut qui in diebus Paschae Salvatorem suum Dominum Jesum Christum, cruentis manibus, et sacrilegis vocibus violaverant, in ipsis diebus velut in unum carcerem omnis multitudo conclusa, feralis poenae exitium quod merebatur exciperet",
+    "jad_id": "jad_occurence__205",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B2, Ch7",
+    "position_in_work_url": "",
+    "text_paragraph": "Consumentur fame, et devorabunt eos aves morsu amarissimo. Dentes bestiarum immittam in eos cum furore trahentium super terram, atque serpentium. Foris vastabit eos gladius, et intus pavor, juvenem simul ac virginem, lactentem simul cum homine sene. Id plane erit sagittas meas compleri in eis. Consumentur p. 0973B | fame, videlicet in die solemni Paschae Jerosolymis congregati, velut exitiali manu quadam cogente, quos tricies centena millia Josephus dicit fuisse, scilicet justo judicio, tempore hoc ultionis electo, ut qui in diebus Paschae Salvatorem suum Dominum Jesum Christum, cruentis manibus, et sacrilegis vocibus violaverant, in ipsis diebus velut in unum carcerem omnis multitudo conclusa, feralis poenae exitium quod merebatur exciperet *. Quam dirae famis exitio consumpti sint, qui plenius nosse cupit, quintum praedicti Joseph historiarum librum legat, ex quo omnem eorum luctuosam tragaediam pernoscat. In quo illud permaxime horrendum fuit quod mulier quaedam Maria nomine, Eleazari filia, genere et facultatibus p. 0973C | nobilis, prae magnitudine famis, quasi in insaniam vel amentiam versa, parvulum quem sub uberibus habebat filium jugulat, ignique superpositum torret, et medium quidem consumit, medium vero servat obtectum.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 5,
+        "value": "Deut. 32,25"
+      },
+      {
+        "id": 139,
+        "value": "Deut. 32,24"
+      }
+    ],
+    "work": [
+      {
+        "id": 100,
+        "value": "Commentary Deutoronomy "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 16,
+        "value": "Concurrence Easter"
+      },
+      {
+        "id": 20,
+        "value": "Story of Mary/Miriam"
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 5,
+        "value": "Easter"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 100
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "206": {
+    "id": 206,
+    "order": "203.00000000000000000000",
+    "passage": "Judica, inquiens, Domine, nocentes me, expugna expugnantes me, apprehende arma et scutum, » videlicet Romanorum Titi et Vespasiani imperatorum",
+    "jad_id": "jad_occurence__206",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch5",
+    "position_in_work_url": "",
+    "text_paragraph": "Psalmus XXXIV in haec verba consequitur: « Judica, Domine, nocentes me, expugna impugnantes me. » Haec et caetera psalmi caput nostrum Christus de Judaeorum damnatione non orando, sed divino judicio concedendo dicit. Et recte his psalmis, qui praemissi sunt, iste ordine succedit. Ubi enim Domino Jesu glorificato justificati per fidem in sanguine ejus exsultaverunt justi, traditumque sibi gentibus proposuerunt ritum novi sacrificii, continuo Judaei Christum nocentes atque impugnantes, judicati atque expugnati sunt, perdito templo, et amissa terra, cujus in iracundia, juxta hunc psalmum, loquentes dolos cogitabant, dicendo: « Ne forte veniant Romani, et tollant nostrum locum et p. 1194D | gentem *. » Nimirum et usque hodie, in iracundia ejusdem terrae loquentes dolos cogitant, nimio quippe feruntur odio, ut nec nomen Christi audire sustineant, non ignorantes, licet negitent, quia propter sanguinem ejus perdiderunt terram. Recte igitur hic psalmus subsequitur: « Judica, inquiens, Domine, nocentes me, expugna expugnantes me, apprehende arma et scutum, » videlicet Romanorum Titi et Vespasiani imperatorum. « Et exsurge in adjutorium mihi, » ut abducantur in omnes gentes captivi, ne remanente illis loco, gente et pulchro templo, majus fiant scandalum evangelicae fidei.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 36,
+        "value": "Joh. 11,48"
+      },
+      {
+        "id": 99,
+        "value": "Ps. 34,2"
+      },
+      {
+        "id": 140,
+        "value": "Ps. 34,1"
+      }
+    ],
+    "work": [
+      {
+        "id": 102,
+        "value": "Commentary Psalms "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 102
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "207": {
+    "id": 207,
+    "order": "204.00000000000000000000",
+    "passage": "portentum fuisse mirabilis excidii Hierosolymorum, sub Tito et Vespasiano,",
+    "jad_id": "jad_occurence__207",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B5, Ch22",
+    "position_in_work_url": "",
+    "text_paragraph": "Quod, Helisaeo ascendente per viam, pueri illuserunt, et idcirco eos duo ursi de saltu egressi laceraverunt, portentum fuisse mirabilis excidii Hierosolymorum, sub Tito et Vespasiano, pro eo quod Christo illuserunt.\n\n¶\n  p. 1259D | « Ascendit autem inde Bethel. Cumque ascenderet per viam, pueri parvi egressi sunt de civitate, et illudebant ei dicentes: Ascende, calve, ascende, calve. Qui cum respexisset, vidit eos, et maledixit eis in nomine Domini. Egressique sunt duo ursi de saltu, et laceraverunt ex eis quadraginta duos pueros. » Post illa quae ante dicta sunt, miro et mystico ordine sequitur hoc factum. Quid enim nisi portentum fuit miserabilis excidii Jerosolymorum, quod post ascensionem Domini in Helia praefiguratum, et post transitum apostolorum ad gentes, qui per Helisaeum habitantem in Hierico signatus est constat esse factum? Duo nempe ursi de saltu egressi sunt, et pueros laceraverunt, quia duo imperatores, Vespasianus p. 1260A | pater et Titus filius, ab urbe Roma venerunt et Judaeos interfecerunt. Quam ob causam? Videlicet quia pueri Helisaeo illuserunt, quia stulti Judaei, et principes eorum pueri centum annorum * propter quod et maledicti sunt, Domino nostro illuserunt, et eum conspuerunt, faciem ejus velaverunt, colaphizaverunt, purpura induerunt, spinis coronaverunt, flagellaverunt, tandemque dixerunt: « Ascende, calve, ascende, calve. » Quo? In locum Calvariae, in crucem ascende. Cur enim tantus vir pueros in nomine Domini malediceret, nisi lusum eorum prophetico spiritu intellexisset? Nam quod intellexerit, ipsa littera praesens innuit. « Cum, inquit, respexisset, vidit eos, et maledixit. » Plane vidit eos, et intellexit eos, intellexit in eis pueros futuros, p. 1260B | pueros malignos, de quibus jam dictum est. Non ergo maledictio haec ex amaritudine irascentis, sed ex ratione fuit praevidentis. Hoc jam Helisaei signum tertium fuit.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 6,
+        "value": "4 Reg. 2,23"
+      },
+      {
+        "id": 7,
+        "value": "4 Reg. 2,24"
+      },
+      {
+        "id": 141,
+        "value": "Is. 65,20"
+      }
+    ],
+    "work": [
+      {
+        "id": 101,
+        "value": "Commentary KIngs "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 101
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "208": {
+    "id": 208,
+    "order": "205.00000000000000000000",
+    "passage": "donec civitates Judaeae, Vespasiano Titoque pugnantibus, penitus subvertantur",
+    "jad_id": "jad_occurence__208",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B1, Ch30",
+    "position_in_work_url": "",
+    "text_paragraph": "Excaeca, inquit, cor populi hujus. Et dixi: Usquequo, Domine? Et dixit: Donec desolentur civitates absque habitatore, etc. Et est sensus. Tandiu non audiet, et non videbit, et excaecatum habebit cor donec civitates Judaeae, Vespasiano Titoque pugnantibus, penitus subvertantur, in tantum ut ne nomen quidem pristinum remaneat, et domus si p. 1303A | quae remanseriut sine habitatore sint, et terra redigatur in solitudinem, et vel fuga vel captivitate in totum orbem Judaicus populus dispergatur, et nequaquam in Judaea, ut prius, sed in cunctis gentibus Judaeorum populus multiplicetur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 88,
+        "value": "Commentary Isaiah "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 88
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "209": {
+    "id": 209,
+    "order": "206.00000000000000000000",
+    "passage": "Non statim misi Titum et Vespasianum qui tollerent vestrum et locum et gentem, qui civitatem et templum destruerent, ita ut non remaneret lapis super lapidem, sed sustinui per annos quadraginta",
+    "jad_id": "jad_occurence__209",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B1, Ch6",
+    "position_in_work_url": "",
+    "text_paragraph": "Iniqui sunt coetus vestri, kalendas vestras, et solemnitates vestras odivit anima mea. Olim nolui, attamen tuli. Nunc autem jam non feram, nam odio profundo odivit haec anima mea. Facta sunt mihi molesta. At ex quo facta sunt mihi molesta, sustinui illa per annos quadraginta. Non statim misi Titum et Vespasianum qui tollerent vestrum et locum et gentem, qui civitatem et templum destruerent, ita ut non remaneret lapis super lapidem, sed sustinui per annos quadraginta. p. 1278A | 481 Laboravi sustinens. Quod tandiu sustinui, labor mihi fuit. Abominabar incensum vestrum, oderam neomeniam et Sabbatum vestrum, oderat anima mea coetus vestros, et stercus solemnitatum vestrarum.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 33,
+        "value": "Lk. 21,6"
+      },
+      {
+        "id": 36,
+        "value": "Joh. 11,48"
+      },
+      {
+        "id": 101,
+        "value": "Mt. 24,2"
+      }
+    ],
+    "work": [
+      {
+        "id": 88,
+        "value": "Commentary Isaiah "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 88
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "210": {
+    "id": 210,
+    "order": "207.00000000000000000000",
+    "passage": "De misera obsidione Hierusalem, facta a passione Christi anno quadragesimo primo sub Tito et Vespasiano imperatoribus",
+    "jad_id": "jad_occurence__210",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B1, Ch23",
+    "position_in_work_url": "",
+    "text_paragraph": "De misera obsidione Hierusalem, facta a passione Christi anno quadragesimo primo sub Tito et Vespasiano imperatoribus.\n\n¶\n  Anno primo delati imperii Vespasiano, qui erat a passione Domini nostri Jesu Christi quadragesimus primus, Titus paterni exsecutor electus triumphi cum electa manu Hierosolymam dirigitur, post tres annos susceptae expeditionis; nam hic erat annus quartus. Pater quippe Vespasianus, ut victis post commemorat filius Titus, cum potuisset improvisus in imparatos se infundere, Galilaeam circuibat, longinqua p. 1446D | exurebat, ut vos, inquit, deponeretis insolentiam, veniam postularetis. Virtutem ostendit, et cum universos terreret, Aegyptum petiit, ut inducias resipiscendi daret. Insolentiores vos nostra fecit absentia, quia nos occupatos putastis, etc. Quarto itaque expeditionis, primo, ut jam dictum est, imperii Vespasiani anno, repletis intra paucos dies ordinibus militarium numerorum, de quibus lecta manus missa fuerat in Italiam, ventum est ad urbem, quae ferebatur latronum armis premi, et factionum stipamine circumveniri, quippe cui tertius tyrannus Eleazarus accesserat, occupatis templi interioribus, et circuitu omni, supra fores quoque in vestibuli ipsius fronte armis constitutis. Simon vero, quem sibi tyrannum populus introduxerat, superiora urbis tenebat, p. 1447A | inferiora quoque populo ipsius replebantur. Inter tres medius erat Joannes, inferior Eleazaro, superior Simone, instructior tamen caeteris subsidiis machinarum, et omni genere telorum bellum aequabat. Instabat autem paschalis celebritas, et quemadmodum Moyses tanto tempore ante cecinerat, foris vastabat eos gladius, et intus pavor *, et ubi primum forense praelium commissum est, et paulisper quievit, internum successit. Namque paschalis, ut jam dictum est, interventu celebritatis, subornatis plerisque, Joannes quasi observationis gratia templum adiret, quippe cum ipsi factionum viri nunc se cohortati fuissent invicem, ut in unum conspirantibus studiis patriam defensarent, ne eorum discordia incruentam Romanis victoriam daret, p. 1447B | ita tanquam sociis data ingrediendi copia dolum patravit. Ingressi enim specie civili, sed interius armati, rejectis exuviis, gladios attollunt, loricato pectore, et praeliari accincti munimine. His malorum habitis initiis, totus exactus est annus miserabilis, palamque fuit miseris, tunc Barabbam seditionis auctorem vivere, Jesum 558 autem pacis principem sibi mortuum esse *. Hostis extra murum pacem offerebat, seditionis auctores intra murum praeliabantur. Cogebat fames egredi, quibus beneficium erat ferro perire, jejunii comparatione. Furebat intus Simon, furebat Joannes, insidiabantur singulis per ministros suos. Si quis fugere tentaret, tractus per humum discerpebatur. Eorum quoque qui abierant proximi p. 1447C | trucidabantur, aut cruci affixa plerorumque cadavera, suis qui elapsi fuerant, ostentabantur. Eo usque fames grassata est, ut mulier quaedam, Maria nomine, de locupletissimis regionibus Pereae, infantulum quem genuerat, gladio occisum, atque igni appositum, pietatis genitalis usu oblitterato comederet. Quid multa? Revertentis anni mense quinto, decima mensis, templum cujus jamdudum nuda facies remanserat, exustum est, quo die quondam Babyloniis ingruentibus fuerat incensum. Verum ante hoc muris dirutis patuerat excessus clausis ad Romanos confugiendi, tanta inedia confectis, ut appositis cibis, plerique cum quid absorbuissent mollioris alimoniae, interclusis jam faucium meatibus strangularentur. p. 1447D | Quis igitur non videat historiam tam atrocis tragoediae, cum numero convenire dierum hujus propheticae dormitionis in sinistro latere? Nempe et si paulo plures videantur miserae obsidionis, quam trecenti nonaginta dies, usque ad id, quo clausis ad Romanos confugiendi facultas facta est, quod tamen probare difficile est, attamen ad laborem prophetae pro tota parte anni secundi, quantulacunque fuerit, sufficiunt viginti quinque dies. Nunc ad ipsa prophetiae verba revertamur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 5,
+        "value": "Deut. 32,25"
+      },
+      {
+        "id": 143,
+        "value": "Ez. 4,1"
+      }
+    ],
+    "work": [
+      {
+        "id": 87,
+        "value": "Commentary Ezekiel "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 16,
+        "value": "Concurrence Easter"
+      },
+      {
+        "id": 20,
+        "value": "Story of Mary/Miriam"
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 5,
+        "value": "Easter"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 87
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "211": {
+    "id": 211,
+    "order": "208.00000000000000000000",
+    "passage": "Templum illud permansit usque ad imperium Vespasiani",
+    "jad_id": "jad_occurence__211",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B10, Ch5",
+    "position_in_work_url": "",
+    "text_paragraph": "Filius autem pontificis Onię de quo prediximus, qui defuncto patre adhuc p. 316 | puerulus fuerat derelictus, videns, inquit Iosephus, quod patruum suum Menelaum rex interfecisset et principatum sacerdotii Alchimo dedisset non existenti de genere sacerdotum flexus a Lisia, ut transponeret honorem ab ea jamilia ad aliam domum, fugit ad Ptholomeum regem Ęgypti et honorem meruit ab ipso et uxore eius Cleopatra locumque petiit in regione Eliopolithana, ubi simile Iherosolimorum ędificaret terriplum. Templum illud permansit usque ad imperium Vespasiani annis ducentis quinquaginta. Ipsa autem urbs, quę vocabatur Onię, postea dimicantibus adversum Romanos Iudeis ad solum usque deleta est et neque urbis neque templi restat vestigium.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 103,
+        "value": "De victoria verbi Dei "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 103
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "212": {
+    "id": 212,
+    "order": "209.00000000000000000000",
+    "passage": "civitatem Jerusalem et sanctuarium dissipavit populus Romanus cum duce, scilicet Vespasiano, sive filio ejus Tito",
+    "jad_id": "jad_occurence__212",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B3",
+    "position_in_work_url": "",
+    "text_paragraph": "Haec est causa, statimque subjunxit quod nunc pateris: Et non erit ejus populus, qui eum negaturus est. Et civitatem et sanctuarium dissipabit populus cum duce venturo; et finis ejus vastitas; et post finem belli statuta desolatio, et deficiet hostia et sacrificium, et in templo erit abominatio desolationis, et usque ad consummationem et finem perseverabit desolatio * . Confitere igitur quia propter peccatum negationis Christi, quem negasti p. 0606D | ante faciem Pilati, et occidisti, civitatem Jerusalem et sanctuarium dissipavit populus Romanus cum duce, scilicet Vespasiano, sive filio ejus Tito, et statuta perseverat desolatio, et tu non es populus ejus quem negasti. Quo malo tuo, scilicet non esse populum ejus, nihil deterius est. Non dixit: Et non erit populus ejus, qui eum occisurus est, sed, qui eum, inquit, negaturus est. Quod eum occidisti nihil tibi noceret, nisi negares eum pertinaciter. Ecce vita tua, sicut dixit Moyses, ut jam memini, quasi pendens est ante te, et non credis vitae tuae.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 20,
+        "value": "Dan. 9,24"
+      }
+    ],
+    "work": [
+      {
+        "id": 104,
+        "value": "Dialogus inter Christianum et Judaeum "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 16,
+          "database_table_3499": 104
+        },
+        "value": "Rupert, von Deutz"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "213": {
+    "id": 213,
+    "order": "210.00000000000000000000",
+    "passage": "Romanos intelligamus, sub duce Vespasiano et Tito, qui occisis Judaeae populis, praevaricatricem succenderint civitatem",
+    "jad_id": "jad_occurence__213",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B3",
+    "position_in_work_url": "",
+    "text_paragraph": "Rex autem cum audisset, iratus est.   De quo dictum supra fuerat: Simile factum est regnum coelorum homini regi, quando invitabat ad nuptias, et agebat opera clementiae, hominis nomen appositum est, nunc quando ad ultionem venit, homo siletur, et rex tantum dicitur.  \n\n    Et missis exercitibus suis, perdidit homicidas illos, et civitatem illorum succendit.   Exercitus, seu ultores angelos, de quibus in Psalmis scribitur: Immissiones per angelos pessimos [Al. malos ] *; seu Romanos intelligamus, sub duce Vespasiano et Tito, qui occisis Judaeae populis, praevaricatricem succenderint civitatem.  \n\n26.0160B | * Tunc ait servis suis: Nuptiae quidem paratae sunt; sed qui invitati erant non fuerunt digni.   Ite ergo ad exitus viarum, et quoscumque inveneritis, vocate ad nuptias.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 28,
+        "value": "Mt. 22,7"
+      }
+    ],
+    "work": [
+      {
+        "id": 106,
+        "value": "Commentary Matthew "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 27,
+          "database_table_3499": 106
+        },
+        "value": "Hieronymus, Sophronius Eusebius"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "214": {
+    "id": 214,
+    "order": "211.00000000000000000000",
+    "passage": "subversionem Jerusalem quae fuit peracta a Romanis",
+    "jad_id": "jad_occurence__214",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B2, Ch27",
+    "position_in_work_url": "",
+    "text_paragraph": "« Civitas munita desolata erit.   » Transit Propheta ad subversionem Jerusalem quae fuit peracta a Romanis.   Civitatem munitam appellat Jerusalem, quae quondam fuit munita custodia angelorum et muris.   « Speciosa » civitas, quae fuit temporibus David et Salomonis, plena omni dignitate, « relinquetur quasi desertum, et dimittetur » a Deo.\n\n¶\n    « Ibi pascetur vitulus, et ibi accubabit, et consumet summitates ejus.   » Vitulum appellat Titum et Romanorum exercitum, quem in psalmo David vocavit aprum dicens: « Vastavit eam aper de silva *.   » Sicuti vinea exsiccatur, si palmites et propagines excisae fuerint: sic illa civitas exsiccata p. 0846A | est ab habitatoribus suis.   Et quia superius dixit Propheta, ibi pascetur vitulus, id est in vinea, servavit metaphoram cum dixit: Et devorabit « summitates ejus.   »",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "value": "Commentary Isaiah "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, von Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "215": {
+    "id": 215,
+    "order": "212.00000000000000000000",
+    "passage": "judicabis eam plebem, » hoc est dicere: Qualia egerunt, talia recipient a Romanis",
+    "jad_id": "jad_occurence__215",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B2, Ch27",
+    "position_in_work_url": "",
+    "text_paragraph": "« In mensura contra mensuram.   Cum abjecta fuerit a te, judicabis eam plebem, » hoc est dicere: Qualia egerunt, talia recipient a Romanis.   Et aeternum supplicium in inferno modo patiuntur, et in die judicii augebitur illis poena gehennae.   Notandum quod dicit, cum abjecta fuerit a te, quando poenitentiam noluit agere de suis iniquitatibus, et apostolos ejus fugavit a se, nolens recipere praedicationem illorum.   « Meditatus est in spiritu suo duro per diem aestus, » vox prophetae.   Qui est meditatus?   p. 0845B | Deus omnipotens ipse est meditatus, id est ipse cogitavit et locutus est per diem aestus: hoc est tempore tribulationis vel suae vel apostolorum, quando patiebatur ab eis.   Quid redditurus esset eis?   Videlicet vastatorem Romanorum missurus super eos?",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "value": "Commentary Isaiah "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, von Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "216": {
+    "id": 216,
+    "order": "213.00000000000000000000",
+    "passage": "in tempore captivitatis Jerusalem",
+    "jad_id": "jad_occurence__216",
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
+    "manuscript_to_delete": [],
+    "position_in_work": "B2, Ch27",
+    "position_in_work_url": "",
+    "text_paragraph": "« Et erit in die illa, » hoc est in tempore captivitatis Jerusalem, « percutiet Dominus » omnem terram Judaeorum, « ab alveo fluminis, » hoc est, ab Euphrate flumine « usque ad torrentem Aegypti, » id est usque ad Nilum.   Melius habetur in septuaginta interpretibus, qui dicunt ab Euphrate usque ad Rinocoruram.   Est enim rivus non adeo magnus, qui dividit terram reprosmissionis et Aegyptum super quem Rinocorura civitas sita est.   Qui versus ita est intelligendus quod a loco in quo inchoatur usque ad eum locum ubi terminatur, a Romanis sit depraedata p. 0846D | omnis regio Judaeorum.   « Et vos congregabimini et omnes filii Israel.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "value": "Commentary Isaiah "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, von Auxerre"
+      }
+    ],
     "source_passage": [],
     "manuscript": [],
     "occurrence_ms": [],
