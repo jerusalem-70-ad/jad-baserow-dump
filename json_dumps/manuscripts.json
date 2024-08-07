@@ -74,7 +74,7 @@
       }
     ],
     "idno": "Latin 8865",
-    "catalog_url": "",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc623934",
     "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b6000541b",
     "not_before": null,
     "not_after": null,
@@ -132,7 +132,12 @@
     "not_before": null,
     "not_after": null,
     "written_date": null,
-    "institutional_context": []
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris"
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -156,7 +161,12 @@
     "not_before": null,
     "not_after": null,
     "written_date": null,
-    "institutional_context": []
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris"
+      }
+    ]
   },
   "8": {
     "id": 8,
@@ -555,7 +565,12 @@
     "not_before": null,
     "not_after": null,
     "written_date": null,
-    "institutional_context": []
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris"
+      }
+    ]
   },
   "24": {
     "id": 24,
@@ -579,7 +594,12 @@
     "not_before": null,
     "not_after": null,
     "written_date": null,
-    "institutional_context": []
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris"
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -603,7 +623,12 @@
     "not_before": null,
     "not_after": null,
     "written_date": null,
-    "institutional_context": []
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris"
+      }
+    ]
   },
   "26": {
     "id": 26,
@@ -723,7 +748,12 @@
     "not_before": null,
     "not_after": null,
     "written_date": "",
-    "institutional_context": []
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris"
+      }
+    ]
   },
   "31": {
     "id": 31,
@@ -747,7 +777,12 @@
     "not_before": null,
     "not_after": null,
     "written_date": "",
-    "institutional_context": []
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris"
+      }
+    ]
   },
   "32": {
     "id": 32,
@@ -819,6 +854,11 @@
     "not_before": "890",
     "not_after": "910",
     "written_date": "around 900",
-    "institutional_context": []
+    "institutional_context": [
+      {
+        "id": 2,
+        "value": "Benedictines Auxerre"
+      }
+    ]
   }
 }

@@ -74,7 +74,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -150,7 +150,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ]
       }
@@ -210,7 +218,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -219,7 +235,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -309,7 +325,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -394,7 +410,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -467,7 +483,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "Prefatio",
@@ -525,7 +557,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -607,7 +647,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -665,7 +721,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -793,7 +857,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -1318,7 +1390,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": []
@@ -1446,7 +1526,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": []
@@ -1520,7 +1608,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       },
       {
         "id": 31,
@@ -1557,7 +1661,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": "",
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -1620,7 +1740,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -1629,7 +1757,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -1712,7 +1840,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -1775,7 +1919,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -1784,7 +1936,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -1877,7 +2029,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           },
           {
             "id": 12,
@@ -1957,7 +2109,7 @@
           }
         ],
         "idno": "Latin 8865",
-        "catalog_url": "",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc623934",
         "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b6000541b",
         "not_before": null,
         "not_after": null,
@@ -2174,7 +2326,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           },
           {
             "id": 6,
@@ -2190,7 +2350,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -2416,7 +2576,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -2425,7 +2593,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -2604,7 +2772,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -2613,7 +2789,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -2738,7 +2914,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -2844,7 +3020,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -2945,7 +3121,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -3046,7 +3222,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -3152,7 +3328,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -3253,7 +3429,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -3359,7 +3535,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -3470,7 +3646,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -3576,7 +3752,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -3679,7 +3855,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -3749,7 +3925,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       },
       {
         "id": 30,
@@ -3786,7 +3978,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": "",
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -3845,7 +4053,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -3933,7 +4149,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -3992,7 +4224,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -4071,7 +4311,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -4125,7 +4381,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -4204,7 +4468,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -4263,7 +4543,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -4383,7 +4671,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           },
           {
             "id": 7,
@@ -4500,7 +4788,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           },
           {
             "id": 7,
@@ -4613,7 +4901,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           },
           {
             "id": 7,
@@ -4730,7 +5018,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           },
           {
             "id": 7,
@@ -4851,7 +5139,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -4962,7 +5250,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -5050,14 +5338,22 @@
         "written_date": "",
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 16,
+            "order": "16.00000000000000000000",
+            "name": "French schools",
+            "jad__id": "jad_institutional_context__16",
+            "part_of": []
+          }
+        ],
         "published_edition": [
           {
             "id": 2,
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -5156,7 +5452,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -5267,7 +5563,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           },
           {
             "id": 7,
@@ -5367,7 +5663,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           },
           {
             "id": 7,
@@ -5449,7 +5745,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "early 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
@@ -5459,7 +5755,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           },
           {
             "id": 12,
@@ -5564,7 +5860,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "around 600",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -5747,7 +6043,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "early 13",
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
@@ -5832,7 +6128,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "early 13",
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
@@ -5917,7 +6213,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "early 13",
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
@@ -6002,7 +6298,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "early 13",
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
@@ -6087,7 +6383,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "early 13",
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
@@ -6176,7 +6472,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ]
       }
@@ -6237,7 +6541,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -6601,7 +6913,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "mid 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -6610,7 +6922,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -6619,7 +6939,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -6704,7 +7024,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "mid 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -6713,7 +7033,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -6722,7 +7050,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -6824,7 +7152,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -6833,7 +7169,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -6928,7 +7264,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -7023,7 +7359,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -7122,7 +7458,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -7225,7 +7561,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -7320,7 +7656,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -7410,7 +7746,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -7508,7 +7844,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -7606,7 +7942,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -7699,7 +8035,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -7842,7 +8178,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -7851,7 +8195,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -8021,7 +8365,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -8030,7 +8382,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -8188,7 +8540,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -8197,7 +8557,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -8350,7 +8710,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -8359,7 +8727,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -8512,7 +8880,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -8521,7 +8897,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -8683,7 +9059,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -8692,7 +9076,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -8866,7 +9250,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -8875,7 +9267,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -9037,7 +9429,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -9046,7 +9446,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -9204,7 +9604,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -9213,7 +9621,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -9375,7 +9783,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -9384,7 +9800,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -9542,7 +9958,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -9551,7 +9975,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -9626,7 +10050,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -9678,9 +10118,9 @@
           "value": "Commentary",
           "color": "darker-green"
         },
-        "not_before": null,
+        "not_before": "1187",
         "not_after": null,
-        "written_date": "",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -9689,7 +10129,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -9804,7 +10252,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -9889,7 +10337,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -9979,7 +10427,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -10070,14 +10518,30 @@
         "written_date": "",
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
         "published_edition": [
           {
             "id": 2,
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -10156,7 +10620,7 @@
           "color": "red"
         },
         "not_before": null,
-        "not_after": null,
+        "not_after": "1186",
         "written_date": "",
         "notes": "",
         "notes__author": "",
@@ -10175,7 +10639,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           },
           {
             "id": 7,
@@ -10266,7 +10730,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "mid 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -10284,7 +10748,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -10364,7 +10828,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "mid 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -10382,7 +10846,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -10457,7 +10921,7 @@
         },
         "not_before": null,
         "not_after": null,
-        "written_date": "",
+        "written_date": "mid 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -10475,7 +10939,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -10565,7 +11029,12 @@
                 "order": "1.00000000000000000000",
                 "name": "University of Paris",
                 "jad__id": "jad_institutional_context__1",
-                "part_of": []
+                "part_of": [
+                  {
+                    "id": 16,
+                    "value": "French schools"
+                  }
+                ]
               }
             ]
           }
@@ -10666,7 +11135,12 @@
                 "order": "1.00000000000000000000",
                 "name": "University of Paris",
                 "jad__id": "jad_institutional_context__1",
-                "part_of": []
+                "part_of": [
+                  {
+                    "id": 16,
+                    "value": "French schools"
+                  }
+                ]
               }
             ]
           }
@@ -10742,7 +11216,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -10786,8 +11276,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -10796,7 +11286,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -10870,7 +11368,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -10919,8 +11433,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -10929,7 +11443,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -11003,7 +11525,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -11060,8 +11598,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -11070,7 +11608,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -11144,7 +11690,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -11188,8 +11750,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -11198,7 +11760,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -11272,7 +11842,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -11321,8 +11907,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -11331,7 +11917,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -11405,7 +11999,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -11454,8 +12064,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -11464,7 +12074,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -11538,7 +12156,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -11582,8 +12216,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -11592,7 +12226,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -11666,7 +12308,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -11710,8 +12368,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -11720,7 +12378,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -11794,7 +12460,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -11851,8 +12533,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -11861,7 +12543,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -11935,7 +12625,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -11979,8 +12685,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -11989,7 +12695,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -12063,7 +12777,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -12112,8 +12842,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -12122,7 +12852,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -12196,7 +12934,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -12245,8 +12999,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -12255,7 +13009,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -12329,7 +13091,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -12373,8 +13151,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -12383,7 +13161,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -12457,7 +13243,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -12506,8 +13308,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -12516,7 +13318,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -12590,7 +13400,23 @@
         "not_before": null,
         "not_after": null,
         "written_date": null,
-        "institutional_context": []
+        "institutional_context": [
+          {
+            "id": 1,
+            "order": "1.00000000000000000000",
+            "name": "University of Paris",
+            "jad__id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ]
       }
     ],
     "position_in_work": "",
@@ -12639,8 +13465,8 @@
           "color": "darker-green"
         },
         "not_before": null,
-        "not_after": null,
-        "written_date": "",
+        "not_after": "1197",
+        "written_date": "late 12",
         "notes": "",
         "notes__author": "",
         "institutional_context": [
@@ -12649,7 +13475,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -12742,7 +13576,15 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": []
+        "published_edition": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ]
       }
     ],
     "position_in_ms": "",
@@ -12828,7 +13670,15 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": []
+        "published_edition": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ]
       }
     ],
     "position_in_ms": "",
@@ -12910,7 +13760,15 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": []
+        "published_edition": [
+          {
+            "id": 2,
+            "order": "2.00000000000000000000",
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ]
       }
     ],
     "position_in_ms": "",
@@ -12998,7 +13856,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -13093,7 +13951,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -13200,7 +14058,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -13295,7 +14153,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -13389,7 +14247,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -13483,7 +14341,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -13573,7 +14431,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -13658,7 +14516,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -13748,7 +14606,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -13838,7 +14696,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -13928,7 +14786,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -14013,7 +14871,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -14098,7 +14956,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -14183,7 +15041,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -14277,7 +15135,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -14362,7 +15220,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -14456,7 +15314,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -14541,7 +15399,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -14631,7 +15489,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -14721,7 +15579,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -14815,7 +15673,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -14905,7 +15763,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -14990,7 +15848,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -15080,7 +15938,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -15228,7 +16086,15 @@
             "order": "1.00000000000000000000",
             "name": "University of Paris",
             "jad__id": "jad_institutional_context__1",
-            "part_of": []
+            "part_of": [
+              {
+                "id": 16,
+                "order": "16.00000000000000000000",
+                "name": "French schools",
+                "jad__id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
           }
         ],
         "published_edition": [
@@ -15237,7 +16103,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -15327,7 +16193,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -15417,7 +16283,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -15507,7 +16373,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -15597,7 +16463,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }
@@ -15687,7 +16553,7 @@
             "order": "2.00000000000000000000",
             "name": "Patrologia Latina",
             "jad_id": "jad_sources_occurrences__2",
-            "digi_url": ""
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ]
       }

@@ -142,7 +142,16 @@
     "name": "Christ cleansing Temple",
     "short_description": "",
     "jad_id": "jad_keyword__12",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 23,
+        "order": "23.00000000000000000000",
+        "name": "Temple",
+        "short_description": "",
+        "jad_id": "jad_keyword__23",
+        "part_of": []
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -238,9 +247,33 @@
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
-    "name": "",
+    "name": "Jerusalem's conquest 1244",
     "short_description": "",
     "jad_id": "jad_keyword__21",
+    "part_of": []
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "name": "Heresy",
+    "short_description": "",
+    "jad_id": "jad_keyword__22",
+    "part_of": []
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "name": "Temple",
+    "short_description": "",
+    "jad_id": "jad_keyword__23",
+    "part_of": []
+  },
+  "24": {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "name": "",
+    "short_description": "",
+    "jad_id": "jad_keyword__24",
     "part_of": []
   }
 }

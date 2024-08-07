@@ -4,7 +4,15 @@
     "order": "1.00000000000000000000",
     "name": "University of Paris",
     "jad__id": "jad_institutional_context__1",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 16,
+        "order": "16.00000000000000000000",
+        "name": "French schools",
+        "jad__id": "jad_institutional_context__16",
+        "part_of": []
+      }
+    ]
   },
   "2": {
     "id": 2,
@@ -111,7 +119,12 @@
         "order": "1.00000000000000000000",
         "name": "University of Paris",
         "jad__id": "jad_institutional_context__1",
-        "part_of": []
+        "part_of": [
+          {
+            "id": 16,
+            "value": "French schools"
+          }
+        ]
       }
     ]
   },
@@ -142,6 +155,13 @@
     "order": "15.00000000000000000000",
     "name": "See of Toledo",
     "jad__id": "jad_institutional_context__15",
+    "part_of": []
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "name": "French schools",
+    "jad__id": "jad_institutional_context__16",
     "part_of": []
   }
 }
