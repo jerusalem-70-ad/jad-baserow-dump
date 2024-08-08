@@ -420,7 +420,7 @@
     "digi_url": "",
     "not_before": null,
     "not_after": null,
-    "written_date": null,
+    "written_date": "14",
     "institutional_context": []
   },
   "18": {
@@ -492,8 +492,13 @@
     "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10024830x/f171.item",
     "not_before": null,
     "not_after": null,
-    "written_date": null,
-    "institutional_context": []
+    "written_date": "12",
+    "institutional_context": [
+      {
+        "id": 12,
+        "value": "St. Victor Paris"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -860,5 +865,53 @@
         "value": "Benedictines Auxerre"
       }
     ]
+  },
+  "35": {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "name": [
+      {
+        "id": 5,
+        "value": "Maz., MS 1001"
+      }
+    ],
+    "jad_id": "jad_manuscript__35",
+    "library": [
+      {
+        "id": 5,
+        "value": "Bibliothèque Mazarine"
+      }
+    ],
+    "idno": "MS 1001",
+    "catalog_url": "https://calames.abes.fr/pub/mazarine.aspx#details?id=MAZA14397",
+    "digi_url": "",
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "institutional_context": []
+  },
+  "36": {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "name": [
+      {
+        "id": 15,
+        "value": "Valenciennes, MS 227"
+      }
+    ],
+    "jad_id": "jad_manuscript__36",
+    "library": [
+      {
+        "id": 15,
+        "value": "Bibliothèque municipale (Valenciennes)"
+      }
+    ],
+    "idno": "MS 227",
+    "catalog_url": "",
+    "digi_url": "",
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "institutional_context": []
   }
 }

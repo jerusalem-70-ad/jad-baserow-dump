@@ -1593,10 +1593,20 @@
     "id": 54,
     "order": "53.00000000000000000000",
     "jad_id": "jad_occurence__54",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 287,
+        "value": "Ut appropinquavit etc dominus cum laudibus occurrentium intrans civitatem previdens eam in ultionem sanguinis sui funditus evertendam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BNF, Latin 620"
+      }
+    ],
+    "position_in_ms": "206r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -1607,16 +1617,26 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2024-08-05"
+    "last_modified_on": "2024-08-07"
   },
   "55": {
     "id": 55,
     "order": "54.00000000000000000000",
     "jad_id": "jad_occurence__55",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 288,
+        "value": "a domino signa et tempus eversionis Ierusalem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BNF, Latin 620"
+      }
+    ],
+    "position_in_ms": "208r-v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -1627,6 +1647,336 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2024-08-05"
+    "last_modified_on": "2024-08-07"
+  },
+  "56": {
+    "id": 56,
+    "order": "55.00000000000000000000",
+    "jad_id": "jad_occurence__56",
+    "occurrence": [
+      {
+        "id": 289,
+        "value": "Et missis exercitibus inter litteris exponere de captivitate facta per romanos, gloriosa de eterna dampnatione"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "BNF, Latin 620"
+      }
+    ],
+    "position_in_ms": "70v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-07"
+  },
+  "57": {
+    "id": 57,
+    "order": "56.00000000000000000000",
+    "jad_id": "jad_occurence__57",
+    "occurrence": [
+      {
+        "id": 290,
+        "value": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 20,
+        "value": "BNF, Latin 3570"
+      }
+    ],
+    "position_in_ms": "121r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-07"
+  },
+  "58": {
+    "id": 58,
+    "order": "57.00000000000000000000",
+    "jad_id": "jad_occurence__58",
+    "occurrence": [
+      {
+        "id": 291,
+        "value": "De Tyto et Vespasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 17,
+        "value": "Cambr. St.John's Coll., MS 127"
+      }
+    ],
+    "position_in_ms": "96r-103r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-07"
+  },
+  "59": {
+    "id": 59,
+    "order": "58.00000000000000000000",
+    "jad_id": "jad_occurence__59",
+    "occurrence": [
+      {
+        "id": 292,
+        "value": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 26,
+        "value": "BNF, Latin 3733"
+      }
+    ],
+    "position_in_ms": "95v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-07"
+  },
+  "60": {
+    "id": 60,
+    "order": "59.00000000000000000000",
+    "jad_id": "jad_occurence__60",
+    "occurrence": [
+      {
+        "id": 292,
+        "value": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 27,
+        "value": "Maz., MS 774"
+      }
+    ],
+    "position_in_ms": "180v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-07"
+  },
+  "61": {
+    "id": 61,
+    "order": "60.00000000000000000000",
+    "jad_id": "jad_occurence__61",
+    "occurrence": [
+      {
+        "id": 293,
+        "value": "Videns Ihesus ciuitatem. A Tyto et Vaspasiano pro sceleribus suis non multum post destruendam, fleuit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 28,
+        "value": "Maz., Ms 1026"
+      }
+    ],
+    "position_in_ms": "68r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-07"
+  },
+  "62": {
+    "id": 62,
+    "order": "61.00000000000000000000",
+    "jad_id": "jad_occurence__62",
+    "occurrence": [
+      {
+        "id": 14,
+        "value": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 35,
+        "value": "Maz., MS 1001"
+      }
+    ],
+    "position_in_ms": "79v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-07"
+  },
+  "63": {
+    "id": 63,
+    "order": "62.00000000000000000000",
+    "jad_id": "jad_occurence__63",
+    "occurrence": [
+      {
+        "id": 294,
+        "value": "Aperi Libane portas tuas et comedat ignis cedros tuas [Zach. XI, 1]. Zacharius XIus prophetarum post destructionem ciuitatis iam factam, aliam per Romanos dicit futuram"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 36,
+        "value": "Valenciennes, MS 227"
+      }
+    ],
+    "position_in_ms": "27v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-07"
+  },
+  "64": {
+    "id": 64,
+    "order": "63.00000000000000000000",
+    "jad_id": "jad_occurence__64",
+    "occurrence": [
+      {
+        "id": 5,
+        "value": "quatuor regna, scilicet assyriorum, babiloniorum, grecorum, et romanorum, qui destruxerunt Iudeos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "Maz., MS 177"
+      }
+    ],
+    "position_in_ms": "113r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-07"
+  },
+  "65": {
+    "id": 65,
+    "order": "64.00000000000000000000",
+    "jad_id": "jad_occurence__65",
+    "occurrence": [
+      {
+        "id": 295,
+        "value": "de destructione a babiloniis facta, sed de facta a romanis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "Maz., MS 177"
+      }
+    ],
+    "position_in_ms": "172r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-07"
+  },
+  "66": {
+    "id": 66,
+    "order": "65.00000000000000000000",
+    "jad_id": "jad_occurence__66",
+    "occurrence": [
+      {
+        "id": 296,
+        "value": "tyto et vespasiano ultione urbs capta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "Maz., MS 177"
+      }
+    ],
+    "position_in_ms": "188r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2024-08-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2024-08-07"
   }
 }

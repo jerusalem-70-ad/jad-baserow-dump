@@ -226,7 +226,7 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "early 8",
     "notes": null,
     "notes__author": null,
     "institutional_context": [],
@@ -297,7 +297,7 @@
     },
     "not_before": null,
     "not_after": null,
-    "written_date": "",
+    "written_date": "13",
     "notes": "",
     "notes__author": "autorschaft hugo fraglich?",
     "institutional_context": [
@@ -1779,7 +1779,7 @@
   "50": {
     "id": 50,
     "order": "49.00000000000000000000",
-    "name": "Commentary Ecclesiasticus ",
+    "name": "Commentary Sirach ",
     "jad_id": "jad_work__50",
     "author": [
       {
@@ -1788,7 +1788,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "Commentary Ecclesiasticus",
+    "title": "Commentary Sirach",
     "genre": {
       "id": 14727,
       "value": "Commentary",
@@ -3297,7 +3297,7 @@
   "95": {
     "id": 95,
     "order": "94.00000000000000000000",
-    "name": "Commentary Johannes ",
+    "name": "Commentary John ",
     "jad_id": "jad_work__95",
     "author": [
       {
@@ -3306,7 +3306,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "Commentary Johannes",
+    "title": "Commentary John",
     "genre": {
       "id": 14727,
       "value": "Commentary",
@@ -3369,7 +3369,7 @@
   "97": {
     "id": 97,
     "order": "96.00000000000000000000",
-    "name": "Commentary Ecclesiastes ",
+    "name": "Commentary Kohelet ",
     "jad_id": "jad_work__97",
     "author": [
       {
@@ -3378,7 +3378,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "Commentary Ecclesiastes",
+    "title": "Commentary Kohelet",
     "genre": {
       "id": 14727,
       "value": "Commentary",
@@ -3938,5 +3938,683 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": []
+  },
+  "115": {
+    "id": 115,
+    "order": "114.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__115",
+    "author": [
+      {
+        "id": 6,
+        "value": "Beda, Heiliger"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "not_before": null,
+    "not_after": "735",
+    "written_date": "early 8",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "116": {
+    "id": 116,
+    "order": "115.00000000000000000000",
+    "name": "Commentary Matthew ",
+    "jad_id": "jad_work__116",
+    "author": [
+      {
+        "id": 6,
+        "value": "Beda, Heiliger"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Matthew",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": "735",
+    "written_date": "early 8",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "117": {
+    "id": 117,
+    "order": "116.00000000000000000000",
+    "name": "Commentary Pentateuch ",
+    "jad_id": "jad_work__117",
+    "author": [
+      {
+        "id": 6,
+        "value": "Beda, Heiliger"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Pentateuch",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": "735",
+    "written_date": "early 8",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "118": {
+    "id": 118,
+    "order": "117.00000000000000000000",
+    "name": "Commentary Numeri ",
+    "jad_id": "jad_work__118",
+    "author": [
+      {
+        "id": 5,
+        "value": "Hrabanus, Maurus"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Numeri",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "119": {
+    "id": 119,
+    "order": "118.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__119",
+    "author": [
+      {
+        "id": 20,
+        "value": "Balduin, von Canterbury"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "not_before": null,
+    "not_after": "1190",
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "120": {
+    "id": 120,
+    "order": "119.00000000000000000000",
+    "name": "Commentary John ",
+    "jad_id": "jad_work__120",
+    "author": [
+      {
+        "id": 22,
+        "value": "Alkuin"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary John",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 14,
+        "value": "Carolingian court"
+      }
+    ],
+    "published_edition": []
+  },
+  "121": {
+    "id": 121,
+    "order": "120.00000000000000000000",
+    "name": "Commentary Kohelet ",
+    "jad_id": "jad_work__121",
+    "author": [
+      {
+        "id": 22,
+        "value": "Alkuin"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Kohelet",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "122": {
+    "id": 122,
+    "order": "121.00000000000000000000",
+    "name": "Homiliae ",
+    "jad_id": "jad_work__122",
+    "author": [
+      {
+        "id": 61,
+        "value": "Radulfus, Ardens"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Homiliae",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "late 12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ]
+  },
+  "123": {
+    "id": 123,
+    "order": "122.00000000000000000000",
+    "name": "De nugis curialum ",
+    "jad_id": "jad_work__123",
+    "author": [
+      {
+        "id": 62,
+        "value": "Walter, Map"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De nugis curialum",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition"
+      }
+    ]
+  },
+  "124": {
+    "id": 124,
+    "order": "123.00000000000000000000",
+    "name": "Liber adversus Graecos ",
+    "jad_id": "jad_work__124",
+    "author": [
+      {
+        "id": 63,
+        "value": "Aeneas, Parisiensis"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Liber adversus Graecos",
+    "genre": {
+      "id": 15026,
+      "value": "Polemics",
+      "color": "light-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "125": {
+    "id": 125,
+    "order": "124.00000000000000000000",
+    "name": "De commendatione fidei ",
+    "jad_id": "jad_work__125",
+    "author": [
+      {
+        "id": 20,
+        "value": "Balduin, von Canterbury"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De commendatione fidei",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "126": {
+    "id": 126,
+    "order": "125.00000000000000000000",
+    "name": "Homiliae dominicales ",
+    "jad_id": "jad_work__126",
+    "author": [
+      {
+        "id": 64,
+        "value": "Gottfried, von Admont"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Homiliae dominicales",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "127": {
+    "id": 127,
+    "order": "126.00000000000000000000",
+    "name": "Commentary Isaiah ",
+    "jad_id": "jad_work__127",
+    "author": [
+      {
+        "id": 32,
+        "value": "Anselm, von Laon"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Isaiah",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "128": {
+    "id": 128,
+    "order": "127.00000000000000000000",
+    "name": "Commentary Jacob ",
+    "jad_id": "jad_work__128",
+    "author": [
+      {
+        "id": 2,
+        "value": "Martin, von León"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Jacob",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "129": {
+    "id": 129,
+    "order": "128.00000000000000000000",
+    "name": "De fide catholica ",
+    "jad_id": "jad_work__129",
+    "author": [
+      {
+        "id": 18,
+        "value": "Isidorus, von Sevilla"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De fide catholica",
+    "genre": {
+      "id": 15026,
+      "value": "Polemics",
+      "color": "light-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "130": {
+    "id": 130,
+    "order": "129.00000000000000000000",
+    "name": "Commentary 1 Thes. ",
+    "jad_id": "jad_work__130",
+    "author": [
+      {
+        "id": 25,
+        "value": "Haimo, von Auxerre"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary 1 Thes.",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "131": {
+    "id": 131,
+    "order": "130.00000000000000000000",
+    "name": "Chronica ",
+    "jad_id": "jad_work__131",
+    "author": [
+      {
+        "id": 65,
+        "value": "Frechulf, von Lisieux"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronica",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "132": {
+    "id": 132,
+    "order": "131.00000000000000000000",
+    "name": "Explanatio symboli S. Athanasii ",
+    "jad_id": "jad_work__132",
+    "author": [
+      {
+        "id": 66,
+        "value": "Hildegard, von Bingen"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Explanatio symboli S. Athanasii",
+    "genre": {
+      "id": 15028,
+      "value": "Hagiography",
+      "color": "darker-blue"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "133": {
+    "id": 133,
+    "order": "132.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__133",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 20,
+        "value": "BNF, Latin 3570"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 12,
+        "value": "St. Victor Paris"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None"
+      }
+    ]
+  },
+  "134": {
+    "id": 134,
+    "order": "133.00000000000000000000",
+    "name": "De Tyto et Vespasiano ",
+    "jad_id": "jad_work__134",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 17,
+        "value": "Cambr. St.John's Coll., MS 127"
+      }
+    ],
+    "title": "De Tyto et Vespasiano",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "135": {
+    "id": 135,
+    "order": "134.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__135",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 36,
+        "value": "Valenciennes, MS 227"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "136": {
+    "id": 136,
+    "order": "135.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__136",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 22,
+        "value": "Troyes, MS 653"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "12",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": []
+  },
+  "137": {
+    "id": 137,
+    "order": "136.00000000000000000000",
+    "name": "Commentary Lamentations ",
+    "jad_id": "jad_work__137",
+    "author": [
+      {
+        "id": 10,
+        "value": "Langton, Stephen"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "Maz., MS 177"
+      }
+    ],
+    "title": "Commentary Lamentations",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None"
+      }
+    ]
   }
 }

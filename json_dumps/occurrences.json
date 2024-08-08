@@ -72,7 +72,7 @@
     "source_passage": [
       {
         "id": 45,
-        "value": "Quod flente Domino illa Ierosolymorum subuersio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
       }
     ],
     "manuscript": [],
@@ -333,18 +333,30 @@
       {
         "id": 2,
         "value": "BNF, Latin 492"
+      },
+      {
+        "id": 5,
+        "value": "Maz., MS 177"
       }
     ],
     "occurrence_ms": [
       {
         "id": 2,
         "value": "jad_occurence__2"
+      },
+      {
+        "id": 64,
+        "value": "jad_occurence__64"
       }
     ],
     "main_ms": [
       {
         "id": 2,
         "value": true
+      },
+      {
+        "id": 64,
+        "value": false
       }
     ]
   },
@@ -995,18 +1007,30 @@
       {
         "id": 2,
         "value": "BNF, Latin 3301C"
+      },
+      {
+        "id": 5,
+        "value": "Maz., MS 1001"
       }
     ],
     "occurrence_ms": [
       {
         "id": 14,
         "value": "jad_occurence__14"
+      },
+      {
+        "id": 62,
+        "value": "jad_occurence__62"
       }
     ],
     "main_ms": [
       {
         "id": 14,
         "value": true
+      },
+      {
+        "id": 62,
+        "value": false
       }
     ]
   },
@@ -1116,7 +1140,12 @@
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
     "author_lookup": [
       {
         "ids": {
@@ -3107,7 +3136,7 @@
   "45": {
     "id": 45,
     "order": "45.00000000000000000000",
-    "passage": "Quod flente Domino illa Ierosolymorum subuersio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+    "passage": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
     "jad_id": "jad_occurence__45",
     "language": {
       "id": 14729,
@@ -3673,7 +3702,12 @@
       }
     ],
     "position_move_to_occurrence_ms": "",
-    "sources_used": [],
+    "sources_used": [
+      {
+        "id": 28,
+        "value": "Gregor, der Grosse"
+      }
+    ],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
@@ -3693,7 +3727,12 @@
         "value": "anonymous"
       }
     ],
-    "source_passage": [],
+    "source_passage": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
     "manuscript": [
       {
         "id": 2,
@@ -3724,12 +3763,17 @@
       "color": "dark-yellow"
     },
     "manuscript_to_delete": [],
-    "position_in_work": "",
+    "position_in_work": "Dan., Ch10",
     "position_in_work_url": "",
     "text_paragraph": "Non igitur ut legitur, ita adimpletur, sed ut totum pariter supputatur, ita finem accepit. Nec ignorandum quosdam illorum dixisse, quod una hebdomada de qua dicitur: « Confirmabit pactum multis hebdomada una, » dividatur in Vespasianum et Adrianum, ut, juxta historiam Josephi, Vespasianus et Titus tribus annis et sex mensibus pacem cum Judaeis fecerunt, tres autem annis, et sex menses sub Adriano, computentur, quando Jerusalem omnino p. 1462A | subversa est, et Judaei catervatim caesi, ita ut Judaeae quoque finibus propellerentur. Haec aiunt Hebraei, non magnopere curantes, a primo anno Darii regis Persarum, usque ad extremam eversionem Jerusalem, quae sub Adriano accidit, computari olympiades centum septuaginta duas, hoc est annos sexcentos nonaginta sex, qui faciunt hebdomadas Hebraicas nonaginta novem et annos tres, quando Corbas dux Hebraeorum est oppressus, et Jerusalem usque ad solum diruta est.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 78,
+        "value": "Dan. 9"
+      }
+    ],
     "work": [
       {
         "id": 42,
@@ -3778,7 +3822,7 @@
       "color": "dark-yellow"
     },
     "manuscript_to_delete": [],
-    "position_in_work": "",
+    "position_in_work": "Ev., Ch139",
     "position_in_work_url": "",
     "text_paragraph": "« Cum autem videritis ab exercitu circumdari Jerusalem, p. 1610C | tunc qui in Judaea sunt, fugiant in montes (Matth. XXIV; Luc. XXI; Marc. XXIII). » Ecclesiastica Historia narrat: Fideles, qui erant in Judaea, advenientibus Romanis, fugisse in Pellam civitatem admonitione angeli. « Orate autem, ne fiat fuga vestra in hieme, vel Sabbato, » hoc ad litteram non videtur dictum de hieme. Terra enim illa accommodatior videtur fugae in hieme, quam in fervore aestatis. De Sabbato stare potest, quia secundum legem ultra mille passus, non licebat eis pro gredi in Sabbato. Sed quia Jesus jam terminaverat observantiam Sabbati, forte utrumque in mysterio dixit. Nisi hiemem pro qualibet aeris asperitate dicamus, quia hiemis nomen asperitatem sonat.",
     "note": "",
@@ -5615,7 +5659,7 @@
     "work": [
       {
         "id": 50,
-        "value": "Commentary Ecclesiasticus "
+        "value": "Commentary Sirach "
       }
     ],
     "position_move_to_occurrence_ms": "",
@@ -12104,7 +12148,7 @@
     "work": [
       {
         "id": 95,
-        "value": "Commentary Johannes "
+        "value": "Commentary John "
       }
     ],
     "position_move_to_occurrence_ms": "",
@@ -12162,7 +12206,7 @@
     "work": [
       {
         "id": 95,
-        "value": "Commentary Johannes "
+        "value": "Commentary John "
       }
     ],
     "position_move_to_occurrence_ms": "",
@@ -12278,7 +12322,7 @@
     "work": [
       {
         "id": 97,
-        "value": "Commentary Ecclesiastes "
+        "value": "Commentary Kohelet "
       }
     ],
     "position_move_to_occurrence_ms": "",
@@ -15511,6 +15555,2166 @@
         "value": "Gerhoch, von Reichersberg"
       }
     ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "258": {
+    "id": 258,
+    "order": "252.00000000000000000000",
+    "passage": "Quod flente Domino illa Jerosolymorum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est",
+    "jad_id": "jad_occurence__258",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Sermo 136",
+    "position_in_work_url": "",
+    "text_paragraph": "In illo tempore, cum appropinquaret Jesus Jerosolymam, videns civitatem, flevit super illam, dicens. Quia si cognovisses et tu, etc. Quod flente Domino illa Jerosolymorum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est, nullus qui historiam eversionis ejusdem legit, ignorat. Sed quaerendum prius 110.0407A | est, quid sit quod dicitur, videns civitatem flevit super illam dicens quia si cognovisses et tu. Flevit etenim pius Redemptor ruinam perfidae civitatis, quam ipsa sibi civitas non cognoscebat esse venturam, cui a flente Domino recte dicitur, quia si cognovisses et tu, subaudit, flevisses, sed modo quia nescis quid immineat exsultas. Unde et subditur:\n\n    Et quidem in hac die tua, quae ad pacem tibi.   Cum enim carnis se voluptatibus daret, ventura mala non prospiciens, in die sua, quae ad pacem ei esse poterant habebat.   Cur vero bona praesentia ad pacem habuerit, manifestatur, cum subditur:\n\n    Nunc autem abscondita sunt ab oculis tuis.   Si enim cordis ejus oculis mala quae imminerent abscondita non essent, laeta in praesentibus prosperis non fuisset.   p. 0407B | Cujus mox etiam poena, quae de Romanis, sicut praedixi, principibus imminebat adjuncta est, cum dicitur:\n\n    Quia venient in te dies; et circumdabunt te inimici tui vallo, et circumdabunt te, et coangustabunt te undique: et ad terram prosternent te, et filios tuos qui in te sunt.   Hoc quoque quod additur: Et non relinquent in te lapidem super lapidem.   Etiam ipsa jam ejusdem civitatis transmigratio testatur, quia dum nunc in eo loco constructa est ubi extra portam Dominus crucifixus fuerat: prior illa Jerusalem funditus est eversa.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 1,
+        "value": "Lk. 19,41"
+      },
+      {
+        "id": 3,
+        "value": "Lk. 19,43"
+      },
+      {
+        "id": 33,
+        "value": "Lk. 21,6"
+      }
+    ],
+    "work": [
+      {
+        "id": 5,
+        "value": "Sermones "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 28,
+        "value": "Gregor, der Grosse"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 1,
+        "value": "X Sunday after Holy Trinity"
+      }
+    ],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 5,
+          "database_table_3499": 5
+        },
+        "value": "Hrabanus, Maurus"
+      }
+    ],
+    "source_passage": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "259": {
+    "id": 259,
+    "order": "253.00000000000000000000",
+    "passage": "Quod flente Domino illa Hierosolymorum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est",
+    "jad_id": "jad_occurence__259",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Sermo 9",
+    "position_in_work_url": "",
+    "text_paragraph": "n illo tempore, cum appropinquasset Jesus Hierusalem, videns civitatem flevit super illam, dicens: Quia si cognovisses et tu, et quidem in hac die tua quae ad pacem p. 0286D | tibi, nunc autem abscondita sunt ab oculis tuis.   Quia veniet dies in te, et circumdabunt te inimici tui vallo, et circumdabunt te, et coangustabunt te undique, etc.\n\n    Quod flente Domino illa Hierosolymorum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est, nullus qui historiam eversionis ejusdem legit, ignorat.   Sed quaerendum prius est quid sit quod dicitur:\n\n    Videns civitatem, flevit super illam dicens: Quia si cognovisses et tu.   Flevit etenim pius Redemptor ruinam perfidae civitatis, quam ipsa sibi civitas non cognoscebat esse venturam.   Cui a flente Domino recte dicitur, Quia si cognovisses et tu, subaudis fleveras, quae modo, quia nescis quod imminet, exsultas; unde et subditur:\n\n¶\n    Et quidem in hac die tua quae ad pacem tibi.   Cum enim carnis voluptatibus se daret, ventura mala non prospiceret, in die sua quae ad pacem ei esse p. 0287A | poterant, habebat.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 1,
+        "value": "Lk. 19,41"
+      },
+      {
+        "id": 3,
+        "value": "Lk. 19,43"
+      }
+    ],
+    "work": [
+      {
+        "id": 115,
+        "value": "Sermones "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 28,
+        "value": "Gregor, der Grosse"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 1,
+        "value": "X Sunday after Holy Trinity"
+      }
+    ],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 6,
+          "database_table_3499": 115
+        },
+        "value": "Beda, Heiliger"
+      }
+    ],
+    "source_passage": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "260": {
+    "id": 260,
+    "order": "254.00000000000000000000",
+    "passage": "a Romano exercitu facta est",
+    "jad_id": "jad_occurence__260",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Sermo 138",
+    "position_in_work_url": "",
+    "text_paragraph": "In illo tempore, respondens Jesus discipulis suis dixit: Cum videritis circumdari ab exercitu Jerusalem, tunc scitote quia appropinquabit desolatio ejus, etc. Hactenus ea quae per quadraginta annos necdum fine veniente futura erant, hinc ipse finis desolationis, quae 110.0412B | a Romano exercitu facta est, Domini verbis exponitur. Tunc qui in Judaea sunt fugiant in montes. Ecclesiastica narrat historia, cunctos qui in Judaea erant Christianos imminente Hierosolymorum excidio commonitos a Domino loco decessisse, et trans Jordanem in civitate quadam Pella nomine donec desolatio Judaeae compleretur habitasse.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 34,
+        "value": "Lk. 21,20"
+      }
+    ],
+    "work": [
+      {
+        "id": 5,
+        "value": "Sermones "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 6,
+        "value": "Beda, Heiliger"
+      },
+      {
+        "id": 60,
+        "value": "Eusebius, von Caesarea"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 1,
+        "value": "X Sunday after Holy Trinity"
+      }
+    ],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 5,
+          "database_table_3499": 5
+        },
+        "value": "Hrabanus, Maurus"
+      }
+    ],
+    "source_passage": [
+      {
+        "id": 261,
+        "value": "ipse finis desolationis, quae a Romano exercitu facta est"
+      }
+    ],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "261": {
+    "id": 261,
+    "order": "255.00000000000000000000",
+    "passage": "ipse finis desolationis, quae a Romano exercitu facta est",
+    "jad_id": "jad_occurence__261",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "B6",
+    "position_in_work_url": "",
+    "text_paragraph": "Custodem igitur conditionis nostrae patientiam Dominus esse monstravit, qui in ipsa nos possidere nosmetipsos docuit. Patientia autem vera est, aliena p. 0587D | mala aequanimiter perpeti, contra eum quoque qui mala irrogat, nullo dolore moveri. Nam qui sic proximi mala portat, ut tamen tacitus doleat, et tempus dignae retributionis quaerat, patientiam non exhibet, sed ostendit. Cum autem videritis circumdari ab exercitu Jerusalem, tunc scitote quia appropinquavit desolatio ejus. Hactenus ea quae per quadraginta annos necdum fine adveniente futura erant; hinc ipse finis desolationis, quae a Romano exercitu facta est, Dominis verbis exponitur. Tunc qui in Judaea sunt, fugiant in montes. Ecclesiastica narrat historia cunctos qui in Judaea erant Christianos, imminente Jerosolymorum excidio, commonitos a Domino loco decessisse, et trans Jordanem p. 0588A | in civitate quadam Pella nomine, donec desolatio Judaeae compleretur, habitasse.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 34,
+        "value": "Lk. 21,20"
+      }
+    ],
+    "work": [
+      {
+        "id": 6,
+        "value": "Commentary Luke "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 60,
+        "value": "Eusebius, von Caesarea"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 6,
+          "database_table_3499": 6
+        },
+        "value": "Beda, Heiliger"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "262": {
+    "id": 262,
+    "order": "256.00000000000000000000",
+    "passage": "Missis itaque exercitibus angelorum sive ducibus Romanorum",
+    "jad_id": "jad_occurence__262",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "B3, Ch22",
+    "position_in_work_url": "",
+    "text_paragraph": "Illi autem neglexerunt, etc. In villam ire, est labori terreno immoderate incumbere; in negotiationem p. 0096A | vero ire, est actionum saecularium lucris inhiare, per quae quis secundum mysterium Incarnationis dominicae, vivere dissimulat. Reliqui vero tenuerunt servos ejus, etc. Missis itaque exercitibus angelorum sive ducibus Romanorum, perdidit superbos martyrum persecutores, et civitatem illorum succendit, quia illorum non solum animae sed caro quoque in qua habitaverant, gehennae flamma cruciabitur. Quod sequitur, de reprobatione Judaeorum et vocatione gentium apertissime sonat.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 28,
+        "value": "Mt. 22,7"
+      }
+    ],
+    "work": [
+      {
+        "id": 116,
+        "value": "Commentary Matthew "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 6,
+          "database_table_3499": 116
+        },
+        "value": "Beda, Heiliger"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "263": {
+    "id": 263,
+    "order": "257.00000000000000000000",
+    "passage": "adversum populum Christianorum decem vindictae fuerunt a Romanis",
+    "jad_id": "jad_occurence__263",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch11-12",
+    "position_in_work_url": "",
+    "text_paragraph": "Ulcera autem arguunt peccatorum atque arrogantiae tumorem, fervoremque furoris exstinguunt; ab his et post has voces filiorum tonitrui, id est, evangelicas doctrinas. Et castigationem grandinis amovet, ut luxurias voluptatesque coerceat. Adhibet simul et ignem poenitentiae locustarum, ab illa 91.0303D | subducit exemplo, quibus mordeantur et depascantur omnes inquieti motus illius et turbidi, ut omnia secundum ordinem fiant. Ubi vero confiteri coeperit quid digitus Dei est, et parvum quid agnitionis acceperit, tunc gestorum suorum tenebras videt; cumque viderit tunc merebitur ut exstinguantur in illa primogenita Aegypti, quae sunt delicta juventutis et ignorantiae. Primum enim motus in peccatum ruit; si autem noluerit jungi Israeliticae plebi, non poterit de profundo evadere. Alio quoque sensu hoc idem possumus intelligere. Nam sicut decem contradictiones ab Aegyptiis adversum populum Israel, sic adversum Christum et adversum populum Christianorum decem vindictae fuerunt a Romanis. Ibi prima 91.0304A | plaga aquae vertuntur in sanguinem. Hic prima plaga sub Nerone exegit ut ibi morientium sanguis esset, vel moribus in urbe corruptis, vel in bellis in orbe sicut sanguis: illic tam in puteis, quam in fluminibus fuit. Ibi sequens plaga perstrepentes petulantesque in penetralibus ranas, inediae propemodum causa habitatoribus atque in illis fuisse. Hic sequens sub Domitiano poenam similiter satellitum illius improbis effrenatisque discursibus, cruentissimi principis jussa exsequentium compulit ad inopiam per omnes fideles civesque Romanos adactos, exsilioque dispersos.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 170,
+        "value": "Ex. 11"
+      },
+      {
+        "id": 173,
+        "value": "Ex. 12"
+      }
+    ],
+    "work": [
+      {
+        "id": 117,
+        "value": "Commentary Pentateuch "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 6,
+          "database_table_3499": 117
+        },
+        "value": "Beda, Heiliger"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "264": {
+    "id": 264,
+    "order": "258.00000000000000000000",
+    "passage": "gentes congregati sunt cum Romanis imperatoribus Vespasiano et Tito, ut interficerent eos, roburque imperii eorum confringentes, comminuerent, atque instrumentis bellicis Jerusalem metropolim eorum superatam funditus everterent",
+    "jad_id": "jad_occurence__264",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "B3, Ch7",
+    "position_in_work_url": "",
+    "text_paragraph": "Devorabunt gentes hostes illius, ossaque eorum 108.0753B | confringent, et perforabunt sagittis. Hostes autem Domini Christi, impios Judaeos appellat, de quibus ipsa Veritas in parabola evangelica de homine nobili, qui abiit in regionem longinquam accipere regnum sibi et reverti, narrans commemorat, cum subinfert dicens: Cives autem ejus oderant illum: et miserunt legationem post illum dicentes: Nolumus hunc regnare super nos (Luc. XIX). Contra has enim gentes congregati sunt cum Romanis imperatoribus Vespasiano et Tito, ut interficerent eos, roburque imperii eorum confringentes, comminuerent, atque instrumentis bellicis Jerusalem metropolim eorum superatam funditus everterent gentemque delerent, in ultionem innocentis effusi sanguinis Domini.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 148,
+        "value": "Lk. 19,14"
+      }
+    ],
+    "work": [
+      {
+        "id": 118,
+        "value": "Commentary Numeri "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 5,
+          "database_table_3499": 118
+        },
+        "value": "Hrabanus, Maurus"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "265": {
+    "id": 265,
+    "order": "259.00000000000000000000",
+    "passage": "venient Romani et tollent nostrum locum et gentem",
+    "jad_id": "jad_occurence__265",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Tractatus 11",
+    "position_in_work_url": "",
+    "text_paragraph": "Hic homo amicus mundi est, et inimicus Dei constituitur. Hic est enim, qui contra Christum clamat, dicens: Tolle, tolle, crucifige eum (Joan. XIX). Terreni nempe erant, qui dicebant: Si dimittimus eum sic, omnes credent in eum; et venient Romani et tollent nostrum 204.0523B | locum et gentem (Joan. XI). Nondum invidia terreni hominis contra Christum quievit. Persequitur enim Christum in nobis, ne vivat Christus in nobis. Si quis igitur Christi est, armet se zelo vindictae contra persecutores Christi. Clamemus ad alterutrum pro Christo contra inimicum Christi: Tolle, tolle, crucifige eum.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 36,
+        "value": "Joh. 11,48"
+      },
+      {
+        "id": 37,
+        "value": "Joh. 19,15"
+      }
+    ],
+    "work": [
+      {
+        "id": 119,
+        "value": "Sermones "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 20,
+          "database_table_3499": 119
+        },
+        "value": "Balduin, von Canterbury"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "266": {
+    "id": 266,
+    "order": "260.00000000000000000000",
+    "passage": "venient Romani, et tollent nostrum locum et gentem",
+    "jad_id": "jad_occurence__266",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "B5, Ch28",
+    "position_in_work_url": "",
+    "text_paragraph": "Collegerunt ergo pontifices et Pharisaei concilium, et dicebant: Quid faciemus? « Nec tamen dicebant, credamus. Plus enim perditi homines cogitabant quomodo nocerent ut perderent, quam quomodo sibi consulerent ne perirent: et tamen timebant, et quasi consulebant. (VERS. 48.) Dicebant enim: Quid faciemus? Quia hic homo multa signa facit: si dimittimus eum sic, omnes credent in eum, et venient Romani, et tollent nostrum locum et gentem. 100.0903D | Temporalia perdere noluerunt [ Aug., timuerunt], et vitam aeternam non cogitaverunt; ac sic utrumque amiserunt. Nam et Romani post Domini passionem et glorificationem tulerunt eis locum et gentem, et pugnando [ Aug., expugnando] et transferendo; et illud eos sequitur quod alibi dictum est: Filii autem regni hujus ibunt in tenebras exteriores (Matth. VIII, 12). Hoc autem timuerunt, ne, si omnes in Christum crederent, nemo remaneret qui adversus Romanos civitatem Dei templumque defenderet:",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 36,
+        "value": "Joh. 11,48"
+      },
+      {
+        "id": 155,
+        "value": "Mt. 8,12"
+      }
+    ],
+    "work": [
+      {
+        "id": 120,
+        "value": "Commentary John "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 22,
+          "database_table_3499": 120
+        },
+        "value": "Alkuin"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "267": {
+    "id": 267,
+    "order": "261.00000000000000000000",
+    "passage": "haec omnia fratres mei, quae Dominus praedixit, impleta sunt per Romanos principes, Titum et Vespasianum",
+    "jad_id": "jad_occurence__267",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Sermo 23",
+    "position_in_work_url": "",
+    "text_paragraph": "Et quidem in hac die tua quae ad pacem tibi, ac si dicat: Nunc quidem habes tempus tuum, et pacem tuam, nunc gaudes et delectaris tempore prosperitatis et pacis p. 2024C | tuae, nunc autem abscondita sunt ab oculis tuis, mala scilicet tibi ventura.   Quae subjungit: Quia circumdabunt te inimici tui vallo, et circumdabunt te undique, et ad terram prosternent te, et filios tuos qui in te sunt, et non relinquent in te lapidem super lapidem; haec omnia fratres mei, quae Dominus praedixit, impleta sunt per Romanos principes, Titum et Vespasianum, quadragesimo anno a passione Domini, et in eadem solemnitate, in qua Dominum crucifixerant, subversa est civitas, et de ipsis occisi, tum ferro, tum fame, decies centum millia.   Caeteri per nationes captivati et venditi, triginta uno denario, qui Christum triginta argenteis vendiderant.   Hanc autem subversionem testatur ipse situs civitatis p. 2024D | continentis in se nunc Calvariae locum, qui prius extra portam erat.   Quare autem haec mala evenerunt eis, ostendit Dominus, cum subdit: Eo quod non cognoveris tempus visitationis tuae.   Ideo enim haec mala eis erant eventura, quia Christum visitatorem suum et redemptorem cognoscere noluerunt.   Unde propheta: Milvus in coelo cognovit tempus suum, turtur, hirundo, et ciconia tempus adventus sui, populus autem meus non cognovit judicium Dei",
+    "note": "Hanska",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 3,
+        "value": "Lk. 19,43"
+      },
+      {
+        "id": 33,
+        "value": "Lk. 21,6"
+      },
+      {
+        "id": 157,
+        "value": "Jer. 8,7"
+      }
+    ],
+    "work": [
+      {
+        "id": 122,
+        "value": "Homiliae "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 16,
+        "value": "Concurrence Easter"
+      }
+    ],
+    "part_of_cluster": [
+      {
+        "id": 2,
+        "value": "Third Crusade"
+      }
+    ],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 1,
+        "value": "X Sunday after Holy Trinity"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 10,
+        "value": "Secondary literature"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 61,
+          "database_table_3499": 122
+        },
+        "value": "Radulfus, Ardens"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "268": {
+    "id": 268,
+    "order": "262.00000000000000000000",
+    "passage": "Pater iratus, missis exercitibus suis, per ministerium Romanorum",
+    "jad_id": "jad_occurence__268",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Sermo 43",
+    "position_in_work_url": "",
+    "text_paragraph": "Contra quos loquitur Psalmista, Quoniam non cognovi, inquit, negotiationem, vel secundum aliam translationem, litteraturam, introibo in potentias Domini (Psal. LXX). Reliqui vero tenuerunt servos ejus, id est, apostolos et sequaces eorum, et contumeliis affectos occiderunt, alium lapidantes ut p. 2096B | Stephanum, alium decollantes ut Joannem Baptistam et Jacobum Zebedaei, alium praecipitantes ut Jacobum Alphaei, et hujusmodi. Deus autem Pater iratus, missis exercitibus suis, per ministerium Romanorum, perdidit homicidas illos, et civitatem illorum succendit. Et etiam per ministerium angelorum damnavit animas eorum et civitatem, id est corpora eorum igne perpetuo succendit. Multi quoque vocati sunt et veniunt, sed tamen quidam eorum ejiciuntur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 28,
+        "value": "Mt. 22,7"
+      }
+    ],
+    "work": [
+      {
+        "id": 122,
+        "value": "Homiliae "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 2,
+        "value": "XX Sunday after Holy Trinity"
+      }
+    ],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 61,
+          "database_table_3499": 122
+        },
+        "value": "Radulfus, Ardens"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "269": {
+    "id": 269,
+    "order": "263.00000000000000000000",
+    "passage": "tempus moriendi tempore Vespasiani et Titi",
+    "jad_id": "jad_occurence__269",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch3",
+    "position_in_work_url": "",
+    "text_paragraph": "Haebraei omne hoc quod de contrarietate temporum scriptum est, usque ad p. 0680A | illum locum in quo ait: tempus belli, et tempus pacis, super Israel intelligunt.   Tempus fuit nascendi in patriarchis populo Dei, tempus moriendi tempore Vespasiani et Titi.   Tempus plantandi in terra repromissionis sub Jesu Nave, tempus evellendi, dum ducti sunt in captivitatem a praefatis ducibus.   Tempus occidendi eos in Aegypto, et tempus liberandi de Aegypto.   Tempus destruendi [ Adde ex Hier.   , templi] sub Nabuchodonosor, et tempus aedificandi sub Dario.   Tempus plangendi eversionem urbis, et tempus ridendi atque saltandi sub Zorobabel, et Esdra, et Neemia.   Tempus dispergendi Israel per diversas gentes, et in unum congregandi, quando reducti sunt de captivitate in patriam.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 121,
+        "value": "Commentary Kohelet "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 22,
+          "database_table_3499": 121
+        },
+        "value": "Alkuin"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "270": {
+    "id": 270,
+    "order": "264.00000000000000000000",
+    "passage": "antequam veniat Nabuchodonosor, sive Titus Vespasiani filius, accitus a prophetis, ut eorum vaticinia compleantur",
+    "jad_id": "jad_occurence__270",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch11",
+    "position_in_work_url": "",
+    "text_paragraph": "Admonet quoque, ut in diebus prosperitatis et salutis, in viis cordis sui, et intuitu oculorum, id est, consideratione mandatorum Dei ambulet, magis quam in carnalibus desideriis; et ut sciat se pro omnibus quae gesserit, sive bonum sive malum sit, a Deo esse judicandum; et ut auferat iram a corde, et malitias a carne sua, id est, cogitationes malas, et libidines carnis suae: quia desideria carnis, adolescentiae, voluptatumque carnalium vana sunt: recordeturque semper Creatoris sui, antequam veniat dies tribulationis, id est, Babylonicae vel Romanae captivitatis 443 miseria, quibus non poterit habere voluntatem.   Et totum hunc locum in quo ait: Antequam p. 0715A | tenebrescant sol, et luna, et stellae, usque ad eum locum, in quo Scriptura commemorat: Et convertetur pulvis in terram unde erat, et spiritus revertetur ad Deum qui dedit illum * , super statu suae conditionis explanant, et aiunt, Salomonem diligenter hortari populum Dei, ut haec omnia faciant, antequam tollatur ab eis omnis honor et decus, duces et judices, et sacerdotes, templum et sacrificia, potestas et regnum, et sancti, quos in sole, et luna, et stellis intelligi volunt, auferantur ab eo, antequam veniat Nabuchodonosor, sive Titus Vespasiani filius, accitus a prophetis, ut eorum vaticinia compleantur; in die qua angeli templi praesides recedent, et curvabuntur robustissimi qui in exercitu tuo sunt, et otiosa erunt eloquia magistrorum, et p. 0715B | prophetae qui de coelis solebant visionum suarum lumen accipere, contenebrescent; quando claudentur templi januae, et humiliabitur Jerusalem, et Chaldaeus veniet, quasi cantu volucris, ita Jeremiae vocibus prophetatus; et conticescent filiae Cantici in templo, et psallentium chori; illo tempore quando advenientes Hierosolymam ipsi quoque hostes Dei magnitudinem pertimescent, et in via formidabunt audientes interitum Sennacherib regis Assyriorum et exercitus sui",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 121,
+        "value": "Commentary Kohelet "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 11,
+        "value": "Babylonian conquest of Jerusalem"
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 22,
+          "database_table_3499": 121
+        },
+        "value": "Alkuin"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "271": {
+    "id": 271,
+    "order": "265.00000000000000000000",
+    "passage": "ad modicas uastauerat populum hunc Titus reliquias, ultor iniuriarum Domini, licet inscius",
+    "jad_id": "jad_occurence__271",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 123,
+        "value": "De nugis curialum "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 62,
+          "database_table_3499": 123
+        },
+        "value": "Walter, Map"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "272": {
+    "id": 272,
+    "order": "266.00000000000000000000",
+    "passage": "sub Tito et Vespasiano urbs capta, templumque subversum",
+    "jad_id": "jad_occurence__272",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch182",
+    "position_in_work_url": "",
+    "text_paragraph": "Quod autem dicit ex eo, id est populo; sive juxta Septuaginta, ex ea, ut subaudiatur urbe Hierusalem, egredietur ignis in omnem domum Israel, Machabaeorum narrat historia, quod quaedam pars Judaeorum se tradidit Antiocho Epiphani, et eum ad persecutionem populi concitavit, et multa alia quae in eadem scribuntur historia, et in Josephi voluminibus, praecipueque dissensione Hyrcani et Alexandri, per quorum occasionem Cnaeus Pompeius cepit Jerusalem, et Romanae ditioni subdidit: posteaque sub Tito et Vespasiano urbs capta, templumque subversum, Et post quinquaginta annos sub Aelio Adriano usque ad solum incensa civitas atque deleta est, ita ut pristinum quoque nomen amiserit.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 124,
+        "value": "Liber adversus Graecos "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 63,
+          "database_table_3499": 124
+        },
+        "value": "Aeneas, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "273": {
+    "id": 273,
+    "order": "267.00000000000000000000",
+    "passage": "de subversione civitatis Jerusalem",
+    "jad_id": "jad_occurence__273",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "Apud Lucam, cum post resurrectionem coram discipulis manducasset, dixit ad eos: Haec sunt verba quae locutus sum ad vos: Cum adhuc essem vobiscum, quia necesse erat impleri omnia, quae scripta sunt in lege Moysi, et prophetis, et psalmis de me (Luc. XXIV). De discipulis vero dixit: Ecce ego mitto vos, sicut oves in medio luporum. Tradet enim vos in conciliis, et in Synagogis suis flagellabunt vos, et ante reges et praesides ducemini propter me 204.0633B | (Matth. X). Haec post ascensionem Domini circa discipulos impleta fuisse, mundus cognovit, et testis est. De subversione civitatis Jerusalem dixit: Venient dies in te, et circumdabunt te inimici tui vallo, et ad terram prosternent te, et filios tuos, qui in te sunt. Et non relinquent in te lapidem super lapidem, etc. (Luc. XIX). Palam est, haec omnia impleta esse, sicut a Domino praedicta sunt. Praedixit autem Dominus quod Evangelium ejus in universo mundo praedicandum esset; quod in nomine ejus gentes baptizandae essent; quod fides ejus in mundo recipienda esset; quod in nomine ejus poenitentia et remissio peccatorum praedicanda esset; quod memoria mortis ejus in vero sacrificio celebranda et frequentanda 204.0633C | esset.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 3,
+        "value": "Lk. 19,43"
+      },
+      {
+        "id": 175,
+        "value": "Lk. 24,44"
+      },
+      {
+        "id": 176,
+        "value": "Mt. 10,18"
+      }
+    ],
+    "work": [
+      {
+        "id": 125,
+        "value": "De commendatione fidei "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 20,
+          "database_table_3499": 125
+        },
+        "value": "Balduin, von Canterbury"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "274": {
+    "id": 274,
+    "order": "268.00000000000000000000",
+    "passage": "subversio et destructio civitatis Jerusalem describitur",
+    "jad_id": "jad_occurence__274",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Sermo 79",
+    "position_in_work_url": "",
+    "text_paragraph": "Exiens Jesus de finibus Tyri, venit per Sidonem ad mare Galilaeae inter medios fines Decapoleos (Math. VII). Septem istis Dominicis septem dona Spiritus sancti assignavimus. Primum donum spiritus timoris, Dominicae primae, in qua subversio et destructio civitatis Jerusalem describitur, in qua subversione et destructione murorum nihil aliud nobis insinuari existimo, nisi, ut homo peccator per spiritum timoris adjutus, videat et recogitet, ne hoc in morte patiatur, quod Dominus civitati illi futurum comminabatur. Et bene donum spiritus timoris primum est in munere, qua si homo gehennam et aeternae p. 0556A | damnationis sententiam non timeret, sero vel nunquam saeculum relinquere et ad Deum converti diligeret.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 126,
+        "value": "Homiliae dominicales "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 17,
+        "value": "XI Sunday after Holy Trinity"
+      }
+    ],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 64,
+          "database_table_3499": 126
+        },
+        "value": "Gottfried, von Admont"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "275": {
+    "id": 275,
+    "order": "269.00000000000000000000",
+    "passage": "contriti sunt advenientibus Romanis",
+    "jad_id": "jad_occurence__275",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Prefatio",
+    "position_in_work_url": "",
+    "text_paragraph": "VERS. 9.-- Quasi vestimentum. (ID.) Vestimentum vetustate et tinea consumitur. Judaei quoque quadraginta duobus annis post passionem ad poenitentiam vocati sunt: tandem negligentes contriti sunt advenientibus Romanis, et malae conscientiae tinea devorati.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 177,
+        "value": "Is. 50,9"
+      }
+    ],
+    "work": [
+      {
+        "id": 127,
+        "value": "Commentary Isaiah "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 25,
+        "value": "Haimo, von Auxerre"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 32,
+          "database_table_3499": 127
+        },
+        "value": "Anselm, von Laon"
+      }
+    ],
+    "source_passage": [
+      {
+        "id": 22,
+        "value": "contriti sunt advenientibus Romanis"
+      }
+    ],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "276": {
+    "id": 276,
+    "order": "270.00000000000000000000",
+    "passage": "Diem ultionis: damnationis, quae per Romanos",
+    "jad_id": "jad_occurence__276",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Prefatio",
+    "position_in_work_url": "",
+    "text_paragraph": "VERS. 1.-- Spiritus Domini (HIER.) Christus secundum humanitatem qui supra dixerat, Ego Dominus, in tempore congregabo eos, etc. Quod unxerit me: oleo laetitiae, abundantia gratiae. (ID.) Haec unctio in baptismate completa est, quia Spiritus Domini in specie columbae descendit, et mansit in illos. Ad annuntiandum. Septuaginta: Ad evangelizandum pauperibus. Apertionem, scilicet resolutionem; sic enim Symmachus p. 1304D | apertius transtulit. VERS. 2.-- Diem ultionis: (ID.) damnationis, quae per Romanos, secundum illud: Veniet dies, etc. Et, cum videritis ab exercitu circumdari Jerusalem, etc. VERS. 3.-- Coronam. Cum scilicet viderint de Judaeis plurimos credidisse, et pro lugubri indumento stolam mundissimam accipere.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 10,
+        "value": "Is. 61,2"
+      },
+      {
+        "id": 34,
+        "value": "Lk. 21,20"
+      }
+    ],
+    "work": [
+      {
+        "id": 127,
+        "value": "Commentary Isaiah "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 32,
+          "database_table_3499": 127
+        },
+        "value": "Anselm, von Laon"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "277": {
+    "id": 277,
+    "order": "271.00000000000000000000",
+    "passage": "Judaeos in Judaea habitaverunt alienigenae, undecunque adducti a Tito et Vespasiano",
+    "jad_id": "jad_occurence__277",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch2",
+    "position_in_work_url": "",
+    "text_paragraph": "Vers. 6.-- Projecisti enim. Postquam exhortatus est, vidit in spiritu duritiam eorum, et subito oculos mentis ad Dominum convertens, ait: Projecisti enim, etc., quasi dicat, et ideo hortandi, quia projecisti, etc. p. 1237C | Quia repleti sunt, ut olim, etc. (ID.) Romanis, scilicet ejicientibus, Judaeos in Judaea habitaverunt alienigenae, undecunque adducti a Tito et Vespasiano, vel caeteris principibus. Vel priusquam a Babyloniis vastarentur, haec commiserunt sub impiis regibus. Ut Philisthiim. (ID.) Philisthiim qui hodie Palaestini, quia p. litteram sermo Hebraeus non habet, sed pro ea φ Graeco utitur. Pueris, etc. Victorum significat libidinem in Judaeam gentem. Graeci enim et Latini diu hoc vitio laboraverunt: sed sub Constantino imperatore, et coruscante Evangelio, cum caeteris delata est turpitudo haec.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 178,
+        "value": "Is. 2,6"
+      }
+    ],
+    "work": [
+      {
+        "id": 127,
+        "value": "Commentary Isaiah "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 32,
+          "database_table_3499": 127
+        },
+        "value": "Anselm, von Laon"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "278": {
+    "id": 278,
+    "order": "272.00000000000000000000",
+    "passage": "Post subversionem Jerusalem et templi; civitas destructa est et templum a principibus Romanorum",
+    "jad_id": "jad_occurence__278",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch29",
+    "position_in_work_url": "",
+    "text_paragraph": "VERS. 6.-- In tonitruo. Visi sunt Romani irruere cum tonitruo, et terra moveri eorum adventu, et p. 1272C | cum flamma ignis, quia et civitatem succenderunt et templum. VERS. 9.-- Obstupescite et admiramini. (HIER.) Post subversionem Jerusalem et templi, id est Ariel contra Scribas et Pharisaeos prophetia dirigitur. VERS. 11.-- Signatus est enim. Haec impleta sunt, quando et dignitatem et sacerdotium amiserunt, et civitas destructa est et templum a principibus Romanorum.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 179,
+        "value": "Is. 29,9"
+      }
+    ],
+    "work": [
+      {
+        "id": 127,
+        "value": "Commentary Isaiah "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 32,
+          "database_table_3499": 127
+        },
+        "value": "Anselm, von Laon"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "279": {
+    "id": 279,
+    "order": "273.00000000000000000000",
+    "passage": "Hic Domitianus Vespasiani fuit filius, et frater Titi, illius videlicet qui Jerosolymam subvertit",
+    "jad_id": "jad_occurence__279",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "Joannes apostolus et evangelista, Zebedaei filius, a Domino virgo est electus, atque inter caeteros magis dilectus. Qui etiam super pectus magistri recumbens, Evangelii fluenta de ipso sacro Dominici pectoris fonte potavit, et quasi unus de paradisi fluminibus verbi Dei gratiam in toto terrarum orbe diffudit; quique in locum Christi, Christo jubente, successit, dum matrem magistri suscipiens discipulus, etiam pro Christo alter quodammodo derelictus est filius. Hic dum Evangelium Christi in Asia praedicaret, a Domitiano Caesare in Pathmos insula metallo relegatur, ubi etiam positus Apocalypsim propria manu scripsit. [Hic Domitianus Vespasiani fuit filius, et frater Titi, illius videlicet qui Jerosolymam subvertit]. Interfecto autem a senatu p. 0253B | Romano Caesare Domitiano, sanctus Joannes exsilio resolutus, in Ephesum rediit, ibique ob haereticorum refutandas versutias, rogatus ab Asiae episcopis Evangelium novissimus edidit. Cujus quidem inter alias virtutes magnitudo signorum haec fuit: Mutavit in aurum silvestres virgas, littoreaque in gemmas saxa.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 128,
+        "value": "Commentary Jacob "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 2,
+          "database_table_3499": 128
+        },
+        "value": "Martin, von León"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "280": {
+    "id": 280,
+    "order": "274.00000000000000000000",
+    "passage": "Jerusalem, imo omnis Judaea, expugnaretur ac vastaretur p. 0209D | a Romanis in ultionem Dominici sanguinis",
+    "jad_id": "jad_occurence__280",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "Dicatur ergo apertius: In die occisionis, hoc est, cum data esset vobis facultas occidendi, adduxistis ad judicium Jesum Christum justum, et occidistis eum. Ille autem tanquam ovis ad occisionem ductus, non restitit vobis (Isai. LIII). Hanc ergo iram Dei, quam sibi thesaurizaverunt, non solum in futura, verum etiam in praesenti vita est in eis completa, cum Jerusalem, imo omnis Judaea, expugnaretur ac vastaretur p. 0209D | a Romanis in ultionem Dominici sanguinis, et caeterorum scelerum quae fecerunt. Iterum ad fidelium consolationem loquitur dicens: Patientes igitur estote, fratres, usque ad adventum Domini. Quasi diceret: Quia infideles divites puniendos videtis, vos estote patientes usque ad adventum Domini, qui in fine cujusque incipit. Ecce, inquit, agricola exspectat pretiosum fructum terrae, patienter ferens donec accipiat temporaneum, et serotinum.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 9,
+        "value": "Is. 53,7"
+      }
+    ],
+    "work": [
+      {
+        "id": 128,
+        "value": "Commentary Jacob "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 2,
+          "database_table_3499": 128
+        },
+        "value": "Martin, von León"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "281": {
+    "id": 281,
+    "order": "275.00000000000000000000",
+    "passage": "sanctuarium dissipabit populus cum duce venturo (Dan. IX, 26), id est, Romanus exercitus cum Vespasiano",
+    "jad_id": "jad_occurence__281",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch10",
+    "position_in_work_url": "",
+    "text_paragraph": "Hoc enim postea expletum est, quod fuerat ante praedictum; factum est enim in hac ipsa urbe Jerusalem; nam postquam Christum amaritudine potaverunt, et postquam clamaverunt adversus Filium Dei, ut occideretur, successit deinde vindicta a Domino, debellata est civitas, expugnati Judaei, multaque millia interfecta; nullusque illuc modo permittitur accedere Judaeorum, ubi Christum crucifigendum acclamaverunt. 4. Item in Daniele angelus ille, postquam occisionem Christi praedixit, subsecutam protinus subversionem p. 0516B | Jerusalem pronuntiavit, dicens: Et civitatem, et sanctuarium dissipabit populus cum duce venturo (Dan. IX, 26), id est, Romanus exercitus cum Vespasiano. Cujus vastationis Isaias propheta lamentabile carmen composuit, in quo eadem Jerusalem plangitur, et ruina illius perpetua sermone prophetico decantatur sub similitudine vineae, in qua plantaverat Deus turrem, et torcular, templum scilicet et altare (Isai. V, 2).",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 22,
+        "value": "Dan. 9,26"
+      },
+      {
+        "id": 114,
+        "value": "Is. 5,2"
+      }
+    ],
+    "work": [
+      {
+        "id": 129,
+        "value": "De fide catholica "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 18,
+          "database_table_3499": 129
+        },
+        "value": "Isidorus, von Sevilla"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "282": {
+    "id": 282,
+    "order": "276.00000000000000000000",
+    "passage": "subversa est Jerusalem",
+    "jad_id": "jad_occurence__282",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch10",
+    "position_in_work_url": "",
+    "text_paragraph": "Quia propter quod negaverunt Christum Judaei, p. 0515C | subversa est Jerusalem, per Jeremiam sic praedicat idem Dominus, dicens: « Ascendite muros ejus, et dissipate, auferte propagines ejus, quia non sunt Domini, praevaricatione enim praevaricata est in me domus Juda, ait Dominus, negaverunt me et dixerunt: Non est ipse (Jerem. V, 10). Item Isaias: Ruit Jerusalem, et Judas concidit, quia lingua eorum et adinventiones eorum contra Dominum » (Isai. III, 8). 2. Quo testimonio demonstratur urbem Jerusalem et provinciam Judaeae pariter concidisse, causamque ostendit sceleris eorum, quia contra Dominum p. 0515D | blasphemaverunt, dicentes: Tolle, tolle, crucifige. Nos non habemus regem, nisi Caesarem (Joan. XIX, 15).",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 8,
+        "value": "Is. 3,8"
+      },
+      {
+        "id": 37,
+        "value": "Joh. 19,15"
+      },
+      {
+        "id": 180,
+        "value": "Jer. 5,10"
+      }
+    ],
+    "work": [
+      {
+        "id": 129,
+        "value": "De fide catholica "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 18,
+          "database_table_3499": 129
+        },
+        "value": "Isidorus, von Sevilla"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "283": {
+    "id": 283,
+    "order": "277.00000000000000000000",
+    "passage": "peccata eorum quae completa sunt advenientibus Romanis",
+    "jad_id": "jad_occurence__283",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Ch2",
+    "position_in_work_url": "",
+    "text_paragraph": "Ut impleant, subaudis ipsi Judaei, peccata sua. Expleto tempore quadragesimi anni, quod Dominus dedit Judaeis ad poenitentiam, post passionem suam illis nolentibus credere completa sunt peccata eorum, de qua completione dixit eis Dominus; Implete mensuram patrum vestrorum: quando autem Apostolus ista loquebatur, adhuc stabat Jerusalem et templum: ideoque necdum erant completa peccata eorum quae completa sunt advenientibus Romanis. Unde enim sequitur: Pervenit enim ira Dei, id est vindicta Dei super illos usque in finem. Vindictam Dei appellat adventum Romanorum: quando perditi p. 0767D | sunt fame, pestilentia, gladio, captivitate. Quae vindicta manebit super illos usque in finem saeculi, quia semper erunt captivi. Vel si dixerimus, praevenit sive antevenit illos ira Dei, sicut quidam codices habent, erit sensus: Praevenit eos vindicta Dei in hoc saeculo, quae permanebit usque in finem. Quae idcirco dicitur praevenire illos, quia vindictam futuri judicii, in qua aeternaliter damnabuntur praevenit ista temporalis.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 130,
+        "value": "Commentary 1 Thes. "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 130
+        },
+        "value": "Haimo, von Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "284": {
+    "id": 284,
+    "order": "278.00000000000000000000",
+    "passage": "excidio civitatis, et videns miram divinae praesentiae virtutem, agnoscat praedicentis divinitatem. Haec quidem Judaeorum genti post passionem Salvatoris p. 1144C | justa ultione venerunt",
+    "jad_id": "jad_occurence__284",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "B1, Ch24",
+    "position_in_work_url": "",
+    "text_paragraph": "Haec vero omnia gesta sunt secundo anno imperii Vespasiani, juxta ea quae ipse Dominus et Salvator noster Jesus Christus praedixerat; quippe qui ea quae gerenda erant praesentia jam videret, tum cum, secundum Evangeliorum fidem, videns civitatem flevit super eam et velut in auribus ejus praelocutus est haec verba: Si agnovisses, inquit, et tu in hac die, quia venient dies super te, et circumdabunt p. 1144B | te inimici tui vallo, et circumdabunt te, et perurgebunt te undique, et ad solum deducent te, et filios tuos interficient. Sed et rursum tanquam de populo dicens: Erit, inquit, necessitas magna super terram, et ira populo huic, et cadent in ore gladii, et captivi ducentur in omnes gentes, et Hierusalem erit conculcata a gentibus, usquequo compleantur tempora gentium. Et iterum: Cum autem videritis circumdari ab exercitu Hierusalem, tunc scitote quia appropinquabit desolatio ejus. Comparet nunc unusquisque Domini et Salvatoris nostri sermones cum historiographi relatione de bello quod gestum est, atque excidio civitatis, et videns miram divinae praesentiae virtutem, agnoscat praedicentis divinitatem. Haec quidem Judaeorum genti post passionem Salvatoris p. 1144C | justa ultione venerunt, pro eo quod auctorem vitae a semet universa gens conclamavit auferri. Colliguntur ergo per omne tempus a decimo quinto anno Tyberii Caesaris, et ab exordio evangelicae praedicationis anni quadraginta duo, usque ad Vespasiani secundum imperii, quando hoc urbis Hierosolymitanae excidium actum est.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 34,
+        "value": "Lk. 21,20"
+      }
+    ],
+    "work": [
+      {
+        "id": 131,
+        "value": "Chronica "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 65,
+          "database_table_3499": 131
+        },
+        "value": "Frechulf, von Lisieux"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "285": {
+    "id": 285,
+    "order": "279.00000000000000000000",
+    "passage": "Romanorum principes adversus Judaeos Dominus misit",
+    "jad_id": "jad_occurence__285",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "B4, Ch88",
+    "position_in_work_url": "",
+    "text_paragraph": "Et quoniam Judaei ubique terrarum de fraude, mercato, usura et deceptione vivunt, non immerito ad negotiationem suam abiisse dicuntur. Reliqui vero tenuerunt servos ejus, et contumelia affectos occiderunt. Per hos enim illos intelligimus, qui primitivam Ecclesiam persecuti sunt: unde et apostolis dicitur: « Quia ibant gaudentes a conspectu concilii, quoniam digni habiti sunt pro nomine Jesu contumelias pati (Act. V, 41). » Rex autem cum audisset, iratus est; et missis exercitibus suis, perdidit homicidas illos, et civitatem illorum succendit. Haec autem quia secundum litteram facta sunt, allegorice exponere, non videtur esse necessarium. Post namque quadraginta et duos annos exercitus suos, id est Romanorum principes p. 0252C | adversus Judaeos Dominus misit, qui eos occiderunt et vendiderunt, et non solum 104 eorum civitates, verum etiam ipsum templum famosissimum et nobilissimum succenderunt. Tunc ait servis suis: Nuptiae quidem paratae sunt: sed qui invitati erant, non fuerunt digni.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 28,
+        "value": "Mt. 22,7"
+      }
+    ],
+    "work": [
+      {
+        "id": 83,
+        "value": "Commentary Matthew "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 15,
+          "database_table_3499": 83
+        },
+        "value": "Bruno, Segni"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "286": {
+    "id": 286,
+    "order": "280.00000000000000000000",
+    "passage": "Romani principes Jerusalem, quae sanguine veri Agni et sanguine aliorum sanctorum perfusa erat, subfodiendo totam everterunt",
+    "jad_id": "jad_occurence__286",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "Praefatus autem rex, missis exercitibus suis, perdidit homicidas illos, et civitatem 197.1080C | illorum succendit, quia cum dolores, videlicet veteres praecurrendo praeterierant, omnipotens Deus iratus super inimicos suos quando Romani principes Jerusalem, quae sanguine veri Agni et sanguine aliorum sanctorum perfusa erat, subfodiendo totam everterunt, et omnia legitima eorum, qui in ea habitabant, illos occidendo et videndo, destruxerunt. Tunc Ecclesia iterum reaedificata est, quemadmodum civitas sancta Jerusalem nova descendit de coelo (Apoc. XII), a Deo parata sicut sponsa ornata viro suo, quoniam Agnus Dei ad se collegit lactentis, puerilis, juvenis, maturae ac decrepitae aetatis homines,",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 28,
+        "value": "Mt. 22,7"
+      },
+      {
+        "id": 181,
+        "value": "Rev. 3,12"
+      }
+    ],
+    "work": [
+      {
+        "id": 132,
+        "value": "Explanatio symboli S. Athanasii "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 66,
+          "database_table_3499": 132
+        },
+        "value": "Hildegard, von Bingen"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "287": {
+    "id": 287,
+    "order": "281.00000000000000000000",
+    "passage": "Ut appropinquavit etc dominus cum laudibus occurrentium intrans civitatem previdens eam in ultionem sanguinis sui funditus evertendam",
+    "jad_id": "jad_occurence__287",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Lk. 19",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 1,
+        "value": "Lk. 19,41"
+      }
+    ],
+    "work": [
+      {
+        "id": 16,
+        "value": "Postillae in Evangelia "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 9,
+          "database_table_3499": 16
+        },
+        "value": "Petrus, Comestor"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 620"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 54,
+        "value": "jad_occurence__54"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 54,
+        "value": true
+      }
+    ]
+  },
+  "288": {
+    "id": 288,
+    "order": "282.00000000000000000000",
+    "passage": "a domino signa et tempus eversionis Ierusalem",
+    "jad_id": "jad_occurence__288",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Lk. 21",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 33,
+        "value": "Lk. 21,6"
+      }
+    ],
+    "work": [
+      {
+        "id": 16,
+        "value": "Postillae in Evangelia "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 9,
+          "database_table_3499": 16
+        },
+        "value": "Petrus, Comestor"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 620"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 55,
+        "value": "jad_occurence__55"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 55,
+        "value": true
+      }
+    ]
+  },
+  "289": {
+    "id": 289,
+    "order": "282.00000000000000000000",
+    "passage": "Et missis exercitibus inter litteris exponere de captivitate facta per romanos, gloriosa de eterna dampnatione",
+    "jad_id": "jad_occurence__289",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Mt. 22",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 28,
+        "value": "Mt. 22,7"
+      }
+    ],
+    "work": [
+      {
+        "id": 16,
+        "value": "Postillae in Evangelia "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 9,
+          "database_table_3499": 16
+        },
+        "value": "Petrus, Comestor"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 620"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 56,
+        "value": "jad_occurence__56"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 56,
+        "value": true
+      }
+    ]
+  },
+  "290": {
+    "id": 290,
+    "order": "283.00000000000000000000",
+    "passage": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae",
+    "jad_id": "jad_occurence__290",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 1,
+        "value": "Lk. 19,41"
+      }
+    ],
+    "work": [
+      {
+        "id": 133,
+        "value": "Sermones "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 1,
+        "value": "X Sunday after Holy Trinity"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 5,
+        "value": "In Principio (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 133
+        },
+        "value": "anonymous"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3570"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 57,
+        "value": "jad_occurence__57"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 57,
+        "value": true
+      }
+    ]
+  },
+  "291": {
+    "id": 291,
+    "order": "284.00000000000000000000",
+    "passage": "De Tyto et Vespasiano",
+    "jad_id": "jad_occurence__291",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 134,
+        "value": "De Tyto et Vespasiano "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 5,
+        "value": "In Principio (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 134
+        },
+        "value": "anonymous"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [
+      {
+        "id": 8,
+        "value": "Cambr. St.John's Coll., MS 127"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 58,
+        "value": "jad_occurence__58"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 58,
+        "value": true
+      }
+    ]
+  },
+  "292": {
+    "id": 292,
+    "order": "285.00000000000000000000",
+    "passage": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus",
+    "jad_id": "jad_occurence__292",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 182,
+        "value": "Is. 62,6"
+      }
+    ],
+    "work": [
+      {
+        "id": 24,
+        "value": "Sermones "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 14,
+          "database_table_3499": 24
+        },
+        "value": "Hilduinus, Cancellarius Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3733"
+      },
+      {
+        "id": 5,
+        "value": "Maz., MS 774"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 59,
+        "value": "jad_occurence__59"
+      },
+      {
+        "id": 60,
+        "value": "jad_occurence__60"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 59,
+        "value": true
+      },
+      {
+        "id": 60,
+        "value": false
+      }
+    ]
+  },
+  "293": {
+    "id": 293,
+    "order": "286.00000000000000000000",
+    "passage": "Videns Ihesus ciuitatem. A Tyto et Vaspasiano pro sceleribus suis non multum post destruendam, fleuit super illam",
+    "jad_id": "jad_occurence__293",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 1,
+        "value": "Lk. 19,41"
+      }
+    ],
+    "work": [
+      {
+        "id": 8,
+        "value": "Sermones "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 5,
+        "value": "In Principio (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 8,
+          "database_table_3499": 8
+        },
+        "value": "Hugo, von Saint-Cher"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., Ms 1026"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 61,
+        "value": "jad_occurence__61"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 61,
+        "value": true
+      }
+    ]
+  },
+  "294": {
+    "id": 294,
+    "order": "287.00000000000000000000",
+    "passage": "Aperi Libane portas tuas et comedat ignis cedros tuas [Zach. XI, 1]. Zacharius XIus prophetarum post destructionem ciuitatis iam factam, aliam per Romanos dicit futuram",
+    "jad_id": "jad_occurence__294",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 27,
+        "value": "Zach. 11,1"
+      }
+    ],
+    "work": [
+      {
+        "id": 135,
+        "value": "Sermones "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 5,
+        "value": "In Principio (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 135
+        },
+        "value": "anonymous"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [
+      {
+        "id": 15,
+        "value": "Valenciennes, MS 227"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 63,
+        "value": "jad_occurence__63"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 63,
+        "value": true
+      }
+    ]
+  },
+  "295": {
+    "id": 295,
+    "order": "288.00000000000000000000",
+    "passage": "de destructione a babiloniis facta, sed de facta a romanis",
+    "jad_id": "jad_occurence__295",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "Preface",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 137,
+        "value": "Commentary Lamentations "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 10,
+          "database_table_3499": 137
+        },
+        "value": "Langton, Stephen"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 177"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 65,
+        "value": "jad_occurence__65"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 65,
+        "value": true
+      }
+    ]
+  },
+  "296": {
+    "id": 296,
+    "order": "289.00000000000000000000",
+    "passage": "tyto et vespasiano ultione urbs capta est",
+    "jad_id": "jad_occurence__296",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 17,
+        "value": "Ez. 5"
+      }
+    ],
+    "work": [
+      {
+        "id": 13,
+        "value": "Commentary Ezekiel "
+      }
+    ],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 10,
+          "database_table_3499": 13
+        },
+        "value": "Langton, Stephen"
+      }
+    ],
+    "source_passage": [],
+    "manuscript": [
+      {
+        "id": 5,
+        "value": "Maz., MS 177"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 66,
+        "value": "jad_occurence__66"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 66,
+        "value": true
+      }
+    ]
+  },
+  "297": {
+    "id": 297,
+    "order": "290.00000000000000000000",
+    "passage": "",
+    "jad_id": "jad_occurence__297",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [],
+    "source_passage": [],
+    "manuscript": [],
+    "occurrence_ms": [],
+    "main_ms": []
+  },
+  "298": {
+    "id": 298,
+    "order": "291.00000000000000000000",
+    "passage": "",
+    "jad_id": "jad_occurence__298",
+    "language": null,
+    "manuscript_to_delete": [],
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [],
+    "position_move_to_occurrence_ms": "",
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [],
     "source_passage": [],
     "manuscript": [],
     "occurrence_ms": [],
