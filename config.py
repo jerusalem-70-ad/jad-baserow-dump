@@ -109,7 +109,7 @@ DENORMALIZE_CONFIG = [
                 "field_name": "keywords",
                 "seed_file": [DATA_FOLDER, "keywords.json"],
                 "source_file": [DATA_FOLDER, "passages.json"],
-            }
+            },
         ]
     },
 ]
