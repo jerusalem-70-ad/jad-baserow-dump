@@ -1,6 +1,5 @@
 import json
 import os
-import requests
 from jsonpath_ng import parse
 
 try:

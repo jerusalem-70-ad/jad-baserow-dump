@@ -41,6 +41,22 @@ MODEL_CONFIG = [
         "related_objects": [{"source_file": "works", "lookup_field": "author"}],
     },
     {
+        "data_source": "data/libraries",
+        "verbose_name_pl": "Libraries",
+        "verbose_name_sg": "Library",
+        "file_name": "libraries",
+        "label_lookup_expression": "$.name",
+        "related_objects": [{"source_file": "manuscripts", "lookup_field": "library"}],
+    },
+    {
+        "data_source": "data/institutional_context",
+        "verbose_name_pl": "Insitutional contexts",
+        "verbose_name_sg": "Insitutional context",
+        "file_name": "institutional_context",
+        "label_lookup_expression": "$.name",
+        "related_objects": [{"source_file": "manuscripts", "lookup_field": "institutional_context"}],
+    },
+    {
         "data_source": "data/keywords",
         "verbose_name_pl": "Keywords",
         "verbose_name_sg": "Keywords",
