@@ -15,6 +15,7 @@ def read_data():
     os.makedirs(DATA_DIR, exist_ok=True)
 
     for x in MODEL_CONFIG:
+        print(x["verbose_name_pl"])
         jsonpath_expr = parse(x["label_lookup_expression"])
         with open(f"{x['data_source']}.json", "r", encoding="utf-8") as fp:
             data = json.load(fp)
@@ -35,7 +36,10 @@ def read_data():
 
         # add view_labels
         for _, value in data.items():
-            value["view_label"] = jsonpath_expr.find(value)[0].value
+            try:
+                value["view_label"] = jsonpath_expr.find(value)[0].value
+            except IndexError:
+                continue
         with open(save_path, "w", encoding="utf-8") as fp:
             json.dump(data, fp, ensure_ascii=False, indent=2)
 

@@ -16,10 +16,12 @@ jobs:
     steps:
       - name: Perfom Checkout
         uses: actions/checkout@v4
+      - name: Setu up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
       - name: Install Python Packages
-        run: |
-          python -m pip config set global.break-system-packages true
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
       - name: dump the data
         run: |
           python dump_data.py
