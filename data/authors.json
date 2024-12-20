@@ -260,7 +260,7 @@
     "jad_id": "jad_author__7",
     "gnd_url": "https://d-nb.info/gnd/102511721",
     "notes": "same as Lambertus de Sancto-Audomaro",
-    "prev": "jad_author__66.html",
+    "prev": "jad_author__67.html",
     "next": "jad_author__8.html",
     "view_label": "Lambertus, Sancti Bertini",
     "related__works": [
@@ -1418,12 +1418,29 @@
     "gnd_url": "https://d-nb.info/gnd/118550993",
     "notes": "",
     "prev": "jad_author__65.html",
-    "next": "jad_author__7.html",
+    "next": "jad_author__67.html",
     "view_label": "Hildegard, von Bingen",
     "related__works": [
       {
         "jad_id": "jad_work__132",
         "view_label": "Explanatio symboli S. Athanasii"
+      }
+    ]
+  },
+  "67": {
+    "id": 67,
+    "order": "66.00000000000000000000",
+    "name": "Paulus, Diaconus",
+    "jad_id": "jad_author__67",
+    "gnd_url": "https://d-nb.info/gnd/118789961",
+    "notes": "",
+    "prev": "jad_author__66.html",
+    "next": "jad_author__7.html",
+    "view_label": "Paulus, Diaconus",
+    "related__works": [
+      {
+        "jad_id": "jad_work__149",
+        "view_label": "Homiliae de tempore"
       }
     ]
   }
