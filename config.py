@@ -98,7 +98,7 @@ DENORMALIZE_CONFIG = [
             {
                 "field_name": "work",
                 "seed_file": [DATA_FOLDER, "works.json"],
-                "source_file": [JSON_FOLDER, "occurences.json"],
+                "source_file": [JSON_FOLDER, "occurrences.json"],
             },
             {
                 "field_name": "manuscript",
