@@ -42,7 +42,16 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
   },
   "2": {
     "id": 2,
@@ -102,7 +111,16 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
   },
   "3": {
     "id": 3,
@@ -147,7 +165,16 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 11,
+        "value": "post 1187",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
   },
   "4": {
     "id": 4,
@@ -192,7 +219,16 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 11,
+        "value": "post 1187",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
   },
   "5": {
     "id": 5,
@@ -225,7 +261,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "6": {
     "id": 6,
@@ -258,7 +297,16 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
   },
   "7": {
     "id": 7,
@@ -291,7 +339,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "8": {
     "id": 8,
@@ -335,7 +386,10 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "9": {
     "id": 9,
@@ -385,7 +439,16 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
   },
   "10": {
     "id": 10,
@@ -418,7 +481,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "11": {
     "id": 11,
@@ -468,7 +534,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "12": {
     "id": 12,
@@ -513,7 +582,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "13": {
     "id": 13,
@@ -558,7 +630,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "14": {
     "id": 14,
@@ -591,7 +666,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "15": {
     "id": 15,
@@ -630,7 +708,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "16": {
     "id": 16,
@@ -675,7 +756,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "17": {
     "id": 17,
@@ -708,7 +792,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "18": {
     "id": 18,
@@ -747,7 +834,10 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "19": {
     "id": 19,
@@ -792,7 +882,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "20": {
     "id": 20,
@@ -837,7 +930,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "21": {
     "id": 21,
@@ -882,7 +978,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "22": {
     "id": 22,
@@ -927,7 +1026,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "23": {
     "id": 23,
@@ -972,7 +1074,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "24": {
     "id": 24,
@@ -1022,7 +1127,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "25": {
     "id": 25,
@@ -1066,7 +1174,16 @@
         "value": "Other edition",
         "order": "11.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
   },
   "26": {
     "id": 26,
@@ -1105,7 +1222,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "27": {
     "id": 27,
@@ -1144,7 +1264,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "28": {
     "id": 28,
@@ -1177,7 +1300,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "29": {
     "id": 29,
@@ -1221,7 +1347,10 @@
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "30": {
     "id": 30,
@@ -1260,7 +1389,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "31": {
     "id": 31,
@@ -1299,7 +1431,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "32": {
     "id": 32,
@@ -1338,7 +1473,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "33": {
     "id": 33,
@@ -1371,7 +1509,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "34": {
     "id": 34,
@@ -1415,7 +1556,10 @@
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "35": {
     "id": 35,
@@ -1453,7 +1597,10 @@
         "value": "Other edition",
         "order": "11.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "36": {
     "id": 36,
@@ -1492,7 +1639,10 @@
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "37": {
     "id": 37,
@@ -1525,7 +1675,10 @@
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "38": {
     "id": 38,
@@ -1558,7 +1711,10 @@
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "39": {
     "id": 39,
@@ -1591,7 +1747,10 @@
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "40": {
     "id": 40,
@@ -1630,7 +1789,16 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [
+      {
+        "id": 1,
+        "value": "9th cen.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
   },
   "41": {
     "id": 41,
@@ -1669,7 +1837,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "42": {
     "id": 42,
@@ -1708,7 +1879,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "43": {
     "id": 43,
@@ -1741,7 +1915,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "44": {
     "id": 44,
@@ -1774,7 +1951,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "45": {
     "id": 45,
@@ -1813,7 +1993,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "46": {
     "id": 46,
@@ -1858,7 +2041,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "47": {
     "id": 47,
@@ -1897,7 +2083,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "49": {
     "id": 49,
@@ -1930,7 +2119,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "50": {
     "id": 50,
@@ -1963,7 +2155,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "51": {
     "id": 51,
@@ -2002,7 +2197,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "52": {
     "id": 52,
@@ -2046,7 +2244,10 @@
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "53": {
     "id": 53,
@@ -2085,7 +2286,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "54": {
     "id": 54,
@@ -2124,7 +2328,10 @@
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "55": {
     "id": 55,
@@ -2163,7 +2370,10 @@
         "value": "Other edition",
         "order": "11.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "56": {
     "id": 56,
@@ -2196,7 +2406,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "57": {
     "id": 57,
@@ -2229,7 +2442,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "58": {
     "id": 58,
@@ -2262,7 +2478,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "59": {
     "id": 59,
@@ -2295,7 +2514,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "60": {
     "id": 60,
@@ -2328,7 +2550,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "61": {
     "id": 61,
@@ -2361,7 +2586,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "62": {
     "id": 62,
@@ -2394,7 +2622,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "63": {
     "id": 63,
@@ -2427,7 +2658,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "64": {
     "id": 64,
@@ -2460,7 +2694,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "65": {
     "id": 65,
@@ -2493,7 +2730,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "66": {
     "id": 66,
@@ -2526,7 +2766,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "67": {
     "id": 67,
@@ -2559,7 +2802,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "68": {
     "id": 68,
@@ -2604,7 +2850,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "69": {
     "id": 69,
@@ -2643,7 +2892,10 @@
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "70": {
     "id": 70,
@@ -2682,7 +2934,10 @@
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "71": {
     "id": 71,
@@ -2715,7 +2970,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "72": {
     "id": 72,
@@ -2748,7 +3006,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "73": {
     "id": 73,
@@ -2787,7 +3048,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "74": {
     "id": 74,
@@ -2826,7 +3090,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "75": {
     "id": 75,
@@ -2859,7 +3126,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "76": {
     "id": 76,
@@ -2892,7 +3162,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "77": {
     "id": 77,
@@ -2925,7 +3198,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "78": {
     "id": 78,
@@ -2958,7 +3234,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "79": {
     "id": 79,
@@ -2991,7 +3270,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "80": {
     "id": 80,
@@ -3024,7 +3306,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "81": {
     "id": 81,
@@ -3057,7 +3342,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "82": {
     "id": 82,
@@ -3096,7 +3384,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "83": {
     "id": 83,
@@ -3135,7 +3426,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "84": {
     "id": 84,
@@ -3174,7 +3468,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "85": {
     "id": 85,
@@ -3213,7 +3510,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "86": {
     "id": 86,
@@ -3252,7 +3552,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "87": {
     "id": 87,
@@ -3291,7 +3594,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "88": {
     "id": 88,
@@ -3330,7 +3636,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "89": {
     "id": 89,
@@ -3369,7 +3678,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "90": {
     "id": 90,
@@ -3408,7 +3720,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "91": {
     "id": 91,
@@ -3447,7 +3762,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "92": {
     "id": 92,
@@ -3491,7 +3809,10 @@
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "93": {
     "id": 93,
@@ -3524,7 +3845,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "94": {
     "id": 94,
@@ -3563,7 +3887,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "95": {
     "id": 95,
@@ -3602,7 +3929,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "96": {
     "id": 96,
@@ -3641,7 +3971,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "97": {
     "id": 97,
@@ -3680,7 +4013,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "98": {
     "id": 98,
@@ -3719,7 +4055,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "99": {
     "id": 99,
@@ -3758,7 +4097,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "100": {
     "id": 100,
@@ -3797,7 +4139,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "101": {
     "id": 101,
@@ -3836,7 +4181,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "102": {
     "id": 102,
@@ -3875,7 +4223,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "103": {
     "id": 103,
@@ -3914,7 +4265,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "104": {
     "id": 104,
@@ -3953,7 +4307,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "105": {
     "id": 105,
@@ -3998,7 +4355,10 @@
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "106": {
     "id": 106,
@@ -4025,7 +4385,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "107": {
     "id": 107,
@@ -4058,7 +4421,10 @@
         "value": "Other edition",
         "order": "11.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "108": {
     "id": 108,
@@ -4091,7 +4457,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "109": {
     "id": 109,
@@ -4118,7 +4487,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "110": {
     "id": 110,
@@ -4145,7 +4517,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "111": {
     "id": 111,
@@ -4172,7 +4547,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "112": {
     "id": 112,
@@ -4199,7 +4577,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "113": {
     "id": 113,
@@ -4226,7 +4607,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "114": {
     "id": 114,
@@ -4253,7 +4637,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "115": {
     "id": 115,
@@ -4286,7 +4673,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "116": {
     "id": 116,
@@ -4319,7 +4709,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "117": {
     "id": 117,
@@ -4352,7 +4745,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "118": {
     "id": 118,
@@ -4379,7 +4775,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "119": {
     "id": 119,
@@ -4406,7 +4805,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "120": {
     "id": 120,
@@ -4439,7 +4841,10 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "121": {
     "id": 121,
@@ -4466,7 +4871,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "122": {
     "id": 122,
@@ -4505,7 +4913,10 @@
         "value": "Patrologia Latina",
         "order": "2.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "123": {
     "id": 123,
@@ -4538,7 +4949,10 @@
         "value": "Other edition",
         "order": "11.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "124": {
     "id": 124,
@@ -4565,7 +4979,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "125": {
     "id": 125,
@@ -4592,7 +5009,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "126": {
     "id": 126,
@@ -4619,7 +5039,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "127": {
     "id": 127,
@@ -4646,7 +5069,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "128": {
     "id": 128,
@@ -4673,7 +5099,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "129": {
     "id": 129,
@@ -4700,7 +5129,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "130": {
     "id": 130,
@@ -4727,7 +5159,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "131": {
     "id": 131,
@@ -4754,7 +5189,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "132": {
     "id": 132,
@@ -4781,7 +5219,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "133": {
     "id": 133,
@@ -4826,7 +5267,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "134": {
     "id": 134,
@@ -4859,7 +5303,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "135": {
     "id": 135,
@@ -4892,7 +5339,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "136": {
     "id": 136,
@@ -4925,7 +5375,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "137": {
     "id": 137,
@@ -4970,7 +5423,10 @@
         "value": "None",
         "order": "1.00000000000000000000"
       }
-    ]
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "138": {
     "id": 138,
@@ -4997,7 +5453,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "139": {
     "id": 139,
@@ -5024,7 +5483,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "140": {
     "id": 140,
@@ -5051,7 +5513,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "141": {
     "id": 141,
@@ -5078,7 +5543,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "142": {
     "id": 142,
@@ -5105,7 +5573,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "143": {
     "id": 143,
@@ -5132,7 +5603,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "144": {
     "id": 144,
@@ -5159,7 +5633,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "145": {
     "id": 145,
@@ -5186,7 +5663,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "146": {
     "id": 146,
@@ -5213,7 +5693,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "147": {
     "id": 147,
@@ -5240,7 +5723,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "148": {
     "id": 148,
@@ -5267,7 +5753,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "149": {
     "id": 149,
@@ -5294,7 +5783,10 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   },
   "150": {
     "id": 150,
@@ -5311,6 +5803,195 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": []
+    "published_edition": [],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
+  },
+  "152": {
+    "id": 152,
+    "order": "150.00000000000000000000",
+    "name": "In euangelium Matthaei ",
+    "jad_id": "jad_work__152",
+    "author": [
+      {
+        "id": 57,
+        "value": "Sedulius, Scotus",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "In euangelium Matthaei",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
+  },
+  "153": {
+    "id": 153,
+    "order": "151.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__153",
+    "author": [
+      {
+        "id": 30,
+        "value": "Remigius, von Auxerre",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 2,
+        "value": "Benedictines Auxerre",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
+  },
+  "154": {
+    "id": 154,
+    "order": "152.00000000000000000000",
+    "name": "Commentary Luke ",
+    "jad_id": "jad_work__154",
+    "author": [
+      {
+        "id": 34,
+        "value": "Bonaventura",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Luke",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
+  },
+  "155": {
+    "id": 155,
+    "order": "153.00000000000000000000",
+    "name": "Commentary John ",
+    "jad_id": "jad_work__155",
+    "author": [
+      {
+        "id": 34,
+        "value": "Bonaventura",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary John",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
+  },
+  "156": {
+    "id": 156,
+    "order": "154.00000000000000000000",
+    "name": "Collationes in Hexaemeron ",
+    "jad_id": "jad_work__156",
+    "author": [
+      {
+        "id": 34,
+        "value": "Bonaventura",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Collationes in Hexaemeron",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "certainty": false,
+    "date": [],
+    "corpus_corporum": ""
   }
 }
