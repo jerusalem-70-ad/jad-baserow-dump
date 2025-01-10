@@ -144,7 +144,7 @@ MODEL_CONFIG = [
     },
     {
         "table_label": "PASSAGES",
-        "label_lookup_expression": "$.name",
+        "label_lookup_expression": "$.passage",
         "final_file": [DATA_FOLDER, "passages.json"],
         "fields": [
             {

@@ -1,0 +1,212 @@
+{
+  "1": {
+    "id": 1,
+    "name": "None",
+    "jad_id": "jad_sources_occurrences__1",
+    "digi_url": "",
+    "view_label": "None",
+    "prev": {
+      "id": "jad_sources_occurrences__9",
+      "label": "Manuscript"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__10",
+      "label": "Secondary literature"
+    }
+  },
+  "2": {
+    "id": 2,
+    "name": "Patrologia Latina",
+    "jad_id": "jad_sources_occurrences__2",
+    "digi_url": "https://mlat.uzh.ch/browser?path=/38",
+    "view_label": "Patrologia Latina",
+    "prev": {
+      "id": "jad_sources_occurrences__15",
+      "label": "Glossa Ordinaria (ed. Venice 1603)"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__4",
+      "label": "Library of Latin Texts (Brepols)"
+    }
+  },
+  "4": {
+    "id": 4,
+    "name": "Library of Latin Texts (Brepols)",
+    "jad_id": "jad_sources_occurrences__4",
+    "digi_url": "",
+    "view_label": "Library of Latin Texts (Brepols)",
+    "prev": {
+      "id": "jad_sources_occurrences__2",
+      "label": "Patrologia Latina"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__5",
+      "label": "In Principio (Brepols)"
+    }
+  },
+  "5": {
+    "id": 5,
+    "name": "In Principio (Brepols)",
+    "jad_id": "jad_sources_occurrences__5",
+    "digi_url": "",
+    "view_label": "In Principio (Brepols)",
+    "prev": {
+      "id": "jad_sources_occurrences__4",
+      "label": "Library of Latin Texts (Brepols)"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__6",
+      "label": "ARCHA"
+    }
+  },
+  "6": {
+    "id": 6,
+    "name": "ARCHA",
+    "jad_id": "jad_sources_occurrences__6",
+    "digi_url": "https://arca.irht.cnrs.fr/",
+    "view_label": "ARCHA",
+    "prev": {
+      "id": "jad_sources_occurrences__5",
+      "label": "In Principio (Brepols)"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__7",
+      "label": "Corpus Christianorum"
+    }
+  },
+  "7": {
+    "id": 7,
+    "name": "Corpus Christianorum",
+    "jad_id": "jad_sources_occurrences__7",
+    "digi_url": "",
+    "view_label": "Corpus Christianorum",
+    "prev": {
+      "id": "jad_sources_occurrences__6",
+      "label": "ARCHA"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__8",
+      "label": "Sources Chrétiennes"
+    }
+  },
+  "8": {
+    "id": 8,
+    "name": "Sources Chrétiennes",
+    "jad_id": "jad_sources_occurrences__8",
+    "digi_url": "",
+    "view_label": "Sources Chrétiennes",
+    "prev": {
+      "id": "jad_sources_occurrences__7",
+      "label": "Corpus Christianorum"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__9",
+      "label": "Manuscript"
+    }
+  },
+  "9": {
+    "id": 9,
+    "name": "Manuscript",
+    "jad_id": "jad_sources_occurrences__9",
+    "digi_url": "",
+    "view_label": "Manuscript",
+    "prev": {
+      "id": "jad_sources_occurrences__8",
+      "label": "Sources Chrétiennes"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__1",
+      "label": "None"
+    }
+  },
+  "10": {
+    "id": 10,
+    "name": "Secondary literature",
+    "jad_id": "jad_sources_occurrences__10",
+    "digi_url": "",
+    "view_label": "Secondary literature",
+    "prev": {
+      "id": "jad_sources_occurrences__1",
+      "label": "None"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__11",
+      "label": "Personal hint"
+    }
+  },
+  "11": {
+    "id": 11,
+    "name": "Personal hint",
+    "jad_id": "jad_sources_occurrences__11",
+    "digi_url": "",
+    "view_label": "Personal hint",
+    "prev": {
+      "id": "jad_sources_occurrences__10",
+      "label": "Secondary literature"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__12",
+      "label": "Other edition"
+    }
+  },
+  "12": {
+    "id": 12,
+    "name": "Other edition",
+    "jad_id": "jad_sources_occurrences__12",
+    "digi_url": "",
+    "view_label": "Other edition",
+    "prev": {
+      "id": "jad_sources_occurrences__11",
+      "label": "Personal hint"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__13",
+      "label": "Glossa Ordinaria (online)"
+    }
+  },
+  "13": {
+    "id": 13,
+    "name": "Glossa Ordinaria (online)",
+    "jad_id": "jad_sources_occurrences__13",
+    "digi_url": "https://gloss-e.irht.cnrs.fr/php/livres-liste.php?id=glo",
+    "view_label": "Glossa Ordinaria (online)",
+    "prev": {
+      "id": "jad_sources_occurrences__12",
+      "label": "Other edition"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__14",
+      "label": "MGH"
+    }
+  },
+  "14": {
+    "id": 14,
+    "name": "MGH",
+    "jad_id": "jad_sources_occurrences__14",
+    "digi_url": "",
+    "view_label": "MGH",
+    "prev": {
+      "id": "jad_sources_occurrences__13",
+      "label": "Glossa Ordinaria (online)"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__15",
+      "label": "Glossa Ordinaria (ed. Venice 1603)"
+    }
+  },
+  "15": {
+    "id": 15,
+    "name": "Glossa Ordinaria (ed. Venice 1603)",
+    "jad_id": "jad_sources_occurrences__15",
+    "digi_url": "",
+    "view_label": "Glossa Ordinaria (ed. Venice 1603)",
+    "prev": {
+      "id": "jad_sources_occurrences__14",
+      "label": "MGH"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__2",
+      "label": "Patrologia Latina"
+    }
+  }
+}

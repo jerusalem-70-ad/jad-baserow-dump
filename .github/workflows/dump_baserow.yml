@@ -25,8 +25,7 @@ jobs:
       - name: dump the data
         run: |
           python dump_data.py
-          python denormalize.py
-          python add_related_objects.py
+          python process.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
