@@ -4,7 +4,7 @@ import shutil
 from jsonpath_ng import parse
 from jsonpath_ng.exceptions import JsonPathParserError
 
-ORIG_FOLDER = "json"
+ORIG_FOLDER = "json_dumps"
 DATA_DIR = "data"
 
 

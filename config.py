@@ -163,7 +163,7 @@ MODEL_CONFIG = [
         "table_label": "MS-OCCURRENCES",
         "label_lookup_expression": "$..occurrence[0].value",
         "final_file": [DATA_FOLDER, "ms_occurrences.json"],
-        "orig_file": "ms_occurrences.json.json",
+        "orig_file": "ms_occurrences.json",
         "fields": [],
     },
 ]
