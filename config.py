@@ -31,6 +31,7 @@ MODEL_CONFIG = [
         "final_file": [DATA_FOLDER, "authors.json"],
         "orig_file": "authors.json",
         "fields": [],
+        "related_objects": [{"source_file": "works", "lookup_field": "author"}],
     },
     {
         "table_label": "BIBL-REFS",
@@ -77,7 +78,13 @@ MODEL_CONFIG = [
                 "seed_file": [JSON_FOLDER, "keywords.json"],
                 "source_file": [JSON_FOLDER, "keywords.json"],
             }
-        ]
+        ],
+        "related_objects": [
+            {
+                "source_file": "passages",
+                "lookup_field": "keywords",
+            },
+        ],
     },
     {
         "table_label": "INSTITUTIONS",
@@ -89,7 +96,10 @@ MODEL_CONFIG = [
                 "seed_file": [JSON_FOLDER, "institutional_context.json"],
                 "source_file": [JSON_FOLDER, "institutional_context.json"],
             }
-        ]
+        ],
+        "related_objects": [
+            {"source_file": "manuscripts", "lookup_field": "institutional_context"}
+        ],
     },
     {
         "table_label": "Libraries",
@@ -101,7 +111,8 @@ MODEL_CONFIG = [
                 "seed_file": [JSON_FOLDER, "places.json"],
                 "source_file": [JSON_FOLDER, "libraries.json"],
             }
-        ]
+        ],
+        "related_objects": [{"source_file": "manuscripts", "lookup_field": "library"}],
     },
     {
         "table_label": "WORKS",
@@ -123,7 +134,13 @@ MODEL_CONFIG = [
                 "source_file": [DATA_FOLDER, "works.json"],
                 "seed_file": [DATA_FOLDER, "institutional_contexts.json"],
             },
-        ]
+        ],
+        "related_objects": [
+            {
+                "source_file": "passages",
+                "lookup_field": "work",
+            }
+        ],
     },
     {
         "table_label": "MANUSCRIPTS",
@@ -139,8 +156,8 @@ MODEL_CONFIG = [
                 "field_name": "institutional_context",
                 "seed_file": [DATA_FOLDER, "institutional_contexts.json"],
                 "source_file": [DATA_FOLDER, "manuscripts.json"],
-            }
-        ]
+            },
+        ],
     },
     {
         "table_label": "PASSAGES",
@@ -157,7 +174,7 @@ MODEL_CONFIG = [
                 "seed_file": [DATA_FOLDER, "keywords.json"],
                 "source_file": [DATA_FOLDER, "passages.json"],
             },
-        ]
+        ],
     },
     {
         "table_label": "MS-OCCURRENCES",
