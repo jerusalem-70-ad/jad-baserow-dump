@@ -288,7 +288,7 @@
     ],
     "idno": "Latin 3737",
     "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61689r",
-    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b52502392s/f311.item",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b52502392s/",
     "not_before": "1290",
     "not_after": "1310",
     "written_date": "around 1300",
@@ -1002,8 +1002,112 @@
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 3721"
+      }
+    ],
     "jad_id": "jad_manuscript__37",
+    "library": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "idno": "Clm 3721",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037622269707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%203721&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00114266?page=,1",
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "institutional_context": [],
+    "date_written": []
+  },
+  "38": {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "name": [
+      {
+        "id": 16,
+        "value": "Jena, UB, El. f. 32"
+      }
+    ],
+    "jad_id": "jad_manuscript__38",
+    "library": [
+      {
+        "id": 16,
+        "value": "Thüringer Universitäts- und Landesbibliothek Jena",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "idno": "El. f. 32",
+    "catalog_url": "https://handschriftenportal.de/search?q=settlement-search%3D%3D%27jena%27%3BFIELD-GROUP-ALL%3D%3D%2732%27&hl=true&isExtended=true",
+    "digi_url": "https://handschriftenportal.de/search?q=settlement-search%3D%3D%27jena%27%3BFIELD-GROUP-ALL%3D%3D%2732%27&hl=true&isExtended=true",
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "institutional_context": [],
+    "date_written": []
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "name": [
+      {
+        "id": 17,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "jad_id": "jad_manuscript__39",
+    "library": [
+      {
+        "id": 17,
+        "value": "Universitätsbibliothek Erlangen-Nürnberg",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "idno": "63/1",
+    "catalog_url": "https://bvbat01.bib-bvb.de/TP61/start.do?Query=1035%3D%22BV045480740%22+IN+%5B1%5D&Language=De",
+    "digi_url": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1736437021266~348&pid=17109356&locale=de&usePid1=true&usePid2=true",
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "institutional_context": [],
+    "date_written": []
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "name": [
+      {
+        "id": 17,
+        "value": "Erlangen, UB, 63/2"
+      }
+    ],
+    "jad_id": "jad_manuscript__40",
+    "library": [
+      {
+        "id": 17,
+        "value": "Universitätsbibliothek Erlangen-Nürnberg",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "idno": "63/2",
+    "catalog_url": "https://bvbat01.bib-bvb.de/TP61/start.do?Query=1035%3D%22BV045480740%22+IN+%5B1%5D&Language=De",
+    "digi_url": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1736437030858~486&pid=17110225&locale=de&usePid1=true&usePid2=true",
+    "not_before": null,
+    "not_after": null,
+    "written_date": "",
+    "institutional_context": [],
+    "date_written": []
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__41",
     "library": [],
     "idno": "",
     "catalog_url": "",

@@ -24,9 +24,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": "1175",
-    "not_after": "1200",
-    "written_date": "late 12",
     "notes": null,
     "notes__author": null,
     "institutional_context": [
@@ -88,9 +85,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": "1175",
-    "not_after": "1200",
-    "written_date": "late 12",
     "notes": null,
     "notes__author": null,
     "institutional_context": [
@@ -147,9 +141,6 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": "1187",
-    "not_after": "1200",
-    "written_date": "post 1187",
     "notes": null,
     "notes__author": null,
     "institutional_context": [
@@ -170,7 +161,7 @@
     "date": [
       {
         "id": 11,
-        "value": "post 1187",
+        "value": "after 1187",
         "order": "11.00000000000000000000"
       }
     ],
@@ -201,9 +192,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": "1187",
-    "not_after": "1197",
-    "written_date": "post 1187",
     "notes": null,
     "notes__author": null,
     "institutional_context": [
@@ -224,7 +212,7 @@
     "date": [
       {
         "id": 11,
-        "value": "post 1187",
+        "value": "after 1187",
         "order": "11.00000000000000000000"
       }
     ],
@@ -249,9 +237,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": null,
     "notes__author": null,
     "institutional_context": [],
@@ -262,8 +247,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "6": {
@@ -285,9 +276,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 8",
     "notes": null,
     "notes__author": null,
     "institutional_context": [],
@@ -333,9 +321,6 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -374,9 +359,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "13",
     "notes": "",
     "notes__author": "autorschaft hugo fraglich?",
     "institutional_context": [
@@ -387,8 +369,14 @@
       }
     ],
     "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "9": {
@@ -421,9 +409,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": "1140",
-    "not_after": "1160",
-    "written_date": "mid 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -469,9 +454,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -482,8 +464,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "11": {
@@ -516,9 +504,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -535,8 +520,14 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "12": {
@@ -564,9 +555,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -583,8 +571,14 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "13": {
@@ -612,9 +606,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -631,8 +622,14 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "14": {
@@ -660,9 +657,6 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -696,9 +690,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": "1280",
-    "not_after": "1320",
-    "written_date": "around 1300",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -710,7 +701,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 17,
+        "value": "around 1300",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "16": {
@@ -738,9 +735,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "mid 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -757,8 +751,14 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "17": {
@@ -786,15 +786,24 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "around 900",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 19,
+        "value": "around 900",
+        "order": "19.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "18": {
@@ -822,9 +831,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": "1200",
-    "not_after": "1236",
-    "written_date": "early 13",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -834,9 +840,21 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "19": {
@@ -864,9 +882,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": "1197",
-    "written_date": "late 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -883,8 +898,14 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "20": {
@@ -912,9 +933,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": "1197",
-    "written_date": "late 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -931,8 +949,14 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "21": {
@@ -960,9 +984,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": "1197",
-    "written_date": "late 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -979,8 +1000,14 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "22": {
@@ -1008,9 +1035,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": "1197",
-    "written_date": "late 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1027,8 +1051,14 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "23": {
@@ -1056,9 +1086,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": "1160",
-    "not_after": "1170",
-    "written_date": "1160s",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1075,8 +1102,14 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 23,
+        "value": "1160s",
+        "order": "23.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "24": {
@@ -1109,9 +1142,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "late 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1128,8 +1158,14 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "25": {
@@ -1151,9 +1187,6 @@
       "value": "Chronicle",
       "color": "red"
     },
-    "not_before": "1100",
-    "not_after": "1125",
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1175,7 +1208,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "certainty": true,
     "date": [
       {
         "id": 3,
@@ -1204,9 +1237,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1223,8 +1253,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "27": {
@@ -1246,9 +1282,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1265,8 +1298,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "28": {
@@ -1288,9 +1327,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -1301,8 +1337,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "29": {
@@ -1324,9 +1366,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1348,8 +1387,14 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "30": {
@@ -1371,9 +1416,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1391,7 +1433,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 19,
+        "value": "around 900",
+        "order": "19.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "31": {
@@ -1413,9 +1461,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1433,7 +1478,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "32": {
@@ -1455,9 +1506,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1475,7 +1523,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 10,
+        "value": "around 1100",
+        "order": "10.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "33": {
@@ -1497,9 +1551,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -1533,9 +1584,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1557,8 +1605,14 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "35": {
@@ -1580,9 +1634,6 @@
       "value": "Chronicle",
       "color": "red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -1598,8 +1649,14 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "36": {
@@ -1621,9 +1678,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "around 600",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1640,8 +1694,14 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 25,
+        "value": "late 6th cen.",
+        "order": "25.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "37": {
@@ -1663,9 +1723,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -1676,8 +1733,14 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "38": {
@@ -1699,9 +1762,6 @@
       "value": "Chronicle",
       "color": "red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 13",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -1712,8 +1772,14 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "39": {
@@ -1735,9 +1801,6 @@
       "value": "Chronicle",
       "color": "red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 13",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -1748,8 +1811,14 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "40": {
@@ -1777,9 +1846,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": "800",
-    "not_after": "900",
-    "written_date": "9",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -1790,12 +1856,12 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "certainty": true,
     "date": [
       {
-        "id": 1,
-        "value": "9th cen.",
-        "order": "1.00000000000000000000"
+        "id": 6,
+        "value": "early 9th cen.",
+        "order": "6.00000000000000000000"
       }
     ],
     "corpus_corporum": ""
@@ -1825,9 +1891,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -1861,9 +1924,6 @@
       "value": "Chronicle",
       "color": "red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "mid 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -1880,8 +1940,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "43": {
@@ -1903,9 +1969,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": "1100",
-    "not_after": "1125",
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -1917,7 +1980,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "44": {
@@ -1939,9 +2008,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -1975,9 +2041,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -2023,9 +2086,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": "1187",
-    "not_after": null,
-    "written_date": "late 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -2042,8 +2102,14 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 11,
+        "value": "after 1187",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "47": {
@@ -2065,9 +2131,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -2084,8 +2147,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 33,
+        "value": "mid 11th cen.",
+        "order": "33.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "49": {
@@ -2107,9 +2176,6 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2143,9 +2209,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2156,8 +2219,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "51": {
@@ -2179,9 +2248,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -2198,8 +2264,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "52": {
@@ -2221,9 +2293,6 @@
       "value": "Chronicle",
       "color": "red"
     },
-    "not_before": null,
-    "not_after": "1186",
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -2245,8 +2314,19 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "before 1186",
+        "order": "30.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "53": {
@@ -2268,9 +2348,6 @@
       "value": "Anti-Jewish treatise",
       "color": "darker-purple"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "mid 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -2287,8 +2364,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "54": {
@@ -2310,9 +2393,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -2352,9 +2432,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -2372,7 +2449,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 13,
+        "value": "12th cen., first half",
+        "order": "13.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "56": {
@@ -2394,9 +2477,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "around 400",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2407,8 +2487,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "57": {
@@ -2430,9 +2516,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "around 400",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2443,8 +2526,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "58": {
@@ -2466,9 +2555,6 @@
       "value": "Chronicle",
       "color": "red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2502,9 +2588,6 @@
       "value": "Chronicle",
       "color": "red"
     },
-    "not_before": "1100",
-    "not_after": "1125",
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2515,8 +2598,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "60": {
@@ -2538,9 +2627,6 @@
       "value": "Anti-Jewish treatise",
       "color": "darker-purple"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2574,9 +2660,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2587,8 +2670,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "62": {
@@ -2610,9 +2699,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2646,9 +2732,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2659,8 +2742,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "64": {
@@ -2682,9 +2771,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2695,8 +2781,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "65": {
@@ -2718,9 +2810,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2731,8 +2820,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "66": {
@@ -2754,9 +2849,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2767,8 +2859,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "67": {
@@ -2790,9 +2888,6 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2803,8 +2898,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "68": {
@@ -2832,9 +2933,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": "1175",
-    "not_after": "1200",
-    "written_date": "late 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -2851,8 +2949,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "69": {
@@ -2874,9 +2978,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -2893,8 +2994,14 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "70": {
@@ -2916,9 +3023,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -2935,8 +3039,14 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "71": {
@@ -2958,9 +3068,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -2971,8 +3078,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 34,
+        "value": "early 7th cen.",
+        "order": "34.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "72": {
@@ -2994,9 +3107,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": "800",
-    "not_after": "840",
-    "written_date": "early 9",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -3008,7 +3118,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 6,
+        "value": "early 9th cen.",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "73": {
@@ -3030,9 +3146,6 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": "690",
-    "written_date": "late 7",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3050,7 +3163,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 27,
+        "value": "late 7th cen.",
+        "order": "27.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "74": {
@@ -3072,9 +3191,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": "690",
-    "written_date": "late 7",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3092,7 +3208,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 27,
+        "value": "late 7th cen.",
+        "order": "27.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "75": {
@@ -3114,9 +3236,6 @@
       "value": "Chronicle",
       "color": "red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "around 1100",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -3128,7 +3247,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 10,
+        "value": "around 1100",
+        "order": "10.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "76": {
@@ -3150,9 +3275,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "9",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -3164,7 +3286,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "77": {
@@ -3186,9 +3314,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -3200,7 +3325,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "78": {
@@ -3222,9 +3353,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -3236,7 +3364,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "79": {
@@ -3258,9 +3392,6 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -3272,7 +3403,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "80": {
@@ -3294,9 +3431,6 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -3308,7 +3442,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "81": {
@@ -3330,9 +3470,6 @@
       "value": "Chronicle",
       "color": "red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -3344,7 +3481,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "82": {
@@ -3366,9 +3509,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3386,7 +3526,18 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "late 11th cen.",
+        "order": "35.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "83": {
@@ -3408,9 +3559,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3428,7 +3576,18 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "late 11th cen.",
+        "order": "35.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "84": {
@@ -3450,9 +3609,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3470,7 +3626,18 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "late 11th cen.",
+        "order": "35.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "85": {
@@ -3492,9 +3659,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3512,7 +3676,18 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 35,
+        "value": "late 11th cen.",
+        "order": "35.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "86": {
@@ -3534,9 +3709,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3553,8 +3725,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "87": {
@@ -3576,9 +3754,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3595,8 +3770,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "88": {
@@ -3618,9 +3799,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3637,8 +3815,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "89": {
@@ -3660,9 +3844,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3679,8 +3860,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "90": {
@@ -3702,9 +3889,6 @@
       "value": "Liturgical text",
       "color": "dark-yellow"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3721,8 +3905,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "91": {
@@ -3744,9 +3934,6 @@
       "value": "Anti-Jewish treatise",
       "color": "darker-purple"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3763,8 +3950,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "92": {
@@ -3786,9 +3979,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": "1099",
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3810,8 +4000,14 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 31,
+        "value": "1110s",
+        "order": "31.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "93": {
@@ -3833,9 +4029,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -3869,9 +4062,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3888,8 +4078,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "95": {
@@ -3911,9 +4107,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3930,8 +4123,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "96": {
@@ -3953,9 +4152,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -3972,8 +4168,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "97": {
@@ -3995,9 +4197,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -4014,8 +4213,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "98": {
@@ -4037,9 +4242,6 @@
       "value": "Theological treatise",
       "color": "dark-cyan"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -4056,8 +4258,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "99": {
@@ -4079,9 +4287,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -4098,8 +4303,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "100": {
@@ -4121,9 +4332,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -4140,8 +4348,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "101": {
@@ -4163,9 +4377,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -4182,8 +4393,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "102": {
@@ -4205,9 +4422,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -4224,8 +4438,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "103": {
@@ -4247,9 +4467,6 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -4266,8 +4483,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "104": {
@@ -4289,9 +4512,6 @@
       "value": "Anti-Jewish treatise",
       "color": "darker-purple"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "early 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -4308,8 +4528,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "105": {
@@ -4337,9 +4563,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -4357,7 +4580,18 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 28,
+        "value": "860s",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 29,
+        "value": "870s",
+        "order": "29.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "106": {
@@ -4379,15 +4613,24 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "around 400",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "107": {
@@ -4409,9 +4652,6 @@
       "value": "Vernacular treatise",
       "color": "darker-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "late 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -4423,7 +4663,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "108": {
@@ -4445,9 +4691,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "around 400",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -4458,8 +4701,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "109": {
@@ -4481,15 +4730,18 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "110": {
@@ -4511,9 +4763,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -4541,15 +4790,18 @@
       "value": "Chronicle",
       "color": "red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 36,
+        "value": "early 4th cen.",
+        "order": "36.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "112": {
@@ -4571,15 +4823,24 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "113": {
@@ -4601,15 +4862,18 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "114": {
@@ -4631,15 +4895,18 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "115": {
@@ -4661,9 +4928,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": "735",
-    "written_date": "early 8",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -4674,8 +4938,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "116": {
@@ -4697,9 +4967,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": "735",
-    "written_date": "early 8",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -4710,8 +4977,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "117": {
@@ -4733,9 +5006,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": "735",
-    "written_date": "early 8",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -4746,8 +5016,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "118": {
@@ -4769,15 +5045,18 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "119": {
@@ -4799,15 +5078,34 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": "1190",
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 32,
+        "value": "before 1190",
+        "order": "32.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "120": {
@@ -4829,9 +5127,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -4842,8 +5137,14 @@
       }
     ],
     "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 37,
+        "value": "late 8th cen.",
+        "order": "37.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "121": {
@@ -4865,15 +5166,18 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 37,
+        "value": "late 8th cen.",
+        "order": "37.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "122": {
@@ -4895,9 +5199,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "late 12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -4915,7 +5216,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "123": {
@@ -4937,9 +5244,6 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -4951,7 +5255,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 9,
+        "value": "around 1200",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "124": {
@@ -4973,9 +5283,6 @@
       "value": "Polemics",
       "color": "light-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -5003,15 +5310,18 @@
       "value": "Theological treatise",
       "color": "dark-cyan"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 38,
+        "value": "1170s",
+        "order": "38.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "126": {
@@ -5033,9 +5343,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -5063,15 +5370,18 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 10,
+        "value": "around 1100",
+        "order": "10.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "128": {
@@ -5093,15 +5403,24 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "129": {
@@ -5123,15 +5442,18 @@
       "value": "Polemics",
       "color": "light-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 34,
+        "value": "early 7th cen.",
+        "order": "34.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "130": {
@@ -5153,15 +5475,18 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "131": {
@@ -5183,9 +5508,6 @@
       "value": "Chronicle",
       "color": "red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -5213,15 +5535,18 @@
       "value": "Hagiography",
       "color": "darker-blue"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "133": {
@@ -5249,9 +5574,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -5269,7 +5591,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 2,
+        "value": "12th cen.",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "134": {
@@ -5297,13 +5625,16 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "certainty": false,
     "date": [],
     "corpus_corporum": ""
@@ -5333,15 +5664,24 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 2,
+        "value": "12th cen.",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "136": {
@@ -5369,15 +5709,24 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "12",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 2,
+        "value": "12th cen.",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "137": {
@@ -5405,9 +5754,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -5425,7 +5771,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "138": {
@@ -5447,15 +5799,24 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "139": {
@@ -5477,15 +5838,24 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "140": {
@@ -5507,15 +5877,24 @@
       "value": "Idiosyncratic work",
       "color": "dark-red"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "141": {
@@ -5537,15 +5916,24 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "142": {
@@ -5567,15 +5955,24 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "143": {
@@ -5597,15 +5994,24 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "144": {
@@ -5627,15 +6033,24 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "145": {
@@ -5657,15 +6072,24 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "146": {
@@ -5687,15 +6111,24 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 12,
+        "value": "early 8th cen.",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "147": {
@@ -5717,15 +6150,24 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "148": {
@@ -5747,15 +6189,24 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "149": {
@@ -5777,35 +6228,57 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 37,
+        "value": "late 8th cen.",
+        "order": "37.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "150": {
     "id": 150,
     "order": "149.00000000000000000000",
-    "name": " ",
+    "name": "Commentaria in Abacuc ",
     "jad_id": "jad_work__150",
-    "author": [],
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
+    "title": "Commentaria in Abacuc",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "152": {
@@ -5827,9 +6300,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -5841,7 +6311,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "153": {
@@ -5863,9 +6339,6 @@
       "value": "Sermons",
       "color": "darker-pink"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [
@@ -5883,7 +6356,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 19,
+        "value": "around 900",
+        "order": "19.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "154": {
@@ -5905,9 +6384,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -5919,7 +6395,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "155": {
@@ -5941,9 +6423,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -5955,7 +6434,13 @@
       }
     ],
     "certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   },
   "156": {
@@ -5977,9 +6462,6 @@
       "value": "Commentary",
       "color": "darker-green"
     },
-    "not_before": null,
-    "not_after": null,
-    "written_date": "",
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -5990,6 +6472,721 @@
         "order": "6.00000000000000000000"
       }
     ],
+    "certainty": false,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "157": {
+    "id": 157,
+    "order": "155.00000000000000000000",
+    "name": "Quaestiones super libros Regum ",
+    "jad_id": "jad_work__157",
+    "author": [
+      {
+        "id": 69,
+        "value": "Claudius, von Turin",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Quaestiones super libros Regum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": false,
+    "date": [
+      {
+        "id": 6,
+        "value": "early 9th cen.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "158": {
+    "id": 158,
+    "order": "156.00000000000000000000",
+    "name": "Commentary Kings ",
+    "jad_id": "jad_work__158",
+    "author": [
+      {
+        "id": 28,
+        "value": "Gregor, der Grosse",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Kings",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 25,
+        "value": "late 6th cen.",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "159": {
+    "id": 159,
+    "order": "157.00000000000000000000",
+    "name": "Moralia in Iob ",
+    "jad_id": "jad_work__159",
+    "author": [
+      {
+        "id": 28,
+        "value": "Gregor, der Grosse",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Moralia in Iob",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "certainty": false,
+    "date": [
+      {
+        "id": 25,
+        "value": "late 6th cen.",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "160": {
+    "id": 160,
+    "order": "158.00000000000000000000",
+    "name": "Commentaria in Amos ",
+    "jad_id": "jad_work__160",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentaria in Amos",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "161": {
+    "id": 161,
+    "order": "159.00000000000000000000",
+    "name": "Commentaria in Danielem ",
+    "jad_id": "jad_work__161",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentaria in Danielem",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "162": {
+    "id": 162,
+    "order": "160.00000000000000000000",
+    "name": "Commentaria in Ezechielem ",
+    "jad_id": "jad_work__162",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentaria in Ezechielem",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "163": {
+    "id": 163,
+    "order": "161.00000000000000000000",
+    "name": "Commentaria in Michaeam ",
+    "jad_id": "jad_work__163",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentaria in Michaeam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "164": {
+    "id": 164,
+    "order": "162.00000000000000000000",
+    "name": "Commentaria in Joelem ",
+    "jad_id": "jad_work__164",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentaria in Joelem",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "165": {
+    "id": 165,
+    "order": "163.00000000000000000000",
+    "name": "Commentaria in Sophoniam ",
+    "jad_id": "jad_work__165",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentaria in Sophoniam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "166": {
+    "id": 166,
+    "order": "164.00000000000000000000",
+    "name": "Commentaria in Zachariam ",
+    "jad_id": "jad_work__166",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentaria in Zachariam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "167": {
+    "id": 167,
+    "order": "165.00000000000000000000",
+    "name": "Commentarius in Ecclesiasten ",
+    "jad_id": "jad_work__167",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentarius in Ecclesiasten",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "168": {
+    "id": 168,
+    "order": "166.00000000000000000000",
+    "name": "De viris illustribus ",
+    "jad_id": "jad_work__168",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De viris illustribus",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "169": {
+    "id": 169,
+    "order": "167.00000000000000000000",
+    "name": "Epistolae ",
+    "jad_id": "jad_work__169",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Epistolae",
+    "genre": {
+      "id": 18135,
+      "value": "Letters",
+      "color": "darker-orange"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "170": {
+    "id": 170,
+    "order": "168.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__170",
+    "author": [
+      {
+        "id": 37,
+        "value": "Honorius, Augustodunensis",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 37,
+        "value": "BSB, Clm 3721",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "certainty": false,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "171": {
+    "id": 171,
+    "order": "169.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__171",
+    "author": [
+      {
+        "id": 5,
+        "value": "Hrabanus, Maurus",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 38,
+        "value": "Jena, UB, El. f. 32",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "172": {
+    "id": 172,
+    "order": "170.00000000000000000000",
+    "name": "Commentary Isaiah (I) ",
+    "jad_id": "jad_work__172",
+    "author": [
+      {
+        "id": 5,
+        "value": "Hrabanus, Maurus",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Isaiah (I)",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "173": {
+    "id": 173,
+    "order": "171.00000000000000000000",
+    "name": "Commentary Isaiah (II) ",
+    "jad_id": "jad_work__173",
+    "author": [
+      {
+        "id": 5,
+        "value": "Hrabanus, Maurus",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 40,
+        "value": "Erlangen, UB, 63/2",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Isaiah (II)",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "174": {
+    "id": 174,
+    "order": "172.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__174",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
     "certainty": false,
     "date": [],
     "corpus_corporum": ""
