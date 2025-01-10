@@ -1,0 +1,58 @@
+{
+  "1": {
+    "id": 1,
+    "name": "First Crusade",
+    "jad_id": "jad_cluster__1",
+    "view_label": "First Crusade",
+    "prev": {
+      "id": "jad_cluster__4",
+      "label": "Viking invasions"
+    },
+    "next": {
+      "id": "jad_cluster__2",
+      "label": "Third Crusade"
+    }
+  },
+  "2": {
+    "id": 2,
+    "name": "Third Crusade",
+    "jad_id": "jad_cluster__2",
+    "view_label": "Third Crusade",
+    "prev": {
+      "id": "jad_cluster__1",
+      "label": "First Crusade"
+    },
+    "next": {
+      "id": "jad_cluster__3",
+      "label": "Carolingian correctio"
+    }
+  },
+  "3": {
+    "id": 3,
+    "name": "Carolingian correctio",
+    "jad_id": "jad_cluster__3",
+    "view_label": "Carolingian correctio",
+    "prev": {
+      "id": "jad_cluster__2",
+      "label": "Third Crusade"
+    },
+    "next": {
+      "id": "jad_cluster__4",
+      "label": "Viking invasions"
+    }
+  },
+  "4": {
+    "id": 4,
+    "name": "Viking invasions",
+    "jad_id": "jad_cluster__4",
+    "view_label": "Viking invasions",
+    "prev": {
+      "id": "jad_cluster__3",
+      "label": "Carolingian correctio"
+    },
+    "next": {
+      "id": "jad_cluster__1",
+      "label": "First Crusade"
+    }
+  }
+}
