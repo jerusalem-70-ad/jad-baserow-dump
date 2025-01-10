@@ -1,5 +1,6 @@
 import os
 import json
+import shutil
 from jsonpath_ng import parse
 from jsonpath_ng.exceptions import JsonPathParserError
 
@@ -63,6 +64,10 @@ def denormalize(MODEL_CONFIG):
             print(f"  saving {x['table_label']} as {final_file}")
             with open(final_file, "w", encoding="utf-8") as f:
                 json.dump(source_data, f, ensure_ascii=False, indent=2)
+        if not x["fields"]:
+            source_file = os.path.join(ORIG_FOLDER, x["orig_file"])
+            shutil.copy(source_file, final_file)
+
 
 
 def add_view_labels(MODEL_CONFIG, ID_FIELD):

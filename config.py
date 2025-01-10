@@ -29,36 +29,42 @@ MODEL_CONFIG = [
         "table_label": "AUTHORS",
         "label_lookup_expression": "$.name",
         "final_file": [DATA_FOLDER, "authors.json"],
+        "orig_file": "authors.json",
         "fields": [],
     },
     {
         "table_label": "BIBL-REFS",
         "label_lookup_expression": "$.name",
         "final_file": [DATA_FOLDER, "biblical_references.json"],
+        "orig_file": "biblical_references.json",
         "fields": [],
     },
     {
         "table_label": "CLUSTER",
         "label_lookup_expression": "$.name",
         "final_file": [DATA_FOLDER, "clusters.json"],
+        "orig_file": "cluster.json",
         "fields": [],
     },
     {
         "table_label": "DATE",
         "label_lookup_expression": "$.name",
         "final_file": [DATA_FOLDER, "dates.json"],
+        "orig_file": "date.json",
         "fields": [],
     },
     {
         "table_label": "LITURGICAL-REFS",
         "label_lookup_expression": "$.name",
         "final_file": [DATA_FOLDER, "liturgical_references.json"],
+        "orig_file": "liturgical_references.json",
         "fields": [],
     },
     {
         "table_label": "SOURCE-OCCURRENCE",
         "label_lookup_expression": "$.name",
         "final_file": [DATA_FOLDER, "sources_occurrences.json"],
+        "orig_file": "sources_occurrences.json",
         "fields": [],
     },
     {
@@ -115,7 +121,7 @@ MODEL_CONFIG = [
             {
                 "field_name": "institutional_context",
                 "source_file": [DATA_FOLDER, "works.json"],
-                "seed_file": [DATA_FOLDER, "institutional_context.json"],
+                "seed_file": [DATA_FOLDER, "institutional_contexts.json"],
             },
         ]
     },
@@ -131,7 +137,7 @@ MODEL_CONFIG = [
             },
             {
                 "field_name": "institutional_context",
-                "seed_file": [DATA_FOLDER, "institutional_context.json"],
+                "seed_file": [DATA_FOLDER, "institutional_contexts.json"],
                 "source_file": [DATA_FOLDER, "manuscripts.json"],
             }
         ]
@@ -157,6 +163,7 @@ MODEL_CONFIG = [
         "table_label": "MS-OCCURRENCES",
         "label_lookup_expression": "$..occurrence[0].value",
         "final_file": [DATA_FOLDER, "ms_occurrences.json"],
+        "orig_file": "ms_occurrences.json.json",
         "fields": [],
     },
 ]
