@@ -61,7 +61,7 @@
           },
           {
             "id": 42,
-            "value": "Ps. 51,20"
+            "value": "Ps. 50,20"
           }
         ],
         "work": [
@@ -988,7 +988,21 @@
             },
             "notes": "",
             "notes__author": "",
-            "institutional_context": [],
+            "institutional_context": [
+              {
+                "id": 2,
+                "name": "Benedictines Auxerre",
+                "jad_id": "jad_institutional_context__2",
+                "part_of": [
+                  {
+                    "id": 3,
+                    "name": "Benedictines",
+                    "jad_id": "jad_institutional_context__3",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
             "published_edition": [],
             "certainty": false,
             "date": [
@@ -1100,7 +1114,7 @@
           },
           {
             "id": 42,
-            "value": "Ps. 51,20"
+            "value": "Ps. 50,20"
           }
         ],
         "work": [
@@ -1430,8 +1444,8 @@
         "main_ms": [],
         "view_label": "ultima eversione templi, quae sub Vespasiano et Tito accidit",
         "prev": {
-          "id": "jad_occurence__391",
-          "label": ""
+          "id": "jad_occurence__399",
+          "label": "sub Tito et Vespasiano urbs capta est"
         },
         "next": {
           "id": "jad_occurence__40",
@@ -1814,6 +1828,10 @@
         "explicit_contemp_ref": "",
         "biblical_references": [
           {
+            "id": 29,
+            "value": "Mt. 23,38"
+          },
+          {
             "id": 105,
             "value": "Rev. 6,12"
           },
@@ -2109,7 +2127,21 @@
             },
             "notes": "",
             "notes__author": "",
-            "institutional_context": [],
+            "institutional_context": [
+              {
+                "id": 2,
+                "name": "Benedictines Auxerre",
+                "jad_id": "jad_institutional_context__2",
+                "part_of": [
+                  {
+                    "id": 3,
+                    "name": "Benedictines",
+                    "jad_id": "jad_institutional_context__3",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
             "published_edition": [],
             "certainty": false,
             "date": [
@@ -2216,7 +2248,14 @@
             },
             "notes": "",
             "notes__author": "",
-            "institutional_context": [],
+            "institutional_context": [
+              {
+                "id": 8,
+                "name": "Augustinian canons",
+                "jad_id": "jad_institutional_context__8",
+                "part_of": []
+              }
+            ],
             "published_edition": [
               {
                 "id": 2,
@@ -2540,7 +2579,7 @@
           },
           {
             "id": 42,
-            "value": "Ps. 51,20"
+            "value": "Ps. 50,20"
           }
         ],
         "work": [
@@ -3050,7 +3089,7 @@
           },
           {
             "id": 42,
-            "value": "Ps. 51,20"
+            "value": "Ps. 50,20"
           }
         ],
         "work": [
@@ -3295,7 +3334,7 @@
           },
           {
             "id": 42,
-            "value": "Ps. 51,20"
+            "value": "Ps. 50,20"
           }
         ],
         "work": [
@@ -3871,8 +3910,22 @@
             },
             "notes": "",
             "notes__author": "",
-            "institutional_context": [],
-            "published_edition": [],
+            "institutional_context": [
+              {
+                "id": 14,
+                "name": "Carolingian court",
+                "jad_id": "jad_institutional_context__14",
+                "part_of": []
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
             "certainty": true,
             "date": [
               {
@@ -4916,7 +4969,14 @@
             },
             "notes": "",
             "notes__author": "",
-            "institutional_context": [],
+            "institutional_context": [
+              {
+                "id": 8,
+                "name": "Augustinian canons",
+                "jad_id": "jad_institutional_context__8",
+                "part_of": []
+              }
+            ],
             "published_edition": [
               {
                 "id": 2,
@@ -7654,8 +7714,8 @@
         "main_ms": [],
         "view_label": "ultima eversione templi, quae sub Vespasiano et Tito accidit",
         "prev": {
-          "id": "jad_occurence__391",
-          "label": ""
+          "id": "jad_occurence__399",
+          "label": "sub Tito et Vespasiano urbs capta est"
         },
         "next": {
           "id": "jad_occurence__40",
@@ -8807,7 +8867,14 @@
             },
             "notes": "",
             "notes__author": "",
-            "institutional_context": [],
+            "institutional_context": [
+              {
+                "id": 8,
+                "name": "Augustinian canons",
+                "jad_id": "jad_institutional_context__8",
+                "part_of": []
+              }
+            ],
             "published_edition": [
               {
                 "id": 2,
@@ -9043,7 +9110,14 @@
             },
             "notes": "",
             "notes__author": "",
-            "institutional_context": [],
+            "institutional_context": [
+              {
+                "id": 8,
+                "name": "Augustinian canons",
+                "jad_id": "jad_institutional_context__8",
+                "part_of": []
+              }
+            ],
             "published_edition": [
               {
                 "id": 2,

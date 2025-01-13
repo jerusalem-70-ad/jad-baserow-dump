@@ -95,7 +95,14 @@
             "jad_id": "jad_library__4",
             "gnd_url": "https://d-nb.info/gnd/1022123-2",
             "abbreviation": "St.Gen.",
-            "place": []
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
           }
         ],
         "idno": "MS 1423",
@@ -204,7 +211,14 @@
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
             "abbreviation": "Maz.",
-            "place": []
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
           }
         ],
         "idno": "MS 177",
@@ -255,7 +269,14 @@
             "jad_id": "jad_library__4",
             "gnd_url": "https://d-nb.info/gnd/1022123-2",
             "abbreviation": "St.Gen.",
-            "place": []
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
           }
         ],
         "idno": "MS 2787",
@@ -364,7 +385,14 @@
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
             "abbreviation": "Maz.",
-            "place": []
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
           }
         ],
         "idno": "MS 178",
@@ -415,7 +443,14 @@
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
             "abbreviation": "Maz.",
-            "place": []
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
           }
         ],
         "idno": "MS 999",
@@ -640,8 +675,8 @@
     ],
     "view_label": "Benedictines Auxerre",
     "prev": {
-      "id": "jad_institutional_context__16",
-      "label": "French schools"
+      "id": "jad_institutional_context__19",
+      "label": "Friars"
     },
     "next": {
       "id": "jad_institutional_context__3",
@@ -664,7 +699,14 @@
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
             "abbreviation": "Maz.",
-            "place": []
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
           }
         ],
         "idno": "MS 698",
@@ -780,7 +822,14 @@
             "jad_id": "jad_library__6",
             "gnd_url": "https://d-nb.info/gnd/16441-0",
             "abbreviation": "Lam.",
-            "place": []
+            "place": [
+              {
+                "id": 5,
+                "name": "London",
+                "geonames_url": "",
+                "jad_id": "jad_places__5"
+              }
+            ]
           }
         ],
         "idno": "MS 144",
@@ -1119,6 +1168,68 @@
     "prev": {
       "id": "jad_institutional_context__15",
       "label": "See of Toledo"
+    },
+    "next": {
+      "id": "jad_institutional_context__17",
+      "label": "Franciscans"
+    },
+    "related__manuscripts": []
+  },
+  "17": {
+    "id": 17,
+    "name": "Franciscans",
+    "jad_id": "jad_institutional_context__17",
+    "part_of": [
+      {
+        "id": 19,
+        "name": "Friars",
+        "jad_id": "jad_institutional_context__19",
+        "part_of": []
+      }
+    ],
+    "view_label": "Franciscans",
+    "prev": {
+      "id": "jad_institutional_context__16",
+      "label": "French schools"
+    },
+    "next": {
+      "id": "jad_institutional_context__18",
+      "label": "Dominicans"
+    },
+    "related__manuscripts": []
+  },
+  "18": {
+    "id": 18,
+    "name": "Dominicans",
+    "jad_id": "jad_institutional_context__18",
+    "part_of": [
+      {
+        "id": 19,
+        "name": "Friars",
+        "jad_id": "jad_institutional_context__19",
+        "part_of": []
+      }
+    ],
+    "view_label": "Dominicans",
+    "prev": {
+      "id": "jad_institutional_context__17",
+      "label": "Franciscans"
+    },
+    "next": {
+      "id": "jad_institutional_context__19",
+      "label": "Friars"
+    },
+    "related__manuscripts": []
+  },
+  "19": {
+    "id": 19,
+    "name": "Friars",
+    "jad_id": "jad_institutional_context__19",
+    "part_of": [],
+    "view_label": "Friars",
+    "prev": {
+      "id": "jad_institutional_context__18",
+      "label": "Dominicans"
     },
     "next": {
       "id": "jad_institutional_context__2",

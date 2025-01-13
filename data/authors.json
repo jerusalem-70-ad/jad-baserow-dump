@@ -273,7 +273,34 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Augustinian canons León",
+            "jad_id": "jad_institutional_context__7",
+            "part_of": [
+              {
+                "id": 8,
+                "name": "Augustinian canons",
+                "jad_id": "jad_institutional_context__8",
+                "part_of": []
+              }
+            ]
+          }
+        ],
         "published_edition": [
           {
             "id": 2,
@@ -297,7 +324,7 @@
         },
         "next": {
           "id": "jad_work__129",
-          "label": "De fide catholica "
+          "label": "De fide catholica contra Judaeos "
         }
       }
     ]
@@ -1047,8 +1074,8 @@
         "corpus_corporum": "",
         "view_label": "Commentary Isaiah ",
         "prev": {
-          "id": "jad_work__18",
-          "label": "Sermones super evangelia "
+          "id": "jad_work__180",
+          "label": "Chronicon "
         },
         "next": {
           "id": "jad_work__2",
@@ -1790,7 +1817,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "certainty": true,
         "date": [
           {
@@ -1968,7 +2002,7 @@
         },
         "next": {
           "id": "jad_work__174",
-          "label": " "
+          "label": "Historia Romana "
         }
       }
     ]
@@ -2640,8 +2674,8 @@
       "label": "Claudius, von Turin"
     },
     "next": {
-      "id": "jad_author__8",
-      "label": "Hugo, von Saint-Cher"
+      "id": "jad_author__70",
+      "label": "Orosius, Paulus"
     },
     "related__works": [
       {
@@ -2696,8 +2730,8 @@
     "notes": "",
     "view_label": "Hugo, von Saint-Cher",
     "prev": {
-      "id": "jad_author__7",
-      "label": "Lambertus, Sancti Bertini"
+      "id": "jad_author__70",
+      "label": "Orosius, Paulus"
     },
     "next": {
       "id": "jad_author__9",
@@ -3209,7 +3243,7 @@
         "view_label": "Commentary Ezekiel ",
         "prev": {
           "id": "jad_work__129",
-          "label": "De fide catholica "
+          "label": "De fide catholica contra Judaeos "
         },
         "next": {
           "id": "jad_work__130",
@@ -3502,12 +3536,12 @@
         "corpus_corporum": "",
         "view_label": "Sermones super evangelia ",
         "prev": {
-          "id": "jad_work__174",
-          "label": " "
+          "id": "jad_work__179",
+          "label": "Prooemia in libros Veteris ac Novi Testamenti "
         },
         "next": {
-          "id": "jad_work__19",
-          "label": "Commentary Isaiah "
+          "id": "jad_work__180",
+          "label": "Chronicon "
         }
       }
     ]
@@ -4880,7 +4914,14 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 3,
+            "name": "Benedictines",
+            "jad_id": "jad_institutional_context__3",
+            "part_of": []
+          }
+        ],
         "published_edition": [
           {
             "id": 2,
@@ -4889,7 +4930,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "certainty": false,
+        "certainty": true,
         "date": [
           {
             "id": 3,
@@ -4929,7 +4970,14 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 3,
+            "name": "Benedictines",
+            "jad_id": "jad_institutional_context__3",
+            "part_of": []
+          }
+        ],
         "published_edition": [
           {
             "id": 2,
@@ -4938,7 +4986,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "certainty": false,
+        "certainty": true,
         "date": [
           {
             "id": 3,
@@ -5238,7 +5286,7 @@
       },
       {
         "id": 129,
-        "name": "De fide catholica ",
+        "name": "De fide catholica contra Judaeos ",
         "jad_id": "jad_work__129",
         "author": [
           {
@@ -5250,11 +5298,60 @@
           }
         ],
         "manuscripts": [],
-        "title": "De fide catholica",
+        "title": "De fide catholica contra Judaeos",
         "genre": {
-          "id": 15026,
-          "value": "Polemics",
-          "color": "light-green"
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "certainty": true,
+        "date": [
+          {
+            "id": 34,
+            "value": "early 7th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "view_label": "De fide catholica contra Judaeos ",
+        "prev": {
+          "id": "jad_work__128",
+          "label": "Commentary Jacob "
+        },
+        "next": {
+          "id": "jad_work__13",
+          "label": "Commentary Ezekiel "
+        }
+      },
+      {
+        "id": 176,
+        "name": "Etymologiae ",
+        "jad_id": "jad_work__176",
+        "author": [
+          {
+            "id": 18,
+            "name": "Isidorus, von Sevilla",
+            "jad_id": "jad_author__18",
+            "gnd_url": "https://d-nb.info/gnd/118555995",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Etymologiae",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
         },
         "notes": "",
         "notes__author": "",
@@ -5268,14 +5365,210 @@
           }
         ],
         "corpus_corporum": "",
-        "view_label": "De fide catholica ",
+        "view_label": "Etymologiae ",
         "prev": {
-          "id": "jad_work__128",
-          "label": "Commentary Jacob "
+          "id": "jad_work__175",
+          "label": "Historiae adversum paganos "
         },
         "next": {
-          "id": "jad_work__13",
-          "label": "Commentary Ezekiel "
+          "id": "jad_work__177",
+          "label": "Allegoriae sacrae Scripturae "
+        }
+      },
+      {
+        "id": 177,
+        "name": "Allegoriae sacrae Scripturae ",
+        "jad_id": "jad_work__177",
+        "author": [
+          {
+            "id": 18,
+            "name": "Isidorus, von Sevilla",
+            "jad_id": "jad_author__18",
+            "gnd_url": "https://d-nb.info/gnd/118555995",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Allegoriae sacrae Scripturae",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "certainty": true,
+        "date": [
+          {
+            "id": 34,
+            "value": "early 7th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "view_label": "Allegoriae sacrae Scripturae ",
+        "prev": {
+          "id": "jad_work__176",
+          "label": "Etymologiae "
+        },
+        "next": {
+          "id": "jad_work__178",
+          "label": "Quaestiones in Veterum Testamentum (636): IN "
+        }
+      },
+      {
+        "id": 178,
+        "name": "Quaestiones in Veterum Testamentum (636): IN ",
+        "jad_id": "jad_work__178",
+        "author": [
+          {
+            "id": 18,
+            "name": "Isidorus, von Sevilla",
+            "jad_id": "jad_author__18",
+            "gnd_url": "https://d-nb.info/gnd/118555995",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Quaestiones in Veterum Testamentum (636): IN",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "certainty": true,
+        "date": [
+          {
+            "id": 34,
+            "value": "early 7th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "view_label": "Quaestiones in Veterum Testamentum (636): IN ",
+        "prev": {
+          "id": "jad_work__177",
+          "label": "Allegoriae sacrae Scripturae "
+        },
+        "next": {
+          "id": "jad_work__179",
+          "label": "Prooemia in libros Veteris ac Novi Testamenti "
+        }
+      },
+      {
+        "id": 179,
+        "name": "Prooemia in libros Veteris ac Novi Testamenti ",
+        "jad_id": "jad_work__179",
+        "author": [
+          {
+            "id": 18,
+            "name": "Isidorus, von Sevilla",
+            "jad_id": "jad_author__18",
+            "gnd_url": "https://d-nb.info/gnd/118555995",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Prooemia in libros Veteris ac Novi Testamenti",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "certainty": true,
+        "date": [
+          {
+            "id": 34,
+            "value": "early 7th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "view_label": "Prooemia in libros Veteris ac Novi Testamenti ",
+        "prev": {
+          "id": "jad_work__178",
+          "label": "Quaestiones in Veterum Testamentum (636): IN "
+        },
+        "next": {
+          "id": "jad_work__18",
+          "label": "Sermones super evangelia "
+        }
+      },
+      {
+        "id": 180,
+        "name": "Chronicon ",
+        "jad_id": "jad_work__180",
+        "author": [
+          {
+            "id": 18,
+            "name": "Isidorus, von Sevilla",
+            "jad_id": "jad_author__18",
+            "gnd_url": "https://d-nb.info/gnd/118555995",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronicon",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "certainty": true,
+        "date": [
+          {
+            "id": 34,
+            "value": "early 7th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "view_label": "Chronicon ",
+        "prev": {
+          "id": "jad_work__18",
+          "label": "Sermones super evangelia "
+        },
+        "next": {
+          "id": "jad_work__19",
+          "label": "Commentary Isaiah "
         }
       }
     ]
@@ -5392,7 +5685,20 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 6,
+            "name": "See of Canterbury",
+            "jad_id": "jad_institutional_context__6",
+            "part_of": []
+          },
+          {
+            "id": 9,
+            "name": "Cistercians",
+            "jad_id": "jad_institutional_context__9",
+            "part_of": []
+          }
+        ],
         "published_edition": [
           {
             "id": 2,
@@ -5451,8 +5757,34 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
-        "published_edition": [],
+        "institutional_context": [
+          {
+            "id": 6,
+            "name": "See of Canterbury",
+            "jad_id": "jad_institutional_context__6",
+            "part_of": []
+          },
+          {
+            "id": 9,
+            "name": "Cistercians",
+            "jad_id": "jad_institutional_context__9",
+            "part_of": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          },
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
         "certainty": true,
         "date": [
           {
@@ -5599,7 +5931,14 @@
             "part_of": []
           }
         ],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "certainty": true,
         "date": [
           {
@@ -5640,8 +5979,22 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
-        "published_edition": [],
+        "institutional_context": [
+          {
+            "id": 14,
+            "name": "Carolingian court",
+            "jad_id": "jad_institutional_context__14",
+            "part_of": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "certainty": true,
         "date": [
           {
@@ -5979,7 +6332,21 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
         "published_edition": [],
         "certainty": false,
         "date": [
@@ -6021,8 +6388,29 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
-        "published_edition": [],
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "certainty": true,
         "date": [
           {
@@ -6907,7 +7295,14 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 5,
+            "name": "Papal Curia",
+            "jad_id": "jad_institutional_context__5",
+            "part_of": []
+          }
+        ],
         "published_edition": [
           {
             "id": 2,
@@ -6956,7 +7351,14 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 5,
+            "name": "Papal Curia",
+            "jad_id": "jad_institutional_context__5",
+            "part_of": []
+          }
+        ],
         "published_edition": [
           {
             "id": 2,
@@ -7246,7 +7648,14 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 8,
+            "name": "Augustinian canons",
+            "jad_id": "jad_institutional_context__8",
+            "part_of": []
+          }
+        ],
         "published_edition": [
           {
             "id": 2,
@@ -7295,7 +7704,14 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 8,
+            "name": "Augustinian canons",
+            "jad_id": "jad_institutional_context__8",
+            "part_of": []
+          }
+        ],
         "published_edition": [],
         "certainty": true,
         "date": [
@@ -7337,7 +7753,14 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 8,
+            "name": "Augustinian canons",
+            "jad_id": "jad_institutional_context__8",
+            "part_of": []
+          }
+        ],
         "published_edition": [],
         "certainty": true,
         "date": [
@@ -7453,7 +7876,14 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 16,
+            "name": "French schools",
+            "jad_id": "jad_institutional_context__16",
+            "part_of": []
+          }
+        ],
         "published_edition": [],
         "certainty": false,
         "date": [
@@ -7612,7 +8042,34 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Franciscans",
+            "jad_id": "jad_institutional_context__17",
+            "part_of": [
+              {
+                "id": 19,
+                "name": "Friars",
+                "jad_id": "jad_institutional_context__19",
+                "part_of": []
+              }
+            ]
+          }
+        ],
         "published_edition": [
           {
             "id": 7,
@@ -7661,7 +8118,34 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Franciscans",
+            "jad_id": "jad_institutional_context__17",
+            "part_of": [
+              {
+                "id": 19,
+                "name": "Friars",
+                "jad_id": "jad_institutional_context__19",
+                "part_of": []
+              }
+            ]
+          }
+        ],
         "published_edition": [
           {
             "id": 7,
@@ -7710,7 +8194,34 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Franciscans",
+            "jad_id": "jad_institutional_context__17",
+            "part_of": [
+              {
+                "id": 19,
+                "name": "Friars",
+                "jad_id": "jad_institutional_context__19",
+                "part_of": []
+              }
+            ]
+          }
+        ],
         "published_edition": [
           {
             "id": 7,
@@ -7759,7 +8270,34 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Franciscans",
+            "jad_id": "jad_institutional_context__17",
+            "part_of": [
+              {
+                "id": 19,
+                "name": "Friars",
+                "jad_id": "jad_institutional_context__19",
+                "part_of": []
+              }
+            ]
+          }
+        ],
         "published_edition": [
           {
             "id": 7,
@@ -7826,7 +8364,21 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
         "published_edition": [
           {
             "id": 7,
@@ -10263,8 +10815,28 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
-        "published_edition": [],
+        "institutional_context": [
+          {
+            "id": 3,
+            "name": "Benedictines",
+            "jad_id": "jad_institutional_context__3",
+            "part_of": []
+          },
+          {
+            "id": 14,
+            "name": "Carolingian court",
+            "jad_id": "jad_institutional_context__14",
+            "part_of": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "certainty": false,
         "date": [
           {
@@ -10281,6 +10853,55 @@
         "next": {
           "id": "jad_work__15",
           "label": "Sermones "
+        }
+      },
+      {
+        "id": 174,
+        "name": "Historia Romana ",
+        "jad_id": "jad_work__174",
+        "author": [
+          {
+            "id": 67,
+            "name": "Paulus, Diaconus",
+            "jad_id": "jad_author__67",
+            "gnd_url": "https://d-nb.info/gnd/118789961",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Historia Romana",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "certainty": false,
+        "date": [
+          {
+            "id": 39,
+            "value": "760s"
+          }
+        ],
+        "corpus_corporum": "",
+        "view_label": "Historia Romana ",
+        "prev": {
+          "id": "jad_work__173",
+          "label": "Commentary Isaiah (II) "
+        },
+        "next": {
+          "id": "jad_work__175",
+          "label": "Historiae adversum paganos "
         }
       }
     ]
@@ -10365,6 +10986,73 @@
         "next": {
           "id": "jad_work__158",
           "label": "Commentary Kings "
+        }
+      }
+    ]
+  },
+  "70": {
+    "id": 70,
+    "name": "Orosius, Paulus",
+    "jad_id": "jad_author__70",
+    "gnd_url": "https://d-nb.info/gnd/118590251",
+    "notes": "",
+    "view_label": "Orosius, Paulus",
+    "prev": {
+      "id": "jad_author__7",
+      "label": "Lambertus, Sancti Bertini"
+    },
+    "next": {
+      "id": "jad_author__8",
+      "label": "Hugo, von Saint-Cher"
+    },
+    "related__works": [
+      {
+        "id": 175,
+        "name": "Historiae adversum paganos ",
+        "jad_id": "jad_work__175",
+        "author": [
+          {
+            "id": 70,
+            "name": "Orosius, Paulus",
+            "jad_id": "jad_author__70",
+            "gnd_url": "https://d-nb.info/gnd/118590251",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Historiae adversum paganos",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "certainty": true,
+        "date": [
+          {
+            "id": 26,
+            "value": "around 400"
+          }
+        ],
+        "corpus_corporum": "",
+        "view_label": "Historiae adversum paganos ",
+        "prev": {
+          "id": "jad_work__174",
+          "label": "Historia Romana "
+        },
+        "next": {
+          "id": "jad_work__176",
+          "label": "Etymologiae "
         }
       }
     ]

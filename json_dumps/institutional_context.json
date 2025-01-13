@@ -146,5 +146,38 @@
     "name": "French schools",
     "jad_id": "jad_institutional_context__16",
     "part_of": []
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "name": "Franciscans",
+    "jad_id": "jad_institutional_context__17",
+    "part_of": [
+      {
+        "id": 19,
+        "value": "Friars",
+        "order": "19.00000000000000000000"
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "name": "Dominicans",
+    "jad_id": "jad_institutional_context__18",
+    "part_of": [
+      {
+        "id": 19,
+        "value": "Friars",
+        "order": "19.00000000000000000000"
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "Friars",
+    "jad_id": "jad_institutional_context__19",
+    "part_of": []
   }
 }

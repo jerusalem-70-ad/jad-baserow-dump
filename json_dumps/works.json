@@ -1725,7 +1725,18 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "Franciscans",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 7,
@@ -1764,7 +1775,13 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 7,
@@ -4732,7 +4749,13 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 2,
+        "value": "Benedictines Auxerre",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "published_edition": [],
     "certainty": false,
     "date": [
@@ -4825,7 +4848,13 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 8,
+        "value": "Augustinian canons",
+        "order": "8.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 2,
@@ -4864,7 +4893,13 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 8,
+        "value": "Augustinian canons",
+        "order": "8.00000000000000000000"
+      }
+    ],
     "published_edition": [],
     "certainty": true,
     "date": [
@@ -4897,7 +4932,13 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 8,
+        "value": "Augustinian canons",
+        "order": "8.00000000000000000000"
+      }
+    ],
     "published_edition": [],
     "certainty": true,
     "date": [
@@ -5048,7 +5089,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "certainty": true,
     "date": [
       {
@@ -5080,7 +5127,18 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 6,
+        "value": "See of Canterbury",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "Cistercians",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 2,
@@ -5136,7 +5194,13 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "certainty": true,
     "date": [
       {
@@ -5168,8 +5232,20 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
+    "institutional_context": [
+      {
+        "id": 14,
+        "value": "Carolingian court",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "certainty": true,
     "date": [
       {
@@ -5312,8 +5388,30 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
+    "institutional_context": [
+      {
+        "id": 6,
+        "value": "See of Canterbury",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "Cistercians",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "certainty": true,
     "date": [
       {
@@ -5372,7 +5470,13 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 16,
+        "value": "French schools",
+        "order": "16.00000000000000000000"
+      }
+    ],
     "published_edition": [],
     "certainty": false,
     "date": [
@@ -5405,7 +5509,18 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "Augustinian canons León",
+        "order": "7.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 2,
@@ -5426,7 +5541,7 @@
   "129": {
     "id": 129,
     "order": "128.00000000000000000000",
-    "name": "De fide catholica ",
+    "name": "De fide catholica contra Judaeos ",
     "jad_id": "jad_work__129",
     "author": [
       {
@@ -5436,16 +5551,22 @@
       }
     ],
     "manuscripts": [],
-    "title": "De fide catholica",
+    "title": "De fide catholica contra Judaeos",
     "genre": {
-      "id": 15026,
-      "value": "Polemics",
-      "color": "light-green"
+      "id": 14728,
+      "value": "Anti-Jewish treatise",
+      "color": "darker-purple"
     },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "certainty": true,
     "date": [
       {
@@ -5477,8 +5598,20 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
+    "institutional_context": [
+      {
+        "id": 2,
+        "value": "Benedictines Auxerre",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "certainty": true,
     "date": [
       {
@@ -6152,7 +6285,13 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 2,
@@ -6160,7 +6299,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "certainty": true,
     "date": [
       {
         "id": 3,
@@ -6191,7 +6330,13 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 2,
@@ -6199,7 +6344,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "certainty": true,
     "date": [
       {
         "id": 3,
@@ -6230,8 +6375,25 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "Carolingian court",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "certainty": false,
     "date": [
       {
@@ -6386,7 +6548,18 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "Franciscans",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 7,
@@ -6425,7 +6598,18 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "Franciscans",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 7,
@@ -6464,7 +6648,18 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "Franciscans",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 7,
@@ -6542,7 +6737,13 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 5,
+        "value": "Papal Curia",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 2,
@@ -6581,7 +6782,13 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 5,
+        "value": "Papal Curia",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 2,
@@ -7177,18 +7384,268 @@
   "174": {
     "id": 174,
     "order": "172.00000000000000000000",
-    "name": " ",
+    "name": "Historia Romana ",
     "jad_id": "jad_work__174",
-    "author": [],
+    "author": [
+      {
+        "id": 67,
+        "value": "Paulus, Diaconus",
+        "order": "66.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Historia Romana",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": false,
+    "date": [
+      {
+        "id": 39,
+        "value": "760s",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "175": {
+    "id": 175,
+    "order": "173.00000000000000000000",
+    "name": "Historiae adversum paganos ",
+    "jad_id": "jad_work__175",
+    "author": [
+      {
+        "id": 70,
+        "value": "Orosius, Paulus",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Historiae adversum paganos",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "176": {
+    "id": 176,
+    "order": "174.00000000000000000000",
+    "name": "Etymologiae ",
+    "jad_id": "jad_work__176",
+    "author": [
+      {
+        "id": 18,
+        "value": "Isidorus, von Sevilla",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Etymologiae",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
-    "date": [],
+    "certainty": true,
+    "date": [
+      {
+        "id": 34,
+        "value": "early 7th cen.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "177": {
+    "id": 177,
+    "order": "175.00000000000000000000",
+    "name": "Allegoriae sacrae Scripturae ",
+    "jad_id": "jad_work__177",
+    "author": [
+      {
+        "id": 18,
+        "value": "Isidorus, von Sevilla",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Allegoriae sacrae Scripturae",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 34,
+        "value": "early 7th cen.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "178": {
+    "id": 178,
+    "order": "176.00000000000000000000",
+    "name": "Quaestiones in Veterum Testamentum (636): IN ",
+    "jad_id": "jad_work__178",
+    "author": [
+      {
+        "id": 18,
+        "value": "Isidorus, von Sevilla",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Quaestiones in Veterum Testamentum (636): IN",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 34,
+        "value": "early 7th cen.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "179": {
+    "id": 179,
+    "order": "177.00000000000000000000",
+    "name": "Prooemia in libros Veteris ac Novi Testamenti ",
+    "jad_id": "jad_work__179",
+    "author": [
+      {
+        "id": 18,
+        "value": "Isidorus, von Sevilla",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Prooemia in libros Veteris ac Novi Testamenti",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 34,
+        "value": "early 7th cen.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": ""
+  },
+  "180": {
+    "id": 180,
+    "order": "178.00000000000000000000",
+    "name": "Chronicon ",
+    "jad_id": "jad_work__180",
+    "author": [
+      {
+        "id": 18,
+        "value": "Isidorus, von Sevilla",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronicon",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "certainty": true,
+    "date": [
+      {
+        "id": 34,
+        "value": "early 7th cen.",
+        "order": "34.00000000000000000000"
+      }
+    ],
     "corpus_corporum": ""
   }
 }
