@@ -72,7 +72,7 @@
             "author": [
               {
                 "id": 1,
-                "name": "Petrus, von Blois",
+                "name": "Petrus, of Blois",
                 "jad_id": "jad_author__1",
                 "gnd_url": "https://d-nb.info/gnd/118923927",
                 "notes": null
@@ -223,7 +223,7 @@
               "database_table_3498": 1,
               "database_table_3499": 2
             },
-            "value": "Petrus, von Blois"
+            "value": "Petrus, of Blois"
           }
         ],
         "source_passage": [],
@@ -277,8 +277,8 @@
     "part_of": [],
     "view_label": "Anti-Judaism",
     "prev": {
-      "id": "jad_keyword__25",
-      "label": "Idol worshop, paganism"
+      "id": "jad_keyword__26",
+      "label": "Emperor Hadrian"
     },
     "next": {
       "id": "jad_keyword__4",
@@ -834,7 +834,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -920,7 +920,7 @@
               "database_table_3498": 16,
               "database_table_3499": 94
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -973,7 +973,7 @@
             "author": [
               {
                 "id": 25,
-                "name": "Haimo, von Auxerre",
+                "name": "Haimo, of Auxerre",
                 "jad_id": "jad_author__25",
                 "gnd_url": "https://d-nb.info/gnd/100945260",
                 "notes": ""
@@ -1003,8 +1003,15 @@
                 ]
               }
             ],
-            "published_edition": [],
-            "certainty": false,
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "certainty": true,
             "date": [
               {
                 "id": 15,
@@ -1041,7 +1048,7 @@
               "database_table_3498": 25,
               "database_table_3499": 109
             },
-            "value": "Haimo, von Auxerre"
+            "value": "Haimo, of Auxerre"
           }
         ],
         "source_passage": [],
@@ -1125,7 +1132,7 @@
             "author": [
               {
                 "id": 1,
-                "name": "Petrus, von Blois",
+                "name": "Petrus, of Blois",
                 "jad_id": "jad_author__1",
                 "gnd_url": "https://d-nb.info/gnd/118923927",
                 "notes": null
@@ -1276,7 +1283,7 @@
               "database_table_3498": 1,
               "database_table_3499": 2
             },
-            "value": "Petrus, von Blois"
+            "value": "Petrus, of Blois"
           }
         ],
         "source_passage": [],
@@ -1725,7 +1732,7 @@
             "author": [
               {
                 "id": 15,
-                "name": "Bruno, Segni",
+                "name": "Bruno, of Segni",
                 "jad_id": "jad_author__15",
                 "gnd_url": "https://d-nb.info/gnd/100938310",
                 "notes": ""
@@ -1795,7 +1802,7 @@
               "database_table_3498": 15,
               "database_table_3499": 83
             },
-            "value": "Bruno, Segni"
+            "value": "Bruno, of Segni"
           }
         ],
         "source_passage": [],
@@ -1868,7 +1875,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -1934,7 +1941,7 @@
               "database_table_3498": 16,
               "database_table_3499": 86
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -2112,7 +2119,7 @@
             "author": [
               {
                 "id": 25,
-                "name": "Haimo, von Auxerre",
+                "name": "Haimo, of Auxerre",
                 "jad_id": "jad_author__25",
                 "gnd_url": "https://d-nb.info/gnd/100945260",
                 "notes": ""
@@ -2142,8 +2149,15 @@
                 ]
               }
             ],
-            "published_edition": [],
-            "certainty": false,
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "certainty": true,
             "date": [
               {
                 "id": 15,
@@ -2180,7 +2194,7 @@
               "database_table_3498": 25,
               "database_table_3499": 109
             },
-            "value": "Haimo, von Auxerre"
+            "value": "Haimo, of Auxerre"
           }
         ],
         "source_passage": [],
@@ -2233,7 +2247,7 @@
             "author": [
               {
                 "id": 31,
-                "name": "Gerhoch, von Reichersberg",
+                "name": "Gerhoch, of Reichersberg",
                 "jad_id": "jad_author__31",
                 "gnd_url": "https://d-nb.info/gnd/118690752",
                 "notes": ""
@@ -2306,7 +2320,7 @@
               "database_table_3498": 31,
               "database_table_3499": 112
             },
-            "value": "Gerhoch, von Reichersberg"
+            "value": "Gerhoch, of Reichersberg"
           }
         ],
         "source_passage": [],
@@ -2321,6 +2335,101 @@
         "next": {
           "id": "jad_occurence__236",
           "label": "tuti erant a Romanorum vastatione"
+        }
+      },
+      {
+        "id": 455,
+        "passage": "quando templum destructum est, secundo sub Tito et Vespasiano, cujus ruina usque in finem permanet",
+        "jad_id": "jad_occurence__455",
+        "language": null,
+        "position_in_work": "B8, Ch26",
+        "position_in_work_url": "",
+        "text_paragraph": "Ipse civitatem sublimem humiliabit, ut Judaei putant, Romam [ Al.   Romanam]: ut nos rectius esse convincimus, Jerusalem, quae occidit Prophetas, et lapidavit eos qui ad se missi erant, et ad extremum patrisfamilias interfecit filium, ut haerede jugulato, periret haereditas *.   Nec vocatur civitas, quae [ Al. qui] Hebraice dicitur IR ( ), sed CARIA ( ) quam Aquila πολίχνην interpretatus est, quam nos, vel civitatulam, vel viculum, vel oppidulum possumus dicere, et frequenter in Scripturis hoc nomine appellatur Jerusalem.   Pulchreque duplicem humilitatem posuit: Humiliabit, humiliabit eam, primum sub Babyloniis, quando templum destructum est, secundo sub Tito et Vespasiano, cujus ruina usque in finem permanet.   Conculcabit eam p. 0295C | pes, repetitque et copulat pedes pauperis, haud dubium quin Christi.   De quo et supra diximus: Factus est fortitudo pauperi; fortitudo egeno in tribulatione sua.   Gressus egenorum, Apostolorum scilicet, qui imitantes Domini paupertatem, etiam virtutis ejus privilegium consecuti sunt; qui non recepti, excusserunt super eam pulverem pedum suorum.   Et quia 347 Salvatoris dicitur verbis, Omnis qui se exaltat, humiliabitur: et qui se humiliat, exaltabitur * , non solum hoc ad homines, sed ad contrarias quoque fortitudines referre possumus.   Juxta LXX, laudes Deo Propheta decantat, quod omnes superbos humiliet, et universarum urbium munimenta usque ad solum diruat, et sanctorum ea mitiumque et humilium calcent pedes.",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 57,
+            "name": "Commentary Isaiah ",
+            "jad_id": "jad_work__57",
+            "author": [
+              {
+                "id": 27,
+                "name": "Hieronymus, Sophronius Eusebius",
+                "jad_id": "jad_author__27",
+                "gnd_url": "https://d-nb.info/gnd/118550853",
+                "notes": ""
+              }
+            ],
+            "manuscripts": [],
+            "title": "Commentary Isaiah",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "certainty": true,
+            "date": [
+              {
+                "id": 26,
+                "value": "around 400"
+              }
+            ],
+            "corpus_corporum": ""
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 6,
+            "name": "Apocalypticism",
+            "short_description": "The occurrence is entangled with eschatological or apocalyptic ideas. This often means that the conquest provides a resource for imagining and conceiving of the End of Times.",
+            "jad_id": "jad_keyword__6",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 27,
+              "database_table_3499": 57
+            },
+            "value": "Hieronymus, Sophronius Eusebius"
+          }
+        ],
+        "source_passage": [],
+        "manuscripts": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "view_label": "quando templum destructum est, secundo sub Tito et Vespasiano, cujus ruina usque in finem permanet",
+        "prev": {
+          "id": "jad_occurence__454",
+          "label": "subversa Jerusalem sub Tito et Vespasiano"
+        },
+        "next": {
+          "id": "jad_occurence__456",
+          "label": "Scribit plenius Josephus septem voluminibus, Vespasiani et Titi narrans triumphos"
         }
       }
     ]
@@ -2434,7 +2543,7 @@
             "author": [
               {
                 "id": 23,
-                "name": "Fulcher, von Chartres",
+                "name": "Fulcher, of Chartres",
                 "jad_id": "jad_author__23",
                 "gnd_url": "https://d-nb.info/gnd/118956043",
                 "notes": ""
@@ -2541,7 +2650,7 @@
               "database_table_3498": 23,
               "database_table_3499": 25
             },
-            "value": "Fulcher, von Chartres"
+            "value": "Fulcher, of Chartres"
           }
         ],
         "source_passage": [],
@@ -2590,7 +2699,7 @@
             "author": [
               {
                 "id": 1,
-                "name": "Petrus, von Blois",
+                "name": "Petrus, of Blois",
                 "jad_id": "jad_author__1",
                 "gnd_url": "https://d-nb.info/gnd/118923927",
                 "notes": null
@@ -2741,7 +2850,7 @@
               "database_table_3498": 1,
               "database_table_3499": 2
             },
-            "value": "Petrus, von Blois"
+            "value": "Petrus, of Blois"
           }
         ],
         "source_passage": [],
@@ -2808,7 +2917,7 @@
             "author": [
               {
                 "id": 24,
-                "name": "Albert, von Aachen",
+                "name": "Albert, of Aachen",
                 "jad_id": "jad_author__24",
                 "gnd_url": "https://d-nb.info/gnd/118647598",
                 "notes": ""
@@ -2886,7 +2995,7 @@
               "database_table_3498": 24,
               "database_table_3499": 35
             },
-            "value": "Albert, von Aachen"
+            "value": "Albert, of Aachen"
           }
         ],
         "source_passage": [],
@@ -2895,12 +3004,12 @@
         "main_ms": [],
         "view_label": "a principibus Romanorum, Vespasiano et Tito, funditus cum suis habitatoribus sic Jerusalem deleta est",
         "prev": {
-          "id": "jad_occurence__43",
-          "label": "Vespasianum misit in Judaeam, qui cum filio suo Tito omnem potentiam, et superbiam, et gloriam Judaeorum absorbuit"
+          "id": "jad_occurence__439",
+          "label": "Haec juxta litteram accidisse populo Judaeorum sub Vespasiano et Tito Romanis principibus"
         },
         "next": {
-          "id": "jad_occurence__45",
-          "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+          "id": "jad_occurence__440",
+          "label": "imperator Romanorum misit duos principes suos Vespasianum et Titum, ut delerent civitatem"
         }
       }
     ]
@@ -2944,7 +3053,7 @@
             "author": [
               {
                 "id": 23,
-                "name": "Fulcher, von Chartres",
+                "name": "Fulcher, of Chartres",
                 "jad_id": "jad_author__23",
                 "gnd_url": "https://d-nb.info/gnd/118956043",
                 "notes": ""
@@ -3051,7 +3160,7 @@
               "database_table_3498": 23,
               "database_table_3499": 25
             },
-            "value": "Fulcher, von Chartres"
+            "value": "Fulcher, of Chartres"
           }
         ],
         "source_passage": [],
@@ -3100,7 +3209,7 @@
             "author": [
               {
                 "id": 1,
-                "name": "Petrus, von Blois",
+                "name": "Petrus, of Blois",
                 "jad_id": "jad_author__1",
                 "gnd_url": "https://d-nb.info/gnd/118923927",
                 "notes": null
@@ -3251,7 +3360,7 @@
               "database_table_3498": 1,
               "database_table_3499": 2
             },
-            "value": "Petrus, von Blois"
+            "value": "Petrus, of Blois"
           }
         ],
         "source_passage": [],
@@ -3345,7 +3454,7 @@
             "author": [
               {
                 "id": 1,
-                "name": "Petrus, von Blois",
+                "name": "Petrus, of Blois",
                 "jad_id": "jad_author__1",
                 "gnd_url": "https://d-nb.info/gnd/118923927",
                 "notes": null
@@ -3496,7 +3605,7 @@
               "database_table_3498": 1,
               "database_table_3499": 2
             },
-            "value": "Petrus, von Blois"
+            "value": "Petrus, of Blois"
           }
         ],
         "source_passage": [],
@@ -3789,7 +3898,7 @@
             "author": [
               {
                 "id": 31,
-                "name": "Gerhoch, von Reichersberg",
+                "name": "Gerhoch, of Reichersberg",
                 "jad_id": "jad_author__31",
                 "gnd_url": "https://d-nb.info/gnd/118690752",
                 "notes": ""
@@ -3855,7 +3964,7 @@
               "database_table_3498": 31,
               "database_table_3499": 31
             },
-            "value": "Gerhoch, von Reichersberg"
+            "value": "Gerhoch, of Reichersberg"
           }
         ],
         "source_passage": [],
@@ -4001,7 +4110,7 @@
             "author": [
               {
                 "id": 6,
-                "name": "Beda, Heiliger",
+                "name": "Beda Venerabilis",
                 "jad_id": "jad_author__6",
                 "gnd_url": "https://d-nb.info/gnd/118508237",
                 "notes": null
@@ -4060,7 +4169,7 @@
               "database_table_3498": 6,
               "database_table_3499": 139
             },
-            "value": "Beda, Heiliger"
+            "value": "Beda Venerabilis"
           }
         ],
         "source_passage": [],
@@ -4100,7 +4209,7 @@
             "author": [
               {
                 "id": 6,
-                "name": "Beda, Heiliger",
+                "name": "Beda Venerabilis",
                 "jad_id": "jad_author__6",
                 "gnd_url": "https://d-nb.info/gnd/118508237",
                 "notes": null
@@ -4174,7 +4283,7 @@
               "database_table_3498": 6,
               "database_table_3499": 143
             },
-            "value": "Beda, Heiliger"
+            "value": "Beda Venerabilis"
           }
         ],
         "source_passage": [],
@@ -4219,7 +4328,7 @@
             "author": [
               {
                 "id": 31,
-                "name": "Gerhoch, von Reichersberg",
+                "name": "Gerhoch, of Reichersberg",
                 "jad_id": "jad_author__31",
                 "gnd_url": "https://d-nb.info/gnd/118690752",
                 "notes": ""
@@ -4307,7 +4416,7 @@
               "database_table_3498": 31,
               "database_table_3499": 31
             },
-            "value": "Gerhoch, von Reichersberg"
+            "value": "Gerhoch, of Reichersberg"
           }
         ],
         "source_passage": [],
@@ -4356,7 +4465,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -4437,7 +4546,7 @@
               "database_table_3498": 16,
               "database_table_3499": 94
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -4482,7 +4591,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -4555,7 +4664,7 @@
               "database_table_3498": 16,
               "database_table_3499": 94
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -4600,7 +4709,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -4666,7 +4775,7 @@
               "database_table_3498": 16,
               "database_table_3499": 94
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -4954,7 +5063,7 @@
             "author": [
               {
                 "id": 31,
-                "name": "Gerhoch, von Reichersberg",
+                "name": "Gerhoch, of Reichersberg",
                 "jad_id": "jad_author__31",
                 "gnd_url": "https://d-nb.info/gnd/118690752",
                 "notes": ""
@@ -5028,7 +5137,7 @@
               "database_table_3498": 31,
               "database_table_3499": 112
             },
-            "value": "Gerhoch, von Reichersberg"
+            "value": "Gerhoch, of Reichersberg"
           }
         ],
         "source_passage": [],
@@ -5103,7 +5212,7 @@
             "author": [
               {
                 "id": 25,
-                "name": "Haimo, von Auxerre",
+                "name": "Haimo, of Auxerre",
                 "jad_id": "jad_author__25",
                 "gnd_url": "https://d-nb.info/gnd/100945260",
                 "notes": ""
@@ -5186,7 +5295,7 @@
               "database_table_3498": 25,
               "database_table_3499": 27
             },
-            "value": "Haimo, von Auxerre"
+            "value": "Haimo, of Auxerre"
           }
         ],
         "source_passage": [],
@@ -5813,7 +5922,7 @@
             "author": [
               {
                 "id": 25,
-                "name": "Haimo, von Auxerre",
+                "name": "Haimo, of Auxerre",
                 "jad_id": "jad_author__25",
                 "gnd_url": "https://d-nb.info/gnd/100945260",
                 "notes": ""
@@ -5895,7 +6004,7 @@
               "database_table_3498": 25,
               "database_table_3499": 27
             },
-            "value": "Haimo, von Auxerre"
+            "value": "Haimo, of Auxerre"
           }
         ],
         "source_passage": [],
@@ -6220,7 +6329,7 @@
             "author": [
               {
                 "id": 2,
-                "name": "Martin, von León",
+                "name": "Martin, of León",
                 "jad_id": "jad_author__2",
                 "gnd_url": "https://d-nb.info/gnd/100953212",
                 "notes": null
@@ -6312,7 +6421,7 @@
               "database_table_3498": 2,
               "database_table_3499": 1
             },
-            "value": "Martin, von León"
+            "value": "Martin, of León"
           }
         ],
         "source_passage": [],
@@ -6367,7 +6476,7 @@
             "author": [
               {
                 "id": 48,
-                "name": "Ekkehart, von Aura",
+                "name": "Ekkehart, of Aura",
                 "jad_id": "jad_author__48",
                 "gnd_url": "https://d-nb.info/gnd/118688529",
                 "notes": ""
@@ -6441,7 +6550,7 @@
               "database_table_3498": 48,
               "database_table_3499": 59
             },
-            "value": "Ekkehart, von Aura"
+            "value": "Ekkehart, of Aura"
           }
         ],
         "source_passage": [],
@@ -6709,7 +6818,7 @@
             "author": [
               {
                 "id": 15,
-                "name": "Bruno, Segni",
+                "name": "Bruno, of Segni",
                 "jad_id": "jad_author__15",
                 "gnd_url": "https://d-nb.info/gnd/100938310",
                 "notes": ""
@@ -6784,7 +6893,7 @@
               "database_table_3498": 15,
               "database_table_3499": 84
             },
-            "value": "Bruno, Segni"
+            "value": "Bruno, of Segni"
           }
         ],
         "source_passage": [],
@@ -6833,7 +6942,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -6916,7 +7025,7 @@
               "database_table_3498": 16,
               "database_table_3499": 100
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -6965,7 +7074,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -7043,7 +7152,7 @@
               "database_table_3498": 16,
               "database_table_3499": 87
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -7224,7 +7333,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -7290,7 +7399,7 @@
               "database_table_3498": 16,
               "database_table_3499": 94
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -7745,7 +7854,7 @@
             "author": [
               {
                 "id": 23,
-                "name": "Fulcher, von Chartres",
+                "name": "Fulcher, of Chartres",
                 "jad_id": "jad_author__23",
                 "gnd_url": "https://d-nb.info/gnd/118956043",
                 "notes": ""
@@ -7852,7 +7961,7 @@
               "database_table_3498": 23,
               "database_table_3499": 25
             },
-            "value": "Fulcher, von Chartres"
+            "value": "Fulcher, of Chartres"
           }
         ],
         "source_passage": [],
@@ -7897,7 +8006,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -7983,7 +8092,7 @@
               "database_table_3498": 16,
               "database_table_3499": 94
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -8023,7 +8132,7 @@
             "author": [
               {
                 "id": 6,
-                "name": "Beda, Heiliger",
+                "name": "Beda Venerabilis",
                 "jad_id": "jad_author__6",
                 "gnd_url": "https://d-nb.info/gnd/118508237",
                 "notes": null
@@ -8097,7 +8206,7 @@
               "database_table_3498": 6,
               "database_table_3499": 143
             },
-            "value": "Beda, Heiliger"
+            "value": "Beda Venerabilis"
           }
         ],
         "source_passage": [],
@@ -8142,7 +8251,7 @@
             "author": [
               {
                 "id": 31,
-                "name": "Gerhoch, von Reichersberg",
+                "name": "Gerhoch, of Reichersberg",
                 "jad_id": "jad_author__31",
                 "gnd_url": "https://d-nb.info/gnd/118690752",
                 "notes": ""
@@ -8230,7 +8339,7 @@
               "database_table_3498": 31,
               "database_table_3499": 31
             },
-            "value": "Gerhoch, von Reichersberg"
+            "value": "Gerhoch, of Reichersberg"
           }
         ],
         "source_passage": [],
@@ -8279,7 +8388,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -8360,7 +8469,7 @@
               "database_table_3498": 16,
               "database_table_3499": 94
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -8452,7 +8561,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -8535,7 +8644,7 @@
               "database_table_3498": 16,
               "database_table_3499": 100
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -8584,7 +8693,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -8662,7 +8771,7 @@
               "database_table_3498": 16,
               "database_table_3499": 87
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -8852,7 +8961,7 @@
             "author": [
               {
                 "id": 31,
-                "name": "Gerhoch, von Reichersberg",
+                "name": "Gerhoch, of Reichersberg",
                 "jad_id": "jad_author__31",
                 "gnd_url": "https://d-nb.info/gnd/118690752",
                 "notes": ""
@@ -8918,7 +9027,7 @@
               "database_table_3498": 31,
               "database_table_3499": 112
             },
-            "value": "Gerhoch, von Reichersberg"
+            "value": "Gerhoch, of Reichersberg"
           }
         ],
         "source_passage": [],
@@ -8958,7 +9067,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -9024,7 +9133,7 @@
               "database_table_3498": 16,
               "database_table_3499": 88
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -9095,7 +9204,7 @@
             "author": [
               {
                 "id": 31,
-                "name": "Gerhoch, von Reichersberg",
+                "name": "Gerhoch, of Reichersberg",
                 "jad_id": "jad_author__31",
                 "gnd_url": "https://d-nb.info/gnd/118690752",
                 "notes": ""
@@ -9168,7 +9277,7 @@
               "database_table_3498": 31,
               "database_table_3499": 112
             },
-            "value": "Gerhoch, von Reichersberg"
+            "value": "Gerhoch, of Reichersberg"
           }
         ],
         "source_passage": [],
@@ -9208,7 +9317,7 @@
             "author": [
               {
                 "id": 6,
-                "name": "Beda, Heiliger",
+                "name": "Beda Venerabilis",
                 "jad_id": "jad_author__6",
                 "gnd_url": "https://d-nb.info/gnd/118508237",
                 "notes": null
@@ -9267,7 +9376,7 @@
               "database_table_3498": 6,
               "database_table_3499": 139
             },
-            "value": "Beda, Heiliger"
+            "value": "Beda Venerabilis"
           }
         ],
         "source_passage": [],
@@ -9307,7 +9416,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -9373,7 +9482,7 @@
               "database_table_3498": 16,
               "database_table_3499": 94
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -9720,7 +9829,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -9786,7 +9895,7 @@
               "database_table_3498": 16,
               "database_table_3499": 86
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -9839,7 +9948,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -9905,7 +10014,7 @@
               "database_table_3498": 16,
               "database_table_3499": 99
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -9950,7 +10059,7 @@
             "author": [
               {
                 "id": 31,
-                "name": "Gerhoch, von Reichersberg",
+                "name": "Gerhoch, of Reichersberg",
                 "jad_id": "jad_author__31",
                 "gnd_url": "https://d-nb.info/gnd/118690752",
                 "notes": ""
@@ -10038,7 +10147,7 @@
               "database_table_3498": 31,
               "database_table_3499": 31
             },
-            "value": "Gerhoch, von Reichersberg"
+            "value": "Gerhoch, of Reichersberg"
           }
         ],
         "source_passage": [],
@@ -10083,7 +10192,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -10156,7 +10265,7 @@
               "database_table_3498": 16,
               "database_table_3499": 94
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -10205,7 +10314,7 @@
             "author": [
               {
                 "id": 16,
-                "name": "Rupert, von Deutz",
+                "name": "Rupert, of Deutz",
                 "jad_id": "jad_author__16",
                 "gnd_url": "https://d-nb.info/gnd/118604198",
                 "notes": ""
@@ -10271,7 +10380,7 @@
               "database_table_3498": 16,
               "database_table_3499": 88
             },
-            "value": "Rupert, von Deutz"
+            "value": "Rupert, of Deutz"
           }
         ],
         "source_passage": [],
@@ -10302,9 +10411,516 @@
       "label": "Destruction Sodom and Gomorah"
     },
     "next": {
+      "id": "jad_keyword__26",
+      "label": "Emperor Hadrian"
+    },
+    "related__passages": []
+  },
+  "26": {
+    "id": 26,
+    "name": "Emperor Hadrian",
+    "short_description": "",
+    "jad_id": "jad_keyword__26",
+    "part_of": [],
+    "view_label": "Emperor Hadrian",
+    "prev": {
+      "id": "jad_keyword__25",
+      "label": "Idol worshop, paganism"
+    },
+    "next": {
       "id": "jad_keyword__3",
       "label": "Anti-Judaism"
     },
-    "related__passages": []
+    "related__passages": [
+      {
+        "id": 438,
+        "passage": "Hoc accidisse Judaeis post passionem Domini sub Vespasiano et Adriano",
+        "jad_id": "jad_occurence__438",
+        "language": null,
+        "position_in_work": "B1, Ch5",
+        "position_in_work_url": "",
+        "text_paragraph": "Quae sit autem manus quae extenditur vel elevatur super populum peccatorem, Job capite nono loquitur manifestius, « Manus enim Domini tetigit me.   » Unde diabolus sciens potestatem in p. 0753A | manu Domini esse, et in brachio ejus quod universis gentibus revelatum est, dicit ad Dominum: « Mitte manum tuam et tange omnia quae habet, nisi in faciem benedixerit tibi *.   » Quod autem sequitur: et percussit eum, id est populum suum, et conturbati sunt montes: hyperbolice putamus, quod pro magnitudine malorum etiam montes commoveantur, et cadaveribus mortuorum repleantur omnes plateae urbium.   Hoc accidisse Judaeis post passionem Domini sub Vespasiano et Adriano, nemo quis dubitat.   Cumque haec facta sint, non est aversus furor ejus, sed adhuc manus ejus extenta, quo habitum irascentis et percutientis ostendit.   Et notandum in his omnibus quod non eis exprobret idololatriam, non alia peccata propter quae offenderunt p. 0753B | Dominum, sed quia abjecerunt legem Evangelii, et sermonem Dei blasphemaverunt.\n\n¶\n    « Et elevabit signum in nationibus procul, et sibilabit ad eum de finibus terrae.   Et ecce festinus velociter veniet, et non erit deficiens, neque laborans in eo.   Non dormitabit neque dormiet, neque solvetur cingulum lumborum ejus, neque rumpetur corrigia calceamenti ejus.   Sagittae ejus acutae, et omnes arcus ejus extenti.",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 26,
+            "name": "Commentary Isaiah ",
+            "jad_id": "jad_work__26",
+            "author": [
+              {
+                "id": 25,
+                "name": "Haimo, of Auxerre",
+                "jad_id": "jad_author__25",
+                "gnd_url": "https://d-nb.info/gnd/100945260",
+                "notes": ""
+              }
+            ],
+            "manuscripts": [],
+            "title": "Commentary Isaiah",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [
+              {
+                "id": 2,
+                "name": "Benedictines Auxerre",
+                "jad_id": "jad_institutional_context__2",
+                "part_of": [
+                  {
+                    "id": 3,
+                    "name": "Benedictines",
+                    "jad_id": "jad_institutional_context__3",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "certainty": true,
+            "date": [
+              {
+                "id": 15,
+                "value": "9th cen., first half"
+              }
+            ],
+            "corpus_corporum": ""
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 26,
+            "name": "Emperor Hadrian",
+            "short_description": "",
+            "jad_id": "jad_keyword__26",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 25,
+              "database_table_3499": 26
+            },
+            "value": "Haimo, of Auxerre"
+          }
+        ],
+        "source_passage": [],
+        "manuscripts": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "view_label": "Hoc accidisse Judaeis post passionem Domini sub Vespasiano et Adriano",
+        "prev": {
+          "id": "jad_occurence__437",
+          "label": "donec civitates Judaeorum Vespasiano Titoque pugnantibus penitus subvertantur"
+        },
+        "next": {
+          "id": "jad_occurence__439",
+          "label": "Haec juxta litteram accidisse populo Judaeorum sub Vespasiano et Tito Romanis principibus"
+        }
+      },
+      {
+        "id": 444,
+        "passage": "Qui ad Vespasiani Adrianique haec referunt tempora, corporaliter dicunt impleta quae scripta sunt",
+        "jad_id": "jad_occurence__444",
+        "language": null,
+        "position_in_work": "B1, Ch2",
+        "position_in_work_url": "",
+        "text_paragraph": "Haec dicit Adonai Dominus montibus et collibus: p. 0051C | ecce ego inducam super vos gladium, et dissipabuntur excelsa vestra, et conterentur arae vestrae, et reliqua *.\n\n¶\n    * Et super omnem turrim excelsam, et super omnem murum munitum.   Qui ad Vespasiani Adrianique haec referunt tempora, corporaliter dicunt impleta quae scripta sunt, quod non turris excelsa, non firmissimus murus, non ulla navium multitudo, et negotiationis industria, adversum vim Romani exercitus potuerit praevalere; sed in tantam habitatores Judaeae venisse formidinem, ut et ipsi cum conjugibus et liberis, auro et argento quae sibi auxilio fore aestimabant, in foveas terrae demersi sint, et profundissima antra sectati.   Si enim voracium et luxuriosorum venter est Deus, quare non p. 0051D | avari aurum et argentum appelletur Deus?   Alii haec ad Babylonia referunt tempora.   Ergo juxta leges tropologiae singula quaeque percurram.   Turris vel ob munitionem urbis aedificatur, vel ob speculam, ut longe veniens cernatur hostis.   Unusquisque ergo nostrum p. 0052A | debet aedificare turrim, prius sumptibus supputatis, ne juxta Evangelicam parabolam *, cum explere opus nequiverit, rideatur.",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 57,
+            "name": "Commentary Isaiah ",
+            "jad_id": "jad_work__57",
+            "author": [
+              {
+                "id": 27,
+                "name": "Hieronymus, Sophronius Eusebius",
+                "jad_id": "jad_author__27",
+                "gnd_url": "https://d-nb.info/gnd/118550853",
+                "notes": ""
+              }
+            ],
+            "manuscripts": [],
+            "title": "Commentary Isaiah",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "certainty": true,
+            "date": [
+              {
+                "id": 26,
+                "value": "around 400"
+              }
+            ],
+            "corpus_corporum": ""
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 26,
+            "name": "Emperor Hadrian",
+            "short_description": "",
+            "jad_id": "jad_keyword__26",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 27,
+              "database_table_3499": 57
+            },
+            "value": "Hieronymus, Sophronius Eusebius"
+          }
+        ],
+        "source_passage": [],
+        "manuscripts": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "view_label": "Qui ad Vespasiani Adrianique haec referunt tempora, corporaliter dicunt impleta quae scripta sunt",
+        "prev": {
+          "id": "jad_occurence__443",
+          "label": "De captivitate et destructione Hierosolymorum temporibus"
+        },
+        "next": {
+          "id": "jad_occurence__445",
+          "label": "Haec juxta litteram 78 accidisse populo Judaeorum sub Vespasiano et Tito Romanis principibus,"
+        }
+      },
+      {
+        "id": 446,
+        "passage": "Hoc accidisse Judaeis post passionem Domini sub Vespasiano et Adriano",
+        "jad_id": "jad_occurence__446",
+        "language": null,
+        "position_in_work": "B2, Ch5",
+        "position_in_work_url": "",
+        "text_paragraph": "Et iterum: Diviserunt sibi vestimenta mea, et super vestimentum meum miserunt sortem * .   Quodque sequitur: Et percussit eum, id est, populum suum, et conturbati sunt montes: montes quidam putant contrarias fortitudines; sive eos spiritus qui in ministerio Dei sunt, et quibus traduntur peccatores ad puniendum.   Nos autem hyperbolice dictum putamus, quod pro magnitudine malorum imminentium etiam montes commoveantur, et cadaveribus mortuorum repleantur omnes plateae urbium.   Hoc accidisse Judaeis post passionem Domini sub Vespasiano et Adriano, nemo dubitat.   Cumque haec facta sint, non est adversus furor ejus: sed adhuc p. 0089D | manus ejus extenta, sive excelsa, quae habitum irascentis, et percutientis ostendit.   Et notandum in his omnibus, quod non eis exprobret idololatriam, non alia peccata, propter quae offenderint Deum, sed quia abjecerunt legem Evangelii, et sermonem Domini blasphemaverunt.",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 57,
+            "name": "Commentary Isaiah ",
+            "jad_id": "jad_work__57",
+            "author": [
+              {
+                "id": 27,
+                "name": "Hieronymus, Sophronius Eusebius",
+                "jad_id": "jad_author__27",
+                "gnd_url": "https://d-nb.info/gnd/118550853",
+                "notes": ""
+              }
+            ],
+            "manuscripts": [],
+            "title": "Commentary Isaiah",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "certainty": true,
+            "date": [
+              {
+                "id": 26,
+                "value": "around 400"
+              }
+            ],
+            "corpus_corporum": ""
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 26,
+            "name": "Emperor Hadrian",
+            "short_description": "",
+            "jad_id": "jad_keyword__26",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 27,
+              "database_table_3499": 57
+            },
+            "value": "Hieronymus, Sophronius Eusebius"
+          }
+        ],
+        "source_passage": [],
+        "manuscripts": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "view_label": "Hoc accidisse Judaeis post passionem Domini sub Vespasiano et Adriano",
+        "prev": {
+          "id": "jad_occurence__445",
+          "label": "Haec juxta litteram 78 accidisse populo Judaeorum sub Vespasiano et Tito Romanis principibus,"
+        },
+        "next": {
+          "id": "jad_occurence__447",
+          "label": "donec civitates Judaeae, Vespasiano Titoque pugnantibus, penitus subvertantur"
+        }
+      },
+      {
+        "id": 448,
+        "passage": "subversionem Jerusalem, et caeterarum urbium sub Vespasiano, et Adriano",
+        "jad_id": "jad_occurence__448",
+        "language": null,
+        "position_in_work": "B3, Ch7",
+        "position_in_work_url": "",
+        "text_paragraph": "Et factum est in diebus Achaz filii Joatham filii Oziae regis Juda: Ascendit Rasin rex Syriae, et Phacee filius Romeliae rex Israel, in Jerusalem ad praeliandum contra eam, et non potuerunt debellare eam.   Et nuntiaverunt domui David dicentes: consensit Syria cum Ephraim, et commotum est cor ejus, et cor populi illius, sicut moventur ligna silvarum a facie venti.   Ozias qui et Azarias, rex Juda, regnavit in Jerusalem annis quinquaginta duobus *.   Cujus extremo jam tempore vidit Isaias quae praeteritus sermo disseruit.   Quo mortuo, et regnante pro eo Joatham filio ejus, rege justissimo, vidit statim propheta Dominum Salvatorem in sua p. 0101D | majestate regnantem, et annuntiantem Judaici populi caecitatem, et subversionem Jerusalem, et caeterarum urbium sub Vespasiano, et Adriano: et quomodo in Apostolis reliquiae sint salvandae.   Tertius rex filius Joatham succedit Achaz impiissimus p. 0102A | *, qui clausit januas templi, et in valle Benbannom adoravit Baalim, et filium suum idolis consecravit.   Ita ut auferret altare aeneum, quod Salomon fecerat, et poneret in Templo Dei altare idolorum, cujus exemplar de Damasco acceperat.   Juste igitur a Domini auxilio derelictus est, et consurrexerunt adversus eum Rasin rex Syriae, id est, Aram, et Phacee filius Romeliae, rex Israel in Samaria, et venerunt in Jerusalem, ut expugnarent eam (Ibidem).",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 57,
+            "name": "Commentary Isaiah ",
+            "jad_id": "jad_work__57",
+            "author": [
+              {
+                "id": 27,
+                "name": "Hieronymus, Sophronius Eusebius",
+                "jad_id": "jad_author__27",
+                "gnd_url": "https://d-nb.info/gnd/118550853",
+                "notes": ""
+              }
+            ],
+            "manuscripts": [],
+            "title": "Commentary Isaiah",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "certainty": true,
+            "date": [
+              {
+                "id": 26,
+                "value": "around 400"
+              }
+            ],
+            "corpus_corporum": ""
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 26,
+            "name": "Emperor Hadrian",
+            "short_description": "",
+            "jad_id": "jad_keyword__26",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 27,
+              "database_table_3499": 57
+            },
+            "value": "Hieronymus, Sophronius Eusebius"
+          }
+        ],
+        "source_passage": [],
+        "manuscripts": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "view_label": "subversionem Jerusalem, et caeterarum urbium sub Vespasiano, et Adriano",
+        "prev": {
+          "id": "jad_occurence__447",
+          "label": "donec civitates Judaeae, Vespasiano Titoque pugnantibus, penitus subvertantur"
+        },
+        "next": {
+          "id": "jad_occurence__449",
+          "label": "ultimam sub Vespasiano et Tito destructionem Templi indicat"
+        }
+      },
+      {
+        "id": 453,
+        "passage": "post ultimam vastitatem, quae sub Vespasiano et Tito Adrianoque accidit",
+        "jad_id": "jad_occurence__453",
+        "language": null,
+        "position_in_work": "B10, Ch32",
+        "position_in_work_url": "",
+        "text_paragraph": "Surgite; et nihilominus appellantur filiae confidentes, sive sperantes: praecipiturque eis ut audiant sermones Domini, et recordentur dierum et anni, de quo in consequentibus dicturi sumus, p. 0361C | ipso Salvatore dicente: Spiritus Domini super me, propter quod unxit me: evangelizare pauperibus misit me: praedicare captivis remissionem, et caecis visum: vocare annum Domini acceptabilem * , et ipsa recordatio fiat eis juxta Septuaginta in dolorem cum spe, ut plangant se Dominum denegasse, et spem habeant salutis, si egerint poenitentiam.   Dicit enim vindemiam consummatam, et post ultimam vastitatem, quae sub Vespasiano et Tito Adrianoque accidit, nequaquam aliam captivitatem esse venturam, nec remansuros botros in populis, qui deinceps colligendi sunt.   Unde provocantur ad planctum, et jubentur nudare pectora, et accingere lumbos suos, eo quod regio quondam desiderabilis, et vinea fertilis, de qua scriptum est: Ego plantavi te vineam fructiferam, p. 0361D | totam veram: quomodo conversa es in amaritudinem vitis alienae * ?   Romano vastante, deleta sit.   Super humum, inquit, populi mei, 431 spinae et vepres, sive fenum ascendet.   Et est sensus: Si terram Judaeam, quae repromissionis terra est, spinae repleverunt et vepres, quanto magis alias civitates quae plenae sunt gaudio, et quae illud evangelicum consequentur; Vae qui gaudetis nunc, quoniam plorabitis",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 57,
+            "name": "Commentary Isaiah ",
+            "jad_id": "jad_work__57",
+            "author": [
+              {
+                "id": 27,
+                "name": "Hieronymus, Sophronius Eusebius",
+                "jad_id": "jad_author__27",
+                "gnd_url": "https://d-nb.info/gnd/118550853",
+                "notes": ""
+              }
+            ],
+            "manuscripts": [],
+            "title": "Commentary Isaiah",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "certainty": true,
+            "date": [
+              {
+                "id": 26,
+                "value": "around 400"
+              }
+            ],
+            "corpus_corporum": ""
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 26,
+            "name": "Emperor Hadrian",
+            "short_description": "",
+            "jad_id": "jad_keyword__26",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 27,
+              "database_table_3499": 57
+            },
+            "value": "Hieronymus, Sophronius Eusebius"
+          }
+        ],
+        "source_passage": [],
+        "manuscripts": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "view_label": "post ultimam vastitatem, quae sub Vespasiano et Tito Adrianoque accidit",
+        "prev": {
+          "id": "jad_occurence__452",
+          "label": "omnem historiam referunt ad Vespasiani et Titi tempora, a quibus Hierosolyma subversa est"
+        },
+        "next": {
+          "id": "jad_occurence__454",
+          "label": "subversa Jerusalem sub Tito et Vespasiano"
+        }
+      }
+    ]
   }
 }

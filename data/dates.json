@@ -59,8 +59,8 @@
       "label": "760s"
     },
     "next": {
-      "id": "jad_date__5",
-      "label": "late 12th cen."
+      "id": "jad_date__40",
+      "label": "6th cen., first half"
     }
   },
   "5": {
@@ -71,8 +71,8 @@
     "jad_id": "jad_date__5",
     "view_label": "late 12th cen.",
     "prev": {
-      "id": "jad_date__4",
-      "label": "mid 12th cen."
+      "id": "jad_date__40",
+      "label": "6th cen., first half"
     },
     "next": {
       "id": "jad_date__6",
@@ -621,6 +621,22 @@
     "next": {
       "id": "jad_date__4",
       "label": "mid 12th cen."
+    }
+  },
+  "40": {
+    "id": 40,
+    "name": "6th cen., first half",
+    "not_before": "501",
+    "not_after": "550",
+    "jad_id": "jad_date__40",
+    "view_label": "6th cen., first half",
+    "prev": {
+      "id": "jad_date__4",
+      "label": "mid 12th cen."
+    },
+    "next": {
+      "id": "jad_date__5",
+      "label": "late 12th cen."
     }
   }
 }
