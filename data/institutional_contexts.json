@@ -50,9 +50,6 @@
         "idno": "Latin 14426",
         "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc75180c",
         "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b9078089g",
-        "not_before": "1200",
-        "not_after": "1300",
-        "written_date": "13",
         "institutional_context": [
           {
             "id": 1,
@@ -68,7 +65,12 @@
             ]
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
         "view_label": "BNF, Latin 14426",
         "prev": {
           "id": "jad_manuscript__19",
@@ -108,9 +110,6 @@
         "idno": "MS 1423",
         "catalog_url": "https://calames.abes.fr/pub/bsg.aspx#details?id=BSGB10400",
         "digi_url": "",
-        "not_before": null,
-        "not_after": null,
-        "written_date": null,
         "institutional_context": [
           {
             "id": 1,
@@ -166,9 +165,6 @@
         "idno": "Latin 492",
         "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc619341",
         "digi_url": "",
-        "not_before": null,
-        "not_after": null,
-        "written_date": null,
         "institutional_context": [
           {
             "id": 1,
@@ -224,9 +220,6 @@
         "idno": "MS 177",
         "catalog_url": "https://calames.abes.fr/pub/mazarine.aspx#details?id=MAZA10313",
         "digi_url": "",
-        "not_before": null,
-        "not_after": null,
-        "written_date": null,
         "institutional_context": [
           {
             "id": 1,
@@ -282,9 +275,6 @@
         "idno": "MS 2787",
         "catalog_url": "https://calames.abes.fr/pub/bsg.aspx#details?id=BSGC10617",
         "digi_url": "",
-        "not_before": "1200",
-        "not_after": "1225",
-        "written_date": "early 13",
         "institutional_context": [
           {
             "id": 1,
@@ -300,7 +290,12 @@
             ]
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
         "view_label": "St.Gen., MS 2787",
         "prev": {
           "id": "jad_manuscript__11",
@@ -340,9 +335,6 @@
         "idno": "Latin 620",
         "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc62076x",
         "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10036602t",
-        "not_before": null,
-        "not_after": null,
-        "written_date": null,
         "institutional_context": [
           {
             "id": 1,
@@ -398,9 +390,6 @@
         "idno": "MS 178",
         "catalog_url": "https://calames.abes.fr/pub/mazarine.aspx#details?id=MAZA10336",
         "digi_url": "",
-        "not_before": null,
-        "not_after": null,
-        "written_date": null,
         "institutional_context": [
           {
             "id": 1,
@@ -456,9 +445,6 @@
         "idno": "MS 999",
         "catalog_url": "https://calames.abes.fr/pub/mazarine.aspx#details?id=MAZA14392",
         "digi_url": "",
-        "not_before": null,
-        "not_after": null,
-        "written_date": null,
         "institutional_context": [
           {
             "id": 1,
@@ -514,9 +500,6 @@
         "idno": "Latin 3301C",
         "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61183f",
         "digi_url": "",
-        "not_before": null,
-        "not_after": null,
-        "written_date": null,
         "institutional_context": [
           {
             "id": 1,
@@ -572,9 +555,6 @@
         "idno": "Latin 14937",
         "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc756668",
         "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b52508765g",
-        "not_before": null,
-        "not_after": null,
-        "written_date": "",
         "institutional_context": [
           {
             "id": 1,
@@ -630,9 +610,6 @@
         "idno": "Latin 2950",
         "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc60770d",
         "digi_url": "",
-        "not_before": null,
-        "not_after": null,
-        "written_date": "",
         "institutional_context": [
           {
             "id": 1,
@@ -712,9 +689,6 @@
         "idno": "MS 698",
         "catalog_url": "https://calames.abes.fr/pub/mazarine.aspx#details?id=MAZA12964",
         "digi_url": "",
-        "not_before": "890",
-        "not_after": "910",
-        "written_date": "around 900",
         "institutional_context": [
           {
             "id": 2,
@@ -730,7 +704,12 @@
             ]
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 19,
+            "value": "around 900"
+          }
+        ],
         "view_label": "Maz., MS 698",
         "prev": {
           "id": "jad_manuscript__33",
@@ -835,9 +814,6 @@
         "idno": "MS 144",
         "catalog_url": "https://archives.lambethpalacelibrary.org.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=MSS%2f144&pos=1",
         "digi_url": "",
-        "not_before": "1187",
-        "not_after": "1210",
-        "written_date": "around 1200 (after 1187)",
         "institutional_context": [
           {
             "id": 6,
@@ -846,7 +822,16 @@
             "part_of": []
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 9,
+            "value": "around 1200"
+          },
+          {
+            "id": 11,
+            "value": "after 1187"
+          }
+        ],
         "view_label": "Lam., MS 144",
         "prev": {
           "id": "jad_manuscript__8",
@@ -910,9 +895,6 @@
         "idno": "MS 11",
         "catalog_url": "",
         "digi_url": "",
-        "not_before": "1190",
-        "not_after": "1203",
-        "written_date": "1190-1203",
         "institutional_context": [
           {
             "id": 7,
@@ -928,7 +910,12 @@
             ]
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 42,
+            "value": "1197-1203"
+          }
+        ],
         "view_label": "San Isidoro, MS 11",
         "prev": {
           "id": "jad_manuscript__29",
@@ -1068,9 +1055,6 @@
         "idno": "Latin 3570",
         "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61503g",
         "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10024830x/f171.item",
-        "not_before": null,
-        "not_after": null,
-        "written_date": "12",
         "institutional_context": [
           {
             "id": 12,
@@ -1091,7 +1075,12 @@
             ]
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
         "view_label": "BNF, Latin 3570",
         "prev": {
           "id": "jad_manuscript__2",

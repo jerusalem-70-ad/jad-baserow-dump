@@ -71,8 +71,8 @@
     "jad_id": "jad_date__5",
     "view_label": "late 12th cen.",
     "prev": {
-      "id": "jad_date__40",
-      "label": "6th cen., first half"
+      "id": "jad_date__44",
+      "label": "8th cen., second half"
     },
     "next": {
       "id": "jad_date__6",
@@ -633,6 +633,70 @@
     "prev": {
       "id": "jad_date__4",
       "label": "mid 12th cen."
+    },
+    "next": {
+      "id": "jad_date__41",
+      "label": "13th cen."
+    }
+  },
+  "41": {
+    "id": 41,
+    "name": "13th cen.",
+    "not_before": "1201",
+    "not_after": "1300",
+    "jad_id": "jad_date__41",
+    "view_label": "13th cen.",
+    "prev": {
+      "id": "jad_date__40",
+      "label": "6th cen., first half"
+    },
+    "next": {
+      "id": "jad_date__42",
+      "label": "1197-1203"
+    }
+  },
+  "42": {
+    "id": 42,
+    "name": "1197-1203",
+    "not_before": "1197",
+    "not_after": "1203",
+    "jad_id": "jad_date__42",
+    "view_label": "1197-1203",
+    "prev": {
+      "id": "jad_date__41",
+      "label": "13th cen."
+    },
+    "next": {
+      "id": "jad_date__43",
+      "label": "14th cen."
+    }
+  },
+  "43": {
+    "id": 43,
+    "name": "14th cen.",
+    "not_before": "1301",
+    "not_after": "1400",
+    "jad_id": "jad_date__43",
+    "view_label": "14th cen.",
+    "prev": {
+      "id": "jad_date__42",
+      "label": "1197-1203"
+    },
+    "next": {
+      "id": "jad_date__44",
+      "label": "8th cen., second half"
+    }
+  },
+  "44": {
+    "id": 44,
+    "name": "8th cen., second half",
+    "not_before": "751",
+    "not_after": "800",
+    "jad_id": "jad_date__44",
+    "view_label": "8th cen., second half",
+    "prev": {
+      "id": "jad_date__43",
+      "label": "14th cen."
     },
     "next": {
       "id": "jad_date__5",

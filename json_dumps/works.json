@@ -40,7 +40,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -48,7 +48,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "2": {
     "id": 2,
@@ -106,7 +107,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -114,7 +115,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "3": {
     "id": 3,
@@ -157,7 +159,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 11,
@@ -165,7 +167,8 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "4": {
     "id": 4,
@@ -208,7 +211,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 11,
@@ -216,7 +219,8 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "5": {
     "id": 5,
@@ -247,7 +251,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -255,7 +259,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "6": {
     "id": 6,
@@ -286,7 +291,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -294,7 +299,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "7": {
     "id": 7,
@@ -325,9 +331,10 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "8": {
     "id": 8,
@@ -360,7 +367,7 @@
       "color": "darker-pink"
     },
     "notes": "",
-    "notes__author": "autorschaft hugo fraglich?",
+    "notes__author": "",
     "institutional_context": [
       {
         "id": 1,
@@ -369,7 +376,7 @@
       }
     ],
     "published_edition": [],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 21,
@@ -377,7 +384,8 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": false
   },
   "9": {
     "id": 9,
@@ -425,7 +433,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 4,
@@ -433,7 +441,8 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "10": {
     "id": 10,
@@ -464,7 +473,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -472,7 +481,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "11": {
     "id": 11,
@@ -520,7 +530,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -528,7 +538,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "12": {
     "id": 12,
@@ -571,7 +582,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -579,7 +590,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "13": {
     "id": 13,
@@ -622,7 +634,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -630,7 +642,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "14": {
     "id": 14,
@@ -661,9 +674,10 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "15": {
     "id": 15,
@@ -700,7 +714,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 17,
@@ -708,7 +722,8 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "16": {
     "id": 16,
@@ -751,7 +766,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 4,
@@ -759,7 +774,8 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "17": {
     "id": 17,
@@ -796,7 +812,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 19,
@@ -804,7 +820,8 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "18": {
     "id": 18,
@@ -847,7 +864,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 20,
@@ -855,7 +872,8 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "19": {
     "id": 19,
@@ -898,7 +916,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -906,7 +924,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "20": {
     "id": 20,
@@ -949,7 +968,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -957,7 +976,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "21": {
     "id": 21,
@@ -1000,7 +1020,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -1008,7 +1028,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "22": {
     "id": 22,
@@ -1051,7 +1072,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -1059,7 +1080,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "23": {
     "id": 23,
@@ -1102,7 +1124,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 23,
@@ -1110,7 +1132,8 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "24": {
     "id": 24,
@@ -1158,7 +1181,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -1166,7 +1189,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "25": {
     "id": 25,
@@ -1208,7 +1232,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -1216,7 +1240,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "26": {
     "id": 26,
@@ -1253,7 +1278,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -1261,7 +1286,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "27": {
     "id": 27,
@@ -1298,7 +1324,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -1306,7 +1332,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "28": {
     "id": 28,
@@ -1337,7 +1364,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -1345,7 +1372,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "29": {
     "id": 29,
@@ -1387,7 +1415,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 7,
@@ -1395,7 +1423,8 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "30": {
     "id": 30,
@@ -1432,7 +1461,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 19,
@@ -1440,7 +1469,8 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "31": {
     "id": 31,
@@ -1477,7 +1507,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 4,
@@ -1485,7 +1515,8 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "32": {
     "id": 32,
@@ -1522,7 +1553,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 10,
@@ -1530,7 +1561,8 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "33": {
     "id": 33,
@@ -1561,9 +1593,10 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "34": {
     "id": 34,
@@ -1605,7 +1638,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 4,
@@ -1613,7 +1646,8 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "35": {
     "id": 35,
@@ -1649,7 +1683,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -1657,7 +1691,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "36": {
     "id": 36,
@@ -1694,7 +1729,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 25,
@@ -1702,7 +1737,8 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "37": {
     "id": 37,
@@ -1744,7 +1780,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 21,
@@ -1752,7 +1788,8 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "38": {
     "id": 38,
@@ -1762,7 +1799,7 @@
     "author": [
       {
         "id": 35,
-        "value": "Jacques, deVitry",
+        "value": "Jacques, de Vitry",
         "order": "35.00000000000000000000"
       }
     ],
@@ -1789,7 +1826,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 20,
@@ -1797,7 +1834,8 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "39": {
     "id": 39,
@@ -1828,7 +1866,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 20,
@@ -1836,7 +1874,8 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "40": {
     "id": 40,
@@ -1873,7 +1912,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 6,
@@ -1881,7 +1920,8 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "41": {
     "id": 41,
@@ -1918,9 +1958,10 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "42": {
     "id": 42,
@@ -1957,7 +1998,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 4,
@@ -1965,7 +2006,8 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "43": {
     "id": 43,
@@ -1996,7 +2038,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 3,
@@ -2004,7 +2046,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "44": {
     "id": 44,
@@ -2035,9 +2078,10 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "45": {
     "id": 45,
@@ -2074,9 +2118,10 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "46": {
     "id": 46,
@@ -2119,7 +2164,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 11,
@@ -2127,7 +2172,8 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "47": {
     "id": 47,
@@ -2164,7 +2210,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 33,
@@ -2172,7 +2218,8 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "49": {
     "id": 49,
@@ -2203,9 +2250,10 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "50": {
     "id": 50,
@@ -2236,7 +2284,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -2244,7 +2292,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "51": {
     "id": 51,
@@ -2281,7 +2330,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 4,
@@ -2289,7 +2338,8 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "52": {
     "id": 52,
@@ -2299,7 +2349,7 @@
     "author": [
       {
         "id": 42,
-        "value": "William, ofTyrus",
+        "value": "William, of Tyrus",
         "order": "42.00000000000000000000"
       }
     ],
@@ -2331,7 +2381,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -2344,7 +2394,8 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "53": {
     "id": 53,
@@ -2381,7 +2432,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 4,
@@ -2389,7 +2440,8 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "54": {
     "id": 54,
@@ -2426,9 +2478,10 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "55": {
     "id": 55,
@@ -2465,7 +2518,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 13,
@@ -2473,7 +2526,8 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "56": {
     "id": 56,
@@ -2504,7 +2558,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -2512,7 +2566,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "57": {
     "id": 57,
@@ -2543,7 +2598,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -2551,7 +2606,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "58": {
     "id": 58,
@@ -2561,7 +2617,7 @@
     "author": [
       {
         "id": 47,
-        "value": "Ado, ofVienne",
+        "value": "Ado, of Vienne",
         "order": "47.00000000000000000000"
       }
     ],
@@ -2582,9 +2638,10 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "59": {
     "id": 59,
@@ -2615,7 +2672,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -2623,7 +2680,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "60": {
     "id": 60,
@@ -2654,9 +2712,10 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "61": {
     "id": 61,
@@ -2687,7 +2746,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -2695,7 +2754,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "62": {
     "id": 62,
@@ -2726,9 +2786,10 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "63": {
     "id": 63,
@@ -2759,7 +2820,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -2767,7 +2828,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "64": {
     "id": 64,
@@ -2798,7 +2860,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -2806,7 +2868,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "65": {
     "id": 65,
@@ -2837,7 +2900,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -2845,7 +2908,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "66": {
     "id": 66,
@@ -2876,7 +2940,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -2884,7 +2948,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "67": {
     "id": 67,
@@ -2915,7 +2980,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -2923,7 +2988,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "68": {
     "id": 68,
@@ -2966,7 +3032,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -2974,7 +3040,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "69": {
     "id": 69,
@@ -3011,7 +3078,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 7,
@@ -3019,7 +3086,8 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "70": {
     "id": 70,
@@ -3056,7 +3124,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 7,
@@ -3064,7 +3132,8 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "71": {
     "id": 71,
@@ -3095,7 +3164,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 34,
@@ -3103,7 +3172,8 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "72": {
     "id": 72,
@@ -3134,7 +3204,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 6,
@@ -3142,7 +3212,8 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "73": {
     "id": 73,
@@ -3179,7 +3250,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 27,
@@ -3187,7 +3258,8 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "74": {
     "id": 74,
@@ -3224,7 +3296,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 27,
@@ -3232,7 +3304,8 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "75": {
     "id": 75,
@@ -3263,7 +3336,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 10,
@@ -3271,7 +3344,8 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "76": {
     "id": 76,
@@ -3302,7 +3376,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 7,
@@ -3310,7 +3384,8 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "77": {
     "id": 77,
@@ -3341,7 +3416,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 3,
@@ -3349,7 +3424,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "78": {
     "id": 78,
@@ -3380,7 +3456,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 3,
@@ -3388,7 +3464,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "79": {
     "id": 79,
@@ -3419,7 +3496,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 3,
@@ -3427,7 +3504,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "80": {
     "id": 80,
@@ -3458,7 +3536,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 3,
@@ -3466,7 +3544,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "81": {
     "id": 81,
@@ -3497,7 +3576,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 3,
@@ -3505,7 +3584,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "82": {
     "id": 82,
@@ -3542,7 +3622,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 3,
@@ -3555,7 +3635,8 @@
         "order": "35.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "83": {
     "id": 83,
@@ -3592,7 +3673,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 3,
@@ -3605,7 +3686,8 @@
         "order": "35.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "84": {
     "id": 84,
@@ -3642,7 +3724,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 3,
@@ -3655,7 +3737,8 @@
         "order": "35.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "85": {
     "id": 85,
@@ -3692,7 +3775,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 3,
@@ -3705,7 +3788,8 @@
         "order": "35.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "86": {
     "id": 86,
@@ -3742,7 +3826,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -3750,7 +3834,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "87": {
     "id": 87,
@@ -3787,7 +3872,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -3795,7 +3880,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "88": {
     "id": 88,
@@ -3832,7 +3918,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -3840,7 +3926,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "89": {
     "id": 89,
@@ -3877,7 +3964,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -3885,7 +3972,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "90": {
     "id": 90,
@@ -3922,7 +4010,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -3930,7 +4018,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "91": {
     "id": 91,
@@ -3967,7 +4056,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -3975,7 +4064,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "92": {
     "id": 92,
@@ -4017,7 +4107,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 31,
@@ -4025,7 +4115,8 @@
         "order": "31.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "93": {
     "id": 93,
@@ -4056,9 +4147,10 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "94": {
     "id": 94,
@@ -4095,7 +4187,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -4103,7 +4195,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "95": {
     "id": 95,
@@ -4140,7 +4233,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -4148,7 +4241,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "96": {
     "id": 96,
@@ -4185,7 +4279,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -4193,7 +4287,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "97": {
     "id": 97,
@@ -4230,7 +4325,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -4238,7 +4333,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "98": {
     "id": 98,
@@ -4275,7 +4371,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -4283,7 +4379,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "99": {
     "id": 99,
@@ -4320,7 +4417,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -4328,7 +4425,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "100": {
     "id": 100,
@@ -4365,7 +4463,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -4373,7 +4471,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "101": {
     "id": 101,
@@ -4410,7 +4509,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -4418,7 +4517,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "102": {
     "id": 102,
@@ -4455,7 +4555,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -4463,7 +4563,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "103": {
     "id": 103,
@@ -4500,7 +4601,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -4508,7 +4609,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "104": {
     "id": 104,
@@ -4545,7 +4647,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -4553,7 +4655,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "105": {
     "id": 105,
@@ -4596,7 +4699,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 28,
@@ -4609,7 +4712,8 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "106": {
     "id": 106,
@@ -4640,7 +4744,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -4648,7 +4752,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "107": {
     "id": 107,
@@ -4679,7 +4784,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 5,
@@ -4687,7 +4792,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "108": {
     "id": 108,
@@ -4718,7 +4824,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -4726,7 +4832,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "109": {
     "id": 109,
@@ -4763,7 +4870,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -4771,7 +4878,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "110": {
     "id": 110,
@@ -4796,9 +4904,10 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "111": {
     "id": 111,
@@ -4823,7 +4932,7 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 36,
@@ -4831,7 +4940,8 @@
         "order": "36.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "112": {
     "id": 112,
@@ -4868,7 +4978,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 4,
@@ -4876,7 +4986,8 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "113": {
     "id": 113,
@@ -4907,7 +5018,7 @@
       }
     ],
     "published_edition": [],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 4,
@@ -4915,7 +5026,8 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "114": {
     "id": 114,
@@ -4946,7 +5058,7 @@
       }
     ],
     "published_edition": [],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 4,
@@ -4954,7 +5066,8 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "115": {
     "id": 115,
@@ -4985,7 +5098,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -4993,7 +5106,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "116": {
     "id": 116,
@@ -5024,7 +5138,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -5032,7 +5146,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "117": {
     "id": 117,
@@ -5063,7 +5178,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -5071,7 +5186,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "118": {
     "id": 118,
@@ -5102,7 +5218,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -5110,7 +5226,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "119": {
     "id": 119,
@@ -5157,7 +5274,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -5170,7 +5287,8 @@
         "order": "32.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "120": {
     "id": 120,
@@ -5207,7 +5325,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 37,
@@ -5215,7 +5333,8 @@
         "order": "37.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "121": {
     "id": 121,
@@ -5252,7 +5371,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 37,
@@ -5260,7 +5379,8 @@
         "order": "37.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "122": {
     "id": 122,
@@ -5297,7 +5417,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 5,
@@ -5305,7 +5425,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "123": {
     "id": 123,
@@ -5336,7 +5457,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 9,
@@ -5344,7 +5465,8 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "124": {
     "id": 124,
@@ -5369,9 +5491,10 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "125": {
     "id": 125,
@@ -5418,7 +5541,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 38,
@@ -5426,7 +5549,8 @@
         "order": "38.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "126": {
     "id": 126,
@@ -5451,9 +5575,10 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "127": {
     "id": 127,
@@ -5484,7 +5609,7 @@
       }
     ],
     "published_edition": [],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 10,
@@ -5492,7 +5617,8 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "128": {
     "id": 128,
@@ -5534,7 +5660,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -5542,7 +5668,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "129": {
     "id": 129,
@@ -5573,7 +5700,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 34,
@@ -5581,7 +5708,8 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "130": {
     "id": 130,
@@ -5618,7 +5746,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -5626,7 +5754,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "131": {
     "id": 131,
@@ -5651,9 +5780,10 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "132": {
     "id": 132,
@@ -5678,7 +5808,7 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 4,
@@ -5686,7 +5816,8 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "133": {
     "id": 133,
@@ -5729,7 +5860,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 2,
@@ -5737,7 +5868,8 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "134": {
     "id": 134,
@@ -5774,9 +5906,10 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "135": {
     "id": 135,
@@ -5813,7 +5946,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 2,
@@ -5821,7 +5954,8 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "136": {
     "id": 136,
@@ -5858,7 +5992,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 2,
@@ -5866,7 +6000,8 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "137": {
     "id": 137,
@@ -5909,7 +6044,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 5,
@@ -5917,7 +6052,8 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "138": {
     "id": 138,
@@ -5948,7 +6084,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -5956,7 +6092,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "139": {
     "id": 139,
@@ -5987,7 +6124,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -5995,7 +6132,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "140": {
     "id": 140,
@@ -6026,7 +6164,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -6034,7 +6172,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "141": {
     "id": 141,
@@ -6065,7 +6204,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -6073,7 +6212,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "142": {
     "id": 142,
@@ -6104,7 +6244,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -6112,7 +6252,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "143": {
     "id": 143,
@@ -6143,7 +6284,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -6151,7 +6292,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "144": {
     "id": 144,
@@ -6182,7 +6324,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -6190,7 +6332,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "145": {
     "id": 145,
@@ -6221,7 +6364,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -6229,7 +6372,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "146": {
     "id": 146,
@@ -6260,7 +6404,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 12,
@@ -6268,7 +6412,8 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "147": {
     "id": 147,
@@ -6305,7 +6450,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -6313,7 +6458,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "148": {
     "id": 148,
@@ -6350,7 +6496,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -6358,7 +6504,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "149": {
     "id": 149,
@@ -6400,7 +6547,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 37,
@@ -6408,7 +6555,8 @@
         "order": "37.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "150": {
     "id": 150,
@@ -6439,7 +6587,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -6447,7 +6595,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "152": {
     "id": 152,
@@ -6478,7 +6627,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 7,
@@ -6486,7 +6635,8 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "153": {
     "id": 153,
@@ -6523,7 +6673,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 19,
@@ -6531,7 +6681,8 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "154": {
     "id": 154,
@@ -6573,7 +6724,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 21,
@@ -6581,7 +6732,8 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "155": {
     "id": 155,
@@ -6623,7 +6775,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 21,
@@ -6631,7 +6783,8 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "156": {
     "id": 156,
@@ -6673,7 +6826,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 21,
@@ -6681,7 +6834,8 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "157": {
     "id": 157,
@@ -6712,7 +6866,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 6,
@@ -6720,7 +6874,8 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "158": {
     "id": 158,
@@ -6757,7 +6912,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 25,
@@ -6765,7 +6920,8 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "159": {
     "id": 159,
@@ -6807,7 +6963,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 25,
@@ -6815,7 +6971,8 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "160": {
     "id": 160,
@@ -6846,7 +7003,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -6854,7 +7011,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "161": {
     "id": 161,
@@ -6885,7 +7043,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -6893,7 +7051,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "162": {
     "id": 162,
@@ -6924,7 +7083,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -6932,7 +7091,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "163": {
     "id": 163,
@@ -6963,7 +7123,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -6971,7 +7131,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "164": {
     "id": 164,
@@ -7002,7 +7163,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -7010,7 +7171,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "165": {
     "id": 165,
@@ -7041,7 +7203,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -7049,7 +7211,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "166": {
     "id": 166,
@@ -7080,7 +7243,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -7088,7 +7251,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "167": {
     "id": 167,
@@ -7119,7 +7283,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -7127,7 +7291,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "168": {
     "id": 168,
@@ -7158,7 +7323,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -7166,7 +7331,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "169": {
     "id": 169,
@@ -7197,7 +7363,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -7205,7 +7371,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "170": {
     "id": 170,
@@ -7242,7 +7409,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 3,
@@ -7250,7 +7417,8 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "171": {
     "id": 171,
@@ -7287,7 +7455,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -7295,7 +7463,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "172": {
     "id": 172,
@@ -7332,7 +7501,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -7340,7 +7509,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "173": {
     "id": 173,
@@ -7377,7 +7547,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -7385,7 +7555,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "174": {
     "id": 174,
@@ -7416,7 +7587,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 39,
@@ -7424,7 +7595,8 @@
         "order": "39.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "175": {
     "id": 175,
@@ -7455,7 +7627,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -7463,7 +7635,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "176": {
     "id": 176,
@@ -7488,7 +7661,7 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 34,
@@ -7496,7 +7669,8 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "177": {
     "id": 177,
@@ -7527,7 +7701,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 34,
@@ -7535,7 +7709,8 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "178": {
     "id": 178,
@@ -7566,7 +7741,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 34,
@@ -7574,7 +7749,8 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "179": {
     "id": 179,
@@ -7605,7 +7781,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 34,
@@ -7613,7 +7789,8 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "180": {
     "id": 180,
@@ -7644,7 +7821,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 34,
@@ -7652,7 +7829,8 @@
         "order": "34.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "181": {
     "id": 181,
@@ -7683,7 +7861,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -7691,7 +7869,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "182": {
     "id": 182,
@@ -7722,7 +7901,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -7730,7 +7909,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "183": {
     "id": 183,
@@ -7761,7 +7941,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -7769,7 +7949,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "184": {
     "id": 184,
@@ -7800,7 +7981,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -7808,7 +7989,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "185": {
     "id": 185,
@@ -7839,7 +8021,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": true,
+    "date_certainty": true,
     "date": [
       {
         "id": 15,
@@ -7847,7 +8029,8 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "186": {
     "id": 186,
@@ -7878,7 +8061,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 40,
@@ -7886,7 +8069,8 @@
         "order": "40.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "187": {
     "id": 187,
@@ -7917,7 +8101,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 40,
@@ -7925,7 +8109,8 @@
         "order": "40.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "188": {
     "id": 188,
@@ -7956,7 +8141,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 26,
@@ -7964,7 +8149,8 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": true
   },
   "189": {
     "id": 189,
@@ -7995,7 +8181,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "certainty": false,
+    "date_certainty": false,
     "date": [
       {
         "id": 26,
@@ -8003,6 +8189,199 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "corpus_corporum": ""
+    "corpus_corporum": "",
+    "author_certainty": false
+  },
+  "190": {
+    "id": 190,
+    "order": "188.00000000000000000000",
+    "name": "De sex aetatibus mundi ",
+    "jad_id": "jad_work__190",
+    "author": [
+      {
+        "id": 69,
+        "value": "Claudius, of Turin",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De sex aetatibus mundi",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 6,
+        "value": "early 9th cen.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": "",
+    "author_certainty": true
+  },
+  "191": {
+    "id": 191,
+    "order": "189.00000000000000000000",
+    "name": "Expositio in Apocalypsin ",
+    "jad_id": "jad_work__191",
+    "author": [
+      {
+        "id": 73,
+        "value": "Ambrosius, Autpertus",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio in Apocalypsin",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 44,
+        "value": "8th cen., second half",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": "",
+    "author_certainty": true
+  },
+  "192": {
+    "id": 192,
+    "order": "190.00000000000000000000",
+    "name": "Super Apocalypsim expositio ",
+    "jad_id": "jad_work__192",
+    "author": [
+      {
+        "id": 8,
+        "value": "Hugh, of Saint-Cher",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Super Apocalypsim expositio",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "corpus_corporum": "",
+    "author_certainty": false
+  },
+  "193": {
+    "id": 193,
+    "order": "191.00000000000000000000",
+    "name": "Sermones de diversis ",
+    "jad_id": "jad_work__193",
+    "author": [
+      {
+        "id": 34,
+        "value": "Bonaventura",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones de diversis",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": "",
+    "author_certainty": true
+  },
+  "194": {
+    "id": 194,
+    "order": "192.00000000000000000000",
+    "name": "Historia Francorum ",
+    "jad_id": "jad_work__194",
+    "author": [
+      {
+        "id": 74,
+        "value": "Gregory of Tours",
+        "order": "73.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Historia Francorum",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "corpus_corporum": "",
+    "author_certainty": true
+  },
+  "195": {
+    "id": 195,
+    "order": "193.00000000000000000000",
+    "name": "Contra haereticos ",
+    "jad_id": "jad_work__195",
+    "author": [
+      {
+        "id": 75,
+        "value": "Alan, of Lille",
+        "order": "74.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Contra haereticos",
+    "genre": {
+      "id": 15026,
+      "value": "Polemics",
+      "color": "light-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": "",
+    "author_certainty": true
   }
 }
