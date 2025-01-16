@@ -71,8 +71,8 @@
     "jad_id": "jad_date__5",
     "view_label": "late 12th cen.",
     "prev": {
-      "id": "jad_date__44",
-      "label": "8th cen., second half"
+      "id": "jad_date__45",
+      "label": "1260s"
     },
     "next": {
       "id": "jad_date__6",
@@ -697,6 +697,22 @@
     "prev": {
       "id": "jad_date__43",
       "label": "14th cen."
+    },
+    "next": {
+      "id": "jad_date__45",
+      "label": "1260s"
+    }
+  },
+  "45": {
+    "id": 45,
+    "name": "1260s",
+    "not_before": "1261",
+    "not_after": "1270",
+    "jad_id": "jad_date__45",
+    "view_label": "1260s",
+    "prev": {
+      "id": "jad_date__44",
+      "label": "8th cen., second half"
     },
     "next": {
       "id": "jad_date__5",

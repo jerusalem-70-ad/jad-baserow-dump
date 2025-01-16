@@ -299,8 +299,8 @@
     ],
     "view_label": "romanis obsidentibus civitatem",
     "prev": {
-      "id": "jad_occurence__67",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "id": "jad_occurence__68",
+      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
     },
     "next": {
       "id": "jad_occurence__8",
@@ -2900,16 +2900,26 @@
     },
     "next": {
       "id": "jad_occurence__67",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "De tyto et uaspasiano"
     }
   },
   "67": {
     "id": 67,
     "jad_id": "jad_occurence__67",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 477,
+        "value": "De tyto et uaspasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 17,
+        "value": "Cambr. St.John's Coll., MS 127"
+      }
+    ],
+    "position_in_ms": "96-103",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 3,
@@ -2920,12 +2930,61 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-09",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-01-15",
+    "ms_locus": [
+      {
+        "id": 17,
+        "value": "MS 127, 96-103"
+      }
+    ],
+    "view_label": "De tyto et uaspasiano",
     "prev": {
       "id": "jad_occurence__66",
       "label": "tyto et vespasiano ultione urbs capta est"
+    },
+    "next": {
+      "id": "jad_occurence__68",
+      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
+    }
+  },
+  "68": {
+    "id": 68,
+    "jad_id": "jad_occurence__68",
+    "occurrence": [
+      {
+        "id": 480,
+        "value": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 41,
+        "value": "Göttweig, 149"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-15",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-15",
+    "ms_locus": [
+      {
+        "id": 41,
+        "value": "149, "
+      }
+    ],
+    "view_label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII",
+    "prev": {
+      "id": "jad_occurence__67",
+      "label": "De tyto et uaspasiano"
     },
     "next": {
       "id": "jad_occurence__7",

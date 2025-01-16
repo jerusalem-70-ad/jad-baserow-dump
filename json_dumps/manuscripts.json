@@ -1054,8 +1054,31 @@
   "41": {
     "id": 41,
     "order": "41.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 18,
+        "value": "Göttweig, 149"
+      }
+    ],
     "jad_id": "jad_manuscript__41",
+    "library": [
+      {
+        "id": 18,
+        "value": "Stift Göttweig",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "idno": "149",
+    "catalog_url": "https://manuscripta.at/hs_detail.php?ID=36861",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": []
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__42",
     "library": [],
     "idno": "",
     "catalog_url": "",

@@ -90,8 +90,8 @@
         "author_certainty": true,
         "view_label": "Sermones ",
         "prev": {
-          "id": "jad_work__195",
-          "label": "Contra haereticos "
+          "id": "jad_work__196",
+          "label": "Legenda aurea "
         },
         "next": {
           "id": "jad_work__20",
@@ -2778,8 +2778,8 @@
     "notes": "",
     "view_label": "Hugh, of Saint-Cher",
     "prev": {
-      "id": "jad_author__75",
-      "label": "Alan, of Lille"
+      "id": "jad_author__76",
+      "label": "Jacques, de Voragine"
     },
     "next": {
       "id": "jad_author__9",
@@ -11981,8 +11981,8 @@
       "label": "Gregory of Tours"
     },
     "next": {
-      "id": "jad_author__8",
-      "label": "Hugh, of Saint-Cher"
+      "id": "jad_author__76",
+      "label": "Jacques, de Voragine"
     },
     "related__works": [
       {
@@ -12022,6 +12022,67 @@
         "prev": {
           "id": "jad_work__194",
           "label": "Historia Francorum "
+        },
+        "next": {
+          "id": "jad_work__196",
+          "label": "Legenda aurea "
+        }
+      }
+    ]
+  },
+  "76": {
+    "id": 76,
+    "name": "Jacques, de Voragine",
+    "jad_id": "jad_author__76",
+    "gnd_url": "https://d-nb.info/gnd/118556401",
+    "notes": "",
+    "view_label": "Jacques, de Voragine",
+    "prev": {
+      "id": "jad_author__75",
+      "label": "Alan, of Lille"
+    },
+    "next": {
+      "id": "jad_author__8",
+      "label": "Hugh, of Saint-Cher"
+    },
+    "related__works": [
+      {
+        "id": 196,
+        "name": "Legenda aurea ",
+        "jad_id": "jad_work__196",
+        "author": [
+          {
+            "id": 76,
+            "name": "Jacques, de Voragine",
+            "jad_id": "jad_author__76",
+            "gnd_url": "https://d-nb.info/gnd/118556401",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Legenda aurea",
+        "genre": {
+          "id": 15028,
+          "value": "Hagiography",
+          "color": "darker-blue"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 45,
+            "value": "1260s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Legenda aurea ",
+        "prev": {
+          "id": "jad_work__195",
+          "label": "Contra haereticos "
         },
         "next": {
           "id": "jad_work__2",

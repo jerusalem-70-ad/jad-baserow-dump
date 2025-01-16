@@ -6116,12 +6116,12 @@
     "main_ms": [],
     "view_label": "destructionem a Tito et Vespasiano factam",
     "prev": {
-      "id": "jad_occurence__477",
-      "label": ""
+      "id": "jad_occurence__479",
+      "label": "per destructionem templi Romanorum"
     },
     "next": {
-      "id": "jad_occurence__49",
-      "label": "civitatem a Tito et Vespasiano destructam"
+      "id": "jad_occurence__480",
+      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
     }
   },
   "49": {
@@ -6222,8 +6222,8 @@
     "main_ms": [],
     "view_label": "civitatem a Tito et Vespasiano destructam",
     "prev": {
-      "id": "jad_occurence__48",
-      "label": "destructionem a Tito et Vespasiano factam"
+      "id": "jad_occurence__480",
+      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
     },
     "next": {
       "id": "jad_occurence__5",
@@ -14459,7 +14459,7 @@
     },
     "position_in_work": "B7, Ch15",
     "position_in_work_url": "",
-    "text_paragraph": "Potest autem et Salvator haec dicere: usque ad crucem persecu tionem passus a populo, non in patientia. Quid est, quod ait, non in patientia? Longanimis fuisti semper huic populo delinquenti. Sed super hoc, quod etiam adversum me suam erexit temeritatem, noli p. 0933A | esse longanimis: et revera non fuit patiens Deus. Si enim consideres tempora passionis Dominicae et ruinae Jerusalem, quando subversa est, videbis quomodo non in patientia abusus sit eis Deus. A quinto decimo quippe anno Tiberii Caesaris usque ad subversionem templi numerantur anni quadraginta duo, quia oportuerat modicum aliquid temporis in poenitentiam derelinqui, propter eos qui per signa atque portenta apostolorum credituri erant. « Scito quomodo accepi propter te opprobrium a contemnentibus sermones tuos. » Potest fieri, ut prophetes haec dicat, contemptus a populo peccatore, super quem praedicabat ea. Ait quippe et alibi: « Complevi dies meos in irrisione. » Opprobrium ergo patitur ab his qui sermones Dei audire contemnunt, et deprecatur, p. 0933B | ut Dei habeat auxilium dicens: Scito quomodo acceperim propter te opprobrium a contemnentibus sermones tuos, consumma eos. Potest et hoc dicere prophetes, sed magis convenit Salvatori, post cujus passionem venit consummatio Jerusalem, et interfectio populi Judaeorum. Et erit mihi sermo tuus in laetitiam, non ait, Est, sed, Erit. Si quidem in praesenti tempore carceres, exsilia, contumelias, ac labores mihi tribuit.",
+    "text_paragraph": "Potest autem et Salvator haec dicere: usque ad crucem persecutionem passus a populo, non in patientia. Quid est, quod ait, non in patientia? Longanimis fuisti semper huic populo delinquenti. Sed super hoc, quod etiam adversum me suam erexit temeritatem, noli p. 0933A | esse longanimis: et revera non fuit patiens Deus. Si enim consideres tempora passionis Dominicae et ruinae Jerusalem, quando subversa est, videbis quomodo non in patientia abusus sit eis Deus. A quinto decimo quippe anno Tiberii Caesaris usque ad subversionem templi numerantur anni quadraginta duo, quia oportuerat modicum aliquid temporis in poenitentiam derelinqui, propter eos qui per signa atque portenta apostolorum credituri erant. « Scito quomodo accepi propter te opprobrium a contemnentibus sermones tuos. » Potest fieri, ut prophetes haec dicat, contemptus a populo peccatore, super quem praedicabat ea. Ait quippe et alibi: « Complevi dies meos in irrisione. » Opprobrium ergo patitur ab his qui sermones Dei audire contemnunt, et deprecatur, p. 0933B | ut Dei habeat auxilium dicens: Scito quomodo acceperim propter te opprobrium a contemnentibus sermones tuos, consumma eos. Potest et hoc dicere prophetes, sed magis convenit Salvatori, post cujus passionem venit consummatio Jerusalem, et interfectio populi Judaeorum. Et erit mihi sermo tuus in laetitiam, non ait, Est, sed, Erit. Si quidem in praesenti tempore carceres, exsilia, contumelias, ac labores mihi tribuit.",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
@@ -50758,12 +50758,12 @@
     },
     "next": {
       "id": "jad_occurence__477",
-      "label": ""
+      "label": "De tyto et uaspasiano"
     }
   },
   "477": {
     "id": 477,
-    "passage": "",
+    "passage": "De tyto et uaspasiano",
     "jad_id": "jad_occurence__477",
     "language": null,
     "position_in_work": "",
@@ -50772,26 +50772,354 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 134,
+        "name": "De Tyto et Vespasiano ",
+        "jad_id": "jad_work__134",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 17,
+            "value": "Cambr. St.John's Coll., MS 127"
+          }
+        ],
+        "title": "De Tyto et Vespasiano",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 134
+        },
+        "value": "anonymous"
+      }
+    ],
     "source_passage": [],
-    "manuscripts": [],
-    "occurrence_ms": [],
-    "main_ms": [],
-    "view_label": "",
+    "manuscripts": [
+      {
+        "id": 17,
+        "value": "MS 127, 96-103"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 67,
+        "value": "jad_occurence__67"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 67,
+        "value": true
+      }
+    ],
+    "view_label": "De tyto et uaspasiano",
     "prev": {
       "id": "jad_occurence__476",
       "label": "dissipabit civitatem et sanctuarium populus Romanus"
     },
     "next": {
+      "id": "jad_occurence__478",
+      "label": "dominus Vespasianum et Titum Jerusalem adduxit, qui ipsam civitatem funditus destruxerunt"
+    }
+  },
+  "478": {
+    "id": 478,
+    "passage": "dominus Vespasianum et Titum Jerusalem adduxit, qui ipsam civitatem funditus destruxerunt",
+    "jad_id": "jad_occurence__478",
+    "language": null,
+    "position_in_work": "Ch67, De sancto Jacobo apostolo",
+    "position_in_work_url": "",
+    "text_paragraph": "Praedictus igitur vir capitur, caeditur, verberatur, sed ille aliud dicere nequiens quanto plus verberabatur, tanto fortius clamabat.\n \nAd judicem igitur adducitur, tormentis diris afficitur, usque ad patefactionem ossium laniatur.\n \nSed ille nec preces nec lacrymas effundebat, sed cum quodam ululatu per singula paene verba eadem proferebat, addens etiam hoc: vaeh, vaeh Hierosolymis. Haec Josephus.\n \nCum autem Judaei nec admonitionibus converterentur nec tantis prodigiis terrerentur, post XL. annum dominus Vespasianum et Titum Jerusalem adduxit, qui ipsam civitatem funditus destruxerunt.\n \nHaec autem fuit causa adventus ipsorum in Jerusalem, sicut in quadam hystoria invenitur, licet apocrypha.\n \nVidens Pylatus, quia Jesum innocentem condemnaverat, timens offensam Tyberii Caesaris pro se excusando nuntium nomine Albanum ad Caesarem destinavit.\n \nEo autem tempore Vespasianus monarchiam in Galatia a Tyberio Caesare tenebat; nuntius igitur Pylati a ventis contrariis in Galatiam pellitur et ad Vespasianum adducitur.\n \nTalis autem ibi servabatur consuetudo, ut quicunque ibidem naufragium pateretur, rebus et servituti principis subderetur.\n \nQuem Vespasianus, quis esset aut unde veniret seu quo tenderet, requisivit. Cui ille: Hierosolymitanus sum, de partibus illis veni, Romam usque tendebam.\n \nCui Vespasianus: de terra sapientum venis, artem nosti medicaminis, medicus es, curare me debes.\n \nVespasianus enim quoddam genus vermium naribus insitum ab infantia gerebat, unde et a vespis Vespasianus dicebatur.\n \nCui vir ille respondit: artem medicaminis, domine, nescio et ideo curare te non valeo.\n \nCui Vespasianus: nisi me curaveris, morte morieris.\n \nCui ille ait: ille qui caecos illuminavit, daemones effugavit, mortuos suscitavit, ille novit, quia artem medendi ignoro.\n \nCui Vespasianus: quis est ille, de quo tanta profaris? Et ille: Jesus Nazarenus, quem Judaei per invidiam occiderunt, in quem si credideris, sanitatis gratiam consequeris.\n \nEt Vespasianus: credo, quia, quod mortuos suscitavit, me etiam de infirmitate hac liberare poterit.\n \nEt haec dicendo vespae de naribus ejus ceciderunt et continuo sanitatem recepit.  \nPetita igitur a Caesare licentia Hierosolymam cum manu armata pergam et omnes proditores hujus et occisores funditus evertam.\n \nDixit que Albano nuntio Pylati: rebus et vita sanus et incolumis domum tuam mei licentia revertaris.\n \nVespasianus igitur Romam adiit et destruendi Judaeam et Jerusalem a Tyberio Caesare licentiam impetravit.\n \nPer annos igitur plures exercitus congregavit, tempore scilicet Neronis imperatoris, cum Judaei imperio rebellassent.\n \nUnde (secundum chronicas) non fecit hoc zelo Christi, sed quia a dominio recesserat Romanorum.\n \nJerusalem igitur cum copioso exercitu Vespasianus advenit et in die paschae Jerusalem per circuitum potenter obsedit ibi que infinitam multitudinem, quae ad diem festum convenerat, conclusit.\n \nPer aliquod autem tempus, antequam Vespasianus Jerusalem adveniret, fideles, qui ibi erant, a spiritu sancto admonentur, ut inde recedant et in quodam oppido trans Jordanem, quod Pella vocatur, secedant, ut ablatis ab urbe sanctis viris coelesti vindictae fieret locus tam de urbe sacrilega quam de populo scelerato. Quandam autem civitatem Judaeae, nomine Jonapatam, in qua Josephus et dux et princeps erat, primo omnium est agressus, sed Josephus cum suis viriliter resistebat; tandem videns Josephus imminere excidium civitatis assumtis XI Judaeis subterraneam domum intravit, ubi quadriduana fame afflicti Judaei non consentiente Josepho malebant ibidem mori, quam Vespasiani se subjicere servituti, volebant que se mutuo interficere et sanguinem suum in sacrificium Deo offerre, et quoniam Josephus inter eos dignior erat, volebant eum primitus occidere, ut ejus effusione sanguinis Deus citius placaretur, vel (ut in quadam chronica dicitur) ideo se mutuo interficere volebant, ne darentur in manibus Romanorum.\n \nAt Josephus vir prudens et mori nolens judicem mortis et sacrificii se constituit, et quis prior alio occidendus esset, inter binos et binos sortem mittere jussit.\n \nMissis igitur sortibus sors nunc unum nunc alium morti tradidit, donec ventum est ad ultimum, cum quo Josephus sortem missurus fuit.\n \nTunc Josephus homo strenuus et agilis gladium illi abstulit et quid magis eligeret, vitam scilicet aut mortem, requisivit, et ut sine dilatione eligeret, praecepit; et ille timens respondit: vivere non recuso, si gratia tui vitam conservare valeo.\n \nTunc Josephus uni familiari Vespasiani et sibi etiam familiari latenter locutus est, et ut sibi vita donaretur, petiit et, quod petiit, impetravit.\n \nCum autem ante Vespasianum Josephus esset adductus, dixit ei Vespasianus: mortem meruisses, si hujus petitionibus liberatus non esses. Et Josephus: si quid perperam actum est, in melius commutari potest.\n \nEt Vespasianus: qui victus est, quid facere potest? Et Josephus: aliquid facere potero, si dictis meis aures tuas demulsero.\n \nEt Vespasianus: concedatur, ut verbis tuis inhaereas, et quidquid boni dicturus es, pacifice audiatur.\n \nEt Josephus: imperator Romanus interiit et senatus imperatorem te fecit.\n \nEt Vespasianus: si propheta es, quare non es vaticinatus huic civitati, quod meae sit subjicienda ditioni.\n \nEt Josephus: per XL dies hoc iis praedixi.\n \nInterea legati Romanorum veniunt, Vespasianum in imperium sublimatum asserunt eum que Romam deducunt.\n \nHoc quoque Eusebius in chronica testatur, quod scilicet Josephus Vespasiano praedixit tam de imperatoris morte quam de sua sublimatione.\n \nReliquit autem Vespasianus Titum filium suum in obsidione Jerusalem. Titus autem, ut in eadem hystoria apocrypha legitur, audiens patrem suum in imperium sublimatum, tanto gaudio et exsultatione repletur, quod nervorum contractione ex frigiditate corripitur et altero crure debilitatus paralysi torquetur, Josephus autem audiens Titum paralysi laborare, causam morbi et tempus morbi diligentissime inquirit.\n \nCausa nescitur, morbus ignoratur, de tempore autem, quoniam audita patris electione hoc sibi acciderit, aperitur.\n \nJosephus autem vir providus et sapiens ex paucis multa conjecit et ex tempore morbum et causam invenit, sciens, quod gaudio et laetitia superabundanti debilitatus fuerit.\n \nAnimadvertens itaque, quia contraria contrariis curantur, sciens etiam quia quod amore conquaeritur, dolore frequenter amittitur, quaerere coepit, an aliquis esset, qui principis inimicus obnoxius teneretur.\n \nEt erat ibi servus adeo Tito molestus, ut sine vehementi conturbatione nullatenus in eum posset respicere, nec etiam nomen ejus audire; dixit itaque Tito: si curari desideras, omnes, qui in meo comitatu venerint, salvos facias.\n \nCui Titus: quicunque in tuo comitatu venerit, securus habeatur et salvus.\n \nTunc Josephus cito prandium fieri praecepit et mensam suam mensae Titi oppositam locavit et servum a dextris suis sedere fecit.\n \nQuem Titus respiciens molestia conturbatus infremuit et, qui prius gaudio infrigidatus fuerat, accensione furoris incaluit nervos que distendens curatus fuit.\n \nPost hoc Titus et servum in sui gratiam et Josephum in sui amicitiam recepit. Utrum autem haec hystoria narranda sit, lectoris judicio relinquatur.\n \nBiennio igitur a Tito Jerusalem obsessa inter caetera mala, quae obsessos graviter perurgebant, tanta fames omnes tenuit, quod parentes filiis et filii parentibus, viri uxoribus et uxores viris cibos non tantum e manibus, sed etiam ex ipsis dentibus rapiebant, juvenes etiam aetate fortiores velut simulacra per viam oberrando prae fame exanimes cadebant; qui mortuos sepeliebant, saepe super ipsos mortuos mortui cadebant, foetorem itaque cadaverum non ferentes ex publico sumtu ipsa sepeliebant, sed deficiente sumtu, vincente cadaverum multitudine de muro cadavera praecipitabant.\n \nAt Titus circuiens cum vidisset valles repletas cadaveribus et totam patriam ex eorum foetore corruptam manus suas cum lacrymis ad coelum levavit dicens: Deus, tu vides, quia ego hoc non facio.\n \nTanta enim ibi fames erat, quod calceamenta sua et corrigias comedebant.\n \nMatrona quaedam insuper genere et divitiis nobilis, sicut in hystoria ecclesiastica legitur, cum praedones in ejus domum irruentes eam omnibus exspoliassent nec sibi ultra, quid comederet, remansisset, parvulum lactentem tenens in manibus ait: infelicis matris infelicior fili, in bello, in fame, in direptione, cui te reservabo? Veni ergo nunc, o mi nate, esto matri cibus, praedonibus scandalum, saeculis tabula.\n \nEt his dictis filium jugulavit et coxit et dimidium comedens partem alteram occultavit.\n \nEt ecce confestim praedones odorem carnis coctae sentientes in domum irruunt et, nisi carnem prodat, mortem minantur.\n \nTunc illa detegens infantis membra: ecce, inquit, vobis partem optimam reservavi.\n \nAt illos tantus horror invasit, quod nec loqui potuerunt. Et illa: meus, inquit, filius hic, meum est peccatum, securi edite, quia prior ego comedi, quem genui, nolite fieri aut matre religiosiores aut feminis molliores: quodsi vincit vos pietas et horretis, ego totum comedam, quod dimidium jam comedi.\n \nIlli vero trementes et territi discesserunt.\n \nTandem secundo anno imperii Vespasiani Titus Jerusalem cepit et captam subvertit templum que funditus destruxit et, sicut Judaei Christum XXX denariis emerant, sic et ipse uno denario XXX Judaeos vendidit.\n \nSicut autem narrat Josephus, nonaginta septem millia Judaeorum vendita sunt et undecies centena millia fame et gladio perierunt.\n \nLegitur quoque, quod Titus intrans Jerusalem quendam murum densissimum vidit, ipsum que perforari praecepit, facto que foramine quendam intus senem adspectu et canitie venerabilem invenerunt, qui requisitus, quis esset, respondit, se esse Joseph ab Arimathia civitate Judaeae se que a Judaeis ibidem clausum et muratum fuisse, eo quod Christum sepelisset, addidit que, quod ab illo tempore usque nunc coelesti sit cibo pastus et divino lumine confortatus.\n \nIn evangelio tamen Nicodemi dicitur, quod cum Judaei ipsum reclusissent, Christus resurgens eum inde eripuit et in Arimathiam duxit.\n \nPotest dici, quod cum eductus a praedicatione Christi non cessaret, a Judaeis iterum est reclusus.\n \nMortuo quoque Vespasiano imperatore Titus filius ejus eidem in imperio successit, qui fuit vir clementissimus et multae liberalitatis tantae que bonitatis fuit, sicut ait Eusebius Caesariensis in chronica et testatur Hieronymus, quod dum quodam sero recordatus fuisset, quod illo die nil boni egisset aut nihil dedisset, ait: o amici diem perdidi. cruces de rore invenerunt, quas territi fugientes et secundo mane redeuntes, unusquisque, ut ait Miletus in chronica, cruces sanguineas vestibus suis insitas invenit.\n \nQui vehementer territi in fugam iterum versi sunt, sed tertio die reversi vapore ignis de terra prodeuntis penitus sunt exusti.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 196,
+        "name": "Legenda aurea ",
+        "jad_id": "jad_work__196",
+        "author": [
+          {
+            "id": 76,
+            "name": "Jacques, de Voragine",
+            "jad_id": "jad_author__76",
+            "gnd_url": "https://d-nb.info/gnd/118556401",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Legenda aurea",
+        "genre": {
+          "id": 15028,
+          "value": "Hagiography",
+          "color": "darker-blue"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 45,
+            "value": "1260s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 76,
+          "database_table_3499": 196
+        },
+        "value": "Jacques, de Voragine"
+      }
+    ],
+    "source_passage": [],
+    "manuscripts": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "view_label": "dominus Vespasianum et Titum Jerusalem adduxit, qui ipsam civitatem funditus destruxerunt",
+    "prev": {
+      "id": "jad_occurence__477",
+      "label": "De tyto et uaspasiano"
+    },
+    "next": {
+      "id": "jad_occurence__479",
+      "label": "per destructionem templi Romanorum"
+    }
+  },
+  "479": {
+    "id": 479,
+    "passage": "per destructionem templi Romanorum",
+    "jad_id": "jad_occurence__479",
+    "language": null,
+    "position_in_work": "Ch6, De natiuitate domini",
+    "position_in_work_url": "",
+    "text_paragraph": "Prima autem creatura, id est, pure corporea, triplex est, scilicet opaca, transparens sive pervia, et lucida.\n \nPrimo ergo ostensa est per pure corpoream opacam, sicut per destructionem templi Romanorum, ut supra demonstratum est, et per ruinam etiam aliarum statuarum, quae tunc in aliis locis plurimis ceciderunt.\n \nLegitur etiam in hystoria scholastica, quod Jeremias propheta in Aegyptum descendens post mortem Godolyae regibus Aegypti signum dedit, quod eorum ydola corruerent, cum virgo filium parturiret.\n \nQuapropter sacerdotes ydolorum ymaginem virginis puerum in gremio bajulantem secreto loco templi statuerunt et eum ibi adorabant.\n \nSed a Ptolemaeo rege postea interrogati, quid hoc sibi vellet, dixerunt paternae traditionis hoc esse misterium, quod a sancto viro et propheta eorum majores acceperant et sic in rebus venturis credebant.\n \nSecundo per pure corpoream transparentem et perviam.\n \nNam in ipsa nocte nativitatis dominicae, obscuritas noctis in claritatem diei versa est.\n \nRomae etiam (ut attestatur Orosius et Innocentius papa tertius) fons aquae in liquorem olei versus est et erumpens usque in Tibrim profluxit et toto die illo largissime emanavit.\n \nProphetaverat enim Sibylla, quod quando erumperet fons olei, nasceretur Salvator.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 196,
+        "name": "Legenda aurea ",
+        "jad_id": "jad_work__196",
+        "author": [
+          {
+            "id": 76,
+            "name": "Jacques, de Voragine",
+            "jad_id": "jad_author__76",
+            "gnd_url": "https://d-nb.info/gnd/118556401",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Legenda aurea",
+        "genre": {
+          "id": 15028,
+          "value": "Hagiography",
+          "color": "darker-blue"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 45,
+            "value": "1260s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 76,
+          "database_table_3499": 196
+        },
+        "value": "Jacques, de Voragine"
+      }
+    ],
+    "source_passage": [],
+    "manuscripts": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "view_label": "per destructionem templi Romanorum",
+    "prev": {
+      "id": "jad_occurence__478",
+      "label": "dominus Vespasianum et Titum Jerusalem adduxit, qui ipsam civitatem funditus destruxerunt"
+    },
+    "next": {
       "id": "jad_occurence__48",
       "label": "destructionem a Tito et Vespasiano factam"
+    }
+  },
+  "480": {
+    "id": 480,
+    "passage": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII",
+    "jad_id": "jad_occurence__480",
+    "language": null,
+    "position_in_work": "Note about content",
+    "position_in_work_url": "",
+    "text_paragraph": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 196,
+        "name": "Legenda aurea ",
+        "jad_id": "jad_work__196",
+        "author": [
+          {
+            "id": 76,
+            "name": "Jacques, de Voragine",
+            "jad_id": "jad_author__76",
+            "gnd_url": "https://d-nb.info/gnd/118556401",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Legenda aurea",
+        "genre": {
+          "id": 15028,
+          "value": "Hagiography",
+          "color": "darker-blue"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 45,
+            "value": "1260s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 76,
+          "database_table_3499": 196
+        },
+        "value": "Jacques, de Voragine"
+      }
+    ],
+    "source_passage": [],
+    "manuscripts": [
+      {
+        "id": 41,
+        "value": "149, "
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 68,
+        "value": "jad_occurence__68"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 68,
+        "value": false
+      }
+    ],
+    "view_label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII",
+    "prev": {
+      "id": "jad_occurence__48",
+      "label": "destructionem a Tito et Vespasiano factam"
+    },
+    "next": {
+      "id": "jad_occurence__49",
+      "label": "civitatem a Tito et Vespasiano destructam"
     }
   }
 }

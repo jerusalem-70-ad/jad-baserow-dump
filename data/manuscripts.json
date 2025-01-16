@@ -207,7 +207,7 @@
     "date_written": [],
     "view_label": "St.Gen., MS 1423",
     "prev": {
-      "id": "jad_manuscript__41",
+      "id": "jad_manuscript__42",
       "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
@@ -1836,13 +1836,47 @@
     },
     "next": {
       "id": "jad_manuscript__41",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Göttweig, 149"
     }
   },
   "41": {
     "id": 41,
-    "name": [],
+    "name": [
+      {
+        "id": 18,
+        "value": "Göttweig, 149"
+      }
+    ],
     "jad_id": "jad_manuscript__41",
+    "library": [
+      {
+        "id": 18,
+        "name": "Stift Göttweig",
+        "jad_id": "jad_library__18",
+        "gnd_url": "",
+        "abbreviation": "Göttweig",
+        "place": []
+      }
+    ],
+    "idno": "149",
+    "catalog_url": "https://manuscripta.at/hs_detail.php?ID=36861",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "view_label": "Göttweig, 149",
+    "prev": {
+      "id": "jad_manuscript__40",
+      "label": "Erlangen, UB, 63/2"
+    },
+    "next": {
+      "id": "jad_manuscript__42",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "42": {
+    "id": 42,
+    "name": [],
+    "jad_id": "jad_manuscript__42",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -1851,8 +1885,8 @@
     "date_written": [],
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
-      "id": "jad_manuscript__40",
-      "label": "Erlangen, UB, 63/2"
+      "id": "jad_manuscript__41",
+      "label": "Göttweig, 149"
     },
     "next": {
       "id": "jad_manuscript__5",
