@@ -82,10 +82,11 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "2": {
     "id": 2,
@@ -138,10 +139,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 5,
-        "value": "MS 1423, 183v"
+        "ids": {
+          "database_table_3496": 5,
+          "database_table_3497": 4
+        },
+        "value": "Bibliothèque Sainte-Geneviève, MS 1423, f. 183v"
       }
     ],
     "occurrence_ms": [
@@ -157,7 +161,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 4,
+        "value": "St.Gen., MS 1423"
+      }
+    ]
   },
   "3": {
     "id": 3,
@@ -227,10 +237,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "4": {
     "id": 4,
@@ -288,10 +299,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "5": {
     "id": 5,
@@ -338,14 +350,20 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 6,
-        "value": "Latin 492, 2r"
+        "ids": {
+          "database_table_3496": 6,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 492, f. 2r"
       },
       {
-        "id": 7,
-        "value": "MS 177, 113r"
+        "ids": {
+          "database_table_3496": 7,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 177, f. 113r"
       }
     ],
     "occurrence_ms": [
@@ -370,7 +388,17 @@
         "value": false
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 492"
+      },
+      {
+        "id": 5,
+        "value": "Maz., MS 177"
+      }
+    ]
   },
   "6": {
     "id": 6,
@@ -423,10 +451,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 6,
-        "value": "Latin 492, 115r"
+        "ids": {
+          "database_table_3496": 6,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 492, f. 115r"
       }
     ],
     "occurrence_ms": [
@@ -442,7 +473,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 492"
+      }
+    ]
   },
   "7": {
     "id": 7,
@@ -489,10 +526,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 8,
-        "value": "MS 1422, 137v"
+        "ids": {
+          "database_table_3496": 8,
+          "database_table_3497": 4
+        },
+        "value": "Bibliothèque Sainte-Geneviève, MS 1422, f. 137v"
       }
     ],
     "occurrence_ms": [
@@ -508,7 +548,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 4,
+        "value": "St.Gen., MS 1422"
+      }
+    ]
   },
   "8": {
     "id": 8,
@@ -561,10 +607,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 9,
-        "value": "MS 144, 117r"
+        "ids": {
+          "database_table_3496": 9,
+          "database_table_3497": 6
+        },
+        "value": "Lambeth Palace Library, MS 144, f. 117r"
       }
     ],
     "occurrence_ms": [
@@ -580,7 +629,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 6,
+        "value": "Lam., MS 144"
+      }
+    ]
   },
   "9": {
     "id": 9,
@@ -627,10 +682,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 11,
-        "value": "Latin 3737, 152r"
+        "ids": {
+          "database_table_3496": 11,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 3737, f. 152r"
       }
     ],
     "occurrence_ms": [
@@ -646,7 +704,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3737"
+      }
+    ]
   },
   "10": {
     "id": 10,
@@ -705,10 +769,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 18,
-        "value": "Latin 3829, "
+        "ids": {
+          "database_table_3496": 18,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 3829, f. "
       }
     ],
     "occurrence_ms": [
@@ -724,7 +791,13 @@
         "value": false
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3829"
+      }
+    ]
   },
   "11": {
     "id": 11,
@@ -814,10 +887,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 21,
-        "value": "Latin 3281, 259v-260r"
+        "ids": {
+          "database_table_3496": 21,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 3281, f. 259v-260r"
       }
     ],
     "occurrence_ms": [
@@ -833,7 +909,13 @@
         "value": true
       }
     ],
-    "Incipit Text": "Hic agit de visu interiorum et exteriorum et de luctu interiorum et exteriorum [end title]. Cum appropinquasset Ihesus Ierusalem videns civitatem flevit super illiam dicens, quia si cognovisses et tu etc, lucas XIX in si (?), est visus interior et fletus interior, similiter est visus exterior et fletus exterior, visus interior est cognitio proprii status"
+    "Incipit Text": "Hic agit de visu interiorum et exteriorum et de luctu interiorum et exteriorum [end title]. Cum appropinquasset Ihesus Ierusalem videns civitatem flevit super illiam dicens, quia si cognovisses et tu etc, lucas XIX in si (?), est visus interior et fletus interior, similiter est visus exterior et fletus exterior, visus interior est cognitio proprii status",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3281"
+      }
+    ]
   },
   "12": {
     "id": 12,
@@ -908,10 +990,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 21,
-        "value": "Latin 3281, 14r"
+        "ids": {
+          "database_table_3496": 21,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 3281, f. 14r"
       }
     ],
     "occurrence_ms": [
@@ -927,7 +1012,13 @@
         "value": true
       }
     ],
-    "Incipit Text": "Dominica secunda de adventu domini [end title]. Erunt signa in sole et luna et stellis etc [Lk. 21,25], usque in celum et terram transiunt ver (?) anima mea non transient, inter xx c.i. similiter matheus xxiii, et matheus xiii, antequam exponamus evangelistas"
+    "Incipit Text": "Dominica secunda de adventu domini [end title]. Erunt signa in sole et luna et stellis etc [Lk. 21,25], usque in celum et terram transiunt ver (?) anima mea non transient, inter xx c.i. similiter matheus xxiii, et matheus xiii, antequam exponamus evangelistas",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3281"
+      }
+    ]
   },
   "13": {
     "id": 13,
@@ -992,14 +1083,20 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 25,
-        "value": "Latin 3301C, 102v"
+        "ids": {
+          "database_table_3496": 25,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 3301C, f. 102v"
       },
       {
-        "id": 31,
-        "value": "Latin 2950, 166v"
+        "ids": {
+          "database_table_3496": 31,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 2950, f. 166v"
       }
     ],
     "occurrence_ms": [
@@ -1024,7 +1121,17 @@
         "value": false
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3301C"
+      },
+      {
+        "id": 2,
+        "value": "BNF, Latin 2950"
+      }
+    ]
   },
   "14": {
     "id": 14,
@@ -1089,14 +1196,20 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 25,
-        "value": "Latin 3301C, 95r"
+        "ids": {
+          "database_table_3496": 25,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 3301C, f. 95r"
       },
       {
-        "id": 35,
-        "value": "MS 1001, 79v"
+        "ids": {
+          "database_table_3496": 35,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 1001, f. 79v"
       }
     ],
     "occurrence_ms": [
@@ -1121,7 +1234,17 @@
         "value": false
       }
     ],
-    "Incipit Text": "[space blank for title] Ierusalem edificatur ut civitas [Ps. 121,3], in sacra scriptura Ierusalem omonimum est ad tria, dicitur enim Ierusalem illa sanguinaria civitas [Mt. 23,37], de qua dictum est, non sinit perire prophetam extra Ierusalem, cui etiam dominus ait, Ierusalem que occidis prophetas"
+    "Incipit Text": "[space blank for title] Ierusalem edificatur ut civitas [Ps. 121,3], in sacra scriptura Ierusalem omonimum est ad tria, dicitur enim Ierusalem illa sanguinaria civitas [Mt. 23,37], de qua dictum est, non sinit perire prophetam extra Ierusalem, cui etiam dominus ait, Ierusalem que occidis prophetas",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3301C"
+      },
+      {
+        "id": 5,
+        "value": "Maz., MS 1001"
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -1190,10 +1313,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "16": {
     "id": 16,
@@ -1246,10 +1370,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 4,
-        "value": "Latin 8865, 86r"
+        "ids": {
+          "database_table_3496": 4,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 8865, f. 86r"
       }
     ],
     "occurrence_ms": [
@@ -1265,7 +1392,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 8865"
+      }
+    ]
   },
   "17": {
     "id": 17,
@@ -1367,14 +1500,20 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 13,
-        "value": "Arundel 322, "
+        "ids": {
+          "database_table_3496": 13,
+          "database_table_3497": 7
+        },
+        "value": "British Library, Arundel 322, f. "
       },
       {
-        "id": 14,
-        "value": "Royal 8 F XVII, "
+        "ids": {
+          "database_table_3496": 14,
+          "database_table_3497": 7
+        },
+        "value": "British Library, Royal 8 F XVII, f. "
       }
     ],
     "occurrence_ms": [
@@ -1399,7 +1538,17 @@
         "value": false
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "BL, Arundel 322"
+      },
+      {
+        "id": 7,
+        "value": "BL, Royal 8 F XVII"
+      }
+    ]
   },
   "18": {
     "id": 18,
@@ -1511,10 +1660,13 @@
         "order": "215.00000000000000000000"
       }
     ],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -1530,7 +1682,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "19": {
     "id": 19,
@@ -1632,10 +1790,13 @@
         "order": "219.00000000000000000000"
       }
     ],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -1651,7 +1812,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -1715,10 +1882,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "21": {
     "id": 21,
@@ -1771,10 +1939,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "22": {
     "id": 22,
@@ -1821,10 +1990,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "23": {
     "id": 23,
@@ -1877,10 +2047,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "24": {
     "id": 24,
@@ -1927,10 +2098,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "25": {
     "id": 25,
@@ -1994,10 +2166,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "26": {
     "id": 26,
@@ -2088,10 +2261,11 @@
         "order": "140.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "27": {
     "id": 27,
@@ -2155,10 +2329,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "28": {
     "id": 28,
@@ -2217,10 +2392,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "29": {
     "id": 29,
@@ -2295,10 +2471,11 @@
         "order": "140.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "30": {
     "id": 30,
@@ -2363,14 +2540,20 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 24,
-        "value": "MS 999, 38v"
+        "ids": {
+          "database_table_3496": 24,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 999, f. 38v"
       },
       {
-        "id": 30,
-        "value": "Latin 14937, 46v"
+        "ids": {
+          "database_table_3496": 30,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 14937, f. 46v"
       }
     ],
     "occurrence_ms": [
@@ -2395,7 +2578,17 @@
         "value": false
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 999"
+      },
+      {
+        "id": 2,
+        "value": "BNF, Latin 14937"
+      }
+    ]
   },
   "31": {
     "id": 31,
@@ -2454,10 +2647,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 24,
-        "value": "MS 999, 45v"
+        "ids": {
+          "database_table_3496": 24,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 999, f. 45v"
       }
     ],
     "occurrence_ms": [
@@ -2473,7 +2669,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 999"
+      }
+    ]
   },
   "32": {
     "id": 32,
@@ -2526,10 +2728,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 24,
-        "value": "MS 999, 47r"
+        "ids": {
+          "database_table_3496": 24,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 999, f. 47r"
       }
     ],
     "occurrence_ms": [
@@ -2545,7 +2750,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 999"
+      }
+    ]
   },
   "33": {
     "id": 33,
@@ -2604,10 +2815,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 24,
-        "value": "MS 999, 88v"
+        "ids": {
+          "database_table_3496": 24,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 999, f. 88v"
       }
     ],
     "occurrence_ms": [
@@ -2623,7 +2837,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 999"
+      }
+    ]
   },
   "34": {
     "id": 34,
@@ -2693,10 +2913,11 @@
         "order": "210.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "35": {
     "id": 35,
@@ -2754,10 +2975,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "36": {
     "id": 36,
@@ -2810,10 +3032,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "37": {
     "id": 37,
@@ -2871,10 +3094,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "38": {
     "id": 38,
@@ -2949,10 +3173,11 @@
         "order": "140.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "39": {
     "id": 39,
@@ -3027,10 +3252,11 @@
         "order": "140.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "40": {
     "id": 40,
@@ -3095,10 +3321,11 @@
         "order": "140.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "41": {
     "id": 41,
@@ -3168,10 +3395,11 @@
         "order": "140.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "42": {
     "id": 42,
@@ -3234,10 +3462,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "43": {
     "id": 43,
@@ -3284,10 +3513,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "44": {
     "id": 44,
@@ -3346,10 +3576,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "45": {
     "id": 45,
@@ -3428,10 +3659,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "46": {
     "id": 46,
@@ -3484,10 +3716,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "47": {
     "id": 47,
@@ -3545,10 +3778,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "48": {
     "id": 48,
@@ -3595,10 +3829,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "49": {
     "id": 49,
@@ -3645,10 +3880,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "50": {
     "id": 50,
@@ -3695,10 +3931,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "51": {
     "id": 51,
@@ -3745,10 +3982,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "52": {
     "id": 52,
@@ -3807,10 +4045,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 2,
-        "value": "Latin 14426, 62v"
+        "ids": {
+          "database_table_3496": 2,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 14426, f. 62v"
       }
     ],
     "occurrence_ms": [
@@ -3826,7 +4067,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 14426"
+      }
+    ]
   },
   "53": {
     "id": 53,
@@ -3900,10 +4147,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 16,
-        "value": "Cod. 1014, 168v"
+        "ids": {
+          "database_table_3496": 16,
+          "database_table_3497": 1
+        },
+        "value": "Österreichische Nationalbibliothek, Cod. 1014, f. 168v"
       }
     ],
     "occurrence_ms": [
@@ -3919,7 +4169,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. 1014"
+      }
+    ]
   },
   "54": {
     "id": 54,
@@ -3984,10 +4240,13 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 19,
-        "value": "Latin 3567, "
+        "ids": {
+          "database_table_3496": 19,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 3567, f. "
       }
     ],
     "occurrence_ms": [
@@ -4003,7 +4262,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3567"
+      }
+    ]
   },
   "55": {
     "id": 55,
@@ -4062,10 +4327,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "56": {
     "id": 56,
@@ -4124,10 +4390,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "57": {
     "id": 57,
@@ -4207,10 +4474,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "58": {
     "id": 58,
@@ -4269,10 +4537,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "59": {
     "id": 59,
@@ -4331,10 +4600,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "60": {
     "id": 60,
@@ -4420,10 +4690,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "61": {
     "id": 61,
@@ -4503,10 +4774,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "62": {
     "id": 62,
@@ -4559,10 +4831,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "63": {
     "id": 63,
@@ -4615,10 +4888,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "64": {
     "id": 64,
@@ -4671,10 +4945,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "65": {
     "id": 65,
@@ -4727,10 +5002,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "66": {
     "id": 66,
@@ -4777,10 +5053,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "67": {
     "id": 67,
@@ -4839,10 +5116,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -4858,7 +5138,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "68": {
     "id": 68,
@@ -4938,10 +5224,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -4957,7 +5246,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "69": {
     "id": 69,
@@ -5022,10 +5317,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -5041,7 +5339,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "70": {
     "id": 70,
@@ -5100,10 +5404,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -5119,7 +5426,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "71": {
     "id": 71,
@@ -5178,10 +5491,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -5197,7 +5513,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "72": {
     "id": 72,
@@ -5278,10 +5600,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -5297,7 +5622,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "73": {
     "id": 73,
@@ -5382,10 +5713,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -5401,7 +5735,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "74": {
     "id": 74,
@@ -5471,10 +5811,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -5490,7 +5833,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "75": {
     "id": 75,
@@ -5555,10 +5904,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -5574,7 +5926,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "76": {
     "id": 76,
@@ -5656,10 +6014,13 @@
         "order": "269.00000000000000000000"
       }
     ],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -5675,7 +6036,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "77": {
     "id": 77,
@@ -5740,10 +6107,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -5759,7 +6129,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "78": {
     "id": 78,
@@ -5817,10 +6193,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 7,
-        "value": "MS 177, 62v"
+        "ids": {
+          "database_table_3496": 7,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 177, f. 62v"
       }
     ],
     "occurrence_ms": [
@@ -5836,7 +6215,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 177"
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -5899,10 +6284,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "80": {
     "id": 80,
@@ -5965,10 +6351,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "81": {
     "id": 81,
@@ -6021,10 +6408,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "82": {
     "id": 82,
@@ -6087,10 +6475,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "83": {
     "id": 83,
@@ -6154,10 +6543,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "84": {
     "id": 84,
@@ -6210,10 +6600,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "85": {
     "id": 85,
@@ -6260,10 +6651,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "86": {
     "id": 86,
@@ -6310,10 +6702,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "87": {
     "id": 87,
@@ -6360,10 +6753,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "88": {
     "id": 88,
@@ -6426,10 +6820,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "89": {
     "id": 89,
@@ -6476,10 +6871,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 52r"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 52r"
       }
     ],
     "occurrence_ms": [
@@ -6495,7 +6893,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "90": {
     "id": 90,
@@ -6548,10 +6952,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 54r"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 54r"
       }
     ],
     "occurrence_ms": [
@@ -6567,7 +6974,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "91": {
     "id": 91,
@@ -6630,10 +7043,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 54v"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 54v"
       }
     ],
     "occurrence_ms": [
@@ -6649,7 +7065,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "92": {
     "id": 92,
@@ -6696,10 +7118,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 62v"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 62v"
       }
     ],
     "occurrence_ms": [
@@ -6715,7 +7140,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "93": {
     "id": 93,
@@ -6768,10 +7199,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 68v"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 68v"
       }
     ],
     "occurrence_ms": [
@@ -6787,7 +7221,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "94": {
     "id": 94,
@@ -6840,10 +7280,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 92v"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 92v"
       }
     ],
     "occurrence_ms": [
@@ -6859,7 +7302,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "95": {
     "id": 95,
@@ -6906,10 +7355,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 97r"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 97r"
       }
     ],
     "occurrence_ms": [
@@ -6925,7 +7377,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "96": {
     "id": 96,
@@ -6972,10 +7430,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 98r"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 98r"
       }
     ],
     "occurrence_ms": [
@@ -6991,7 +7452,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "97": {
     "id": 97,
@@ -7054,10 +7521,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 126v"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 126v"
       }
     ],
     "occurrence_ms": [
@@ -7073,7 +7543,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "98": {
     "id": 98,
@@ -7120,10 +7596,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 130r"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 130r"
       }
     ],
     "occurrence_ms": [
@@ -7139,7 +7618,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "99": {
     "id": 99,
@@ -7192,10 +7677,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 131r"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 131r"
       }
     ],
     "occurrence_ms": [
@@ -7211,7 +7699,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "100": {
     "id": 100,
@@ -7264,10 +7758,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 143v"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 143v"
       }
     ],
     "occurrence_ms": [
@@ -7283,7 +7780,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "101": {
     "id": 101,
@@ -7330,10 +7833,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 155r"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 155r"
       }
     ],
     "occurrence_ms": [
@@ -7349,7 +7855,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "102": {
     "id": 102,
@@ -7402,10 +7914,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 178r-v"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 178r-v"
       }
     ],
     "occurrence_ms": [
@@ -7421,7 +7936,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "103": {
     "id": 103,
@@ -7474,10 +7995,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 23,
-        "value": "MS 178, 179v"
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 178, f. 179v"
       }
     ],
     "occurrence_ms": [
@@ -7493,7 +8017,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 178"
+      }
+    ]
   },
   "104": {
     "id": 104,
@@ -7546,10 +8076,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "105": {
     "id": 105,
@@ -7613,10 +8144,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "106": {
     "id": 106,
@@ -7669,10 +8201,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "107": {
     "id": 107,
@@ -7731,10 +8264,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "108": {
     "id": 108,
@@ -7787,10 +8321,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "109": {
     "id": 109,
@@ -7864,10 +8399,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "110": {
     "id": 110,
@@ -7920,10 +8456,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "111": {
     "id": 111,
@@ -7981,10 +8518,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "112": {
     "id": 112,
@@ -8042,10 +8580,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "113": {
     "id": 113,
@@ -8098,10 +8637,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "114": {
     "id": 114,
@@ -8154,10 +8694,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "115": {
     "id": 115,
@@ -8210,10 +8751,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "116": {
     "id": 116,
@@ -8272,10 +8814,11 @@
         "order": "218.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "117": {
     "id": 117,
@@ -8328,10 +8871,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "118": {
     "id": 118,
@@ -8378,10 +8922,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "119": {
     "id": 119,
@@ -8428,10 +8973,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "120": {
     "id": 120,
@@ -8478,10 +9024,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "121": {
     "id": 121,
@@ -8539,10 +9086,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "122": {
     "id": 122,
@@ -8618,10 +9166,11 @@
         "order": "210.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "123": {
     "id": 123,
@@ -8680,10 +9229,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "124": {
     "id": 124,
@@ -8736,10 +9286,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "125": {
     "id": 125,
@@ -8786,10 +9337,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "126": {
     "id": 126,
@@ -8842,10 +9394,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "127": {
     "id": 127,
@@ -8903,10 +9456,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "128": {
     "id": 128,
@@ -8959,10 +9513,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "129": {
     "id": 129,
@@ -9009,10 +9564,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "130": {
     "id": 130,
@@ -9065,10 +9621,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "131": {
     "id": 131,
@@ -9127,10 +9684,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 3,
-        "value": "MS 11, "
+        "ids": {
+          "database_table_3496": 3,
+          "database_table_3497": 3
+        },
+        "value": "San Isidoro (Kloster), MS 11, f. "
       }
     ],
     "occurrence_ms": [
@@ -9146,7 +9706,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 3,
+        "value": "San Isidoro, MS 11"
+      }
+    ]
   },
   "132": {
     "id": 132,
@@ -9217,10 +9783,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "133": {
     "id": 133,
@@ -9273,10 +9840,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "134": {
     "id": 134,
@@ -9329,10 +9897,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "135": {
     "id": 135,
@@ -9385,10 +9954,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "136": {
     "id": 136,
@@ -9447,10 +10017,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "137": {
     "id": 137,
@@ -9503,10 +10074,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "138": {
     "id": 138,
@@ -9559,10 +10131,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "139": {
     "id": 139,
@@ -9609,10 +10182,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "140": {
     "id": 140,
@@ -9670,10 +10244,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "141": {
     "id": 141,
@@ -9720,10 +10295,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "142": {
     "id": 142,
@@ -9770,10 +10346,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "143": {
     "id": 143,
@@ -9826,10 +10403,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "144": {
     "id": 144,
@@ -9882,10 +10460,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "145": {
     "id": 145,
@@ -9932,10 +10511,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "147": {
     "id": 147,
@@ -9988,10 +10568,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "148": {
     "id": 148,
@@ -10055,10 +10636,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "149": {
     "id": 149,
@@ -10116,10 +10698,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "150": {
     "id": 150,
@@ -10189,10 +10772,11 @@
         "order": "210.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "151": {
     "id": 151,
@@ -10255,10 +10839,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "152": {
     "id": 152,
@@ -10316,10 +10901,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "153": {
     "id": 153,
@@ -10372,10 +10958,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "154": {
     "id": 154,
@@ -10428,10 +11015,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "155": {
     "id": 155,
@@ -10478,10 +11066,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "156": {
     "id": 156,
@@ -10534,10 +11123,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "157": {
     "id": 157,
@@ -10600,10 +11190,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "158": {
     "id": 158,
@@ -10656,10 +11247,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "159": {
     "id": 159,
@@ -10706,10 +11298,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "160": {
     "id": 160,
@@ -10773,10 +11366,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "161": {
     "id": 161,
@@ -10839,10 +11433,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "162": {
     "id": 162,
@@ -10895,10 +11490,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "163": {
     "id": 163,
@@ -10951,10 +11547,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "164": {
     "id": 164,
@@ -11012,10 +11609,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "165": {
     "id": 165,
@@ -11068,10 +11666,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "166": {
     "id": 166,
@@ -11135,10 +11734,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "167": {
     "id": 167,
@@ -11191,10 +11791,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "168": {
     "id": 168,
@@ -11247,10 +11848,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "169": {
     "id": 169,
@@ -11320,10 +11922,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "170": {
     "id": 170,
@@ -11387,10 +11990,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "171": {
     "id": 171,
@@ -11454,10 +12058,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "172": {
     "id": 172,
@@ -11520,10 +12125,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "173": {
     "id": 173,
@@ -11586,10 +12192,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "174": {
     "id": 174,
@@ -11642,10 +12249,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "175": {
     "id": 175,
@@ -11703,10 +12311,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "176": {
     "id": 176,
@@ -11753,10 +12362,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "177": {
     "id": 177,
@@ -11850,10 +12460,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "178": {
     "id": 178,
@@ -11906,10 +12517,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "179": {
     "id": 179,
@@ -11962,10 +12574,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "180": {
     "id": 180,
@@ -12018,10 +12631,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "181": {
     "id": 181,
@@ -12089,10 +12703,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "182": {
     "id": 182,
@@ -12139,10 +12754,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "183": {
     "id": 183,
@@ -12200,10 +12816,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "184": {
     "id": 184,
@@ -12277,10 +12894,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "185": {
     "id": 185,
@@ -12327,10 +12945,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "186": {
     "id": 186,
@@ -12389,10 +13008,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "187": {
     "id": 187,
@@ -12461,10 +13081,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "188": {
     "id": 188,
@@ -12534,10 +13155,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "189": {
     "id": 189,
@@ -12605,10 +13227,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "190": {
     "id": 190,
@@ -12666,10 +13289,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "191": {
     "id": 191,
@@ -12727,10 +13351,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "192": {
     "id": 192,
@@ -12793,10 +13418,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "193": {
     "id": 193,
@@ -12854,10 +13480,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "194": {
     "id": 194,
@@ -12910,10 +13537,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "195": {
     "id": 195,
@@ -12976,10 +13604,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "196": {
     "id": 196,
@@ -13042,10 +13671,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "197": {
     "id": 197,
@@ -13109,10 +13739,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "198": {
     "id": 198,
@@ -13180,10 +13811,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "199": {
     "id": 199,
@@ -13241,10 +13873,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "200": {
     "id": 200,
@@ -13297,10 +13930,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "201": {
     "id": 201,
@@ -13347,10 +13981,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "202": {
     "id": 202,
@@ -13419,10 +14054,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "203": {
     "id": 203,
@@ -13475,10 +14111,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "204": {
     "id": 204,
@@ -13542,10 +14179,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "205": {
     "id": 205,
@@ -13626,10 +14264,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "206": {
     "id": 206,
@@ -13692,10 +14331,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "207": {
     "id": 207,
@@ -13758,10 +14398,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "208": {
     "id": 208,
@@ -13808,10 +14449,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "209": {
     "id": 209,
@@ -13874,10 +14516,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "210": {
     "id": 210,
@@ -13952,10 +14595,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "211": {
     "id": 211,
@@ -14008,10 +14652,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "212": {
     "id": 212,
@@ -14064,10 +14709,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "213": {
     "id": 213,
@@ -14120,10 +14766,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "214": {
     "id": 214,
@@ -14170,10 +14817,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "215": {
     "id": 215,
@@ -14220,10 +14868,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "216": {
     "id": 216,
@@ -14270,10 +14919,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "217": {
     "id": 217,
@@ -14320,10 +14970,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "218": {
     "id": 218,
@@ -14386,10 +15037,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "219": {
     "id": 219,
@@ -14436,10 +15088,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "220": {
     "id": 220,
@@ -14492,10 +15145,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "221": {
     "id": 221,
@@ -14542,10 +15196,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "222": {
     "id": 222,
@@ -14598,10 +15253,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "223": {
     "id": 223,
@@ -14648,10 +15304,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "224": {
     "id": 224,
@@ -14731,10 +15388,11 @@
         "order": "140.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "225": {
     "id": 225,
@@ -14802,10 +15460,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "226": {
     "id": 226,
@@ -14875,10 +15534,11 @@
         "order": "215.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "227": {
     "id": 227,
@@ -14925,10 +15585,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "228": {
     "id": 228,
@@ -14981,10 +15642,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "229": {
     "id": 229,
@@ -15037,10 +15699,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "230": {
     "id": 230,
@@ -15093,10 +15756,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "231": {
     "id": 231,
@@ -15143,10 +15807,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "232": {
     "id": 232,
@@ -15210,10 +15875,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "233": {
     "id": 233,
@@ -15260,10 +15926,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "234": {
     "id": 234,
@@ -15327,10 +15994,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "235": {
     "id": 235,
@@ -15404,10 +16072,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "236": {
     "id": 236,
@@ -15460,10 +16129,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "237": {
     "id": 237,
@@ -15527,10 +16197,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "238": {
     "id": 238,
@@ -15588,10 +16259,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "239": {
     "id": 239,
@@ -15638,10 +16310,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "240": {
     "id": 240,
@@ -15699,10 +16372,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "241": {
     "id": 241,
@@ -15749,10 +16423,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "242": {
     "id": 242,
@@ -15810,10 +16485,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "243": {
     "id": 243,
@@ -15866,10 +16542,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "244": {
     "id": 244,
@@ -15937,10 +16614,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "245": {
     "id": 245,
@@ -16008,10 +16686,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "246": {
     "id": 246,
@@ -16069,10 +16748,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "247": {
     "id": 247,
@@ -16147,10 +16827,11 @@
         "order": "140.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "248": {
     "id": 248,
@@ -16197,10 +16878,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "249": {
     "id": 249,
@@ -16278,10 +16960,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "250": {
     "id": 250,
@@ -16334,10 +17017,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "251": {
     "id": 251,
@@ -16384,10 +17068,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "252": {
     "id": 252,
@@ -16445,10 +17130,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "253": {
     "id": 253,
@@ -16511,10 +17197,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "254": {
     "id": 254,
@@ -16572,10 +17259,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "255": {
     "id": 255,
@@ -16622,10 +17310,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "256": {
     "id": 256,
@@ -16678,10 +17367,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "257": {
     "id": 257,
@@ -16728,10 +17418,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "258": {
     "id": 258,
@@ -16812,10 +17503,11 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "259": {
     "id": 259,
@@ -16891,10 +17583,11 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "260": {
     "id": 260,
@@ -16970,10 +17663,11 @@
         "order": "255.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "261": {
     "id": 261,
@@ -17032,10 +17726,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "262": {
     "id": 262,
@@ -17088,10 +17783,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "263": {
     "id": 263,
@@ -17149,10 +17845,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "264": {
     "id": 264,
@@ -17205,10 +17902,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "265": {
     "id": 265,
@@ -17266,10 +17964,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "266": {
     "id": 266,
@@ -17327,10 +18026,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "267": {
     "id": 267,
@@ -17411,10 +18111,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "268": {
     "id": 268,
@@ -17473,10 +18174,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "269": {
     "id": 269,
@@ -17523,10 +18225,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "270": {
     "id": 270,
@@ -17579,10 +18282,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "271": {
     "id": 271,
@@ -17623,10 +18327,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "272": {
     "id": 272,
@@ -17679,10 +18384,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "273": {
     "id": 273,
@@ -17745,10 +18451,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "274": {
     "id": 274,
@@ -17801,10 +18508,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "275": {
     "id": 275,
@@ -17869,10 +18577,11 @@
         "order": "22.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "276": {
     "id": 276,
@@ -17930,10 +18639,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "277": {
     "id": 277,
@@ -17986,10 +18696,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "278": {
     "id": 278,
@@ -18042,10 +18753,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "279": {
     "id": 279,
@@ -18092,10 +18804,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "280": {
     "id": 280,
@@ -18148,10 +18861,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "281": {
     "id": 281,
@@ -18209,10 +18923,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "282": {
     "id": 282,
@@ -18275,10 +18990,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "283": {
     "id": 283,
@@ -18325,10 +19041,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "284": {
     "id": 284,
@@ -18392,10 +19109,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "285": {
     "id": 285,
@@ -18448,10 +19166,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "286": {
     "id": 286,
@@ -18509,10 +19228,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "287": {
     "id": 287,
@@ -18565,10 +19285,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 15,
-        "value": "Latin 620, 206r"
+        "ids": {
+          "database_table_3496": 15,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 620, f. 206r"
       }
     ],
     "occurrence_ms": [
@@ -18584,7 +19307,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 620"
+      }
+    ]
   },
   "288": {
     "id": 288,
@@ -18637,10 +19366,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 15,
-        "value": "Latin 620, 208r-v"
+        "ids": {
+          "database_table_3496": 15,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 620, f. 208r-v"
       }
     ],
     "occurrence_ms": [
@@ -18656,7 +19388,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 620"
+      }
+    ]
   },
   "289": {
     "id": 289,
@@ -18709,10 +19447,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 15,
-        "value": "Latin 620, 70v"
+        "ids": {
+          "database_table_3496": 15,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 620, f. 70v"
       }
     ],
     "occurrence_ms": [
@@ -18728,7 +19469,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 620"
+      }
+    ]
   },
   "290": {
     "id": 290,
@@ -18787,10 +19534,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 20,
-        "value": "Latin 3570, 121r"
+        "ids": {
+          "database_table_3496": 20,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 3570, f. 121r"
       }
     ],
     "occurrence_ms": [
@@ -18806,7 +19556,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3570"
+      }
+    ]
   },
   "291": {
     "id": 291,
@@ -18853,10 +19609,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 17,
-        "value": "MS 127, 96r-103r"
+        "ids": {
+          "database_table_3496": 17,
+          "database_table_3497": 8
+        },
+        "value": "St John's College (Cambridge), MS 127, f. 96r-103r"
       }
     ],
     "occurrence_ms": [
@@ -18872,7 +19631,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 8,
+        "value": "Cambr. St.John's Coll., MS 127"
+      }
+    ]
   },
   "292": {
     "id": 292,
@@ -18962,14 +19727,20 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 26,
-        "value": "Latin 3733, 95v"
+        "ids": {
+          "database_table_3496": 26,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 3733, f. 95v"
       },
       {
-        "id": 27,
-        "value": "MS 774, 180v"
+        "ids": {
+          "database_table_3496": 27,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 774, f. 180v"
       }
     ],
     "occurrence_ms": [
@@ -18994,7 +19765,17 @@
         "value": false
       }
     ],
-    "Incipit Text": "Super muros tuos Iherusalem constitui custodes etc [Is. 62,6], Ierusalem sancte ecclesie est figura, cum propter ipsius antiquam dignitatem vel nobilitatem, firmitatem, eminentiam, cum propter nominis ipsius civitatis multiplicem assignationem antiquam ipsius nobilitatem sublatam deplorat Ieremias in trenis dicens, quomodo sedet sola"
+    "Incipit Text": "Super muros tuos Iherusalem constitui custodes etc [Is. 62,6], Ierusalem sancte ecclesie est figura, cum propter ipsius antiquam dignitatem vel nobilitatem, firmitatem, eminentiam, cum propter nominis ipsius civitatis multiplicem assignationem antiquam ipsius nobilitatem sublatam deplorat Ieremias in trenis dicens, quomodo sedet sola",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3733"
+      },
+      {
+        "id": 5,
+        "value": "Maz., MS 774"
+      }
+    ]
   },
   "293": {
     "id": 293,
@@ -19047,10 +19828,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 28,
-        "value": "Ms 1026, 68r"
+        "ids": {
+          "database_table_3496": 28,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, Ms 1026, f. 68r"
       }
     ],
     "occurrence_ms": [
@@ -19066,7 +19850,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., Ms 1026"
+      }
+    ]
   },
   "294": {
     "id": 294,
@@ -19119,10 +19909,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 36,
-        "value": "MS 227, 27v"
+        "ids": {
+          "database_table_3496": 36,
+          "database_table_3497": 15
+        },
+        "value": "Bibliothèque municipale (Valenciennes), MS 227, f. 27v"
       }
     ],
     "occurrence_ms": [
@@ -19138,7 +19931,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 15,
+        "value": "Valenciennes, MS 227"
+      }
+    ]
   },
   "295": {
     "id": 295,
@@ -19185,10 +19984,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 7,
-        "value": "MS 177, 172r"
+        "ids": {
+          "database_table_3496": 7,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 177, f. 172r"
       }
     ],
     "occurrence_ms": [
@@ -19204,7 +20006,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 177"
+      }
+    ]
   },
   "296": {
     "id": 296,
@@ -19257,10 +20065,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 7,
-        "value": "MS 177, 188r"
+        "ids": {
+          "database_table_3496": 7,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 177, f. 188r"
       }
     ],
     "occurrence_ms": [
@@ -19276,7 +20087,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 177"
+      }
+    ]
   },
   "297": {
     "id": 297,
@@ -19323,10 +20140,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "298": {
     "id": 298,
@@ -19384,10 +20202,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "299": {
     "id": 299,
@@ -19440,10 +20259,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "300": {
     "id": 300,
@@ -19496,10 +20316,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "301": {
     "id": 301,
@@ -19546,10 +20367,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "302": {
     "id": 302,
@@ -19596,10 +20418,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "303": {
     "id": 303,
@@ -19652,10 +20475,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "304": {
     "id": 304,
@@ -19713,10 +20537,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "305": {
     "id": 305,
@@ -19769,10 +20594,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "306": {
     "id": 306,
@@ -19830,10 +20656,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "307": {
     "id": 307,
@@ -19909,10 +20736,11 @@
         "order": "301.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "308": {
     "id": 308,
@@ -19965,10 +20793,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "309": {
     "id": 309,
@@ -20044,10 +20873,11 @@
         "order": "300.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "310": {
     "id": 310,
@@ -20100,10 +20930,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "311": {
     "id": 311,
@@ -20172,10 +21003,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "312": {
     "id": 312,
@@ -20233,10 +21065,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "313": {
     "id": 313,
@@ -20283,10 +21116,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "314": {
     "id": 314,
@@ -20339,10 +21173,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "315": {
     "id": 315,
@@ -20405,10 +21240,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "316": {
     "id": 316,
@@ -20477,10 +21313,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "317": {
     "id": 317,
@@ -20538,10 +21375,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "318": {
     "id": 318,
@@ -20594,10 +21432,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "319": {
     "id": 319,
@@ -20655,10 +21494,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "320": {
     "id": 320,
@@ -20717,10 +21557,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "321": {
     "id": 321,
@@ -20784,10 +21625,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "322": {
     "id": 322,
@@ -20846,10 +21688,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "323": {
     "id": 323,
@@ -20902,10 +21745,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "324": {
     "id": 324,
@@ -20964,10 +21808,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "325": {
     "id": 325,
@@ -21025,10 +21870,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "326": {
     "id": 326,
@@ -21081,10 +21927,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "327": {
     "id": 327,
@@ -21131,10 +21978,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "328": {
     "id": 328,
@@ -21181,10 +22029,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "329": {
     "id": 329,
@@ -21231,10 +22080,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "330": {
     "id": 330,
@@ -21292,10 +22142,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "331": {
     "id": 331,
@@ -21348,10 +22199,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "332": {
     "id": 332,
@@ -21409,10 +22261,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "333": {
     "id": 333,
@@ -21465,10 +22318,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "334": {
     "id": 334,
@@ -21531,10 +22385,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "335": {
     "id": 335,
@@ -21581,10 +22436,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "336": {
     "id": 336,
@@ -21637,10 +22493,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "337": {
     "id": 337,
@@ -21699,10 +22556,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "338": {
     "id": 338,
@@ -21765,10 +22623,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "339": {
     "id": 339,
@@ -21821,10 +22680,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "340": {
     "id": 340,
@@ -21893,10 +22753,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "341": {
     "id": 341,
@@ -21949,10 +22810,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "342": {
     "id": 342,
@@ -22005,10 +22867,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "343": {
     "id": 343,
@@ -22061,10 +22924,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "344": {
     "id": 344,
@@ -22111,10 +22975,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "345": {
     "id": 345,
@@ -22161,10 +23026,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "346": {
     "id": 346,
@@ -22211,10 +23077,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "347": {
     "id": 347,
@@ -22272,10 +23139,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "348": {
     "id": 348,
@@ -22322,10 +23190,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "349": {
     "id": 349,
@@ -22372,10 +23241,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "350": {
     "id": 350,
@@ -22433,10 +23303,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "351": {
     "id": 351,
@@ -22483,10 +23354,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "352": {
     "id": 352,
@@ -22539,10 +23411,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "353": {
     "id": 353,
@@ -22589,10 +23462,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "354": {
     "id": 354,
@@ -22656,10 +23530,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "355": {
     "id": 355,
@@ -22717,10 +23592,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "356": {
     "id": 356,
@@ -22767,10 +23643,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "357": {
     "id": 357,
@@ -22817,10 +23694,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "358": {
     "id": 358,
@@ -22879,10 +23757,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "360": {
     "id": 360,
@@ -22935,10 +23814,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "361": {
     "id": 361,
@@ -22991,10 +23871,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "362": {
     "id": 362,
@@ -23059,10 +23940,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "363": {
     "id": 363,
@@ -23121,10 +24003,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "364": {
     "id": 364,
@@ -23183,10 +24066,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "365": {
     "id": 365,
@@ -23244,10 +24128,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "366": {
     "id": 366,
@@ -23294,10 +24179,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "367": {
     "id": 367,
@@ -23344,10 +24230,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "368": {
     "id": 368,
@@ -23400,10 +24287,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "369": {
     "id": 369,
@@ -23450,10 +24338,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "370": {
     "id": 370,
@@ -23500,10 +24389,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "371": {
     "id": 371,
@@ -23550,10 +24440,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "372": {
     "id": 372,
@@ -23600,10 +24491,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "373": {
     "id": 373,
@@ -23650,10 +24542,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "374": {
     "id": 374,
@@ -23700,10 +24593,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "375": {
     "id": 375,
@@ -23750,10 +24644,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "376": {
     "id": 376,
@@ -23812,10 +24707,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "377": {
     "id": 377,
@@ -23868,10 +24764,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "378": {
     "id": 378,
@@ -23918,10 +24815,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "379": {
     "id": 379,
@@ -23968,10 +24866,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "380": {
     "id": 380,
@@ -24018,10 +24917,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "381": {
     "id": 381,
@@ -24068,10 +24968,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "382": {
     "id": 382,
@@ -24118,10 +25019,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "383": {
     "id": 383,
@@ -24174,10 +25076,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "384": {
     "id": 384,
@@ -24224,10 +25127,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "385": {
     "id": 385,
@@ -24274,10 +25178,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "386": {
     "id": 386,
@@ -24324,10 +25229,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "387": {
     "id": 387,
@@ -24374,10 +25280,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "388": {
     "id": 388,
@@ -24424,10 +25331,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "389": {
     "id": 389,
@@ -24474,10 +25382,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "390": {
     "id": 390,
@@ -24524,10 +25433,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "391": {
     "id": 391,
@@ -24574,10 +25484,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "392": {
     "id": 392,
@@ -24624,10 +25535,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "393": {
     "id": 393,
@@ -24674,10 +25586,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "394": {
     "id": 394,
@@ -24724,10 +25637,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "395": {
     "id": 395,
@@ -24774,10 +25688,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "396": {
     "id": 396,
@@ -24824,10 +25739,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "397": {
     "id": 397,
@@ -24874,10 +25790,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "398": {
     "id": 398,
@@ -24930,10 +25847,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "399": {
     "id": 399,
@@ -24980,10 +25898,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "400": {
     "id": 400,
@@ -25030,10 +25949,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "401": {
     "id": 401,
@@ -25086,10 +26006,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "402": {
     "id": 402,
@@ -25136,10 +26057,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "403": {
     "id": 403,
@@ -25188,10 +26110,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "404": {
     "id": 404,
@@ -25234,10 +26157,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "405": {
     "id": 405,
@@ -25280,10 +26204,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "406": {
     "id": 406,
@@ -25326,10 +26251,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "407": {
     "id": 407,
@@ -25372,10 +26298,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "408": {
     "id": 408,
@@ -25418,10 +26345,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "409": {
     "id": 409,
@@ -25464,10 +26392,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "410": {
     "id": 410,
@@ -25510,10 +26439,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "411": {
     "id": 411,
@@ -25556,10 +26486,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "412": {
     "id": 412,
@@ -25602,10 +26533,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "413": {
     "id": 413,
@@ -25664,10 +26596,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "414": {
     "id": 414,
@@ -25710,10 +26643,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "415": {
     "id": 415,
@@ -25756,10 +26690,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "416": {
     "id": 416,
@@ -25802,10 +26737,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "417": {
     "id": 417,
@@ -25848,10 +26784,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "418": {
     "id": 418,
@@ -25894,10 +26831,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "419": {
     "id": 419,
@@ -25940,10 +26878,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "420": {
     "id": 420,
@@ -25986,10 +26925,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "421": {
     "id": 421,
@@ -26032,10 +26972,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "422": {
     "id": 422,
@@ -26078,10 +27019,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "423": {
     "id": 423,
@@ -26124,10 +27066,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "424": {
     "id": 424,
@@ -26170,10 +27113,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "425": {
     "id": 425,
@@ -26216,10 +27160,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "429": {
     "id": 429,
@@ -26262,10 +27207,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "430": {
     "id": 430,
@@ -26308,10 +27254,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "431": {
     "id": 431,
@@ -26354,10 +27301,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "432": {
     "id": 432,
@@ -26400,10 +27348,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "433": {
     "id": 433,
@@ -26446,10 +27395,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "434": {
     "id": 434,
@@ -26492,10 +27442,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "435": {
     "id": 435,
@@ -26538,10 +27489,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "436": {
     "id": 436,
@@ -26590,10 +27542,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "437": {
     "id": 437,
@@ -26636,10 +27589,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "438": {
     "id": 438,
@@ -26688,10 +27642,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "439": {
     "id": 439,
@@ -26746,10 +27701,11 @@
         "order": "434.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "440": {
     "id": 440,
@@ -26792,10 +27748,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "441": {
     "id": 441,
@@ -26838,10 +27795,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "442": {
     "id": 442,
@@ -26884,10 +27842,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "443": {
     "id": 443,
@@ -26930,10 +27889,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "444": {
     "id": 444,
@@ -26982,10 +27942,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "445": {
     "id": 445,
@@ -27028,10 +27989,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "446": {
     "id": 446,
@@ -27080,10 +28042,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "447": {
     "id": 447,
@@ -27126,10 +28089,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "448": {
     "id": 448,
@@ -27178,10 +28142,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "449": {
     "id": 449,
@@ -27224,10 +28189,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "450": {
     "id": 450,
@@ -27270,10 +28236,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "451": {
     "id": 451,
@@ -27322,10 +28289,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "452": {
     "id": 452,
@@ -27368,10 +28336,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "453": {
     "id": 453,
@@ -27420,10 +28389,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "454": {
     "id": 454,
@@ -27466,10 +28436,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "455": {
     "id": 455,
@@ -27518,10 +28489,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "456": {
     "id": 456,
@@ -27570,10 +28542,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "457": {
     "id": 457,
@@ -27616,10 +28589,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "458": {
     "id": 458,
@@ -27662,10 +28636,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "459": {
     "id": 459,
@@ -27708,10 +28683,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "460": {
     "id": 460,
@@ -27754,10 +28730,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "461": {
     "id": 461,
@@ -27806,10 +28783,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "462": {
     "id": 462,
@@ -27852,10 +28830,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "463": {
     "id": 463,
@@ -27898,10 +28877,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "464": {
     "id": 464,
@@ -27944,10 +28924,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "465": {
     "id": 465,
@@ -27990,10 +28971,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "466": {
     "id": 466,
@@ -28036,10 +29018,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "467": {
     "id": 467,
@@ -28082,10 +29065,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "468": {
     "id": 468,
@@ -28128,10 +29112,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "469": {
     "id": 469,
@@ -28174,10 +29159,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "470": {
     "id": 470,
@@ -28220,10 +29206,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "471": {
     "id": 471,
@@ -28266,10 +29253,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "472": {
     "id": 472,
@@ -28312,10 +29300,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "473": {
     "id": 473,
@@ -28358,10 +29347,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "474": {
     "id": 474,
@@ -28404,10 +29394,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "475": {
     "id": 475,
@@ -28450,10 +29441,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "476": {
     "id": 476,
@@ -28496,10 +29488,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "477": {
     "id": 477,
@@ -28542,10 +29535,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 17,
-        "value": "MS 127, 96-103"
+        "ids": {
+          "database_table_3496": 17,
+          "database_table_3497": 8
+        },
+        "value": "St John's College (Cambridge), MS 127, f. 96-103"
       }
     ],
     "occurrence_ms": [
@@ -28561,7 +29557,13 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 8,
+        "value": "Cambr. St.John's Coll., MS 127"
+      }
+    ]
   },
   "478": {
     "id": 478,
@@ -28604,10 +29606,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "479": {
     "id": 479,
@@ -28650,10 +29653,11 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [],
+    "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": []
   },
   "480": {
     "id": 480,
@@ -28696,10 +29700,13 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 41,
-        "value": "MS 149, "
+        "ids": {
+          "database_table_3496": 41,
+          "database_table_3497": 18
+        },
+        "value": "Stift Göttweig, MS 149, f. "
       }
     ],
     "occurrence_ms": [
@@ -28715,7 +29722,13 @@
         "value": false
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 18,
+        "value": "Göttweig, MS 149"
+      }
+    ]
   },
   "481": {
     "id": 481,
@@ -28758,34 +29771,55 @@
       }
     ],
     "source_passage": [],
-    "manuscripts": [
+    "mss_locus": [
       {
-        "id": 10,
-        "value": "Latin 446, 206r-209v"
+        "ids": {
+          "database_table_3496": 10,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 446, f. 206r-209v"
       },
       {
-        "id": 42,
-        "value": "Laud Misc. 88, 52v-58v"
+        "ids": {
+          "database_table_3496": 42,
+          "database_table_3497": 10
+        },
+        "value": "Bodleian Library, Laud Misc. 88, f. 52v-58v"
       },
       {
-        "id": 46,
-        "value": "MS 488, 164v-182v"
+        "ids": {
+          "database_table_3496": 46,
+          "database_table_3497": 21
+        },
+        "value": "Linz, Oberösterreichische Landesbibliothek, MS 488, f. 164v-182v"
       },
       {
-        "id": 47,
-        "value": "Jacobi 21, 189v-206v"
+        "ids": {
+          "database_table_3496": 47,
+          "database_table_3497": 22
+        },
+        "value": "Hamburg, Stadt- und Universitatsbibliothek, Jacobi 21, f. 189v-206v"
       },
       {
-        "id": 45,
-        "value": "MS XI 216, 157r-173r"
+        "ids": {
+          "database_table_3496": 45,
+          "database_table_3497": 20
+        },
+        "value": "Sankt-Florian, Stiftsbibliothek, MS XI 216, f. 157r-173r"
       },
       {
-        "id": 44,
-        "value": "Barth. 56, 128r-140v"
+        "ids": {
+          "database_table_3496": 44,
+          "database_table_3497": 19
+        },
+        "value": "Frankfurt, Universitatsbibliothek, Barth. 56, f. 128r-140v"
       },
       {
-        "id": 43,
-        "value": "MS 363, 202v-222r"
+        "ids": {
+          "database_table_3496": 43,
+          "database_table_3497": 1
+        },
+        "value": "Österreichische Nationalbibliothek, MS 363, f. 202v-222r"
       }
     ],
     "occurrence_ms": [
@@ -28855,6 +29889,36 @@
         "value": true
       }
     ],
-    "Incipit Text": null
+    "Incipit Text": null,
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 446"
+      },
+      {
+        "id": 10,
+        "value": "Bodl., Laud Misc. 88"
+      },
+      {
+        "id": 21,
+        "value": "Linz, MS 488"
+      },
+      {
+        "id": 22,
+        "value": "Hamburg, Jacobi 21"
+      },
+      {
+        "id": 20,
+        "value": "Sankt-Florian, MS XI 216"
+      },
+      {
+        "id": 19,
+        "value": "Frankfurt, Barth. 56"
+      },
+      {
+        "id": 1,
+        "value": "ÖNB, MS 363"
+      }
+    ]
   }
 }

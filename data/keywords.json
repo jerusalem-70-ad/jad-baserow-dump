@@ -228,14 +228,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 13,
-            "value": "Arundel 322, "
+            "ids": {
+              "database_table_3496": 13,
+              "database_table_3497": 7
+            },
+            "value": "British Library, Arundel 322, f. "
           },
           {
-            "id": 14,
-            "value": "Royal 8 F XVII, "
+            "ids": {
+              "database_table_3496": 14,
+              "database_table_3497": 7
+            },
+            "value": "British Library, Royal 8 F XVII, f. "
           }
         ],
         "occurrence_ms": [
@@ -259,6 +265,16 @@
           }
         ],
         "Incipit Text": null,
+        "manuscripts": [
+          {
+            "id": 7,
+            "value": "BL, Arundel 322"
+          },
+          {
+            "id": 7,
+            "value": "BL, Royal 8 F XVII"
+          }
+        ],
         "view_label": "Si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est.",
         "prev": {
           "id": "jad_occurence__169",
@@ -403,14 +419,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 24,
-            "value": "MS 999, 38v"
+            "ids": {
+              "database_table_3496": 24,
+              "database_table_3497": 5
+            },
+            "value": "Bibliothèque Mazarine, MS 999, f. 38v"
           },
           {
-            "id": 30,
-            "value": "Latin 14937, 46v"
+            "ids": {
+              "database_table_3496": 30,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 14937, f. 46v"
           }
         ],
         "occurrence_ms": [
@@ -434,6 +456,16 @@
           }
         ],
         "Incipit Text": null,
+        "manuscripts": [
+          {
+            "id": 5,
+            "value": "Maz., MS 999"
+          },
+          {
+            "id": 2,
+            "value": "BNF, Latin 14937"
+          }
+        ],
         "view_label": "hec destructio ab imperatoribus romanis a tyto et vaspasiano ob perfidiam Iudeorum",
         "prev": {
           "id": "jad_occurence__3",
@@ -553,10 +585,11 @@
             "value": "Romanos intelligamus, sub duce Vespasiano et Tito, qui occisis Judaeae populis, praevaricatricem succenderint civitatem"
           }
         ],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Romanos sub duce Vespasiano et Tito, qui occisis Judaeae populis praevaricatricem succenderent civitatem",
         "prev": {
           "id": "jad_occurence__121",
@@ -675,10 +708,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Tempestas fuit, dum a Romanis flagellaretur",
         "prev": {
           "id": "jad_occurence__156",
@@ -802,10 +836,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "traditi erant gentibus, id est, Romanis, ut ab eis delerentur atque exterminarentur",
         "prev": {
           "id": "jad_occurence__183",
@@ -935,10 +970,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "scribit Josephus septem voluminibus, Vespasiani et Titi denarrans triumphos",
         "prev": {
           "id": "jad_occurence__187",
@@ -1065,10 +1101,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "sanguine vindictam expetente, exierunt duo ursi, Titus et Vespasianus, principes gentium",
         "prev": {
           "id": "jad_occurence__224",
@@ -1260,14 +1297,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 26,
-            "value": "Latin 3733, 95v"
+            "ids": {
+              "database_table_3496": 26,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3733, f. 95v"
           },
           {
-            "id": 27,
-            "value": "MS 774, 180v"
+            "ids": {
+              "database_table_3496": 27,
+              "database_table_3497": 5
+            },
+            "value": "Bibliothèque Mazarine, MS 774, f. 180v"
           }
         ],
         "occurrence_ms": [
@@ -1291,6 +1334,16 @@
           }
         ],
         "Incipit Text": "Super muros tuos Iherusalem constitui custodes etc [Is. 62,6], Ierusalem sancte ecclesie est figura, cum propter ipsius antiquam dignitatem vel nobilitatem, firmitatem, eminentiam, cum propter nominis ipsius civitatis multiplicem assignationem antiquam ipsius nobilitatem sublatam deplorat Ieremias in trenis dicens, quomodo sedet sola",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3733"
+          },
+          {
+            "id": 5,
+            "value": "Maz., MS 774"
+          }
+        ],
         "view_label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus",
         "prev": {
           "id": "jad_occurence__291",
@@ -1507,14 +1560,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 13,
-            "value": "Arundel 322, "
+            "ids": {
+              "database_table_3496": 13,
+              "database_table_3497": 7
+            },
+            "value": "British Library, Arundel 322, f. "
           },
           {
-            "id": 14,
-            "value": "Royal 8 F XVII, "
+            "ids": {
+              "database_table_3496": 14,
+              "database_table_3497": 7
+            },
+            "value": "British Library, Royal 8 F XVII, f. "
           }
         ],
         "occurrence_ms": [
@@ -1538,6 +1597,16 @@
           }
         ],
         "Incipit Text": null,
+        "manuscripts": [
+          {
+            "id": 7,
+            "value": "BL, Arundel 322"
+          },
+          {
+            "id": 7,
+            "value": "BL, Royal 8 F XVII"
+          }
+        ],
         "view_label": "Si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est.",
         "prev": {
           "id": "jad_occurence__169",
@@ -1668,10 +1737,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "ultima eversione templi, quae sub Vespasiano et Tito accidit",
         "prev": {
           "id": "jad_occurence__399",
@@ -1838,10 +1908,13 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 21,
-            "value": "Latin 3281, 259v-260r"
+            "ids": {
+              "database_table_3496": 21,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3281, f. 259v-260r"
           }
         ],
         "occurrence_ms": [
@@ -1857,6 +1930,12 @@
           }
         ],
         "Incipit Text": "Hic agit de visu interiorum et exteriorum et de luctu interiorum et exteriorum [end title]. Cum appropinquasset Ihesus Ierusalem videns civitatem flevit super illiam dicens, quia si cognovisses et tu etc, lucas XIX in si (?), est visus interior et fletus interior, similiter est visus exterior et fletus exterior, visus interior est cognitio proprii status",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3281"
+          }
+        ],
         "view_label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
         "prev": {
           "id": "jad_occurence__109",
@@ -1994,10 +2073,13 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 21,
-            "value": "Latin 3281, 14r"
+            "ids": {
+              "database_table_3496": 21,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3281, f. 14r"
           }
         ],
         "occurrence_ms": [
@@ -2013,6 +2095,12 @@
           }
         ],
         "Incipit Text": "Dominica secunda de adventu domini [end title]. Erunt signa in sole et luna et stellis etc [Lk. 21,25], usque in celum et terram transiunt ver (?) anima mea non transient, inter xx c.i. similiter matheus xxiii, et matheus xiii, antequam exponamus evangelistas",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3281"
+          }
+        ],
         "view_label": "signa destructionis Ierusalem et templi cum dicit ibidem, cum videritis circumdari ab exercitu Ierusalem",
         "prev": {
           "id": "jad_occurence__119",
@@ -2152,10 +2240,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
         "prev": {
           "id": "jad_occurence__449",
@@ -2275,10 +2364,11 @@
             "value": "Romanos intelligamus, sub duce Vespasiano et Tito, qui occisis Judaeae populis, praevaricatricem succenderint civitatem"
           }
         ],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Romanos sub duce Vespasiano et Tito, qui occisis Judaeae populis praevaricatricem succenderent civitatem",
         "prev": {
           "id": "jad_occurence__121",
@@ -2397,10 +2487,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Tempestas fuit, dum a Romanis flagellaretur",
         "prev": {
           "id": "jad_occurence__156",
@@ -2518,10 +2609,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Haec enim sub Tito et Vespasiano completa sunt",
         "prev": {
           "id": "jad_occurence__17",
@@ -2659,10 +2751,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Vespasiano et Tito arma undique contrahentibus et Jerusalem exercitu suo circumdantibus",
         "prev": {
           "id": "jad_occurence__176",
@@ -2786,10 +2879,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "traditi erant gentibus, id est, Romanis, ut ab eis delerentur atque exterminarentur",
         "prev": {
           "id": "jad_occurence__183",
@@ -2916,10 +3010,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "sanguine vindictam expetente, exierunt duo ursi, Titus et Vespasianus, principes gentium",
         "prev": {
           "id": "jad_occurence__224",
@@ -3044,10 +3139,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "circa finale judicium, judico per Romanos acto praefiguratum",
         "prev": {
           "id": "jad_occurence__234",
@@ -3170,10 +3266,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Test",
         "prev": {
           "id": "jad_occurence__412",
@@ -3267,10 +3364,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "quando templum destructum est, secundo sub Tito et Vespasiano, cujus ruina usque in finem permanet",
         "prev": {
           "id": "jad_occurence__454",
@@ -3504,10 +3602,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Vespasianus cum Tito filio suo venit, qui penitus eam destruxit",
         "prev": {
           "id": "jad_occurence__149",
@@ -3706,14 +3805,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 13,
-            "value": "Arundel 322, "
+            "ids": {
+              "database_table_3496": 13,
+              "database_table_3497": 7
+            },
+            "value": "British Library, Arundel 322, f. "
           },
           {
-            "id": 14,
-            "value": "Royal 8 F XVII, "
+            "ids": {
+              "database_table_3496": 14,
+              "database_table_3497": 7
+            },
+            "value": "British Library, Royal 8 F XVII, f. "
           }
         ],
         "occurrence_ms": [
@@ -3737,6 +3842,16 @@
           }
         ],
         "Incipit Text": null,
+        "manuscripts": [
+          {
+            "id": 7,
+            "value": "BL, Arundel 322"
+          },
+          {
+            "id": 7,
+            "value": "BL, Royal 8 F XVII"
+          }
+        ],
         "view_label": "Si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est.",
         "prev": {
           "id": "jad_occurence__169",
@@ -3853,10 +3968,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "a principibus Romanorum, Vespasiano et Tito, funditus cum suis habitatoribus sic Jerusalem deleta est",
         "prev": {
           "id": "jad_occurence__439",
@@ -4020,10 +4136,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Vespasianus cum Tito filio suo venit, qui penitus eam destruxit",
         "prev": {
           "id": "jad_occurence__149",
@@ -4222,14 +4339,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 13,
-            "value": "Arundel 322, "
+            "ids": {
+              "database_table_3496": 13,
+              "database_table_3497": 7
+            },
+            "value": "British Library, Arundel 322, f. "
           },
           {
-            "id": 14,
-            "value": "Royal 8 F XVII, "
+            "ids": {
+              "database_table_3496": 14,
+              "database_table_3497": 7
+            },
+            "value": "British Library, Royal 8 F XVII, f. "
           }
         ],
         "occurrence_ms": [
@@ -4253,6 +4376,16 @@
           }
         ],
         "Incipit Text": null,
+        "manuscripts": [
+          {
+            "id": 7,
+            "value": "BL, Arundel 322"
+          },
+          {
+            "id": 7,
+            "value": "BL, Royal 8 F XVII"
+          }
+        ],
         "view_label": "Si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est.",
         "prev": {
           "id": "jad_occurence__169",
@@ -4426,14 +4559,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 26,
-            "value": "Latin 3733, 95v"
+            "ids": {
+              "database_table_3496": 26,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3733, f. 95v"
           },
           {
-            "id": 27,
-            "value": "MS 774, 180v"
+            "ids": {
+              "database_table_3496": 27,
+              "database_table_3497": 5
+            },
+            "value": "Bibliothèque Mazarine, MS 774, f. 180v"
           }
         ],
         "occurrence_ms": [
@@ -4457,6 +4596,16 @@
           }
         ],
         "Incipit Text": "Super muros tuos Iherusalem constitui custodes etc [Is. 62,6], Ierusalem sancte ecclesie est figura, cum propter ipsius antiquam dignitatem vel nobilitatem, firmitatem, eminentiam, cum propter nominis ipsius civitatis multiplicem assignationem antiquam ipsius nobilitatem sublatam deplorat Ieremias in trenis dicens, quomodo sedet sola",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3733"
+          },
+          {
+            "id": 5,
+            "value": "Maz., MS 774"
+          }
+        ],
         "view_label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus",
         "prev": {
           "id": "jad_occurence__291",
@@ -4641,10 +4790,13 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 21,
-            "value": "Latin 3281, 259v-260r"
+            "ids": {
+              "database_table_3496": 21,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3281, f. 259v-260r"
           }
         ],
         "occurrence_ms": [
@@ -4660,6 +4812,12 @@
           }
         ],
         "Incipit Text": "Hic agit de visu interiorum et exteriorum et de luctu interiorum et exteriorum [end title]. Cum appropinquasset Ihesus Ierusalem videns civitatem flevit super illiam dicens, quia si cognovisses et tu etc, lucas XIX in si (?), est visus interior et fletus interior, similiter est visus exterior et fletus exterior, visus interior est cognitio proprii status",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3281"
+          }
+        ],
         "view_label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
         "prev": {
           "id": "jad_occurence__109",
@@ -4790,14 +4948,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 25,
-            "value": "Latin 3301C, 95r"
+            "ids": {
+              "database_table_3496": 25,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3301C, f. 95r"
           },
           {
-            "id": 35,
-            "value": "MS 1001, 79v"
+            "ids": {
+              "database_table_3496": 35,
+              "database_table_3497": 5
+            },
+            "value": "Bibliothèque Mazarine, MS 1001, f. 79v"
           }
         ],
         "occurrence_ms": [
@@ -4821,6 +4985,16 @@
           }
         ],
         "Incipit Text": "[space blank for title] Ierusalem edificatur ut civitas [Ps. 121,3], in sacra scriptura Ierusalem omonimum est ad tria, dicitur enim Ierusalem illa sanguinaria civitas [Mt. 23,37], de qua dictum est, non sinit perire prophetam extra Ierusalem, cui etiam dominus ait, Ierusalem que occidis prophetas",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3301C"
+          },
+          {
+            "id": 5,
+            "value": "Maz., MS 1001"
+          }
+        ],
         "view_label": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam",
         "prev": {
           "id": "jad_occurence__139",
@@ -5019,14 +5193,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 13,
-            "value": "Arundel 322, "
+            "ids": {
+              "database_table_3496": 13,
+              "database_table_3497": 7
+            },
+            "value": "British Library, Arundel 322, f. "
           },
           {
-            "id": 14,
-            "value": "Royal 8 F XVII, "
+            "ids": {
+              "database_table_3496": 14,
+              "database_table_3497": 7
+            },
+            "value": "British Library, Royal 8 F XVII, f. "
           }
         ],
         "occurrence_ms": [
@@ -5050,6 +5230,16 @@
           }
         ],
         "Incipit Text": null,
+        "manuscripts": [
+          {
+            "id": 7,
+            "value": "BL, Arundel 322"
+          },
+          {
+            "id": 7,
+            "value": "BL, Royal 8 F XVII"
+          }
+        ],
         "view_label": "Si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est.",
         "prev": {
           "id": "jad_occurence__169",
@@ -5168,10 +5358,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Tempestas fuit, dum a Romanis flagellaretur",
         "prev": {
           "id": "jad_occurence__156",
@@ -5276,10 +5467,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Jerusalem a Romanis est destructa",
         "prev": {
           "id": "jad_occurence__163",
@@ -5384,10 +5576,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "ubi Jerusalem a Romanis est destructa",
         "prev": {
           "id": "jad_occurence__25",
@@ -5492,10 +5685,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "antequam veniat Nabuchodonosor, sive Titus Vespasiani filius, accitus a prophetis, ut eorum vaticinia compleantur",
         "prev": {
           "id": "jad_occurence__27",
@@ -5669,14 +5863,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 26,
-            "value": "Latin 3733, 95v"
+            "ids": {
+              "database_table_3496": 26,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3733, f. 95v"
           },
           {
-            "id": 27,
-            "value": "MS 774, 180v"
+            "ids": {
+              "database_table_3496": 27,
+              "database_table_3497": 5
+            },
+            "value": "Bibliothèque Mazarine, MS 774, f. 180v"
           }
         ],
         "occurrence_ms": [
@@ -5700,6 +5900,16 @@
           }
         ],
         "Incipit Text": "Super muros tuos Iherusalem constitui custodes etc [Is. 62,6], Ierusalem sancte ecclesie est figura, cum propter ipsius antiquam dignitatem vel nobilitatem, firmitatem, eminentiam, cum propter nominis ipsius civitatis multiplicem assignationem antiquam ipsius nobilitatem sublatam deplorat Ieremias in trenis dicens, quomodo sedet sola",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3733"
+          },
+          {
+            "id": 5,
+            "value": "Maz., MS 774"
+          }
+        ],
         "view_label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus",
         "prev": {
           "id": "jad_occurence__291",
@@ -5797,10 +6007,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "gens Judaea propter scelerum magnitudinem Romanis tributaria facta",
         "prev": {
           "id": "jad_occurence__304",
@@ -5913,10 +6124,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Romanis autem nondum venerant Judaei in captivitatem, licet jam et ipsa immineret ultrix commissi de Salvatore piaculi",
         "prev": {
           "id": "jad_occurence__305",
@@ -6048,10 +6260,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "propter interfectionem Christi, et discipulorum ejus Romanus eam destruxit exercitus",
         "prev": {
           "id": "jad_occurence__310",
@@ -6180,10 +6393,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "concremata est instantibus Romanis, quod excidium nimis horribile perspiciens",
         "prev": {
           "id": "jad_occurence__315",
@@ -6300,10 +6514,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "civitas Jerusalem tam a Babyloniis quam a Romanis conflagrata es",
         "prev": {
           "id": "jad_occurence__320",
@@ -6413,10 +6628,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "in manibus Romanorum plaga ejusdem Hierusalem desperata est",
         "prev": {
           "id": "jad_occurence__321",
@@ -6521,10 +6737,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Per primam de Aegypto redeunt, per secundam de Babylone veniunt, per tertiam Romanam cladem fugiunt",
         "prev": {
           "id": "jad_occurence__382",
@@ -6717,10 +6934,13 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 21,
-            "value": "Latin 3281, 259v-260r"
+            "ids": {
+              "database_table_3496": 21,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3281, f. 259v-260r"
           }
         ],
         "occurrence_ms": [
@@ -6736,6 +6956,12 @@
           }
         ],
         "Incipit Text": "Hic agit de visu interiorum et exteriorum et de luctu interiorum et exteriorum [end title]. Cum appropinquasset Ihesus Ierusalem videns civitatem flevit super illiam dicens, quia si cognovisses et tu etc, lucas XIX in si (?), est visus interior et fletus interior, similiter est visus exterior et fletus exterior, visus interior est cognitio proprii status",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3281"
+          }
+        ],
         "view_label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
         "prev": {
           "id": "jad_occurence__109",
@@ -6875,10 +7101,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
         "prev": {
           "id": "jad_occurence__449",
@@ -6984,10 +7211,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "destructio Hierosolymorum praedicitur, quia in hoc mense et prius a Nabuchodonosor et postmodum a Romanis in eodem mense facta legitur",
         "prev": {
           "id": "jad_occurence__164",
@@ -7109,10 +7337,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Venientibus Romanis et tollentibus ipsorum locum et gentem",
         "prev": {
           "id": "jad_occurence__236",
@@ -7235,10 +7464,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Test",
         "prev": {
           "id": "jad_occurence__412",
@@ -7395,10 +7625,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "praesente Vespasiano et Tito, alioque simul exercitu, curantem eos qui a daemonibus vexabantur",
         "prev": {
           "id": "jad_occurence__361",
@@ -7501,10 +7732,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Romanos intelligamus sub duce Vespasiano et Tito, qui occisis Iudeae populis peccatricem succenderunt urbem",
         "prev": {
           "id": "jad_occurence__362",
@@ -7607,10 +7839,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "de captiuitate Ierusalem uoluerimus accipere, quando a Tito et Vespasiano capta est",
         "prev": {
           "id": "jad_occurence__363",
@@ -7738,10 +7971,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "in captionem scilicet transmigrationis, quae sub Tito et Vespasiano facta est",
         "prev": {
           "id": "jad_occurence__16",
@@ -7848,10 +8082,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Romani in ultionem Domini Hierosolimam destruxerunt",
         "prev": {
           "id": "jad_occurence__165",
@@ -7992,10 +8227,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Titus Judaea capta et Jerosolymis subversis; secundum annum Vespasiani, quando urbis excidium factum est; novissimam Jerosolymorum eversionem; aedificatione templi sub Salomone usque ad novissimam ejus ruinam, quae sub Vespasiano facta est",
         "prev": {
           "id": "jad_occurence__299",
@@ -8116,10 +8352,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum",
         "prev": {
           "id": "jad_occurence__269",
@@ -8265,10 +8502,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "destructionem urbis Jerusalem factam per Romanos; supervenit Romanus exercitus",
         "prev": {
           "id": "jad_occurence__56",
@@ -8396,10 +8634,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Vespasianus et filius Titus hoc vindicaverunt; Vespasianus et Titus duces Romanorum, cum magno exercitu Judaeam intrans",
         "prev": {
           "id": "jad_occurence__6",
@@ -8539,10 +8778,13 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 3,
-            "value": "MS 11, "
+            "ids": {
+              "database_table_3496": 3,
+              "database_table_3497": 3
+            },
+            "value": "San Isidoro (Kloster), MS 11, f. "
           }
         ],
         "occurrence_ms": [
@@ -8558,6 +8800,12 @@
           }
         ],
         "Incipit Text": null,
+        "manuscripts": [
+          {
+            "id": 3,
+            "value": "San Isidoro, MS 11"
+          }
+        ],
         "view_label": "reliquias ejus dabo in gladio (Jer. XV), quod factum est per Vespasianum et Titum",
         "prev": {
           "id": "jad_occurence__71",
@@ -8670,10 +8918,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Colligitur autem omne tempus in secundum annum Vespasiani et subversionem Hierosolimorum novissimam",
         "prev": {
           "id": "jad_occurence__131",
@@ -8780,10 +9029,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "qui patrem et filium despexerant, a filio et patre, id est, Tito et Vespasiano delerentur",
         "prev": {
           "id": "jad_occurence__147",
@@ -8893,10 +9143,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "in captionem scilicet transmigrationis, quae sub Tito et Vespasiano facta est",
         "prev": {
           "id": "jad_occurence__16",
@@ -9019,10 +9270,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Per frameam Titum, et Vespasianum, et Romanum exercitum intelligimus, a quibus Judaeorum populus multis modis interemptus et perditus est",
         "prev": {
           "id": "jad_occurence__168",
@@ -9153,10 +9405,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "tricies centena millia Josephus dicit fuisse, scilicet justo judicio, tempore hoc ultionis electo, ut qui in diebus Paschae Salvatorem suum Dominum Jesum Christum, cruentis manibus, et sacrilegis vocibus violaverant, in ipsis diebus velut in unum carcerem omnis multitudo conclusa, feralis poenae exitium quod merebatur exciperet",
         "prev": {
           "id": "jad_occurence__204",
@@ -9282,10 +9535,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "De misera obsidione Hierusalem, facta a passione Christi anno quadragesimo primo sub Tito et Vespasiano imperatoribus",
         "prev": {
           "id": "jad_occurence__21",
@@ -9420,10 +9674,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "haec omnia fratres mei, quae Dominus praedixit, impleta sunt per Romanos principes, Titum et Vespasianum",
         "prev": {
           "id": "jad_occurence__266",
@@ -9533,10 +9788,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "venturis Romanis ad obsidendum Hierusalem",
         "prev": {
           "id": "jad_occurence__32",
@@ -9686,10 +9942,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "traditi erant gentibus, id est, Romanis, ut ab eis delerentur atque exterminarentur",
         "prev": {
           "id": "jad_occurence__183",
@@ -9838,10 +10095,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Titus Judaea capta et Jerosolymis subversis; secundum annum Vespasiani, quando urbis excidium factum est; novissimam Jerosolymorum eversionem; aedificatione templi sub Salomone usque ad novissimam ejus ruinam, quae sub Vespasiano facta est",
         "prev": {
           "id": "jad_occurence__299",
@@ -9954,10 +10212,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "ultima eversione templi, quae sub Vespasiano et Tito accidit",
         "prev": {
           "id": "jad_occurence__399",
@@ -10103,10 +10362,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Vespasianus cum Tito filio suo venit, qui penitus eam destruxit",
         "prev": {
           "id": "jad_occurence__149",
@@ -10236,10 +10496,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "scribit Josephus septem voluminibus, Vespasiani et Titi denarrans triumphos",
         "prev": {
           "id": "jad_occurence__187",
@@ -10413,14 +10674,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 26,
-            "value": "Latin 3733, 95v"
+            "ids": {
+              "database_table_3496": 26,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3733, f. 95v"
           },
           {
-            "id": 27,
-            "value": "MS 774, 180v"
+            "ids": {
+              "database_table_3496": 27,
+              "database_table_3497": 5
+            },
+            "value": "Bibliothèque Mazarine, MS 774, f. 180v"
           }
         ],
         "occurrence_ms": [
@@ -10444,6 +10711,16 @@
           }
         ],
         "Incipit Text": "Super muros tuos Iherusalem constitui custodes etc [Is. 62,6], Ierusalem sancte ecclesie est figura, cum propter ipsius antiquam dignitatem vel nobilitatem, firmitatem, eminentiam, cum propter nominis ipsius civitatis multiplicem assignationem antiquam ipsius nobilitatem sublatam deplorat Ieremias in trenis dicens, quomodo sedet sola",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3733"
+          },
+          {
+            "id": 5,
+            "value": "Maz., MS 774"
+          }
+        ],
         "view_label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus",
         "prev": {
           "id": "jad_occurence__291",
@@ -10556,10 +10833,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Romanis autem nondum venerant Judaei in captivitatem, licet jam et ipsa immineret ultrix commissi de Salvatore piaculi",
         "prev": {
           "id": "jad_occurence__305",
@@ -10691,10 +10969,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "propter interfectionem Christi, et discipulorum ejus Romanus eam destruxit exercitus",
         "prev": {
           "id": "jad_occurence__310",
@@ -10823,10 +11102,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "concremata est instantibus Romanis, quod excidium nimis horribile perspiciens",
         "prev": {
           "id": "jad_occurence__315",
@@ -11000,10 +11280,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "tricies centena millia Josephus dicit fuisse, scilicet justo judicio, tempore hoc ultionis electo, ut qui in diebus Paschae Salvatorem suum Dominum Jesum Christum, cruentis manibus, et sacrilegis vocibus violaverant, in ipsis diebus velut in unum carcerem omnis multitudo conclusa, feralis poenae exitium quod merebatur exciperet",
         "prev": {
           "id": "jad_occurence__204",
@@ -11129,10 +11410,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "De misera obsidione Hierusalem, facta a passione Christi anno quadragesimo primo sub Tito et Vespasiano imperatoribus",
         "prev": {
           "id": "jad_occurence__21",
@@ -11272,10 +11554,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Jerusalem a Romanis est destructa",
         "prev": {
           "id": "jad_occurence__163",
@@ -11389,10 +11672,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "duo principes Titus et Vespasianus de saltu imperii Romani venientes Christi derisores vastaverunt",
         "prev": {
           "id": "jad_occurence__231",
@@ -11497,10 +11781,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "legamus miserabile Hierosolymorum excidium, et inveniemus circumfuso Romano exercitu",
         "prev": {
           "id": "jad_occurence__341",
@@ -11643,10 +11928,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "circa finale judicium, judico per Romanos acto praefiguratum",
         "prev": {
           "id": "jad_occurence__234",
@@ -11744,10 +12030,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Judaei, contra Romanos rebellaverunt, adversum quos Vespasianus magister militiae transmissus",
         "prev": {
           "id": "jad_occurence__30",
@@ -11852,10 +12139,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Hierusalem destructa est a Romanis",
         "prev": {
           "id": "jad_occurence__313",
@@ -12019,10 +12307,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "destructionem urbis Jerusalem factam per Romanos; supervenit Romanus exercitus",
         "prev": {
           "id": "jad_occurence__56",
@@ -12150,10 +12439,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Vespasianus et filius Titus hoc vindicaverunt; Vespasianus et Titus duces Romanorum, cum magno exercitu Judaeam intrans",
         "prev": {
           "id": "jad_occurence__6",
@@ -12271,10 +12561,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "in angusto comprimat exercitus Titi et Vespasiani",
         "prev": {
           "id": "jad_occurence__186",
@@ -12392,10 +12683,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Hoc enim irrecuperabiliter sub Vespasiano et Tito factum est",
         "prev": {
           "id": "jad_occurence__201",
@@ -12527,10 +12819,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "propter interfectionem Christi, et discipulorum ejus Romanus eam destruxit exercitus",
         "prev": {
           "id": "jad_occurence__310",
@@ -12647,10 +12940,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "civitas Jerusalem tam a Babyloniis quam a Romanis conflagrata es",
         "prev": {
           "id": "jad_occurence__320",
@@ -12764,10 +13058,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "non gladiis Romanorum interficeremur, non captivi in omnes gentes duceremur, sed sicut super Sodomam et Gomorrham pluit sulphur et ignem Dominus a Domino , ita justissime super nos in vindictam sui sanguinis",
         "prev": {
           "id": "jad_occurence__353",
@@ -12976,14 +13271,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 26,
-            "value": "Latin 3733, 95v"
+            "ids": {
+              "database_table_3496": 26,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3733, f. 95v"
           },
           {
-            "id": 27,
-            "value": "MS 774, 180v"
+            "ids": {
+              "database_table_3496": 27,
+              "database_table_3497": 5
+            },
+            "value": "Bibliothèque Mazarine, MS 774, f. 180v"
           }
         ],
         "occurrence_ms": [
@@ -13007,6 +13308,16 @@
           }
         ],
         "Incipit Text": "Super muros tuos Iherusalem constitui custodes etc [Is. 62,6], Ierusalem sancte ecclesie est figura, cum propter ipsius antiquam dignitatem vel nobilitatem, firmitatem, eminentiam, cum propter nominis ipsius civitatis multiplicem assignationem antiquam ipsius nobilitatem sublatam deplorat Ieremias in trenis dicens, quomodo sedet sola",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3733"
+          },
+          {
+            "id": 5,
+            "value": "Maz., MS 774"
+          }
+        ],
         "view_label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus",
         "prev": {
           "id": "jad_occurence__291",
@@ -13114,10 +13425,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Hoc accidisse Judaeis post passionem Domini sub Vespasiano et Adriano",
         "prev": {
           "id": "jad_occurence__437",
@@ -13211,10 +13523,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Qui ad Vespasiani Adrianique haec referunt tempora, corporaliter dicunt impleta quae scripta sunt",
         "prev": {
           "id": "jad_occurence__443",
@@ -13308,10 +13621,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Hoc accidisse Judaeis post passionem Domini sub Vespasiano et Adriano",
         "prev": {
           "id": "jad_occurence__445",
@@ -13405,10 +13719,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "subversionem Jerusalem, et caeterarum urbium sub Vespasiano, et Adriano",
         "prev": {
           "id": "jad_occurence__447",
@@ -13502,10 +13817,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "post ultimam vastitatem, quae sub Vespasiano et Tito Adrianoque accidit",
         "prev": {
           "id": "jad_occurence__452",
@@ -13690,10 +14006,13 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 21,
-            "value": "Latin 3281, 259v-260r"
+            "ids": {
+              "database_table_3496": 21,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3281, f. 259v-260r"
           }
         ],
         "occurrence_ms": [
@@ -13709,6 +14028,12 @@
           }
         ],
         "Incipit Text": "Hic agit de visu interiorum et exteriorum et de luctu interiorum et exteriorum [end title]. Cum appropinquasset Ihesus Ierusalem videns civitatem flevit super illiam dicens, quia si cognovisses et tu etc, lucas XIX in si (?), est visus interior et fletus interior, similiter est visus exterior et fletus exterior, visus interior est cognitio proprii status",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3281"
+          }
+        ],
         "view_label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
         "prev": {
           "id": "jad_occurence__109",
@@ -13848,10 +14173,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
         "prev": {
           "id": "jad_occurence__449",
@@ -14025,14 +14351,20 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 26,
-            "value": "Latin 3733, 95v"
+            "ids": {
+              "database_table_3496": 26,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3733, f. 95v"
           },
           {
-            "id": 27,
-            "value": "MS 774, 180v"
+            "ids": {
+              "database_table_3496": 27,
+              "database_table_3497": 5
+            },
+            "value": "Bibliothèque Mazarine, MS 774, f. 180v"
           }
         ],
         "occurrence_ms": [
@@ -14056,6 +14388,16 @@
           }
         ],
         "Incipit Text": "Super muros tuos Iherusalem constitui custodes etc [Is. 62,6], Ierusalem sancte ecclesie est figura, cum propter ipsius antiquam dignitatem vel nobilitatem, firmitatem, eminentiam, cum propter nominis ipsius civitatis multiplicem assignationem antiquam ipsius nobilitatem sublatam deplorat Ieremias in trenis dicens, quomodo sedet sola",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3733"
+          },
+          {
+            "id": 5,
+            "value": "Maz., MS 774"
+          }
+        ],
         "view_label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus",
         "prev": {
           "id": "jad_occurence__291",
@@ -14178,10 +14520,11 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [],
+        "mss_locus": [],
         "occurrence_ms": [],
         "main_ms": [],
         "Incipit Text": null,
+        "manuscripts": [],
         "view_label": "Test",
         "prev": {
           "id": "jad_occurence__412",
@@ -14366,10 +14709,13 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 21,
-            "value": "Latin 3281, 259v-260r"
+            "ids": {
+              "database_table_3496": 21,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3281, f. 259v-260r"
           }
         ],
         "occurrence_ms": [
@@ -14385,6 +14731,12 @@
           }
         ],
         "Incipit Text": "Hic agit de visu interiorum et exteriorum et de luctu interiorum et exteriorum [end title]. Cum appropinquasset Ihesus Ierusalem videns civitatem flevit super illiam dicens, quia si cognovisses et tu etc, lucas XIX in si (?), est visus interior et fletus interior, similiter est visus exterior et fletus exterior, visus interior est cognitio proprii status",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3281"
+          }
+        ],
         "view_label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
         "prev": {
           "id": "jad_occurence__109",
@@ -14522,10 +14874,13 @@
           }
         ],
         "source_passage": [],
-        "manuscripts": [
+        "mss_locus": [
           {
-            "id": 21,
-            "value": "Latin 3281, 14r"
+            "ids": {
+              "database_table_3496": 21,
+              "database_table_3497": 2
+            },
+            "value": "Bibliothèque Nationale de France, Latin 3281, f. 14r"
           }
         ],
         "occurrence_ms": [
@@ -14541,6 +14896,12 @@
           }
         ],
         "Incipit Text": "Dominica secunda de adventu domini [end title]. Erunt signa in sole et luna et stellis etc [Lk. 21,25], usque in celum et terram transiunt ver (?) anima mea non transient, inter xx c.i. similiter matheus xxiii, et matheus xiii, antequam exponamus evangelistas",
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3281"
+          }
+        ],
         "view_label": "signa destructionis Ierusalem et templi cum dicit ibidem, cum videritis circumdari ab exercitu Ierusalem",
         "prev": {
           "id": "jad_occurence__119",

@@ -20,8 +20,92 @@
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "jad_id": "",
+    "jad_id": "jad_occurence__105.json",
+    "notes": "Is. 3,5 wurde nicht angegeben, obwohl ein wörtliches Zitat in der Passage steht",
+    "mistakes": [
+      {
+        "id": 18152,
+        "value": "reference missing",
+        "color": "darker-red"
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "jad_id": "jad_occurence__107.json",
+    "notes": "Angegeben ist Daniel 9:24-27 - es sind aber eigentlich nur Elements aus Daniel 9:24 in der Passage",
+    "mistakes": [
+      {
+        "id": 18153,
+        "value": "inaccurate",
+        "color": "dark-purple"
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "jad_id": "jad_occurence__108.json",
+    "notes": "Angegeben ist nur Ezekiel 4; es müsste Ezekiel 4,6 sein",
+    "mistakes": [
+      {
+        "id": 18153,
+        "value": "inaccurate",
+        "color": "dark-purple"
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "jad_id": "jad_occurence__109.json",
+    "notes": "Angegeben ist Ezekiel 15:6; es ist aber Ezekiel 5:4",
+    "mistakes": [
+      {
+        "id": 18144,
+        "value": "wrong ref",
+        "color": "dark-orange"
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "jad_id": "jad_occurence__112.json",
+    "notes": "Ezekiel 39:23 ist inkorrekt; wie schon angegeben, handelt es sich um Ez. 7,22",
+    "mistakes": [
+      {
+        "id": 18144,
+        "value": "wrong ref",
+        "color": "dark-orange"
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "jad_id": "jad_occurence__119.json",
+    "notes": "Die vorhandene Referenz ist korrekt, aber eine andere fehlt: Ps. 78,2",
+    "mistakes": [
+      {
+        "id": 18152,
+        "value": "reference missing",
+        "color": "darker-red"
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "jad_id": "jad_occurence__118.json",
     "notes": "",
-    "mistakes": []
+    "mistakes": [
+      {
+        "id": 18153,
+        "value": "inaccurate",
+        "color": "dark-purple"
+      }
+    ]
   }
 }
