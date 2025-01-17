@@ -662,6 +662,36 @@
         "id": 10,
         "value": "BNF, Latin 446",
         "order": "10.00000000000000000000"
+      },
+      {
+        "id": 42,
+        "value": "Bodl., Laud Misc. 88",
+        "order": "42.00000000000000000000"
+      },
+      {
+        "id": 43,
+        "value": "ÖNB, MS 363",
+        "order": "43.00000000000000000000"
+      },
+      {
+        "id": 44,
+        "value": "Frankfurt, Barth. 56",
+        "order": "44.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Sankt-Florian, MS XI 216",
+        "order": "45.00000000000000000000"
+      },
+      {
+        "id": 46,
+        "value": "Linz, MS 488",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 47,
+        "value": "Hamburg, Jacobi 21",
+        "order": "47.00000000000000000000"
       }
     ],
     "title": "De destructione templi",
@@ -673,7 +703,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "date_certainty": false,
     "date": [],
     "corpus_corporum": "",
@@ -8413,6 +8449,62 @@
         "id": 45,
         "value": "1260s",
         "order": "45.00000000000000000000"
+      }
+    ],
+    "corpus_corporum": "",
+    "author_certainty": true
+  },
+  "197": {
+    "id": 197,
+    "order": "195.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__197",
+    "author": [
+      {
+        "id": 77,
+        "value": "Roger of Salisbury",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 48,
+        "value": "Bodl., Hatton 37",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 49,
+        "value": "Trinity Coll., B.14.43",
+        "order": "49.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "Lam., MS 71",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
       }
     ],
     "corpus_corporum": "",

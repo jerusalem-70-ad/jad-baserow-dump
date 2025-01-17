@@ -71,6 +71,7 @@
             "value": "13th cen."
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 14426",
         "prev": {
           "id": "jad_manuscript__19",
@@ -126,14 +127,15 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "St.Gen., MS 1423",
         "prev": {
-          "id": "jad_manuscript__42",
-          "label": "NO MATCH FOR $..name[0].value"
+          "id": "jad_manuscript__49",
+          "label": "Trinity Coll., B.14.43"
         },
         "next": {
-          "id": "jad_manuscript__6",
-          "label": "BNF, Latin 492"
+          "id": "jad_manuscript__50",
+          "label": "Lam., MS 71"
         }
       },
       {
@@ -180,11 +182,17 @@
             ]
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": "31 x 21, 117 ff.",
         "view_label": "BNF, Latin 492",
         "prev": {
-          "id": "jad_manuscript__5",
-          "label": "St.Gen., MS 1423"
+          "id": "jad_manuscript__50",
+          "label": "Lam., MS 71"
         },
         "next": {
           "id": "jad_manuscript__7",
@@ -236,6 +244,7 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Maz., MS 177",
         "prev": {
           "id": "jad_manuscript__6",
@@ -296,6 +305,7 @@
             "value": "early 13th cen."
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "St.Gen., MS 2787",
         "prev": {
           "id": "jad_manuscript__11",
@@ -351,6 +361,7 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 620",
         "prev": {
           "id": "jad_manuscript__14",
@@ -359,6 +370,67 @@
         "next": {
           "id": "jad_manuscript__16",
           "label": "ÖNB, Cod. 1014"
+        }
+      },
+      {
+        "id": 21,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3281"
+          }
+        ],
+        "jad_id": "jad_manuscript__21",
+        "library": [
+          {
+            "id": 2,
+            "name": "Bibliothèque Nationale de France",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "abbreviation": "BNF",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "Latin 3281",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61156j",
+        "digi_url": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "date_written": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": "34 x 23, 347 ff.",
+        "view_label": "BNF, Latin 3281",
+        "prev": {
+          "id": "jad_manuscript__20",
+          "label": "BNF, Latin 3570"
+        },
+        "next": {
+          "id": "jad_manuscript__22",
+          "label": "Troyes, MS 653"
         }
       },
       {
@@ -406,6 +478,7 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Maz., MS 178",
         "prev": {
           "id": "jad_manuscript__22",
@@ -461,6 +534,7 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Maz., MS 999",
         "prev": {
           "id": "jad_manuscript__23",
@@ -515,7 +589,13 @@
             ]
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": "28 x 21, 121 ff.",
         "view_label": "BNF, Latin 3301C",
         "prev": {
           "id": "jad_manuscript__24",
@@ -571,6 +651,7 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 14937",
         "prev": {
           "id": "jad_manuscript__3",
@@ -626,6 +707,7 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 2950",
         "prev": {
           "id": "jad_manuscript__30",
@@ -656,8 +738,8 @@
       "label": "Friars"
     },
     "next": {
-      "id": "jad_institutional_context__3",
-      "label": "Benedictines"
+      "id": "jad_institutional_context__20",
+      "label": "Benedictines Mondsee"
     },
     "related__manuscripts": [
       {
@@ -710,6 +792,7 @@
             "value": "around 900"
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Maz., MS 698",
         "prev": {
           "id": "jad_manuscript__33",
@@ -729,8 +812,8 @@
     "part_of": [],
     "view_label": "Benedictines",
     "prev": {
-      "id": "jad_institutional_context__2",
-      "label": "Benedictines Auxerre"
+      "id": "jad_institutional_context__20",
+      "label": "Benedictines Mondsee"
     },
     "next": {
       "id": "jad_institutional_context__4",
@@ -832,6 +915,7 @@
             "value": "after 1187"
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Lam., MS 144",
         "prev": {
           "id": "jad_manuscript__8",
@@ -916,6 +1000,7 @@
             "value": "1197-1203"
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "San Isidoro, MS 11",
         "prev": {
           "id": "jad_manuscript__29",
@@ -958,7 +1043,62 @@
       "id": "jad_institutional_context__1",
       "label": "University of Paris"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 42,
+        "name": [
+          {
+            "id": 10,
+            "value": "Bodl., Laud Misc. 88"
+          }
+        ],
+        "jad_id": "jad_manuscript__42",
+        "library": [
+          {
+            "id": 10,
+            "name": "Bodleian Library",
+            "jad_id": "jad_library__10",
+            "gnd_url": "https://d-nb.info/gnd/38352-1",
+            "abbreviation": "Bodl.",
+            "place": [
+              {
+                "id": 6,
+                "name": "Oxford",
+                "geonames_url": "",
+                "jad_id": "jad_places__6"
+              }
+            ]
+          }
+        ],
+        "idno": "Laud Misc. 88",
+        "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7549",
+        "digi_url": "https://digital.bodleian.ox.ac.uk/objects/7340fd81-5245-4368-b859-e39a2715a73a/surfaces/f7e86b2b-e840-45a8-bfdf-1abc2bb05173/",
+        "institutional_context": [
+          {
+            "id": 9,
+            "name": "Cistercians",
+            "jad_id": "jad_institutional_context__9",
+            "part_of": []
+          }
+        ],
+        "date_written": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
+        "view_label": "Bodl., Laud Misc. 88",
+        "prev": {
+          "id": "jad_manuscript__41",
+          "label": "Göttweig, MS 149"
+        },
+        "next": {
+          "id": "jad_manuscript__43",
+          "label": "ÖNB, MS 363"
+        }
+      }
+    ]
   },
   "10": {
     "id": 10,
@@ -1081,6 +1221,7 @@
             "value": "13th cen."
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 3570",
         "prev": {
           "id": "jad_manuscript__2",
@@ -1225,5 +1366,90 @@
       "label": "Benedictines Auxerre"
     },
     "related__manuscripts": []
+  },
+  "20": {
+    "id": 20,
+    "name": "Benedictines Mondsee",
+    "jad_id": "jad_institutional_context__20",
+    "part_of": [
+      {
+        "id": 3,
+        "name": "Benedictines",
+        "jad_id": "jad_institutional_context__3",
+        "part_of": []
+      }
+    ],
+    "view_label": "Benedictines Mondsee",
+    "prev": {
+      "id": "jad_institutional_context__2",
+      "label": "Benedictines Auxerre"
+    },
+    "next": {
+      "id": "jad_institutional_context__3",
+      "label": "Benedictines"
+    },
+    "related__manuscripts": [
+      {
+        "id": 43,
+        "name": [
+          {
+            "id": 1,
+            "value": "ÖNB, MS 363"
+          }
+        ],
+        "jad_id": "jad_manuscript__43",
+        "library": [
+          {
+            "id": 1,
+            "name": "Österreichische Nationalbibliothek",
+            "jad_id": "jad_library__1",
+            "gnd_url": "https://d-nb.info/gnd/2020893-5",
+            "abbreviation": "ÖNB",
+            "place": [
+              {
+                "id": 4,
+                "name": "Vienna",
+                "geonames_url": "",
+                "jad_id": "jad_places__4"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 363",
+        "catalog_url": "https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma71305469120003338&context=L&vid=ONB&lang=de_DE&search_scope=ONB_gesamtbestand&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,cod%20363%20comestor&mode=basic",
+        "digi_url": "",
+        "institutional_context": [
+          {
+            "id": 20,
+            "name": "Benedictines Mondsee",
+            "jad_id": "jad_institutional_context__20",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "date_written": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
+        "view_label": "ÖNB, MS 363",
+        "prev": {
+          "id": "jad_manuscript__42",
+          "label": "Bodl., Laud Misc. 88"
+        },
+        "next": {
+          "id": "jad_manuscript__44",
+          "label": "Frankfurt, Barth. 56"
+        }
+      }
+    ]
   }
 }

@@ -424,7 +424,7 @@
     "occurrence": [
       {
         "id": 11,
-        "value": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum, quod ipsam non previdebat",
+        "value": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
         "order": "11.00000000000000000000"
       }
     ],
@@ -2559,7 +2559,7 @@
     "manuscript": [
       {
         "id": 41,
-        "value": "Göttweig, 149",
+        "value": "Göttweig, MS 149",
         "order": "41.00000000000000000000"
       }
     ],
@@ -2579,7 +2579,273 @@
     "ms_locus": [
       {
         "id": 41,
-        "value": "149, "
+        "value": "MS 149, "
+      }
+    ]
+  },
+  "69": {
+    "id": 69,
+    "order": "68.00000000000000000000",
+    "jad_id": "jad_occurence__69",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi",
+        "order": "470.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BNF, Latin 446",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "206r-209v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 10,
+        "value": "Latin 446, 206r-209v"
+      }
+    ]
+  },
+  "70": {
+    "id": 70,
+    "order": "69.00000000000000000000",
+    "jad_id": "jad_occurence__70",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi",
+        "order": "470.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 42,
+        "value": "Bodl., Laud Misc. 88",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "52v-58v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 42,
+        "value": "Laud Misc. 88, 52v-58v"
+      }
+    ]
+  },
+  "71": {
+    "id": 71,
+    "order": "70.00000000000000000000",
+    "jad_id": "jad_occurence__71",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi",
+        "order": "470.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 46,
+        "value": "Linz, MS 488",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "164v-182v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 46,
+        "value": "MS 488, 164v-182v"
+      }
+    ]
+  },
+  "72": {
+    "id": 72,
+    "order": "71.00000000000000000000",
+    "jad_id": "jad_occurence__72",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi",
+        "order": "470.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 47,
+        "value": "Hamburg, Jacobi 21",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "189v-206v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 47,
+        "value": "Jacobi 21, 189v-206v"
+      }
+    ]
+  },
+  "73": {
+    "id": 73,
+    "order": "72.00000000000000000000",
+    "jad_id": "jad_occurence__73",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi",
+        "order": "470.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 45,
+        "value": "Sankt-Florian, MS XI 216",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "157r-173r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 45,
+        "value": "MS XI 216, 157r-173r"
+      }
+    ]
+  },
+  "74": {
+    "id": 74,
+    "order": "73.00000000000000000000",
+    "jad_id": "jad_occurence__74",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi",
+        "order": "470.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 44,
+        "value": "Frankfurt, Barth. 56",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "128r-140v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 44,
+        "value": "Barth. 56, 128r-140v"
+      }
+    ]
+  },
+  "75": {
+    "id": 75,
+    "order": "74.00000000000000000000",
+    "jad_id": "jad_occurence__75",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi",
+        "order": "470.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 43,
+        "value": "ÖNB, MS 363",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "202v-222r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 43,
+        "value": "MS 363, 202v-222r"
       }
     ]
   }

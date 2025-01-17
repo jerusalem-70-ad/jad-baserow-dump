@@ -54,6 +54,7 @@
         "digi_url": "https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8518292&order=1&view=SINGLE",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "ÖNB, Cod. 1014",
         "prev": {
           "id": "jad_manuscript__15",
@@ -62,6 +63,67 @@
         "next": {
           "id": "jad_manuscript__17",
           "label": "Cambr. St.John's Coll., MS 127"
+        }
+      },
+      {
+        "id": 43,
+        "name": [
+          {
+            "id": 1,
+            "value": "ÖNB, MS 363"
+          }
+        ],
+        "jad_id": "jad_manuscript__43",
+        "library": [
+          {
+            "id": 1,
+            "name": "Österreichische Nationalbibliothek",
+            "jad_id": "jad_library__1",
+            "gnd_url": "https://d-nb.info/gnd/2020893-5",
+            "abbreviation": "ÖNB",
+            "place": [
+              {
+                "id": 4,
+                "name": "Vienna",
+                "geonames_url": "",
+                "jad_id": "jad_places__4"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 363",
+        "catalog_url": "https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma71305469120003338&context=L&vid=ONB&lang=de_DE&search_scope=ONB_gesamtbestand&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,cod%20363%20comestor&mode=basic",
+        "digi_url": "",
+        "institutional_context": [
+          {
+            "id": 20,
+            "name": "Benedictines Mondsee",
+            "jad_id": "jad_institutional_context__20",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "date_written": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
+        "view_label": "ÖNB, MS 363",
+        "prev": {
+          "id": "jad_manuscript__42",
+          "label": "Bodl., Laud Misc. 88"
+        },
+        "next": {
+          "id": "jad_manuscript__44",
+          "label": "Frankfurt, Barth. 56"
         }
       }
     ]
@@ -82,12 +144,12 @@
     ],
     "view_label": "Bibliothèque Nationale de France",
     "prev": {
-      "id": "jad_library__18",
-      "label": "Stift Göttweig"
+      "id": "jad_library__19",
+      "label": "Frankfurt, Universitatsbibliothek"
     },
     "next": {
-      "id": "jad_library__3",
-      "label": "San Isidoro (Kloster)"
+      "id": "jad_library__20",
+      "label": "Sankt-Florian, Stiftsbibliothek"
     },
     "related__manuscripts": [
       {
@@ -140,6 +202,7 @@
             "value": "13th cen."
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 14426",
         "prev": {
           "id": "jad_manuscript__19",
@@ -181,6 +244,7 @@
         "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b6000541b",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 8865",
         "prev": {
           "id": "jad_manuscript__39",
@@ -235,11 +299,17 @@
             ]
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": "31 x 21, 117 ff.",
         "view_label": "BNF, Latin 492",
         "prev": {
-          "id": "jad_manuscript__5",
-          "label": "St.Gen., MS 1423"
+          "id": "jad_manuscript__50",
+          "label": "Lam., MS 71"
         },
         "next": {
           "id": "jad_manuscript__7",
@@ -282,6 +352,7 @@
             "value": "around 1200"
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 446",
         "prev": {
           "id": "jad_manuscript__9",
@@ -328,6 +399,7 @@
             "value": "around 1300"
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 3737",
         "prev": {
           "id": "jad_manuscript__10",
@@ -383,6 +455,7 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 620",
         "prev": {
           "id": "jad_manuscript__14",
@@ -423,7 +496,13 @@
         "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61794x",
         "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b9068440b/f133.item",
         "institutional_context": [],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": "24 x 16, 189 ff.",
         "view_label": "BNF, Latin 3829",
         "prev": {
           "id": "jad_manuscript__17",
@@ -465,6 +544,7 @@
         "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b52521779w/f70.item",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 3567",
         "prev": {
           "id": "jad_manuscript__18",
@@ -530,6 +610,7 @@
             "value": "13th cen."
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 3570",
         "prev": {
           "id": "jad_manuscript__2",
@@ -569,8 +650,28 @@
         "idno": "Latin 3281",
         "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61156j",
         "digi_url": "",
-        "institutional_context": [],
-        "date_written": [],
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "date_written": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": "34 x 23, 347 ff.",
         "view_label": "BNF, Latin 3281",
         "prev": {
           "id": "jad_manuscript__20",
@@ -625,7 +726,13 @@
             ]
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": "28 x 21, 121 ff.",
         "view_label": "BNF, Latin 3301C",
         "prev": {
           "id": "jad_manuscript__24",
@@ -666,7 +773,13 @@
         "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61685s",
         "digi_url": "",
         "institutional_context": [],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": "16 x 11, 186 ff.",
         "view_label": "BNF, Latin 3733",
         "prev": {
           "id": "jad_manuscript__25",
@@ -713,6 +826,7 @@
             "value": "around 1300"
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 3728",
         "prev": {
           "id": "jad_manuscript__28",
@@ -768,6 +882,7 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 14937",
         "prev": {
           "id": "jad_manuscript__3",
@@ -823,6 +938,7 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BNF, Latin 2950",
         "prev": {
           "id": "jad_manuscript__30",
@@ -851,8 +967,8 @@
     ],
     "view_label": "San Isidoro (Kloster)",
     "prev": {
-      "id": "jad_library__2",
-      "label": "Bibliothèque Nationale de France"
+      "id": "jad_library__23",
+      "label": "Trinity College"
     },
     "next": {
       "id": "jad_library__4",
@@ -909,6 +1025,7 @@
             "value": "1197-1203"
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "San Isidoro, MS 11",
         "prev": {
           "id": "jad_manuscript__29",
@@ -990,14 +1107,15 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "St.Gen., MS 1423",
         "prev": {
-          "id": "jad_manuscript__42",
-          "label": "NO MATCH FOR $..name[0].value"
+          "id": "jad_manuscript__49",
+          "label": "Trinity Coll., B.14.43"
         },
         "next": {
-          "id": "jad_manuscript__6",
-          "label": "BNF, Latin 492"
+          "id": "jad_manuscript__50",
+          "label": "Lam., MS 71"
         }
       },
       {
@@ -1031,6 +1149,7 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "St.Gen., MS 1422",
         "prev": {
           "id": "jad_manuscript__7",
@@ -1091,6 +1210,7 @@
             "value": "early 13th cen."
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "St.Gen., MS 2787",
         "prev": {
           "id": "jad_manuscript__11",
@@ -1172,6 +1292,7 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Maz., MS 177",
         "prev": {
           "id": "jad_manuscript__6",
@@ -1227,6 +1348,7 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Maz., MS 178",
         "prev": {
           "id": "jad_manuscript__22",
@@ -1282,6 +1404,7 @@
           }
         ],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Maz., MS 999",
         "prev": {
           "id": "jad_manuscript__23",
@@ -1323,6 +1446,7 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Maz., MS 774",
         "prev": {
           "id": "jad_manuscript__26",
@@ -1364,6 +1488,7 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Maz., Ms 1026",
         "prev": {
           "id": "jad_manuscript__27",
@@ -1424,6 +1549,7 @@
             "value": "around 900"
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Maz., MS 698",
         "prev": {
           "id": "jad_manuscript__33",
@@ -1465,6 +1591,7 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Maz., MS 1001",
         "prev": {
           "id": "jad_manuscript__34",
@@ -1548,6 +1675,7 @@
             "value": "after 1187"
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Lam., MS 144",
         "prev": {
           "id": "jad_manuscript__8",
@@ -1556,6 +1684,53 @@
         "next": {
           "id": "jad_manuscript__10",
           "label": "BNF, Latin 446"
+        }
+      },
+      {
+        "id": 50,
+        "name": [
+          {
+            "id": 6,
+            "value": "Lam., MS 71"
+          }
+        ],
+        "jad_id": "jad_manuscript__50",
+        "library": [
+          {
+            "id": 6,
+            "name": "Lambeth Palace Library",
+            "jad_id": "jad_library__6",
+            "gnd_url": "https://d-nb.info/gnd/16441-0",
+            "abbreviation": "Lam.",
+            "place": [
+              {
+                "id": 5,
+                "name": "London",
+                "geonames_url": "",
+                "jad_id": "jad_places__5"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 71",
+        "catalog_url": "https://archives.lambethpalacelibrary.org.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=MSS%2f71&pos=1",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
+        "view_label": "Lam., MS 71",
+        "prev": {
+          "id": "jad_manuscript__5",
+          "label": "St.Gen., MS 1423"
+        },
+        "next": {
+          "id": "jad_manuscript__6",
+          "label": "BNF, Latin 492"
         }
       }
     ]
@@ -1615,6 +1790,7 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BL, Arundel 322",
         "prev": {
           "id": "jad_manuscript__12",
@@ -1656,6 +1832,7 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BL, Royal 8 F XVII",
         "prev": {
           "id": "jad_manuscript__13",
@@ -1728,6 +1905,7 @@
             "value": "14th cen."
           }
         ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Cambr. St.John's Coll., MS 127",
         "prev": {
           "id": "jad_manuscript__16",
@@ -1795,6 +1973,7 @@
         "digi_url": "https://arca.irht.cnrs.fr/ark:/63955/md82k643c86h",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Troyes, MS 653",
         "prev": {
           "id": "jad_manuscript__21",
@@ -1830,7 +2009,109 @@
       "id": "jad_library__11",
       "label": "Bibliothèque royale de Belgique"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 42,
+        "name": [
+          {
+            "id": 10,
+            "value": "Bodl., Laud Misc. 88"
+          }
+        ],
+        "jad_id": "jad_manuscript__42",
+        "library": [
+          {
+            "id": 10,
+            "name": "Bodleian Library",
+            "jad_id": "jad_library__10",
+            "gnd_url": "https://d-nb.info/gnd/38352-1",
+            "abbreviation": "Bodl.",
+            "place": [
+              {
+                "id": 6,
+                "name": "Oxford",
+                "geonames_url": "",
+                "jad_id": "jad_places__6"
+              }
+            ]
+          }
+        ],
+        "idno": "Laud Misc. 88",
+        "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7549",
+        "digi_url": "https://digital.bodleian.ox.ac.uk/objects/7340fd81-5245-4368-b859-e39a2715a73a/surfaces/f7e86b2b-e840-45a8-bfdf-1abc2bb05173/",
+        "institutional_context": [
+          {
+            "id": 9,
+            "name": "Cistercians",
+            "jad_id": "jad_institutional_context__9",
+            "part_of": []
+          }
+        ],
+        "date_written": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
+        "view_label": "Bodl., Laud Misc. 88",
+        "prev": {
+          "id": "jad_manuscript__41",
+          "label": "Göttweig, MS 149"
+        },
+        "next": {
+          "id": "jad_manuscript__43",
+          "label": "ÖNB, MS 363"
+        }
+      },
+      {
+        "id": 48,
+        "name": [
+          {
+            "id": 10,
+            "value": "Bodl., Hatton 37"
+          }
+        ],
+        "jad_id": "jad_manuscript__48",
+        "library": [
+          {
+            "id": 10,
+            "name": "Bodleian Library",
+            "jad_id": "jad_library__10",
+            "gnd_url": "https://d-nb.info/gnd/38352-1",
+            "abbreviation": "Bodl.",
+            "place": [
+              {
+                "id": 6,
+                "name": "Oxford",
+                "geonames_url": "",
+                "jad_id": "jad_places__6"
+              }
+            ]
+          }
+        ],
+        "idno": "Hatton 37",
+        "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6062",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
+        "view_label": "Bodl., Hatton 37",
+        "prev": {
+          "id": "jad_manuscript__47",
+          "label": "Hamburg, Jacobi 21"
+        },
+        "next": {
+          "id": "jad_manuscript__49",
+          "label": "Trinity Coll., B.14.43"
+        }
+      }
+    ]
   },
   "11": {
     "id": 11,
@@ -1912,6 +2193,7 @@
         "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00114266?page=,1",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "BSB, Clm 3721",
         "prev": {
           "id": "jad_manuscript__36",
@@ -1979,6 +2261,7 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Arsenal, MS 44",
         "prev": {
           "id": "jad_manuscript__31",
@@ -2020,6 +2303,7 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Arsenal, MS 400",
         "prev": {
           "id": "jad_manuscript__32",
@@ -2098,6 +2382,7 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Valenciennes, MS 227",
         "prev": {
           "id": "jad_manuscript__35",
@@ -2165,6 +2450,7 @@
         "digi_url": "https://handschriftenportal.de/search?q=settlement-search%3D%3D%27jena%27%3BFIELD-GROUP-ALL%3D%3D%2732%27&hl=true&isExtended=true",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Jena, UB, El. f. 32",
         "prev": {
           "id": "jad_manuscript__37",
@@ -2218,6 +2504,7 @@
         "digi_url": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1736437021266~348&pid=17109356&locale=de&usePid1=true&usePid2=true",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Erlangen, UB, 63/1",
         "prev": {
           "id": "jad_manuscript__38",
@@ -2252,6 +2539,7 @@
         "digi_url": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1736437030858~486&pid=17110225&locale=de&usePid1=true&usePid2=true",
         "institutional_context": [],
         "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
         "view_label": "Erlangen, UB, 63/2",
         "prev": {
           "id": "jad_manuscript__4",
@@ -2259,7 +2547,7 @@
         },
         "next": {
           "id": "jad_manuscript__41",
-          "label": "Göttweig, 149"
+          "label": "Göttweig, MS 149"
         }
       }
     ]
@@ -2277,8 +2565,8 @@
       "label": "Universitätsbibliothek Erlangen-Nürnberg"
     },
     "next": {
-      "id": "jad_library__2",
-      "label": "Bibliothèque Nationale de France"
+      "id": "jad_library__19",
+      "label": "Frankfurt, Universitatsbibliothek"
     },
     "related__manuscripts": [
       {
@@ -2286,7 +2574,7 @@
         "name": [
           {
             "id": 18,
-            "value": "Göttweig, 149"
+            "value": "Göttweig, MS 149"
           }
         ],
         "jad_id": "jad_manuscript__41",
@@ -2300,19 +2588,319 @@
             "place": []
           }
         ],
-        "idno": "149",
+        "idno": "MS 149",
         "catalog_url": "https://manuscripta.at/hs_detail.php?ID=36861",
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
-        "view_label": "Göttweig, 149",
+        "Format (Höhe x Breite / Anzahl folios)": null,
+        "view_label": "Göttweig, MS 149",
         "prev": {
           "id": "jad_manuscript__40",
           "label": "Erlangen, UB, 63/2"
         },
         "next": {
           "id": "jad_manuscript__42",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Bodl., Laud Misc. 88"
+        }
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "name": "Frankfurt, Universitatsbibliothek",
+    "jad_id": "jad_library__19",
+    "gnd_url": "",
+    "abbreviation": "Frankfurt",
+    "place": [],
+    "view_label": "Frankfurt, Universitatsbibliothek",
+    "prev": {
+      "id": "jad_library__18",
+      "label": "Stift Göttweig"
+    },
+    "next": {
+      "id": "jad_library__2",
+      "label": "Bibliothèque Nationale de France"
+    },
+    "related__manuscripts": [
+      {
+        "id": 44,
+        "name": [
+          {
+            "id": 19,
+            "value": "Frankfurt, Barth. 56"
+          }
+        ],
+        "jad_id": "jad_manuscript__44",
+        "library": [
+          {
+            "id": 19,
+            "name": "Frankfurt, Universitatsbibliothek",
+            "jad_id": "jad_library__19",
+            "gnd_url": "",
+            "abbreviation": "Frankfurt",
+            "place": []
+          }
+        ],
+        "idno": "Barth. 56",
+        "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-0f187f83-39a9-3335-9bd8-3632c2be9b08&q=frankfurt+56&hl=true",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
+        "view_label": "Frankfurt, Barth. 56",
+        "prev": {
+          "id": "jad_manuscript__43",
+          "label": "ÖNB, MS 363"
+        },
+        "next": {
+          "id": "jad_manuscript__45",
+          "label": "Sankt-Florian, MS XI 216"
+        }
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "name": "Sankt-Florian, Stiftsbibliothek",
+    "jad_id": "jad_library__20",
+    "gnd_url": "",
+    "abbreviation": "Sankt-Florian",
+    "place": [],
+    "view_label": "Sankt-Florian, Stiftsbibliothek",
+    "prev": {
+      "id": "jad_library__2",
+      "label": "Bibliothèque Nationale de France"
+    },
+    "next": {
+      "id": "jad_library__21",
+      "label": "Linz, Oberösterreichische Landesbibliothek"
+    },
+    "related__manuscripts": [
+      {
+        "id": 45,
+        "name": [
+          {
+            "id": 20,
+            "value": "Sankt-Florian, MS XI 216"
+          }
+        ],
+        "jad_id": "jad_manuscript__45",
+        "library": [
+          {
+            "id": 20,
+            "name": "Sankt-Florian, Stiftsbibliothek",
+            "jad_id": "jad_library__20",
+            "gnd_url": "",
+            "abbreviation": "Sankt-Florian",
+            "place": []
+          }
+        ],
+        "idno": "MS XI 216",
+        "catalog_url": "http://18.235.151.129/detail.php?msid=24431",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
+        "view_label": "Sankt-Florian, MS XI 216",
+        "prev": {
+          "id": "jad_manuscript__44",
+          "label": "Frankfurt, Barth. 56"
+        },
+        "next": {
+          "id": "jad_manuscript__46",
+          "label": "Linz, MS 488"
+        }
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "name": "Linz, Oberösterreichische Landesbibliothek",
+    "jad_id": "jad_library__21",
+    "gnd_url": "",
+    "abbreviation": "Linz",
+    "place": [],
+    "view_label": "Linz, Oberösterreichische Landesbibliothek",
+    "prev": {
+      "id": "jad_library__20",
+      "label": "Sankt-Florian, Stiftsbibliothek"
+    },
+    "next": {
+      "id": "jad_library__22",
+      "label": "Hamburg, Stadt- und Universitatsbibliothek"
+    },
+    "related__manuscripts": [
+      {
+        "id": 46,
+        "name": [
+          {
+            "id": 21,
+            "value": "Linz, MS 488"
+          }
+        ],
+        "jad_id": "jad_manuscript__46",
+        "library": [
+          {
+            "id": 21,
+            "name": "Linz, Oberösterreichische Landesbibliothek",
+            "jad_id": "jad_library__21",
+            "gnd_url": "",
+            "abbreviation": "Linz",
+            "place": []
+          }
+        ],
+        "idno": "MS 488",
+        "catalog_url": "https://manuscripta.at/hs_detail.php?ID=34019",
+        "digi_url": "https://digi.landesbibliothek.at/viewer/image/488/1/LOG_0001/",
+        "institutional_context": [],
+        "date_written": [],
+        "Format (Höhe x Breite / Anzahl folios)": null,
+        "view_label": "Linz, MS 488",
+        "prev": {
+          "id": "jad_manuscript__45",
+          "label": "Sankt-Florian, MS XI 216"
+        },
+        "next": {
+          "id": "jad_manuscript__47",
+          "label": "Hamburg, Jacobi 21"
+        }
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "name": "Hamburg, Stadt- und Universitatsbibliothek",
+    "jad_id": "jad_library__22",
+    "gnd_url": "",
+    "abbreviation": "Hamburg",
+    "place": [],
+    "view_label": "Hamburg, Stadt- und Universitatsbibliothek",
+    "prev": {
+      "id": "jad_library__21",
+      "label": "Linz, Oberösterreichische Landesbibliothek"
+    },
+    "next": {
+      "id": "jad_library__23",
+      "label": "Trinity College"
+    },
+    "related__manuscripts": [
+      {
+        "id": 47,
+        "name": [
+          {
+            "id": 22,
+            "value": "Hamburg, Jacobi 21"
+          }
+        ],
+        "jad_id": "jad_manuscript__47",
+        "library": [
+          {
+            "id": 22,
+            "name": "Hamburg, Stadt- und Universitatsbibliothek",
+            "jad_id": "jad_library__22",
+            "gnd_url": "",
+            "abbreviation": "Hamburg",
+            "place": []
+          }
+        ],
+        "idno": "Jacobi 21",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
+        "view_label": "Hamburg, Jacobi 21",
+        "prev": {
+          "id": "jad_manuscript__46",
+          "label": "Linz, MS 488"
+        },
+        "next": {
+          "id": "jad_manuscript__48",
+          "label": "Bodl., Hatton 37"
+        }
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "name": "Trinity College",
+    "jad_id": "jad_library__23",
+    "gnd_url": "",
+    "abbreviation": "Trinity Coll.",
+    "place": [
+      {
+        "id": 7,
+        "name": "Cambridge",
+        "geonames_url": "",
+        "jad_id": "jad_places__7"
+      }
+    ],
+    "view_label": "Trinity College",
+    "prev": {
+      "id": "jad_library__22",
+      "label": "Hamburg, Stadt- und Universitatsbibliothek"
+    },
+    "next": {
+      "id": "jad_library__3",
+      "label": "San Isidoro (Kloster)"
+    },
+    "related__manuscripts": [
+      {
+        "id": 49,
+        "name": [
+          {
+            "id": 23,
+            "value": "Trinity Coll., B.14.43"
+          }
+        ],
+        "jad_id": "jad_manuscript__49",
+        "library": [
+          {
+            "id": 23,
+            "name": "Trinity College",
+            "jad_id": "jad_library__23",
+            "gnd_url": "",
+            "abbreviation": "Trinity Coll.",
+            "place": [
+              {
+                "id": 7,
+                "name": "Cambridge",
+                "geonames_url": "",
+                "jad_id": "jad_places__7"
+              }
+            ]
+          }
+        ],
+        "idno": "B.14.43",
+        "catalog_url": "https://mss-cat.trin.cam.ac.uk/Manuscript/B.14.43",
+        "digi_url": "https://mss-cat.trin.cam.ac.uk/Manuscript/B.14.43/UV#?c=0&m=0&s=0&cv=19&r=0&xywh=-786%2C-160%2C4403%2C2416",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": null,
+        "view_label": "Trinity Coll., B.14.43",
+        "prev": {
+          "id": "jad_manuscript__48",
+          "label": "Bodl., Hatton 37"
+        },
+        "next": {
+          "id": "jad_manuscript__5",
+          "label": "St.Gen., MS 1423"
         }
       }
     ]

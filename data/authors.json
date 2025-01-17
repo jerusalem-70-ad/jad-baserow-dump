@@ -90,8 +90,8 @@
         "author_certainty": true,
         "view_label": "Sermones ",
         "prev": {
-          "id": "jad_work__196",
-          "label": "Legenda aurea "
+          "id": "jad_work__197",
+          "label": "Sermones "
         },
         "next": {
           "id": "jad_work__20",
@@ -428,6 +428,30 @@
           {
             "id": 10,
             "value": "BNF, Latin 446"
+          },
+          {
+            "id": 42,
+            "value": "Bodl., Laud Misc. 88"
+          },
+          {
+            "id": 43,
+            "value": "ÖNB, MS 363"
+          },
+          {
+            "id": 44,
+            "value": "Frankfurt, Barth. 56"
+          },
+          {
+            "id": 45,
+            "value": "Sankt-Florian, MS XI 216"
+          },
+          {
+            "id": 46,
+            "value": "Linz, MS 488"
+          },
+          {
+            "id": 47,
+            "value": "Hamburg, Jacobi 21"
           }
         ],
         "title": "De destructione templi",
@@ -439,7 +463,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": false,
         "date": [],
         "corpus_corporum": "",
@@ -2778,8 +2809,8 @@
     "notes": "",
     "view_label": "Hugh, of Saint-Cher",
     "prev": {
-      "id": "jad_author__76",
-      "label": "Jacques, de Voragine"
+      "id": "jad_author__78",
+      "label": "polygraphical"
     },
     "next": {
       "id": "jad_author__9",
@@ -12042,8 +12073,8 @@
       "label": "Alan, of Lille"
     },
     "next": {
-      "id": "jad_author__8",
-      "label": "Hugh, of Saint-Cher"
+      "id": "jad_author__77",
+      "label": "Roger of Salisbury"
     },
     "related__works": [
       {
@@ -12085,10 +12116,108 @@
           "label": "Contra haereticos "
         },
         "next": {
+          "id": "jad_work__197",
+          "label": "Sermones "
+        }
+      }
+    ]
+  },
+  "77": {
+    "id": 77,
+    "name": "Roger of Salisbury",
+    "jad_id": "jad_author__77",
+    "gnd_url": "https://d-nb.info/gnd/103083847",
+    "notes": "",
+    "view_label": "Roger of Salisbury",
+    "prev": {
+      "id": "jad_author__76",
+      "label": "Jacques, de Voragine"
+    },
+    "next": {
+      "id": "jad_author__78",
+      "label": "polygraphical"
+    },
+    "related__works": [
+      {
+        "id": 197,
+        "name": "Sermones ",
+        "jad_id": "jad_work__197",
+        "author": [
+          {
+            "id": 77,
+            "name": "Roger of Salisbury",
+            "jad_id": "jad_author__77",
+            "gnd_url": "https://d-nb.info/gnd/103083847",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 48,
+            "value": "Bodl., Hatton 37"
+          },
+          {
+            "id": 49,
+            "value": "Trinity Coll., B.14.43"
+          },
+          {
+            "id": 50,
+            "value": "Lam., MS 71"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__196",
+          "label": "Legenda aurea "
+        },
+        "next": {
           "id": "jad_work__2",
           "label": "Sermones "
         }
       }
     ]
+  },
+  "78": {
+    "id": 78,
+    "name": "polygraphical",
+    "jad_id": "jad_author__78",
+    "gnd_url": "",
+    "notes": "",
+    "view_label": "polygraphical",
+    "prev": {
+      "id": "jad_author__77",
+      "label": "Roger of Salisbury"
+    },
+    "next": {
+      "id": "jad_author__8",
+      "label": "Hugh, of Saint-Cher"
+    },
+    "related__works": []
   }
 }

@@ -71,8 +71,8 @@
     "jad_id": "jad_date__5",
     "view_label": "late 12th cen.",
     "prev": {
-      "id": "jad_date__45",
-      "label": "1260s"
+      "id": "jad_date__47",
+      "label": "13th cen., second half"
     },
     "next": {
       "id": "jad_date__6",
@@ -713,6 +713,38 @@
     "prev": {
       "id": "jad_date__44",
       "label": "8th cen., second half"
+    },
+    "next": {
+      "id": "jad_date__46",
+      "label": "13th cen., first half"
+    }
+  },
+  "46": {
+    "id": 46,
+    "name": "13th cen., first half",
+    "not_before": "1201",
+    "not_after": "1250",
+    "jad_id": "jad_date__46",
+    "view_label": "13th cen., first half",
+    "prev": {
+      "id": "jad_date__45",
+      "label": "1260s"
+    },
+    "next": {
+      "id": "jad_date__47",
+      "label": "13th cen., second half"
+    }
+  },
+  "47": {
+    "id": 47,
+    "name": "13th cen., second half",
+    "not_before": "1251",
+    "not_after": "1300",
+    "jad_id": "jad_date__47",
+    "view_label": "13th cen., second half",
+    "prev": {
+      "id": "jad_date__46",
+      "label": "13th cen., first half"
     },
     "next": {
       "id": "jad_date__5",

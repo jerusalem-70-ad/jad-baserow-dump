@@ -112,6 +112,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Jerosolymorum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est",
     "prev": {
       "id": "jad_occurence__99",
@@ -247,6 +248,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Ihesus Christus cum predixisset discipulis suis scicitantibus signa eversionis Ierusalem",
     "prev": {
       "id": "jad_occurence__199",
@@ -372,6 +374,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Titus Judaea capta et Jerosolymis subversis; secundum annum Vespasiani, quando urbis excidium factum est; novissimam Jerosolymorum eversionem; aedificatione templi sub Salomone usque ad novissimam ejus ruinam, quae sub Vespasiano facta est",
     "prev": {
       "id": "jad_occurence__299",
@@ -487,6 +490,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ultima eversione templi, quae sub Vespasiano et Tito accidit",
     "prev": {
       "id": "jad_occurence__399",
@@ -508,7 +512,7 @@
     },
     "position_in_work": "Prefatio",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "habent enim omnes prophete materiam intrinsecam et extrinsecam, similiter et intentionem, materia intrinseca et extrinseca quatuor prophetarum eleganter significatur in visione zacharie prophete qui vidit quattuor cornua, et dictum est ei, ista sunt cornua que ventilaverunt Iudam et Ierusalem, postmodum autem vidit quatuor fabros, et dictum est ei, isti missi sunt ut deiciant cornua que ventilaverunt Iudam, ad litteram istam iiii cornua sunt quatuor regna, scilicet assyriorum, babiloniorum, grecorum, et romanorum, qui destruxerunt Iudeos, quatuor vero fabri sunt quatuor prophete, qui horum regnorum destructionem predixerunt, sicut dictum est Ieremie, ecce constitui te super gentes et regna, ut evellas et destruas, et disperdas et dissipes, et edifices et plantes, spiritualiter autem iiii cornua iudeos ventilantia sunt iiii genera peccatorum",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
@@ -629,6 +633,7 @@
         "value": false
       }
     ],
+    "Incipit Text": null,
     "view_label": "quatuor regna, scilicet assyriorum, babiloniorum, grecorum, et romanorum, qui destruxerunt Iudeos",
     "prev": {
       "id": "jad_occurence__49",
@@ -648,12 +653,17 @@
       "value": "Latin",
       "color": "dark-yellow"
     },
-    "position_in_work": "",
+    "position_in_work": "Is. 66",
     "position_in_work_url": "",
     "text_paragraph": "",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 16,
+        "value": "Is. 66,6"
+      }
+    ],
     "work": [
       {
         "id": 11,
@@ -759,6 +769,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "romanis obsidentibus civitatem",
     "prev": {
       "id": "jad_occurence__59",
@@ -885,6 +896,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "predixit David destructionem urbis Ierusalem factam per romanos",
     "prev": {
       "id": "jad_occurence__69",
@@ -1009,6 +1021,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Titus et Vespasianus",
     "prev": {
       "id": "jad_occurence__79",
@@ -1121,6 +1134,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Legitur in istoria romana quod tyrus et vespasianus post xl annum post passione domini tempore pascali",
     "prev": {
       "id": "jad_occurence__89",
@@ -1203,7 +1217,12 @@
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
-    "liturgical_references": [],
+    "liturgical_references": [
+      {
+        "id": 19,
+        "value": "Secundum Lucam"
+      }
+    ],
     "occurrence_found_in": [
       {
         "id": 9,
@@ -1238,6 +1257,7 @@
         "value": false
       }
     ],
+    "Incipit Text": null,
     "view_label": "Impleta prophetia, quam olim Moyses predixerat, foris vastabit eos gladiis, dicit Iosephus, qui de eius exilio civitatis multa describsit",
     "prev": {
       "id": "jad_occurence__1",
@@ -1250,7 +1270,7 @@
   },
   "11": {
     "id": 11,
-    "passage": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum, quod ipsam non previdebat",
+    "passage": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
     "jad_id": "jad_occurence__11",
     "language": {
       "id": 14729,
@@ -1259,10 +1279,19 @@
     },
     "position_in_work": "",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "unde cum suscitatus est et prolongatus et incolatus presentis miserie et facta est dilatio vite eterne, et nunc quidem in hac die tua que ad pacem tibi sunt, nunc autem abscondita sunt ab te etc, ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum, quod ipsam non previdebat, hoc autem dicitur in figura anime que cum sit plerumque in bono statu non previdet casum suum qualiter in peccato captivanda est",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 1,
+        "value": "Lk. 19,41"
+      },
+      {
+        "id": 2,
+        "value": "Lk. 19,42"
+      }
+    ],
     "work": [
       {
         "id": 18,
@@ -1326,10 +1355,59 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 6,
+        "name": "Apocalypticism",
+        "short_description": "The occurrence is entangled with eschatological or apocalyptic ideas. This often means that the conquest provides a resource for imagining and conceiving of the End of Times.",
+        "jad_id": "jad_keyword__6",
+        "part_of": []
+      },
+      {
+        "id": 11,
+        "name": "Babylonian conquest of Jerusalem",
+        "short_description": "",
+        "jad_id": "jad_keyword__11",
+        "part_of": []
+      },
+      {
+        "id": 12,
+        "name": "Christ cleansing Temple",
+        "short_description": "",
+        "jad_id": "jad_keyword__12",
+        "part_of": [
+          {
+            "id": 23,
+            "name": "Temple",
+            "short_description": "The Temple is mentioned at the occurrence (there are many others where the Temple is not present, but often it is just \"Jerusalem\").",
+            "jad_id": "jad_keyword__23",
+            "part_of": []
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Spiritual exegesis",
+        "short_description": "",
+        "jad_id": "jad_keyword__27",
+        "part_of": []
+      },
+      {
+        "id": 28,
+        "name": "Warfare / Militant imagery",
+        "short_description": "",
+        "jad_id": "jad_keyword__28",
+        "part_of": []
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
-    "liturgical_references": [],
+    "liturgical_references": [
+      {
+        "id": 25,
+        "value": "Non-liturgical title"
+      }
+    ],
     "occurrence_found_in": [
       {
         "id": 9,
@@ -1364,7 +1442,8 @@
         "value": true
       }
     ],
-    "view_label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum, quod ipsam non previdebat",
+    "Incipit Text": "Hic agit de visu interiorum et exteriorum et de luctu interiorum et exteriorum [end title]. Cum appropinquasset Ihesus Ierusalem videns civitatem flevit super illiam dicens, quia si cognovisses et tu etc, lucas XIX in si (?), est visus interior et fletus interior, similiter est visus exterior et fletus exterior, visus interior est cognitio proprii status",
+    "view_label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
     "prev": {
       "id": "jad_occurence__109",
       "label": "sub Tito et Vespasiano urbs capta"
@@ -1385,10 +1464,19 @@
     },
     "position_in_work": "",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "erunt igitur signa in sole et luna et stellis etc, dominus interrogatus est de destructione templi quam supra predixerat in eodem reddit, non solum de destructione templi sed de fine mundi et de secundo adventu, primo autem ponit signa destructionis Ierusalem et templi cum dicit ibidem, cum videritis circumdari ab exercitu Ierusalem, tunc scitote quia appropinquat desolatio eius, deinde ponit signa secundi adventus et destructionis mundi ibi erunt signa etc",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 34,
+        "value": "Lk. 21,20"
+      },
+      {
+        "id": 226,
+        "value": "Lk. 21,25"
+      }
+    ],
     "work": [
       {
         "id": 18,
@@ -1452,10 +1540,30 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 6,
+        "name": "Apocalypticism",
+        "short_description": "The occurrence is entangled with eschatological or apocalyptic ideas. This often means that the conquest provides a resource for imagining and conceiving of the End of Times.",
+        "jad_id": "jad_keyword__6",
+        "part_of": []
+      },
+      {
+        "id": 28,
+        "name": "Warfare / Militant imagery",
+        "short_description": "",
+        "jad_id": "jad_keyword__28",
+        "part_of": []
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
-    "liturgical_references": [],
+    "liturgical_references": [
+      {
+        "id": 26,
+        "value": "II Sunday Advent"
+      }
+    ],
     "occurrence_found_in": [
       {
         "id": 9,
@@ -1490,6 +1598,7 @@
         "value": true
       }
     ],
+    "Incipit Text": "Dominica secunda de adventu domini [end title]. Erunt signa in sole et luna et stellis etc [Lk. 21,25], usque in celum et terram transiunt ver (?) anima mea non transient, inter xx c.i. similiter matheus xxiii, et matheus xiii, antequam exponamus evangelistas",
     "view_label": "signa destructionis Ierusalem et templi cum dicit ibidem, cum videritis circumdari ab exercitu Ierusalem",
     "prev": {
       "id": "jad_occurence__119",
@@ -1647,6 +1756,7 @@
         "value": false
       }
     ],
+    "Incipit Text": null,
     "view_label": "Zacharias inter ipsa quasi renascentis templi cunabilia futurum ipsius excidium per Romanos predixit",
     "prev": {
       "id": "jad_occurence__129",
@@ -1668,7 +1778,7 @@
     },
     "position_in_work": "",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "possumus aliter hanc edificationem assignare, ne angelorum immemores esse videamur, in sacra scriptura sepe numero hoc non prolatum simpliciter, terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam, et in michea dominus clamat, ad civitatem Ierusalem ergo celestis edificatur, sicut Ierusalem reedificata fuit, post babilonicam enim destructionem sub Ihesu magno sacerdote, zorobabel duce cepit reedificari et sub neemia reedificata in hunc modum, primo septem porte locata sunt",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [
@@ -1744,10 +1854,23 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 11,
+        "name": "Babylonian conquest of Jerusalem",
+        "short_description": "",
+        "jad_id": "jad_keyword__11",
+        "part_of": []
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
-    "liturgical_references": [],
+    "liturgical_references": [
+      {
+        "id": 23,
+        "value": "Title lacking (space blank)"
+      }
+    ],
     "occurrence_found_in": [
       {
         "id": 9,
@@ -1794,6 +1917,7 @@
         "value": false
       }
     ],
+    "Incipit Text": "[space blank for title] Ierusalem edificatur ut civitas [Ps. 121,3], in sacra scriptura Ierusalem omonimum est ad tria, dicitur enim Ierusalem illa sanguinaria civitas [Mt. 23,37], de qua dictum est, non sinit perire prophetam extra Ierusalem, cui etiam dominus ait, Ierusalem que occidis prophetas",
     "view_label": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam",
     "prev": {
       "id": "jad_occurence__139",
@@ -1942,6 +2066,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianus cum Tito filio suo venit, qui penitus eam destruxit",
     "prev": {
       "id": "jad_occurence__149",
@@ -2047,6 +2172,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Anno post passionem Domini quadragesimo secundo, Titus, quem pater Vespasianus romam reversus in obsidione Ierosolimorum iudeorum dilaniavit populum, in tantum ut Iosephus commemorat",
     "prev": {
       "id": "jad_occurence__159",
@@ -2275,6 +2401,7 @@
         "value": false
       }
     ],
+    "Incipit Text": null,
     "view_label": "Si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est.",
     "prev": {
       "id": "jad_occurence__169",
@@ -2454,6 +2581,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "plenius complentur in Christo, urbe subversa Romano gladio; adduces super eos latronem repente, Nabuchodonosor, vel exercitum Romanorum",
     "prev": {
       "id": "jad_occurence__179",
@@ -2625,6 +2753,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Christus, postquam ascendit coelos, quadragesimo secundo anno immisit duos ursos de silvis gentium, Vespasianum scilicet et Titum, qui Judaeos crudelissime dejecerunt",
     "prev": {
       "id": "jad_occurence__189",
@@ -2745,6 +2874,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "tradens eos Romanis",
     "prev": {
       "id": "jad_occurence__2",
@@ -2856,6 +2986,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Quando autem Jerusalem destructa est a Romanis",
     "prev": {
       "id": "jad_occurence__209",
@@ -2962,6 +3093,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "contriti sunt advenientibus Romanis",
     "prev": {
       "id": "jad_occurence__219",
@@ -3073,6 +3205,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sicut Josephus narrat, advenientibus Romanis",
     "prev": {
       "id": "jad_occurence__229",
@@ -3179,6 +3312,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "dies ultionis Judaeorum; diem ultionis sive damnationis Judaeorum, quae venit per Romanos",
     "prev": {
       "id": "jad_occurence__239",
@@ -3299,6 +3433,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ingressus est Titus cum Romano exercitu, alios gladio trucidavit",
     "prev": {
       "id": "jad_occurence__249",
@@ -3441,6 +3576,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "egressi sunt duo ursi de saltu",
     "prev": {
       "id": "jad_occurence__259",
@@ -3564,6 +3700,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum",
     "prev": {
       "id": "jad_occurence__269",
@@ -3680,6 +3817,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "duos Romanorum principes cum exercitibus suis: Vespasianum scilicet et Titum",
     "prev": {
       "id": "jad_occurence__279",
@@ -3795,6 +3933,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "duos ursos de silvis gentium, Vespasianum scilicet et Titum, qui eos crudeli strage dejecerunt",
     "prev": {
       "id": "jad_occurence__289",
@@ -3951,6 +4090,7 @@
         "value": false
       }
     ],
+    "Incipit Text": null,
     "view_label": "hec destructio ab imperatoribus romanis a tyto et vaspasiano ob perfidiam Iudeorum",
     "prev": {
       "id": "jad_occurence__3",
@@ -4087,6 +4227,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "civitatem eorum succendit quia missis exercitibus romanis",
     "prev": {
       "id": "jad_occurence__309",
@@ -4218,6 +4359,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "herodes a romanis regnum Iudeorum acceperat",
     "prev": {
       "id": "jad_occurence__319",
@@ -4354,6 +4496,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "ad litteram evenerunt tempore titi et vespasiani",
     "prev": {
       "id": "jad_occurence__329",
@@ -4485,6 +4628,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romanum exercitum intelligimus, sub duce Vespasiano ac Tito, qui occisis in vindicta Dei Judaeae populis",
     "prev": {
       "id": "jad_occurence__339",
@@ -4606,6 +4750,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "expugnata est Jerusalem a Romanis",
     "prev": {
       "id": "jad_occurence__349",
@@ -4723,6 +4868,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianus accipi potest, qui Hierusalem exercitu circumdedit ac vastavit",
     "prev": {
       "id": "jad_occurence__358",
@@ -4844,6 +4990,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "exercitus Romanorum sub Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__369",
@@ -4973,6 +5120,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "per duos ursos de silva exeuntes, Titum et Vespasianum",
     "prev": {
       "id": "jad_occurence__379",
@@ -5095,6 +5243,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "exire duos ursos, hoc est diabolum et angelos ejus, vel Vespasianum et Titum",
     "prev": {
       "id": "jad_occurence__389",
@@ -5209,6 +5358,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "immisit duos ursos de silvis gentium, Vespasianum scilicet et Titum",
     "prev": {
       "id": "jad_occurence__4",
@@ -5315,6 +5465,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "immisit duos ursos de silvis gentium, Vespasianum scilicet et Titum",
     "prev": {
       "id": "jad_occurence__409",
@@ -5433,6 +5584,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "venient Romani, et tollent nostrum locum et gentem",
     "prev": {
       "id": "jad_occurence__419",
@@ -5538,6 +5690,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianum misit in Judaeam, qui cum filio suo Tito omnem potentiam, et superbiam, et gloriam Judaeorum absorbuit",
     "prev": {
       "id": "jad_occurence__429",
@@ -5657,6 +5810,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "a principibus Romanorum, Vespasiano et Tito, funditus cum suis habitatoribus sic Jerusalem deleta est",
     "prev": {
       "id": "jad_occurence__439",
@@ -5746,7 +5900,37 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 6,
+        "name": "Apocalypticism",
+        "short_description": "The occurrence is entangled with eschatological or apocalyptic ideas. This often means that the conquest provides a resource for imagining and conceiving of the End of Times.",
+        "jad_id": "jad_keyword__6",
+        "part_of": []
+      },
+      {
+        "id": 12,
+        "name": "Christ cleansing Temple",
+        "short_description": "",
+        "jad_id": "jad_keyword__12",
+        "part_of": [
+          {
+            "id": 23,
+            "name": "Temple",
+            "short_description": "The Temple is mentioned at the occurrence (there are many others where the Temple is not present, but often it is just \"Jerusalem\").",
+            "jad_id": "jad_keyword__23",
+            "part_of": []
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Spiritual exegesis",
+        "short_description": "",
+        "jad_id": "jad_keyword__27",
+        "part_of": []
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
@@ -5769,6 +5953,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
     "prev": {
       "id": "jad_occurence__449",
@@ -5893,6 +6078,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Missis exercitibus suis scilicet Romanis sub Tito et Vespasiano imperatoribus perdidit homicidas illos scilicet Iudaeos.",
     "prev": {
       "id": "jad_occurence__459",
@@ -6008,6 +6194,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "venerunt Romani, locum eorum tollentes sub Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__469",
@@ -6114,6 +6301,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "destructionem a Tito et Vespasiano factam",
     "prev": {
       "id": "jad_occurence__479",
@@ -6220,10 +6408,11 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "civitatem a Tito et Vespasiano destructam",
     "prev": {
-      "id": "jad_occurence__480",
-      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
+      "id": "jad_occurence__481",
+      "label": "De destructione templi"
     },
     "next": {
       "id": "jad_occurence__5",
@@ -6312,6 +6501,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianus cum ipsa ciuitate, que dicebatur Onie, funditus euertit",
     "prev": {
       "id": "jad_occurence__5",
@@ -6404,6 +6594,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Titus cum patre Vespasiano Hierosolimam cepit atque subuertit",
     "prev": {
       "id": "jad_occurence__50",
@@ -6540,6 +6731,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "sub romanis",
     "prev": {
       "id": "jad_occurence__51",
@@ -6674,6 +6866,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Cum adpropinquasset Ihesus Hierusalem, uidens ciuitatem fleuit super illam. Pensare debemus, fratres karissimi, quid sit quod flente Domino, sicut nunc in presenti lectum est, hierosolime ciuitatis subuersio describebatur",
     "prev": {
       "id": "jad_occurence__52",
@@ -6796,6 +6989,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit. Quod flente Domino ille Jerosolymorum subversio describatur",
     "prev": {
       "id": "jad_occurence__53",
@@ -6912,6 +7106,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "quando Jerusalem omnino subversa est",
     "prev": {
       "id": "jad_occurence__54",
@@ -7028,6 +7223,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Fideles, qui erant in Judaea, advenientibus Romanis, fugisse in Pellam civitatem admonitione angeli",
     "prev": {
       "id": "jad_occurence__55",
@@ -7176,6 +7372,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "destructionem urbis Jerusalem factam per Romanos; supervenit Romanus exercitus",
     "prev": {
       "id": "jad_occurence__56",
@@ -7278,6 +7475,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ministri Dei Romani principes cum exercitibus Judaeam intraverunt",
     "prev": {
       "id": "jad_occurence__57",
@@ -7380,6 +7578,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romanorum gladio succidit",
     "prev": {
       "id": "jad_occurence__58",
@@ -7510,6 +7709,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianus et filius Titus hoc vindicaverunt; Vespasianus et Titus duces Romanorum, cum magno exercitu Judaeam intrans",
     "prev": {
       "id": "jad_occurence__6",
@@ -7629,6 +7829,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romani et locum et gentem illorum tulerunt",
     "prev": {
       "id": "jad_occurence__60",
@@ -7721,6 +7922,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "civitatem illam succendit. Ad litteram de Judaeis factum est; vindictam Dei exercuit Vespasianus et Titus",
     "prev": {
       "id": "jad_occurence__61",
@@ -7813,6 +8015,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "in templo Hierosolymorum ante destructionem civitatis; appropinquare hostem Romanorum",
     "prev": {
       "id": "jad_occurence__62",
@@ -7912,6 +8115,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romanis sub Vespasiano et Tito Judaeos interemit",
     "prev": {
       "id": "jad_occurence__63",
@@ -8011,6 +8215,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "nutu Dei Romani principes cum exercitibus Judaeam intraverunt",
     "prev": {
       "id": "jad_occurence__64",
@@ -8105,6 +8310,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "gladio Romanorum succidit",
     "prev": {
       "id": "jad_occurence__65",
@@ -8241,6 +8447,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "captivati sunt et interfecti a Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__66",
@@ -8394,6 +8601,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "In Nabuchodonosor, et in Vespasiano, et Tito",
     "prev": {
       "id": "jad_occurence__67",
@@ -8535,6 +8743,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "conculcavi eos in ira mea, auferens daemonibus mundi principatum, Judaeis locum p. 0815A | et gentem, sacerdotium, templum, et omnem dignitatem per Romanos",
     "prev": {
       "id": "jad_occurence__68",
@@ -8671,6 +8880,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "conculcavi populos, Judaeos scilicet, in furore meo, et inebriavi eos, id est replevi afflictione, et miseria per Romanos",
     "prev": {
       "id": "jad_occurence__7",
@@ -8807,6 +9017,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "sanctuarium destruet Romanus populus cum duce Vespasiano",
     "prev": {
       "id": "jad_occurence__70",
@@ -8964,6 +9175,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "reliquias ejus dabo in gladio (Jer. XV), quod factum est per Vespasianum et Titum",
     "prev": {
       "id": "jad_occurence__71",
@@ -9121,6 +9333,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Jerusalem ruit, et Judas concidit, ac Romanus eam populus a fundamentis vastavit",
     "prev": {
       "id": "jad_occurence__72",
@@ -9266,6 +9479,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "per Romanorum principes regnum, sacerdotium, locum et gentem perdas",
     "prev": {
       "id": "jad_occurence__73",
@@ -9407,6 +9621,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "advenientibus Romanis festivitates et cantica eorum versa sunt in luctum",
     "prev": {
       "id": "jad_occurence__74",
@@ -9562,6 +9777,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "negligentes contriti, advenientibus Romanis, et malae conscientiae tinea devorati sunt.",
     "prev": {
       "id": "jad_occurence__75",
@@ -9703,6 +9919,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Et dabit impios Judaeos scilicet Romanis, pro sepultura",
     "prev": {
       "id": "jad_occurence__76",
@@ -9838,6 +10055,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "duo ursi, per hos tytus et vespasianus qui destruxerunt Iudeos",
     "prev": {
       "id": "jad_occurence__77",
@@ -9950,6 +10168,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Titus et Vespasianus, duo reges de silvis gentium, tanquam duo feroces ursi, de saltu ferarum dilaceraverunt pueros; quia venientes ad excidium Hierusalem, debellaverunt in furore Judaeos.",
     "prev": {
       "id": "jad_occurence__78",
@@ -10050,6 +10269,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Ursi sunt illi duo: Titus, Vespasianus: Jerusalem cives hic secat, ille necat",
     "prev": {
       "id": "jad_occurence__8",
@@ -10147,6 +10367,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "duo ursi, hoc est Vespasianus et Titus, de saltu gentium egressi, illusores saevissime laniaverunt",
     "prev": {
       "id": "jad_occurence__80",
@@ -10266,6 +10487,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "devorantur a duobus ursis, id est a diabolo et angelis ejus, vel a Tito et Vespasiano, quos Deus ad destructionem Judaeorum misit",
     "prev": {
       "id": "jad_occurence__81",
@@ -10389,6 +10611,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Titus Vespasiani filius, Romanorum princeps magnificus, obsedit; obsessam expugnavit, et expugnatam dejecit funditus",
     "prev": {
       "id": "jad_occurence__82",
@@ -10493,6 +10716,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasiano et Tito totam illam terram vastantibus",
     "prev": {
       "id": "jad_occurence__83",
@@ -10592,6 +10816,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianus, anno I imperii sui debellavit Judaeos",
     "prev": {
       "id": "jad_occurence__84",
@@ -10691,6 +10916,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "veniens Romanus populus cum duce Vespasiano, ejusque filio Tito, regnum Judaicum destruxit",
     "prev": {
       "id": "jad_occurence__85",
@@ -10797,6 +11023,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Preterea Ierusalem a Romanis subuersa et tota regione uastata multa Iudeorum milia a uictoribus in Egipto sunt uendita",
     "prev": {
       "id": "jad_occurence__86",
@@ -10916,6 +11143,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "et uinitores et agrorum cultores de nobis habituri sint, et quod Romanos qui ceperant illos sue dicioni subicient",
     "prev": {
       "id": "jad_occurence__87",
@@ -11042,6 +11270,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "non penituistis terra est vestra erit designe, babiloniorum et post romanorum",
     "prev": {
       "id": "jad_occurence__88",
@@ -11173,6 +11402,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "et utraque capte, scilicet babilon et romanum",
     "prev": {
       "id": "jad_occurence__9",
@@ -11312,6 +11542,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "et post captivitatem romanos iudices habent",
     "prev": {
       "id": "jad_occurence__90",
@@ -11438,6 +11669,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "captio (?) romanorum, libanus Ierusalem et templum cadet",
     "prev": {
       "id": "jad_occurence__91",
@@ -11569,6 +11801,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "excecionem Iudeorum, que facta est Ierusalem a romanis",
     "prev": {
       "id": "jad_occurence__92",
@@ -11700,6 +11933,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Christum sevierunt Iudei, dabit romanis",
     "prev": {
       "id": "jad_occurence__93",
@@ -11826,6 +12060,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "diem ultionis et damnationis que per romanos",
     "prev": {
       "id": "jad_occurence__94",
@@ -11952,6 +12187,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "populos Iudeos inebravi afflictione per romanos",
     "prev": {
       "id": "jad_occurence__95",
@@ -12091,6 +12327,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "captam conservata per romanos helium adam et titum et vespasianum",
     "prev": {
       "id": "jad_occurence__96",
@@ -12217,6 +12454,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "ursus babilonius vel romanus signat ut omnes ad me, que ad signum et metam ponitum mitterent",
     "prev": {
       "id": "jad_occurence__97",
@@ -12348,6 +12586,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "inimici romani",
     "prev": {
       "id": "jad_occurence__98",
@@ -12479,6 +12718,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "sub romanis factum est",
     "prev": {
       "id": "jad_occurence__10",
@@ -12605,6 +12845,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "obsidente tito et vaspasiano",
     "prev": {
       "id": "jad_occurence__100",
@@ -12736,6 +12977,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "bestia quatuor romanum",
     "prev": {
       "id": "jad_occurence__101",
@@ -12867,6 +13109,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "duce tito et vaspasiano vasti, destructio omnioda (?)",
     "prev": {
       "id": "jad_occurence__102",
@@ -12964,6 +13207,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Titus, filius Vespasiani, qui in ultionem Dominici sanguinis, subversis Jerosolymis",
     "prev": {
       "id": "jad_occurence__103",
@@ -13070,6 +13314,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Haec sub Tito filio Vespasiani accidisse populo Judaeorum",
     "prev": {
       "id": "jad_occurence__104",
@@ -13162,6 +13407,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "unam vastationis quae facta est a Vespasiano duce cum Tito filio ejus",
     "prev": {
       "id": "jad_occurence__105",
@@ -13264,6 +13510,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hierusalem obsideri cepta, secundo Vespasiani anno capitur",
     "prev": {
       "id": "jad_occurence__106",
@@ -13356,6 +13603,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "secundo anno Vespasiani, quando Hierusalem a Romanis capta, templumque subversum est",
     "prev": {
       "id": "jad_occurence__107",
@@ -13470,6 +13718,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sub Tito et Vespasiano urbs capta",
     "prev": {
       "id": "jad_occurence__108",
@@ -13477,7 +13726,7 @@
     },
     "next": {
       "id": "jad_occurence__11",
-      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum, quod ipsam non previdebat"
+      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum"
     }
   },
   "110": {
@@ -13567,10 +13816,11 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "quando Jerusalem a Romanis capta, templumque subversum est",
     "prev": {
       "id": "jad_occurence__11",
-      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum, quod ipsam non previdebat"
+      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum"
     },
     "next": {
       "id": "jad_occurence__111",
@@ -13668,6 +13918,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "a Tito et Vespasiano Jerusalem circumdata est, et advenit desolatio ejus, et impletum est",
     "prev": {
       "id": "jad_occurence__110",
@@ -13769,6 +14020,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sub Vespasiano et Tito, quando templum captum atque subversum est",
     "prev": {
       "id": "jad_occurence__111",
@@ -13866,6 +14118,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "circumdata est Jerusalem, et interfecti filii ejus, et obsidente Tito filio Vespasiani",
     "prev": {
       "id": "jad_occurence__112",
@@ -13958,6 +14211,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Titus Vespasiani filius, Jerosolymis subversis",
     "prev": {
       "id": "jad_occurence__113",
@@ -14055,6 +14309,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "postea sub Vespasiano, regnum hujus generis, imo imaginem imperii, penitus fuisse deletum.",
     "prev": {
       "id": "jad_occurence__114",
@@ -14157,6 +14412,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "capta Hierusalem sub Vespasiano",
     "prev": {
       "id": "jad_occurence__115",
@@ -14254,6 +14510,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "per Vespasianum et Titum Romanos principes in ultione Dominici sanguinis urbe succensa",
     "prev": {
       "id": "jad_occurence__116",
@@ -14346,6 +14603,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "captivitate ultima Romanorum, sub Tito et Vespasiano principibus",
     "prev": {
       "id": "jad_occurence__117",
@@ -14438,6 +14696,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "obsessi sunt a Vespasiano et Tito; Post captivitatem autem, quae sub Vespasiano et Tito",
     "prev": {
       "id": "jad_occurence__118",
@@ -14530,6 +14789,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "consideres tempora passionis Dominicae et ruinae Jerusalem, quando subversa est; post cujus passionem venit consummatio Jerusalem, et interfectio populi Judaeorum",
     "prev": {
       "id": "jad_occurence__12",
@@ -14631,6 +14891,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "uando per Vespasianum et Titum, Romanos principes, urbe destructa",
     "prev": {
       "id": "jad_occurence__120",
@@ -14753,6 +15014,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romanos sub duce Vespasiano et Tito, qui occisis Judaeae populis praevaricatricem succenderent civitatem",
     "prev": {
       "id": "jad_occurence__121",
@@ -14855,6 +15117,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "cum Vespasiano et Tito ducibus Romanorum missis exercitibus",
     "prev": {
       "id": "jad_occurence__122",
@@ -14952,6 +15215,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sub Vespasiano et Tito Romanorum principibus, ita funditus est ipsa civitas eversa cum templo suo magnificentissimo",
     "prev": {
       "id": "jad_occurence__123",
@@ -15044,6 +15308,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "captivitatem, quando post Titum et Vespasianum",
     "prev": {
       "id": "jad_occurence__124",
@@ -15141,6 +15406,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Aprum Vespasianum forsitan debemus accipere, qui illis existit fortis et saevus",
     "prev": {
       "id": "jad_occurence__125",
@@ -15242,6 +15508,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "principes Romanorum, Vespasianum videlicet et Titum, egressos de saltu gentium devorare Judaicos pueros",
     "prev": {
       "id": "jad_occurence__126",
@@ -15339,6 +15606,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "a Tito et Vespasiano capta est",
     "prev": {
       "id": "jad_occurence__127",
@@ -15431,6 +15699,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "civitatem incendit, Deus Pater est, qui suscitavit Vespasianum Caesarem Romanorum, qui et populum gladio vastavit",
     "prev": {
       "id": "jad_occurence__128",
@@ -15528,6 +15797,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "capti a duobus ursis, hoc est Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__13",
@@ -15664,6 +15934,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "sumeret pacem, scilicet exteriorem, per Titum et Vespasianum, de terra, id est de Judaea",
     "prev": {
       "id": "jad_occurence__130",
@@ -15779,6 +16050,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Colligitur autem omne tempus in secundum annum Vespasiani et subversionem Hierosolimorum novissimam",
     "prev": {
       "id": "jad_occurence__131",
@@ -15876,6 +16148,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Ipse Vespasianum cum filio suo Tito ad destruendam Hierosolimam misit.",
     "prev": {
       "id": "jad_occurence__132",
@@ -15973,6 +16246,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Tito filio suo in Judaea ad obsidendam Hierosolimam",
     "prev": {
       "id": "jad_occurence__133",
@@ -16070,6 +16344,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Interim Vespasianus Hierosolimam obsidens, audita Neronis morte, a militibus imperator creatus est.",
     "prev": {
       "id": "jad_occurence__134",
@@ -16172,6 +16447,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianus dux exercitus adversum Judaeos",
     "prev": {
       "id": "jad_occurence__135",
@@ -16289,6 +16565,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hierusalem in vindictam Christi vastaretur à Romanis",
     "prev": {
       "id": "jad_occurence__136",
@@ -16381,6 +16658,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Judaei a secundo anno Vespasiani, quando Hierusalem a Romanis capta, templumque subversum est",
     "prev": {
       "id": "jad_occurence__137",
@@ -16487,6 +16765,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Quos duo ursi de saltu Titus uidelicet et Vespasianus peremerunt in uindicta Dei.",
     "prev": {
       "id": "jad_occurence__138",
@@ -16588,6 +16867,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Et quadragesimo secundo anno ascensionis suae immisit duos ursos de silvis gentium, Vespasianum scilicet, et Titum",
     "prev": {
       "id": "jad_occurence__14",
@@ -16694,6 +16974,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Sic que ad praesentem captiuitatem sub qua idem eandem prophetiam condidit oculum intendunt ut et extremam quae facta est sub | Tito et Vespasiano penitus non omittant.",
     "prev": {
       "id": "jad_occurence__140",
@@ -16800,6 +17081,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sub Tito et Vespasiano plenius omnia completa",
     "prev": {
       "id": "jad_occurence__141",
@@ -16911,6 +17193,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "captiuitas quae sub Tito et Vespasiano teste Iosepho facta legitur",
     "prev": {
       "id": "jad_occurence__142",
@@ -17022,6 +17305,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Idcirco in extremis sub Tito et Vespasiano omnes magnifici quod SAMECH insinuat ablati sunt de Iuda.",
     "prev": {
       "id": "jad_occurence__143",
@@ -17128,6 +17412,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Dominus hoc loco huic bestiae comparatur immo per eas | utrasque Nabugodonosor certe aut Titus uel Vespasianus designantur",
     "prev": {
       "id": "jad_occurence__144",
@@ -17239,6 +17524,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "in illa obsidione teste Iosepho quae sub Tito et Vespasiano accidisse legitur",
     "prev": {
       "id": "jad_occurence__145",
@@ -17348,6 +17634,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "qui patrem et filium despexerant, a filio et patre, id est, Tito et Vespasiano delerentur",
     "prev": {
       "id": "jad_occurence__147",
@@ -17449,6 +17736,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Quia venient dies in te, et circumdabunt te inimici, etc. Haec omnia a Vespasiano et Tito facta",
     "prev": {
       "id": "jad_occurence__148",
@@ -17560,6 +17848,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Immissionem per angelos malos, seu Romanos intelligamus, sub duce Vespasiano et Tito, qui occisis Judaeae populis, praevaricatricem succenderunt civitatem",
     "prev": {
       "id": "jad_occurence__15",
@@ -17665,6 +17954,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "occiso enim Domino venerunt Romani, et quasi nidum vacuum diripientes, tulerunt eorum locum, gentem et regnum",
     "prev": {
       "id": "jad_occurence__150",
@@ -17766,6 +18056,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "egressi sunt duo ursi de silvis gentium Romanarum",
     "prev": {
       "id": "jad_occurence__151",
@@ -17863,6 +18154,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romani autem nondum venerant in captivitatem, licet jam et ipsa immineret ultrix commissi de Salvatore piaculi",
     "prev": {
       "id": "jad_occurence__152",
@@ -17967,6 +18259,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Venit enim exercitus Romanus cum duce Vespasiano, et debellata est civitas, expugnati Judaei,",
     "prev": {
       "id": "jad_occurence__153",
@@ -18066,6 +18359,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianus anno primo imperii sui debellavit Judaeos",
     "prev": {
       "id": "jad_occurence__154",
@@ -18170,6 +18464,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "expugnatione Judaeorum, qua per Vespasianum devicti sunt,",
     "prev": {
       "id": "jad_occurence__155",
@@ -18291,6 +18586,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Tempestas fuit, dum a Romanis flagellaretur",
     "prev": {
       "id": "jad_occurence__156",
@@ -18383,6 +18679,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Titus imperator ab exercitu pronuntiatus, templum Hierosolymis incendit ac diruit",
     "prev": {
       "id": "jad_occurence__157",
@@ -18475,6 +18772,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "a prima aedificatione templi sub Salamone usque ad ultimam ejus ruinam sub ipso Vespasiano",
     "prev": {
       "id": "jad_occurence__158",
@@ -18587,6 +18885,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "in captionem scilicet transmigrationis, quae sub Tito et Vespasiano facta est",
     "prev": {
       "id": "jad_occurence__16",
@@ -18692,6 +18991,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Judaica gens est violata, quando ob vindictam crucis a Tito et Vespasiano est captivata",
     "prev": {
       "id": "jad_occurence__160",
@@ -18789,6 +19089,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hierusalem a Romanis destruitur",
     "prev": {
       "id": "jad_occurence__161",
@@ -18886,6 +19187,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "a Vespasiano captus",
     "prev": {
       "id": "jad_occurence__162",
@@ -18993,6 +19295,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Jerusalem a Romanis est destructa",
     "prev": {
       "id": "jad_occurence__163",
@@ -19101,6 +19404,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "destructio Hierosolymorum praedicitur, quia in hoc mense et prius a Nabuchodonosor et postmodum a Romanis in eodem mense facta legitur",
     "prev": {
       "id": "jad_occurence__164",
@@ -19210,6 +19514,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romani in ultionem Domini Hierosolimam destruxerunt",
     "prev": {
       "id": "jad_occurence__165",
@@ -19307,6 +19612,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "transactis de passione Domini XL annis Romani Hierosolimam funditus destruxerant",
     "prev": {
       "id": "jad_occurence__166",
@@ -19415,6 +19721,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "hoc quidem tempore Titi et Vespasiani completum est, quando capta urbe",
     "prev": {
       "id": "jad_occurence__167",
@@ -19540,6 +19847,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Per frameam Titum, et Vespasianum, et Romanum exercitum intelligimus, a quibus Judaeorum populus multis modis interemptus et perditus est",
     "prev": {
       "id": "jad_occurence__168",
@@ -19660,6 +19968,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Haec enim sub Tito et Vespasiano completa sunt",
     "prev": {
       "id": "jad_occurence__17",
@@ -19777,6 +20086,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Haec autem omnia sub Vespasiano, et Tito filio ejus completa sunt, sicut Josephus plenissime narrat",
     "prev": {
       "id": "jad_occurence__170",
@@ -19893,6 +20203,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "duobus ursis, Tito videlicet, et Vespasiano, Judaei interfecti sunt",
     "prev": {
       "id": "jad_occurence__171",
@@ -20009,6 +20320,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "prius a Chaldaeis, deinde a Romanis usque ad fundamenta destructa",
     "prev": {
       "id": "jad_occurence__172",
@@ -20117,6 +20429,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "venient Romani, et tollent nobis locum et gentem",
     "prev": {
       "id": "jad_occurence__173",
@@ -20225,6 +20538,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "urbem, et sanctuarium dissipabit populus Romanus cum duce Vespasiano",
     "prev": {
       "id": "jad_occurence__174",
@@ -20330,6 +20644,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "eos quos Romana severitas ferro ignique punierat",
     "prev": {
       "id": "jad_occurence__175",
@@ -20470,6 +20785,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasiano et Tito arma undique contrahentibus et Jerusalem exercitu suo circumdantibus",
     "prev": {
       "id": "jad_occurence__176",
@@ -20574,6 +20890,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hierosolymorum excidium sub Tito et Vespasiano factum",
     "prev": {
       "id": "jad_occurence__177",
@@ -20666,6 +20983,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "a Romanis haec gens est devastata",
     "prev": {
       "id": "jad_occurence__178",
@@ -20758,6 +21076,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "terra Judaeorum a Romanis invasa est",
     "prev": {
       "id": "jad_occurence__18",
@@ -20874,6 +21193,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ne forte veniant Romani, et tollant nostrum locum et gentem",
     "prev": {
       "id": "jad_occurence__180",
@@ -20966,6 +21286,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ut omnes in ea ardeant Romano igne circumdati",
     "prev": {
       "id": "jad_occurence__181",
@@ -21067,6 +21388,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Ibi pascetur vitulus, Romanus exercitus, de quo et in alio loco sub nomine apri dictum est: Vastabit eam aper de silva",
     "prev": {
       "id": "jad_occurence__182",
@@ -21193,6 +21515,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "traditi erant gentibus, id est, Romanis, ut ab eis delerentur atque exterminarentur",
     "prev": {
       "id": "jad_occurence__183",
@@ -21280,6 +21603,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Judaei, qui Dominum interfecerunt, et apostolos ejus persecuti sunt, qui in quinto ponuntur loco; eo tempore quo haec visio Joanni demonstrata est, jam a Romanis devastati fuerant",
     "prev": {
       "id": "jad_occurence__184",
@@ -21377,6 +21701,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "impii Judaei a Romanis delendi essent",
     "prev": {
       "id": "jad_occurence__185",
@@ -21497,6 +21822,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "in angusto comprimat exercitus Titi et Vespasiani",
     "prev": {
       "id": "jad_occurence__186",
@@ -21629,6 +21955,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "scribit Josephus septem voluminibus, Vespasiani et Titi denarrans triumphos",
     "prev": {
       "id": "jad_occurence__187",
@@ -21745,6 +22072,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Dominus locutus est, ut populi sui ulciscatur injuriam",
     "prev": {
       "id": "jad_occurence__188",
@@ -21853,6 +22181,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "dispersione Judaeorum quae facta est imperio Vespasiani et Titi",
     "prev": {
       "id": "jad_occurence__19",
@@ -21961,6 +22290,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Venit aper, scilicet Vespasianus, et singularis ferus, videlicet Titus, filius ejus, de silva, id est de urbe Roma",
     "prev": {
       "id": "jad_occurence__190",
@@ -22073,6 +22403,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "cecidit in ore gladii sub Tito et Vespasiano imperatoribus",
     "prev": {
       "id": "jad_occurence__191",
@@ -22181,6 +22512,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Legant qui volunt vestrum sub Tito et Vespasiano excidium, et videant vos unicam gentem homicidarum semetipsos interficientium.",
     "prev": {
       "id": "jad_occurence__192",
@@ -22285,6 +22617,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Qui commovet, » subaudi per Titum et Vespasianum, « terram, » scilicet Judaeam, « de loco suo, » videlicet subversa civitate et templo",
     "prev": {
       "id": "jad_occurence__193",
@@ -22397,6 +22730,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Duas tribus, quae Judaea vocabantur, devoravit bestia quarta, terribilis et magna, quam vidit Daniel, Romanum scilicet Imperium, per litum et Vespasianum",
     "prev": {
       "id": "jad_occurence__194",
@@ -22509,6 +22843,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "tantummodo locum et gentem, ducibus Vespasiano et Tito, tulisse contenti",
     "prev": {
       "id": "jad_occurence__195",
@@ -22622,6 +22957,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "consumpsit in obsidione illa saltus Romani exercitus post quadraginta annos, ducibus Vespasiano et Tyto",
     "prev": {
       "id": "jad_occurence__196",
@@ -22738,6 +23074,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Quod factum est per Titum et Vespasianum, quando regno Dei jam perdito, locum quoque et gentem perdiderunt",
     "prev": {
       "id": "jad_occurence__197",
@@ -22846,6 +23183,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "dissipabit populus cum duce venturo, subauditur Vespasiano sive Tito",
     "prev": {
       "id": "jad_occurence__198",
@@ -22950,6 +23288,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ducibus sive principibus Tito et Vespasiano, regnum illud comedit atque comminuit",
     "prev": {
       "id": "jad_occurence__20",
@@ -23049,6 +23388,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "quod factum est sub Vespasiano et Tito, principibus Romanorum",
     "prev": {
       "id": "jad_occurence__200",
@@ -23169,6 +23509,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hoc enim irrecuperabiliter sub Vespasiano et Tito factum est",
     "prev": {
       "id": "jad_occurence__201",
@@ -23273,6 +23614,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hanc diebus Titi et Vespasiani Judaicus populus, magno ejulatu requisivit",
     "prev": {
       "id": "jad_occurence__202",
@@ -23386,6 +23728,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Per aprum de silva, et per singularem ferum, Titum et Vespasianum Romanos imperatores significans",
     "prev": {
       "id": "jad_occurence__203",
@@ -23519,6 +23862,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "tricies centena millia Josephus dicit fuisse, scilicet justo judicio, tempore hoc ultionis electo, ut qui in diebus Paschae Salvatorem suum Dominum Jesum Christum, cruentis manibus, et sacrilegis vocibus violaverant, in ipsis diebus velut in unum carcerem omnis multitudo conclusa, feralis poenae exitium quod merebatur exciperet",
     "prev": {
       "id": "jad_occurence__204",
@@ -23631,6 +23975,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Judica, inquiens, Domine, nocentes me, expugna expugnantes me, apprehende arma et scutum, » videlicet Romanorum Titi et Vespasiani imperatorum",
     "prev": {
       "id": "jad_occurence__205",
@@ -23743,6 +24088,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "portentum fuisse mirabilis excidii Hierosolymorum, sub Tito et Vespasiano,",
     "prev": {
       "id": "jad_occurence__206",
@@ -23842,6 +24188,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "donec civitates Judaeae, Vespasiano Titoque pugnantibus, penitus subvertantur",
     "prev": {
       "id": "jad_occurence__207",
@@ -23954,6 +24301,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Non statim misi Titum et Vespasianum qui tollerent vestrum et locum et gentem, qui civitatem et templum destruerent, ita ut non remaneret lapis super lapidem, sed sustinui per annos quadraginta",
     "prev": {
       "id": "jad_occurence__208",
@@ -24082,6 +24430,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "De misera obsidione Hierusalem, facta a passione Christi anno quadragesimo primo sub Tito et Vespasiano imperatoribus",
     "prev": {
       "id": "jad_occurence__21",
@@ -24186,6 +24535,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Templum illud permansit usque ad imperium Vespasiani",
     "prev": {
       "id": "jad_occurence__210",
@@ -24290,6 +24640,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "civitatem Jerusalem et sanctuarium dissipavit populus Romanus cum duce, scilicet Vespasiano, sive filio ejus Tito",
     "prev": {
       "id": "jad_occurence__211",
@@ -24387,6 +24738,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romanos intelligamus, sub duce Vespasiano et Tito, qui occisis Judaeae populis, praevaricatricem succenderint civitatem",
     "prev": {
       "id": "jad_occurence__212",
@@ -24493,6 +24845,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "subversionem Jerusalem quae fuit peracta a Romanis",
     "prev": {
       "id": "jad_occurence__213",
@@ -24599,6 +24952,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "judicabis eam plebem, » hoc est dicere: Qualia egerunt, talia recipient a Romanis",
     "prev": {
       "id": "jad_occurence__214",
@@ -24705,6 +25059,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "in tempore captivitatis Jerusalem",
     "prev": {
       "id": "jad_occurence__215",
@@ -24797,6 +25152,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Jerusalem, quae ista perpessa est a Chaldaeis atque Romanis",
     "prev": {
       "id": "jad_occurence__216",
@@ -24902,6 +25258,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romano gladio trucidati sunt",
     "prev": {
       "id": "jad_occurence__217",
@@ -24994,6 +25351,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Judaei enim autumant significari Chaldaeos, qui sub piscatorum nomine describuntur, et postea Romanos, qui venatoribus comparantur",
     "prev": {
       "id": "jad_occurence__218",
@@ -25091,6 +25449,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "referamus ad Nabuchodonosor: si de Salvatore, quod et verius, et melius est, ad Romanum exercitum",
     "prev": {
       "id": "jad_occurence__22",
@@ -25183,6 +25542,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "obsessi sunt a Vespasiano et Tito",
     "prev": {
       "id": "jad_occurence__220",
@@ -25280,6 +25640,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sub Vespasiano, regnum hujus generis, immo imaginem imperii funditus fuisse deletam",
     "prev": {
       "id": "jad_occurence__221",
@@ -25372,6 +25733,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "capta Jerusalem sub Vespasiano",
     "prev": {
       "id": "jad_occurence__222",
@@ -25505,6 +25867,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "immisit duos ursos de sylvis gentium, Vespasianum, scilicet, et Titum",
     "prev": {
       "id": "jad_occurence__223",
@@ -25634,6 +25997,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sanguine vindictam expetente, exierunt duo ursi, Titus et Vespasianus, principes gentium",
     "prev": {
       "id": "jad_occurence__224",
@@ -25759,6 +26123,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "urbe suversa romano gladio",
     "prev": {
       "id": "jad_occurence__225",
@@ -25865,6 +26230,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "apostoli absciderunt Judaeos, sed abscindendos a Romanis praedixerunt",
     "prev": {
       "id": "jad_occurence__226",
@@ -25957,6 +26323,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Quid per gladium acutum, nisi vastationem significat Judaeorum, quae sub Vespasiano et Tito facta est",
     "prev": {
       "id": "jad_occurence__227",
@@ -26042,6 +26409,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "tunc completum est historialiter quando Romani Judaeam ceperunt",
     "prev": {
       "id": "jad_occurence__228",
@@ -26134,6 +26502,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "venient Romani et tollent nostrum locum et gentem",
     "prev": {
       "id": "jad_occurence__23",
@@ -26233,6 +26602,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Dominum occiderunt, a Tito et Vespasiano passi sunt et civitas eversa",
     "prev": {
       "id": "jad_occurence__230",
@@ -26349,6 +26719,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "duo principes Titus et Vespasianus de saltu imperii Romani venientes Christi derisores vastaverunt",
     "prev": {
       "id": "jad_occurence__231",
@@ -26448,6 +26819,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ultima scilicet captivitate facta per Titum et Vespasianum",
     "prev": {
       "id": "jad_occurence__232",
@@ -26561,6 +26933,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "gentilium scilicet Romanorum militum a quibus civitas tua sancta est eversa",
     "prev": {
       "id": "jad_occurence__233",
@@ -26688,6 +27061,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "circa finale judicium, judico per Romanos acto praefiguratum",
     "prev": {
       "id": "jad_occurence__234",
@@ -26792,6 +27166,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "tuti erant a Romanorum vastatione",
     "prev": {
       "id": "jad_occurence__235",
@@ -26916,6 +27291,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Venientibus Romanis et tollentibus ipsorum locum et gentem",
     "prev": {
       "id": "jad_occurence__236",
@@ -27024,6 +27400,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "constat exercitu Romano Judaeos vastante",
     "prev": {
       "id": "jad_occurence__237",
@@ -27123,6 +27500,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Judaeos per Romanos contrivit",
     "prev": {
       "id": "jad_occurence__238",
@@ -27231,6 +27609,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Sic Judaei, Christi inimici, a Romanis occisi sunt, daemones a gentibus fugati sunt",
     "prev": {
       "id": "jad_occurence__24",
@@ -27330,6 +27709,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Qui oderunt eum, confusi sunt, quia Judaei a Romanis occisi sunt",
     "prev": {
       "id": "jad_occurence__240",
@@ -27438,6 +27818,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "duo ursi, duo principes Romani, Titus et Vespasianus de silva gentilis populi venerunt, et pueros irrisores Christi discerpserunt",
     "prev": {
       "id": "jad_occurence__241",
@@ -27542,6 +27923,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "contriti sunt per Titum et Vespasianum",
     "prev": {
       "id": "jad_occurence__242",
@@ -27658,6 +28040,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Judaeos disperdidisti per exercitum Romanum ducibus Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__243",
@@ -27774,6 +28157,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "duobus ursis traditi sunt lacerandi, videlicet Romanis principibus Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__244",
@@ -27882,6 +28266,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Deus dissipavit ossa eorum per duces Romanos Titum et Vespasianum, quando traditi sunt in manus gladii,",
     "prev": {
       "id": "jad_occurence__245",
@@ -28004,6 +28389,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Duo ursi de saltu quadraginta pueros devoraverunt, quia post quadraginta annos duo reges Titus et Vespasianus de gentilitate Judaicum populum pueriliter sapientem occiderunt",
     "prev": {
       "id": "jad_occurence__246",
@@ -28103,6 +28489,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "veniant Romani, et tollant nostrum locum et gentem",
     "prev": {
       "id": "jad_occurence__247",
@@ -28227,6 +28614,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Venerunt enim Romani, et sicut totus orbis audivit, traditi sunt in manus gladii",
     "prev": {
       "id": "jad_occurence__248",
@@ -28334,6 +28722,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ubi Jerusalem a Romanis est destructa",
     "prev": {
       "id": "jad_occurence__25",
@@ -28433,6 +28822,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "omnes per Romanos perdidit",
     "prev": {
       "id": "jad_occurence__250",
@@ -28541,6 +28931,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Sed vos, Judaei, qui dixistis: « Ne forte veniant Romani, et tollant nostrum locum et gentem",
     "prev": {
       "id": "jad_occurence__251",
@@ -28653,6 +29044,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romanis populum Judaeorum vastantibus et captivantibus",
     "prev": {
       "id": "jad_occurence__252",
@@ -28761,6 +29153,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Est ergo Dominus fortis et potens in praelio, qui per exercitum Romanorum dissipat sibi populum adversarium",
     "prev": {
       "id": "jad_occurence__253",
@@ -28860,6 +29253,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "operantes iniquitatem a Romanis victoribus ceciderun",
     "prev": {
       "id": "jad_occurence__254",
@@ -28957,6 +29351,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "per singularem ferum Titum et Vespasianum Romanos imperatores significans",
     "prev": {
       "id": "jad_occurence__255",
@@ -29049,6 +29444,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "famoso excidio per Titum et Vespasianum facto conferre",
     "prev": {
       "id": "jad_occurence__256",
@@ -29169,6 +29565,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Quod flente Domino illa Jerosolymorum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est",
     "prev": {
       "id": "jad_occurence__257",
@@ -29285,6 +29682,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Quod flente Domino illa Hierosolymorum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est",
     "prev": {
       "id": "jad_occurence__258",
@@ -29401,6 +29799,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "a Romano exercitu facta est",
     "prev": {
       "id": "jad_occurence__26",
@@ -29503,6 +29902,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ipse finis desolationis, quae a Romano exercitu facta est",
     "prev": {
       "id": "jad_occurence__260",
@@ -29600,6 +30000,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Missis itaque exercitibus angelorum sive ducibus Romanorum",
     "prev": {
       "id": "jad_occurence__261",
@@ -29701,6 +30102,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "adversum populum Christianorum decem vindictae fuerunt a Romanis",
     "prev": {
       "id": "jad_occurence__262",
@@ -29798,6 +30200,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "gentes congregati sunt cum Romanis imperatoribus Vespasiano et Tito, ut interficerent eos, roburque imperii eorum confringentes, comminuerent, atque instrumentis bellicis Jerusalem metropolim eorum superatam funditus everterent",
     "prev": {
       "id": "jad_occurence__263",
@@ -29922,6 +30325,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "venient Romani et tollent nostrum locum et gentem",
     "prev": {
       "id": "jad_occurence__264",
@@ -30030,6 +30434,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "venient Romani, et tollent nostrum locum et gentem",
     "prev": {
       "id": "jad_occurence__265",
@@ -30167,6 +30572,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "haec omnia fratres mei, quae Dominus praedixit, impleta sunt per Romanos principes, Titum et Vespasianum",
     "prev": {
       "id": "jad_occurence__266",
@@ -30283,6 +30689,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Pater iratus, missis exercitibus suis, per ministerium Romanorum",
     "prev": {
       "id": "jad_occurence__267",
@@ -30382,6 +30789,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "tempus moriendi tempore Vespasiani et Titi",
     "prev": {
       "id": "jad_occurence__268",
@@ -30489,6 +30897,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "antequam veniat Nabuchodonosor, sive Titus Vespasiani filius, accitus a prophetis, ut eorum vaticinia compleantur",
     "prev": {
       "id": "jad_occurence__27",
@@ -30576,6 +30985,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ad modicas uastauerat populum hunc Titus reliquias, ultor iniuriarum Domini, licet inscius",
     "prev": {
       "id": "jad_occurence__270",
@@ -30661,6 +31071,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sub Tito et Vespasiano urbs capta, templumque subversum",
     "prev": {
       "id": "jad_occurence__271",
@@ -30785,6 +31196,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "de subversione civitatis Jerusalem",
     "prev": {
       "id": "jad_occurence__272",
@@ -30870,6 +31282,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "subversio et destructio civitatis Jerusalem describitur",
     "prev": {
       "id": "jad_occurence__273",
@@ -30977,6 +31390,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "contriti sunt advenientibus Romanis",
     "prev": {
       "id": "jad_occurence__274",
@@ -31078,6 +31492,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Diem ultionis: damnationis, quae per Romanos",
     "prev": {
       "id": "jad_occurence__275",
@@ -31175,6 +31590,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Judaeos in Judaea habitaverunt alienigenae, undecunque adducti a Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__276",
@@ -31272,6 +31688,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Post subversionem Jerusalem et templi; civitas destructa est et templum a principibus Romanorum",
     "prev": {
       "id": "jad_occurence__277",
@@ -31391,6 +31808,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hic Domitianus Vespasiani fuit filius, et frater Titi, illius videlicet qui Jerosolymam subvertit",
     "prev": {
       "id": "jad_occurence__278",
@@ -31515,6 +31933,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Jerusalem, imo omnis Judaea, expugnaretur ac vastaretur p. 0209D | a Romanis in ultionem Dominici sanguinis",
     "prev": {
       "id": "jad_occurence__28",
@@ -31616,6 +32035,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sanctuarium dissipabit populus cum duce venturo (Dan. IX, 26), id est, Romanus exercitus cum Vespasiano",
     "prev": {
       "id": "jad_occurence__280",
@@ -31721,6 +32141,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "subversa est Jerusalem",
     "prev": {
       "id": "jad_occurence__281",
@@ -31827,6 +32248,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "peccata eorum quae completa sunt advenientibus Romanis",
     "prev": {
       "id": "jad_occurence__282",
@@ -31921,6 +32343,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "excidio civitatis, et videns miram divinae praesentiae virtutem, agnoscat praedicentis divinitatem. Haec quidem Judaeorum genti post passionem Salvatoris p. 1144C | justa ultione venerunt",
     "prev": {
       "id": "jad_occurence__283",
@@ -32029,6 +32452,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romanorum principes adversus Judaeos Dominus misit",
     "prev": {
       "id": "jad_occurence__284",
@@ -32123,6 +32547,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romani principes Jerusalem, quae sanguine veri Agni et sanguine aliorum sanctorum perfusa erat, subfodiendo totam everterunt",
     "prev": {
       "id": "jad_occurence__285",
@@ -32254,6 +32679,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Ut appropinquavit etc dominus cum laudibus occurrentium intrans civitatem previdens eam in ultionem sanguinis sui funditus evertendam",
     "prev": {
       "id": "jad_occurence__286",
@@ -32385,6 +32811,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "a domino signa et tempus eversionis Ierusalem",
     "prev": {
       "id": "jad_occurence__287",
@@ -32516,6 +32943,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Et missis exercitibus inter litteris exponere de captivitate facta per romanos, gloriosa de eterna dampnatione",
     "prev": {
       "id": "jad_occurence__288",
@@ -32657,6 +33085,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae",
     "prev": {
       "id": "jad_occurence__29",
@@ -32764,6 +33193,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "De Tyto et Vespasiano",
     "prev": {
       "id": "jad_occurence__290",
@@ -32785,13 +33215,13 @@
     },
     "position_in_work": "",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes, quattuor tamen invenimus ipsam sustinisse generales eversiones, primam sustinuit a nabuchodonosor per naburzardan principem militie, secundam ab antiocho epiphane, tertiam a tito et vespasiano romanis principibus, quartam ab helio adriano equestri, in prima obsidione capta est civitas et eversa, in secunda ex parte destructa, templum pollutum, sed non penitus subversa, in tertia tamen domus dei quam civitas incendio consumpta, in quarta usque ad fundamentum exinanita, et in alio loco translata, et alio nomine vocata, dicta est enim civitas ab helio helia, iste famose iiii eversiones designant iiii generalium vitiorum subversiones, in eversione qua fecit naburzardan princeps cooperans (?), significatur gula, in pollutione qua templum dei polluit antiochus epiphanes avaricia, opes enim yperiphanes, in destructione a tito et vespasiano facta notatur luxuria in mundicia, sicut dicit psalmista, exterminavit eam apud deum silva [Ps. 79,14], in subversione helis adrianis equestris depingitur superbia",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [
       {
-        "id": 182,
-        "value": "Is. 62,6"
+        "id": 50,
+        "value": "Ps. 79,14"
       }
     ],
     "work": [
@@ -32861,10 +33291,66 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 4,
+        "name": "Another conquest of Jerusalem",
+        "short_description": "",
+        "jad_id": "jad_keyword__4",
+        "part_of": []
+      },
+      {
+        "id": 10,
+        "name": "Typology",
+        "short_description": "",
+        "jad_id": "jad_keyword__10",
+        "part_of": []
+      },
+      {
+        "id": 11,
+        "name": "Babylonian conquest of Jerusalem",
+        "short_description": "",
+        "jad_id": "jad_keyword__11",
+        "part_of": []
+      },
+      {
+        "id": 18,
+        "name": "Greek conquest of Jerusalem",
+        "short_description": "",
+        "jad_id": "jad_keyword__18",
+        "part_of": [
+          {
+            "id": 4,
+            "name": "Another conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__4",
+            "part_of": []
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Emperor Hadrian",
+        "short_description": "",
+        "jad_id": "jad_keyword__26",
+        "part_of": []
+      },
+      {
+        "id": 27,
+        "name": "Spiritual exegesis",
+        "short_description": "",
+        "jad_id": "jad_keyword__27",
+        "part_of": []
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
-    "liturgical_references": [],
+    "liturgical_references": [
+      {
+        "id": 24,
+        "value": "Title lacking (no space)"
+      }
+    ],
     "occurrence_found_in": [
       {
         "id": 9,
@@ -32911,6 +33397,7 @@
         "value": false
       }
     ],
+    "Incipit Text": "Super muros tuos Iherusalem constitui custodes etc [Is. 62,6], Ierusalem sancte ecclesie est figura, cum propter ipsius antiquam dignitatem vel nobilitatem, firmitatem, eminentiam, cum propter nominis ipsius civitatis multiplicem assignationem antiquam ipsius nobilitatem sublatam deplorat Ieremias in trenis dicens, quomodo sedet sola",
     "view_label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus",
     "prev": {
       "id": "jad_occurence__291",
@@ -33039,6 +33526,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Videns Ihesus ciuitatem. A Tyto et Vaspasiano pro sceleribus suis non multum post destruendam, fleuit super illam",
     "prev": {
       "id": "jad_occurence__292",
@@ -33156,6 +33644,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "Aperi Libane portas tuas et comedat ignis cedros tuas [Zach. XI, 1]. Zacharius XIus prophetarum post destructionem ciuitatis iam factam, aliam per Romanos dicit futuram",
     "prev": {
       "id": "jad_occurence__293",
@@ -33282,6 +33771,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "de destructione a babiloniis facta, sed de facta a romanis",
     "prev": {
       "id": "jad_occurence__294",
@@ -33413,6 +33903,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "tyto et vespasiano ultione urbs capta est",
     "prev": {
       "id": "jad_occurence__295",
@@ -33505,6 +33996,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianus annis X. Hujus secundo anno Hierosolyma subvertitur.",
     "prev": {
       "id": "jad_occurence__296",
@@ -33606,6 +34098,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "venient Romani, et tollent nostrum et locum et gentem",
     "prev": {
       "id": "jad_occurence__297",
@@ -33703,6 +34196,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "post illatam a Vespasiano et Tito Judaeis necem",
     "prev": {
       "id": "jad_occurence__298",
@@ -33803,6 +34297,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Judaei, contra Romanos rebellaverunt, adversum quos Vespasianus magister militiae transmissus",
     "prev": {
       "id": "jad_occurence__30",
@@ -33895,6 +34390,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "usque ad subversionem Jerosolymorum",
     "prev": {
       "id": "jad_occurence__300",
@@ -33987,6 +34483,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Jerosolymorum civitas, imo omnis Judaeae provincia expugnaretur ac declaretur a Romanis",
     "prev": {
       "id": "jad_occurence__301",
@@ -34084,6 +34581,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ingruente Romano exercitu",
     "prev": {
       "id": "jad_occurence__302",
@@ -34185,6 +34683,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "quando a Tito et Vespasiano capta est",
     "prev": {
       "id": "jad_occurence__303",
@@ -34285,6 +34784,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "gens Judaea propter scelerum magnitudinem Romanis tributaria facta",
     "prev": {
       "id": "jad_occurence__304",
@@ -34400,6 +34900,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romanis autem nondum venerant Judaei in captivitatem, licet jam et ipsa immineret ultrix commissi de Salvatore piaculi",
     "prev": {
       "id": "jad_occurence__305",
@@ -34516,6 +35017,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Non ab apostolis, sed a Romanis gens Judaea succisa, et a terra repromissionis ejecta est",
     "prev": {
       "id": "jad_occurence__306",
@@ -34613,6 +35115,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Non ab apostolis, sed a Romanis gens Judaea succisa, et a terra repromissionis ejecta est.",
     "prev": {
       "id": "jad_occurence__307",
@@ -34743,6 +35246,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Non ab apostolis, sed a Romanis gens Judaea succisa, et a terra repromissionis ejecta est",
     "prev": {
       "id": "jad_occurence__308",
@@ -34840,6 +35344,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Dies venturae a Romanis obsidionis et captivitatis significat",
     "prev": {
       "id": "jad_occurence__31",
@@ -34974,6 +35479,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "propter interfectionem Christi, et discipulorum ejus Romanus eam destruxit exercitus",
     "prev": {
       "id": "jad_occurence__310",
@@ -35075,6 +35581,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Obsidionem Hierosolymorum subitam, et expugnationem totius provinciae, quae a Romanis facta est",
     "prev": {
       "id": "jad_occurence__311",
@@ -35174,6 +35681,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Nam subito venit Romanorum exercitus, et circumdedit eos congregatos ad solemnitatem",
     "prev": {
       "id": "jad_occurence__312",
@@ -35281,6 +35789,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hierusalem destructa est a Romanis",
     "prev": {
       "id": "jad_occurence__313",
@@ -35393,6 +35902,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "irridet eos in praesenti exterminato loco, et gente illorum per exercitum Romanum, et subsannabit in judicio futuro",
     "prev": {
       "id": "jad_occurence__314",
@@ -35524,6 +36034,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "concremata est instantibus Romanis, quod excidium nimis horribile perspiciens",
     "prev": {
       "id": "jad_occurence__315",
@@ -35632,6 +36143,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Misit namque Dominus ignem in murum ejus per Romanorum manus, et devoravit aedes ejus, et dispersit habitatores de Jerusalem",
     "prev": {
       "id": "jad_occurence__316",
@@ -35736,6 +36248,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Malum itidem venit in civitate Jerusalem, ut primum a Babyloniis, et deinde exscinderetur a Romanis.",
     "prev": {
       "id": "jad_occurence__317",
@@ -35844,6 +36357,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ad subversionem illorum mitteret Romanum exercitum",
     "prev": {
       "id": "jad_occurence__318",
@@ -35956,6 +36470,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "venturis Romanis ad obsidendum Hierusalem",
     "prev": {
       "id": "jad_occurence__32",
@@ -36075,6 +36590,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "civitas Jerusalem tam a Babyloniis quam a Romanis conflagrata es",
     "prev": {
       "id": "jad_occurence__320",
@@ -36187,6 +36703,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "in manibus Romanorum plaga ejusdem Hierusalem desperata est",
     "prev": {
       "id": "jad_occurence__321",
@@ -36291,6 +36808,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ipse nimirum in Romanis agens comportavit aggerem, et coepit civitatem illam Hierusalem, atque inde captivam abduxit animarum multitudinem",
     "prev": {
       "id": "jad_occurence__322",
@@ -36400,6 +36918,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "in excidium Hierosolymorum venturi erant Romani",
     "prev": {
       "id": "jad_occurence__323",
@@ -36508,6 +37027,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "desolatio praenuntiatur, quae facta a Romanis eamdem filiam latronibus vastantibus",
     "prev": {
       "id": "jad_occurence__324",
@@ -36612,6 +37132,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Et extendam manum meam super Judam, et super omnes habitatores Jerusalem, etc. Nunc, de illo dicturus quod per manus Romanorum faciendum erat",
     "prev": {
       "id": "jad_occurence__325",
@@ -36711,6 +37232,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "adversus Hierusalem illam terrenam congregatae sunt in praelium omnes gentes, scilicet Romani omnium gentium principes, et capta est civita",
     "prev": {
       "id": "jad_occurence__326",
@@ -36810,6 +37332,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Videas in die quo capta est a Romanis, et diruta Hierusalem",
     "prev": {
       "id": "jad_occurence__327",
@@ -36909,6 +37432,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hierusalem, de foris Romano exercitu circumdata",
     "prev": {
       "id": "jad_occurence__328",
@@ -37017,6 +37541,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "succensus est ignis Romanorum, quo civitas sancta facta est deserta Sion, deserta facta est Jerusalem",
     "prev": {
       "id": "jad_occurence__33",
@@ -37121,6 +37646,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "civitas terrena Jerusalem deserta est facta, et templum exustum est, et qui Romanorum gladio superfuerunt",
     "prev": {
       "id": "jad_occurence__330",
@@ -37229,6 +37755,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "civitatem Jerusalem Romanis obsidentibus Christus manu fortis neutri 411 parti adest",
     "prev": {
       "id": "jad_occurence__331",
@@ -37333,6 +37860,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "data est civitas Jerusalem et omnis gloria templi manufacti exterminio per manus Romani imperii, et ceciderunt in ore gladii",
     "prev": {
       "id": "jad_occurence__332",
@@ -37445,6 +37973,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romanus exercitus Jerusalem civitatem circumdedit",
     "prev": {
       "id": "jad_occurence__333",
@@ -37544,6 +38073,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "populus Judaicus gratiam Dei et fidem Christi, adducit super eum Dominus diabolum regem superborum, et nihilominus exercitum Romanorum, et dupliciter captivati sunt",
     "prev": {
       "id": "jad_occurence__334",
@@ -37648,6 +38178,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "recedite a Judaeis blasphemantibus, quorum in necem Romanus paratur exercitus",
     "prev": {
       "id": "jad_occurence__335",
@@ -37757,6 +38288,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Antequam ingrederetur hostis Romanus per portas Hierusalem",
     "prev": {
       "id": "jad_occurence__336",
@@ -37869,6 +38401,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Planctus ille incoeptus obsidione Romana usque in finem perseverat",
     "prev": {
       "id": "jad_occurence__337",
@@ -37973,6 +38506,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hierosolymorum excidio juxta litteram factum est: « Appropinquante namque bello Romano et exterminio Judaicae gentis",
     "prev": {
       "id": "jad_occurence__338",
@@ -38090,6 +38624,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Legimus et miramur Josephum narrantem illud miserabile excidium Hierosolymorum",
     "prev": {
       "id": "jad_occurence__34",
@@ -38194,6 +38729,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Salvatorem crucifixit, taliter immissus est, ut succensus a Romanis",
     "prev": {
       "id": "jad_occurence__340",
@@ -38301,6 +38837,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "legamus miserabile Hierosolymorum excidium, et inveniemus circumfuso Romano exercitu",
     "prev": {
       "id": "jad_occurence__341",
@@ -38405,6 +38942,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ventura erant per manus Romanorum populo illi in ultionem sanguinis sui",
     "prev": {
       "id": "jad_occurence__342",
@@ -38504,6 +39042,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "veniret Romanus exercitus, et cumulatam in ultionem sanguinis Christi",
     "prev": {
       "id": "jad_occurence__343",
@@ -38603,6 +39142,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "messem, sicut jam dictum est, appellans illius immensitatem excidii, qua a Romanis erant perdendi",
     "prev": {
       "id": "jad_occurence__344",
@@ -38702,6 +39242,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "in eos ultionem per manus Romanorum exerceret",
     "prev": {
       "id": "jad_occurence__345",
@@ -38810,6 +39351,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ad ultionem sanguinis Jesu Christi, quae per manus Romanorum facta est.",
     "prev": {
       "id": "jad_occurence__346",
@@ -38909,6 +39451,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "perpessurus erat ultionem a gentibus Romanis",
     "prev": {
       "id": "jad_occurence__347",
@@ -39008,6 +39551,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "exercitum suum exercitum Romani imperii vocaret ad vindictam sanguinis sui",
     "prev": {
       "id": "jad_occurence__348",
@@ -39116,6 +39660,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "exercitus Romanorum, et vindicaverunt sanguinem ipsius",
     "prev": {
       "id": "jad_occurence__35",
@@ -39215,6 +39760,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "regem Christum, iratis vindictam facientibus Romanis",
     "prev": {
       "id": "jad_occurence__350",
@@ -39319,6 +39865,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "vindices « Romani venient, et tollent nostrum et locum et gentem",
     "prev": {
       "id": "jad_occurence__351",
@@ -39418,6 +39965,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romanus exercitus venire debuerit, et quomodo adhuc ultra illam vindictam manus Domini extenta sit",
     "prev": {
       "id": "jad_occurence__352",
@@ -39534,6 +40082,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "non gladiis Romanorum interficeremur, non captivi in omnes gentes duceremur, sed sicut super Sodomam et Gomorrham pluit sulphur et ignem Dominus a Domino , ita justissime super nos in vindictam sui sanguinis",
     "prev": {
       "id": "jad_occurence__353",
@@ -39642,6 +40191,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Quando vindices tui Romani veniant, eorumque et locum et gentem tollant",
     "prev": {
       "id": "jad_occurence__354",
@@ -39741,6 +40291,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "fecit quamvis nesciens vindictam sanguinis Christi",
     "prev": {
       "id": "jad_occurence__355",
@@ -39840,6 +40391,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "fecit, quamvis nesciens, vindictam sanguinis Christi;",
     "prev": {
       "id": "jad_occurence__356",
@@ -39955,6 +40507,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "venientes Romani sub Tito et Vespasiano principibus",
     "prev": {
       "id": "jad_occurence__357",
@@ -40065,6 +40618,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romanis sub hac occasione in vindictam necis Salvatoris venientibus",
     "prev": {
       "id": "jad_occurence__36",
@@ -40175,6 +40729,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Deinde in vindictam crucis dominicae Romanis vastantibus",
     "prev": {
       "id": "jad_occurence__360",
@@ -40299,6 +40854,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "praesente Vespasiano et Tito, alioque simul exercitu, curantem eos qui a daemonibus vexabantur",
     "prev": {
       "id": "jad_occurence__361",
@@ -40404,6 +40960,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Romanos intelligamus sub duce Vespasiano et Tito, qui occisis Iudeae populis peccatricem succenderunt urbem",
     "prev": {
       "id": "jad_occurence__362",
@@ -40509,6 +41066,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "de captiuitate Ierusalem uoluerimus accipere, quando a Tito et Vespasiano capta est",
     "prev": {
       "id": "jad_occurence__363",
@@ -40610,6 +41168,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Occiso enim Domino venerunt Romani",
     "prev": {
       "id": "jad_occurence__364",
@@ -40716,6 +41275,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "destructa fuit a Vespasiano et Tito principibus Romanorum",
     "prev": {
       "id": "jad_occurence__365",
@@ -40822,6 +41382,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Et odientes me, id est, nolentes converti, permanentes in odio pravo, disperdidisti: vel foris, tempore Titi et Vespasiani, vel intus ut nulla eorum vota rata essent",
     "prev": {
       "id": "jad_occurence__366",
@@ -40933,6 +41494,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "factum est tempore Titi et Vespasiani, quando capti sunt et venundati",
     "prev": {
       "id": "jad_occurence__367",
@@ -41039,6 +41601,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "post quadraginta duos annos captivati et interfecti sunt a Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__368",
@@ -41145,6 +41708,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "scilicet captio Titi et Vespasiani",
     "prev": {
       "id": "jad_occurence__37",
@@ -41251,6 +41815,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "a bestiis devorati sunt, id est, a Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__370",
@@ -41357,6 +41922,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "tradentur in manus gladii, id est, in potestatem gladiatorum Titi et Vespasiani",
     "prev": {
       "id": "jad_occurence__371",
@@ -41463,6 +42029,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "aper de silva, id est, Vespasianus de silva, id est, de gentili populo missus",
     "prev": {
       "id": "jad_occurence__372",
@@ -41569,6 +42136,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "in spiritu persecutionem illam quam passi sunt Judaei a Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__373",
@@ -41675,6 +42243,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "praevidens namque Dominus plagam et ruinam illi perfidae civitati futuram, nec temporalem solum, quae a Romanis ventura erat",
     "prev": {
       "id": "jad_occurence__374",
@@ -41804,6 +42373,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "missis exercitibus suis Romanis sub Tito et Vespasiano sicut dicit glossa",
     "prev": {
       "id": "jad_occurence__375",
@@ -41928,6 +42498,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "missis exercitibus suis scilicet Romanis sub Tito et Vespasiano perdidit homicidas illos",
     "prev": {
       "id": "jad_occurence__376",
@@ -42013,6 +42584,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "duo ursi, id est Titus et Vespasianus, venerunt et devastaverunt Iudaeos",
     "prev": {
       "id": "jad_occurence__377",
@@ -42132,6 +42704,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "pro destructione Ierusalem specialiter, quae facta est a Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__378",
@@ -42251,6 +42824,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "in vastatione Romanorum facta sub Tito et Vespasiano.",
     "prev": {
       "id": "jad_occurence__38",
@@ -42370,6 +42944,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "dispersi sunt a duobus ursis scilicet tito et vespasiano",
     "prev": {
       "id": "jad_occurence__380",
@@ -42489,6 +43064,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "quasi a duobus ursis, Tito et Vespasiano, devorati sunt.",
     "prev": {
       "id": "jad_occurence__381",
@@ -42596,6 +43172,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Per primam de Aegypto redeunt, per secundam de Babylone veniunt, per tertiam Romanam cladem fugiunt",
     "prev": {
       "id": "jad_occurence__382",
@@ -42688,6 +43265,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "utique temporibus Vespasiani, et Titi expletum, qui legit Josephum historiographum",
     "prev": {
       "id": "jad_occurence__383",
@@ -42780,6 +43358,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "a principibus Romanorum, Vespasiano videlicet, et Tito, quasi a duobus ursis consumpta est",
     "prev": {
       "id": "jad_occurence__384",
@@ -42879,6 +43458,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Judaeorum populo a Romanis principibus Vespasiano et Tito illata est",
     "prev": {
       "id": "jad_occurence__385",
@@ -42984,6 +43564,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "per Romanum protinus principem Titum Judaea destruitur",
     "prev": {
       "id": "jad_occurence__386",
@@ -43076,6 +43657,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "eo tempore quo Vespasiani et Titi circumdata est exercitibus",
     "prev": {
       "id": "jad_occurence__387",
@@ -43168,6 +43750,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasiano Titoque superantibus",
     "prev": {
       "id": "jad_occurence__388",
@@ -43260,6 +43843,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Josephus Matthiae filius, ex Hierosolymis sacerdos, a Vespasiano captus, cum Tito filio ejus relictus est",
     "prev": {
       "id": "jad_occurence__39",
@@ -43352,6 +43936,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "hic cum filio Tito de Hierosolymis triumphavit",
     "prev": {
       "id": "jad_occurence__390",
@@ -43444,6 +44029,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "in ultima eversione templi, quae sub Vespasiano et Tito accidit",
     "prev": {
       "id": "jad_occurence__391",
@@ -43536,6 +44122,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "templi Judaeorum, quod permansit usque ad imperium Vespasiani",
     "prev": {
       "id": "jad_occurence__392",
@@ -43628,6 +44215,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "cum civitatem, et sanctuarium dissipaturus sit populus Romanus, cum duce venturo Vespasiano",
     "prev": {
       "id": "jad_occurence__393",
@@ -43720,6 +44308,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Postea vero a Vespasiano et Tito, et deinceps quando Jerosolyma templumque succensum est",
     "prev": {
       "id": "jad_occurence__394",
@@ -43812,6 +44401,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "a secundo anno Vespasiani, quando Jerusalem a Romanis capta",
     "prev": {
       "id": "jad_occurence__395",
@@ -43904,6 +44494,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sub Vespasiano et Tito, quando templum captum atque subversum est",
     "prev": {
       "id": "jad_occurence__396",
@@ -44001,6 +44592,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "a Tito et Vespasiano Jerusalem circumdata est",
     "prev": {
       "id": "jad_occurence__397",
@@ -44093,6 +44685,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sub Tito et Vespasiano urbs capta est",
     "prev": {
       "id": "jad_occurence__398",
@@ -44185,6 +44778,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "circumdata est Jerusalem, et interfecti filii ejus, et obsidente Tito filio Vespasiani",
     "prev": {
       "id": "jad_occurence__40",
@@ -44282,6 +44876,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianus et Titus imperatores, magnificum agentes de Judaeis triumphum, Urbem ingressi sunt",
     "prev": {
       "id": "jad_occurence__400",
@@ -44374,6 +44969,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "exstinctisque Judaeis, Titus, qui p. 1066A | ad vindicandum Domini nostri Jesu Christi sanguinem judicio Dei fuerat ordinatus",
     "prev": {
       "id": "jad_occurence__401",
@@ -44467,6 +45063,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Deus Pater est, qui suscitavit Vespasianum Caesarem Romanorum, qui et populum gladio vastavit, et civitatem Jerusalem funditus cum suis universis evertit",
     "prev": {
       "id": "jad_occurence__402",
@@ -44562,6 +45159,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "venient Romani, et tollent nostrum locum et gentem",
     "prev": {
       "id": "jad_occurence__403",
@@ -44650,6 +45248,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "apti a duobus ursis, id est, Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__404",
@@ -44738,6 +45337,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Et civitatem, et sanctuarium dissipabit populus cum duce venturo * , id est, Romanus exercitus cum Vespasiano",
     "prev": {
       "id": "jad_occurence__405",
@@ -44826,6 +45426,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "n gladium dabo * .   Quod factum est per Vespasianum",
     "prev": {
       "id": "jad_occurence__406",
@@ -44914,6 +45515,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "mmisit duos ursos de silvis gentium, Vespasianum scilicet, et Titum",
     "prev": {
       "id": "jad_occurence__407",
@@ -45002,6 +45604,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "plenius tamen sub Romana captivitate impleta est",
     "prev": {
       "id": "jad_occurence__408",
@@ -45083,6 +45686,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hierusalem oppugnabatur a Romanis",
     "prev": {
       "id": "jad_occurence__41",
@@ -45171,6 +45775,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "cernit captivitatem urbis Jerusalem a Romanis futuram",
     "prev": {
       "id": "jad_occurence__410",
@@ -45259,6 +45864,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hierosolyma capta, Judaeos Romanis tributarios fecit",
     "prev": {
       "id": "jad_occurence__411",
@@ -45331,7 +45937,37 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 6,
+        "name": "Apocalypticism",
+        "short_description": "The occurrence is entangled with eschatological or apocalyptic ideas. This often means that the conquest provides a resource for imagining and conceiving of the End of Times.",
+        "jad_id": "jad_keyword__6",
+        "part_of": []
+      },
+      {
+        "id": 12,
+        "name": "Christ cleansing Temple",
+        "short_description": "",
+        "jad_id": "jad_keyword__12",
+        "part_of": [
+          {
+            "id": 23,
+            "name": "Temple",
+            "short_description": "The Temple is mentioned at the occurrence (there are many others where the Temple is not present, but often it is just \"Jerusalem\").",
+            "jad_id": "jad_keyword__23",
+            "part_of": []
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Spiritual exegesis",
+        "short_description": "",
+        "jad_id": "jad_keyword__27",
+        "part_of": []
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
@@ -45354,6 +45990,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Test",
     "prev": {
       "id": "jad_occurence__412",
@@ -45442,6 +46079,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "fuit eis a Tito et Vespasiano in destructione Hierusalem",
     "prev": {
       "id": "jad_occurence__413",
@@ -45530,6 +46168,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sicut fuit in destructione Titi et Vespasiani",
     "prev": {
       "id": "jad_occurence__414",
@@ -45618,6 +46257,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Haec divisio facta est in destructione Hierusalem per Titum et Vespasianum",
     "prev": {
       "id": "jad_occurence__415",
@@ -45706,6 +46346,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sicut completum est in occulta destructione per Titum et Vespasianum",
     "prev": {
       "id": "jad_occurence__416",
@@ -45794,6 +46435,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "destructionem civitatis futuram per Titum et Vespasianum",
     "prev": {
       "id": "jad_occurence__417",
@@ -45882,6 +46524,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "completae, in destructione Titi et Vespasiani",
     "prev": {
       "id": "jad_occurence__418",
@@ -45970,6 +46613,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sicut impletum est in dispersione Titi et Vespasiani:",
     "prev": {
       "id": "jad_occurence__42",
@@ -46058,6 +46702,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "impleta fuit, quando eos Titus et Vespasianus disperserunt",
     "prev": {
       "id": "jad_occurence__420",
@@ -46146,6 +46791,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Titus, « ferus » et superbus, « depastus est eam, » id est, prorsus dexstruxit",
     "prev": {
       "id": "jad_occurence__421",
@@ -46234,6 +46880,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "sicut completum est per Titum et Vespasianum.",
     "prev": {
       "id": "jad_occurence__422",
@@ -46322,6 +46969,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "reges fecerunt Romani, Titus et Vespasianus",
     "prev": {
       "id": "jad_occurence__423",
@@ -46410,6 +47058,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Assyrii sub Salmanasar, Babylonii Judaeam sub Nabuchodonosor, Antiochus Syriae, et Vespasianus imperator Romanorum vastaverunt",
     "prev": {
       "id": "jad_occurence__424",
@@ -46498,6 +47147,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "de Hierusalem, in qua velut pecus in ovili habitabat; abscidetur promiscua plebis multitudo, deleta a Tito et Vespasiano ferro, fame et captivitate",
     "prev": {
       "id": "jad_occurence__425",
@@ -46586,6 +47236,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "destruendum esset a Vespasiano et Tito principibus Romanorum",
     "prev": {
       "id": "jad_occurence__43",
@@ -46674,6 +47325,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "haec Hierosolymae subversio quadraginta annis a passione Domini dilata ultione, anno imperii Vespasiani secund",
     "prev": {
       "id": "jad_occurence__430",
@@ -46762,6 +47414,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Subversio Hierusalem a Tito Vespasiano",
     "prev": {
       "id": "jad_occurence__431",
@@ -46850,6 +47503,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ad debellandos Judaeos magister militiae Vespasianus",
     "prev": {
       "id": "jad_occurence__432",
@@ -46938,6 +47592,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "venerunt duo ursi, vespasianus et titus, et obsederunt hierusalem",
     "prev": {
       "id": "jad_occurence__433",
@@ -47026,6 +47681,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "illa desolatio quando a Tito et Vespasiano obsessa est Hierusolyma",
     "prev": {
       "id": "jad_occurence__434",
@@ -47133,6 +47789,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "destructa est a Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__435",
@@ -47235,6 +47892,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "donec civitates Judaeorum Vespasiano Titoque pugnantibus penitus subvertantur",
     "prev": {
       "id": "jad_occurence__436",
@@ -47345,6 +48003,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hoc accidisse Judaeis post passionem Domini sub Vespasiano et Adriano",
     "prev": {
       "id": "jad_occurence__437",
@@ -47457,6 +48116,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Haec juxta litteram accidisse populo Judaeorum sub Vespasiano et Tito Romanis principibus",
     "prev": {
       "id": "jad_occurence__438",
@@ -47559,6 +48219,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "imperator Romanorum misit duos principes suos Vespasianum et Titum, ut delerent civitatem",
     "prev": {
       "id": "jad_occurence__44",
@@ -47661,6 +48322,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Cum venerit Vespasianus et Titus",
     "prev": {
       "id": "jad_occurence__440",
@@ -47749,6 +48411,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "et ejectis Judaeis, habitaverint in Judaea alienigenae, qui de toto orbe diversarum gentium accolae sunt, adducti a Tito, et Vespasiano",
     "prev": {
       "id": "jad_occurence__441",
@@ -47851,6 +48514,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "De captivitate et destructione Hierosolymorum temporibus",
     "prev": {
       "id": "jad_occurence__442",
@@ -47947,6 +48611,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Qui ad Vespasiani Adrianique haec referunt tempora, corporaliter dicunt impleta quae scripta sunt",
     "prev": {
       "id": "jad_occurence__443",
@@ -48035,6 +48700,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Haec juxta litteram 78 accidisse populo Judaeorum sub Vespasiano et Tito Romanis principibus,",
     "prev": {
       "id": "jad_occurence__444",
@@ -48131,6 +48797,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Hoc accidisse Judaeis post passionem Domini sub Vespasiano et Adriano",
     "prev": {
       "id": "jad_occurence__445",
@@ -48219,6 +48886,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "donec civitates Judaeae, Vespasiano Titoque pugnantibus, penitus subvertantur",
     "prev": {
       "id": "jad_occurence__446",
@@ -48315,6 +48983,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "subversionem Jerusalem, et caeterarum urbium sub Vespasiano, et Adriano",
     "prev": {
       "id": "jad_occurence__447",
@@ -48403,6 +49072,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ultimam sub Vespasiano et Tito destructionem Templi indicat",
     "prev": {
       "id": "jad_occurence__448",
@@ -48491,6 +49161,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "ad extremam refert captivitatem: quando post Titum et Vespasianum, et ultimam eversionem Jerusalem",
     "prev": {
       "id": "jad_occurence__45",
@@ -48584,6 +49255,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "putet Vespasiani Titique temporibus fuisse completa",
     "prev": {
       "id": "jad_occurence__450",
@@ -48672,6 +49344,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "omnem historiam referunt ad Vespasiani et Titi tempora, a quibus Hierosolyma subversa est",
     "prev": {
       "id": "jad_occurence__451",
@@ -48768,6 +49441,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "post ultimam vastitatem, quae sub Vespasiano et Tito Adrianoque accidit",
     "prev": {
       "id": "jad_occurence__452",
@@ -48856,6 +49530,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "subversa Jerusalem sub Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__453",
@@ -48952,6 +49627,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "quando templum destructum est, secundo sub Tito et Vespasiano, cujus ruina usque in finem permanet",
     "prev": {
       "id": "jad_occurence__454",
@@ -49045,6 +49721,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Scribit plenius Josephus septem voluminibus, Vespasiani et Titi narrans triumphos",
     "prev": {
       "id": "jad_occurence__455",
@@ -49133,6 +49810,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Quae universa Judaei, Vespasiani, Titique temporibus, et maxime Hadriani, juxta litteram impleta esse commemorant",
     "prev": {
       "id": "jad_occurence__456",
@@ -49221,6 +49899,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "in die captivitatis, vel a Nabuchodonosor, vel a Vespasiano et Tito",
     "prev": {
       "id": "jad_occurence__457",
@@ -49309,6 +49988,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "de captivitate Jerusalem voluerimus accipere, quando a Tito et Vespasiano capta est",
     "prev": {
       "id": "jad_occurence__458",
@@ -49397,6 +50077,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "a duobus ursis, Vespasiano videlicet et Tito",
     "prev": {
       "id": "jad_occurence__46",
@@ -49490,6 +50171,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "rursum a Vespasiano, et Tito canitur subvertendum",
     "prev": {
       "id": "jad_occurence__460",
@@ -49578,6 +50260,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "multa post saecula a Tito et Vespasiano, templum Jerosolymis incensum est",
     "prev": {
       "id": "jad_occurence__461",
@@ -49666,6 +50349,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Antequam veniat Nabuchodonosor, sive Titus Vespasiani filius, accitus a prophetis, et eorum vaticinia compleantur",
     "prev": {
       "id": "jad_occurence__462",
@@ -49754,6 +50438,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianus et Titus Jerosolymam subverterant",
     "prev": {
       "id": "jad_occurence__463",
@@ -49842,6 +50527,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Titi et Vespasiani adversus Judaeos, et praecipue Jerusalem obsidionem pugnamque significari",
     "prev": {
       "id": "jad_occurence__464",
@@ -49930,6 +50616,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "duo ursi de silvis gentium Romanarum, Vespasianus, et Titus",
     "prev": {
       "id": "jad_occurence__465",
@@ -50018,6 +50705,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Ad extremum sub Vespasiano et Tito urbs capta, templumque subversum est",
     "prev": {
       "id": "jad_occurence__466",
@@ -50106,6 +50794,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "veniunt Romani, et tollunt nobis gentem et locum",
     "prev": {
       "id": "jad_occurence__467",
@@ -50194,6 +50883,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Merito Judaei a Romanis victi sunt",
     "prev": {
       "id": "jad_occurence__468",
@@ -50275,6 +50965,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Titus Hierosolymam subvertit",
     "prev": {
       "id": "jad_occurence__47",
@@ -50356,6 +51047,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "gens illa propter scelerum magnitudinem Romanis tributaria facta est",
     "prev": {
       "id": "jad_occurence__470",
@@ -50437,6 +51129,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianus scilicet et Titus, de gentium siluis egressi",
     "prev": {
       "id": "jad_occurence__471",
@@ -50518,6 +51211,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Vespasianus et Titus tamquam duo ursi de saltu egressi",
     "prev": {
       "id": "jad_occurence__472",
@@ -50594,6 +51288,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Judaei, licet peccaverint contra fidem Christi, etiam ipsis renitentibus, aedificatae sunt Ecclesiae multae in Jerusalem, et non post multos dies dissipati sunt a Romanis",
     "prev": {
       "id": "jad_occurence__473",
@@ -50670,6 +51365,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "Nam adveniente Vespasiano, et templum incensum est, et sexcenta millia Judaeorum eo bello, gladio et fame affecta sunt",
     "prev": {
       "id": "jad_occurence__474",
@@ -50751,6 +51447,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "dissipabit civitatem et sanctuarium populus Romanus",
     "prev": {
       "id": "jad_occurence__475",
@@ -50854,6 +51551,7 @@
         "value": true
       }
     ],
+    "Incipit Text": null,
     "view_label": "De tyto et uaspasiano",
     "prev": {
       "id": "jad_occurence__476",
@@ -50935,6 +51633,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "dominus Vespasianum et Titum Jerusalem adduxit, qui ipsam civitatem funditus destruxerunt",
     "prev": {
       "id": "jad_occurence__477",
@@ -51016,6 +51715,7 @@
     "manuscripts": [],
     "occurrence_ms": [],
     "main_ms": [],
+    "Incipit Text": null,
     "view_label": "per destructionem templi Romanorum",
     "prev": {
       "id": "jad_occurence__478",
@@ -51097,7 +51797,7 @@
     "manuscripts": [
       {
         "id": 41,
-        "value": "149, "
+        "value": "MS 149, "
       }
     ],
     "occurrence_ms": [
@@ -51112,10 +51812,211 @@
         "value": false
       }
     ],
+    "Incipit Text": null,
     "view_label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII",
     "prev": {
       "id": "jad_occurence__48",
       "label": "destructionem a Tito et Vespasiano factam"
+    },
+    "next": {
+      "id": "jad_occurence__481",
+      "label": "De destructione templi"
+    }
+  },
+  "481": {
+    "id": 481,
+    "passage": "De destructione templi",
+    "jad_id": "jad_occurence__481",
+    "language": null,
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "Jessalynn Bird (St. Mary's College, Notre Dame); Burt Westermeier (University of Yale)",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 14,
+        "name": "De destructione templi ",
+        "jad_id": "jad_work__14",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 10,
+            "value": "BNF, Latin 446"
+          },
+          {
+            "id": 42,
+            "value": "Bodl., Laud Misc. 88"
+          },
+          {
+            "id": 43,
+            "value": "ÖNB, MS 363"
+          },
+          {
+            "id": 44,
+            "value": "Frankfurt, Barth. 56"
+          },
+          {
+            "id": 45,
+            "value": "Sankt-Florian, MS XI 216"
+          },
+          {
+            "id": 46,
+            "value": "Linz, MS 488"
+          },
+          {
+            "id": 47,
+            "value": "Hamburg, Jacobi 21"
+          }
+        ],
+        "title": "De destructione templi",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 11,
+        "value": "Personal hint"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 14
+        },
+        "value": "anonymous"
+      }
+    ],
+    "source_passage": [],
+    "manuscripts": [
+      {
+        "id": 10,
+        "value": "Latin 446, 206r-209v"
+      },
+      {
+        "id": 42,
+        "value": "Laud Misc. 88, 52v-58v"
+      },
+      {
+        "id": 46,
+        "value": "MS 488, 164v-182v"
+      },
+      {
+        "id": 47,
+        "value": "Jacobi 21, 189v-206v"
+      },
+      {
+        "id": 45,
+        "value": "MS XI 216, 157r-173r"
+      },
+      {
+        "id": 44,
+        "value": "Barth. 56, 128r-140v"
+      },
+      {
+        "id": 43,
+        "value": "MS 363, 202v-222r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 69,
+        "value": "jad_occurence__69"
+      },
+      {
+        "id": 70,
+        "value": "jad_occurence__70"
+      },
+      {
+        "id": 71,
+        "value": "jad_occurence__71"
+      },
+      {
+        "id": 72,
+        "value": "jad_occurence__72"
+      },
+      {
+        "id": 73,
+        "value": "jad_occurence__73"
+      },
+      {
+        "id": 74,
+        "value": "jad_occurence__74"
+      },
+      {
+        "id": 75,
+        "value": "jad_occurence__75"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 69,
+        "value": false
+      },
+      {
+        "id": 70,
+        "value": false
+      },
+      {
+        "id": 71,
+        "value": false
+      },
+      {
+        "id": 72,
+        "value": false
+      },
+      {
+        "id": 73,
+        "value": false
+      },
+      {
+        "id": 74,
+        "value": false
+      },
+      {
+        "id": 75,
+        "value": true
+      }
+    ],
+    "Incipit Text": null,
+    "view_label": "De destructione templi",
+    "prev": {
+      "id": "jad_occurence__480",
+      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
     },
     "next": {
       "id": "jad_occurence__49",

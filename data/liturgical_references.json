@@ -36,8 +36,8 @@
     "description": "Palm Sunday (In ramis palmarum), the Sunday before Easter.",
     "view_label": "Palm Sunday",
     "prev": {
-      "id": "jad_liturgical_reference__22",
-      "label": "Dominica III in quadragesima"
+      "id": "jad_liturgical_reference__26",
+      "label": "II Sunday Advent"
     },
     "next": {
       "id": "jad_liturgical_reference__4",
@@ -323,6 +323,66 @@
     "prev": {
       "id": "jad_liturgical_reference__21",
       "label": "In feria sexta post Judica"
+    },
+    "next": {
+      "id": "jad_liturgical_reference__23",
+      "label": "Title lacking (space blank)"
+    }
+  },
+  "23": {
+    "id": 23,
+    "name": "Title lacking (space blank)",
+    "jad_id": "jad_liturgical_reference__23",
+    "description": "",
+    "view_label": "Title lacking (space blank)",
+    "prev": {
+      "id": "jad_liturgical_reference__22",
+      "label": "Dominica III in quadragesima"
+    },
+    "next": {
+      "id": "jad_liturgical_reference__24",
+      "label": "Title lacking (no space)"
+    }
+  },
+  "24": {
+    "id": 24,
+    "name": "Title lacking (no space)",
+    "jad_id": "jad_liturgical_reference__24",
+    "description": "",
+    "view_label": "Title lacking (no space)",
+    "prev": {
+      "id": "jad_liturgical_reference__23",
+      "label": "Title lacking (space blank)"
+    },
+    "next": {
+      "id": "jad_liturgical_reference__25",
+      "label": "Non-liturgical title"
+    }
+  },
+  "25": {
+    "id": 25,
+    "name": "Non-liturgical title",
+    "jad_id": "jad_liturgical_reference__25",
+    "description": "",
+    "view_label": "Non-liturgical title",
+    "prev": {
+      "id": "jad_liturgical_reference__24",
+      "label": "Title lacking (no space)"
+    },
+    "next": {
+      "id": "jad_liturgical_reference__26",
+      "label": "II Sunday Advent"
+    }
+  },
+  "26": {
+    "id": 26,
+    "name": "II Sunday Advent",
+    "jad_id": "jad_liturgical_reference__26",
+    "description": "",
+    "view_label": "II Sunday Advent",
+    "prev": {
+      "id": "jad_liturgical_reference__25",
+      "label": "Non-liturgical title"
     },
     "next": {
       "id": "jad_liturgical_reference__3",

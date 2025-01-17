@@ -250,5 +250,56 @@
     "gnd_url": "",
     "abbreviation": "Göttweig",
     "place": []
+  },
+  "19": {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "name": "Frankfurt, Universitatsbibliothek",
+    "jad_id": "jad_library__19",
+    "gnd_url": "",
+    "abbreviation": "Frankfurt",
+    "place": []
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "name": "Sankt-Florian, Stiftsbibliothek",
+    "jad_id": "jad_library__20",
+    "gnd_url": "",
+    "abbreviation": "Sankt-Florian",
+    "place": []
+  },
+  "21": {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "name": "Linz, Oberösterreichische Landesbibliothek",
+    "jad_id": "jad_library__21",
+    "gnd_url": "",
+    "abbreviation": "Linz",
+    "place": []
+  },
+  "22": {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "name": "Hamburg, Stadt- und Universitatsbibliothek",
+    "jad_id": "jad_library__22",
+    "gnd_url": "",
+    "abbreviation": "Hamburg",
+    "place": []
+  },
+  "23": {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "name": "Trinity College",
+    "jad_id": "jad_library__23",
+    "gnd_url": "",
+    "abbreviation": "Trinity Coll.",
+    "place": [
+      {
+        "id": 7,
+        "value": "Cambridge",
+        "order": "7.00000000000000000000"
+      }
+    ]
   }
 }

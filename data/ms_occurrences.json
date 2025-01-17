@@ -299,12 +299,12 @@
     ],
     "view_label": "romanis obsidentibus civitatem",
     "prev": {
-      "id": "jad_occurence__68",
-      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
+      "id": "jad_occurence__69",
+      "label": "De destructione templi"
     },
     "next": {
-      "id": "jad_occurence__8",
-      "label": "predixit David destructionem urbis Ierusalem factam per romanos"
+      "id": "jad_occurence__70",
+      "label": "De destructione templi"
     }
   },
   "8": {
@@ -343,8 +343,8 @@
     ],
     "view_label": "predixit David destructionem urbis Ierusalem factam per romanos",
     "prev": {
-      "id": "jad_occurence__7",
-      "label": "romanis obsidentibus civitatem"
+      "id": "jad_occurence__75",
+      "label": "De destructione templi"
     },
     "next": {
       "id": "jad_occurence__9",
@@ -480,7 +480,7 @@
     },
     "next": {
       "id": "jad_occurence__12",
-      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum, quod ipsam non previdebat"
+      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum"
     }
   },
   "12": {
@@ -489,7 +489,7 @@
     "occurrence": [
       {
         "id": 11,
-        "value": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum, quod ipsam non previdebat"
+        "value": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum"
       }
     ],
     "manuscript": [
@@ -517,7 +517,7 @@
         "value": "Latin 3281, 259v-260r"
       }
     ],
-    "view_label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum, quod ipsam non previdebat",
+    "view_label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
     "prev": {
       "id": "jad_occurence__11",
       "label": "Impleta prophetia, quam olim Moyses predixerat, foris vastabit eos gladiis, dicit Iosephus, qui de eius exilio civitatis multa describsit"
@@ -564,7 +564,7 @@
     "view_label": "signa destructionis Ierusalem et templi cum dicit ibidem, cum videritis circumdari ab exercitu Ierusalem",
     "prev": {
       "id": "jad_occurence__12",
-      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum, quod ipsam non previdebat"
+      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum"
     },
     "next": {
       "id": "jad_occurence__14",
@@ -2959,7 +2959,7 @@
     "manuscript": [
       {
         "id": 41,
-        "value": "Göttweig, 149"
+        "value": "Göttweig, MS 149"
       }
     ],
     "position_in_ms": "",
@@ -2978,7 +2978,7 @@
     "ms_locus": [
       {
         "id": 41,
-        "value": "149, "
+        "value": "MS 149, "
       }
     ],
     "view_label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII",
@@ -2987,8 +2987,316 @@
       "label": "De tyto et uaspasiano"
     },
     "next": {
+      "id": "jad_occurence__69",
+      "label": "De destructione templi"
+    }
+  },
+  "69": {
+    "id": 69,
+    "jad_id": "jad_occurence__69",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 10,
+        "value": "BNF, Latin 446"
+      }
+    ],
+    "position_in_ms": "206r-209v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 10,
+        "value": "Latin 446, 206r-209v"
+      }
+    ],
+    "view_label": "De destructione templi",
+    "prev": {
+      "id": "jad_occurence__68",
+      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
+    },
+    "next": {
       "id": "jad_occurence__7",
       "label": "romanis obsidentibus civitatem"
+    }
+  },
+  "70": {
+    "id": 70,
+    "jad_id": "jad_occurence__70",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 42,
+        "value": "Bodl., Laud Misc. 88"
+      }
+    ],
+    "position_in_ms": "52v-58v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 42,
+        "value": "Laud Misc. 88, 52v-58v"
+      }
+    ],
+    "view_label": "De destructione templi",
+    "prev": {
+      "id": "jad_occurence__7",
+      "label": "romanis obsidentibus civitatem"
+    },
+    "next": {
+      "id": "jad_occurence__71",
+      "label": "De destructione templi"
+    }
+  },
+  "71": {
+    "id": 71,
+    "jad_id": "jad_occurence__71",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 46,
+        "value": "Linz, MS 488"
+      }
+    ],
+    "position_in_ms": "164v-182v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 46,
+        "value": "MS 488, 164v-182v"
+      }
+    ],
+    "view_label": "De destructione templi",
+    "prev": {
+      "id": "jad_occurence__70",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__72",
+      "label": "De destructione templi"
+    }
+  },
+  "72": {
+    "id": 72,
+    "jad_id": "jad_occurence__72",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 47,
+        "value": "Hamburg, Jacobi 21"
+      }
+    ],
+    "position_in_ms": "189v-206v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 47,
+        "value": "Jacobi 21, 189v-206v"
+      }
+    ],
+    "view_label": "De destructione templi",
+    "prev": {
+      "id": "jad_occurence__71",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__73",
+      "label": "De destructione templi"
+    }
+  },
+  "73": {
+    "id": 73,
+    "jad_id": "jad_occurence__73",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 45,
+        "value": "Sankt-Florian, MS XI 216"
+      }
+    ],
+    "position_in_ms": "157r-173r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 45,
+        "value": "MS XI 216, 157r-173r"
+      }
+    ],
+    "view_label": "De destructione templi",
+    "prev": {
+      "id": "jad_occurence__72",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__74",
+      "label": "De destructione templi"
+    }
+  },
+  "74": {
+    "id": 74,
+    "jad_id": "jad_occurence__74",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 44,
+        "value": "Frankfurt, Barth. 56"
+      }
+    ],
+    "position_in_ms": "128r-140v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 44,
+        "value": "Barth. 56, 128r-140v"
+      }
+    ],
+    "view_label": "De destructione templi",
+    "prev": {
+      "id": "jad_occurence__73",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__75",
+      "label": "De destructione templi"
+    }
+  },
+  "75": {
+    "id": 75,
+    "jad_id": "jad_occurence__75",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 43,
+        "value": "ÖNB, MS 363"
+      }
+    ],
+    "position_in_ms": "202v-222r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-16",
+    "ms_locus": [
+      {
+        "id": 43,
+        "value": "MS 363, 202v-222r"
+      }
+    ],
+    "view_label": "De destructione templi",
+    "prev": {
+      "id": "jad_occurence__74",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__8",
+      "label": "predixit David destructionem urbis Ierusalem factam per romanos"
     }
   }
 }

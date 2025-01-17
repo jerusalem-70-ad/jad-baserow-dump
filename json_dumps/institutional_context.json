@@ -179,5 +179,18 @@
     "name": "Friars",
     "jad_id": "jad_institutional_context__19",
     "part_of": []
+  },
+  "20": {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "name": "Benedictines Mondsee",
+    "jad_id": "jad_institutional_context__20",
+    "part_of": [
+      {
+        "id": 3,
+        "value": "Benedictines",
+        "order": "3.00000000000000000000"
+      }
+    ]
   }
 }
