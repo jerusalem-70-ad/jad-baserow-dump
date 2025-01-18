@@ -90,8 +90,8 @@
         "author_certainty": true,
         "view_label": "Sermones ",
         "prev": {
-          "id": "jad_work__197",
-          "label": "Sermones "
+          "id": "jad_work__199",
+          "label": "Commentary Amos "
         },
         "next": {
           "id": "jad_work__20",
@@ -1195,8 +1195,8 @@
           "label": "Sermones "
         },
         "next": {
-          "id": "jad_work__21",
-          "label": "Commentary Lamentationes "
+          "id": "jad_work__200",
+          "label": "Commentary Sophonia "
         }
       },
       {
@@ -1260,8 +1260,8 @@
         "author_certainty": true,
         "view_label": "Commentary Lamentationes ",
         "prev": {
-          "id": "jad_work__20",
-          "label": "Commentary Ezekiel "
+          "id": "jad_work__202",
+          "label": "Commentary Michea "
         },
         "next": {
           "id": "jad_work__22",
@@ -6859,6 +6859,221 @@
           "id": "jad_work__186",
           "label": "Sermones "
         }
+      },
+      {
+        "id": 198,
+        "name": "Commentary Hosea ",
+        "jad_id": "jad_work__198",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Hosea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Commentary Hosea ",
+        "prev": {
+          "id": "jad_work__197",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__199",
+          "label": "Commentary Amos "
+        }
+      },
+      {
+        "id": 199,
+        "name": "Commentary Amos ",
+        "jad_id": "jad_work__199",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Amos",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Commentary Amos ",
+        "prev": {
+          "id": "jad_work__198",
+          "label": "Commentary Hosea "
+        },
+        "next": {
+          "id": "jad_work__2",
+          "label": "Sermones "
+        }
+      },
+      {
+        "id": 200,
+        "name": "Commentary Sophonia ",
+        "jad_id": "jad_work__200",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Sophonia",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Commentary Sophonia ",
+        "prev": {
+          "id": "jad_work__20",
+          "label": "Commentary Ezekiel "
+        },
+        "next": {
+          "id": "jad_work__201",
+          "label": "Commentary Rom. "
+        }
+      },
+      {
+        "id": 201,
+        "name": "Commentary Rom. ",
+        "jad_id": "jad_work__201",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Rom.",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Commentary Rom. ",
+        "prev": {
+          "id": "jad_work__200",
+          "label": "Commentary Sophonia "
+        },
+        "next": {
+          "id": "jad_work__202",
+          "label": "Commentary Michea "
+        }
+      },
+      {
+        "id": 202,
+        "name": "Commentary Michea ",
+        "jad_id": "jad_work__202",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Michea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Commentary Michea ",
+        "prev": {
+          "id": "jad_work__201",
+          "label": "Commentary Rom. "
+        },
+        "next": {
+          "id": "jad_work__21",
+          "label": "Commentary Lamentationes "
+        }
       }
     ]
   },
@@ -12197,8 +12412,8 @@
           "label": "Legenda aurea "
         },
         "next": {
-          "id": "jad_work__2",
-          "label": "Sermones "
+          "id": "jad_work__198",
+          "label": "Commentary Hosea "
         }
       }
     ]

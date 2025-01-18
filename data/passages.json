@@ -527,7 +527,12 @@
     "text_paragraph": "habent enim omnes prophete materiam intrinsecam et extrinsecam, similiter et intentionem, materia intrinseca et extrinseca quatuor prophetarum eleganter significatur in visione zacharie prophete qui vidit quattuor cornua, et dictum est ei, ista sunt cornua que ventilaverunt Iudam et Ierusalem, postmodum autem vidit quatuor fabros, et dictum est ei, isti missi sunt ut deiciant cornua que ventilaverunt Iudam, ad litteram istam iiii cornua sunt quatuor regna, scilicet assyriorum, babiloniorum, grecorum, et romanorum, qui destruxerunt Iudeos, quatuor vero fabri sunt quatuor prophete, qui horum regnorum destructionem predixerunt, sicut dictum est Ieremie, ecce constitui te super gentes et regna, ut evellas et destruas, et disperdas et dissipes, et edifices et plantes, spiritualiter autem iiii cornua iudeos ventilantia sunt iiii genera peccatorum",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 228,
+        "value": "Ex. 27,2"
+      }
+    ],
     "work": [
       {
         "id": 11,
@@ -664,8 +669,8 @@
     ],
     "view_label": "quatuor regna, scilicet assyriorum, babiloniorum, grecorum, et romanorum, qui destruxerunt Iudeos",
     "prev": {
-      "id": "jad_occurence__49",
-      "label": "civitatem a Tito et Vespasiano destructam"
+      "id": "jad_occurence__499",
+      "label": "adhuc templum Hierosolymis stabat, et necdum erat subversum a Romanis"
     },
     "next": {
       "id": "jad_occurence__50",
@@ -683,7 +688,7 @@
     },
     "position_in_work": "Is. 66",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "vox populi de civitate, de templo, romanis obsidentibus civitatem, principes obtinuerunt arcem, sic et in iudicio omnes salvandi et liberandi",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [
@@ -1702,7 +1707,7 @@
   },
   "13": {
     "id": 13,
-    "passage": "Zacharias inter ipsa quasi renascentis templi cunabilia futurum ipsius excidium per Romanos predixit",
+    "passage": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram",
     "jad_id": "jad_occurence__13",
     "language": {
       "id": 14729,
@@ -1711,13 +1716,17 @@
     },
     "position_in_work": "Pentecost",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "Aperi libane portas tuas et comedet ignis cedros tuos [Zach. 11,1], zacharias ut decimus prophetarum post destructionem civitatis sancte iam factam, aliam per romanos predicit futuram, inter reedificationis templi cunabula, prophetie spiritu in vindictam dominice passionis prenuntiat plebis destructionem, civitatis eversionem, templi deiectionem, idem etiam prophetans, dominum ipsam civitatem in mansuetudine visitaturum, ait exulta satis filia Syon, ecce rex tuus, tibi venit iustus et salvator, ascendens super asinam et pullum filium asine [Zach. 9,9]",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [
       {
         "id": 27,
         "value": "Zach. 11,1"
+      },
+      {
+        "id": 227,
+        "value": "Zach. 9,9"
       }
     ],
     "work": [
@@ -1853,7 +1862,7 @@
         "value": false
       }
     ],
-    "Incipit Text": null,
+    "Incipit Text": "Aperi libane portas tuas et comedet ignis cedros tuos [Zach. 11,1], zacharias ut decimus prophetarum post destructinem civitatis sancte iam factam, aliam per romanos predicit futuram, inter reedificationis templi cunabula, prophetie spiritu in vindictam dominice passionis prenuntiat plebis destructionem, civitatis eversionem, templi deiectionem, idem etiam prophetans, dominum ipsam civitatem in mansuetudine visitaturum, ait exulta satis filia Syon, ecce rex tuus, tibi venit iustus et salvator, ascendens super asinam et pullum filium asine [Zach. 9,9]",
     "manuscripts": [
       {
         "id": 2,
@@ -1864,7 +1873,7 @@
         "value": "BNF, Latin 2950"
       }
     ],
-    "view_label": "Zacharias inter ipsa quasi renascentis templi cunabilia futurum ipsius excidium per Romanos predixit",
+    "view_label": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram",
     "prev": {
       "id": "jad_occurence__129",
       "label": "civitatem incendit, Deus Pater est, qui suscitavit Vespasianum Caesarem Romanorum, qui et populum gladio vastavit"
@@ -6647,12 +6656,12 @@
     "manuscripts": [],
     "view_label": "civitatem a Tito et Vespasiano destructam",
     "prev": {
-      "id": "jad_occurence__481",
-      "label": "De destructione templi"
+      "id": "jad_occurence__489",
+      "label": "Romanis capientibus urbem"
     },
     "next": {
-      "id": "jad_occurence__5",
-      "label": "quatuor regna, scilicet assyriorum, babiloniorum, grecorum, et romanorum, qui destruxerunt Iudeos"
+      "id": "jad_occurence__490",
+      "label": "numerabo vos in gladio, » hoc est in suppliciis, « et omnes in caede, » subauditur Chaldaeorum, Romanorumque"
     }
   },
   "50": {
@@ -6745,8 +6754,8 @@
       "label": "quatuor regna, scilicet assyriorum, babiloniorum, grecorum, et romanorum, qui destruxerunt Iudeos"
     },
     "next": {
-      "id": "jad_occurence__51",
-      "label": "Titus cum patre Vespasiano Hierosolimam cepit atque subuertit"
+      "id": "jad_occurence__500",
+      "label": "destructa est a Romanis"
     }
   },
   "51": {
@@ -6835,12 +6844,12 @@
     "manuscripts": [],
     "view_label": "Titus cum patre Vespasiano Hierosolimam cepit atque subuertit",
     "prev": {
-      "id": "jad_occurence__50",
-      "label": "Vespasianus cum ipsa ciuitate, que dicebatur Onie, funditus euertit"
+      "id": "jad_occurence__509",
+      "label": "ad tempora Romanorum referri, quia tunc Judaei ultima et perpetua sunt captivitate damnati"
     },
     "next": {
-      "id": "jad_occurence__52",
-      "label": "sub romanis"
+      "id": "jad_occurence__510",
+      "label": "malum captivitatis, vel Chaldaicae vel Romanae"
     }
   },
   "52": {
@@ -6981,8 +6990,8 @@
     ],
     "view_label": "sub romanis",
     "prev": {
-      "id": "jad_occurence__51",
-      "label": "Titus cum patre Vespasiano Hierosolimam cepit atque subuertit"
+      "id": "jad_occurence__511",
+      "label": "id est Babylonica vel Romana captivitate"
     },
     "next": {
       "id": "jad_occurence__53",
@@ -11560,7 +11569,7 @@
     },
     "position_in_work": "",
     "position_in_work_url": "",
-    "text_paragraph": "",
+    "text_paragraph": "legimus descendent de Ierusalem in Iericho, a latronibus nullum et a samaritano curatum, et post auffitatem (?) uni infusam olim molliciem, ut lacrimis punere, et compugonis (?), eius duricia molliretur, lxx non est malagnia apponere, nec aligaturas nec olim, et quia non penituistis terra est vestra erit designe, babiloniorum et post romanorum, alieni romanum et samaritum lucini (?) Iudeis et eos habentes odio, adherentes contra Iudeos babilonis, sicut revera filia Syon, templum, Ierusalem vel filia Syon, id est civitas Ierusalem que filia dicitur Syon",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
@@ -16263,7 +16272,7 @@
     },
     "next": {
       "id": "jad_occurence__13",
-      "label": "Zacharias inter ipsa quasi renascentis templi cunabilia futurum ipsius excidium per Romanos predixit"
+      "label": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram"
     }
   },
   "130": {
@@ -16358,7 +16367,7 @@
     "view_label": "capti a duobus ursis, hoc est Tito et Vespasiano",
     "prev": {
       "id": "jad_occurence__13",
-      "label": "Zacharias inter ipsa quasi renascentis templi cunabilia futurum ipsius excidium per Romanos predixit"
+      "label": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram"
     },
     "next": {
       "id": "jad_occurence__131",
@@ -49090,7 +49099,7 @@
     "language": null,
     "position_in_work": "B2, Ch29",
     "position_in_work_url": "",
-    "text_paragraph": "« Eritque repente, » id est confestim « a Domino exercituum » illa captivitas.   « Et visitabitur Hierusalem » vel a Domino de coelo, vel etiam illo permittente p. 0857D | « in tonitruo et commotione magna.   » Romani pacem habuere cum Judaeis, sed cito ac repente diruptum est pactum, quia Judaei noluerunt solvere tributa.   Tunc vero imperator Romanorum misit duos principes suos Vespasianum et Titum, ut delerent civitatem.   Quod autem dicitur, visitabitur in tonitruo et flamma devoranti, dupliciter intelligi potest.   Nam antequam Romani ad civitatem venirent, facta sunt tonitrua coelitus et terraemotus, et voces etiam auditae sunt in aere, tempestates, et insuper ignis devorans, id est fulgura percutientia homines: ut ostenderetur non solum homines, verum etiam omnia elementa contra illos esse commota.   Potest etiam referri ad Romanos, qui cum tonitruo, p. 0858A | hoc est impetu magno, et quasi tempestas venerunt super illos, a quorum multitudine terra videbatur moveri.   Ipsi viderunt flammas ignis quae succenderunt templum et civitatem, et omnia consumpserunt sicut ardor ignis.",
+    "text_paragraph": "« Et erit, » o Ariel, « multitudo ventilantium te, sicut pulvis tenuis, et sicut favilla pertransiens.   » Multitudinem Romanorum quae venit super Hierusalem comparat pulveri tenuissimo et favillae, non propter parvitatem et modicitatem sui, sed propterea quia innumerabilis exstitit sicut pulvis terrae.   Et sicut multitudo favillae, quae dum pertransierit mota a vento, enumerari non potest. « Eritque repente, » id est confestim « a Domino exercituum » illa captivitas.   « Et visitabitur Hierusalem » vel a Domino de coelo, vel etiam illo permittente p. 0857D | « in tonitruo et commotione magna.   » Romani pacem habuere cum Judaeis, sed cito ac repente diruptum est pactum, quia Judaei noluerunt solvere tributa.   Tunc vero imperator Romanorum misit duos principes suos Vespasianum et Titum, ut delerent civitatem.   Quod autem dicitur, visitabitur in tonitruo et flamma devoranti, dupliciter intelligi potest.   Nam antequam Romani ad civitatem venirent, facta sunt tonitrua coelitus et terraemotus, et voces etiam auditae sunt in aere, tempestates, et insuper ignis devorans, id est fulgura percutientia homines: ut ostenderetur non solum homines, verum etiam omnia elementa contra illos esse commota.   Potest etiam referri ad Romanos, qui cum tonitruo, p. 0858A | hoc est impetu magno, et quasi tempestas venerunt super illos, a quorum multitudine terra videbatur moveri.   Ipsi viderunt flammas ignis quae succenderunt templum et civitatem, et omnia consumpserunt sicut ardor ignis.  « Et erit sicut somnium visionis nocturnae multitudo omnium gentium, quae dimicaverunt contra Ariel.   » Apostropham facit Propheta ad Romanos, qui Jerusalem destruxerunt.   Cum enim, Domino permittente, civitatem cepissent, et templum omnesque divitias tam thesaurorum Domini quam etiam populi, et ex eis locupletati essent, non dederunt Domino gratias qui hoc eis concessit, sed glorificaverunt deos suos quasi illorum virtute protecti, ditati essent copiis Judaeorum.   Et idcirco loquitur contra eos p. 0858B | Propheta, quod cito transituri et morituri sunt, dans ex hoc tres similitudines.   Sicut, inquit, somnium, hoc est visio quae videtur, quando videt aliquis arbores et montes transire, statim ut evigilaverit, vacua est anima ejus: sic cito transibunt gentes Romanorum quae dimicaverunt contra Hierusalem, eo quod non egerunt gratias Deo qui dedit eis omnia bona Judaeorum, sed virtute numinum suorum putaverunt se hoc fecisse.",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
@@ -52844,7 +52853,7 @@
     "position_in_work": "",
     "position_in_work_url": "",
     "text_paragraph": "",
-    "note": "Jessalynn Bird (St. Mary's College, Notre Dame); Burt Westermeier (University of Yale)",
+    "note": "Burt Westermeier (University of Yale); Jessalynn Bird (St. Mary's College, Notre Dame)",
     "explicit_contemp_ref": "",
     "biblical_references": [],
     "work": [
@@ -53083,8 +53092,2834 @@
       "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
     },
     "next": {
+      "id": "jad_occurence__482",
+      "label": "civitas Hierusalem obsidione vallaretur a Romano exercitu"
+    }
+  },
+  "482": {
+    "id": 482,
+    "passage": "civitas Hierusalem obsidione vallaretur a Romano exercitu",
+    "jad_id": "jad_occurence__482",
+    "language": null,
+    "position_in_work": "B1, Ch3",
+    "position_in_work_url": "",
+    "text_paragraph": "Sicque confunditur omnis ordo, et consurgit vir contra fratrem suum: puer sumit audaciam murmurandi contra senem, et ignobilis genere, et conversatione morum, contra nobilem.\n\n¶\n    « Apprehendet vir fratrem suum, domesticum patris sui, » id est, vernaculum, quem pater ejus nutrivit.   Dum civitas Hierusalem obsidione vallaretur a Romano exercitu, Judaei infra moenia suae civitatis conclusi, in tres partes erant divisi.   Alii siquidem templum arcemque Sion tenebant, alii vero partem superiorem civitatis, atque alii inferiorem: et quemcunque quis volebat sibi principem constituebat, non solum vernaculum patris sui, sed etiam alium dicens: « Vestimentum tibi est, princeps esto noster.   Ruina autem haec sub manu tua.   » Et est sensus: Habes p. 0738C | cibum et vestimentum, esto nobis princeps: tantummodo, ut liberes nos ab ingruente fame, et miseria nostra tuo sustentetur auxilio.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "civitas Hierusalem obsidione vallaretur a Romano exercitu",
+    "prev": {
+      "id": "jad_occurence__481",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__483",
+      "label": "Saltum appellat Hierusalem, propter multitudinem populorum quae succisa est ferro Romanorum"
+    }
+  },
+  "483": {
+    "id": 483,
+    "passage": "Saltum appellat Hierusalem, propter multitudinem populorum quae succisa est ferro Romanorum",
+    "jad_id": "jad_occurence__483",
+    "language": null,
+    "position_in_work": "B2, Ch10",
+    "position_in_work_url": "",
+    "text_paragraph": "« Ecce Dominator Dominus, confringet laguncuculam in terrore.   » Vox prophetae de passione Domini.   Laguncula, diminutivum nomen est a lagena.   Laguncula autem, quae lutea est, significat corpus Dominicum, quod confractum est tempore passionis.   In terrore autem dicit, quia monumenta aperta sunt, atque terraemotus factus est magnus, et caetera quae in passione ejus ostensa sunt.   « Excelsi succisi sunt, » id est Judaei humiliati sunt, et a proprio solo succisi et projecti sunt.\n\n¶\n    « Et subvertentur condensa.   » Id est densitates « saltuum ferro.   » Saltum appellat Hierusalem, propter multitudinem populorum quae succisa est ferro Romanorum.   p. 0779B | « Et Libanus cum excelsis cadet, » id est, Hierusalem cum sacerdotibus et principibus suis.   Per Libanum debemus intelligere templum vel civitatem, sicut dicitur per prophetam: Aperi, Libane, portas tuas, et devoret ignis cedros tuas.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Saltum appellat Hierusalem, propter multitudinem populorum quae succisa est ferro Romanorum",
+    "prev": {
+      "id": "jad_occurence__482",
+      "label": "civitas Hierusalem obsidione vallaretur a Romano exercitu"
+    },
+    "next": {
+      "id": "jad_occurence__484",
+      "label": "Si ad Hierusalem hoc referamus, duplicia recepit a Chaldaeis et Romanis"
+    }
+  },
+  "484": {
+    "id": 484,
+    "passage": "Si ad Hierusalem hoc referamus, duplicia recepit a Chaldaeis et Romanis",
+    "jad_id": "jad_occurence__484",
+    "language": null,
+    "position_in_work": "B2, Ch40",
+    "position_in_work_url": "",
+    "text_paragraph": "« Quoniam completa est malitia ejus.   » Malitia non semper pro peccato ponitur, sed pro afflictione.   Ut illud quod Dominus dixit per Prophetam: « Si est malum in civitate, » id est afflictio, « quod Dominus non fecit *.   » Completa est ergo malitia ejus, id est afflictio persecutionis quae evenit in morte martyrum, et modo Deo dante abest.   « Dimissa est iniquitas p. 0908C | illius, » hoc est: si aliquando peccavit, dimissum est ei, et pertinet hoc proprie ad gentiles vel Judaeos, qui, ad fidem Domini venientes, per baptismi regenerationem mundati sunt.   Vel in martyrio ubi sic dimissa sunt illis peccata, velut in baptismo.   « Suscepit de manu Domini duplicia, » subaudis tormenta.   Si ad Hierusalem hoc referamus, duplicia recepit a Chaldaeis et Romanis, et periit corpore et anima.   Si ad Ecclesiam dupliciter a persecutoribus recepit, quia corpore cruciata est et in animo angustiam sustinebat tempore persecutionis, ideoque dimissa est iniquitas ejus.\n\n    « Vox clamantis, » subaudis Christi per Joannem, « in deserto » Judaeae.   Joannes vox appellatur, quia verbum praecessit.   Vel etiam vox Christi ad apostolos p. 0908D | clamantis in deserto Judaeorum vel gentium.   Sicut enim Joannes desertae ac destitutae Judaeae clamabat, poenitentiam agite: sic apostoli in deserto gentilium praedicabant verbum salutis, audientes a Domino: « Euntes, praedicate Evangelium omni creaturae *.   » « Parate viam Domini, » id est, talem operationem facite ut Deo placeat, recte credendo et bene operando, ut ipse possit venire ad vos.   « Rectas facite in solitudine, » id est, in deserto gentilium « semitas Dei nostri.   » Possunt non incongrue per semitas cogitationes intelligi, sicut et per viam actiones, et sit sensus: ut illi qui Christum ad se venire optant, non solum sint mundi corpore, verum etiam corde.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Si ad Hierusalem hoc referamus, duplicia recepit a Chaldaeis et Romanis",
+    "prev": {
+      "id": "jad_occurence__483",
+      "label": "Saltum appellat Hierusalem, propter multitudinem populorum quae succisa est ferro Romanorum"
+    },
+    "next": {
+      "id": "jad_occurence__485",
+      "label": "et vastationem ejus pleno sermone describit, quae a Romanis facta est"
+    }
+  },
+  "485": {
+    "id": 485,
+    "passage": "et vastationem ejus pleno sermone describit, quae a Romanis facta est",
+    "jad_id": "jad_occurence__485",
+    "language": null,
+    "position_in_work": "B2, Ch34",
+    "position_in_work_url": "",
+    "text_paragraph": "Reges enim terrene viventes cum suis principibus et amicis sui similibus in infernum descendent: ut sicut fuerunt uniti in malis, sic sint conjuncti in poenis.   « Inebriatur terra, » id est, infernus « sanguine eorum, » id est, malitia reproborum, « et humus » hoc est barathrum aeternae damnationis replebitur, « adipe, » id est, superbia « pinguium » hominum.\n\n    « Quia dies ultionis Domini annus retributionum p. 0892A | judicii Sion, » subaudis veniet.   Ista quae hic dicuntur, non pertinent ad superiora.   Post generalem totius orbis consummationem, revertitur sermo propheticus ad Hierusalem, cui in tempore illo loquebatur, et vastationem ejus pleno sermone describit, quae a Romanis facta est.   Dies ultionis Domini est vindicatio sanguinis Christi.   Annum retributionum judicii Sion, appellat omne tempus praedicationis Christi, hoc est trium annorum et dimidii: quo tempore contempserunt habitatores Sion recipere salvatorem suum et legislatorem, quo etiam tempore morti eum tradiderunt.   Iste est annus, de quo in subsequentibus dicit Isaias * ex persona Filii Dei: « Spiritus Domini super me eo quod unxerit me, evangelizare pauperibus misit me, et vocare p. 0892B | annum acceptabilem Domino.   »",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "et vastationem ejus pleno sermone describit, quae a Romanis facta est",
+    "prev": {
+      "id": "jad_occurence__484",
+      "label": "Si ad Hierusalem hoc referamus, duplicia recepit a Chaldaeis et Romanis"
+    },
+    "next": {
+      "id": "jad_occurence__486",
+      "label": "cum Hierusalem fuerit succensa et templum, « dividentur spolia praedarum multarum » a Romanis"
+    }
+  },
+  "486": {
+    "id": 486,
+    "passage": "cum Hierusalem fuerit succensa et templum, « dividentur spolia praedarum multarum » a Romanis",
+    "jad_id": "jad_occurence__486",
+    "language": null,
+    "position_in_work": "B2, Ch33",
+    "position_in_work_url": "",
+    "text_paragraph": "« Laxati sunt funiculi tui, sed non praevalebunt.   » Hactenus locutus est de Hierusalem coelesti, et de Ecclesia praesentis saeculi.   Nunc vero revertitur ad terrenam Hierusalem, loquens de ea sub specie navis.   Laxati sunt funiculi tui, pro eo quod est omnis fortitudo populi tui laxabitur, et extendetur, nitens pugnare contra Romanos: sed non praevalebit, quia Dominus adducet eos ad tui internecionem.   « Sic erit malus tuus, » hoc est templum inclytum tuum, in quo quondam pendebant vela pretiosissima.   « Ut dilatare signum non queas, » id est, ut non appareat in quo loco primitus constructum fuit, quia non relinquetur ex eo lapis super lapidem.   « Tunc, » id est, cum Hierusalem fuerit succensa et p. 0889D | templum, « dividentur spolia praedarum multarum » a Romanis, hoc est omnes divitiae et cuncta bona Judaeorum.   « Claudi diripient praedam, nec dicet vicinus, Elangui, » id est, non dicet Romanus Romano, Infirmus sum: quia Christus ministrabit eis vires, ut possint delere gentem inimicando.   Claudi appellantur Romani, non quod claudi essent, sed hoc quod contra Judaeos egerunt non suis viribus illud adimpleverunt, sed Dei potentia.   « Populus, » subaudis Romanus, « qui habitat in ea » terra, hoc est qui sub sua potestate tenet eam redactam.   « Auferetur ab eo iniquitas.   » Et est sensus: Si populus Romanus dignus esset et aliquod peccatum exinde haberet, quod Judaeos interfecit et eorum terram incoluit, p. 0890A | auferetur ab eo iniquitas ejus ex hoc facto, quia Domini vindictam exercuit.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "cum Hierusalem fuerit succensa et templum, « dividentur spolia praedarum multarum » a Romanis",
+    "prev": {
+      "id": "jad_occurence__485",
+      "label": "et vastationem ejus pleno sermone describit, quae a Romanis facta est"
+    },
+    "next": {
+      "id": "jad_occurence__487",
+      "label": "muris civitatis praecipiat ut in pristinum statum eleventur, qui a Romanis destructi sunt"
+    }
+  },
+  "487": {
+    "id": 487,
+    "passage": "muris civitatis praecipiat ut in pristinum statum eleventur, qui a Romanis destructi sunt",
+    "jad_id": "jad_occurence__487",
+    "language": null,
+    "position_in_work": "B2, Ch51",
+    "position_in_work_url": "",
+    "text_paragraph": "« Elevare, elevare, consurge, Jerusalem, quae bibisti de manu Domini calicem irae ejus.   » Ad eos loquitur sermo divinus, qui in Domini passione conciderunt in negationis peccatum et infidelitatis, dicentes: « Crucifige talem, et da nobis Barrabam: non enim habemus regem nisi Caesarem.   » * Et sicut jacenti in lectulo dicitur elevare: ita et illis praecipitur ut eleventur a vitiis ad virtutes, de infidelitate ad fidem.   Et cum dicit: « Elevare, elevare, p. 0979D | Jerusalem, » non debemus putare quod muris civitatis praecipiat ut in pristinum statum eleventur, qui a Romanis destructi sunt; sed metonomicos intelligendum est per id quod continet, id quod continetur.   Elevare, inquit, o popule Judaeorum, de vitiis ad virtutes, de infidelitate ad fidem.   Consurge, Jerusalem, id est age poenitentiam, quae bibisti de manu Domini, id est de potestate Domini, calicem irae ejus.   Per calicem irae ejus debemus intelligere vastationem Romanorum, et magnitudinem tormentorum et afflictionem.   Quod per calicem designatur afflictio et tribulatio, Psalmista manifestat, dicens: « Calix in manu Domini vini meri plenus.   Et inclinabit, » etc., usque ad illud quod sequitur: « Bibent p. 0980A | omnes peccatores terrae.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "muris civitatis praecipiat ut in pristinum statum eleventur, qui a Romanis destructi sunt",
+    "prev": {
+      "id": "jad_occurence__486",
+      "label": "cum Hierusalem fuerit succensa et templum, « dividentur spolia praedarum multarum » a Romanis"
+    },
+    "next": {
+      "id": "jad_occurence__488",
+      "label": "civitatem Hierusalem destruendam a Romanis"
+    }
+  },
+  "488": {
+    "id": 488,
+    "passage": "civitatem Hierusalem destruendam a Romanis",
+    "jad_id": "jad_occurence__488",
+    "language": null,
+    "position_in_work": "B3, Ch66",
+    "position_in_work_url": "",
+    "text_paragraph": "« Laetamini cum Hierusalem, et exsultate in ea, omnes qui diligitis eam, gaudete cum ea gaudio universi, qui lugebatis super eam, ut sugatis, et repleamini ab uberibus consolationis ejus, ut mulgeatis et deliciis affluatis ab omnimoda gloria ejus.   » Angeli sicut de nostro profectu modo gaudent, ita tristabantur olim de nostro defectu » et servitute qua serviebamus diabolo.   Apostoli etiam videntes populum Judaeorum in infidelitate manere, et praevidentes civitatem Hierusalem destruendam a Romanis p. 1079B | (sicut Dominus praedixerat), et populum subvertendum, condolebant et tristabantur.   Sed tota consolatio illorum in hoc fuit, quia videbant gentes paratas esse ad credendum, ex quibus aedificanda erat Hierusalem, id est praesens Ecclesia, vel coelestis: ideoque dicitur, tam angelis quam apostolis, qui lugebant super Hierusalem, id est super populum ejus, ut laetentur et exsultent cum Hierusalem coelesti, vel praesenti ex omnibus gentibus collecta, et in ea, hoc est in fide illorum.   Per lac autem, quod praecipitur ut sugant ipsi apostoli, et mulgeant, debemus intelligere fidem simplicem credentium et bona opera illorum, in quibus delectati sunt apostoli.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "civitatem Hierusalem destruendam a Romanis",
+    "prev": {
+      "id": "jad_occurence__487",
+      "label": "muris civitatis praecipiat ut in pristinum statum eleventur, qui a Romanis destructi sunt"
+    },
+    "next": {
+      "id": "jad_occurence__489",
+      "label": "Romanis capientibus urbem"
+    }
+  },
+  "489": {
+    "id": 489,
+    "passage": "Romanis capientibus urbem",
+    "jad_id": "jad_occurence__489",
+    "language": null,
+    "position_in_work": "B3, Ch66",
+    "position_in_work_url": "",
+    "text_paragraph": "« Vox populi de civitate, vox de templo, vox Domini reddentis retributionem inimicis suis.   » Adveniente Romano exercitu et circumdante civitatem (sicut Josephus historiographus scribit), versi sunt qui erant intra civitatem in seditionem in tres partes, contendentes de principatu.   Una pars eligens istum, alia alium, tertiaque tertium.   Et ita factum p. 1078A | est, ut una pars populi et sacerdotum tenerent templum, pars principum et populi arcem domumque regiam, et tertia pars reliquam partem civitatis, maxime tamen vulgus.   Pugnabant ergo forinsecus contra hostes, intrinsecus contra cives.   Sed Romanis capientibus urbem, vox populi plangentis audita est in Romanis exsultantibus, qui ejus voluntate venerunt, reddentes retributionem inimicis suis Judaeis.   Et quare audita est vox sacerdotum de templo, principum et vulgi de civitate?   quia omnes sunt aut gladio necati, aut igne cremati, aut aliis gentibus pretio distracti, vel venundati, aut etiam in captivitatem ducti: praeter illos qui diversis miseriis afflicti, intra civitatem tunc mortui.   Tunc ergo completa est comminatio Domini dicentis: « Relinquetur vobis p. 1078B | domus vestra deserta",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Romanis capientibus urbem",
+    "prev": {
+      "id": "jad_occurence__488",
+      "label": "civitatem Hierusalem destruendam a Romanis"
+    },
+    "next": {
       "id": "jad_occurence__49",
       "label": "civitatem a Tito et Vespasiano destructam"
+    }
+  },
+  "490": {
+    "id": 490,
+    "passage": "numerabo vos in gladio, » hoc est in suppliciis, « et omnes in caede, » subauditur Chaldaeorum, Romanorumque",
+    "jad_id": "jad_occurence__490",
+    "language": null,
+    "position_in_work": "B3, Ch65",
+    "position_in_work_url": "",
+    "text_paragraph": "Vocatur locus ipse vallis Achor, id est vallis turbationis vel tumultus.   Per haec autem duo nomina, hoc est per Saronas sive Saron, quae interpretatur vallis effundens sanguinem, et Achor quae p. 1068D | interpretatur vallis turbationis sive tumultus, significatur gentilitas, quae plena erat effusione sanguinis, et in tumultu et turbatione vitiorum manebat.   Sed versa est in caulas sive in ovilia gregum et in cubile armentorum, hoc est in ecclesias et in requiem praedicatorum aliorumque fidelium, qui designantur per armenta et per greges ovium, sicut paulo post manifestat, dicens: Populo credenti in me, qui requisierunt me.   « Et vos, » subauditur Judaei, « qui dereliquistis Dominum, qui obliti estis montem sanctum meum, » hoc est templum quod in monte erat constructum, vel coelestem Hierusalem: vel qui noluistis credere in Christum, qui est mons montium; « qui ponitis Fortunae mensam, et libatis super eam, p. 1069A | numerabo vos in gladio, » hoc est in suppliciis, « et omnes in caede, » subauditur Chaldaeorum, Romanorumque, vel daemonum, « corruetis.   » Per gladium hic et caedem debemus intelligere supplicium et poenas quibus ipsi traditi sunt.   Non enim omnis populus Israel gladio Chaldaeorum vel Romanorum peremptus est; sed fame, captivitate et duro servitutis jugo afflictus est, sub quibus etiam adhuc detinetur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "numerabo vos in gladio, » hoc est in suppliciis, « et omnes in caede, » subauditur Chaldaeorum, Romanorumque",
+    "prev": {
+      "id": "jad_occurence__49",
+      "label": "civitatem a Tito et Vespasiano destructam"
+    },
+    "next": {
+      "id": "jad_occurence__491",
+      "label": "Hierusalem destructa est a Romanis"
+    }
+  },
+  "491": {
+    "id": 491,
+    "passage": "Hierusalem destructa est a Romanis",
+    "jad_id": "jad_occurence__491",
+    "language": null,
+    "position_in_work": "Ch2",
+    "position_in_work_url": "",
+    "text_paragraph": "Post cujus interfectionem aperta est filiis Israel spes victoriae futurae, pergentesque ceperunt oppidum Hai, interfectis habitatoribus ejus; et moeror eorum in gaudium versus est, ibique spem sumpserunt ubi fuerat desperatio.   Sed quia hoc, ut dictum est, factum constat fuisse, videamus quid sibi velint verba p. 0023D | prophetica, qui haec de futuro vaticinatur, dicens: « Et vallem Achor ad aperiendam spem.   » Sciendum ergo, quia sicut tunc postquam interfectus est Achar, Judaei sumpserunt spem vincendi hostes, nec ea frustrati sunt; sic nimirum postquam Hierusalem destructa est a Romanis, templumque succensum, et ipsi Judaei interempti et in totum mundum sunt captivati; apostolis caeterisque credentibus aperta est spes victoriae, quia totum mundum fidei Christi subjugaverunt, quodque in umbra praecesserat, id est illud templum et omnium caeremoniarum observationes in spiritualem verterunt intelligentiam, sicut nunc agitur in Ecclesia a fidelibus.   Et haec fuit eorum spes victoriae, de qua hic dicitur: « Et vallem p. 0024A | Achor ad aperiendam spem, » subauditur dabo.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 198,
+        "name": "Commentary Hosea ",
+        "jad_id": "jad_work__198",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Hosea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 198
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Hierusalem destructa est a Romanis",
+    "prev": {
+      "id": "jad_occurence__490",
+      "label": "numerabo vos in gladio, » hoc est in suppliciis, « et omnes in caede, » subauditur Chaldaeorum, Romanorumque"
+    },
+    "next": {
+      "id": "jad_occurence__492",
+      "label": "quando Hierusalem a Romanis vastata es"
+    }
+  },
+  "492": {
+    "id": 492,
+    "passage": "quando Hierusalem a Romanis vastata es",
+    "jad_id": "jad_occurence__492",
+    "language": null,
+    "position_in_work": "Ch6",
+    "position_in_work_url": "",
+    "text_paragraph": "« Quapropter nunc migrabunt in capite transmigrantium, et auferetur factio lascivientium.   Juravit Dominus Deus in anima sua, dicit Dominus Deus exercituum.   Detestor ego superbiam Jacob, et domus ejus odi.   » Secundum historiae veritatem de Judaeis p. 0117D | dicit, qui in captivitatem transmigrati sunt.   « Et tradam civitatem cum habitatoribus suis.   Quod si reliqui fuerint decem viri in domo una, et ipsi morientur, et tollet eum propinquus suus, et comburet eum ut efferat ossa de domo, et dicet ei, qui in penetralibus domus est: Nunquid adhuc est apud te?   et respondebit, finis est.   » Secundum historiae fidem eo tempore in populo Judaeorum impletum esse comperimus, quando Hierusalem a Romanis vastata est.   Tropologice vero de haereticis intelligendum est, in quorum conciliabulis si reliqui fuerint decem viri, omnes morientur ea morte quae ducit ad tartarum.   Justorum ossa sepelient propinqui et domestici eorum, de quibus dicitur: Sine mortuos ut p. 0118A | sepeliant mortuos suos.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 199,
+        "name": "Commentary Amos ",
+        "jad_id": "jad_work__199",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Amos",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 199
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "quando Hierusalem a Romanis vastata es",
+    "prev": {
+      "id": "jad_occurence__491",
+      "label": "Hierusalem destructa est a Romanis"
+    },
+    "next": {
+      "id": "jad_occurence__493",
+      "label": "post multa saecula a Romanis templum dirutum et incensum est"
+    }
+  },
+  "493": {
+    "id": 493,
+    "passage": "post multa saecula a Romanis templum dirutum et incensum est",
+    "jad_id": "jad_occurence__493",
+    "language": null,
+    "position_in_work": "Ch8",
+    "position_in_work_url": "",
+    "text_paragraph": "In hoc mense multa passi sunt Judaei adversa.   Nam cum essent in deserto, hoc mense orta est seditio propter exploratores, qui reversi murmurare fecerunt populum.   Propter hoc iratus Dominus, prohibuit ne statim ingrederentur terram repromissionis, sed per quadraginta annos vagarentur in deserto, donec morerentur omnes qui a viginti annis et supra, egressi sunt de Aegypto, praeter Caleph et Josue.   In hoc ipso mense a Nabuchodonosor primo, et post multa saecula a Romanis p. 0246D | templum dirutum et incensum est, propter quas causas gravissimum sibi singulis annis indixere jejunium.   Septimus mensis Hebraeorum a nobis appellatur October, quo mense occisus est Godolias ab Ismael, ut supra memoratum est, et reliquiae Judaeorum dispersae sunt.   Haec est causa jejunii septimi mensis.   Mensis decimus illorum apud Romanos vocatur Januarius, quo mense Ezechiel propheta et cunctus populus captivorum qui erant in Babylone, audierunt quinto mense templum esse subversum.   Idcirco in hoc mense annis singulis jejunabant.   Sensus ergo talis est: Dies jejuniorum quos hactenus habuistis, his temporibus in luctu, sciatis convertendos esse vobis in gaudium, me vobis prospera p. 0247A | concedente, ita duntaxat, si veritatem diligatis et pacem.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 183,
+        "name": "Commentary Zacharias ",
+        "jad_id": "jad_work__183",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Zacharias",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 183
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "post multa saecula a Romanis templum dirutum et incensum est",
+    "prev": {
+      "id": "jad_occurence__492",
+      "label": "quando Hierusalem a Romanis vastata es"
+    },
+    "next": {
+      "id": "jad_occurence__494",
+      "label": "post passionem Domini possessa est Hierusalem a Romanis, et consummatio facta est"
+    }
+  },
+  "494": {
+    "id": 494,
+    "passage": "post passionem Domini possessa est Hierusalem a Romanis, et consummatio facta est",
+    "jad_id": "jad_occurence__494",
+    "language": null,
+    "position_in_work": "Ch1",
+    "position_in_work_url": "",
+    "text_paragraph": "Divitiae quoque eorum iniquitate p. 0202A | et nimia sollicitudine quaesitae, non poterunt liberare dominos et possessores suos, quia ignis irae Domini devorabit eos et omnem terram regni illorum.   Faciet autem Dominus consummationem cum festinatione.   Nam quadragesimo secundo anno post passionem Domini possessa est Hierusalem a Romanis, et consummatio facta est cum festinatione.   Sed et in mundi fine tribulabuntur impii homines, id est carnales et qui secundum hominem vixerunt, et ambulabunt ut caeci, quia verum lumen perdiderunt.   Quod vero sequitur: « Effundetur sanguis eorum sicut humus, » in die judicii non poterit effundi sanguis, cum jam erunt immortalia corpora.   Ergo nomine sanguinis illud debemus accipere, quo vegetatur et vivit anima, fidem videlicet, p. 0202B | spem, et charitatem, caeterasque virtutes, in quibus est vita animae.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 200,
+        "name": "Commentary Sophonia ",
+        "jad_id": "jad_work__200",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Sophonia",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 200
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "post passionem Domini possessa est Hierusalem a Romanis, et consummatio facta est",
+    "prev": {
+      "id": "jad_occurence__493",
+      "label": "post multa saecula a Romanis templum dirutum et incensum est"
+    },
+    "next": {
+      "id": "jad_occurence__495",
+      "label": "Juxta litteram omnia haec vel de Babylonica, vel de Romana captivitate dicuntur"
+    }
+  },
+  "495": {
+    "id": 495,
+    "passage": "Juxta litteram omnia haec vel de Babylonica, vel de Romana captivitate dicuntur",
+    "jad_id": "jad_occurence__495",
+    "language": null,
+    "position_in_work": "Ch1",
+    "position_in_work_url": "",
+    "text_paragraph": "Qui aedificaverunt domos non super petram, sed super arenam, nec plantaverunt vineam electam, sed vineam Sodomorum et Gomorrhae.   Talis ergo plantatio peribit.\n\n¶\n    « Juxta est dies Domini magnus, juxta et velox p. 0201B | nimis.   Vox diei Domini amara, tribulabitur ibi fortis.   Dies irae dies illa, dies tribulationis et angustiae, dies calamitatis et miseriae.   » Juxta litteram omnia haec vel de Babylonica, vel de Romana captivitate dicuntur.   Tunc enim experti sunt diem amaram, qui Deum ad amaritudinem provocaverant.   Tribulati sunt ibi fortes et potentes, fuit dies illa dies irae, quia saepe quidem antea sustinuerant iram Dei, sed non in consummatione.   Haec autem ira finis eorum fuit, quia perdiderunt locum, regnum, et gentem, et in omnes mundi terminos dispersi sunt.   Possunt haec tropologice referri ad consummationem saeculi, quando erit vox amara, quae dirigetur ad eos qui in sinistris erunt, « Ite in ignem aeternum, » etc.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 200,
+        "name": "Commentary Sophonia ",
+        "jad_id": "jad_work__200",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Sophonia",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 200
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Juxta litteram omnia haec vel de Babylonica, vel de Romana captivitate dicuntur",
+    "prev": {
+      "id": "jad_occurence__494",
+      "label": "post passionem Domini possessa est Hierusalem a Romanis, et consummatio facta est"
+    },
+    "next": {
+      "id": "jad_occurence__496",
+      "label": "Chaldaei vel Romani venerint ceperintque Hierusalem"
+    }
+  },
+  "496": {
+    "id": 496,
+    "passage": "Chaldaei vel Romani venerint ceperintque Hierusalem",
+    "jad_id": "jad_occurence__496",
+    "language": null,
+    "position_in_work": "Ch1",
+    "position_in_work_url": "",
+    "text_paragraph": "« Ululate, habitatores Pilae, conticuit omnis populus Chanaan.   » Pilam hoc loco vas debemus accipere, in quo frumenta pinsuntur, id est tunduntur, et est producta pi syllaba.   Nam aliud est pila pi correpta, sphaera videlicet pilorum, qua pueri ludunt.   Pilam ergo appellat Hierusalem, quasi enim vi et impetu frumenta feriente desuper pilo tunditur; ita de porta piscium et de secunda atque de collibus proruens, decurret Chaldaeorum vel Romanorum exercitus, et comminuet omnia.   Populum autem Chanaan, populum Judaeorum appellat, quia impietates Chananaeorum agebant: nam et Daniel impudicum senem semen Chanaan vocat.   Venientibus itaque hostibus, conticescent nimio metu, et suorum scelerum conscientia exagitati, nec saltem p. 0200B | Deum quem offenderunt, invocare audebunt.   « Disperierunt omnes involuti argento; » illi videlicet qui divitiis confidebant, et se quasi involutos et circumseptos nimiis opibus aestimabant, et idcirco pauperes despiciebant.   Et notandum quod non futuro tempore dixit: Conticescet Chanaan, aut disperibunt, sed de praeterito, « conticuit » et « disperierunt; » quia quod certissime venturum erat, quasi jam venisse praevidebat.   Non autem soli peribunt, qui in suis divitiis gloriantur, sed etiam qui inflantur de dignitatibus saeculi, tument vana nobilitate, pulchritudine vel robore corporis, caeterisque mundi vanitatibus extolluntur.\n\n    « Et erit in tempore illo scrutabor Hierusalem in lucernis, et visitabo super viros defixos in faecibus p. 0200C | suis.   » Cum (inquit) Chaldaei vel Romani venerint ceperintque Hierusalem, tunc scrutabor cum lucerna omnia loca civitatis, in quibus abscondi poterunt, etiam cloacas et obscuras speluncas, ut nullus possit effugere.   Hoc, qui subversionem a Romanis factam legerit, ita gestum inveniet.   Visitabit etiam super viros defixos in faecibus suis, hoc est, qui in corporibus confidunt.   Despective enim fortitudinem corporis faeces vocat.   Sive defixos in faecibus vocat peccatores, qui consuetudine peccandi, defixi sunt in suis illecebris, nec ab eis poenitendo ablui volunt.   Hi tales, « qui dicunt in cordibus suis: Non faciet bene Dominus, et non faciet male, » id est, nec bonis bona retribuet, nec malis mala rependet.   Tropologice autem in die illa, id est in consummatione p. 0200D | mundi, scrutabitur Deus Hierusalem, id est Ecclesiam in lucerna, hoc est in judicio Christi, qui ex humanitate constat et divinitate, sicut lucerna ex testa et lumine, per quem Deus Pater omne faciet judicium; et visitabit super viros defixos in faecibus suis, hoc est, ulciscetur in eis, quibus sua peccata placuerunt, cum defenderent mala sua, blasphemantes Deum, tanquam tales eos fecisset, et tollentes providentiam Dei, ut nec bene facere prodesset, nec obesset male facere.   In lucerna ergo Dominus Hierusalem scrutabitur, id est proferet omnia abscondita in lucem.   Neque tantum de operibus sed etiam de otiosis sermonibus et de subtilissimis cogitationibus ratio fiet et vindicta.\n\n¶\n    p. 0201A | « Et erit fortitudo eorum in direptionem, et domus eorum in desertum, et aedificabunt domos, et non habitabunt: et plantabunt vineas, et non bibent vinum earum.   » Manifeste de Judaeis dicitur, quorum fortitudo et omnis exercitus captivitatis tempore in direptionem data est, et domus destructae, et agri et vineae vastatae.   Nec prolongata est ultio, nec ultra exspectavit patientia Dei, sed velociter restituit eis quod merebantur.   Sed et juxta tropologiam in die judicii omnis malorum fortitudo dabitur in direptionem.   Qui aedificaverunt domos non super petram, sed super arenam, nec plantaverunt vineam electam, sed vineam Sodomorum et Gomorrhae.   Talis ergo plantatio peribit.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 200,
+        "name": "Commentary Sophonia ",
+        "jad_id": "jad_work__200",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Sophonia",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 200
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Chaldaei vel Romani venerint ceperintque Hierusalem",
+    "prev": {
+      "id": "jad_occurence__495",
+      "label": "Juxta litteram omnia haec vel de Babylonica, vel de Romana captivitate dicuntur"
+    },
+    "next": {
+      "id": "jad_occurence__497",
+      "label": "Romani novissime pugnaverunt adversum Hierusalem"
+    }
+  },
+  "497": {
+    "id": 497,
+    "passage": "Romani novissime pugnaverunt adversum Hierusalem",
+    "jad_id": "jad_occurence__497",
+    "language": null,
+    "position_in_work": "Ch14",
+    "position_in_work_url": "",
+    "text_paragraph": "« Et haec erit plaga qua percutiet Dominus omnes gentes quae pugnaverunt contra Hierusalem: tabescet caro uniuscujusque stantis super pedes suos, et oculi ejus contabescent in foraminibus suis, et lingua eorum contabescet in ore ipsorum.   » Hic perspicue ostenditur vana esse omnia quae Judaei de terrena Hierusalem opinantur.   Nam Romani novissime pugnaverunt adversum Hierusalem eamque funditus deleverunt, nec quidquam tale passi sunt, p. 0275A | Caeterum de persecutoribus Ecclesiae, qui omni instantia adversus eam pugnaverunt, dicere possumus, quia in eis etiam corporaliter haec saepissime impleta sunt: nam, ut taceamus de cruciatibus quos in inferno post mortem sustinuerunt, etiam in hac vita multorum carnes computruerunt, oculi contabuerunt in suis foraminibus, lingua in putorem et saniem dissoluta est.   Spiritualiter, qui stat super pedes suos, et dicit cum Psalmista: « Statuit Dominus supra petram pedes meos, » defluunt in eo carnalia vitia, ut oriantur spirituales virtutes.   Oculi, qui male per concupiscentias versabantur, cadunt ut meliores ponantur, et dicat: « Ad te levavi oculos meos, qui habitas in coelis.   » Lingua blasphema in Deum deficiet, ut renascatur quae p. 0275B | glorificet Deum.   Ita probantur flagella Dei non esse crudelitatis, sed misericordiae, ut, exstirpatis malis, succrescant bona.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 183,
+        "name": "Commentary Zacharias ",
+        "jad_id": "jad_work__183",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Zacharias",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 183
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Romani novissime pugnaverunt adversum Hierusalem",
+    "prev": {
+      "id": "jad_occurence__496",
+      "label": "Chaldaei vel Romani venerint ceperintque Hierusalem"
+    },
+    "next": {
+      "id": "jad_occurence__498",
+      "label": "Romani suis orationibus ei subvenirent quia timebat comprehendi, dum veniret Hierosolymam"
+    }
+  },
+  "498": {
+    "id": 498,
+    "passage": "Romani suis orationibus ei subvenirent quia timebat comprehendi, dum veniret Hierosolymam",
+    "jad_id": "jad_occurence__498",
+    "language": null,
+    "position_in_work": "Ch15",
+    "position_in_work_url": "",
+    "text_paragraph": "Et beatus Apostolus fortiter pugnabat contra philosophos, contra Judaeos, contra haereticos, ideoque p. 0503B | desiderabat ad tempus tam corpore quam spiritu requiescere.   Unde ipse dicit quodam loco: Si ad bestias pugnavi Ephesi * .   Bestias appellat philosophos et haereticos.   Ideo autem exorabat, ut Romani suis orationibus ei subvenirent quia timebat comprehendi, dum veniret Hierosolymam, ab infidelibus Judaeis, et retrudi in carcerem, vel occidi, et non posset neque sanctis deferre munera et oblationem suam, neque postmodum venire Romam, sicut in desiderio habebat.   Hinc decutitur pontificum superbia et praelatorum atque principum et potentium hujus saeculi, qui dedignantur exorare subjectos suos, quatenus pro eis preces orationesque fundant.   Si enim ille qui et apostolus et pontifex erat omnium gentium, omnique gratia Spiritu sancti p. 0503C | repletus, non est dedignatus auxilium subjectorum expetere in orationibus, quanto magis isti qui pleni sunt rapacitate, superbia, omnique nefario actu non debent dedignari?   Itaque imitandus est omnibus viribus.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 201,
+        "name": "Commentary Rom. ",
+        "jad_id": "jad_work__201",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Rom.",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 201
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Romani suis orationibus ei subvenirent quia timebat comprehendi, dum veniret Hierosolymam",
+    "prev": {
+      "id": "jad_occurence__497",
+      "label": "Romani novissime pugnaverunt adversum Hierusalem"
+    },
+    "next": {
+      "id": "jad_occurence__499",
+      "label": "adhuc templum Hierosolymis stabat, et necdum erat subversum a Romanis"
+    }
+  },
+  "499": {
+    "id": 499,
+    "passage": "adhuc templum Hierosolymis stabat, et necdum erat subversum a Romanis",
+    "jad_id": "jad_occurence__499",
+    "language": null,
+    "position_in_work": "Ch12",
+    "position_in_work_url": "",
+    "text_paragraph": "Obsecro itaque vos, fratres, per misericordiam Dei, ut exhibeatis corpora vestra hostiam viventem, sanctam, Deo placentem, rationabile obsequium vestrum.   Quia supra dixerat Apostolus, conclusit Deus omnia in p. 0468D | incredulitate, ut omnium misereatur, ostendens quod sive Judaei credentes, sive gentiles, non suis meritis, sed misericordia et gratia Dei salvati sunt; obsecrat eos modo, et omnes credentes per eamdem misericordiam, qua redempti sunt sanguine Christi, et tempore baptismatis ab omnibus sordibus abluti, ut exhibeant corpora sua hostiam viventem, et dicit: Obsecro vos per misericordiam Dei; ac si diceret: Non per potentiam magisterialem vobis impero, qua sum vester magister et apostolus, sed obsecro et deprecor quasi socius, quapropter et fratres eos appellat, non carne, sed fide, recolens illud quod Salvator fidelibus dixit: Omnes vos fratres estis, quia unus est Pater vester, qui est in caelis (Matth. p. 0469A | XXIII). Hoc inquit: Obsecro per misericordiam Dei, qua salvati estis, ut exhibeatis corpora vestra hostiam viventem, quod erant apud Romanos Judaei credentes qui victimas et hostias legales Deo Hierosolymis in templo obtulerant: hos hortatur ut jam non boves, non hircos, non arietes, sed semetipsos hostias Deo spiritales immolent.   Siquidem quando ista scribebat Apostolus, adhuc templum Hierosolymis stabat, et necdum erat subversum a Romanis.   Hostia igitur et immolatur et viva est, quando homo ab hac vita non deficit, et carnalibus vitiis se occidit, mortificando membra sua cum peccatis et concupiscentiis.   Verbi gratia: fuit superbus, efficitur humilis; fuit luxuriosus, efficitur castus; fuit gulosus, efficitur temperatus, appetitor parcimoniae p. 0469B | existens, omnisque frugalitatis.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 201,
+        "name": "Commentary Rom. ",
+        "jad_id": "jad_work__201",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Rom.",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 201
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "adhuc templum Hierosolymis stabat, et necdum erat subversum a Romanis",
+    "prev": {
+      "id": "jad_occurence__498",
+      "label": "Romani suis orationibus ei subvenirent quia timebat comprehendi, dum veniret Hierosolymam"
+    },
+    "next": {
+      "id": "jad_occurence__5",
+      "label": "quatuor regna, scilicet assyriorum, babiloniorum, grecorum, et romanorum, qui destruxerunt Iudeos"
+    }
+  },
+  "500": {
+    "id": 500,
+    "passage": "destructa est a Romanis",
+    "jad_id": "jad_occurence__500",
+    "language": null,
+    "position_in_work": "B2, Ch25",
+    "position_in_work_url": "",
+    "text_paragraph": "« Quia posuisti civitatem in tumulum.   » Quidam habent in tumultum.   In tumulum posita est, quando destructa est.   Nam civitas quando destruitur in p. 0836C | tumulum redigitur.   « Domum alienorum, » subaudis humiliasti, « ut non sit civitas et non aedificetur in sempiternum.   » Judaei alieni appellantur qui alieni sunt a Deo, ut in Psalmo legitur: « Filii alieni mentiti sunt mihi *.   » Et in Evangelio, Domino dicente: « Vos ex patre diabolo estis *.   » Quod autem dicit ut in sempiternum non aedificentur, subaudis sicut superius.   Nam destructa est a Nabuchodonosor *, sed postea reaedificata est a Nehemia et Jesu sacerdote magno *.   Iterum destructa est a Romanis, sed ab Aelio Hadriano postmodum restaurata: non tamen ipso in loco ubi prius.   Et licet reaedificata sit, tamen in pristinum statum postea non fuit, sicut temporibus David et Salomonis.\n\n    p. 0836D | « Super hoc, » id est, propterea quia reddidisti eis quod merebantur impii Judaei.   « Laudabit te populus gentilium fortis, et civitas, » id est, Ecclesia gentium « robustarum timebit te.   » Gentiles enim fortes et robusti fuerunt ad toleranda tormenta pro Christi nomine.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "destructa est a Romanis",
+    "prev": {
+      "id": "jad_occurence__50",
+      "label": "Vespasianus cum ipsa ciuitate, que dicebatur Onie, funditus euertit"
+    },
+    "next": {
+      "id": "jad_occurence__501",
+      "label": "destructionem, quam sibi a Romanis inferri"
+    }
+  },
+  "501": {
+    "id": 501,
+    "passage": "destructionem, quam sibi a Romanis inferri",
+    "jad_id": "jad_occurence__501",
+    "language": null,
+    "position_in_work": "Ch20",
+    "position_in_work_url": "",
+    "text_paragraph": "Cum dicit ignis, notat genus tormenti quod interius torquet.   « Pones eos ut clibanum, » et etiam « perdes fructum, » id est bona opera « eorum, » remota « a terra » viventium: cum vero desisterent a bono, perdebantur bona opera eorum, quia licet faciant aliquod remedium poenae, non tamen p. 0262A | valet ad salutem: « et semen, » id est, vota « eorum » quae dicuntur semen, quia sicut ex semine procedit fructus, ita ex votis opera.   Semen dico separatum « a filiis » verorum « hominum.   » Vel semen, id est, sequaces.\n\n    Ideo quidem perdes eos « quoniam mala, id est destructionem, quam sibi a Romanis inferri timebant declinaverunt in te, » id est, verterunt in te: cum te morti traderent « consilia cogitaverunt, quae non potuerunt stabilire.   » Cogitaverunt enim per mortem ipsius retinere locum et gentem *, per quam potius utrumque perdiderunt.\n\n    Perdes eos, et « ideo pones eos dorsum, » id est curvos ad terrena et non intuentes coelestia, scilicet asinos daemonum, ideo « vultum, » id est cognitionem p. 0262B | tuam, qui deberet esse « eorum praeparabis » per introductionem gentium, et per asperationem gloriae « in reliquiis tuis, » id est, ut ipsae reliquiae habeant cognitionem tui.   Reliquias accipit illos, qui se faciunt humiles et abjectos.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 181,
+        "name": "Commentaria in Psalmos ",
+        "jad_id": "jad_work__181",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentaria in Psalmos",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 181
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "destructionem, quam sibi a Romanis inferri",
+    "prev": {
+      "id": "jad_occurence__500",
+      "label": "destructa est a Romanis"
+    },
+    "next": {
+      "id": "jad_occurence__502",
+      "label": "adveniente Babylonica vel Romana captivitate"
+    }
+  },
+  "502": {
+    "id": 502,
+    "passage": "adveniente Babylonica vel Romana captivitate",
+    "jad_id": "jad_occurence__502",
+    "language": null,
+    "position_in_work": "B2, Ch19",
+    "position_in_work_url": "",
+    "text_paragraph": "« Nudabitur alveus rivi a fonte suo, » id est, et rivus et fons simul arescent.   Naturale est, sicut beatus Hieronymus dicit, ut cum per iram Dei captivitas venerit, indignationem ejus pestilentia subsequatur, et adversus peccatores elementa cuncta desaeviant.   Potuit igitur esse, ut veniente captivitate Aegyptiorum per Chaldaeos, vel etiam per Romanos aquae de p. 0809B | Nilo et de fontibus deficerent.   Potest tamen et hyperbolice intelligi, ut propter nimiam tribulationem, flumina quoque dicantur exsiccata esse, et illa quae in fluviis erant defecisse.   Metaphorice autem in fluvio exsiccato, regnum desolatum intelligimus, in rivis ejus duces, in calamo et junco cunctam Aegypti abundantiam quae harum rerum fertilissima est.\n\n    « Et moerebunt » sive lugebunt « piscatores » propter siccitatem fluminum, « et expandentes rete super faciem aquae inarescent, » id est, deficient.   « Confundentur qui operabantur linum, » id est, qui ex lino sagenas et retia componebant, « plectentes et texentes subtilia » subaudis vestimenta, vel etiam quae texebant ex junco diversi generis vascula, « erunt irrigua ejus, » id est Aegypti « flaccentia, » id est arentia.   p. 0809C | « Omnes qui faciebant lacunas ad capiendos pisces, » subaudis deficient advenientibus hostibus.   Haec omnia, ut diximus, hyperbolicos accipienda sunt, quae propter maximam vastationem ita expresse a propheta prolata sunt. « Stulti principes Taphneos, sapientes consiliarii, Pharaoni dederunt consilium insipiens.   » Taphneos, genitivus graecus est.   Taphnis autem civitas est metropolis Aegypti, in qua Moses multa signa fecit, quae in Exodo commemorantur.   Et hoc dixit, quia adveniente Babylonica vel Romana captivitate, omnia magorum consilia annullata sunt.   Principes enim Pharaoni, qui putabantur sapientes esse, dederunt consilium insipiens, id est inutile, ut praepararet se ad resistendum Nabuchodonosor, vel Romanis.   « Quomodo p. 0809D | dicitis Pharaoni: Filius sapientium ego, filius regum antiquorum.   » Sic dicebat Pharaoni unusquisque consiliarius ejus, ut suum consilium bonum esse ostenderet, et ob hoc statueret illud.   Tu es filius sapientium Aegyptiorum, et regum antiquorum, ideoque viriliter debes pugnare contra Assyrios vel Romanos.   Aegyptii namque heroas et deos magnos auctores suae gentis fuisse jactant, hoc est, Isin, et Isirin, et Typhonem.   « Ubi sunt nunc sapientes tui?   » subaudis adveniente vastitate, « annuntient tibi et indicent, quid cogitaverit Dominus exercituum super Aegyptum.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "adveniente Babylonica vel Romana captivitate",
+    "prev": {
+      "id": "jad_occurence__501",
+      "label": "destructionem, quam sibi a Romanis inferri"
+    },
+    "next": {
+      "id": "jad_occurence__503",
+      "label": "a Romanis in ultima captivitate"
+    }
+  },
+  "503": {
+    "id": 503,
+    "passage": "a Romanis in ultima captivitate",
+    "jad_id": "jad_occurence__503",
+    "language": null,
+    "position_in_work": "B2, Ch32",
+    "position_in_work_url": "",
+    "text_paragraph": "» Dominus Jesus ea quae eo digna erant loquebatur et cogitabat, cum diceret: Ego a Deo processi et veni, ego et Pater unum sumus.   Et: Non sum missus nisi ad oves quae perierunt domus Israel.   Duces vocantur apostoli, quia ipsi ducatum praebuerunt universis credentibus, de quorum uno loquitur Psalmista: « Tu vero homo unanimis dux meus et notus meus *.   »\n\n    « Mulieres opulentae, surgite et audite.   » Loquitur propheta ad mulieres Judaeorum, quae ductae sunt in p. 0878D | praedationem a Romanis in ultima captivitate, et praecipit ut diligenter auscultent verba illius.   Per has mulieres, debemus intelligere synagogas Judaeorum vel urbes: vel etiam matronas nobiles et divites, quae ideo opulentae dicuntur, quia abundaverunt operibus.   Et quid dicit eis?   O mulieres, quae quondam fuistis opulentae, nunc autem captivae tenemini, surgite.   Jacenti vel sedenti dicitur, surge.   Et illae jacebant in volutabro vitiorum, torpentes a bono opere.   Et quid est dicere Surgite, nisi « agite poenitentiam?   * » « Et audite vocem meam, » id est corde intelligite, et conscendite de vitiis ad virtutes, de terrenis ad coelestia.   Filiae quae quondam fuistis confidentes in vestris divitiis, percipite auribus eloquium p. 0879A | meum.   Ipsae sunt filiae quae et mulieres.   Nam repetitio sermonis, confirmatio est rei de qua agitur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "a Romanis in ultima captivitate",
+    "prev": {
+      "id": "jad_occurence__502",
+      "label": "adveniente Babylonica vel Romana captivitate"
+    },
+    "next": {
+      "id": "jad_occurence__504",
+      "label": "interfecti a Romanis, fame, gladio, et captivitate"
+    }
+  },
+  "504": {
+    "id": 504,
+    "passage": "interfecti a Romanis, fame, gladio, et captivitate",
+    "jad_id": "jad_occurence__504",
+    "language": null,
+    "position_in_work": "B2, Ch42",
+    "position_in_work_url": "",
+    "text_paragraph": "« Desertos faciam montes et colles, et omne gramen eorum exsiccabo.   » Per montes, intelligamus principes, scribas, et pharisaeos, ac sacerdotes.   Per colles, mediocres judices, scilicet, tribunos et centuriones.   p. 0927D | Per gramen vero populum illis subjectum.   Uno enim tempore principes, et juvenes, et senes, omnisque ejus populus absorpti sunt, et exsiccati, id est, interfecti a Romanis, fame, gladio, et captivitate.   « Ponam flumina in insulas, » id est, abundantiam scientiae in gentes.   « Et stagna arefaciam, » hoc est vos qui videmini habere scientiam legis, faciam expertes a scientia Dei.   Et est sensus: Quum vos a majoribus usque ad minores delevero, tunc flumina doctrinae meae ad insulas gentium currere faciam: et stagna, hoc est, vos qui profunditatem scientiae quondam habuistis, redigam in ariditatem, ut legentes dicta legis et prophetarum intelligere nequeatis.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "interfecti a Romanis, fame, gladio, et captivitate",
+    "prev": {
+      "id": "jad_occurence__503",
+      "label": "a Romanis in ultima captivitate"
+    },
+    "next": {
+      "id": "jad_occurence__505",
+      "label": "imminentem captivitatem a Romanis"
+    }
+  },
+  "505": {
+    "id": 505,
+    "passage": "imminentem captivitatem a Romanis",
+    "jad_id": "jad_occurence__505",
+    "language": null,
+    "position_in_work": "B3, Ch58",
+    "position_in_work_url": "",
+    "text_paragraph": "« Clama, ne cesses: quasi tuba exalta vocem tuam, et annuntia populo meo scelera eorum, et domui Jacob peccata eorum.   » Vox Dei ad prophetam sive ad chorum apostolorum: O propheta sive chorus apostolorum, clama sine timore, ne metuas illorum insaniam, ne cesses a praedicatione.   Quasi tuba exalta vocem tuam, id est, magnam vocem emitte, ut ab omnibus possis audiri: annuntians eis imminentem captivitatem a Romanis, et multam interfectionem.   Et annuntia populo meo scelera eorum, id est, immania peccata, idololatriam videlicet, homicidium, p. 1018C | et exsecrabilia facinora, quae ultra humanum modum ipsi operantur.   Et domui Jacob annuntia peccata eorum, in quibus delinquunt contra Deum et proximum.   Adhuc populum suum illum vocat, ut ad poenitentiam eum provocet.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "imminentem captivitatem a Romanis",
+    "prev": {
+      "id": "jad_occurence__504",
+      "label": "interfecti a Romanis, fame, gladio, et captivitate"
+    },
+    "next": {
+      "id": "jad_occurence__506",
+      "label": "ad me tempore captivitatis et calamitatis tuae, sive cum venerint Chaldaei vel Romani, seu in die judicii"
+    }
+  },
+  "506": {
+    "id": 506,
+    "passage": "ad me tempore captivitatis et calamitatis tuae, sive cum venerint Chaldaei vel Romani, seu in die judicii",
+    "jad_id": "jad_occurence__506",
+    "language": null,
+    "position_in_work": "B3, Ch57",
+    "position_in_work_url": "",
+    "text_paragraph": "« Clama, ne cesses: quasi tuba exalta vocem tuam, et annuntia populo meo scelera eorum, et domui Jacob peccata eorum.   » Vox Dei ad prophetam sive ad chorum apostolorum: O propheta sive chorus apostolorum, clama sine timore, ne metuas illorum insaniam, ne cesses a praedicatione.   Quasi tuba exalta vocem tuam, id est, magnam vocem emitte, ut ab omnibus possis audiri: annuntians eis imminentem captivitatem a Romanis, et multam interfectionem.   Et annuntia populo meo scelera eorum, id est, immania peccata, idololatriam videlicet, homicidium, p. 1018C | et exsecrabilia facinora, quae ultra humanum modum ipsi operantur.   Et domui Jacob annuntia peccata eorum, in quibus delinquunt contra Deum et proximum.   Adhuc populum suum illum vocat, ut ad poenitentiam eum provocet.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 26,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__26",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 26
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "ad me tempore captivitatis et calamitatis tuae, sive cum venerint Chaldaei vel Romani, seu in die judicii",
+    "prev": {
+      "id": "jad_occurence__505",
+      "label": "imminentem captivitatem a Romanis"
+    },
+    "next": {
+      "id": "jad_occurence__507",
+      "label": "plenius tamen completum constat a Romanis"
+    }
+  },
+  "507": {
+    "id": 507,
+    "passage": "plenius tamen completum constat a Romanis",
+    "jad_id": "jad_occurence__507",
+    "language": null,
+    "position_in_work": "Ch2",
+    "position_in_work_url": "",
+    "text_paragraph": "« Et corrumpam vineam ejus, et ficum ejus, » grandine scilicet atque ariditate et gelu, ut nullam habeat arborem fructiferam.   Spiritualiter per vineam, laetitiam cordis significat; per ficum autem, dulcedinem ac suavitatem debemus intelligere, quae ablata sunt ab eis.   Unde et in moerore et in amaritudine versantur, de quibus dixit: « Mercedes hae meae sunt, quas dederunt mihi amatores mei.   » Reddit causam cur superius abstulerit eis bona dicta, eo quod dixit, « Mercedes hae meae sunt, » etc. Putabat enim haec sibi a daemonibus dari pro mercede, p. 0021D | quia colebat idola.   « Et ponam eam in saltum » ut jam non habeat arbores pomiferas, sed in solitudinem penitus redigatur.   Quod ex parte quidem ab Assyriis et Chaldaeis, plenius tamen completum constat a Romanis, qui eorum terram destruentes redegerunt in solitudinem, ipsos quoque ultima captivitate exsules a sua terra reddiderunt.   Hinc est quod sequitur, « et comedet eam bestia agri, » hoc est, Romanorum exercitus.   De hac bestia Psalmista dicit: Exterminavit eam aper de sylva.   Vel certe hanc bestiam possumus intelligere diabolum, qui eos comedit, quando ad suam traxit culturam, pro qua exterminium postea passi sunt.   Quae de Judaeis dicta sunt, possunt et de haeriticis accipi, qui dum de p. 0022A | Ecclesia egrediuntur a Deo derelicti, eorum stultitia revelatur his qui prius amatores illorum exstiterant, et traditi bestiae, id est diabolo, ejus morsibus lacerati, perpetua morte puniuntur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 198,
+        "name": "Commentary Hosea ",
+        "jad_id": "jad_work__198",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Hosea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 198
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "plenius tamen completum constat a Romanis",
+    "prev": {
+      "id": "jad_occurence__506",
+      "label": "ad me tempore captivitatis et calamitatis tuae, sive cum venerint Chaldaei vel Romani, seu in die judicii"
+    },
+    "next": {
+      "id": "jad_occurence__508",
+      "label": "in captivitatem sunt ducti, et ad eos qui post adventum Domini a Romanis sunt per omnes gentes dispersi"
+    }
+  },
+  "508": {
+    "id": 508,
+    "passage": "in captivitatem sunt ducti, et ad eos qui post adventum Domini a Romanis sunt per omnes gentes dispersi",
+    "jad_id": "jad_occurence__508",
+    "language": null,
+    "position_in_work": "Ch1",
+    "position_in_work_url": "",
+    "text_paragraph": "Judaei quodammodo lacte alebantur, quandiu intra suam manebant legem, caeterasque legentes Scripturas.   Postquam autem ducti sunt in captivitatem, coeperunt pasci cibis gentilium et idolothyta comedere.   Unde ad hanc miseriam pervenerunt, ut ipsum parum scientiae quod habere videbantur, amitterent, ut neque etiam ipsam legis superficiem intelligant.   « Et concepit et peperit filium, et dixit: Voca nomen ejus, Non populus meus; quia vos non populus meus, et ego non ero vester Deus.   Et erit numerus filiorum Israel quasi arena p. 0015C | maris, quae sine mensura est, et non numerabitur.   Et erit in loco ubi dicetur eis; Non populus meus vos; dicetur eis, Filii Dei viventis.   » Haec verba et ad eos possunt referri, qui tunc temporis a regibus Assyriorum comprehensi et in captivitatem sunt ducti, et ad eos qui post adventum Domini a Romanis sunt per omnes gentes dispersi.   Illi quippe Deum per idolorum culturam abjecerunt, isti autem per Filii Dei abnegationem et traditionem, quoniam non habentes filium, non possunt habere patrem.   Quam ob rem et Deus illos abjecit, ne sint ejus populus, sed servi efficiantur diaboli, dicaturque eis: Quia vos non populus meus, et ego non ero vester Deus, sed indignos vos judicabo possessione mea et praesentia, abjiciamque vos in perpetuum.   Quod et de persona p. 0015D | haereticorum potest accipi, qui Deum abjicientes perversa de illo sentiendo, penitus ab eo repelluntur, ne cum electis dicere possint: « Dominus pars haereditatis meae.   » Et erit numerus filiorum Israel ut supra.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 198,
+        "name": "Commentary Hosea ",
+        "jad_id": "jad_work__198",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Hosea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 198
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "in captivitatem sunt ducti, et ad eos qui post adventum Domini a Romanis sunt per omnes gentes dispersi",
+    "prev": {
+      "id": "jad_occurence__507",
+      "label": "plenius tamen completum constat a Romanis"
+    },
+    "next": {
+      "id": "jad_occurence__509",
+      "label": "ad tempora Romanorum referri, quia tunc Judaei ultima et perpetua sunt captivitate damnati"
+    }
+  },
+  "509": {
+    "id": 509,
+    "passage": "ad tempora Romanorum referri, quia tunc Judaei ultima et perpetua sunt captivitate damnati",
+    "jad_id": "jad_occurence__509",
+    "language": null,
+    "position_in_work": "Ch11",
+    "position_in_work_url": "",
+    "text_paragraph": "« Et populus meus pendebit ad reditum meum, » id est, cum tempus venerit captivitatis, et gladius consumpserit omnes bellatores illius, nec poterit aliquod invenire praesidium, tunc plebs mea miserabilis sero poenitentiam aget, hostibus cuncta vastantibus pendebit ad meum reditum, et suspirabit, ac converti captabit; sed non proderit, quia quondam fuit populus meus, nunc autem non.   « Jugum autem imponetur ei simul, quod non auferetur.   » Quia usque hodie adhuc servi permanent in montibus Persarum et Medorum.   Potest hoc et ad tempora p. 0081D | Romanorum referri, quia tunc Judaei ultima et perpetua sunt captivitate damnati.\n\n¶\n    « Quomodo dabo te, Ephraim, protegam te, Israel?   » id est non protectione dignus.   More pii patris hic Dominus loquitur ad Israel.   « Quomodo (inquit) dabo te?   » id est quomodo potero te dare in captivitatem sine meo dolore?   quomodo te protegam, et quid tibi faciam, et qua arte te corripiam, et quomodo te meo auxilio denudabo sine maximo cordis dolore?",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 198,
+        "name": "Commentary Hosea ",
+        "jad_id": "jad_work__198",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Hosea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 198
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "ad tempora Romanorum referri, quia tunc Judaei ultima et perpetua sunt captivitate damnati",
+    "prev": {
+      "id": "jad_occurence__508",
+      "label": "in captivitatem sunt ducti, et ad eos qui post adventum Domini a Romanis sunt per omnes gentes dispersi"
+    },
+    "next": {
+      "id": "jad_occurence__51",
+      "label": "Titus cum patre Vespasiano Hierosolimam cepit atque subuertit"
+    }
+  },
+  "510": {
+    "id": 510,
+    "passage": "malum captivitatis, vel Chaldaicae vel Romanae",
+    "jad_id": "jad_occurence__510",
+    "language": null,
+    "position_in_work": "Ch3",
+    "position_in_work_url": "",
+    "text_paragraph": "» Sub metaphora leonum vel latronum describitur crudelitas principum Judaeorum, qui spoliabant pauperes et interficiebant, et quasi ferae bestiae carnes et ossa eorum conterebant: et velut in olla carnes coquuntur, sic in urbe Hierusalem innumeram plebem affligebant.   Unde minatur eis malum captivitatis, vel Chaldaicae vel Romanae, et licet clament ad eum, non eos exaudiet, sed restituet eis, sicut ipsi nequiter egerunt in adinventionibus suis, hoc est, in sceleribus, quae nova semper inveniebant.\n\n¶\n    « Haec dicit Dominus ad prophetas qui seducunt populum meum, » qui mordent dentibus suis, et p. 0151D | praedicant pacem: et si quis non dederit in ore eorum quidpiam, sanctificant super eum praelium.   Propterea nox vobis pro visione erit, et tenebrae pro divinatione, et occumbet super prophetas, et obtenebrabitur super eos dies, et confundentur qui vident visiones, et confundentur divini, « et operient vultus suos omnes, quia non est responsum Dei.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 202,
+        "name": "Commentary Michea ",
+        "jad_id": "jad_work__202",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Michea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 202
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "malum captivitatis, vel Chaldaicae vel Romanae",
+    "prev": {
+      "id": "jad_occurence__51",
+      "label": "Titus cum patre Vespasiano Hierosolimam cepit atque subuertit"
+    },
+    "next": {
+      "id": "jad_occurence__511",
+      "label": "id est Babylonica vel Romana captivitate"
+    }
+  },
+  "511": {
+    "id": 511,
+    "passage": "id est Babylonica vel Romana captivitate",
+    "jad_id": "jad_occurence__511",
+    "language": null,
+    "position_in_work": "Ch2",
+    "position_in_work_url": "",
+    "text_paragraph": "« Surgite » ergo « et ite, » subaudis in captivitatem, « quia » subaudis in hac terra, « non habetis requiem: propter immunditiam ejus, » id est propter scelera et impietates, « corrumpetur, » subaudis terra vestra, « putredine pessima.   » Non (inquit) brevis erit vestra captivitas, sed longo durabit tempore, et corrumpetur putredine pessima, id est Babylonica vel Romana captivitate.   Sed et moraliter mali principes Ecclesiae, mulieres (id est, animas simplices et p. 0150C | per se infirmas) malis suis exemplis de domibus suis (id est de Ecclesia) ejiciunt, et mittunt in tenebras exteriores.   Et idcirco ipsis quoque dicitur, ut surgant et eant, quia corrupti sunt putredine pessima, id est longa peccandi consuetudine, a corruptione animae et corporis.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 202,
+        "name": "Commentary Michea ",
+        "jad_id": "jad_work__202",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo, of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Michea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 25,
+          "database_table_3499": 202
+        },
+        "value": "Haimo, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "id est Babylonica vel Romana captivitate",
+    "prev": {
+      "id": "jad_occurence__510",
+      "label": "malum captivitatis, vel Chaldaicae vel Romanae"
+    },
+    "next": {
+      "id": "jad_occurence__52",
+      "label": "sub romanis"
     }
   }
 }
