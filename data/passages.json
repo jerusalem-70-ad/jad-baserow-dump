@@ -6990,12 +6990,12 @@
     ],
     "view_label": "sub romanis",
     "prev": {
-      "id": "jad_occurence__511",
-      "label": "id est Babylonica vel Romana captivitate"
+      "id": "jad_occurence__519",
+      "label": "destruendum esset a Vespasiano et Tito"
     },
     "next": {
-      "id": "jad_occurence__53",
-      "label": "Cum adpropinquasset Ihesus Hierusalem, uidens ciuitatem fleuit super illam. Pensare debemus, fratres karissimi, quid sit quod flente Domino, sicut nunc in presenti lectum est, hierosolime ciuitatis subuersio describebatur"
+      "id": "jad_occurence__520",
+      "label": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,"
     }
   },
   "53": {
@@ -7134,12 +7134,12 @@
     ],
     "view_label": "Cum adpropinquasset Ihesus Hierusalem, uidens ciuitatem fleuit super illam. Pensare debemus, fratres karissimi, quid sit quod flente Domino, sicut nunc in presenti lectum est, hierosolime ciuitatis subuersio describebatur",
     "prev": {
-      "id": "jad_occurence__52",
-      "label": "sub romanis"
+      "id": "jad_occurence__529",
+      "label": "Ad ultimum Romani tanta eos clade uastauerunt"
     },
     "next": {
-      "id": "jad_occurence__54",
-      "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit. Quod flente Domino ille Jerosolymorum subversio describatur"
+      "id": "jad_occurence__530",
+      "label": "post multa saecula a Romanis templum dirutum et incensum est"
     }
   },
   "54": {
@@ -7266,12 +7266,12 @@
     ],
     "view_label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit. Quod flente Domino ille Jerosolymorum subversio describatur",
     "prev": {
-      "id": "jad_occurence__53",
-      "label": "Cum adpropinquasset Ihesus Hierusalem, uidens ciuitatem fleuit super illam. Pensare debemus, fratres karissimi, quid sit quod flente Domino, sicut nunc in presenti lectum est, hierosolime ciuitatis subuersio describebatur"
+      "id": "jad_occurence__539",
+      "label": "post vastationem persecutionis romane"
     },
     "next": {
-      "id": "jad_occurence__55",
-      "label": "quando Jerusalem omnino subversa est"
+      "id": "jad_occurence__540",
+      "label": "tota civitas et superliminaria commota sunt in crucis vindicta"
     }
   },
   "55": {
@@ -7384,8 +7384,8 @@
     "manuscripts": [],
     "view_label": "quando Jerusalem omnino subversa est",
     "prev": {
-      "id": "jad_occurence__54",
-      "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit. Quod flente Domino ille Jerosolymorum subversio describatur"
+      "id": "jad_occurence__548",
+      "label": ""
     },
     "next": {
       "id": "jad_occurence__56",
@@ -10983,7 +10983,7 @@
       },
       {
         "id": 43,
-        "value": "Pseudo-Hegesippus"
+        "value": "Josephus Latinus  / Pseudo-Hegesippus"
       }
     ],
     "keywords": [],
@@ -55918,8 +55918,4235 @@
       "label": "malum captivitatis, vel Chaldaicae vel Romanae"
     },
     "next": {
+      "id": "jad_occurence__512",
+      "label": "in uindictam dominicae crucis Romanis uastantibus"
+    }
+  },
+  "512": {
+    "id": 512,
+    "passage": "in uindictam dominicae crucis Romanis uastantibus",
+    "jad_id": "jad_occurence__512",
+    "language": null,
+    "position_in_work": "Sermo 12",
+    "position_in_work_url": "",
+    "text_paragraph": "Ecce relinquetur uobis domus uestra deserta.\n \nDomum Iudaeorum, uel ciuitatem Hierusalem, quam iuxta alium euangelistam nidum uocauerat, uel angustum in ea templum significat, quod primum quidem merito infidelitatis eorum a Deo desertum est clamantibus angelicis potestatibus: transeamus ab his sedibus.\n \nDeinde in uindictam dominicae crucis Romanis uastantibus et tamquam uacuum nidum diripientibus, cunctis suis habitatoribus est destitutum.\n \nDico autem uobis: Non me uidebitis amodo, donec dicatis: Benedictus qui uenit in nomine domini.\n \nHoc de futuro tempore propinquante ad iudicium domino dictum est, quando ad praedicationem Heliae et Enoch Iudaei ad fidem conuersi Christum dominum benedictum non uoce tantum, sed et operibus proclamabunt.\n \nNam postquam dominus hoc dixit, non legimus Iudaeos huiuscemodi confessionem in eius laudem protulisse; postea enim hoc dixit quam intrauit in templum cum laudibus turbarum, hunc ipsum uersiculum in laudem Christi, ut supra narratum est, decantantium.\n \nHabent igitur Iudaei tempus paenitentiae sibi datum, ut si uoluerint confiteri Christum Dei patris filium benedictum in nomine domini, faciem illius intueri mereantur, id est potentiam diuinitatis eius intellectualibus oculis conspicere, et aequalem patri credere.\n \nTunc autem in nomine patris benedictum illum proclamabunt, cum praedicatione Heliae et Enoch percepta, ut dictum est, fidem eius recipient et gloriam praedicabunt impleto apostoli uaticinio, quia cum plenitudo gentium intrauerit, tunc omnis Israel saluus erit.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 105,
+        "name": "Sermones ",
+        "jad_id": "jad_work__105",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 34,
+            "value": "Maz., MS 698"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 6,
+        "name": "Apocalypticism",
+        "short_description": "The occurrence is entangled with eschatological or apocalyptic ideas. This often means that the conquest provides a resource for imagining and conceiving of the End of Times.",
+        "jad_id": "jad_keyword__6",
+        "part_of": []
+      },
+      {
+        "id": 17,
+        "name": "Eschatological conversion Jews",
+        "short_description": "",
+        "jad_id": "jad_keyword__17",
+        "part_of": [
+          {
+            "id": 6,
+            "name": "Apocalypticism",
+            "short_description": "The occurrence is entangled with eschatological or apocalyptic ideas. This often means that the conquest provides a resource for imagining and conceiving of the End of Times.",
+            "jad_id": "jad_keyword__6",
+            "part_of": []
+          }
+        ]
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 13,
+        "value": "In natale sancti Stephani"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 105
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 698, f. 17v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 78,
+        "value": "jad_occurence__78"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 78,
+        "value": true
+      }
+    ],
+    "Incipit Text": "12. IN NATALE SANCTI STEPHANI.\nIn illo tempore.\n \nDicebat Ihesus turbis Iudaeorum et principibus sacerdotum: Ecce ego mitto ad uos prophetas et sapientes et scribas.\n \nEt reliqua.\n \nEuangelicae huius lectionis intellectus superiori narrationi haerere uidetur.\n \nSupra siquidem redemptor noster scribas et pharisaeos plurimis increpationibus obiurgasse, atque inter caetera dixisse perhibetur: Vae uobis scribae et pharisaei, qui aedificatis monumenta prophetarum, et dicitis: Si fuissemus in diebus patrum nostrorum, non essemus in sanguine prophetarum socii eorum.\n \nAtque post pauca: Et uos, inquit, implete mensuram patrum uestrorum, quod est dicere: quod illi minus fecerunt, uos supplete; illi occiderunt seruos, uos dominum crucifigite; illi homines, uos Deum.\n \nEt quasi ad haec possent illi obicere: non habemus modo prophetas quos occidamus, adiungit: Ideo ecce ego mitto ad uos prophetas et sapientes et scribas, et ex illis occidetis et crucifigetis, et ex eis flagellabitis in synagogis uestris, et persequemini de ciuitate in ciuitatem.\n \nProphetae hic apostoli appellantur, quia per donum spiritus sancti futurorum habebant notitiam.\n \nIpsi sunt sapientes corde, quia sermonem proferre nouerunt in tempore oportuno; ipsi scribae, quia legem Dei scriptam habent per spiritum sanctum in cordibus suis.",
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "view_label": "in uindictam dominicae crucis Romanis uastantibus",
+    "prev": {
+      "id": "jad_occurence__511",
+      "label": "id est Babylonica vel Romana captivitate"
+    },
+    "next": {
+      "id": "jad_occurence__513",
+      "label": "superueniente romano exercitu sub Vespasiano et Tito principibus"
+    }
+  },
+  "513": {
+    "id": 513,
+    "passage": "superueniente romano exercitu sub Vespasiano et Tito principibus",
+    "jad_id": "jad_occurence__513",
+    "language": null,
+    "position_in_work": "Sermo 29",
+    "position_in_work_url": "",
+    "text_paragraph": "Quare autem sua illi ad pacem essent ostenditur cum subinfertur: Nunc autem abscondita sunt ab oculis tuis.\nSi enim interitum qui imminebat prouido circumspectionis oculo prouidisset, numquam ita de praesentibus laetaretur successibus, sed magis ad paenitentiae lamentationem fugiens flendo ageret, ne postea irremediabiliter fleret.\n \nSed poena quae a Romanis principibus imminebat manifestatur cum dicitur: Quia uenient dies in te, et circumdabunt te inimici uallo, quibus uerbis apertissime subuersio damnatae illius ciuitatis, quae a Tito et Vespasiano romani exercitus principibus hoc ipso ordine facta esse declaratur.\n \nRefert enim Iosephus quia quadragesimo secundo anno post gloriosam Dei hominis ascensionem, Iudaeis indultae paenitentiae tempus spernentibus et ne Caesari romano tributa dependerent rebellantibus, cum ex omnibus illius regni partibus innumera populi multitudo Hierosolimis ad celebrandam paschalem sollemnitatem confluxisset, superueniente romano exercitu sub Vespasiano et Tito principibus omnes intra saepta suae ciuitatis conclusi sunt et per annos circiter octo obsessi, tandem longae obsidionis famis quoque et interfectionis pertaesi, qui intra ciuitatem erant licet prius fortiter restitissent uictoribus Romanis cesserunt, qui ciuitatem ingressi incenderunt domum domini, et ipsam ciuitatem ad terram consternantes funditus eruerunt.\n \nQua obsidione sicut eodem historico referente discitur, decies undena milia fame perierunt, totidem gladio peremptis eiusdem que numeri in captiuitatem distractis, trecentis etiam in ultionem dominicae necis crucifixis.\n \nQuae cuncta in uindictam dominicae passionis acta prudentium nemo dubitauerit, sic que factum est ut qui Christum in paschali festiuitate morti tradere non timuerant, ipsi eodem die ab hostibus caperentur, ut qui in iniuria filii patrem quoque Deum offenderant, ipsi a patre et filio loco simul gente priuarentur et regno.\n \nQuia uenient dies in te, et circumdabunt te inimici tui uallo.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 105,
+        "name": "Sermones ",
+        "jad_id": "jad_work__105",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 34,
+            "value": "Maz., MS 698"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 16,
+        "name": "Concurrence Easter",
+        "short_description": "The text claims that the conquest happened on Easter, in order to mirror Christ's crucifixion, though it actually happened in the summer of 70 AD (as one reads, for example, in Josephus).",
+        "jad_id": "jad_keyword__16",
+        "part_of": []
+      },
+      {
+        "id": 29,
+        "name": "42 years of penance",
+        "short_description": "The period between Christ's death and the Roman conquest are explained as a period of potential penance that God granted the Jews, but which they did not seize",
+        "jad_id": "jad_keyword__29",
+        "part_of": []
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 1,
+        "value": "X Sunday after Holy Trinity"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 105
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "29. DOMINICA X POST OCTAVAM PENTECOSTES.\nIn illo tempore.\n \nCum appropinquaret Ihesus Hierusalem, uidens ciuitatem fleuit super illam dicens: Quia si tu cognouisses, et quidem in hac die tua, quae ad pacem tibi! Nunc autem abscondita sunt ab oculis tuis.\n \nEt reliqua.\n \nDominus Ihesus Dei uerbum pro salute humani generis incarnatum, in quantum passionis illius tempus uicinius accedebat in tantum diuinitatis suae omnipotentiam miraculorum ac uirtutum exhibitione manifestare decreuerat, quo se ostenderet non inuitum ut scribae et pharisaei putabant, sed uoluntarie passionem subire ipsam que mortem quam illi meditabantur inferre in potestate habere.\n \nImminente igitur suae passionis die Hierosolimam ueniens, uictricia frondium insignia sibi adhiberi ac laudes diuinas a populo uoluit acclamari, ut hac gloria magis insultatores suos ad celerius agendum, quod tantopere desiderauerant stimularet.\n \nCum ergo appropinquaret Hierusalem, uidens ciuitatem fleuit super illam.\n \nIn magnae suae bonitatis et clementiae signum pati ueniens primum perfidam ciuitatem defleuit, aperte indicans quantum eorum perditionem doleret quorum crudelissimis manibus impie tractandus ac morti mancipandus erat.\n \nQuod uero dicitur quia uidens ciuitatem fleuit super illam, metonymicos accipiendum est.\n \nNeque enim dominus saxa murorum aut pulchritudines aedium fleuit, sed potius populum qui intra ciuitatis ipsius ambitum continebatur.",
+    "manuscripts": [],
+    "view_label": "superueniente romano exercitu sub Vespasiano et Tito principibus",
+    "prev": {
+      "id": "jad_occurence__512",
+      "label": "in uindictam dominicae crucis Romanis uastantibus"
+    },
+    "next": {
+      "id": "jad_occurence__514",
+      "label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani"
+    }
+  },
+  "514": {
+    "id": 514,
+    "passage": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani",
+    "jad_id": "jad_occurence__514",
+    "language": null,
+    "position_in_work": "Sermo 41",
+    "position_in_work_url": "",
+    "text_paragraph": "appositum est, nunc uero ubi ad ultionem uentum est, rex tantum dicitur et homo siletur, quia uidelicet dominus Ihesus Christus ad nuptias, hoc est ad laudem suae incarnationis, genus humanum uocaturus misericorditer hominem se uidendum hominibus in humilitate ostendit, ad discernendum uero merita singulorum in iudicio uenturus districtus iudex omnibus apparebit.\nEt missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit.\n \nQuantum ad litteram exercitus Dei intelleguntur Romani, qui populo iudaicae gentis deleto praeuaricatricem quoque ciuitatem flammis tradiderunt.\n \nQui non idcirco Dei exercitus appellantur quod in cultu christianae religionis adhuc tunc temporis fuissent fundati, sed quia uoluntati Dei in exterminio iudaicae gentis paruerint.\n \nOmnis enim qui uoluntati Dei obtemperat, exercitus et seruus illius appellatur, unde et regem Nabucodonosor dominus columbam et seruum uocat, quia in deiectione ipsius populi praecepto illius oboediuit; neque enim Nabucodonosor aut populus romanus aduersus Hierusalem dimicaturi processissent, nisi nutu Dei ad hoc excitati fuissent.\n \nMoraliter uero homicidas Deus perdidit, quia persecutores sanctorum martyrum interemit, ciuitatem illorum succendit, quia non solum animas eorum sed etiam corpora in quibus habitauerant, per ministerium angelorum aeternis ignibus crucianda tradidit.\n \nSecundum quem sensum, moralem uidelicet, exercitus Dei ultores angeli intelleguntur: omnis enim uindicta in reprobos uel per bonos uel per angelos malos exercetur, unde scriptum est: Immissiones per angelos malos.\n \nTunc ait seruis suis: Nuptiae quidem paratae sunt.\n \nPer nuptias parabolice dictas, coniunctio diuinitatis Christi atque infirmitatis humanae, ut dictum est, demonstratur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 28,
+        "value": "Mt. 22,7"
+      }
+    ],
+    "work": [
+      {
+        "id": 105,
+        "name": "Sermones ",
+        "jad_id": "jad_work__105",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 34,
+            "value": "Maz., MS 698"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 6,
+        "name": "Apocalypticism",
+        "short_description": "The occurrence is entangled with eschatological or apocalyptic ideas. This often means that the conquest provides a resource for imagining and conceiving of the End of Times.",
+        "jad_id": "jad_keyword__6",
+        "part_of": []
+      },
+      {
+        "id": 30,
+        "name": "Vision of violence or extinction",
+        "short_description": "",
+        "jad_id": "jad_keyword__30",
+        "part_of": []
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 2,
+        "value": "XX Sunday after Holy Trinity"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 105
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 698, f. 147v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 79,
+        "value": "jad_occurence__79"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 79,
+        "value": true
+      }
+    ],
+    "Incipit Text": "41. DOMINICA XX POST OCTAVAM PENTECOSTES.\nIn illo tempore.\n \nLoquebatur Ihesus cum discipulis suis in parabolis dicens: Simile est regnum caelorum homini regi qui fecit nuptias filio suo.\n \nEt reliqua.\n \nHaec euangelica lectio multo euidentius nobis elucebit, si illam quae hanc praecedit breuiter attingere non piguerit.\n \nProposuerat namque dominus scribis et pharisaeis aliam parabolam quam ista subsequitur, in qua retulit hominem patremfamilias plantasse uineam et saepem circumdedisse ei, et fodisse in ea torcular et aedificasse turrim in medio eius, et dedisse eam agricolis, hoc est uinitoribus, ad excolendum, et ad peregrinandum profectum esse, adueniente autem tempore colligendi fructus ex ea misisse seruos suos ut acciperent fructus uineae, quos illi apprehendentes alium ceciderunt, alium lapidauerunt, alium uero occiderunt.\n \nDeinde infert missos alios seruos et passos similiter; nouissime misit filium suum dicens: uerebuntur filium meum, quem illi uidentes dixerunt: hic est heres, uenite occidamus eum, et nostra erit hereditas; quem apprehendentes extra uineam interfecerunt.\n \nIn qua parabola paterfamilias qui plantauit uineam intellegitur Deus pater, qui prioribus eiectis habitoribus plebem israeliticam in terram repromissionis collocauit.\n \nVinea quam plantauit est eadem iudaica gens, de qua dicit psalmista: Vineam de Aegypto transtulisti, eiecisti gentes et plantasti eam.\n \nSicut enim studiosus agricola, id est uinitor, primum infructuosas excidit siluas et postea plantat uineam ne ab eis suffocari possit, sic et dominus gentes quae erant sine fructu bonorum operum in terra promissionis eiecit, et collocauit ibi Iudaeos.",
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "view_label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani",
+    "prev": {
+      "id": "jad_occurence__513",
+      "label": "superueniente romano exercitu sub Vespasiano et Tito principibus"
+    },
+    "next": {
+      "id": "jad_occurence__515",
+      "label": "Romanis sub hac occasione in uindictam necis saluatoris uenientibus amitterent locum, gentem et regnum"
+    }
+  },
+  "515": {
+    "id": 515,
+    "passage": "Romanis sub hac occasione in uindictam necis saluatoris uenientibus amitterent locum, gentem et regnum",
+    "jad_id": "jad_occurence__515",
+    "language": null,
+    "position_in_work": "Sermo 44",
+    "position_in_work_url": "",
+    "text_paragraph": "44. DOMINICA XXIII POST OCTAVAM PENTECOSTES.\nIn illo tempore.\n \nAbeuntes pharisaei consilium inierunt, ut caperent Ihesum in sermone.\n \nEt reliqua.\n \nLuca referente euangelista manifestum quia domino saluatore nato sub Caesare Augusto, in toto orbe est celebrata descriptio, et inter omnes nationes totius orbis quae romano imperio subiectae erant, Iudaea quoque eis Romanis stipendiaria facta fuerat; quam ob causam magna seditio tunc temporis in populo feruebat.\n \nQuidam enim dignum esse iudicabant, ut quia Romani pro securitate et quiete omnium assidue militabant, censum eis deberent persoluere.\n \nAt contra pharisaei qui sibi de falsa iustitia applaudebant, nitebantur asserere quod populus Dei qui decimas solueret primitiua daret et caetera legis decreta obseruaret, non deberet humanis legibus subdi.\n \nQuae seditio in tantum conualuit, ut post domini passionem in hac ipsa pertinacia et rebellione Iudaei perdurantes, Romanis sub hac occasione in uindictam necis saluatoris uenientibus amitterent locum, gentem et regnum, uitam etiam praesentem perderent ac futuram, dum maluerunt haec omnia caecante auaritia perpeti quam tributa romanae militiae pendere.\n \nQuia ergo principes sacerdotum timore populi dominum comprehendere non poterant, saltem ut in sermone eum caperent laborabant.\n \nAbierunt ergo pharisaei et consilium acceperunt.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 36,
+        "value": "Joh. 11,48"
+      }
+    ],
+    "work": [
+      {
+        "id": 105,
+        "name": "Sermones ",
+        "jad_id": "jad_work__105",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 34,
+            "value": "Maz., MS 698"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 31,
+        "name": "Discussions Roman Empire",
+        "short_description": "The texts elaborates on the historical context of the Roman Empire beyond the Roman conquest",
+        "jad_id": "jad_keyword__31",
+        "part_of": []
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 8,
+        "value": "XXIII Sunday after Holy Trinity"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 105
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 698, f. 154r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 80,
+        "value": "jad_occurence__80"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 80,
+        "value": true
+      }
+    ],
+    "Incipit Text": "44. DOMINICA XXIII POST OCTAVAM PENTECOSTES.\nIn illo tempore.\n \nAbeuntes pharisaei consilium inierunt, ut caperent Ihesum in sermone.\n \nEt reliqua.\n \nLuca referente euangelista manifestum quia domino saluatore nato sub Caesare Augusto, in toto orbe est celebrata descriptio, et inter omnes nationes totius orbis quae romano imperio subiectae erant, Iudaea quoque eis Romanis stipendiaria facta fuerat; quam ob causam magna seditio tunc temporis in populo feruebat.\n \nQuidam enim dignum esse iudicabant, ut quia Romani pro securitate et quiete omnium assidue militabant, censum eis deberent persoluere.\n \nAt contra pharisaei qui sibi de falsa iustitia applaudebant, nitebantur asserere quod populus Dei qui decimas solueret primitiua daret et caetera legis decreta obseruaret, non deberet humanis legibus subdi.\n \nQuae seditio in tantum conualuit, ut post domini passionem in hac ipsa pertinacia et rebellione Iudaei perdurantes, Romanis sub hac occasione in uindictam necis saluatoris uenientibus amitterent locum, gentem et regnum, uitam etiam praesentem perderent ac futuram, dum maluerunt haec omnia caecante auaritia perpeti quam tributa romanae militiae pendere.\n \nQuia ergo principes sacerdotum timore populi dominum comprehendere non poterant, saltem ut in sermone eum caperent laborabant.\n \nAbierunt ergo pharisaei et consilium acceperunt.",
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "view_label": "Romanis sub hac occasione in uindictam necis saluatoris uenientibus amitterent locum, gentem et regnum",
+    "prev": {
+      "id": "jad_occurence__514",
+      "label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani"
+    },
+    "next": {
+      "id": "jad_occurence__516",
+      "label": "ruinam illius qua a principibus romanis complananda erat"
+    }
+  },
+  "516": {
+    "id": 516,
+    "passage": "ruinam illius qua a principibus romanis complananda erat",
+    "jad_id": "jad_occurence__516",
+    "language": null,
+    "position_in_work": "Sermo 12",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 105,
+        "name": "Sermones ",
+        "jad_id": "jad_work__105",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 34,
+            "value": "Maz., MS 698"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 1,
+        "value": "X Sunday after Holy Trinity"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 105
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 698, f. 117v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 76,
+        "value": "jad_occurence__76"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 76,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "view_label": "ruinam illius qua a principibus romanis complananda erat",
+    "prev": {
+      "id": "jad_occurence__515",
+      "label": "Romanis sub hac occasione in uindictam necis saluatoris uenientibus amitterent locum, gentem et regnum"
+    },
+    "next": {
+      "id": "jad_occurence__517",
+      "label": "poena que a romanis principibus imminebat"
+    }
+  },
+  "517": {
+    "id": 517,
+    "passage": "poena que a romanis principibus imminebat",
+    "jad_id": "jad_occurence__517",
+    "language": null,
+    "position_in_work": "Sermo 12",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 105,
+        "name": "Sermones ",
+        "jad_id": "jad_work__105",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 34,
+            "value": "Maz., MS 698"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 1,
+        "value": "X Sunday after Holy Trinity"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 105
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 698, f. 118r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 77,
+        "value": "jad_occurence__77"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 77,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 5,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "view_label": "poena que a romanis principibus imminebat",
+    "prev": {
+      "id": "jad_occurence__516",
+      "label": "ruinam illius qua a principibus romanis complananda erat"
+    },
+    "next": {
+      "id": "jad_occurence__518",
+      "label": "deleta a Tito et Vespasiano ferro fame et captiuitate"
+    }
+  },
+  "518": {
+    "id": 518,
+    "passage": "deleta a Tito et Vespasiano ferro fame et captiuitate",
+    "jad_id": "jad_occurence__518",
+    "language": null,
+    "position_in_work": "Ch3",
+    "position_in_work_url": "",
+    "text_paragraph": "Hierusalem terrenam aruorum, id est camporum, nomine designat.\nQuae enim in montibus sita erat, et de qua dictum fuerat: Fundamenta eius in montibus sanctis, postquam dei filium recipere noluit, humilis et campestris uocatur de uirtutum prolapsa culmine.\n \nArua ergo non afferent cibos, quia plebs iudaica nullam iam frugem fidei uel bonae reddit operationis.\n \nABSCIDETUR DE OUILI PECUS, id est de Hierusalem, in qua uelut pecus ouili habitabat, abscidetur promiscua plebis multitudo deleta a Tito et Vespasiano ferro fame et captiuitate.\n \nET NON ERIT ARMENTUM IN PRAESEPIBUS, id est sacerdotes scribae et ceteri principes, qui uelut tauri pingues subiectis populis quasi gregibus praeerant et uelut in plenis praesepibus deliciabantur.\n \nNon ergo erit armentum in praesepibus, quia subuersa Hierusalem omnis illa principum dignitas annullata est, et impletum quod dominus dixerat: Relinquetur uobis domus uestra deserta.\n \n(3,18) EGO AUTEM IN DOMINO GAUDEBO ET EXSULTABO IN DEO IESU MEO.\n \nPraedicta perditione plebis et principum et totius ciuitatis, loquitur propheta ex sua et apostolorum omnium que sanctorum persona.\n \n'Ego' inquit 'in domino gaudebo', non in diuitiis, non in gloria huius mundi, 'et exsultabo in deo iesu' salutari 'meo'.\n \nIesus enim 'saluator' siue 'salutaris' interpretatur, sed interpres maluit ipsum hebraicum ponere, quia dulce et plenum gaudii nomen Iesu semper delectat audire.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 205,
+        "name": "Commentary Habacuc ",
+        "jad_id": "jad_work__205",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Habacuc",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 205
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "deleta a Tito et Vespasiano ferro fame et captiuitate",
+    "prev": {
+      "id": "jad_occurence__517",
+      "label": "poena que a romanis principibus imminebat"
+    },
+    "next": {
+      "id": "jad_occurence__519",
+      "label": "destruendum esset a Vespasiano et Tito"
+    }
+  },
+  "519": {
+    "id": 519,
+    "passage": "destruendum esset a Vespasiano et Tito",
+    "jad_id": "jad_occurence__519",
+    "language": null,
+    "position_in_work": "Ch11",
+    "position_in_work_url": "",
+    "text_paragraph": "(11,1) APERI, LIBANE, PORTAS TUAS, ET DEUORET IGNIS CEDROS TUAS.\nLibanus mons est Phoenicis, ubi terminus Iudaeae contra septentrionem est, sed hoc loco templum uocat Libanum, quod de lignis Libani constructum erat.\n \nPraedicit ergo propheta quod templum, quod nouiter fuerat aedificatum a Zorobabel et Iesu, iterum destruendum esset a Vespasiano et Tito principibus Romanorum: 'aperi' inquit 'Libane, portas tuas', ut suscipias ingredientes hostes.\n \nEt quia dixerat Libanum, seruat metaphoram subdens 'et deuoret ignis cedros tuas'.\n \nPer cedros et abietes et 'quercus Basan' et saltum nemorosum principes et sacerdotes et populum significat Iudaeorum: comedat, inquit, ignis cedros tuas, ut cuncta uel incendio uel hostili imperio uastentur et tam duces quam populi consumantur.\n \n'Vlula, abies, quia cecidit cedrus'.\n \nMutua, inquit, lamentatione, sacerdotes et principes ac populus, uestrum plangite interitum, et quasi quaereres quid significant cedri quid ue abietes et quercus, respondet ostendens de hominibus se dicere: 'quoniam magnifici uastati sunt'.\n \nBasan 'confusio' dicitur, quercus ergo Basan homines dicit confusionis et ignominiae.\n \n'Quoniam succisus est saltus munitus': saltum munitum siue nemorosum ipsum templum dicit, quod inexpugnabili firmitate constructum fuerat a diuersis regibus et ad ultimum ab Herode, quod dicit metaphorice succidendum, id est Romanis pugnantibus deuastandum. (11,3) VOX ULULATUS PASTORUM, QUIA UASTATA EST MAGNIFICENTIA EORUM.\n \nQuos supra cedros uel abietes siue quercus dixerat, nunc quasi exponens quid dixerit, per aliam metaphoram uocat pastores, id est sacerdotes et principes eorum, quorum iam dicit audiri ululatum, quia magnificentia et decus illorum, templum uidelicet in quo maxime gloriabantur, incensum et destructum sit.\n \nVOX RUGITUS LEONUM, QUIA UASTATA EST SUPERBIA IORDANIS, et reliqua.\n \nQuos superius arbores uel pastores dixerat, nunc uocat leones, et sicut superius altitudinem templi comparauit celsitudini montis Libani, quo nihil excelsius nihil que condensius est in terra repromissionis, sic nunc rugitum leonum et superbiam Iordanis iungit, quia in illa regione omnium fluminum maximus est Iordanis, iuxta quem morantur leones, siue ut ardorem sitis aqua fluminis releuent, siue quia uicinum est desertum et uasta solitudo.\n \nAit ergo propheta: 'uox rugitus leonum', id est optimatum et principum, subaudis audita est, 'quia uastata est superbia Iordanis', hoc est dignitas templi deleta est, unde auxilium sperabatur.\n \n(11,4) HAEC DICIT DOMINUS: PASCE PECORA OCCISIONIS, (5) QUAE QUI POSSEDERANT OCCIDEBANT ET NON DOLEBANT ET UENDEBANT EA, et reliqua.\n \nVox domini ad prophetam: nunc, inquit, interim nutriatur grex et crescat, qui postea ab hostibus capiatur.\n \nQuae pecora Romani qui possidebant iure uictorum occidebant et non dolebant nec miserebantur, quae seruabant ad uitam uendebant et laetabantur dicentes: \"Benedictus dominus, diuites facti sumus\".",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 27,
+        "value": "Zach. 11,1"
+      }
+    ],
+    "work": [
+      {
+        "id": 206,
+        "name": "Commentary Zacharias ",
+        "jad_id": "jad_work__206",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Zacharias",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 206
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "destruendum esset a Vespasiano et Tito",
+    "prev": {
+      "id": "jad_occurence__518",
+      "label": "deleta a Tito et Vespasiano ferro fame et captiuitate"
+    },
+    "next": {
       "id": "jad_occurence__52",
       "label": "sub romanis"
+    }
+  },
+  "520": {
+    "id": 520,
+    "passage": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,",
+    "jad_id": "jad_occurence__520",
+    "language": null,
+    "position_in_work": "Sermo 61",
+    "position_in_work_url": "",
+    "text_paragraph": "Si dimittimus eum sic, omnes credent in eum, et uenient Romani et tollent nostrum locum et gentem.\nTemporale regnum amittere timuerunt, de uita autem aeterna cogitare neglexerunt, atque ideo utrumque iustissimo Dei iudicio amiserunt.\n \nNam quadragesimo secundo anno post eius passionem simul que gloriosam ascensionem, uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt, et ipsos ferro, fame que et captiuitate deleuerunt.\n \nEt qui in pascha Christum occiderant, in eadem sollemnitate ab hostibus captiuati sunt; qui que in iniuria filii patrem offenderant, ipsi a patre et filio, id est Vespasiano et Tito, deleti sunt, sic que rei et miseri ad aeterna supplicia transierunt, iuxta quod alibi de eis dominus dixerat: Filii autem regni eicientur in tenebras exteriores.\n \nVeniunt, inquiunt, Romani, et tollent nostrum locum et gentem.\n \nPutabant Iudaei doctrinam Christi contra templum et paternas traditiones esse, ideo que timebant ne si omnes in Christum crederent, nullus remaneret qui pro ciuitate et templo contra Romanos pugnando resisteret.\n \nVnus autem ex ipsis Caiphas nomine cum esset pontifex anni illius, dixit eis: Vos nescitis quicquam, neque cogitatis quia expedit ut unus homo moriatur pro populo, et non tota gens pereat.\n \nQuod eum a semetipso non dixisse, sed quia pontifex erat anni illius prophetasse agente ipso pontificatus sacramento quod indignus gerebat, subsecutus euangelista ostendit dicens: Hoc autem a semetipso non dixit; sed cum esset pontifex anni illius, prophetauit quia Ihesus moriturus erat pro gente.\n \nQuo loco discimus plerumque etiam malos per spiritum prophetiae futura praedicere; unde et in iudicio domino dicturi sunt: Domine, nonne in nomine tuo prophetauimus?",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 105,
+        "name": "Sermones ",
+        "jad_id": "jad_work__105",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 34,
+            "value": "Maz., MS 698"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 105
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "61. FERIA VI.\nIn illo tempore.\n \nCollegerunt pontifices et pharisaei concilium aduersus Ihesum, et dicebant: Quid facimus, quia hic homo multa signa facit?\n \nSi dimittimus eum sic, omnes credent in eum.\n \nEt reliqua.\n \nResuscitato a saluatore Christo Lazaro tam ingenti miraculo, multi ex Iudaeis qui praesentes fuerant uel uiderant quae fecit, crediderunt in eum.\n \nQuidam uero ex ipsis siue qui iam in eum crediderant, siue qui ad Martham et Mariam consolandi causa uenerant, abierunt ad pharisaeos et nuntiauerunt eis quae fecit Ihesus, siue pio studio ut et ipsi in eum crederent, siue gratia deferendi ut contra eum saeuirent.\n \nProtinus illi malitia sua contenebrati et quo se uerterent nescientes (uidebant enim se signorum euidentia superari), collegerunt concilium non ut conuerterentur et crederent, sed ut eum nefanda conspiratione morti damnarent.\n \nIneunt consilium ut eum perderent, non ut sibi consulerent: Quid, inquiunt, facimus?\n \nMiseri non dicebant: credamus, sed uelut exacuentes et ad necem eius sese mutuo cohortantes dicebant: Quid facimus, quia hic homo multa signa facit?",
+    "manuscripts": [],
+    "view_label": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,",
+    "prev": {
+      "id": "jad_occurence__52",
+      "label": "sub romanis"
+    },
+    "next": {
+      "id": "jad_occurence__521",
+      "label": "uentum Romanos intelligunt, qui post Christi resurrectionem et ascensionem Israelem penitus deleuerunt"
+    }
+  },
+  "521": {
+    "id": 521,
+    "passage": "uentum Romanos intelligunt, qui post Christi resurrectionem et ascensionem Israelem penitus deleuerunt",
+    "jad_id": "jad_occurence__521",
+    "language": null,
+    "position_in_work": "Ch4",
+    "position_in_work_url": "",
+    "text_paragraph": "Vnde et ab Hierusalem praedicationis iussit initium fieri dicens: Oportebat Christum pati et resurgere, et praedicari in nomine eius paenitentiam et remissionem peccatorum in omnes gentes incipientibus ab Hierusalem.\nCoepit ergo aestuare Ionas et iterum uelle mori in baptismate cum Israele, ut in lauacro reciperent humorem quem negando Christum perdiderant.\n \nVnde et Petrus interrogantibus quid agerent dicebat: Paenitentiam agite, et baptizetur unusquisque uestrum.\n \nQuod uero diximus in baptismo eum uelle mori, apostoli est, qui dicit: Quicumque baptizati sumus in Christo Iesu, in morte ipsius baptizati sumus.\n \nQuidam uermem et urentem uentum Romanos intelligunt, qui post Christi resurrectionem et ascensionem Israelem penitus deleuerunt.\n \n(4,9) ET DIXIT DOMINUS AD IONAM: PUTAS NE BENE IRASCERIS TU? ET DIXIT: BENE IRASCOR EGO USQUE AD MORTEM.\n \nSuperius iam saluato per paenitentiam Niniuitarum populo iisdem uerbis interrogatus Ionas nihil respondit, licet uideret non esse factum quod praedixerat, sed domini interrogationem suo silentio comprobauit; sciebat enim dominum clementissimum esse et multae miserationis.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 207,
+        "name": "Commentary Jonah ",
+        "jad_id": "jad_work__207",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Jonah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 207
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "uentum Romanos intelligunt, qui post Christi resurrectionem et ascensionem Israelem penitus deleuerunt",
+    "prev": {
+      "id": "jad_occurence__520",
+      "label": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,"
+    },
+    "next": {
+      "id": "jad_occurence__522",
+      "label": "putredine pessima, id est babylonica uel romana captiuitate"
+    }
+  },
+  "522": {
+    "id": 522,
+    "passage": "putredine pessima, id est babylonica uel romana captiuitate",
+    "jad_id": "jad_occurence__522",
+    "language": null,
+    "position_in_work": "Ch2",
+    "position_in_work_url": "",
+    "text_paragraph": "Desolatis ergo urbibus nullus remansit, nec saltem paruulus remansit qui psalmos uel laudes dei caneret.\n(2,10) SURGITE ergo ET ITE in captiuitatem, QUIA in hac terra NON HABETIS REQUIEM; PROPTER IMMUNDITIAM SUAM, id est propter scelera et impietates, CORRUMPETUR - subaudis terra uestra - PUTREDINE PESSIMA.\n \nNon, inquit, breuis erit uestra captiuitas, sed longo durabit tempore, et corrumpetur putredine pessima, id est babylonica uel romana captiuitate.\n \nSed et moraliter mali principes ecclesiae mulieres, id est animas simplices et per se infirmas, malis suis exemplis de domibus suis, id est de ecclesia, eiciunt et mittunt in tenebras exteriores.\n \nEt idcirco ipsis quoque dicitur ut surgant et recedant, quia corrupti sunt putredine pessima, id est longa peccandi consuetudine et corruptione animae et corporis.\n \n(2,11) VTINAM NON ESSEM UIR HABENS SPIRITUM ET MENDACIUM POTIUS LOQUERER! STILLABO TIBI IN UINUM ET IN EBRIETATEM, ET ERIT SUPER QUEM STILLATUR POPULUS ISTE.\n \nO popule iudaice, ad quos repromissiones factae sunt, et ex quibus secundum carnem Christus natus est, non me putetis uolentem loqui aut sponte mea haec uobis mala praedicere.\n \nVtinam non essem uir habens spiritum sanctum, sed potius daemonico spiritu loquerer et inter pseudoprophetas reputarer, et non essent uera quae dico, et non uenirent mala quae praenuntio.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 208,
+        "name": "Commentary Michea ",
+        "jad_id": "jad_work__208",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Michea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 208
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "putredine pessima, id est babylonica uel romana captiuitate",
+    "prev": {
+      "id": "jad_occurence__521",
+      "label": "uentum Romanos intelligunt, qui post Christi resurrectionem et ascensionem Israelem penitus deleuerunt"
+    },
+    "next": {
+      "id": "jad_occurence__523",
+      "label": "minatur eis malum captiuitatis uel chaldaicae uel romanae,"
+    }
+  },
+  "523": {
+    "id": 523,
+    "passage": "minatur eis malum captiuitatis uel chaldaicae uel romanae,",
+    "jad_id": "jad_occurence__523",
+    "language": null,
+    "position_in_work": "Ch3",
+    "position_in_work_url": "",
+    "text_paragraph": "(3,1) AUDITE, PRINCIPES IACOB ET DUCES DOMUS ISRAEL, NUMQUID UESTRUM EST SCIRE IUDICIUM, (2) QUI ODIO HABETIS BONUM ET DILIGITIS MALUM? et reliqua.\nSub metaphora leonum uel latronum describitur crudelitas principum Iudaeorum, qui spoliabant pauperes et interficiebant, et quasi ferae bestiae carnes et ossa eorum conterebant, et uelut in olla carnes coquuntur, sic in urbe Hierusalem innumeram plebem affligebant.\n \nVnde minatur eis malum captiuitatis uel chaldaicae uel romanae, et licet clament ad eum, non eos exaudiet, sed restituet eis sicut ipsi nequiter egerunt in adinuentionibus suis, hoc est in sceleribus quae noua semper adinueniebant.\n \n(3,5) HAEC DICIT DOMINUS SUPER PROPHETAS QUI SEDUCUNT POPULUM MEUM, et reliqua.\n \nErant illo tempore pseudoprophetae in populo Israel, qui ut ab eis dona acciperent, praedicabant pacem quae eis data non erat.\n \nHoc est enim quod dicit 'mordent dentibus', ut auiditatem accipientium ostendat.\n \nSi quis uero nihil eis dedisset, quamuis esset sanctus, praenuntiabant iram dei illi esse uenturam.\n \nVnde dicit quod sermo eorum non sit prophetia, sed diuinatio, nec habeat lumen, sed tenebras et errorem, et cum non uenerint quae promiserant, tunc occumbat eis sol et operiantur confusione, quia scietur quod non sit responsum dei, sed fraus daemonum homines decipere uolentium.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 208,
+        "name": "Commentary Michea ",
+        "jad_id": "jad_work__208",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Michea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 208
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "minatur eis malum captiuitatis uel chaldaicae uel romanae,",
+    "prev": {
+      "id": "jad_occurence__522",
+      "label": "putredine pessima, id est babylonica uel romana captiuitate"
+    },
+    "next": {
+      "id": "jad_occurence__524",
+      "label": "ab exercitu romano uastati sunt"
+    }
+  },
+  "524": {
+    "id": 524,
+    "passage": "ab exercitu romano uastati sunt",
+    "jad_id": "jad_occurence__524",
+    "language": null,
+    "position_in_work": "Ch4",
+    "position_in_work_url": "",
+    "text_paragraph": "Venit ergo in hunc mundum potestas prima, ut secundam faceret potestatem; non enim potest dici prima nisi sit secunda.\nFecit ergo secundam potestatem in apostolos, ut sicut appellantur a luce Christo lux et a pane uero Christo uocantur panis, Paulo dicente: Vnus panis multi sumus in Christo, ita a prima potestate potestas et regnum Hierusalem uocentur.\n \n(4,9) ET NUNC QUARE MAERORE CONTRAHERIS? Cum, inquit, ad te uentura sit prima potestas, quare maerore contraheris et humiliaris? NUMQUID REX NON EST TIBI AUT CONSILIARIUS TUUS PERIIT? Interrogando confirmat iuste eam dolere et maerere, quia rex eius Christus, qui est et consiliarius et angelus magni consilii, periit ei, hoc est crucifixus est ab illis et quantum in ipsis fuit periit, et qui iuxta euangelicam parabolam heredem eiectum extra uineam occiderunt, ipsi quoque ab exercitu romano uastati sunt.\n \nEt sicut parturiens dolorem non potest effugere, sic ille populus imminens periculum et uastationem non potuit declinare.\n \n(4,10) DOLE ET SATAGE, FILIA SION, QUASI PARTURIENS, QUIA NUNC EGREDIERIS DE CIUITATE, et cetera.\n \nPraecipitur filiae Sion, id est saepe dictae plebi, ut doleat et egrediatur de ciuitate et habitet in regione, quia dei est sententia ut pergat in captiuitatem, nec potest mutari iudicium eius.\n \nMonetur ergo ut patienter sustineat et usque ad Babylonem ueniat, sciens quia si fortiter flagellum dei sustinuerit, cito redimenda sit de manu inimicorum, ut cum fuerit liberata, possit dicere: Ne laeteris, inimica mea, super me, quia cecidi, consurgam, et cum psalmista: Non in perpetuum irascetur dominus neque in aeternum comminabitur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 208,
+        "name": "Commentary Michea ",
+        "jad_id": "jad_work__208",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Michea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 208
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "ab exercitu romano uastati sunt",
+    "prev": {
+      "id": "jad_occurence__523",
+      "label": "minatur eis malum captiuitatis uel chaldaicae uel romanae,"
+    },
+    "next": {
+      "id": "jad_occurence__525",
+      "label": "Propter haec ergo scelera non differam amplius ultionem, et nunc et in praesenti uastaberis ab Assyriis uel Romanis."
+    }
+  },
+  "525": {
+    "id": 525,
+    "passage": "Propter haec ergo scelera non differam amplius ultionem, et nunc et in praesenti uastaberis ab Assyriis uel Romanis.",
+    "jad_id": "jad_occurence__525",
+    "language": null,
+    "position_in_work": "Ch5",
+    "position_in_work_url": "",
+    "text_paragraph": "Quod autem sequitur 'obsidionem posuerunt super nos', uox est dei patris loquentis ad filium et spiritum sanctum', et manifeste ostenditur trinitas personarum.\nObsidionem posuerunt super filium dei Iudaei, quando insidiabantur dicentes: Magister, scimus quia uerax es; quasi enim obsidebant qui capere cogitabant.\n \nSed quia iniuria filii iniuria est patris et spiritus sancti, idcirco pluraliter dicitur 'super nos'.\n \nQuod uero sequitur 'in uirga percutient maxillam iudicis Israel', hoc ostendit quod arundine percutiebant milites caput domini, quae filii contumelia redundabat in totam trinitatem.\n \nPropter haec ergo scelera non differam amplius ultionem, et nunc et in praesenti uastaberis ab Assyriis uel Romanis.\n \n(5,2) ET TU, BETHLEEM EPHRATA, PARUULUS ES IN MILLIBUS IUDA, EX TE MIHI EGREDIETUR QUI SIT DOMINATOR IN ISRAEL, et reliqua.\n \nLoquitur propheta ex persona dei patris, promittentis incarnationem filii sui et designantis locum natiuitatis eius: 'et tu Bethleem', quae ante uocabaris 'Ephrata' et in tantum es minima ut comparata 'millibus Iuda' uix paruus uiculus habearis, ex hoc paruo oppidulo 'egredietur' Christus, 'qui sit dominator in Israel'.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 208,
+        "name": "Commentary Michea ",
+        "jad_id": "jad_work__208",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Michea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 208
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Propter haec ergo scelera non differam amplius ultionem, et nunc et in praesenti uastaberis ab Assyriis uel Romanis.",
+    "prev": {
+      "id": "jad_occurence__524",
+      "label": "ab exercitu romano uastati sunt"
+    },
+    "next": {
+      "id": "jad_occurence__526",
+      "label": "decurret Chaldaeorum uel Romanorum exercitus et comminuet omnia"
+    }
+  },
+  "526": {
+    "id": 526,
+    "passage": "decurret Chaldaeorum uel Romanorum exercitus et comminuet omnia",
+    "jad_id": "jad_occurence__526",
+    "language": null,
+    "position_in_work": "Ch1",
+    "position_in_work_url": "",
+    "text_paragraph": "(1,11) VLULATE, HABITATORES PILAE, CONTICUIT OMNIS POPULUS CHANAAN.\nPilam hoc loco uas debemus accipere in quo frumenta pinsuntur, id est tunduntur, et est producta 'pi' syllaba.\n \nNam aliud est pila 'pi' correpta, sphaera uidelicet pilorum qua pueri ludunt.\n \nPilam ergo appellat Hierusalem; qua enim ui et impetu frumenta feriente desuper pilo tunduntur, ita de porta piscium et de secunda atque de collibus proruens decurret Chaldaeorum uel Romanorum exercitus et comminuet omnia.\n \nPopulum autem Chanaan populum Iudaeorum appellat, quia impietates Chananaeorum agebant; nam et Daniel impudicum senem semen Chanaan uocat.\n \nVenientibus itaque hostibus conticescent nimio metu et suorum scelerum conscientia exagitati nec saltem deum quem offenderunt inuocare audebunt.\n \nDISPERIERUNT OMNES INUOLUTI ARGENTO, illi uidelicet qui in diuitiis confidebant et se quasi inuolutos et circumseptos nimiis opibus aestimabant et idcirco pauperes despiciebant.\n \nEt notandum quod non futuro tempore dixit 'conticescet Chanaan' aut 'disperibunt', sed praeterito 'conticuit' et 'disperierunt', quia quod certissime uenturum erat, quasi iam uenisse praeuidebat.\n \nNon autem soli peribunt qui in suis diuitiis gloriantur, sed etiam qui inflantur de dignitatibus saeculi, tument uana nobilitate, pulchritudine uel robore corporis ceteris que mundi uanitatibus extolluntur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 209,
+        "name": "Commentary Sophoniam ",
+        "jad_id": "jad_work__209",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Sophoniam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 209
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "decurret Chaldaeorum uel Romanorum exercitus et comminuet omnia",
+    "prev": {
+      "id": "jad_occurence__525",
+      "label": "Propter haec ergo scelera non differam amplius ultionem, et nunc et in praesenti uastaberis ab Assyriis uel Romanis."
+    },
+    "next": {
+      "id": "jad_occurence__527",
+      "label": "Chaldaei uel Romani uenerint ceperint que Hierusalem"
+    }
+  },
+  "527": {
+    "id": 527,
+    "passage": "Chaldaei uel Romani uenerint ceperint que Hierusalem",
+    "jad_id": "jad_occurence__527",
+    "language": null,
+    "position_in_work": "Ch1",
+    "position_in_work_url": "",
+    "text_paragraph": "Non autem soli peribunt qui in suis diuitiis gloriantur, sed etiam qui inflantur de dignitatibus saeculi, tument uana nobilitate, pulchritudine uel robore corporis ceteris que mundi uanitatibus extolluntur.\n \n(1,12) ET ERIT IN TEMPORE ILLO SCRUTABOR HIERUSALEM IN LUCERNIS ET UISITABO SUPER UIROS DEFIXOS IN FAECIBUS SUIs.\n \nCum, inquit Chaldaei uel Romani uenerint ceperint que Hierusalem, tunc scrutabor cum lucerna omnia loca ciuitatis in quibus abscondi poterunt, etiam cloacas et obscuras speluncas, ut nullus possit effugere.\n \nHoc qui subuersionem a Romanis factam legerit, ita gestum inueniet.\n \nVisitabit etiam 'super uiros defixos in faecibus suis', hoc est qui in corporis uiribus confidunt; despectiue enim fortitudinem corporis faeces uocat.\n \nSiue 'defixos in faecibus' uocat peccatores, qui consuetudine peccandi defixi sunt in suis illecebris nec ab eis paenitendo ablui uolunt.\n \nHi tales dicunt: 'Non faciet bene dominus et non faciet male', id est nec bonis bona retribuet nec malis mala rependet.\n \nTropologice autem in die illa, id est in consummatione mundi, scrutabitur deus Hierusalem, id est ecclesiam, in lucerna, hoc est in iudicio Christi, qui ex humanitate constat et diuinitate sicut lucerna ex testa et lumine, per quem deus pater omne faciet iudicium, et uisitabit super uiros defixos in faecibus suis, hoc est ulciscetur in eis quibus sua peccata placuerunt, cum defenderent mala sua blasphemantes deum, tamquam tales eos fecisset, et tollentes prouidentiam dei, ut nec bene facere prodesset nec obesset male facere. In lucerna ergo dominus Hierusalem scrutabitur, id est proferet omnia abscondita in lucem, neque tantum de operibus, sed etiam de otiosis sermonibus et de subtilissimis cogitationibus ratio fiet et uindicta.\n \n(1,13) ET ERIT FORTITUDO EORUM IN DIREPTIONEM ET DOMUS EORUM IN DESERTUM, et cetera.\n \nManifeste de Iudaeis dicitur, quorum fortitudo et omnis exercitus captiuitatis tempore in direptionem data est, et domus destructae, et agri et uineae uastatae.\n \nNec prolongata est ultio, nec ultra exspectauit patientia dei, sed uelociter restituit eis quod merebantur.\n \nSed et iuxta tropologiam in die iudicii omnis malorum fortitudo dabitur in direptionem, qui aedificauerunt domos non super petram, sed super arenam, nec plantauerunt uineam electam, sed uineam Sodomorum et Gomorrae.\n \nTalis ergo plantatio peribit.\n \n(1,14) VOX DIEI DOMINI AMARA, TRIBULABITUR IBI FORTIS, (15) DIES IRAE DIES ILLA, et cetera.\n \nIuxta litteram omnia haec uel de babylonica uel de Romanorum captiuitate dicuntur; tunc enim experti sunt diem amaram, qui deum ad amaritudinem prouocauerant.\n \nTribulati sunt ibi fortes et potentes, fuit dies illa irae, quia saepe quidem antea sustinuerant iram dei, sed non in consummationem. Haec autem ira finis eorum fuit, quia perdiderunt locum regnum et gentem, et in omnes mundi terminos dispersi sunt.\n \nPossunt haec tropologice referri ad consummationem saeculi, quando erit uox amara quae dirigetur ad eos qui in sinistris erunt: Ite in ignem aeternum qui praeparatus est diabolo et angelis eius.\n \n'Tribulabitur ibi fortis', quia etiam sancti pauore soluentur et uirtutes caelorum mouebuntur.\n \nErit quoque dies irae 'tribulationis et angustiae', quando plangent omnes gentes, et nullus erit effugii locus, nullus alteri auxiliabitur.\n \nErit 'dies tenebrarum et caliginis', quia necesse est ut eos persequantur tenebrae, qui dum male agerent, odio habebant lucem.\n \nErit 'dies tubae et clangoris', quia, ut apostolus ait, fiet iudicium in momento, in ictu oculi, in nouissima tuba.\n \nHaec autem omnia erunt 'super ciuitates munitas', id est super omnem mundi confidentiam et praesumptionem, 'et super excelsos angulos', opera uidelicet peruersa et rectam domini uiam declinantia.\n \n(1,17) ET TRIBULABO HOMINES, ET AMBULABUNT UT CAECI, QUIA DOMINO PECCAUERUNT, et reliqua. Manifestum est quod idcirco haec omnia Hierusalem sustinuerit, quia peccauerunt domino Christo tradendo eum morti.\n \nTunc ambulauerunt ut caeci, ignorantes quid agerent, et quia fuderant sanguinem prophetarum et sanguinem eius qui est dominus prophetarum, idcirco fusus est sanguis eorum sicut humus, et corpora eorum iacuerunt insepulta uelut stercora.\n \nDiuitiae quoque eorum iniquitate et nimia sollicitudine quaesitae non poterunt liberare dominos et possessores suos, quia ignis irae domini deuorabit eos et omnem terram regni illorum.\n \nFaciet autem dominus 'consummationem cum festinatione', nam quadragesimo secundo anno post passionem domini obsessa est Hierusalem a Romanis, et facta est consummatio cum festinatione.\n \nSed et in mundi fine tribulabuntur impii homines, id est carnales et qui secundum hominem uixerunt, et ambulabunt ut caeci, quia uerum lumen perdiderunt.\n \nQuod uero sequitur 'effundetur sanguis eorum sicut humus', in die iudicii non poterit effundi sanguis, cum iam erunt immortalia corpora.\n \nErgo nomine sanguinis illud debemus accipere quo uegetatur et uiuit anima, fidem uidelicet spem et caritatem ceteras que uirtutes, in quibus est uita animae.\n \nQui ergo hunc sanguinem fuderit, id est qui hominem malo exemplo uel peruersa doctrina necauerit, fundetur in die iudicii sanguis eius, id est si quid uitale in bonis operibus uidebatur habere, cogetur amittere.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 209,
+        "name": "Commentary Sophoniam ",
+        "jad_id": "jad_work__209",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Sophoniam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 209
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Chaldaei uel Romani uenerint ceperint que Hierusalem",
+    "prev": {
+      "id": "jad_occurence__526",
+      "label": "decurret Chaldaeorum uel Romanorum exercitus et comminuet omnia"
+    },
+    "next": {
+      "id": "jad_occurence__528",
+      "label": "significant Romanorum crudele et sanguinarium, quod templum subuertit et gentem deleuit"
+    }
+  },
+  "528": {
+    "id": 528,
+    "passage": "significant Romanorum crudele et sanguinarium, quod templum subuertit et gentem deleuit",
+    "jad_id": "jad_occurence__528",
+    "language": null,
+    "position_in_work": "Ch1",
+    "position_in_work_url": "",
+    "text_paragraph": "'Et ecce uir ascendens super equum rufum, et ipse stabat inter mirteta quae erant in profundo'.\n \nEqui ascensorem rufi ad litteram Michaelem archangelum intelligunt; rufus erat, quia ipse est ultor iniquitatum illius populi cui specialiter praeest.\n \n'Mirteta quae erant in profundo' prophetas dicunt et sanctos qui in medio captiui populi uersabantur.\n \nEqui uero rufi uarii et albi qui uirum, id est Michaelem sequebantur, designant regna siue angelos qui regnis ipsis praesident, tamen ordine permutato, et albi quidem designant Medos et Persas, qui benigni fuerunt erga Iudaeos et sub ipsis dimissa captiuitas et templum instauratum est, equi uarii Macedones, quorum alii pii erga Iudaeos exstiterunt, alii persecutores eorum fuerunt; equi rufi regnum significant Romanorum crudele et sanguinarium, quod templum subuertit et gentem deleuit.\n \nQuidam eo ordine quo hic dicuntur quatuor similiter regna intelligunt et equum quidem rufum super quem uir sedebat, atque equos rufos qui eum sequebantur, dicunt Assyrios et Chaldaeos sanguinarios et crudeles, quorum Assyrii decem tribus sub Salmanasar duxere captiuas, Chaldaei uero duas tribus sub Nabuchodonosor incensa Hierusalem templo que subuerso.\n \nTertios et quartos uarios et albos Medos putant et Persas, quorum alii clementes fuerunt, ut Cyrus et Darius atque Assuerus, alii crudeles, ut Cambises et ceteri.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 206,
+        "name": "Commentary Zacharias ",
+        "jad_id": "jad_work__206",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Zacharias",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 206
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "significant Romanorum crudele et sanguinarium, quod templum subuertit et gentem deleuit",
+    "prev": {
+      "id": "jad_occurence__527",
+      "label": "Chaldaei uel Romani uenerint ceperint que Hierusalem"
+    },
+    "next": {
+      "id": "jad_occurence__529",
+      "label": "Ad ultimum Romani tanta eos clade uastauerunt"
+    }
+  },
+  "529": {
+    "id": 529,
+    "passage": "Ad ultimum Romani tanta eos clade uastauerunt",
+    "jad_id": "jad_occurence__529",
+    "language": null,
+    "position_in_work": "Ch1",
+    "position_in_work_url": "",
+    "text_paragraph": "Daniel quoque sub figura leaenae et pardi, ursi et alterius bestiae, quam nominatim non exprimit, manifeste quatuor regna describit, id est Babyloniorum, Medorum ac Persarum, quorum unum fuit regnum, Macedonum, Romanorum.\nCornua autem regni potentiam significare usitatissimum est in sancta scriptura, ut illud: Sublimabit cornu Christi sui, item: Erexit cornu salutis nobis; haec ergo uentilauerunt siue disperserunt Iudam et Israel.\n \nMulta enim mala ab his nationibus Iudaei passi sunt, maxime ab Antiocho cognomento Epiphane, id est 'super apparente', quia deum se uoluit appellari.\n \nAd ultimum Romani tanta eos clade uastauerunt, ut pene per singulos uiros eos disperderent, adeo ut nemo eorum leuaret caput graui malorum pondere pressus.\n \n(1,20) ET OSTENDIT MIHI QUATUOR FABROS, (21) ET DIXI: QUID ISTI UENIUNT FACERE? QUI AIT: HAEC SUNT CORNUA QUAE UENTILAUERUNT IUDAM PER SINGULOS UIROS, et cetera.\n \nQuid sint fabri et quid ueniant facere ipse dominus exponit, quos non ipse propheta uidit, sed ei dominus ostendit.\n \nHos fabros intelligimus angelos oboedientes praecepto dei et ad hoc uenientes ut quod gentes destruxerant, isti aedificarent.\n \nAngeli ergo uenerunt deterere ea, id est obtundere cornua et hebetare, ne possint amplius uentilare Iudam.\n \nQuidam codices habent 'deterrere ea', id est in pauorem mittere cornua, ut deposita crudelitate Christo colla submittant.\n \nEt hoc attendendum quod singulariter dicit 'leuauerunt cornu', cum quatuor dixerit cornua, quia licet reges quatuor regnorum non simul regnauerint, sed sibi uicissim successerint, unum tamen cornu leuauerunt contra populum dei.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 206,
+        "name": "Commentary Zacharias ",
+        "jad_id": "jad_work__206",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Zacharias",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 206
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Ad ultimum Romani tanta eos clade uastauerunt",
+    "prev": {
+      "id": "jad_occurence__528",
+      "label": "significant Romanorum crudele et sanguinarium, quod templum subuertit et gentem deleuit"
+    },
+    "next": {
+      "id": "jad_occurence__53",
+      "label": "Cum adpropinquasset Ihesus Hierusalem, uidens ciuitatem fleuit super illam. Pensare debemus, fratres karissimi, quid sit quod flente Domino, sicut nunc in presenti lectum est, hierosolime ciuitatis subuersio describebatur"
+    }
+  },
+  "530": {
+    "id": 530,
+    "passage": "post multa saecula a Romanis templum dirutum et incensum est",
+    "jad_id": "jad_occurence__530",
+    "language": null,
+    "position_in_work": "Ch8",
+    "position_in_work_url": "",
+    "text_paragraph": "Propter hoc iratus dominus prohibuit ne statim ingrederentur terram repromissionis, sed per quadraginta annos uagarentur in deserto, donec morerentur omnes qui a uiginti annis et supra egressi fuerant de AEgypto praeter Caleph et Iosue.\nIn hoc ipso mense a Nabuchodonosor primo et post multa saecula a Romanis templum dirutum et incensum est, propter quas causas grauissimum sibi singulis annis indixere ieiunium.\n \nSeptimus mensis Hebraeorum a nobis appellatur october, quo mense occisus est Godolias ab Ismael, ut supra memoratum est, et reliquiae Iudaeorum dispersae.\n \nHaec est causa ieiunii septimi mensis.\n \nMensis decimus illorum apud Romanos uocatur ianuarius, quo mense Ezechiel propheta et cunctus populus captiuorum qui erant in Babylone audierunt quinto mense templum esse subuersum.\n \nIdcirco in hoc mense annis singulis ieiunant.\n \nSensus ergo talis est: dies ieiuniorum quos hactenus habuistis his temporibus in luctu, sciatis conuertendos esse uobis in gaudium me uobis prospera concedente, ita dumtaxat si ueritatem diligatis et pacem.\n \n(8,20) HAEC DICIT DOMINUS EXERCITUUM: USQUEQUO UENIANT POPULI ET HABITENT IN CIUITATIBUS MULTIS (21) ET UADANT HABITATORES UNUS AD ALTERUM ET DICANT: EAMUS ET DEPRECEMUR FACIEM DOMINI, et reliqua.\n \nIeiunia, inquit, praedicta quarti et quinti et septimi et decimi mensis uertentur in solemnitates praeclaras, in tantum ut ciuitates Iudaeae, quae prius desertae fuerant, multitudine ciuium repleantur, et una ciuitas pergat ad alteram, et se mutuo cohortabuntur et dicent: \"Quia per hos septuaginta annos nullus fuit qui ueniret ad templum domini, eo quod uiae Sion in luctu et solitudine essent, nunc pace reddita pergamus Hierusalem, ut celebremus solemnitates quae lege praecipiuntur in anno fieri\", et dicente una ciuitate respondebit altera: \"Vadam etiam ego\".",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 206,
+        "name": "Commentary Zacharias ",
+        "jad_id": "jad_work__206",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Zacharias",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 206
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "post multa saecula a Romanis templum dirutum et incensum est",
+    "prev": {
+      "id": "jad_occurence__53",
+      "label": "Cum adpropinquasset Ihesus Hierusalem, uidens ciuitatem fleuit super illam. Pensare debemus, fratres karissimi, quid sit quod flente Domino, sicut nunc in presenti lectum est, hierosolime ciuitatis subuersio describebatur"
+    },
+    "next": {
+      "id": "jad_occurence__531",
+      "label": "primo captam a Romanis"
+    }
+  },
+  "531": {
+    "id": 531,
+    "passage": "primo captam a Romanis",
+    "jad_id": "jad_occurence__531",
+    "language": null,
+    "position_in_work": "Ch14",
+    "position_in_work_url": "",
+    "text_paragraph": "Nec solum capietur Hierusalem, sed et cuncta nefaria in ea perpetrabuntur: uastabuntur domus habitatorum et mulieres uiolabuntur ad maiorem dolorem maritorum, qui suis uxoribus subuenire non poterunt, quo nihil crudelius hostilis immanitas agere potest.\n \n'Et egredietur media pars ciuitatis in captiuitatem, et reliquum populi non auferetur ex ea'.\n \nRefert Iosephus, qui iudaicam scripsit historiam, septemtrionalem et inferiorem urbis partem primo captam a Romanis, montem uero templi et Sion, in quo altissima arx erat, multo post tempore remansisse nec statim potuisse capi, ibi que Romanorum diu remoratam uictoriam, et hoc est quod dicitur 'et quod reliquum est populi non auferetur ex ea'.\n \n(14,3) ET EGREDIETUR DOMINUS ET PRAELIABITUR CONTRA GENTES ILLAS, SICUT PRAELIATUS EST IN DIE CERTAMINIS, et reliqua.\n \nCum audimus egredi uel stare deum siue aliquid tale, non debemus in eo corpus aut aliquem motum corporalem cogitare; deus enim incorporeus est, de quo apostolus: Regi autem saeculorum immortali inuisibili, soli deo honor et gloria, et in euangelio dominus: Deus, inquit, spiritus est.\n \nCum ergo dominus in scripturis stare uel ambulare uel cum membra humana habere describitur, pro causarum uarietate accipi debet; egredi enim dicitur uel exsurgere, uel cum sanctos in tribulatione positos liberat, uel cum persecutores illorum iusta ultione condemnat.\n \nAit ergo propheta 'egredietur dominus', hoc est clementiam et mansuetudinem suam, quam per naturam habet, cogetur dimittere.\n \nCum enim ipse naturaliter dulcis sit, nostro uitio fit amarus, quia nobis mala pro peccatis patientibus amarus esse uidetur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 206,
+        "name": "Commentary Zacharias ",
+        "jad_id": "jad_work__206",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Zacharias",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 206
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "primo captam a Romanis",
+    "prev": {
+      "id": "jad_occurence__530",
+      "label": "post multa saecula a Romanis templum dirutum et incensum est"
+    },
+    "next": {
+      "id": "jad_occurence__532",
+      "label": "Romani nouissime pugnauerunt aduersum Hierusalem"
+    }
+  },
+  "532": {
+    "id": 532,
+    "passage": "Romani nouissime pugnauerunt aduersum Hierusalem",
+    "jad_id": "jad_occurence__532",
+    "language": null,
+    "position_in_work": "Ch14",
+    "position_in_work_url": "",
+    "text_paragraph": "(14,12) ET HAEC ERIT PLAGA QUA PERCUTIET DOMINUS OMNES GENTES QUAE PUGNAUERUNT ADUERSUM HIERUSALEM: TABESCET CARO UNIUSCUIUSQUE STANTIS SUPER PEDES SUOS, ET OCULI EORUM DEFLUENT IN FORAMINIBUS SUIS, ET LINGUA EORUM CONTABESCET IN ORE SUO.\n \nHic perspicue ostenditur uana esse omnia quae Iudaei de terrena Hierusalem opinantur.\n \nNam Romani nouissime pugnauerunt aduersum Hierusalem eam que funditus deleuerunt, nec quidquam tale passi sunt.\n \nCeterum de persecutoribus ecclesiae, qui omni instantia aduersus eam pugnauerunt, dicere possumus quod in eis etiam corporaliter haec saepissime impleta sunt; nam ut taceamus de cruciatibus quos in inferno post mortem sustinuerunt, etiam in hac uita multorum carnes computruerunt, oculi contabuerunt in suis foraminibus, lingua in pedorem et saniem dissoluta est.\n \nSpiritualiter qui stat super pedes suos et dicit cum psalmista: Statuit dominus supra petram pedes meos, defluunt in eo carnalia uitia, ut oriantur spirituales uirtutes.\n \nOculi qui male per concupiscentias uersabantur, cadunt ut meliores ponantur, et dicat: Ad te leuaui oculos meos, qui habitas in caelis.\n \nLingua blasphemans deum deficiet, ut renascatur quae glorificet deum.\n \nIta probantur flagella dei non esse crudelitatis, sed misericordiae, ut exstirpatis malis succrescant bona.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 206,
+        "name": "Commentary Zacharias ",
+        "jad_id": "jad_work__206",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Zacharias",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 206
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Romani nouissime pugnauerunt aduersum Hierusalem",
+    "prev": {
+      "id": "jad_occurence__531",
+      "label": "primo captam a Romanis"
+    },
+    "next": {
+      "id": "jad_occurence__533",
+      "label": "Et iratus dominus eius tradidit eum tortoribus, quoadusque redderet uniuersum debitum, id est blasphemum et ingratum populum propter peccata plurima tradidit in manus Romanorum"
+    }
+  },
+  "533": {
+    "id": 533,
+    "passage": "Et iratus dominus eius tradidit eum tortoribus, quoadusque redderet uniuersum debitum, id est blasphemum et ingratum populum propter peccata plurima tradidit in manus Romanorum",
+    "jad_id": "jad_occurence__533",
+    "language": null,
+    "position_in_work": "Sermo 43",
+    "position_in_work_url": "",
+    "text_paragraph": "Egressus de captiuitate iudaicus populus non solum Deo redemptori suo minime gratias egit, sed etiam peccatis ueteribus noua cumulans nullam postea compassionem erga proximos pauperes habuit, sed insuper debitores suos atrociter repetere praesumpsit, iuxta quod ei sermo diuinus per prophetam improperat: In diebus, inquiens, ieiuniorum uestrorum inuenitur uoluntas uestra, et omnes debitores uestros repetitis.\nVidentes autem conserui eius quae fiebant, contristati sunt ualde et uenerunt et nuntiauerunt domino suo omnia quae facta fuerant.\n \nTunc uocauit illum dominus eius et ait illi: Serue nequam, omne debitum dimisi tibi quoniam rogasti me; nonne ergo oportuit et te misereri conserui tui sicut et ego tui misertus sum?\n \nConseruos populi iudaici hoc loco prophetas accipimus, qui causam Dei ad populum causam que populi ad Deum agentes, iniqua eorum opera dum deflendo plangebant quasi referendo nuntiabant.\n \nEt iratus dominus eius tradidit eum tortoribus, quoadusque redderet uniuersum debitum, id est blasphemum et ingratum populum propter peccata plurima tradidit in manus Romanorum, siue malignis spiritibus eos tradidit, qui incorrigibiles eorum nequitias aeternis cruciatibus sine fine punirent.\n \nMoraliter rex iste qui cum seruis suis rationem ponit omnipotens Deus intellegitur, qui est rex et conditor uniuersorum; qui tunc rationem cum seruis suis posuit, quando homines quos creauit in peccatis iacere considerans, ad lectum aegritudinis per infirmitatem reducit.\n \nSeruus autem iste decem milium talentorum debitor, significat hominem ad imaginem Dei conditum, sed grauium peccatorum debitis obstrictum.\n \nQuia enim inter omnia ponderum genera talentum maius esse dicitur, recte per decem milia talenta capitalia crimina designantur.",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 105,
+        "name": "Sermones ",
+        "jad_id": "jad_work__105",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 34,
+            "value": "Maz., MS 698"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 4,
+        "value": "Library of Latin Texts (Brepols)"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 59,
+          "database_table_3499": 105
+        },
+        "value": "Heiric, of Auxerre"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "Et iratus dominus eius tradidit eum tortoribus, quoadusque redderet uniuersum debitum, id est blasphemum et ingratum populum propter peccata plurima tradidit in manus Romanorum",
+    "prev": {
+      "id": "jad_occurence__532",
+      "label": "Romani nouissime pugnauerunt aduersum Hierusalem"
+    },
+    "next": {
+      "id": "jad_occurence__534",
+      "label": "iuxta litteram accidisse populo Iudeorum sub vespasiano et tito"
+    }
+  },
+  "534": {
+    "id": 534,
+    "passage": "iuxta litteram accidisse populo Iudeorum sub vespasiano et tito",
+    "jad_id": "jad_occurence__534",
+    "language": null,
+    "position_in_work": "Is. 2",
+    "position_in_work_url": "",
+    "text_paragraph": "propterea cptivus ductus est populus meus, quia non habuit scientiam, et nobiles eius interierunt fame, et multitudo eius siti exaruit, hec iuxta litteram accidisse populo Iudeorum sub vespasiano et tito romanis principibus, tam greca quam latina narrat historia, quod quidem et spiritaliter hodieque patiuntus sustinentes non famem panis, neque sitim aque",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 13v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 81,
+        "value": "jad_occurence__81"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 81,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "iuxta litteram accidisse populo Iudeorum sub vespasiano et tito",
+    "prev": {
+      "id": "jad_occurence__533",
+      "label": "Et iratus dominus eius tradidit eum tortoribus, quoadusque redderet uniuersum debitum, id est blasphemum et ingratum populum propter peccata plurima tradidit in manus Romanorum"
+    },
+    "next": {
+      "id": "jad_occurence__535",
+      "label": "hec sub tito et vespasiani accidisse populo Iudeorum scribit Iosephus"
+    }
+  },
+  "535": {
+    "id": 535,
+    "passage": "hec sub tito et vespasiani accidisse populo Iudeorum scribit Iosephus",
+    "jad_id": "jad_occurence__535",
+    "language": null,
+    "position_in_work": "Is. 2",
+    "position_in_work_url": "",
+    "text_paragraph": "sed rebellabunt pueri senibus, et ignobiles nobilibus, et mutuo corruent, et implebitur illud apostolicum mordentes invicem, consumpti estis ab invicem, hec sub tito et vespasiani accidisse populo Iudeorum scribit Iosephus, et quod cum expugnarentur a romanis, fuerit in Hierusalem in tres partes divisa seditio, et alii arcem et templum",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 9v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 82,
+        "value": "jad_occurence__82"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 82,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "hec sub tito et vespasiani accidisse populo Iudeorum scribit Iosephus",
+    "prev": {
+      "id": "jad_occurence__534",
+      "label": "iuxta litteram accidisse populo Iudeorum sub vespasiano et tito"
+    },
+    "next": {
+      "id": "jad_occurence__536",
+      "label": "tempore vastationis romanorum veniet"
+    }
+  },
+  "536": {
+    "id": 536,
+    "passage": "tempore vastationis romanorum veniet",
+    "jad_id": "jad_occurence__536",
+    "language": null,
+    "position_in_work": "Is. 2",
+    "position_in_work_url": "",
+    "text_paragraph": "sicut in bona parte pro varietate virtutum montes appellantur et colles, sic inter inpios pro diversitate vitiorum et maxime superbie alii montes sunt alii colles, super quos dies domini tempore vastationis romanorum veniet, et super omnem turrem excelsam et super omnem murum munitum, sicut turris obmunitionem urbis edificatur, vel ob speculum ut longe veniens hostis cernatur, ita unus quisque nostrum debet edificare turrem",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 8r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 83,
+        "value": "jad_occurence__83"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 83,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "tempore vastationis romanorum veniet",
+    "prev": {
+      "id": "jad_occurence__535",
+      "label": "hec sub tito et vespasiani accidisse populo Iudeorum scribit Iosephus"
+    },
+    "next": {
+      "id": "jad_occurence__537",
+      "label": "de captivitate ventura quam alii ad babilonios, alii referunt ad romanos"
+    }
+  },
+  "537": {
+    "id": 537,
+    "passage": "de captivitate ventura quam alii ad babilonios, alii referunt ad romanos",
+    "jad_id": "jad_occurence__537",
+    "language": null,
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "ecce dominatur dominus auferet ab Hierusalem et ab Iuda validum et fortem, omne robur panis et omne robur aque, huc usque de iudicio dici putant quod sequitur de captivitate ventura quam alii ad babilonios, alii referunt ad romanos",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 9r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 84,
+        "value": "jad_occurence__84"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 84,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "de captivitate ventura quam alii ad babilonios, alii referunt ad romanos",
+    "prev": {
+      "id": "jad_occurence__536",
+      "label": "tempore vastationis romanorum veniet"
+    },
+    "next": {
+      "id": "jad_occurence__538",
+      "label": "populo gladio scilicet cadent romanorum"
+    }
+  },
+  "538": {
+    "id": 538,
+    "passage": "populo gladio scilicet cadent romanorum",
+    "jad_id": "jad_occurence__538",
+    "language": null,
+    "position_in_work": "Is. 3",
+    "position_in_work_url": "",
+    "text_paragraph": "cum pulcherrimi viri syon, et fortes eius in populo gladio scilicet cadent romanorum, quia in quacumque die peccaverit iustus, iusticia illius non liberabit eum, qua propter porte sion merebunt atque lugebunt",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 11v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 85,
+        "value": "jad_occurence__85"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 85,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "populo gladio scilicet cadent romanorum",
+    "prev": {
+      "id": "jad_occurence__537",
+      "label": "de captivitate ventura quam alii ad babilonios, alii referunt ad romanos"
+    },
+    "next": {
+      "id": "jad_occurence__539",
+      "label": "post vastationem persecutionis romane"
+    }
+  },
+  "539": {
+    "id": 539,
+    "passage": "post vastationem persecutionis romane",
+    "jad_id": "jad_occurence__539",
+    "language": null,
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "non amputabitur a superfluis actibus gladio verbi dei, et non fodietur ligone predicationis, quia nubibus idem meis predicatoribus mandabo ne pluant super eam imbrem doctrine, post vastationem persecutionis romane, sicut prophete prius fecerunt post persecutionem assiriorum, tolletur enim dei auxilium ab his qui indigni sunt [...] immo atracustus (?) sit et sibilo illius provocatus, elevato crucis sue signo procul in romanis nationibus incommotionem ultionis passionis illius, quo sancti de Israel dispersi congregabuntur",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 12v-13r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 86,
+        "value": "jad_occurence__86"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 86,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "post vastationem persecutionis romane",
+    "prev": {
+      "id": "jad_occurence__538",
+      "label": "populo gladio scilicet cadent romanorum"
+    },
+    "next": {
+      "id": "jad_occurence__54",
+      "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit. Quod flente Domino ille Jerosolymorum subversio describatur"
+    }
+  },
+  "540": {
+    "id": 540,
+    "passage": "tota civitas et superliminaria commota sunt in crucis vindicta",
+    "jad_id": "jad_occurence__540",
+    "language": null,
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "templum Iudeorum plenum est tenebris ignorantie, vel incensum est, cum tota civitas et superliminaria commota sunt in crucis vindicta, ve mihi quia tacui, quia vir habens polluta labia ego sum",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 15v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 87,
+        "value": "jad_occurence__87"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 87,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "tota civitas et superliminaria commota sunt in crucis vindicta",
+    "prev": {
+      "id": "jad_occurence__54",
+      "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit. Quod flente Domino ille Jerosolymorum subversio describatur"
+    },
+    "next": {
+      "id": "jad_occurence__541",
+      "label": "civitates Iude vespasiano titoque pugnantibus penitus suvertantur"
+    }
+  },
+  "541": {
+    "id": 541,
+    "passage": "civitates Iude vespasiano titoque pugnantibus penitus suvertantur",
+    "jad_id": "jad_occurence__541",
+    "language": null,
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "tamdiu autem non audiet et non videbit, et excecatum habebit cor donec civitates Iude vespasiano titoque pugnantibus penitus suvertantur, et quod decima pars in toto etiam orbe vix remaneat",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 16r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 88,
+        "value": "jad_occurence__88"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 88,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "civitates Iude vespasiano titoque pugnantibus penitus suvertantur",
+    "prev": {
+      "id": "jad_occurence__540",
+      "label": "tota civitas et superliminaria commota sunt in crucis vindicta"
+    },
+    "next": {
+      "id": "jad_occurence__542",
+      "label": "subversionem Ierusalem et ceterarum urbium sub vespasiano"
+    }
+  },
+  "542": {
+    "id": 542,
+    "passage": "subversionem Ierusalem et ceterarum urbium sub vespasiano",
+    "jad_id": "jad_occurence__542",
+    "language": null,
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "vidit statim propheta dominum salvatorem, et annunciantem Iudaici populi cecitatem et subversionem Ierusalem et ceterarum urbium sub vespasiano et adriano, et quomodo in apostolis relliquie sint salvande",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 16v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 89,
+        "value": "jad_occurence__89"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 89,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "subversionem Ierusalem et ceterarum urbium sub vespasiano",
+    "prev": {
+      "id": "jad_occurence__541",
+      "label": "civitates Iude vespasiano titoque pugnantibus penitus suvertantur"
+    },
+    "next": {
+      "id": "jad_occurence__543",
+      "label": "eos romanus cinxit exercitus"
+    }
+  },
+  "543": {
+    "id": 543,
+    "passage": "eos romanus cinxit exercitus",
+    "jad_id": "jad_occurence__543",
+    "language": null,
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "haud dubium quin Iudeos significet perseverantes in blasphemiis, et vicissitudinem hostibus suis, quando eos romanus cinxit exercitus quibus vincentibus dominus pugnasse monstratus est, et timebunt qui ab occidente sunt nomen domini, et qui ab ortu solis gloriam eius",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 148r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 90,
+        "value": "jad_occurence__90"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 90,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "eos romanus cinxit exercitus",
+    "prev": {
+      "id": "jad_occurence__542",
+      "label": "subversionem Ierusalem et ceterarum urbium sub vespasiano"
+    },
+    "next": {
+      "id": "jad_occurence__544",
+      "label": "dies ultionis de Iudaico populo"
+    }
+  },
+  "544": {
+    "id": 544,
+    "passage": "dies ultionis de Iudaico populo",
+    "jad_id": "jad_occurence__544",
+    "language": null,
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "iuxta quod dicitur, dies ultionis de Iudaico populo sentiendum est, in quem post passionem eius, statim ira dei pervenit",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 153v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 91,
+        "value": "jad_occurence__91"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 91,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "dies ultionis de Iudaico populo",
+    "prev": {
+      "id": "jad_occurence__543",
+      "label": "eos romanus cinxit exercitus"
+    },
+    "next": {
+      "id": "jad_occurence__545",
+      "label": "ad tempus romane victorie referimus"
+    }
+  },
+  "545": {
+    "id": 545,
+    "passage": "ad tempus romane victorie referimus",
+    "jad_id": "jad_occurence__545",
+    "language": null,
+    "position_in_work": "Is. 64",
+    "position_in_work_url": "",
+    "text_paragraph": "omnia Iudei assiriorum et babiloniorum temporibus putant esse completa, nos autem iuxta es que ex persona salvatoris secuntur apparui his que me non interrogabut, inventus sum ab his qui me non querebant, ad tempus romane victorie referimus, possumus autem referre ad ecclesiam, vel ad sancti viri animam",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 161v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 92,
+        "value": "jad_occurence__92"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 92,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "ad tempus romane victorie referimus",
+    "prev": {
+      "id": "jad_occurence__544",
+      "label": "dies ultionis de Iudaico populo"
+    },
+    "next": {
+      "id": "jad_occurence__546",
+      "label": "Ierusalem significet romano exercitu circumdatam"
+    }
+  },
+  "546": {
+    "id": 546,
+    "passage": "Ierusalem significet romano exercitu circumdatam",
+    "jad_id": "jad_occurence__546",
+    "language": null,
+    "position_in_work": "Is. 66",
+    "position_in_work_url": "",
+    "text_paragraph": "vox fremitus de civitate vox de templo, vox domini reddentis retributionem inimicis suis, volumus scire que sit confusio Iudeorum qui dixerunt, glorificetur dominus ut vestram leticiam videamus, et triumphos regis vestri nequaquam cassis promissionibus, sed oculis contemplemur, vox inquit clamoris de civitate haud dubium quim Ierusalem significet romano exercitu circumdatam, et per tres partes intus seditione divisa, quando unus templum optinuit, et omnia prius facta possedit forinsecus contra hostes [...] clamore resonante de Ierusalem et de templo eius quando subversa est et obsessa, et inimicis Christi qui regem deum suscipere noluerunt, et recipientibus pro impietate sua atque blasphemiis eterna supplicia ecclesia in nomine domini congregata",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 80,
+          "database_table_3499": 210
+        },
+        "value": "Rainaldus, Parisiensis"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 168v-169r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 93,
+        "value": "jad_occurence__93"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 93,
+        "value": true
+      }
+    ],
+    "Incipit Text": "",
+    "manuscripts": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "view_label": "Ierusalem significet romano exercitu circumdatam",
+    "prev": {
+      "id": "jad_occurence__545",
+      "label": "ad tempus romane victorie referimus"
+    },
+    "next": {
+      "id": "jad_occurence__547",
+      "label": ""
+    }
+  },
+  "547": {
+    "id": 547,
+    "passage": "",
+    "jad_id": "jad_occurence__547",
+    "language": null,
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_occurence__546",
+      "label": "Ierusalem significet romano exercitu circumdatam"
+    },
+    "next": {
+      "id": "jad_occurence__548",
+      "label": ""
+    }
+  },
+  "548": {
+    "id": 548,
+    "passage": "",
+    "jad_id": "jad_occurence__548",
+    "language": null,
+    "position_in_work": "",
+    "position_in_work_url": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "Incipit Text": "",
+    "manuscripts": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_occurence__547",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_occurence__55",
+      "label": "quando Jerusalem omnino subversa est"
     }
   }
 }

@@ -21,8 +21,8 @@
     "digi_url": "https://mlat.uzh.ch/browser?path=/38",
     "view_label": "Patrologia Latina",
     "prev": {
-      "id": "jad_sources_occurrences__15",
-      "label": "Glossa Ordinaria (ed. Venice 1603)"
+      "id": "jad_sources_occurrences__16",
+      "label": "CSEL"
     },
     "next": {
       "id": "jad_sources_occurrences__4",
@@ -203,6 +203,21 @@
     "prev": {
       "id": "jad_sources_occurrences__14",
       "label": "MGH"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__16",
+      "label": "CSEL"
+    }
+  },
+  "16": {
+    "id": 16,
+    "name": "CSEL",
+    "jad_id": "jad_sources_occurrences__16",
+    "digi_url": "https://csel.at/",
+    "view_label": "CSEL",
+    "prev": {
+      "id": "jad_sources_occurrences__15",
+      "label": "Glossa Ordinaria (ed. Venice 1603)"
     },
     "next": {
       "id": "jad_sources_occurrences__2",

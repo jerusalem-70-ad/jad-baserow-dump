@@ -38,8 +38,8 @@
     ],
     "view_label": "Ihesus Christus cum predixisset discipulis suis scicitantibus signa eversionis Ierusalem",
     "prev": {
-      "id": "jad_occurence__9",
-      "label": "Titus et Vespasianus"
+      "id": "jad_occurence__95",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__10",
@@ -367,12 +367,12 @@
     ],
     "view_label": "predixit David destructionem urbis Ierusalem factam per romanos",
     "prev": {
-      "id": "jad_occurence__75",
-      "label": "De destructione templi"
+      "id": "jad_occurence__79",
+      "label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani"
     },
     "next": {
-      "id": "jad_occurence__9",
-      "label": "Titus et Vespasianus"
+      "id": "jad_occurence__80",
+      "label": "Romanis sub hac occasione in uindictam necis saluatoris uenientibus amitterent locum, gentem et regnum"
     }
   },
   "9": {
@@ -414,12 +414,12 @@
     ],
     "view_label": "Titus et Vespasianus",
     "prev": {
-      "id": "jad_occurence__8",
-      "label": "predixit David destructionem urbis Ierusalem factam per romanos"
+      "id": "jad_occurence__89",
+      "label": "subversionem Ierusalem et ceterarum urbium sub vespasiano"
     },
     "next": {
-      "id": "jad_occurence__1",
-      "label": "Ihesus Christus cum predixisset discipulis suis scicitantibus signa eversionis Ierusalem"
+      "id": "jad_occurence__90",
+      "label": "eos romanus cinxit exercitus"
     }
   },
   "10": {
@@ -3520,8 +3520,912 @@
       "label": "De destructione templi"
     },
     "next": {
+      "id": "jad_occurence__76",
+      "label": "ruinam illius qua a principibus romanis complananda erat"
+    }
+  },
+  "76": {
+    "id": 76,
+    "jad_id": "jad_occurence__76",
+    "occurrence": [
+      {
+        "id": 516,
+        "value": "ruinam illius qua a principibus romanis complananda erat"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 34,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "position_in_ms": "117v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 698, f. 117v"
+      }
+    ],
+    "view_label": "ruinam illius qua a principibus romanis complananda erat",
+    "prev": {
+      "id": "jad_occurence__75",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__77",
+      "label": "poena que a romanis principibus imminebat"
+    }
+  },
+  "77": {
+    "id": 77,
+    "jad_id": "jad_occurence__77",
+    "occurrence": [
+      {
+        "id": 517,
+        "value": "poena que a romanis principibus imminebat"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 34,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "position_in_ms": "118r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 698, f. 118r"
+      }
+    ],
+    "view_label": "poena que a romanis principibus imminebat",
+    "prev": {
+      "id": "jad_occurence__76",
+      "label": "ruinam illius qua a principibus romanis complananda erat"
+    },
+    "next": {
+      "id": "jad_occurence__78",
+      "label": "in uindictam dominicae crucis Romanis uastantibus"
+    }
+  },
+  "78": {
+    "id": 78,
+    "jad_id": "jad_occurence__78",
+    "occurrence": [
+      {
+        "id": 512,
+        "value": "in uindictam dominicae crucis Romanis uastantibus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 34,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "position_in_ms": "17v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 698, f. 17v"
+      }
+    ],
+    "view_label": "in uindictam dominicae crucis Romanis uastantibus",
+    "prev": {
+      "id": "jad_occurence__77",
+      "label": "poena que a romanis principibus imminebat"
+    },
+    "next": {
+      "id": "jad_occurence__79",
+      "label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani"
+    }
+  },
+  "79": {
+    "id": 79,
+    "jad_id": "jad_occurence__79",
+    "occurrence": [
+      {
+        "id": 514,
+        "value": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 34,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "position_in_ms": "147v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 698, f. 147v"
+      }
+    ],
+    "view_label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani",
+    "prev": {
+      "id": "jad_occurence__78",
+      "label": "in uindictam dominicae crucis Romanis uastantibus"
+    },
+    "next": {
       "id": "jad_occurence__8",
       "label": "predixit David destructionem urbis Ierusalem factam per romanos"
+    }
+  },
+  "80": {
+    "id": 80,
+    "jad_id": "jad_occurence__80",
+    "occurrence": [
+      {
+        "id": 515,
+        "value": "Romanis sub hac occasione in uindictam necis saluatoris uenientibus amitterent locum, gentem et regnum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 34,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "position_in_ms": "154r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Bibliothèque Mazarine, MS 698, f. 154r"
+      }
+    ],
+    "view_label": "Romanis sub hac occasione in uindictam necis saluatoris uenientibus amitterent locum, gentem et regnum",
+    "prev": {
+      "id": "jad_occurence__8",
+      "label": "predixit David destructionem urbis Ierusalem factam per romanos"
+    },
+    "next": {
+      "id": "jad_occurence__81",
+      "label": "iuxta litteram accidisse populo Iudeorum sub vespasiano et tito"
+    }
+  },
+  "81": {
+    "id": 81,
+    "jad_id": "jad_occurence__81",
+    "occurrence": [
+      {
+        "id": 534,
+        "value": "iuxta litteram accidisse populo Iudeorum sub vespasiano et tito"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "13v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 13v"
+      }
+    ],
+    "view_label": "iuxta litteram accidisse populo Iudeorum sub vespasiano et tito",
+    "prev": {
+      "id": "jad_occurence__80",
+      "label": "Romanis sub hac occasione in uindictam necis saluatoris uenientibus amitterent locum, gentem et regnum"
+    },
+    "next": {
+      "id": "jad_occurence__82",
+      "label": "hec sub tito et vespasiani accidisse populo Iudeorum scribit Iosephus"
+    }
+  },
+  "82": {
+    "id": 82,
+    "jad_id": "jad_occurence__82",
+    "occurrence": [
+      {
+        "id": 535,
+        "value": "hec sub tito et vespasiani accidisse populo Iudeorum scribit Iosephus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "9v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 9v"
+      }
+    ],
+    "view_label": "hec sub tito et vespasiani accidisse populo Iudeorum scribit Iosephus",
+    "prev": {
+      "id": "jad_occurence__81",
+      "label": "iuxta litteram accidisse populo Iudeorum sub vespasiano et tito"
+    },
+    "next": {
+      "id": "jad_occurence__83",
+      "label": "tempore vastationis romanorum veniet"
+    }
+  },
+  "83": {
+    "id": 83,
+    "jad_id": "jad_occurence__83",
+    "occurrence": [
+      {
+        "id": 536,
+        "value": "tempore vastationis romanorum veniet"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "8r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 8r"
+      }
+    ],
+    "view_label": "tempore vastationis romanorum veniet",
+    "prev": {
+      "id": "jad_occurence__82",
+      "label": "hec sub tito et vespasiani accidisse populo Iudeorum scribit Iosephus"
+    },
+    "next": {
+      "id": "jad_occurence__84",
+      "label": "de captivitate ventura quam alii ad babilonios, alii referunt ad romanos"
+    }
+  },
+  "84": {
+    "id": 84,
+    "jad_id": "jad_occurence__84",
+    "occurrence": [
+      {
+        "id": 537,
+        "value": "de captivitate ventura quam alii ad babilonios, alii referunt ad romanos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "9r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 9r"
+      }
+    ],
+    "view_label": "de captivitate ventura quam alii ad babilonios, alii referunt ad romanos",
+    "prev": {
+      "id": "jad_occurence__83",
+      "label": "tempore vastationis romanorum veniet"
+    },
+    "next": {
+      "id": "jad_occurence__85",
+      "label": "populo gladio scilicet cadent romanorum"
+    }
+  },
+  "85": {
+    "id": 85,
+    "jad_id": "jad_occurence__85",
+    "occurrence": [
+      {
+        "id": 538,
+        "value": "populo gladio scilicet cadent romanorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "11v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 11v"
+      }
+    ],
+    "view_label": "populo gladio scilicet cadent romanorum",
+    "prev": {
+      "id": "jad_occurence__84",
+      "label": "de captivitate ventura quam alii ad babilonios, alii referunt ad romanos"
+    },
+    "next": {
+      "id": "jad_occurence__86",
+      "label": "post vastationem persecutionis romane"
+    }
+  },
+  "86": {
+    "id": 86,
+    "jad_id": "jad_occurence__86",
+    "occurrence": [
+      {
+        "id": 539,
+        "value": "post vastationem persecutionis romane"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "12v-13r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 12v-13r"
+      }
+    ],
+    "view_label": "post vastationem persecutionis romane",
+    "prev": {
+      "id": "jad_occurence__85",
+      "label": "populo gladio scilicet cadent romanorum"
+    },
+    "next": {
+      "id": "jad_occurence__87",
+      "label": "tota civitas et superliminaria commota sunt in crucis vindicta"
+    }
+  },
+  "87": {
+    "id": 87,
+    "jad_id": "jad_occurence__87",
+    "occurrence": [
+      {
+        "id": 540,
+        "value": "tota civitas et superliminaria commota sunt in crucis vindicta"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "15v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 15v"
+      }
+    ],
+    "view_label": "tota civitas et superliminaria commota sunt in crucis vindicta",
+    "prev": {
+      "id": "jad_occurence__86",
+      "label": "post vastationem persecutionis romane"
+    },
+    "next": {
+      "id": "jad_occurence__88",
+      "label": "civitates Iude vespasiano titoque pugnantibus penitus suvertantur"
+    }
+  },
+  "88": {
+    "id": 88,
+    "jad_id": "jad_occurence__88",
+    "occurrence": [
+      {
+        "id": 541,
+        "value": "civitates Iude vespasiano titoque pugnantibus penitus suvertantur"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "16r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 16r"
+      }
+    ],
+    "view_label": "civitates Iude vespasiano titoque pugnantibus penitus suvertantur",
+    "prev": {
+      "id": "jad_occurence__87",
+      "label": "tota civitas et superliminaria commota sunt in crucis vindicta"
+    },
+    "next": {
+      "id": "jad_occurence__89",
+      "label": "subversionem Ierusalem et ceterarum urbium sub vespasiano"
+    }
+  },
+  "89": {
+    "id": 89,
+    "jad_id": "jad_occurence__89",
+    "occurrence": [
+      {
+        "id": 542,
+        "value": "subversionem Ierusalem et ceterarum urbium sub vespasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "16v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 16v"
+      }
+    ],
+    "view_label": "subversionem Ierusalem et ceterarum urbium sub vespasiano",
+    "prev": {
+      "id": "jad_occurence__88",
+      "label": "civitates Iude vespasiano titoque pugnantibus penitus suvertantur"
+    },
+    "next": {
+      "id": "jad_occurence__9",
+      "label": "Titus et Vespasianus"
+    }
+  },
+  "90": {
+    "id": 90,
+    "jad_id": "jad_occurence__90",
+    "occurrence": [
+      {
+        "id": 543,
+        "value": "eos romanus cinxit exercitus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "148r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 148r"
+      }
+    ],
+    "view_label": "eos romanus cinxit exercitus",
+    "prev": {
+      "id": "jad_occurence__9",
+      "label": "Titus et Vespasianus"
+    },
+    "next": {
+      "id": "jad_occurence__91",
+      "label": "dies ultionis de Iudaico populo"
+    }
+  },
+  "91": {
+    "id": 91,
+    "jad_id": "jad_occurence__91",
+    "occurrence": [
+      {
+        "id": 544,
+        "value": "dies ultionis de Iudaico populo"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "153v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 153v"
+      }
+    ],
+    "view_label": "dies ultionis de Iudaico populo",
+    "prev": {
+      "id": "jad_occurence__90",
+      "label": "eos romanus cinxit exercitus"
+    },
+    "next": {
+      "id": "jad_occurence__92",
+      "label": "ad tempus romane victorie referimus"
+    }
+  },
+  "92": {
+    "id": 92,
+    "jad_id": "jad_occurence__92",
+    "occurrence": [
+      {
+        "id": 545,
+        "value": "ad tempus romane victorie referimus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "161v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 161v"
+      }
+    ],
+    "view_label": "ad tempus romane victorie referimus",
+    "prev": {
+      "id": "jad_occurence__91",
+      "label": "dies ultionis de Iudaico populo"
+    },
+    "next": {
+      "id": "jad_occurence__93",
+      "label": "Ierusalem significet romano exercitu circumdatam"
+    }
+  },
+  "93": {
+    "id": 93,
+    "jad_id": "jad_occurence__93",
+    "occurrence": [
+      {
+        "id": 546,
+        "value": "Ierusalem significet romano exercitu circumdatam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 51,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "position_in_ms": "168v-169r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 51,
+          "database_table_3497": 2
+        },
+        "value": "Bibliothèque Nationale de France, Latin 494, f. 168v-169r"
+      }
+    ],
+    "view_label": "Ierusalem significet romano exercitu circumdatam",
+    "prev": {
+      "id": "jad_occurence__92",
+      "label": "ad tempus romane victorie referimus"
+    },
+    "next": {
+      "id": "jad_occurence__94",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "94": {
+    "id": 94,
+    "jad_id": "jad_occurence__94",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__93",
+      "label": "Ierusalem significet romano exercitu circumdatam"
+    },
+    "next": {
+      "id": "jad_occurence__95",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "95": {
+    "id": 95,
+    "jad_id": "jad_occurence__95",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-20",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__94",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__1",
+      "label": "Ihesus Christus cum predixisset discipulis suis scicitantibus signa eversionis Ierusalem"
     }
   }
 }

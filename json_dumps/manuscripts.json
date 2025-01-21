@@ -1220,7 +1220,7 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "Format (Höhe x Breite / Anzahl folios)": "32 x 25, 157 ff.",
+    "Format (Höhe x Breite / Anzahl folios)": "32 x 25, 160 ff.",
     "library_abb": [
       {
         "id": 5,
@@ -1759,6 +1759,84 @@
       {
         "id": 6,
         "value": "Lam."
+      }
+    ]
+  },
+  "51": {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 494"
+      }
+    ],
+    "jad_id": "jad_manuscript__51",
+    "library": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "Latin 494",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61936h",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b90809938",
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_written": [
+      {
+        "id": 2,
+        "value": "12th cen.",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Format (Höhe x Breite / Anzahl folios)": "30 x 22, 174 ff.",
+    "library_abb": [
+      {
+        "id": 2,
+        "value": "BNF"
+      }
+    ]
+  },
+  "52": {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 2493"
+      }
+    ],
+    "jad_id": "jad_manuscript__52",
+    "library": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "Latin 2493",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc603086",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b100384125/f1.item",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 2,
+        "value": "12th cen.",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "Format (Höhe x Breite / Anzahl folios)": "",
+    "library_abb": [
+      {
+        "id": 2,
+        "value": "BNF"
       }
     ]
   }

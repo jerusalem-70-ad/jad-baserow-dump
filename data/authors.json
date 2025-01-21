@@ -1260,12 +1260,12 @@
         "author_certainty": true,
         "view_label": "Commentary Lamentationes ",
         "prev": {
-          "id": "jad_work__202",
-          "label": "Commentary Michea "
+          "id": "jad_work__209",
+          "label": "Commentary Sophoniam "
         },
         "next": {
-          "id": "jad_work__22",
-          "label": "Commentary Daniel "
+          "id": "jad_work__210",
+          "label": "Commentary Isaiah "
         }
       },
       {
@@ -1329,8 +1329,8 @@
         "author_certainty": true,
         "view_label": "Commentary Daniel ",
         "prev": {
-          "id": "jad_work__21",
-          "label": "Commentary Lamentationes "
+          "id": "jad_work__211",
+          "label": "Commentary Pentateuch "
         },
         "next": {
           "id": "jad_work__23",
@@ -2809,12 +2809,12 @@
     "notes": "",
     "view_label": "Hugh, of Saint-Cher",
     "prev": {
-      "id": "jad_author__78",
-      "label": "polygraphical"
+      "id": "jad_author__79",
+      "label": "Josephus Latinus / Rufinus"
     },
     "next": {
-      "id": "jad_author__9",
-      "label": "Petrus, Comestor"
+      "id": "jad_author__80",
+      "label": "Rainaldus, Parisiensis"
     },
     "related__works": [
       {
@@ -2931,8 +2931,8 @@
     "notes": "",
     "view_label": "Petrus, Comestor",
     "prev": {
-      "id": "jad_author__8",
-      "label": "Hugh, of Saint-Cher"
+      "id": "jad_author__80",
+      "label": "Rainaldus, Parisiensis"
     },
     "next": {
       "id": "jad_author__1",
@@ -7071,8 +7071,8 @@
           "label": "Commentary Rom. "
         },
         "next": {
-          "id": "jad_work__21",
-          "label": "Commentary Lamentationes "
+          "id": "jad_work__203",
+          "label": "De excidio urbis Hierosolymitanae "
         }
       }
     ]
@@ -9861,7 +9861,7 @@
     },
     "next": {
       "id": "jad_author__43",
-      "label": "Pseudo-Hegesippus"
+      "label": "Josephus Latinus  / Pseudo-Hegesippus"
     },
     "related__works": [
       {
@@ -9935,11 +9935,11 @@
   },
   "43": {
     "id": 43,
-    "name": "Pseudo-Hegesippus",
+    "name": "Josephus Latinus  / Pseudo-Hegesippus",
     "jad_id": "jad_author__43",
     "gnd_url": "https://d-nb.info/gnd/1128672316",
     "notes": "",
-    "view_label": "Pseudo-Hegesippus",
+    "view_label": "Josephus Latinus  / Pseudo-Hegesippus",
     "prev": {
       "id": "jad_author__42",
       "label": "William, of Tyrus"
@@ -9948,7 +9948,53 @@
       "id": "jad_author__44",
       "label": "Petrus, Venerabilis"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 203,
+        "name": "De excidio urbis Hierosolymitanae ",
+        "jad_id": "jad_work__203",
+        "author": [
+          {
+            "id": 43,
+            "name": "Josephus Latinus  / Pseudo-Hegesippus",
+            "jad_id": "jad_author__43",
+            "gnd_url": "https://d-nb.info/gnd/1128672316",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "De excidio urbis Hierosolymitanae",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 16,
+            "name": "CSEL",
+            "jad_id": "jad_sources_occurrences__16",
+            "digi_url": "https://csel.at/"
+          }
+        ],
+        "date_certainty": false,
+        "date": [],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "De excidio urbis Hierosolymitanae ",
+        "prev": {
+          "id": "jad_work__202",
+          "label": "Commentary Michea "
+        },
+        "next": {
+          "id": "jad_work__204",
+          "label": "De bello Iudaico "
+        }
+      }
+    ]
   },
   "44": {
     "id": 44,
@@ -9959,7 +10005,7 @@
     "view_label": "Petrus, Venerabilis",
     "prev": {
       "id": "jad_author__43",
-      "label": "Pseudo-Hegesippus"
+      "label": "Josephus Latinus  / Pseudo-Hegesippus"
     },
     "next": {
       "id": "jad_author__45",
@@ -11091,6 +11137,283 @@
         "next": {
           "id": "jad_work__106",
           "label": "Commentary Matthew "
+        }
+      },
+      {
+        "id": 205,
+        "name": "Commentary Habacuc ",
+        "jad_id": "jad_work__205",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Habacuc",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Commentary Habacuc ",
+        "prev": {
+          "id": "jad_work__204",
+          "label": "De bello Iudaico "
+        },
+        "next": {
+          "id": "jad_work__206",
+          "label": "Commentary Zacharias "
+        }
+      },
+      {
+        "id": 206,
+        "name": "Commentary Zacharias ",
+        "jad_id": "jad_work__206",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Zacharias",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Commentary Zacharias ",
+        "prev": {
+          "id": "jad_work__205",
+          "label": "Commentary Habacuc "
+        },
+        "next": {
+          "id": "jad_work__207",
+          "label": "Commentary Jonah "
+        }
+      },
+      {
+        "id": 207,
+        "name": "Commentary Jonah ",
+        "jad_id": "jad_work__207",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Jonah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Commentary Jonah ",
+        "prev": {
+          "id": "jad_work__206",
+          "label": "Commentary Zacharias "
+        },
+        "next": {
+          "id": "jad_work__208",
+          "label": "Commentary Michea "
+        }
+      },
+      {
+        "id": 208,
+        "name": "Commentary Michea ",
+        "jad_id": "jad_work__208",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Michea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Commentary Michea ",
+        "prev": {
+          "id": "jad_work__207",
+          "label": "Commentary Jonah "
+        },
+        "next": {
+          "id": "jad_work__209",
+          "label": "Commentary Sophoniam "
+        }
+      },
+      {
+        "id": 209,
+        "name": "Commentary Sophoniam ",
+        "jad_id": "jad_work__209",
+        "author": [
+          {
+            "id": 59,
+            "name": "Heiric, of Auxerre",
+            "jad_id": "jad_author__59",
+            "gnd_url": "https://d-nb.info/gnd/119215888",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Sophoniam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 28,
+            "value": "860s"
+          },
+          {
+            "id": 29,
+            "value": "870s"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Commentary Sophoniam ",
+        "prev": {
+          "id": "jad_work__208",
+          "label": "Commentary Michea "
+        },
+        "next": {
+          "id": "jad_work__21",
+          "label": "Commentary Lamentationes "
         }
       }
     ]
@@ -12430,9 +12753,207 @@
       "label": "Roger of Salisbury"
     },
     "next": {
+      "id": "jad_author__79",
+      "label": "Josephus Latinus / Rufinus"
+    },
+    "related__works": []
+  },
+  "79": {
+    "id": 79,
+    "name": "Josephus Latinus / Rufinus",
+    "jad_id": "jad_author__79",
+    "gnd_url": "",
+    "notes": "",
+    "view_label": "Josephus Latinus / Rufinus",
+    "prev": {
+      "id": "jad_author__78",
+      "label": "polygraphical"
+    },
+    "next": {
       "id": "jad_author__8",
       "label": "Hugh, of Saint-Cher"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 204,
+        "name": "De bello Iudaico ",
+        "jad_id": "jad_work__204",
+        "author": [
+          {
+            "id": 79,
+            "name": "Josephus Latinus / Rufinus",
+            "jad_id": "jad_author__79",
+            "gnd_url": "",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "De bello Iudaico",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "De bello Iudaico ",
+        "prev": {
+          "id": "jad_work__203",
+          "label": "De excidio urbis Hierosolymitanae "
+        },
+        "next": {
+          "id": "jad_work__205",
+          "label": "Commentary Habacuc "
+        }
+      }
+    ]
+  },
+  "80": {
+    "id": 80,
+    "name": "Rainaldus, Parisiensis",
+    "jad_id": "jad_author__80",
+    "gnd_url": "https://d-nb.info/gnd/102520712",
+    "notes": "",
+    "view_label": "Rainaldus, Parisiensis",
+    "prev": {
+      "id": "jad_author__8",
+      "label": "Hugh, of Saint-Cher"
+    },
+    "next": {
+      "id": "jad_author__9",
+      "label": "Petrus, Comestor"
+    },
+    "related__works": [
+      {
+        "id": 210,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__210",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 51,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Commentary Isaiah ",
+        "prev": {
+          "id": "jad_work__21",
+          "label": "Commentary Lamentationes "
+        },
+        "next": {
+          "id": "jad_work__211",
+          "label": "Commentary Pentateuch "
+        }
+      },
+      {
+        "id": 211,
+        "name": "Commentary Pentateuch ",
+        "jad_id": "jad_work__211",
+        "author": [
+          {
+            "id": 80,
+            "name": "Rainaldus, Parisiensis",
+            "jad_id": "jad_author__80",
+            "gnd_url": "https://d-nb.info/gnd/102520712",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 52,
+            "value": "BNF, Latin 2493"
+          }
+        ],
+        "title": "Commentary Pentateuch",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "view_label": "Commentary Pentateuch ",
+        "prev": {
+          "id": "jad_work__210",
+          "label": "Commentary Isaiah "
+        },
+        "next": {
+          "id": "jad_work__22",
+          "label": "Commentary Daniel "
+        }
+      }
+    ]
   }
 }

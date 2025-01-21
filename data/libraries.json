@@ -352,8 +352,8 @@
         ],
         "view_label": "BNF, Latin 492",
         "prev": {
-          "id": "jad_manuscript__50",
-          "label": "Lam., MS 71"
+          "id": "jad_manuscript__52",
+          "label": "BNF, Latin 2493"
         },
         "next": {
           "id": "jad_manuscript__7",
@@ -1064,6 +1064,126 @@
           "id": "jad_manuscript__32",
           "label": "Arsenal, MS 44"
         }
+      },
+      {
+        "id": 51,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 494"
+          }
+        ],
+        "jad_id": "jad_manuscript__51",
+        "library": [
+          {
+            "id": 2,
+            "name": "Bibliothèque Nationale de France",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "abbreviation": "BNF",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "Latin 494",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61936h",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b90809938",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "date_written": [
+          {
+            "id": 2,
+            "value": "12th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": "30 x 22, 174 ff.",
+        "library_abb": [
+          {
+            "id": 2,
+            "value": "BNF"
+          }
+        ],
+        "view_label": "BNF, Latin 494",
+        "prev": {
+          "id": "jad_manuscript__50",
+          "label": "Lam., MS 71"
+        },
+        "next": {
+          "id": "jad_manuscript__52",
+          "label": "BNF, Latin 2493"
+        }
+      },
+      {
+        "id": 52,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 2493"
+          }
+        ],
+        "jad_id": "jad_manuscript__52",
+        "library": [
+          {
+            "id": 2,
+            "name": "Bibliothèque Nationale de France",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "abbreviation": "BNF",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "Latin 2493",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc603086",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b100384125/f1.item",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 2,
+            "value": "12th cen."
+          }
+        ],
+        "Format (Höhe x Breite / Anzahl folios)": "",
+        "library_abb": [
+          {
+            "id": 2,
+            "value": "BNF"
+          }
+        ],
+        "view_label": "BNF, Latin 2493",
+        "prev": {
+          "id": "jad_manuscript__51",
+          "label": "BNF, Latin 494"
+        },
+        "next": {
+          "id": "jad_manuscript__6",
+          "label": "BNF, Latin 492"
+        }
       }
     ]
   },
@@ -1749,7 +1869,7 @@
             "value": "around 900"
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "32 x 25, 157 ff.",
+        "Format (Höhe x Breite / Anzahl folios)": "32 x 25, 160 ff.",
         "library_abb": [
           {
             "id": 5,
@@ -1953,8 +2073,8 @@
           "label": "St.Gen., MS 1423"
         },
         "next": {
-          "id": "jad_manuscript__6",
-          "label": "BNF, Latin 492"
+          "id": "jad_manuscript__51",
+          "label": "BNF, Latin 494"
         }
       }
     ]
