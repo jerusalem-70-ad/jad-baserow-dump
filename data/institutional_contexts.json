@@ -33,10 +33,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -71,11 +71,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 14426",
@@ -93,17 +93,17 @@
         "name": [
           {
             "id": 4,
-            "value": "St.Gen., MS 1423"
+            "value": "St. Gen., MS 1423"
           }
         ],
         "jad_id": "jad_manuscript__5",
         "library": [
           {
             "id": 4,
-            "name": "Bibliothèque Sainte-Geneviève",
+            "name": "St. Gen.",
             "jad_id": "jad_library__4",
             "gnd_url": "https://d-nb.info/gnd/1022123-2",
-            "abbreviation": "St.Gen.",
+            "full_name": "Bibliothèque Sainte-Geneviève",
             "place": [
               {
                 "id": 1,
@@ -138,14 +138,14 @@
             "value": "late 12th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 4,
-            "value": "St.Gen."
+            "value": "Bibliothèque Sainte-Geneviève"
           }
         ],
-        "view_label": "St.Gen., MS 1423",
+        "view_label": "St. Gen., MS 1423",
         "prev": {
           "id": "jad_manuscript__49",
           "label": "Trinity Coll., B.14.43"
@@ -167,10 +167,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -205,11 +205,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "31 x 21, 117 ff.",
-        "library_abb": [
+        "format": "31 x 21, 117 ff.",
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 492",
@@ -234,10 +234,10 @@
         "library": [
           {
             "id": 5,
-            "name": "Bibliothèque Mazarine",
+            "name": "Maz.",
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
-            "abbreviation": "Maz.",
+            "full_name": "Bibliothèque Mazarine",
             "place": [
               {
                 "id": 1,
@@ -272,11 +272,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "27 x 21, 199 ff.",
-        "library_abb": [
+        "format": "27 x 21, 199 ff.",
+        "library_full": [
           {
             "id": 5,
-            "value": "Maz."
+            "value": "Bibliothèque Mazarine"
           }
         ],
         "view_label": "Maz., MS 177",
@@ -286,7 +286,7 @@
         },
         "next": {
           "id": "jad_manuscript__8",
-          "label": "St.Gen., MS 1422"
+          "label": "St. Gen., MS 1422"
         }
       },
       {
@@ -294,17 +294,17 @@
         "name": [
           {
             "id": 4,
-            "value": "St.Gen., MS 2787"
+            "value": "St. Gen., MS 2787"
           }
         ],
         "jad_id": "jad_manuscript__12",
         "library": [
           {
             "id": 4,
-            "name": "Bibliothèque Sainte-Geneviève",
+            "name": "St. Gen.",
             "jad_id": "jad_library__4",
             "gnd_url": "https://d-nb.info/gnd/1022123-2",
-            "abbreviation": "St.Gen.",
+            "full_name": "Bibliothèque Sainte-Geneviève",
             "place": [
               {
                 "id": 1,
@@ -339,14 +339,14 @@
             "value": "early 13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "19 x 14, 225 ff.",
-        "library_abb": [
+        "format": "19 x 14, 225 ff.",
+        "library_full": [
           {
             "id": 4,
-            "value": "St.Gen."
+            "value": "Bibliothèque Sainte-Geneviève"
           }
         ],
-        "view_label": "St.Gen., MS 2787",
+        "view_label": "St. Gen., MS 2787",
         "prev": {
           "id": "jad_manuscript__11",
           "label": "BNF, Latin 3737"
@@ -368,10 +368,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -401,11 +401,11 @@
           }
         ],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 620",
@@ -430,10 +430,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -468,11 +468,11 @@
             "value": "mid 13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "34 x 23, 347 ff.",
-        "library_abb": [
+        "format": "34 x 23, 347 ff.",
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 3281",
@@ -497,10 +497,10 @@
         "library": [
           {
             "id": 5,
-            "name": "Bibliothèque Mazarine",
+            "name": "Maz.",
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
-            "abbreviation": "Maz.",
+            "full_name": "Bibliothèque Mazarine",
             "place": [
               {
                 "id": 1,
@@ -535,11 +535,11 @@
             "value": "early 13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "32 x 23, 231 ff.",
-        "library_abb": [
+        "format": "32 x 23, 231 ff.",
+        "library_full": [
           {
             "id": 5,
-            "value": "Maz."
+            "value": "Bibliothèque Mazarine"
           }
         ],
         "view_label": "Maz., MS 178",
@@ -564,10 +564,10 @@
         "library": [
           {
             "id": 5,
-            "name": "Bibliothèque Mazarine",
+            "name": "Maz.",
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
-            "abbreviation": "Maz.",
+            "full_name": "Bibliothèque Mazarine",
             "place": [
               {
                 "id": 1,
@@ -602,11 +602,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "21 x 13, 154 ff.",
-        "library_abb": [
+        "format": "21 x 13, 154 ff.",
+        "library_full": [
           {
             "id": 5,
-            "value": "Maz."
+            "value": "Bibliothèque Mazarine"
           }
         ],
         "view_label": "Maz., MS 999",
@@ -631,10 +631,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -669,11 +669,11 @@
             "value": "late 12th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "28 x 21, 121 ff.",
-        "library_abb": [
+        "format": "28 x 21, 121 ff.",
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 3301C",
@@ -698,10 +698,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -731,11 +731,11 @@
           }
         ],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 14937",
@@ -760,10 +760,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -793,11 +793,11 @@
           }
         ],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 2950",
@@ -822,10 +822,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -860,11 +860,11 @@
             "value": "12th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "30 x 22, 174 ff.",
-        "library_abb": [
+        "format": "30 x 22, 174 ff.",
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 494",
@@ -913,10 +913,10 @@
         "library": [
           {
             "id": 5,
-            "name": "Bibliothèque Mazarine",
+            "name": "Maz.",
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
-            "abbreviation": "Maz.",
+            "full_name": "Bibliothèque Mazarine",
             "place": [
               {
                 "id": 1,
@@ -951,11 +951,11 @@
             "value": "around 900"
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "32 x 25, 160 ff.",
-        "library_abb": [
+        "format": "32 x 25, 160 ff.",
+        "library_full": [
           {
             "id": 5,
-            "value": "Maz."
+            "value": "Bibliothèque Mazarine"
           }
         ],
         "view_label": "Maz., MS 698",
@@ -1045,15 +1045,15 @@
         "library": [
           {
             "id": 6,
-            "name": "Lambeth Palace Library",
+            "name": "Lam.",
             "jad_id": "jad_library__6",
             "gnd_url": "https://d-nb.info/gnd/16441-0",
-            "abbreviation": "Lam.",
+            "full_name": "Lambeth Palace Library",
             "place": [
               {
                 "id": 5,
                 "name": "London",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2643743/london.html",
                 "jad_id": "jad_places__5"
               }
             ]
@@ -1080,17 +1080,17 @@
             "value": "after 1187"
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 6,
-            "value": "Lam."
+            "value": "Lambeth Palace Library"
           }
         ],
         "view_label": "Lam., MS 144",
         "prev": {
           "id": "jad_manuscript__8",
-          "label": "St.Gen., MS 1422"
+          "label": "St. Gen., MS 1422"
         },
         "next": {
           "id": "jad_manuscript__10",
@@ -1133,15 +1133,15 @@
         "library": [
           {
             "id": 3,
-            "name": "San Isidoro (Kloster)",
+            "name": "San Isidoro",
             "jad_id": "jad_library__3",
             "gnd_url": "",
-            "abbreviation": "San Isidoro",
+            "full_name": "San Isidoro (Kloster)",
             "place": [
               {
                 "id": 2,
                 "name": "León",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/3118532/leon.html",
                 "jad_id": "jad_places__2"
               }
             ]
@@ -1171,11 +1171,11 @@
             "value": "1197-1203"
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 3,
-            "value": "San Isidoro"
+            "value": "San Isidoro (Kloster)"
           }
         ],
         "view_label": "San Isidoro, MS 11",
@@ -1233,15 +1233,15 @@
         "library": [
           {
             "id": 10,
-            "name": "Bodleian Library",
+            "name": "Bodl.",
             "jad_id": "jad_library__10",
             "gnd_url": "https://d-nb.info/gnd/38352-1",
-            "abbreviation": "Bodl.",
+            "full_name": "Bodleian Library",
             "place": [
               {
                 "id": 6,
                 "name": "Oxford",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2640729/oxford.html",
                 "jad_id": "jad_places__6"
               }
             ]
@@ -1264,11 +1264,11 @@
             "value": "early 13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 10,
-            "value": "Bodl."
+            "value": "Bodleian Library"
           }
         ],
         "view_label": "Bodl., Laud Misc. 88",
@@ -1361,10 +1361,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -1404,11 +1404,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 3570",
@@ -1590,15 +1590,15 @@
         "library": [
           {
             "id": 1,
-            "name": "Österreichische Nationalbibliothek",
+            "name": "ÖNB",
             "jad_id": "jad_library__1",
             "gnd_url": "https://d-nb.info/gnd/2020893-5",
-            "abbreviation": "ÖNB",
+            "full_name": "Österreichische Nationalbibliothek",
             "place": [
               {
                 "id": 4,
                 "name": "Vienna",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2761369/vienna.html",
                 "jad_id": "jad_places__4"
               }
             ]
@@ -1623,11 +1623,11 @@
           }
         ],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 1,
-            "value": "ÖNB"
+            "value": "Österreichische Nationalbibliothek"
           }
         ],
         "view_label": "ÖNB, Cod. 1014",
@@ -1652,15 +1652,15 @@
         "library": [
           {
             "id": 1,
-            "name": "Österreichische Nationalbibliothek",
+            "name": "ÖNB",
             "jad_id": "jad_library__1",
             "gnd_url": "https://d-nb.info/gnd/2020893-5",
-            "abbreviation": "ÖNB",
+            "full_name": "Österreichische Nationalbibliothek",
             "place": [
               {
                 "id": 4,
                 "name": "Vienna",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2761369/vienna.html",
                 "jad_id": "jad_places__4"
               }
             ]
@@ -1690,11 +1690,11 @@
             "value": "late 12th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 1,
-            "value": "ÖNB"
+            "value": "Österreichische Nationalbibliothek"
           }
         ],
         "view_label": "ÖNB, MS 363",

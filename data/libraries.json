@@ -1,26 +1,26 @@
 {
   "1": {
     "id": 1,
-    "name": "Österreichische Nationalbibliothek",
+    "name": "ÖNB",
     "jad_id": "jad_library__1",
     "gnd_url": "https://d-nb.info/gnd/2020893-5",
-    "abbreviation": "ÖNB",
+    "full_name": "Österreichische Nationalbibliothek",
     "place": [
       {
         "id": 4,
         "name": "Vienna",
-        "geonames_url": "",
+        "geonames_url": "https://www.geonames.org/2761369/vienna.html",
         "jad_id": "jad_places__4"
       }
     ],
-    "view_label": "Österreichische Nationalbibliothek",
+    "view_label": "ÖNB",
     "prev": {
       "id": "jad_library__9",
-      "label": "Bibliothèque municipale (Troyes)"
+      "label": "Troyes"
     },
     "next": {
       "id": "jad_library__10",
-      "label": "Bodleian Library"
+      "label": "Bodl."
     },
     "related__manuscripts": [
       {
@@ -35,15 +35,15 @@
         "library": [
           {
             "id": 1,
-            "name": "Österreichische Nationalbibliothek",
+            "name": "ÖNB",
             "jad_id": "jad_library__1",
             "gnd_url": "https://d-nb.info/gnd/2020893-5",
-            "abbreviation": "ÖNB",
+            "full_name": "Österreichische Nationalbibliothek",
             "place": [
               {
                 "id": 4,
                 "name": "Vienna",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2761369/vienna.html",
                 "jad_id": "jad_places__4"
               }
             ]
@@ -68,11 +68,11 @@
           }
         ],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 1,
-            "value": "ÖNB"
+            "value": "Österreichische Nationalbibliothek"
           }
         ],
         "view_label": "ÖNB, Cod. 1014",
@@ -97,15 +97,15 @@
         "library": [
           {
             "id": 1,
-            "name": "Österreichische Nationalbibliothek",
+            "name": "ÖNB",
             "jad_id": "jad_library__1",
             "gnd_url": "https://d-nb.info/gnd/2020893-5",
-            "abbreviation": "ÖNB",
+            "full_name": "Österreichische Nationalbibliothek",
             "place": [
               {
                 "id": 4,
                 "name": "Vienna",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2761369/vienna.html",
                 "jad_id": "jad_places__4"
               }
             ]
@@ -135,11 +135,11 @@
             "value": "late 12th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 1,
-            "value": "ÖNB"
+            "value": "Österreichische Nationalbibliothek"
           }
         ],
         "view_label": "ÖNB, MS 363",
@@ -156,10 +156,10 @@
   },
   "2": {
     "id": 2,
-    "name": "Bibliothèque Nationale de France",
+    "name": "BNF",
     "jad_id": "jad_library__2",
     "gnd_url": "https://d-nb.info/gnd/5156217-0",
-    "abbreviation": "BNF",
+    "full_name": "Bibliothèque Nationale de France",
     "place": [
       {
         "id": 1,
@@ -168,14 +168,14 @@
         "jad_id": "jad_places__1"
       }
     ],
-    "view_label": "Bibliothèque Nationale de France",
+    "view_label": "BNF",
     "prev": {
       "id": "jad_library__19",
-      "label": "Frankfurt, Universitatsbibliothek"
+      "label": "Frankfurt"
     },
     "next": {
       "id": "jad_library__20",
-      "label": "Sankt-Florian, Stiftsbibliothek"
+      "label": "Sankt-Florian"
     },
     "related__manuscripts": [
       {
@@ -190,10 +190,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -228,11 +228,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 14426",
@@ -257,10 +257,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -276,11 +276,11 @@
         "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b6000541b",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 8865",
@@ -305,10 +305,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -343,11 +343,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "31 x 21, 117 ff.",
-        "library_abb": [
+        "format": "31 x 21, 117 ff.",
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 492",
@@ -372,10 +372,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -396,11 +396,11 @@
             "value": "around 1200"
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "25 x 17, 214 ff.",
-        "library_abb": [
+        "format": "25 x 17, 214 ff.",
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 446",
@@ -425,10 +425,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -449,11 +449,11 @@
             "value": "around 1300"
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 3737",
@@ -463,7 +463,7 @@
         },
         "next": {
           "id": "jad_manuscript__12",
-          "label": "St.Gen., MS 2787"
+          "label": "St. Gen., MS 2787"
         }
       },
       {
@@ -478,10 +478,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -511,11 +511,11 @@
           }
         ],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 620",
@@ -540,10 +540,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -564,11 +564,11 @@
             "value": "late 12th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "24 x 16, 189 ff.",
-        "library_abb": [
+        "format": "24 x 16, 189 ff.",
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 3829",
@@ -593,10 +593,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -612,11 +612,11 @@
         "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b52521779w/f70.item",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 3567",
@@ -641,10 +641,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -684,11 +684,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 3570",
@@ -713,10 +713,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -751,11 +751,11 @@
             "value": "mid 13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "34 x 23, 347 ff.",
-        "library_abb": [
+        "format": "34 x 23, 347 ff.",
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 3281",
@@ -780,10 +780,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -818,11 +818,11 @@
             "value": "late 12th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "28 x 21, 121 ff.",
-        "library_abb": [
+        "format": "28 x 21, 121 ff.",
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 3301C",
@@ -847,10 +847,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -871,11 +871,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "16 x 11, 186 ff.",
-        "library_abb": [
+        "format": "16 x 11, 186 ff.",
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 3733",
@@ -900,10 +900,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -924,11 +924,11 @@
             "value": "around 1300"
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 3728",
@@ -953,10 +953,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -986,11 +986,11 @@
           }
         ],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 14937",
@@ -1015,10 +1015,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -1048,11 +1048,11 @@
           }
         ],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 2950",
@@ -1077,10 +1077,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -1115,11 +1115,11 @@
             "value": "12th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "30 x 22, 174 ff.",
-        "library_abb": [
+        "format": "30 x 22, 174 ff.",
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 494",
@@ -1144,10 +1144,10 @@
         "library": [
           {
             "id": 2,
-            "name": "Bibliothèque Nationale de France",
+            "name": "BNF",
             "jad_id": "jad_library__2",
             "gnd_url": "https://d-nb.info/gnd/5156217-0",
-            "abbreviation": "BNF",
+            "full_name": "Bibliothèque Nationale de France",
             "place": [
               {
                 "id": 1,
@@ -1168,11 +1168,11 @@
             "value": "12th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "",
-        "library_abb": [
+        "format": "",
+        "library_full": [
           {
             "id": 2,
-            "value": "BNF"
+            "value": "Bibliothèque Nationale de France"
           }
         ],
         "view_label": "BNF, Latin 2493",
@@ -1189,26 +1189,26 @@
   },
   "3": {
     "id": 3,
-    "name": "San Isidoro (Kloster)",
+    "name": "San Isidoro",
     "jad_id": "jad_library__3",
     "gnd_url": "",
-    "abbreviation": "San Isidoro",
+    "full_name": "San Isidoro (Kloster)",
     "place": [
       {
         "id": 2,
         "name": "León",
-        "geonames_url": "",
+        "geonames_url": "https://www.geonames.org/3118532/leon.html",
         "jad_id": "jad_places__2"
       }
     ],
-    "view_label": "San Isidoro (Kloster)",
+    "view_label": "San Isidoro",
     "prev": {
       "id": "jad_library__23",
-      "label": "Trinity College"
+      "label": "Trinity Coll."
     },
     "next": {
       "id": "jad_library__4",
-      "label": "Bibliothèque Sainte-Geneviève"
+      "label": "St. Gen."
     },
     "related__manuscripts": [
       {
@@ -1223,15 +1223,15 @@
         "library": [
           {
             "id": 3,
-            "name": "San Isidoro (Kloster)",
+            "name": "San Isidoro",
             "jad_id": "jad_library__3",
             "gnd_url": "",
-            "abbreviation": "San Isidoro",
+            "full_name": "San Isidoro (Kloster)",
             "place": [
               {
                 "id": 2,
                 "name": "León",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/3118532/leon.html",
                 "jad_id": "jad_places__2"
               }
             ]
@@ -1261,11 +1261,11 @@
             "value": "1197-1203"
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 3,
-            "value": "San Isidoro"
+            "value": "San Isidoro (Kloster)"
           }
         ],
         "view_label": "San Isidoro, MS 11",
@@ -1282,10 +1282,10 @@
   },
   "4": {
     "id": 4,
-    "name": "Bibliothèque Sainte-Geneviève",
+    "name": "St. Gen.",
     "jad_id": "jad_library__4",
     "gnd_url": "https://d-nb.info/gnd/1022123-2",
-    "abbreviation": "St.Gen.",
+    "full_name": "Bibliothèque Sainte-Geneviève",
     "place": [
       {
         "id": 1,
@@ -1294,14 +1294,14 @@
         "jad_id": "jad_places__1"
       }
     ],
-    "view_label": "Bibliothèque Sainte-Geneviève",
+    "view_label": "St. Gen.",
     "prev": {
       "id": "jad_library__3",
-      "label": "San Isidoro (Kloster)"
+      "label": "San Isidoro"
     },
     "next": {
       "id": "jad_library__5",
-      "label": "Bibliothèque Mazarine"
+      "label": "Maz."
     },
     "related__manuscripts": [
       {
@@ -1309,17 +1309,17 @@
         "name": [
           {
             "id": 4,
-            "value": "St.Gen., MS 1423"
+            "value": "St. Gen., MS 1423"
           }
         ],
         "jad_id": "jad_manuscript__5",
         "library": [
           {
             "id": 4,
-            "name": "Bibliothèque Sainte-Geneviève",
+            "name": "St. Gen.",
             "jad_id": "jad_library__4",
             "gnd_url": "https://d-nb.info/gnd/1022123-2",
-            "abbreviation": "St.Gen.",
+            "full_name": "Bibliothèque Sainte-Geneviève",
             "place": [
               {
                 "id": 1,
@@ -1354,14 +1354,14 @@
             "value": "late 12th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 4,
-            "value": "St.Gen."
+            "value": "Bibliothèque Sainte-Geneviève"
           }
         ],
-        "view_label": "St.Gen., MS 1423",
+        "view_label": "St. Gen., MS 1423",
         "prev": {
           "id": "jad_manuscript__49",
           "label": "Trinity Coll., B.14.43"
@@ -1376,17 +1376,17 @@
         "name": [
           {
             "id": 4,
-            "value": "St.Gen., MS 1422"
+            "value": "St. Gen., MS 1422"
           }
         ],
         "jad_id": "jad_manuscript__8",
         "library": [
           {
             "id": 4,
-            "name": "Bibliothèque Sainte-Geneviève",
+            "name": "St. Gen.",
             "jad_id": "jad_library__4",
             "gnd_url": "https://d-nb.info/gnd/1022123-2",
-            "abbreviation": "St.Gen.",
+            "full_name": "Bibliothèque Sainte-Geneviève",
             "place": [
               {
                 "id": 1,
@@ -1407,14 +1407,14 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 4,
-            "value": "St.Gen."
+            "value": "Bibliothèque Sainte-Geneviève"
           }
         ],
-        "view_label": "St.Gen., MS 1422",
+        "view_label": "St. Gen., MS 1422",
         "prev": {
           "id": "jad_manuscript__7",
           "label": "Maz., MS 177"
@@ -1429,17 +1429,17 @@
         "name": [
           {
             "id": 4,
-            "value": "St.Gen., MS 2787"
+            "value": "St. Gen., MS 2787"
           }
         ],
         "jad_id": "jad_manuscript__12",
         "library": [
           {
             "id": 4,
-            "name": "Bibliothèque Sainte-Geneviève",
+            "name": "St. Gen.",
             "jad_id": "jad_library__4",
             "gnd_url": "https://d-nb.info/gnd/1022123-2",
-            "abbreviation": "St.Gen.",
+            "full_name": "Bibliothèque Sainte-Geneviève",
             "place": [
               {
                 "id": 1,
@@ -1474,14 +1474,14 @@
             "value": "early 13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "19 x 14, 225 ff.",
-        "library_abb": [
+        "format": "19 x 14, 225 ff.",
+        "library_full": [
           {
             "id": 4,
-            "value": "St.Gen."
+            "value": "Bibliothèque Sainte-Geneviève"
           }
         ],
-        "view_label": "St.Gen., MS 2787",
+        "view_label": "St. Gen., MS 2787",
         "prev": {
           "id": "jad_manuscript__11",
           "label": "BNF, Latin 3737"
@@ -1495,10 +1495,10 @@
   },
   "5": {
     "id": 5,
-    "name": "Bibliothèque Mazarine",
+    "name": "Maz.",
     "jad_id": "jad_library__5",
     "gnd_url": "https://d-nb.info/gnd/803245-2",
-    "abbreviation": "Maz.",
+    "full_name": "Bibliothèque Mazarine",
     "place": [
       {
         "id": 1,
@@ -1507,14 +1507,14 @@
         "jad_id": "jad_places__1"
       }
     ],
-    "view_label": "Bibliothèque Mazarine",
+    "view_label": "Maz.",
     "prev": {
       "id": "jad_library__4",
-      "label": "Bibliothèque Sainte-Geneviève"
+      "label": "St. Gen."
     },
     "next": {
       "id": "jad_library__6",
-      "label": "Lambeth Palace Library"
+      "label": "Lam."
     },
     "related__manuscripts": [
       {
@@ -1529,10 +1529,10 @@
         "library": [
           {
             "id": 5,
-            "name": "Bibliothèque Mazarine",
+            "name": "Maz.",
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
-            "abbreviation": "Maz.",
+            "full_name": "Bibliothèque Mazarine",
             "place": [
               {
                 "id": 1,
@@ -1567,11 +1567,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "27 x 21, 199 ff.",
-        "library_abb": [
+        "format": "27 x 21, 199 ff.",
+        "library_full": [
           {
             "id": 5,
-            "value": "Maz."
+            "value": "Bibliothèque Mazarine"
           }
         ],
         "view_label": "Maz., MS 177",
@@ -1581,7 +1581,7 @@
         },
         "next": {
           "id": "jad_manuscript__8",
-          "label": "St.Gen., MS 1422"
+          "label": "St. Gen., MS 1422"
         }
       },
       {
@@ -1596,10 +1596,10 @@
         "library": [
           {
             "id": 5,
-            "name": "Bibliothèque Mazarine",
+            "name": "Maz.",
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
-            "abbreviation": "Maz.",
+            "full_name": "Bibliothèque Mazarine",
             "place": [
               {
                 "id": 1,
@@ -1634,11 +1634,11 @@
             "value": "early 13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "32 x 23, 231 ff.",
-        "library_abb": [
+        "format": "32 x 23, 231 ff.",
+        "library_full": [
           {
             "id": 5,
-            "value": "Maz."
+            "value": "Bibliothèque Mazarine"
           }
         ],
         "view_label": "Maz., MS 178",
@@ -1663,10 +1663,10 @@
         "library": [
           {
             "id": 5,
-            "name": "Bibliothèque Mazarine",
+            "name": "Maz.",
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
-            "abbreviation": "Maz.",
+            "full_name": "Bibliothèque Mazarine",
             "place": [
               {
                 "id": 1,
@@ -1701,11 +1701,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "21 x 13, 154 ff.",
-        "library_abb": [
+        "format": "21 x 13, 154 ff.",
+        "library_full": [
           {
             "id": 5,
-            "value": "Maz."
+            "value": "Bibliothèque Mazarine"
           }
         ],
         "view_label": "Maz., MS 999",
@@ -1730,10 +1730,10 @@
         "library": [
           {
             "id": 5,
-            "name": "Bibliothèque Mazarine",
+            "name": "Maz.",
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
-            "abbreviation": "Maz.",
+            "full_name": "Bibliothèque Mazarine",
             "place": [
               {
                 "id": 1,
@@ -1754,11 +1754,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 5,
-            "value": "Maz."
+            "value": "Bibliothèque Mazarine"
           }
         ],
         "view_label": "Maz., MS 774",
@@ -1783,10 +1783,10 @@
         "library": [
           {
             "id": 5,
-            "name": "Bibliothèque Mazarine",
+            "name": "Maz.",
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
-            "abbreviation": "Maz.",
+            "full_name": "Bibliothèque Mazarine",
             "place": [
               {
                 "id": 1,
@@ -1802,11 +1802,11 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 5,
-            "value": "Maz."
+            "value": "Bibliothèque Mazarine"
           }
         ],
         "view_label": "Maz., Ms 1026",
@@ -1831,10 +1831,10 @@
         "library": [
           {
             "id": 5,
-            "name": "Bibliothèque Mazarine",
+            "name": "Maz.",
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
-            "abbreviation": "Maz.",
+            "full_name": "Bibliothèque Mazarine",
             "place": [
               {
                 "id": 1,
@@ -1869,11 +1869,11 @@
             "value": "around 900"
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "32 x 25, 160 ff.",
-        "library_abb": [
+        "format": "32 x 25, 160 ff.",
+        "library_full": [
           {
             "id": 5,
-            "value": "Maz."
+            "value": "Bibliothèque Mazarine"
           }
         ],
         "view_label": "Maz., MS 698",
@@ -1898,10 +1898,10 @@
         "library": [
           {
             "id": 5,
-            "name": "Bibliothèque Mazarine",
+            "name": "Maz.",
             "jad_id": "jad_library__5",
             "gnd_url": "https://d-nb.info/gnd/803245-2",
-            "abbreviation": "Maz.",
+            "full_name": "Bibliothèque Mazarine",
             "place": [
               {
                 "id": 1,
@@ -1917,11 +1917,11 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 5,
-            "value": "Maz."
+            "value": "Bibliothèque Mazarine"
           }
         ],
         "view_label": "Maz., MS 1001",
@@ -1938,26 +1938,26 @@
   },
   "6": {
     "id": 6,
-    "name": "Lambeth Palace Library",
+    "name": "Lam.",
     "jad_id": "jad_library__6",
     "gnd_url": "https://d-nb.info/gnd/16441-0",
-    "abbreviation": "Lam.",
+    "full_name": "Lambeth Palace Library",
     "place": [
       {
         "id": 5,
         "name": "London",
-        "geonames_url": "",
+        "geonames_url": "https://www.geonames.org/2643743/london.html",
         "jad_id": "jad_places__5"
       }
     ],
-    "view_label": "Lambeth Palace Library",
+    "view_label": "Lam.",
     "prev": {
       "id": "jad_library__5",
-      "label": "Bibliothèque Mazarine"
+      "label": "Maz."
     },
     "next": {
       "id": "jad_library__7",
-      "label": "British Library"
+      "label": "BL"
     },
     "related__manuscripts": [
       {
@@ -1972,15 +1972,15 @@
         "library": [
           {
             "id": 6,
-            "name": "Lambeth Palace Library",
+            "name": "Lam.",
             "jad_id": "jad_library__6",
             "gnd_url": "https://d-nb.info/gnd/16441-0",
-            "abbreviation": "Lam.",
+            "full_name": "Lambeth Palace Library",
             "place": [
               {
                 "id": 5,
                 "name": "London",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2643743/london.html",
                 "jad_id": "jad_places__5"
               }
             ]
@@ -2007,17 +2007,17 @@
             "value": "after 1187"
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 6,
-            "value": "Lam."
+            "value": "Lambeth Palace Library"
           }
         ],
         "view_label": "Lam., MS 144",
         "prev": {
           "id": "jad_manuscript__8",
-          "label": "St.Gen., MS 1422"
+          "label": "St. Gen., MS 1422"
         },
         "next": {
           "id": "jad_manuscript__10",
@@ -2036,15 +2036,15 @@
         "library": [
           {
             "id": 6,
-            "name": "Lambeth Palace Library",
+            "name": "Lam.",
             "jad_id": "jad_library__6",
             "gnd_url": "https://d-nb.info/gnd/16441-0",
-            "abbreviation": "Lam.",
+            "full_name": "Lambeth Palace Library",
             "place": [
               {
                 "id": 5,
                 "name": "London",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2643743/london.html",
                 "jad_id": "jad_places__5"
               }
             ]
@@ -2060,17 +2060,17 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 6,
-            "value": "Lam."
+            "value": "Lambeth Palace Library"
           }
         ],
         "view_label": "Lam., MS 71",
         "prev": {
           "id": "jad_manuscript__5",
-          "label": "St.Gen., MS 1423"
+          "label": "St. Gen., MS 1423"
         },
         "next": {
           "id": "jad_manuscript__51",
@@ -2081,26 +2081,26 @@
   },
   "7": {
     "id": 7,
-    "name": "British Library",
+    "name": "BL",
     "jad_id": "jad_library__7",
     "gnd_url": "https://d-nb.info/gnd/1023420-2",
-    "abbreviation": "BL",
+    "full_name": "British Library",
     "place": [
       {
         "id": 5,
         "name": "London",
-        "geonames_url": "",
+        "geonames_url": "https://www.geonames.org/2643743/london.html",
         "jad_id": "jad_places__5"
       }
     ],
-    "view_label": "British Library",
+    "view_label": "BL",
     "prev": {
       "id": "jad_library__6",
-      "label": "Lambeth Palace Library"
+      "label": "Lam."
     },
     "next": {
       "id": "jad_library__8",
-      "label": "St John's College (Cambridge)"
+      "label": "Cambr. St.John's Coll."
     },
     "related__manuscripts": [
       {
@@ -2115,15 +2115,15 @@
         "library": [
           {
             "id": 7,
-            "name": "British Library",
+            "name": "BL",
             "jad_id": "jad_library__7",
             "gnd_url": "https://d-nb.info/gnd/1023420-2",
-            "abbreviation": "BL",
+            "full_name": "British Library",
             "place": [
               {
                 "id": 5,
                 "name": "London",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2643743/london.html",
                 "jad_id": "jad_places__5"
               }
             ]
@@ -2134,17 +2134,17 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 7,
-            "value": "BL"
+            "value": "British Library"
           }
         ],
         "view_label": "BL, Arundel 322",
         "prev": {
           "id": "jad_manuscript__12",
-          "label": "St.Gen., MS 2787"
+          "label": "St. Gen., MS 2787"
         },
         "next": {
           "id": "jad_manuscript__14",
@@ -2163,15 +2163,15 @@
         "library": [
           {
             "id": 7,
-            "name": "British Library",
+            "name": "BL",
             "jad_id": "jad_library__7",
             "gnd_url": "https://d-nb.info/gnd/1023420-2",
-            "abbreviation": "BL",
+            "full_name": "British Library",
             "place": [
               {
                 "id": 5,
                 "name": "London",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2643743/london.html",
                 "jad_id": "jad_places__5"
               }
             ]
@@ -2182,11 +2182,11 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 7,
-            "value": "BL"
+            "value": "British Library"
           }
         ],
         "view_label": "BL, Royal 8 F XVII",
@@ -2203,26 +2203,26 @@
   },
   "8": {
     "id": 8,
-    "name": "St John's College (Cambridge)",
+    "name": "Cambr. St.John's Coll.",
     "jad_id": "jad_library__8",
     "gnd_url": "https://d-nb.info/gnd/18387-8",
-    "abbreviation": "Cambr. St.John's Coll.",
+    "full_name": "St John's College (Cambridge)",
     "place": [
       {
         "id": 7,
         "name": "Cambridge",
-        "geonames_url": "",
+        "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
         "jad_id": "jad_places__7"
       }
     ],
-    "view_label": "St John's College (Cambridge)",
+    "view_label": "Cambr. St.John's Coll.",
     "prev": {
       "id": "jad_library__7",
-      "label": "British Library"
+      "label": "BL"
     },
     "next": {
       "id": "jad_library__9",
-      "label": "Bibliothèque municipale (Troyes)"
+      "label": "Troyes"
     },
     "related__manuscripts": [
       {
@@ -2237,15 +2237,15 @@
         "library": [
           {
             "id": 8,
-            "name": "St John's College (Cambridge)",
+            "name": "Cambr. St.John's Coll.",
             "jad_id": "jad_library__8",
             "gnd_url": "https://d-nb.info/gnd/18387-8",
-            "abbreviation": "Cambr. St.John's Coll.",
+            "full_name": "St John's College (Cambridge)",
             "place": [
               {
                 "id": 7,
                 "name": "Cambridge",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
                 "jad_id": "jad_places__7"
               }
             ]
@@ -2261,11 +2261,11 @@
             "value": "14th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 8,
-            "value": "Cambr. St.John's Coll."
+            "value": "St John's College (Cambridge)"
           }
         ],
         "view_label": "Cambr. St.John's Coll., MS 127",
@@ -2282,26 +2282,26 @@
   },
   "9": {
     "id": 9,
-    "name": "Bibliothèque municipale (Troyes)",
+    "name": "Troyes",
     "jad_id": "jad_library__9",
     "gnd_url": "https://d-nb.info/gnd/1026092-4",
-    "abbreviation": "Troyes",
+    "full_name": "Bibliothèque municipale (Troyes)",
     "place": [
       {
         "id": 9,
         "name": "Troyes",
-        "geonames_url": "",
+        "geonames_url": "https://www.geonames.org/2971549/troyes.html",
         "jad_id": "jad_places__9"
       }
     ],
-    "view_label": "Bibliothèque municipale (Troyes)",
+    "view_label": "Troyes",
     "prev": {
       "id": "jad_library__8",
-      "label": "St John's College (Cambridge)"
+      "label": "Cambr. St.John's Coll."
     },
     "next": {
       "id": "jad_library__1",
-      "label": "Österreichische Nationalbibliothek"
+      "label": "ÖNB"
     },
     "related__manuscripts": [
       {
@@ -2316,15 +2316,15 @@
         "library": [
           {
             "id": 9,
-            "name": "Bibliothèque municipale (Troyes)",
+            "name": "Troyes",
             "jad_id": "jad_library__9",
             "gnd_url": "https://d-nb.info/gnd/1026092-4",
-            "abbreviation": "Troyes",
+            "full_name": "Bibliothèque municipale (Troyes)",
             "place": [
               {
                 "id": 9,
                 "name": "Troyes",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2971549/troyes.html",
                 "jad_id": "jad_places__9"
               }
             ]
@@ -2335,11 +2335,11 @@
         "digi_url": "https://arca.irht.cnrs.fr/ark:/63955/md82k643c86h",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 9,
-            "value": "Troyes"
+            "value": "Bibliothèque municipale (Troyes)"
           }
         ],
         "view_label": "Troyes, MS 653",
@@ -2356,26 +2356,26 @@
   },
   "10": {
     "id": 10,
-    "name": "Bodleian Library",
+    "name": "Bodl.",
     "jad_id": "jad_library__10",
     "gnd_url": "https://d-nb.info/gnd/38352-1",
-    "abbreviation": "Bodl.",
+    "full_name": "Bodleian Library",
     "place": [
       {
         "id": 6,
         "name": "Oxford",
-        "geonames_url": "",
+        "geonames_url": "https://www.geonames.org/2640729/oxford.html",
         "jad_id": "jad_places__6"
       }
     ],
-    "view_label": "Bodleian Library",
+    "view_label": "Bodl.",
     "prev": {
       "id": "jad_library__1",
-      "label": "Österreichische Nationalbibliothek"
+      "label": "ÖNB"
     },
     "next": {
       "id": "jad_library__11",
-      "label": "Bibliothèque royale de Belgique"
+      "label": "Bibl. Roy."
     },
     "related__manuscripts": [
       {
@@ -2390,15 +2390,15 @@
         "library": [
           {
             "id": 10,
-            "name": "Bodleian Library",
+            "name": "Bodl.",
             "jad_id": "jad_library__10",
             "gnd_url": "https://d-nb.info/gnd/38352-1",
-            "abbreviation": "Bodl.",
+            "full_name": "Bodleian Library",
             "place": [
               {
                 "id": 6,
                 "name": "Oxford",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2640729/oxford.html",
                 "jad_id": "jad_places__6"
               }
             ]
@@ -2421,11 +2421,11 @@
             "value": "early 13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 10,
-            "value": "Bodl."
+            "value": "Bodleian Library"
           }
         ],
         "view_label": "Bodl., Laud Misc. 88",
@@ -2450,15 +2450,15 @@
         "library": [
           {
             "id": 10,
-            "name": "Bodleian Library",
+            "name": "Bodl.",
             "jad_id": "jad_library__10",
             "gnd_url": "https://d-nb.info/gnd/38352-1",
-            "abbreviation": "Bodl.",
+            "full_name": "Bodleian Library",
             "place": [
               {
                 "id": 6,
                 "name": "Oxford",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2640729/oxford.html",
                 "jad_id": "jad_places__6"
               }
             ]
@@ -2474,11 +2474,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 10,
-            "value": "Bodl."
+            "value": "Bodleian Library"
           }
         ],
         "view_label": "Bodl., Hatton 37",
@@ -2495,51 +2495,51 @@
   },
   "11": {
     "id": 11,
-    "name": "Bibliothèque royale de Belgique",
+    "name": "Bibl. Roy.",
     "jad_id": "jad_library__11",
     "gnd_url": "https://d-nb.info/gnd/1023393-3",
-    "abbreviation": "Bibl. Roy.",
+    "full_name": "Bibliothèque royale de Belgique",
     "place": [
       {
         "id": 8,
         "name": "Brussels",
-        "geonames_url": "",
+        "geonames_url": "https://www.geonames.org/2800866/brussels.html",
         "jad_id": "jad_places__8"
       }
     ],
-    "view_label": "Bibliothèque royale de Belgique",
+    "view_label": "Bibl. Roy.",
     "prev": {
       "id": "jad_library__10",
-      "label": "Bodleian Library"
+      "label": "Bodl."
     },
     "next": {
       "id": "jad_library__12",
-      "label": "Bayrische Staatsbibliothek"
+      "label": "BSB"
     },
     "related__manuscripts": []
   },
   "12": {
     "id": 12,
-    "name": "Bayrische Staatsbibliothek",
+    "name": "BSB",
     "jad_id": "jad_library__12",
-    "gnd_url": "",
-    "abbreviation": "BSB",
+    "gnd_url": "https://d-nb.info/gnd/2031351-2",
+    "full_name": "Bayrische Staatsbibliothek",
     "place": [
       {
         "id": 3,
         "name": "Munich",
-        "geonames_url": "",
+        "geonames_url": "https://www.geonames.org/2867714/munich.html",
         "jad_id": "jad_places__3"
       }
     ],
-    "view_label": "Bayrische Staatsbibliothek",
+    "view_label": "BSB",
     "prev": {
       "id": "jad_library__11",
-      "label": "Bibliothèque royale de Belgique"
+      "label": "Bibl. Roy."
     },
     "next": {
       "id": "jad_library__13",
-      "label": "Bibliothèque de l'Arsenal"
+      "label": "Arsenal"
     },
     "related__manuscripts": [
       {
@@ -2554,15 +2554,15 @@
         "library": [
           {
             "id": 12,
-            "name": "Bayrische Staatsbibliothek",
+            "name": "BSB",
             "jad_id": "jad_library__12",
-            "gnd_url": "",
-            "abbreviation": "BSB",
+            "gnd_url": "https://d-nb.info/gnd/2031351-2",
+            "full_name": "Bayrische Staatsbibliothek",
             "place": [
               {
                 "id": 3,
                 "name": "Munich",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2867714/munich.html",
                 "jad_id": "jad_places__3"
               }
             ]
@@ -2573,11 +2573,11 @@
         "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00114266?page=,1",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 12,
-            "value": "BSB"
+            "value": "Bayrische Staatsbibliothek"
           }
         ],
         "view_label": "BSB, Clm 3721",
@@ -2594,10 +2594,10 @@
   },
   "13": {
     "id": 13,
-    "name": "Bibliothèque de l'Arsenal",
+    "name": "Arsenal",
     "jad_id": "jad_library__13",
     "gnd_url": "https://d-nb.info/gnd/1056486-X",
-    "abbreviation": "Arsenal",
+    "full_name": "Bibliothèque de l'Arsenal",
     "place": [
       {
         "id": 1,
@@ -2606,14 +2606,14 @@
         "jad_id": "jad_places__1"
       }
     ],
-    "view_label": "Bibliothèque de l'Arsenal",
+    "view_label": "Arsenal",
     "prev": {
       "id": "jad_library__12",
-      "label": "Bayrische Staatsbibliothek"
+      "label": "BSB"
     },
     "next": {
       "id": "jad_library__14",
-      "label": "Magdalen College (Oxford)"
+      "label": "Oxford Magd. Coll."
     },
     "related__manuscripts": [
       {
@@ -2628,10 +2628,10 @@
         "library": [
           {
             "id": 13,
-            "name": "Bibliothèque de l'Arsenal",
+            "name": "Arsenal",
             "jad_id": "jad_library__13",
             "gnd_url": "https://d-nb.info/gnd/1056486-X",
-            "abbreviation": "Arsenal",
+            "full_name": "Bibliothèque de l'Arsenal",
             "place": [
               {
                 "id": 1,
@@ -2647,11 +2647,11 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 13,
-            "value": "Arsenal"
+            "value": "Bibliothèque de l'Arsenal"
           }
         ],
         "view_label": "Arsenal, MS 44",
@@ -2676,10 +2676,10 @@
         "library": [
           {
             "id": 13,
-            "name": "Bibliothèque de l'Arsenal",
+            "name": "Arsenal",
             "jad_id": "jad_library__13",
             "gnd_url": "https://d-nb.info/gnd/1056486-X",
-            "abbreviation": "Arsenal",
+            "full_name": "Bibliothèque de l'Arsenal",
             "place": [
               {
                 "id": 1,
@@ -2700,11 +2700,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": "21 x 14, 236 ff.",
-        "library_abb": [
+        "format": "21 x 14, 236 ff.",
+        "library_full": [
           {
             "id": 13,
-            "value": "Arsenal"
+            "value": "Bibliothèque de l'Arsenal"
           }
         ],
         "view_label": "Arsenal, MS 400",
@@ -2721,44 +2721,44 @@
   },
   "14": {
     "id": 14,
-    "name": "Magdalen College (Oxford)",
+    "name": "Oxford Magd. Coll.",
     "jad_id": "jad_library__14",
-    "gnd_url": "",
-    "abbreviation": "Oxford Magd. Coll.",
+    "gnd_url": "https://d-nb.info/gnd/5009498-1",
+    "full_name": "Magdalen College (Oxford)",
     "place": [
       {
         "id": 6,
         "name": "Oxford",
-        "geonames_url": "",
+        "geonames_url": "https://www.geonames.org/2640729/oxford.html",
         "jad_id": "jad_places__6"
       }
     ],
-    "view_label": "Magdalen College (Oxford)",
+    "view_label": "Oxford Magd. Coll.",
     "prev": {
       "id": "jad_library__13",
-      "label": "Bibliothèque de l'Arsenal"
+      "label": "Arsenal"
     },
     "next": {
       "id": "jad_library__15",
-      "label": "Bibliothèque municipale (Valenciennes)"
+      "label": "Valenciennes"
     },
     "related__manuscripts": []
   },
   "15": {
     "id": 15,
-    "name": "Bibliothèque municipale (Valenciennes)",
+    "name": "Valenciennes",
     "jad_id": "jad_library__15",
     "gnd_url": "https://d-nb.info/gnd/1052474-5",
-    "abbreviation": "Valenciennes",
+    "full_name": "Bibliothèque municipale (Valenciennes)",
     "place": [],
-    "view_label": "Bibliothèque municipale (Valenciennes)",
+    "view_label": "Valenciennes",
     "prev": {
       "id": "jad_library__14",
-      "label": "Magdalen College (Oxford)"
+      "label": "Oxford Magd. Coll."
     },
     "next": {
       "id": "jad_library__16",
-      "label": "Thüringer Universitäts- und Landesbibliothek Jena"
+      "label": "Jena, UB"
     },
     "related__manuscripts": [
       {
@@ -2773,10 +2773,10 @@
         "library": [
           {
             "id": 15,
-            "name": "Bibliothèque municipale (Valenciennes)",
+            "name": "Valenciennes",
             "jad_id": "jad_library__15",
             "gnd_url": "https://d-nb.info/gnd/1052474-5",
-            "abbreviation": "Valenciennes",
+            "full_name": "Bibliothèque municipale (Valenciennes)",
             "place": []
           }
         ],
@@ -2785,11 +2785,11 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 15,
-            "value": "Valenciennes"
+            "value": "Bibliothèque municipale (Valenciennes)"
           }
         ],
         "view_label": "Valenciennes, MS 227",
@@ -2806,26 +2806,26 @@
   },
   "16": {
     "id": 16,
-    "name": "Thüringer Universitäts- und Landesbibliothek Jena",
+    "name": "Jena, UB",
     "jad_id": "jad_library__16",
     "gnd_url": "",
-    "abbreviation": "Jena, UB",
+    "full_name": "Thüringer Universitäts- und Landesbibliothek Jena",
     "place": [
       {
         "id": 10,
         "name": "Jena",
-        "geonames_url": "",
+        "geonames_url": "https://www.geonames.org/2895044/jena.html",
         "jad_id": "jad_places__10"
       }
     ],
-    "view_label": "Thüringer Universitäts- und Landesbibliothek Jena",
+    "view_label": "Jena, UB",
     "prev": {
       "id": "jad_library__15",
-      "label": "Bibliothèque municipale (Valenciennes)"
+      "label": "Valenciennes"
     },
     "next": {
       "id": "jad_library__17",
-      "label": "Universitätsbibliothek Erlangen-Nürnberg"
+      "label": "Erlangen, UB"
     },
     "related__manuscripts": [
       {
@@ -2840,15 +2840,15 @@
         "library": [
           {
             "id": 16,
-            "name": "Thüringer Universitäts- und Landesbibliothek Jena",
+            "name": "Jena, UB",
             "jad_id": "jad_library__16",
             "gnd_url": "",
-            "abbreviation": "Jena, UB",
+            "full_name": "Thüringer Universitäts- und Landesbibliothek Jena",
             "place": [
               {
                 "id": 10,
                 "name": "Jena",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2895044/jena.html",
                 "jad_id": "jad_places__10"
               }
             ]
@@ -2859,11 +2859,11 @@
         "digi_url": "https://handschriftenportal.de/search?q=settlement-search%3D%3D%27jena%27%3BFIELD-GROUP-ALL%3D%3D%2732%27&hl=true&isExtended=true",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 16,
-            "value": "Jena, UB"
+            "value": "Thüringer Universitäts- und Landesbibliothek Jena"
           }
         ],
         "view_label": "Jena, UB, El. f. 32",
@@ -2880,19 +2880,19 @@
   },
   "17": {
     "id": 17,
-    "name": "Universitätsbibliothek Erlangen-Nürnberg",
+    "name": "Erlangen, UB",
     "jad_id": "jad_library__17",
     "gnd_url": "",
-    "abbreviation": "Erlangen, UB",
+    "full_name": "Universitätsbibliothek Erlangen-Nürnberg",
     "place": [],
-    "view_label": "Universitätsbibliothek Erlangen-Nürnberg",
+    "view_label": "Erlangen, UB",
     "prev": {
       "id": "jad_library__16",
-      "label": "Thüringer Universitäts- und Landesbibliothek Jena"
+      "label": "Jena, UB"
     },
     "next": {
       "id": "jad_library__18",
-      "label": "Stift Göttweig"
+      "label": "Göttweig"
     },
     "related__manuscripts": [
       {
@@ -2907,10 +2907,10 @@
         "library": [
           {
             "id": 17,
-            "name": "Universitätsbibliothek Erlangen-Nürnberg",
+            "name": "Erlangen, UB",
             "jad_id": "jad_library__17",
             "gnd_url": "",
-            "abbreviation": "Erlangen, UB",
+            "full_name": "Universitätsbibliothek Erlangen-Nürnberg",
             "place": []
           }
         ],
@@ -2919,11 +2919,11 @@
         "digi_url": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1736437021266~348&pid=17109356&locale=de&usePid1=true&usePid2=true",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 17,
-            "value": "Erlangen, UB"
+            "value": "Universitätsbibliothek Erlangen-Nürnberg"
           }
         ],
         "view_label": "Erlangen, UB, 63/1",
@@ -2948,10 +2948,10 @@
         "library": [
           {
             "id": 17,
-            "name": "Universitätsbibliothek Erlangen-Nürnberg",
+            "name": "Erlangen, UB",
             "jad_id": "jad_library__17",
             "gnd_url": "",
-            "abbreviation": "Erlangen, UB",
+            "full_name": "Universitätsbibliothek Erlangen-Nürnberg",
             "place": []
           }
         ],
@@ -2960,11 +2960,11 @@
         "digi_url": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1736437030858~486&pid=17110225&locale=de&usePid1=true&usePid2=true",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 17,
-            "value": "Erlangen, UB"
+            "value": "Universitätsbibliothek Erlangen-Nürnberg"
           }
         ],
         "view_label": "Erlangen, UB, 63/2",
@@ -2981,19 +2981,19 @@
   },
   "18": {
     "id": 18,
-    "name": "Stift Göttweig",
+    "name": "Göttweig",
     "jad_id": "jad_library__18",
     "gnd_url": "",
-    "abbreviation": "Göttweig",
+    "full_name": "Stift Göttweig",
     "place": [],
-    "view_label": "Stift Göttweig",
+    "view_label": "Göttweig",
     "prev": {
       "id": "jad_library__17",
-      "label": "Universitätsbibliothek Erlangen-Nürnberg"
+      "label": "Erlangen, UB"
     },
     "next": {
       "id": "jad_library__19",
-      "label": "Frankfurt, Universitatsbibliothek"
+      "label": "Frankfurt"
     },
     "related__manuscripts": [
       {
@@ -3008,10 +3008,10 @@
         "library": [
           {
             "id": 18,
-            "name": "Stift Göttweig",
+            "name": "Göttweig",
             "jad_id": "jad_library__18",
             "gnd_url": "",
-            "abbreviation": "Göttweig",
+            "full_name": "Stift Göttweig",
             "place": []
           }
         ],
@@ -3020,11 +3020,11 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 18,
-            "value": "Göttweig"
+            "value": "Stift Göttweig"
           }
         ],
         "view_label": "Göttweig, MS 149",
@@ -3041,19 +3041,19 @@
   },
   "19": {
     "id": 19,
-    "name": "Frankfurt, Universitatsbibliothek",
+    "name": "Frankfurt",
     "jad_id": "jad_library__19",
     "gnd_url": "",
-    "abbreviation": "Frankfurt",
+    "full_name": "Frankfurt, Universitatsbibliothek",
     "place": [],
-    "view_label": "Frankfurt, Universitatsbibliothek",
+    "view_label": "Frankfurt",
     "prev": {
       "id": "jad_library__18",
-      "label": "Stift Göttweig"
+      "label": "Göttweig"
     },
     "next": {
       "id": "jad_library__2",
-      "label": "Bibliothèque Nationale de France"
+      "label": "BNF"
     },
     "related__manuscripts": [
       {
@@ -3068,10 +3068,10 @@
         "library": [
           {
             "id": 19,
-            "name": "Frankfurt, Universitatsbibliothek",
+            "name": "Frankfurt",
             "jad_id": "jad_library__19",
             "gnd_url": "",
-            "abbreviation": "Frankfurt",
+            "full_name": "Frankfurt, Universitatsbibliothek",
             "place": []
           }
         ],
@@ -3085,11 +3085,11 @@
             "value": "early 13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 19,
-            "value": "Frankfurt"
+            "value": "Frankfurt, Universitatsbibliothek"
           }
         ],
         "view_label": "Frankfurt, Barth. 56",
@@ -3106,19 +3106,19 @@
   },
   "20": {
     "id": 20,
-    "name": "Sankt-Florian, Stiftsbibliothek",
+    "name": "Sankt-Florian",
     "jad_id": "jad_library__20",
     "gnd_url": "",
-    "abbreviation": "Sankt-Florian",
+    "full_name": "Sankt-Florian, Stiftsbibliothek",
     "place": [],
-    "view_label": "Sankt-Florian, Stiftsbibliothek",
+    "view_label": "Sankt-Florian",
     "prev": {
       "id": "jad_library__2",
-      "label": "Bibliothèque Nationale de France"
+      "label": "BNF"
     },
     "next": {
       "id": "jad_library__21",
-      "label": "Linz, Oberösterreichische Landesbibliothek"
+      "label": "Linz"
     },
     "related__manuscripts": [
       {
@@ -3133,10 +3133,10 @@
         "library": [
           {
             "id": 20,
-            "name": "Sankt-Florian, Stiftsbibliothek",
+            "name": "Sankt-Florian",
             "jad_id": "jad_library__20",
             "gnd_url": "",
-            "abbreviation": "Sankt-Florian",
+            "full_name": "Sankt-Florian, Stiftsbibliothek",
             "place": []
           }
         ],
@@ -3145,11 +3145,11 @@
         "digi_url": "",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 20,
-            "value": "Sankt-Florian"
+            "value": "Sankt-Florian, Stiftsbibliothek"
           }
         ],
         "view_label": "Sankt-Florian, MS XI 216",
@@ -3166,19 +3166,19 @@
   },
   "21": {
     "id": 21,
-    "name": "Linz, Oberösterreichische Landesbibliothek",
+    "name": "Linz",
     "jad_id": "jad_library__21",
     "gnd_url": "",
-    "abbreviation": "Linz",
+    "full_name": "Linz, Oberösterreichische Landesbibliothek",
     "place": [],
-    "view_label": "Linz, Oberösterreichische Landesbibliothek",
+    "view_label": "Linz",
     "prev": {
       "id": "jad_library__20",
-      "label": "Sankt-Florian, Stiftsbibliothek"
+      "label": "Sankt-Florian"
     },
     "next": {
       "id": "jad_library__22",
-      "label": "Hamburg, Stadt- und Universitatsbibliothek"
+      "label": "Hamburg"
     },
     "related__manuscripts": [
       {
@@ -3193,10 +3193,10 @@
         "library": [
           {
             "id": 21,
-            "name": "Linz, Oberösterreichische Landesbibliothek",
+            "name": "Linz",
             "jad_id": "jad_library__21",
             "gnd_url": "",
-            "abbreviation": "Linz",
+            "full_name": "Linz, Oberösterreichische Landesbibliothek",
             "place": []
           }
         ],
@@ -3205,11 +3205,11 @@
         "digi_url": "https://digi.landesbibliothek.at/viewer/image/488/1/LOG_0001/",
         "institutional_context": [],
         "date_written": [],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 21,
-            "value": "Linz"
+            "value": "Linz, Oberösterreichische Landesbibliothek"
           }
         ],
         "view_label": "Linz, MS 488",
@@ -3226,19 +3226,19 @@
   },
   "22": {
     "id": 22,
-    "name": "Hamburg, Stadt- und Universitatsbibliothek",
+    "name": "Hamburg",
     "jad_id": "jad_library__22",
     "gnd_url": "",
-    "abbreviation": "Hamburg",
+    "full_name": "Hamburg, Stadt- und Universitatsbibliothek",
     "place": [],
-    "view_label": "Hamburg, Stadt- und Universitatsbibliothek",
+    "view_label": "Hamburg",
     "prev": {
       "id": "jad_library__21",
-      "label": "Linz, Oberösterreichische Landesbibliothek"
+      "label": "Linz"
     },
     "next": {
       "id": "jad_library__23",
-      "label": "Trinity College"
+      "label": "Trinity Coll."
     },
     "related__manuscripts": [
       {
@@ -3253,10 +3253,10 @@
         "library": [
           {
             "id": 22,
-            "name": "Hamburg, Stadt- und Universitatsbibliothek",
+            "name": "Hamburg",
             "jad_id": "jad_library__22",
             "gnd_url": "",
-            "abbreviation": "Hamburg",
+            "full_name": "Hamburg, Stadt- und Universitatsbibliothek",
             "place": []
           }
         ],
@@ -3270,11 +3270,11 @@
             "value": "late 13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 22,
-            "value": "Hamburg"
+            "value": "Hamburg, Stadt- und Universitatsbibliothek"
           }
         ],
         "view_label": "Hamburg, Jacobi 21",
@@ -3291,26 +3291,26 @@
   },
   "23": {
     "id": 23,
-    "name": "Trinity College",
+    "name": "Trinity Coll.",
     "jad_id": "jad_library__23",
     "gnd_url": "",
-    "abbreviation": "Trinity Coll.",
+    "full_name": "Trinity College",
     "place": [
       {
         "id": 7,
         "name": "Cambridge",
-        "geonames_url": "",
+        "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
         "jad_id": "jad_places__7"
       }
     ],
-    "view_label": "Trinity College",
+    "view_label": "Trinity Coll.",
     "prev": {
       "id": "jad_library__22",
-      "label": "Hamburg, Stadt- und Universitatsbibliothek"
+      "label": "Hamburg"
     },
     "next": {
       "id": "jad_library__3",
-      "label": "San Isidoro (Kloster)"
+      "label": "San Isidoro"
     },
     "related__manuscripts": [
       {
@@ -3325,15 +3325,15 @@
         "library": [
           {
             "id": 23,
-            "name": "Trinity College",
+            "name": "Trinity Coll.",
             "jad_id": "jad_library__23",
             "gnd_url": "",
-            "abbreviation": "Trinity Coll.",
+            "full_name": "Trinity College",
             "place": [
               {
                 "id": 7,
                 "name": "Cambridge",
-                "geonames_url": "",
+                "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
                 "jad_id": "jad_places__7"
               }
             ]
@@ -3349,11 +3349,11 @@
             "value": "13th cen."
           }
         ],
-        "Format (Höhe x Breite / Anzahl folios)": null,
-        "library_abb": [
+        "format": null,
+        "library_full": [
           {
             "id": 23,
-            "value": "Trinity Coll."
+            "value": "Trinity College"
           }
         ],
         "view_label": "Trinity Coll., B.14.43",
@@ -3363,7 +3363,7 @@
         },
         "next": {
           "id": "jad_manuscript__5",
-          "label": "St.Gen., MS 1423"
+          "label": "St. Gen., MS 1423"
         }
       }
     ]
