@@ -3816,10 +3816,22 @@
     "id": 94,
     "order": "93.00000000000000000000",
     "jad_id": "jad_occurence__94",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 558,
+        "value": "hunc ergo locum quo pro vestris meritis amistis",
+        "order": "547.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 53,
+        "value": "St. Gallen, Cod. Sang. 280",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "344-345",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -3830,17 +3842,37 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-20",
-    "ms_locus": []
+    "last_modified_on": "2025-01-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 53,
+          "database_table_3497": 25
+        },
+        "value": "St. Gallen, Cod. Sang. 280, f. 344-345"
+      }
+    ]
   },
   "95": {
     "id": 95,
     "order": "94.00000000000000000000",
     "jad_id": "jad_occurence__95",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 559,
+        "value": "non ad babylonicam captivitatis referenda tempus, sed ultima romanorum",
+        "order": "548.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 54,
+        "value": "Bern, Cod. 344",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "13r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -3851,7 +3883,77 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-20",
+    "last_modified_on": "2025-01-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 54,
+          "database_table_3497": 26
+        },
+        "value": "Bern, Cod. 344, f. 13r"
+      }
+    ]
+  },
+  "96": {
+    "id": 96,
+    "order": "95.00000000000000000000",
+    "jad_id": "jad_occurence__96",
+    "occurrence": [
+      {
+        "id": 560,
+        "value": "eos romanus cinxit exercitus",
+        "order": "549.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 54,
+        "value": "Bern, Cod. 344",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "53v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 54,
+          "database_table_3497": 26
+        },
+        "value": "Bern, Cod. 344, f. 53v"
+      }
+    ]
+  },
+  "97": {
+    "id": 97,
+    "order": "96.00000000000000000000",
+    "jad_id": "jad_occurence__97",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-22",
     "ms_locus": []
   }
 }

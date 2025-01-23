@@ -214,8 +214,8 @@
         ],
         "view_label": "BNF, Latin 492",
         "prev": {
-          "id": "jad_manuscript__52",
-          "label": "BNF, Latin 2493"
+          "id": "jad_manuscript__56",
+          "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
           "id": "jad_manuscript__7",
@@ -977,8 +977,8 @@
     "part_of": [],
     "view_label": "Benedictines",
     "prev": {
-      "id": "jad_institutional_context__20",
-      "label": "Benedictines Mondsee"
+      "id": "jad_institutional_context__21",
+      "label": "Benedictines Reichenau"
     },
     "next": {
       "id": "jad_institutional_context__4",
@@ -1135,7 +1135,7 @@
             "id": 3,
             "name": "San Isidoro",
             "jad_id": "jad_library__3",
-            "gnd_url": "",
+            "gnd_url": "https://d-nb.info/gnd/4366218-3",
             "full_name": "San Isidoro (Kloster)",
             "place": [
               {
@@ -1574,8 +1574,8 @@
       "label": "Benedictines Auxerre"
     },
     "next": {
-      "id": "jad_institutional_context__3",
-      "label": "Benedictines"
+      "id": "jad_institutional_context__21",
+      "label": "Benedictines Reichenau"
     },
     "related__manuscripts": [
       {
@@ -1708,5 +1708,28 @@
         }
       }
     ]
+  },
+  "21": {
+    "id": 21,
+    "name": "Benedictines Reichenau",
+    "jad_id": "jad_institutional_context__21",
+    "part_of": [
+      {
+        "id": 3,
+        "name": "Benedictines",
+        "jad_id": "jad_institutional_context__3",
+        "part_of": []
+      }
+    ],
+    "view_label": "Benedictines Reichenau",
+    "prev": {
+      "id": "jad_institutional_context__20",
+      "label": "Benedictines Mondsee"
+    },
+    "next": {
+      "id": "jad_institutional_context__3",
+      "label": "Benedictines"
+    },
+    "related__manuscripts": []
   }
 }

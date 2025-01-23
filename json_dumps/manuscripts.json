@@ -1839,5 +1839,105 @@
         "value": "Bibliothèque Nationale de France"
       }
     ]
+  },
+  "53": {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "name": [
+      {
+        "id": 25,
+        "value": "St. Gallen, Cod. Sang. 280"
+      }
+    ],
+    "jad_id": "jad_manuscript__53",
+    "library": [
+      {
+        "id": 25,
+        "value": "St. Gallen",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "idno": "Cod. Sang. 280",
+    "catalog_url": "http://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0280",
+    "digi_url": "http://www.e-codices.unifr.ch/en/csg/0280/3",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 8,
+        "value": "late 9th cen.",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "format": "30 x 21, 434 pp.",
+    "library_full": [
+      {
+        "id": 25,
+        "value": "Stiftsbibliothek St. Gallen"
+      }
+    ]
+  },
+  "54": {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "name": [
+      {
+        "id": 26,
+        "value": "Bern, Cod. 344"
+      }
+    ],
+    "jad_id": "jad_manuscript__54",
+    "library": [
+      {
+        "id": 26,
+        "value": "Bern",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "idno": "Cod. 344",
+    "catalog_url": "https://www.e-codices.unifr.ch/en/searchresult/list/one/bbb/0344",
+    "digi_url": "https://www.e-codices.unifr.ch/en/bbb/0344/1v",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 19,
+        "value": "around 900",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "format": "24 x 22, 143 ff.",
+    "library_full": [
+      {
+        "id": 26,
+        "value": "Bern, Burgerbibliothek"
+      }
+    ]
+  },
+  "55": {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__55",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "56": {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__56",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
   }
 }

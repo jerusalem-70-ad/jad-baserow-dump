@@ -38,7 +38,7 @@
     ],
     "view_label": "Ihesus Christus cum predixisset discipulis suis scicitantibus signa eversionis Ierusalem",
     "prev": {
-      "id": "jad_occurence__95",
+      "id": "jad_occurence__97",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
@@ -4367,16 +4367,26 @@
     },
     "next": {
       "id": "jad_occurence__94",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "hunc ergo locum quo pro vestris meritis amistis"
     }
   },
   "94": {
     "id": 94,
     "jad_id": "jad_occurence__94",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 558,
+        "value": "hunc ergo locum quo pro vestris meritis amistis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 53,
+        "value": "St. Gallen, Cod. Sang. 280"
+      }
+    ],
+    "position_in_ms": "344-345",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -4387,25 +4397,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-01-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 53,
+          "database_table_3497": 25
+        },
+        "value": "St. Gallen, Cod. Sang. 280, f. 344-345"
+      }
+    ],
+    "view_label": "hunc ergo locum quo pro vestris meritis amistis",
     "prev": {
       "id": "jad_occurence__93",
       "label": "Ierusalem significet romano exercitu circumdatam"
     },
     "next": {
       "id": "jad_occurence__95",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "non ad babylonicam captivitatis referenda tempus, sed ultima romanorum"
     }
   },
   "95": {
     "id": 95,
     "jad_id": "jad_occurence__95",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 559,
+        "value": "non ad babylonicam captivitatis referenda tempus, sed ultima romanorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 54,
+        "value": "Bern, Cod. 344"
+      }
+    ],
+    "position_in_ms": "13r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -4416,12 +4444,96 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-20",
+    "last_modified_on": "2025-01-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 54,
+          "database_table_3497": 26
+        },
+        "value": "Bern, Cod. 344, f. 13r"
+      }
+    ],
+    "view_label": "non ad babylonicam captivitatis referenda tempus, sed ultima romanorum",
+    "prev": {
+      "id": "jad_occurence__94",
+      "label": "hunc ergo locum quo pro vestris meritis amistis"
+    },
+    "next": {
+      "id": "jad_occurence__96",
+      "label": "eos romanus cinxit exercitus"
+    }
+  },
+  "96": {
+    "id": 96,
+    "jad_id": "jad_occurence__96",
+    "occurrence": [
+      {
+        "id": 560,
+        "value": "eos romanus cinxit exercitus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 54,
+        "value": "Bern, Cod. 344"
+      }
+    ],
+    "position_in_ms": "53v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 54,
+          "database_table_3497": 26
+        },
+        "value": "Bern, Cod. 344, f. 53v"
+      }
+    ],
+    "view_label": "eos romanus cinxit exercitus",
+    "prev": {
+      "id": "jad_occurence__95",
+      "label": "non ad babylonicam captivitatis referenda tempus, sed ultima romanorum"
+    },
+    "next": {
+      "id": "jad_occurence__97",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "97": {
+    "id": 97,
+    "jad_id": "jad_occurence__97",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-22",
     "ms_locus": [],
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
-      "id": "jad_occurence__94",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "id": "jad_occurence__96",
+      "label": "eos romanus cinxit exercitus"
     },
     "next": {
       "id": "jad_occurence__1",

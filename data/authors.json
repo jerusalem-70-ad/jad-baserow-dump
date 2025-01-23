@@ -1349,12 +1349,12 @@
         "incipit": null,
         "view_label": "Commentary Daniel ",
         "prev": {
-          "id": "jad_work__211",
-          "label": "Commentary Pentateuch "
+          "id": "jad_work__219",
+          "label": " "
         },
         "next": {
-          "id": "jad_work__23",
-          "label": "Sermones "
+          "id": "jad_work__220",
+          "label": "Commentary Hosea "
         }
       }
     ]
@@ -2981,8 +2981,8 @@
     "notes": "",
     "view_label": "Petrus, Comestor",
     "prev": {
-      "id": "jad_author__80",
-      "label": "Rainaldus, Parisiensis"
+      "id": "jad_author__85",
+      "label": ""
     },
     "next": {
       "id": "jad_author__1",
@@ -3812,8 +3812,8 @@
         "incipit": null,
         "view_label": "Sermones ",
         "prev": {
-          "id": "jad_work__22",
-          "label": "Commentary Daniel "
+          "id": "jad_work__221",
+          "label": "De situ locorum "
         },
         "next": {
           "id": "jad_work__24",
@@ -7989,6 +7989,119 @@
         "next": {
           "id": "jad_work__17",
           "label": "Homiliae super evangelia "
+        }
+      },
+      {
+        "id": 218,
+        "name": "Commentary Job ",
+        "jad_id": "jad_work__218",
+        "author": [
+          {
+            "id": 27,
+            "name": "Hieronymus, Sophronius Eusebius",
+            "jad_id": "jad_author__27",
+            "gnd_url": "https://d-nb.info/gnd/118550853",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Job",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "incipit": "",
+        "view_label": "Commentary Job ",
+        "prev": {
+          "id": "jad_work__217",
+          "label": "Sententiae epistolarum beati Pauli apostoli a sancto Hieronimo presbitero "
+        },
+        "next": {
+          "id": "jad_work__219",
+          "label": " "
+        }
+      },
+      {
+        "id": 220,
+        "name": "Commentary Hosea ",
+        "jad_id": "jad_work__220",
+        "author": [
+          {
+            "id": 27,
+            "name": "Hieronymus, Sophronius Eusebius",
+            "jad_id": "jad_author__27",
+            "gnd_url": "https://d-nb.info/gnd/118550853",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Hosea",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "incipit": "",
+        "view_label": "Commentary Hosea ",
+        "prev": {
+          "id": "jad_work__22",
+          "label": "Commentary Daniel "
+        },
+        "next": {
+          "id": "jad_work__221",
+          "label": "De situ locorum "
+        }
+      },
+      {
+        "id": 221,
+        "name": "De situ locorum ",
+        "jad_id": "jad_work__221",
+        "author": [
+          {
+            "id": 27,
+            "name": "Hieronymus, Sophronius Eusebius",
+            "jad_id": "jad_author__27",
+            "gnd_url": "https://d-nb.info/gnd/118550853",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "De situ locorum",
+        "genre": null,
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "incipit": "",
+        "view_label": "De situ locorum ",
+        "prev": {
+          "id": "jad_work__220",
+          "label": "Commentary Hosea "
+        },
+        "next": {
+          "id": "jad_work__23",
+          "label": "Sermones "
         }
       }
     ]
@@ -13047,8 +13160,8 @@
       "label": "Hugh, of Saint-Cher"
     },
     "next": {
-      "id": "jad_author__9",
-      "label": "Petrus, Comestor"
+      "id": "jad_author__81",
+      "label": "William, of Bourges"
     },
     "related__works": [
       {
@@ -13173,10 +13286,412 @@
           "label": "Commentary Isaiah "
         },
         "next": {
-          "id": "jad_work__22",
-          "label": "Commentary Daniel "
+          "id": "jad_work__212",
+          "label": "Liber bellorum Domini "
         }
       }
     ]
+  },
+  "81": {
+    "id": 81,
+    "name": "William, of Bourges",
+    "jad_id": "jad_author__81",
+    "gnd_url": "https://d-nb.info/gnd/1089602456",
+    "notes": "",
+    "view_label": "William, of Bourges",
+    "prev": {
+      "id": "jad_author__80",
+      "label": "Rainaldus, Parisiensis"
+    },
+    "next": {
+      "id": "jad_author__82",
+      "label": "Walafrid, Strabo"
+    },
+    "related__works": [
+      {
+        "id": 212,
+        "name": "Liber bellorum Domini ",
+        "jad_id": "jad_work__212",
+        "author": [
+          {
+            "id": 81,
+            "name": "William, of Bourges",
+            "jad_id": "jad_author__81",
+            "gnd_url": "https://d-nb.info/gnd/1089602456",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Liber bellorum Domini",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 8,
+            "name": "Sources Chrétiennes",
+            "jad_id": "jad_sources_occurrences__8",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 9,
+            "value": "around 1200"
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "incipit": "",
+        "view_label": "Liber bellorum Domini ",
+        "prev": {
+          "id": "jad_work__211",
+          "label": "Commentary Pentateuch "
+        },
+        "next": {
+          "id": "jad_work__213",
+          "label": "De subversione Jerusalem "
+        }
+      }
+    ]
+  },
+  "82": {
+    "id": 82,
+    "name": "Walafrid, Strabo",
+    "jad_id": "jad_author__82",
+    "gnd_url": "https://d-nb.info/gnd/118628550",
+    "notes": "",
+    "view_label": "Walafrid, Strabo",
+    "prev": {
+      "id": "jad_author__81",
+      "label": "William, of Bourges"
+    },
+    "next": {
+      "id": "jad_author__83",
+      "label": "Otfrid of Weißenburg"
+    },
+    "related__works": [
+      {
+        "id": 213,
+        "name": "De subversione Jerusalem ",
+        "jad_id": "jad_work__213",
+        "author": [
+          {
+            "id": 82,
+            "name": "Walafrid, Strabo",
+            "jad_id": "jad_author__82",
+            "gnd_url": "https://d-nb.info/gnd/118628550",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "De subversione Jerusalem",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 21,
+            "name": "Benedictines Reichenau",
+            "jad_id": "jad_institutional_context__21",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 7,
+            "value": "mid 9th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "incipit": "",
+        "view_label": "De subversione Jerusalem ",
+        "prev": {
+          "id": "jad_work__212",
+          "label": "Liber bellorum Domini "
+        },
+        "next": {
+          "id": "jad_work__214",
+          "label": "Epitome Commentariorum Rabani in Leviticum "
+        }
+      },
+      {
+        "id": 214,
+        "name": "Epitome Commentariorum Rabani in Leviticum ",
+        "jad_id": "jad_work__214",
+        "author": [
+          {
+            "id": 82,
+            "name": "Walafrid, Strabo",
+            "jad_id": "jad_author__82",
+            "gnd_url": "https://d-nb.info/gnd/118628550",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Epitome Commentariorum Rabani in Leviticum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 21,
+            "name": "Benedictines Reichenau",
+            "jad_id": "jad_institutional_context__21",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 7,
+            "value": "mid 9th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "incipit": "",
+        "view_label": "Epitome Commentariorum Rabani in Leviticum ",
+        "prev": {
+          "id": "jad_work__213",
+          "label": "De subversione Jerusalem "
+        },
+        "next": {
+          "id": "jad_work__215",
+          "label": "Glossae in Matthaeum "
+        }
+      }
+    ]
+  },
+  "83": {
+    "id": 83,
+    "name": "Otfrid of Weißenburg",
+    "jad_id": "jad_author__83",
+    "gnd_url": "https://d-nb.info/gnd/118590669",
+    "notes": "",
+    "view_label": "Otfrid of Weißenburg",
+    "prev": {
+      "id": "jad_author__82",
+      "label": "Walafrid, Strabo"
+    },
+    "next": {
+      "id": "jad_author__84",
+      "label": "Florus of Lyon"
+    },
+    "related__works": [
+      {
+        "id": 215,
+        "name": "Glossae in Matthaeum ",
+        "jad_id": "jad_work__215",
+        "author": [
+          {
+            "id": 83,
+            "name": "Otfrid of Weißenburg",
+            "jad_id": "jad_author__83",
+            "gnd_url": "https://d-nb.info/gnd/118590669",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Glossae in Matthaeum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 7,
+            "value": "mid 9th cen."
+          }
+        ],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "incipit": "",
+        "view_label": "Glossae in Matthaeum ",
+        "prev": {
+          "id": "jad_work__214",
+          "label": "Epitome Commentariorum Rabani in Leviticum "
+        },
+        "next": {
+          "id": "jad_work__216",
+          "label": "Collectanea ex Augustino in epistolas Pauli "
+        }
+      }
+    ]
+  },
+  "84": {
+    "id": 84,
+    "name": "Florus of Lyon",
+    "jad_id": "jad_author__84",
+    "gnd_url": "https://d-nb.info/gnd/100941370",
+    "notes": "",
+    "view_label": "Florus of Lyon",
+    "prev": {
+      "id": "jad_author__83",
+      "label": "Otfrid of Weißenburg"
+    },
+    "next": {
+      "id": "jad_author__85",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 216,
+        "name": "Collectanea ex Augustino in epistolas Pauli ",
+        "jad_id": "jad_work__216",
+        "author": [
+          {
+            "id": 84,
+            "name": "Florus of Lyon",
+            "jad_id": "jad_author__84",
+            "gnd_url": "https://d-nb.info/gnd/100941370",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 53,
+            "value": "St. Gallen, Cod. Sang. 280"
+          }
+        ],
+        "title": "Collectanea ex Augustino in epistolas Pauli",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "incipit": "",
+        "view_label": "Collectanea ex Augustino in epistolas Pauli ",
+        "prev": {
+          "id": "jad_work__215",
+          "label": "Glossae in Matthaeum "
+        },
+        "next": {
+          "id": "jad_work__217",
+          "label": "Sententiae epistolarum beati Pauli apostoli a sancto Hieronimo presbitero "
+        }
+      },
+      {
+        "id": 217,
+        "name": "Sententiae epistolarum beati Pauli apostoli a sancto Hieronimo presbitero ",
+        "jad_id": "jad_work__217",
+        "author": [
+          {
+            "id": 84,
+            "name": "Florus of Lyon",
+            "jad_id": "jad_author__84",
+            "gnd_url": "https://d-nb.info/gnd/100941370",
+            "notes": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 54,
+            "value": "Bern, Cod. 344"
+          }
+        ],
+        "title": "Sententiae epistolarum beati Pauli apostoli a sancto Hieronimo presbitero",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [],
+        "corpus_corporum": "",
+        "author_certainty": true,
+        "incipit": "",
+        "view_label": "Sententiae epistolarum beati Pauli apostoli a sancto Hieronimo presbitero ",
+        "prev": {
+          "id": "jad_work__216",
+          "label": "Collectanea ex Augustino in epistolas Pauli "
+        },
+        "next": {
+          "id": "jad_work__218",
+          "label": "Commentary Job "
+        }
+      }
+    ]
+  },
+  "85": {
+    "id": 85,
+    "name": "",
+    "jad_id": "jad_author__85",
+    "gnd_url": "",
+    "notes": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__84",
+      "label": "Florus of Lyon"
+    },
+    "next": {
+      "id": "jad_author__9",
+      "label": "Petrus, Comestor"
+    },
+    "related__works": []
   }
 }
