@@ -36,8 +36,8 @@
     "description": "Palm Sunday (In ramis palmarum), the Sunday before Easter.",
     "view_label": "Palm Sunday",
     "prev": {
-      "id": "jad_liturgical_reference__26",
-      "label": "II Sunday Advent"
+      "id": "jad_liturgical_reference__27",
+      "label": "II Sunday after Holy Trinity"
     },
     "next": {
       "id": "jad_liturgical_reference__4",
@@ -383,6 +383,21 @@
     "prev": {
       "id": "jad_liturgical_reference__25",
       "label": "Non-liturgical title"
+    },
+    "next": {
+      "id": "jad_liturgical_reference__27",
+      "label": "II Sunday after Holy Trinity"
+    }
+  },
+  "27": {
+    "id": 27,
+    "name": "II Sunday after Holy Trinity",
+    "jad_id": "jad_liturgical_reference__27",
+    "description": "",
+    "view_label": "II Sunday after Holy Trinity",
+    "prev": {
+      "id": "jad_liturgical_reference__26",
+      "label": "II Sunday Advent"
     },
     "next": {
       "id": "jad_liturgical_reference__3",

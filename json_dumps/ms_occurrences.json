@@ -3939,10 +3939,22 @@
     "id": 97,
     "order": "96.00000000000000000000",
     "jad_id": "jad_occurence__97",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 550,
+        "value": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis",
+        "order": "539.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 55,
+        "value": "St. Gallen, Cod. Sang. 565",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "158-171",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -3953,7 +3965,36 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-22",
+    "last_modified_on": "2025-01-23",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 55,
+          "database_table_3497": 25
+        },
+        "value": "St. Gallen, Cod. Sang. 565, f. 158-171"
+      }
+    ]
+  },
+  "98": {
+    "id": 98,
+    "order": "97.00000000000000000000",
+    "jad_id": "jad_occurence__98",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-23",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-23",
     "ms_locus": []
   }
 }

@@ -1915,22 +1915,122 @@
   "55": {
     "id": 55,
     "order": "55.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 25,
+        "value": "St. Gallen, Cod. Sang. 565"
+      }
+    ],
     "jad_id": "jad_manuscript__55",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
-    "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": []
+    "library": [
+      {
+        "id": 25,
+        "value": "St. Gallen",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "idno": "Cod. Sang. 565",
+    "catalog_url": "https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0565",
+    "digi_url": "https://www.e-codices.unifr.ch/en/csg/0565/158",
+    "institutional_context": [
+      {
+        "id": 21,
+        "value": "Benedictines Reichenau",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "date_written": [
+      {
+        "id": 50,
+        "value": "10th cen.",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "format": "25 x 17, 502 pp.",
+    "library_full": [
+      {
+        "id": 25,
+        "value": "Stiftsbibliothek St. Gallen"
+      }
+    ]
   },
   "56": {
     "id": 56,
     "order": "56.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 27,
+        "value": "Karlsruhe, Aug. perg. 208"
+      }
+    ],
     "jad_id": "jad_manuscript__56",
+    "library": [
+      {
+        "id": 27,
+        "value": "Karlsruhe",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "idno": "Aug. perg. 208",
+    "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-efe8cccc-ecbf-3617-8afe-75523432ea16&q=Karlsruhe+Aug.+perg.+208&hl=true&fq=%7B%22settlement-facet%22%3A%5B%22Karlsruhe%22%5D%7D",
+    "digi_url": "https://handschriftenportal.de/search?hspobjectid=HSP-efe8cccc-ecbf-3617-8afe-75523432ea16&q=Karlsruhe+Aug.+perg.+208&hl=true&fq=%7B%22settlement-facet%22%3A%5B%22Karlsruhe%22%5D%7D",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 19,
+        "value": "around 900",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "format": "25 x 19, 74 ff.",
+    "library_full": [
+      {
+        "id": 27,
+        "value": "Karlsruhe, Badische Landesbibliothek"
+      }
+    ]
+  },
+  "57": {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "name": [
+      {
+        "id": 26,
+        "value": "Bern, Cod. 258"
+      }
+    ],
+    "jad_id": "jad_manuscript__57",
+    "library": [
+      {
+        "id": 26,
+        "value": "Bern",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "idno": "Cod. 258",
+    "catalog_url": "https://www.e-codices.unifr.ch/en/searchresult/list/one/bbb/0258",
+    "digi_url": "https://www.e-codices.unifr.ch/en/bbb/0258/1r",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 16,
+        "value": "9th cen., second half",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "format": "27 x 19, 192 ff.",
+    "library_full": [
+      {
+        "id": 26,
+        "value": "Bern, Burgerbibliothek"
+      }
+    ]
+  },
+  "58": {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__58",
     "library": [],
     "idno": "",
     "catalog_url": "",

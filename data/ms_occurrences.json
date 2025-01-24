@@ -38,7 +38,7 @@
     ],
     "view_label": "Ihesus Christus cum predixisset discipulis suis scicitantibus signa eversionis Ierusalem",
     "prev": {
-      "id": "jad_occurence__97",
+      "id": "jad_occurence__98",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
@@ -4508,16 +4508,26 @@
     },
     "next": {
       "id": "jad_occurence__97",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis"
     }
   },
   "97": {
     "id": 97,
     "jad_id": "jad_occurence__97",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 550,
+        "value": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 55,
+        "value": "St. Gallen, Cod. Sang. 565"
+      }
+    ],
+    "position_in_ms": "158-171",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -4528,12 +4538,49 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-22",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-01-23",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 55,
+          "database_table_3497": 25
+        },
+        "value": "St. Gallen, Cod. Sang. 565, f. 158-171"
+      }
+    ],
+    "view_label": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis",
     "prev": {
       "id": "jad_occurence__96",
       "label": "eos romanus cinxit exercitus"
+    },
+    "next": {
+      "id": "jad_occurence__98",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "98": {
+    "id": 98,
+    "jad_id": "jad_occurence__98",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-01-23",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-01-23",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__97",
+      "label": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis"
     },
     "next": {
       "id": "jad_occurence__1",

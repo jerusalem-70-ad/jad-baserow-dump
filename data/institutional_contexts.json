@@ -214,7 +214,7 @@
         ],
         "view_label": "BNF, Latin 492",
         "prev": {
-          "id": "jad_manuscript__56",
+          "id": "jad_manuscript__58",
           "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
@@ -1730,6 +1730,67 @@
       "id": "jad_institutional_context__3",
       "label": "Benedictines"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 55,
+        "name": [
+          {
+            "id": 25,
+            "value": "St. Gallen, Cod. Sang. 565"
+          }
+        ],
+        "jad_id": "jad_manuscript__55",
+        "library": [
+          {
+            "id": 25,
+            "name": "St. Gallen",
+            "jad_id": "jad_library__25",
+            "gnd_url": "https://d-nb.info/gnd/2089619-0",
+            "full_name": "Stiftsbibliothek St. Gallen",
+            "place": []
+          }
+        ],
+        "idno": "Cod. Sang. 565",
+        "catalog_url": "https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0565",
+        "digi_url": "https://www.e-codices.unifr.ch/en/csg/0565/158",
+        "institutional_context": [
+          {
+            "id": 21,
+            "name": "Benedictines Reichenau",
+            "jad_id": "jad_institutional_context__21",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "date_written": [
+          {
+            "id": 50,
+            "value": "10th cen."
+          }
+        ],
+        "format": "25 x 17, 502 pp.",
+        "library_full": [
+          {
+            "id": 25,
+            "value": "Stiftsbibliothek St. Gallen"
+          }
+        ],
+        "view_label": "St. Gallen, Cod. Sang. 565",
+        "prev": {
+          "id": "jad_manuscript__54",
+          "label": "Bern, Cod. 344"
+        },
+        "next": {
+          "id": "jad_manuscript__56",
+          "label": "Karlsruhe, Aug. perg. 208"
+        }
+      }
+    ]
   }
 }

@@ -352,7 +352,7 @@
         ],
         "view_label": "BNF, Latin 492",
         "prev": {
-          "id": "jad_manuscript__56",
+          "id": "jad_manuscript__58",
           "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
@@ -1203,8 +1203,8 @@
     ],
     "view_label": "San Isidoro",
     "prev": {
-      "id": "jad_library__26",
-      "label": "Bern"
+      "id": "jad_library__27",
+      "label": "Karlsruhe"
     },
     "next": {
       "id": "jad_library__4",
@@ -3430,6 +3430,66 @@
           "id": "jad_manuscript__54",
           "label": "Bern, Cod. 344"
         }
+      },
+      {
+        "id": 55,
+        "name": [
+          {
+            "id": 25,
+            "value": "St. Gallen, Cod. Sang. 565"
+          }
+        ],
+        "jad_id": "jad_manuscript__55",
+        "library": [
+          {
+            "id": 25,
+            "name": "St. Gallen",
+            "jad_id": "jad_library__25",
+            "gnd_url": "https://d-nb.info/gnd/2089619-0",
+            "full_name": "Stiftsbibliothek St. Gallen",
+            "place": []
+          }
+        ],
+        "idno": "Cod. Sang. 565",
+        "catalog_url": "https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0565",
+        "digi_url": "https://www.e-codices.unifr.ch/en/csg/0565/158",
+        "institutional_context": [
+          {
+            "id": 21,
+            "name": "Benedictines Reichenau",
+            "jad_id": "jad_institutional_context__21",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "date_written": [
+          {
+            "id": 50,
+            "value": "10th cen."
+          }
+        ],
+        "format": "25 x 17, 502 pp.",
+        "library_full": [
+          {
+            "id": 25,
+            "value": "Stiftsbibliothek St. Gallen"
+          }
+        ],
+        "view_label": "St. Gallen, Cod. Sang. 565",
+        "prev": {
+          "id": "jad_manuscript__54",
+          "label": "Bern, Cod. 344"
+        },
+        "next": {
+          "id": "jad_manuscript__56",
+          "label": "Karlsruhe, Aug. perg. 208"
+        }
       }
     ]
   },
@@ -3446,8 +3506,8 @@
       "label": "St. Gallen"
     },
     "next": {
-      "id": "jad_library__3",
-      "label": "San Isidoro"
+      "id": "jad_library__27",
+      "label": "Karlsruhe"
     },
     "related__manuscripts": [
       {
@@ -3493,7 +3553,118 @@
         },
         "next": {
           "id": "jad_manuscript__55",
+          "label": "St. Gallen, Cod. Sang. 565"
+        }
+      },
+      {
+        "id": 57,
+        "name": [
+          {
+            "id": 26,
+            "value": "Bern, Cod. 258"
+          }
+        ],
+        "jad_id": "jad_manuscript__57",
+        "library": [
+          {
+            "id": 26,
+            "name": "Bern",
+            "jad_id": "jad_library__26",
+            "gnd_url": "https://d-nb.info/gnd/2006797-5",
+            "full_name": "Bern, Burgerbibliothek",
+            "place": []
+          }
+        ],
+        "idno": "Cod. 258",
+        "catalog_url": "https://www.e-codices.unifr.ch/en/searchresult/list/one/bbb/0258",
+        "digi_url": "https://www.e-codices.unifr.ch/en/bbb/0258/1r",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 16,
+            "value": "9th cen., second half"
+          }
+        ],
+        "format": "27 x 19, 192 ff.",
+        "library_full": [
+          {
+            "id": 26,
+            "value": "Bern, Burgerbibliothek"
+          }
+        ],
+        "view_label": "Bern, Cod. 258",
+        "prev": {
+          "id": "jad_manuscript__56",
+          "label": "Karlsruhe, Aug. perg. 208"
+        },
+        "next": {
+          "id": "jad_manuscript__58",
           "label": "NO MATCH FOR $..name[0].value"
+        }
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "name": "Karlsruhe",
+    "jad_id": "jad_library__27",
+    "gnd_url": "https://d-nb.info/gnd/2005707-6",
+    "full_name": "Karlsruhe, Badische Landesbibliothek",
+    "place": [],
+    "view_label": "Karlsruhe",
+    "prev": {
+      "id": "jad_library__26",
+      "label": "Bern"
+    },
+    "next": {
+      "id": "jad_library__3",
+      "label": "San Isidoro"
+    },
+    "related__manuscripts": [
+      {
+        "id": 56,
+        "name": [
+          {
+            "id": 27,
+            "value": "Karlsruhe, Aug. perg. 208"
+          }
+        ],
+        "jad_id": "jad_manuscript__56",
+        "library": [
+          {
+            "id": 27,
+            "name": "Karlsruhe",
+            "jad_id": "jad_library__27",
+            "gnd_url": "https://d-nb.info/gnd/2005707-6",
+            "full_name": "Karlsruhe, Badische Landesbibliothek",
+            "place": []
+          }
+        ],
+        "idno": "Aug. perg. 208",
+        "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-efe8cccc-ecbf-3617-8afe-75523432ea16&q=Karlsruhe+Aug.+perg.+208&hl=true&fq=%7B%22settlement-facet%22%3A%5B%22Karlsruhe%22%5D%7D",
+        "digi_url": "https://handschriftenportal.de/search?hspobjectid=HSP-efe8cccc-ecbf-3617-8afe-75523432ea16&q=Karlsruhe+Aug.+perg.+208&hl=true&fq=%7B%22settlement-facet%22%3A%5B%22Karlsruhe%22%5D%7D",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 19,
+            "value": "around 900"
+          }
+        ],
+        "format": "25 x 19, 74 ff.",
+        "library_full": [
+          {
+            "id": 27,
+            "value": "Karlsruhe, Badische Landesbibliothek"
+          }
+        ],
+        "view_label": "Karlsruhe, Aug. perg. 208",
+        "prev": {
+          "id": "jad_manuscript__55",
+          "label": "St. Gallen, Cod. Sang. 565"
+        },
+        "next": {
+          "id": "jad_manuscript__57",
+          "label": "Bern, Cod. 258"
         }
       }
     ]
