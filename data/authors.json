@@ -1069,6 +1069,54 @@
           "id": "jad_work__228",
           "label": "Expositio in Psalmos "
         }
+      },
+      {
+        "id": 234,
+        "name": "Inventio Patriarcharum ",
+        "jad_id": "jad_work__234",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Inventio Patriarcharum",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": null,
+        "view_label": "Inventio Patriarcharum ",
+        "prev": {
+          "id": "jad_work__233",
+          "label": "Glossae biblicae "
+        },
+        "next": {
+          "id": "jad_work__235",
+          "label": " "
+        }
       }
     ]
   },
@@ -12475,7 +12523,7 @@
         },
         "next": {
           "id": "jad_work__234",
-          "label": " "
+          "label": "Inventio Patriarcharum "
         }
       }
     ]

@@ -67797,34 +67797,87 @@
     },
     "next": {
       "id": "jad_occurence__615",
-      "label": ""
+      "label": "post usque ad tempus Titi et Vespasiani Romanorum"
     }
   },
   "615": {
     "id": 615,
-    "passage": "",
+    "passage": "post usque ad tempus Titi et Vespasiani Romanorum",
     "jad_id": "jad_occurence__615",
     "language": null,
     "position_in_work": "",
-    "text_paragraph": "",
-    "note": "",
+    "text_paragraph": "Dignum quippe erat ut de quibus summus sacerdos, id est Christus, nasciturus erat, 80 eos sacerdotes venerarentur et colerent, sicque sacerdotes Levitici generis usque\nad adventum Christi ibidem extitisse et post usque ad tempus Titi et Vespasiani Romanorum principum credimus consedisse.\nPredictis autem principibus regnantibus orta est non minima persecutio adversos impios Iudeos, in tantum, ut aut vix aut nullus in tota terra repromissionis posset 85 inveniri Iudeus qui vel alienigenis turpiter non venderetur vel ab illis gladio violenter trucidaretur, sicque factum est ut omnis Iudea redigeretur in solitudinem\nnec esset qui habitaret in ea, exceptis paucis fidelibus, qui propter metum incredulorum in montibus latitantes de radicibus erbarum vitam sustentabant, pauperes facti propter deum, ut ab ipso eternaliter ditari mererentur.",
+    "note": "Jay Rubenstein (University of Southern California)",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 234,
+        "name": "Inventio Patriarcharum ",
+        "jad_id": "jad_work__234",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Inventio Patriarcharum",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": null
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 11,
+        "value": "Personal hint"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 234
+        },
+        "value": "anonymous"
+      }
+    ],
     "source_passage": [],
     "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
     "incipit": "",
     "manuscripts": [],
-    "view_label": "",
+    "view_label": "post usque ad tempus Titi et Vespasiani Romanorum",
     "prev": {
       "id": "jad_occurence__614",
       "label": "Hierusalem funditus eversa est"
@@ -67861,7 +67914,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_occurence__615",
-      "label": ""
+      "label": "post usque ad tempus Titi et Vespasiani Romanorum"
     },
     "next": {
       "id": "jad_occurence__617",
