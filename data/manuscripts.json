@@ -308,7 +308,7 @@
     "view_label": "BNF, Latin 492",
     "prev": {
       "id": "jad_manuscript__58",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, Baluze 380"
     },
     "next": {
       "id": "jad_manuscript__7",
@@ -3062,22 +3062,53 @@
     },
     "next": {
       "id": "jad_manuscript__58",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, Baluze 380"
     }
   },
   "58": {
     "id": 58,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Baluze 380"
+      }
+    ],
     "jad_id": "jad_manuscript__58",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 2,
+        "name": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1"
+          }
+        ]
+      }
+    ],
+    "idno": "Baluze 380",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc57359b/cd0e54",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 35,
+        "value": "late 11th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Baluze 380",
     "prev": {
       "id": "jad_manuscript__57",
       "label": "Bern, Cod. 258"

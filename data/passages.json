@@ -67853,7 +67853,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition": null
+        "volume_edition": "Huygens"
       }
     ],
     "sources_used": [],
@@ -67889,34 +67889,92 @@
     },
     "next": {
       "id": "jad_occurence__616",
-      "label": ""
+      "label": "sicut fuit in diebus Titi et Vespasiani, qui Dei filii mortem vindicaverunt"
     }
   },
   "616": {
     "id": 616,
-    "passage": "",
+    "passage": "sicut fuit in diebus Titi et Vespasiani, qui Dei filii mortem vindicaverunt",
     "jad_id": "jad_occurence__616",
     "language": null,
     "position_in_work": "",
     "text_paragraph": "",
-    "note": "",
+    "note": "Flori",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 235,
+        "name": "Crusade letter ",
+        "jad_id": "jad_work__235",
+        "author": [
+          {
+            "id": 91,
+            "name": "Sergius IV",
+            "jad_id": "jad_author__91",
+            "gnd_url": "https://d-nb.info/gnd/100960529",
+            "notes": "",
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Crusade letter",
+        "genre": {
+          "id": 18135,
+          "value": "Letters",
+          "color": "darker-orange"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 51,
+            "value": "1010"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition": "Schalller"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 10,
+        "value": "Secondary literature"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 91,
+          "database_table_3499": 235
+        },
+        "value": "Sergius IV"
+      }
+    ],
     "source_passage": [],
     "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
     "incipit": "",
     "manuscripts": [],
-    "view_label": "",
+    "view_label": "sicut fuit in diebus Titi et Vespasiani, qui Dei filii mortem vindicaverunt",
     "prev": {
       "id": "jad_occurence__615",
       "label": "post usque ad tempus Titi et Vespasiani Romanorum"
@@ -67953,7 +68011,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_occurence__616",
-      "label": ""
+      "label": "sicut fuit in diebus Titi et Vespasiani, qui Dei filii mortem vindicaverunt"
     },
     "next": {
       "id": "jad_occurence__618",

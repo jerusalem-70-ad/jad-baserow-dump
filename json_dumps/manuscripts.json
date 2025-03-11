@@ -2029,15 +2029,37 @@
   "58": {
     "id": 58,
     "order": "58.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Baluze 380"
+      }
+    ],
     "jad_id": "jad_manuscript__58",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "Baluze 380",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc57359b/cd0e54",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 35,
+        "value": "late 11th cen.",
+        "order": "35.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
   }
 }

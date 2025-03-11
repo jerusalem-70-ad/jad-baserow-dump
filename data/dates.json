@@ -87,8 +87,8 @@
     "jad_id": "jad_date__6",
     "view_label": "early 9th cen.",
     "prev": {
-      "id": "jad_date__50",
-      "label": "10th cen."
+      "id": "jad_date__51",
+      "label": "1010"
     },
     "next": {
       "id": "jad_date__7",
@@ -793,6 +793,22 @@
     "prev": {
       "id": "jad_date__5",
       "label": "late 12th cen."
+    },
+    "next": {
+      "id": "jad_date__51",
+      "label": "1010"
+    }
+  },
+  "51": {
+    "id": 51,
+    "name": "1010",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__51",
+    "view_label": "1010",
+    "prev": {
+      "id": "jad_date__50",
+      "label": "10th cen."
     },
     "next": {
       "id": "jad_date__6",

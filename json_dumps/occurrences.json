@@ -36470,22 +36470,42 @@
   "616": {
     "id": 616,
     "order": "605.00000000000000000000",
-    "passage": "",
+    "passage": "sicut fuit in diebus Titi et Vespasiani, qui Dei filii mortem vindicaverunt",
     "jad_id": "jad_occurence__616",
     "language": null,
     "position_in_work": "",
     "text_paragraph": "",
-    "note": "",
+    "note": "Flori",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 235,
+        "value": "Crusade letter ",
+        "order": "233.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 10,
+        "value": "Secondary literature",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 91,
+          "database_table_3499": 235
+        },
+        "value": "Sergius IV"
+      }
+    ],
     "source_passage": [],
     "mss_locus": [],
     "occurrence_ms": [],

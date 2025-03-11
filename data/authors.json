@@ -1107,7 +1107,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition": null,
+        "volume_edition": "Huygens",
         "view_label": "Inventio Patriarcharum ",
         "prev": {
           "id": "jad_work__233",
@@ -1115,7 +1115,7 @@
         },
         "next": {
           "id": "jad_work__235",
-          "label": " "
+          "label": "Crusade letter "
         }
       }
     ]
@@ -15015,7 +15015,7 @@
     },
     "next": {
       "id": "jad_author__91",
-      "label": ""
+      "label": "Sergius IV"
     },
     "related__works": [
       {
@@ -15068,12 +15068,12 @@
   },
   "91": {
     "id": 91,
-    "name": "",
+    "name": "Sergius IV",
     "jad_id": "jad_author__91",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100960529",
     "notes": "",
     "lebensdaten": null,
-    "view_label": "",
+    "view_label": "Sergius IV",
     "prev": {
       "id": "jad_author__90",
       "label": "Bruno, Carthusianus, of Cologne"
@@ -15082,7 +15082,61 @@
       "id": "jad_author__92",
       "label": "Caesarius, of Heisterbach"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 235,
+        "name": "Crusade letter ",
+        "jad_id": "jad_work__235",
+        "author": [
+          {
+            "id": 91,
+            "name": "Sergius IV",
+            "jad_id": "jad_author__91",
+            "gnd_url": "https://d-nb.info/gnd/100960529",
+            "notes": "",
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Crusade letter",
+        "genre": {
+          "id": 18135,
+          "value": "Letters",
+          "color": "darker-orange"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 51,
+            "value": "1010"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition": "Schalller",
+        "view_label": "Crusade letter ",
+        "prev": {
+          "id": "jad_work__234",
+          "label": "Inventio Patriarcharum "
+        },
+        "next": {
+          "id": "jad_work__236",
+          "label": " "
+        }
+      }
+    ]
   },
   "92": {
     "id": 92,
@@ -15094,7 +15148,7 @@
     "view_label": "Caesarius, of Heisterbach",
     "prev": {
       "id": "jad_author__91",
-      "label": ""
+      "label": "Sergius IV"
     },
     "next": {
       "id": "jad_author__1",

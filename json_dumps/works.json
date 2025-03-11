@@ -10468,27 +10468,49 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition": null
+    "volume_edition": "Huygens"
   },
   "235": {
     "id": 235,
     "order": "233.00000000000000000000",
-    "name": " ",
+    "name": "Crusade letter ",
     "jad_id": "jad_work__235",
-    "author": [],
+    "author": [
+      {
+        "id": 91,
+        "value": "Sergius IV",
+        "order": "90.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Crusade letter",
+    "genre": {
+      "id": 18135,
+      "value": "Letters",
+      "color": "darker-orange"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 51,
+        "value": "1010",
+        "order": "51.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": false,
     "incipit": "",
-    "volume_edition": null
+    "volume_edition": "Schalller"
   },
   "236": {
     "id": 236,
