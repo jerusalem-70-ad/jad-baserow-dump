@@ -39,7 +39,7 @@
     "view_label": "Ihesus Christus cum predixisset discipulis suis scicitantibus signa eversionis Ierusalem",
     "prev": {
       "id": "jad_occurence__98",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "propter uicinam eius subuersionem quam pro nece saluatoris erat perpessura"
     },
     "next": {
       "id": "jad_occurence__10",
@@ -3492,9 +3492,9 @@
         "value": "ÖNB, MS 363"
       }
     ],
-    "position_in_ms": "202v-222r",
+    "position_in_ms": "217v-222r",
     "main_ms": true,
-    "facsimile_position": "",
+    "facsimile_position": "https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_4587063&order=1&view=SINGLE",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -3504,14 +3504,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-16",
+    "last_modified_on": "2025-03-11",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 43,
           "database_table_3497": 1
         },
-        "value": "ÖNB, MS 363, f. 202v-222r"
+        "value": "ÖNB, MS 363, f. 217v-222r"
       }
     ],
     "view_label": "De destructione templi",
@@ -4555,16 +4555,26 @@
     },
     "next": {
       "id": "jad_occurence__98",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "propter uicinam eius subuersionem quam pro nece saluatoris erat perpessura"
     }
   },
   "98": {
     "id": 98,
     "jad_id": "jad_occurence__98",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 623,
+        "value": "propter uicinam eius subuersionem quam pro nece saluatoris erat perpessura"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 34,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "position_in_ms": "4r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -4575,9 +4585,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-23",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-03-11",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Maz., MS 698, f. 4r"
+      }
+    ],
+    "view_label": "propter uicinam eius subuersionem quam pro nece saluatoris erat perpessura",
     "prev": {
       "id": "jad_occurence__97",
       "label": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis"

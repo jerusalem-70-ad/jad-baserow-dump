@@ -392,7 +392,7 @@
     },
     "next": {
       "id": "jad_biblical_reference__220",
-      "label": ""
+      "label": "Zach. 12,12"
     }
   },
   "23": {
@@ -405,12 +405,12 @@
     "part_of": [],
     "view_label": "Lam. 3,10",
     "prev": {
-      "id": "jad_biblical_reference__228",
-      "label": "Ex. 27,2"
+      "id": "jad_biblical_reference__229",
+      "label": "Mt. 21,2"
     },
     "next": {
-      "id": "jad_biblical_reference__24",
-      "label": "Lam. 3,12"
+      "id": "jad_biblical_reference__230",
+      "label": ""
     }
   },
   "24": {
@@ -423,8 +423,8 @@
     "part_of": [],
     "view_label": "Lam. 3,12",
     "prev": {
-      "id": "jad_biblical_reference__23",
-      "label": "Lam. 3,10"
+      "id": "jad_biblical_reference__231",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__25",
@@ -3866,18 +3866,18 @@
     },
     "next": {
       "id": "jad_biblical_reference__217",
-      "label": ""
+      "label": "Zach. 12,13"
     }
   },
   "217": {
     "id": 217,
-    "name": "",
+    "name": "Zach. 12,13",
     "jad_id": "jad_biblical_reference__217",
     "nova_vulgata_url": "",
     "text": null,
     "description": null,
     "part_of": [],
-    "view_label": "",
+    "view_label": "Zach. 12,13",
     "prev": {
       "id": "jad_biblical_reference__216",
       "label": "Lk. 11,51"
@@ -3898,7 +3898,7 @@
     "view_label": "Gen. 19,24",
     "prev": {
       "id": "jad_biblical_reference__217",
-      "label": ""
+      "label": "Zach. 12,13"
     },
     "next": {
       "id": "jad_biblical_reference__219",
@@ -3925,13 +3925,13 @@
   },
   "220": {
     "id": 220,
-    "name": "",
+    "name": "Zach. 12,12",
     "jad_id": "jad_biblical_reference__220",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
     "part_of": [],
-    "view_label": "",
+    "view_label": "Zach. 12,12",
     "prev": {
       "id": "jad_biblical_reference__22",
       "label": "Dan. 9,26"
@@ -3952,7 +3952,7 @@
     "view_label": "Amos 1,7",
     "prev": {
       "id": "jad_biblical_reference__220",
-      "label": ""
+      "label": "Zach. 12,12"
     },
     "next": {
       "id": "jad_biblical_reference__222",
@@ -4081,8 +4081,62 @@
       "label": "Zach. 9,9"
     },
     "next": {
+      "id": "jad_biblical_reference__229",
+      "label": "Mt. 21,2"
+    }
+  },
+  "229": {
+    "id": 229,
+    "name": "Mt. 21,2",
+    "jad_id": "jad_biblical_reference__229",
+    "nova_vulgata_url": "",
+    "text": "dicens eis: “ Ite in castellum, quod contra vos est, et statim invenietis asinam alligatam et pullum cum ea; solvite et adducite mihi.",
+    "description": "",
+    "part_of": [],
+    "view_label": "Mt. 21,2",
+    "prev": {
+      "id": "jad_biblical_reference__228",
+      "label": "Ex. 27,2"
+    },
+    "next": {
       "id": "jad_biblical_reference__23",
       "label": "Lam. 3,10"
+    }
+  },
+  "230": {
+    "id": 230,
+    "name": "",
+    "jad_id": "jad_biblical_reference__230",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "part_of": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__23",
+      "label": "Lam. 3,10"
+    },
+    "next": {
+      "id": "jad_biblical_reference__231",
+      "label": ""
+    }
+  },
+  "231": {
+    "id": 231,
+    "name": "",
+    "jad_id": "jad_biblical_reference__231",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "part_of": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__230",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__24",
+      "label": "Lam. 3,12"
     }
   }
 }

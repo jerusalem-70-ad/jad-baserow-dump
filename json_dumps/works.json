@@ -737,10 +737,16 @@
       }
     ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
-    "incipit": null,
+    "incipit": "Sciendum est Petrum inminente tempore passionis sue, clementem sibi substituisse, precepit autem clementi per litteras necessarie Iacobo episcopo Ierosolimorum qualiter ipse obiit",
     "volume_edition": null
   },
   "15": {
@@ -10515,12 +10521,22 @@
   "236": {
     "id": 236,
     "order": "234.00000000000000000000",
-    "name": " ",
+    "name": "Divina Commedia ",
     "jad_id": "jad_work__236",
-    "author": [],
+    "author": [
+      {
+        "id": 93,
+        "value": "Dante, Alighieri",
+        "order": "92.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Divina Commedia",
+    "genre": {
+      "id": 15025,
+      "value": "Vernacular treatise",
+      "color": "darker-red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -10528,8 +10544,158 @@
     "date_certainty": false,
     "date": [],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition": null
+  },
+  "237": {
+    "id": 237,
+    "order": "235.00000000000000000000",
+    "name": "De triumphis ecclesiae ",
+    "jad_id": "jad_work__237",
+    "author": [
+      {
+        "id": 94,
+        "value": "John, of Garlandia",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De triumphis ecclesiae",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "238": {
+    "id": 238,
+    "order": "236.00000000000000000000",
+    "name": "Historia ecclesiastica ",
+    "jad_id": "jad_work__238",
+    "author": [
+      {
+        "id": 95,
+        "value": "Ordericus, Vitalis",
+        "order": "94.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Historia ecclesiastica",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "239": {
+    "id": 239,
+    "order": "237.00000000000000000000",
+    "name": "Speculum historiale ",
+    "jad_id": "jad_work__239",
+    "author": [
+      {
+        "id": 96,
+        "value": "Vincent, of Beauvais",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Speculum historiale",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "240": {
+    "id": 240,
+    "order": "238.00000000000000000000",
+    "name": "Somnium Neronis ",
+    "jad_id": "jad_work__240",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Somnium Neronis",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 50,
+        "value": "10th cen.",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": "Dobschütz"
   }
 }

@@ -8,8 +8,8 @@
     "lebensdaten": null,
     "view_label": "Petrus, of Blois",
     "prev": {
-      "id": "jad_author__92",
-      "label": "Caesarius, of Heisterbach"
+      "id": "jad_author__96",
+      "label": "Vincent, of Beauvais"
     },
     "next": {
       "id": "jad_author__10",
@@ -491,10 +491,15 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
-        "incipit": null,
+        "incipit": "Sciendum est Petrum inminente tempore passionis sue, clementem sibi substituisse, precepit autem clementi per litteras necessarie Iacobo episcopo Ierosolimorum qualiter ipse obiit",
         "volume_edition": null,
         "view_label": "De destructione templi ",
         "prev": {
@@ -1116,6 +1121,59 @@
         "next": {
           "id": "jad_work__235",
           "label": "Crusade letter "
+        }
+      },
+      {
+        "id": 240,
+        "name": "Somnium Neronis ",
+        "jad_id": "jad_work__240",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Somnium Neronis",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 50,
+            "value": "10th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "Dobschütz",
+        "view_label": "Somnium Neronis ",
+        "prev": {
+          "id": "jad_work__24",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__25",
+          "label": "Historia Hierosolymitana "
         }
       }
     ]
@@ -4249,12 +4307,12 @@
         "volume_edition": null,
         "view_label": "Sermones ",
         "prev": {
-          "id": "jad_work__236",
-          "label": " "
+          "id": "jad_work__239",
+          "label": "Speculum historiale "
         },
         "next": {
-          "id": "jad_work__25",
-          "label": "Historia Hierosolymitana "
+          "id": "jad_work__240",
+          "label": "Somnium Neronis "
         }
       }
     ]
@@ -6833,8 +6891,8 @@
         "volume_edition": null,
         "view_label": "Historia Hierosolymitana ",
         "prev": {
-          "id": "jad_work__24",
-          "label": "Sermones "
+          "id": "jad_work__240",
+          "label": "Somnium Neronis "
         },
         "next": {
           "id": "jad_work__26",
@@ -15133,7 +15191,7 @@
         },
         "next": {
           "id": "jad_work__236",
-          "label": " "
+          "label": "Divina Commedia "
         }
       }
     ]
@@ -15151,8 +15209,8 @@
       "label": "Sergius IV"
     },
     "next": {
-      "id": "jad_author__1",
-      "label": "Petrus, of Blois"
+      "id": "jad_author__93",
+      "label": "Dante, Alighieri"
     },
     "related__works": [
       {
@@ -15206,6 +15264,261 @@
         "next": {
           "id": "jad_work__232",
           "label": "Postilla in Lucam "
+        }
+      }
+    ]
+  },
+  "93": {
+    "id": 93,
+    "name": "Dante, Alighieri",
+    "jad_id": "jad_author__93",
+    "gnd_url": "https://d-nb.info/gnd/118523708",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Dante, Alighieri",
+    "prev": {
+      "id": "jad_author__92",
+      "label": "Caesarius, of Heisterbach"
+    },
+    "next": {
+      "id": "jad_author__94",
+      "label": "John, of Garlandia"
+    },
+    "related__works": [
+      {
+        "id": 236,
+        "name": "Divina Commedia ",
+        "jad_id": "jad_work__236",
+        "author": [
+          {
+            "id": 93,
+            "name": "Dante, Alighieri",
+            "jad_id": "jad_author__93",
+            "gnd_url": "https://d-nb.info/gnd/118523708",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Divina Commedia",
+        "genre": {
+          "id": 15025,
+          "value": "Vernacular treatise",
+          "color": "darker-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": null,
+        "view_label": "Divina Commedia ",
+        "prev": {
+          "id": "jad_work__235",
+          "label": "Crusade letter "
+        },
+        "next": {
+          "id": "jad_work__237",
+          "label": "De triumphis ecclesiae "
+        }
+      }
+    ]
+  },
+  "94": {
+    "id": 94,
+    "name": "John, of Garlandia",
+    "jad_id": "jad_author__94",
+    "gnd_url": "https://d-nb.info/gnd/118712500",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "John, of Garlandia",
+    "prev": {
+      "id": "jad_author__93",
+      "label": "Dante, Alighieri"
+    },
+    "next": {
+      "id": "jad_author__95",
+      "label": "Ordericus, Vitalis"
+    },
+    "related__works": [
+      {
+        "id": 237,
+        "name": "De triumphis ecclesiae ",
+        "jad_id": "jad_work__237",
+        "author": [
+          {
+            "id": 94,
+            "name": "John, of Garlandia",
+            "jad_id": "jad_author__94",
+            "gnd_url": "https://d-nb.info/gnd/118712500",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "De triumphis ecclesiae",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "De triumphis ecclesiae ",
+        "prev": {
+          "id": "jad_work__236",
+          "label": "Divina Commedia "
+        },
+        "next": {
+          "id": "jad_work__238",
+          "label": "Historia ecclesiastica "
+        }
+      }
+    ]
+  },
+  "95": {
+    "id": 95,
+    "name": "Ordericus, Vitalis",
+    "jad_id": "jad_author__95",
+    "gnd_url": "https://d-nb.info/gnd/118736523",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Ordericus, Vitalis",
+    "prev": {
+      "id": "jad_author__94",
+      "label": "John, of Garlandia"
+    },
+    "next": {
+      "id": "jad_author__96",
+      "label": "Vincent, of Beauvais"
+    },
+    "related__works": [
+      {
+        "id": 238,
+        "name": "Historia ecclesiastica ",
+        "jad_id": "jad_work__238",
+        "author": [
+          {
+            "id": 95,
+            "name": "Ordericus, Vitalis",
+            "jad_id": "jad_author__95",
+            "gnd_url": "https://d-nb.info/gnd/118736523",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Historia ecclesiastica",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Historia ecclesiastica ",
+        "prev": {
+          "id": "jad_work__237",
+          "label": "De triumphis ecclesiae "
+        },
+        "next": {
+          "id": "jad_work__239",
+          "label": "Speculum historiale "
+        }
+      }
+    ]
+  },
+  "96": {
+    "id": 96,
+    "name": "Vincent, of Beauvais",
+    "jad_id": "jad_author__96",
+    "gnd_url": "https://d-nb.info/gnd/118627163",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Vincent, of Beauvais",
+    "prev": {
+      "id": "jad_author__95",
+      "label": "Ordericus, Vitalis"
+    },
+    "next": {
+      "id": "jad_author__1",
+      "label": "Petrus, of Blois"
+    },
+    "related__works": [
+      {
+        "id": 239,
+        "name": "Speculum historiale ",
+        "jad_id": "jad_work__239",
+        "author": [
+          {
+            "id": 96,
+            "name": "Vincent, of Beauvais",
+            "jad_id": "jad_author__96",
+            "gnd_url": "https://d-nb.info/gnd/118627163",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Speculum historiale",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Speculum historiale ",
+        "prev": {
+          "id": "jad_work__238",
+          "label": "Historia ecclesiastica "
+        },
+        "next": {
+          "id": "jad_work__24",
+          "label": "Sermones "
         }
       }
     ]
