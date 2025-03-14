@@ -38,8 +38,8 @@
     ],
     "view_label": "Ihesus Christus cum predixisset discipulis suis scicitantibus signa eversionis Ierusalem",
     "prev": {
-      "id": "jad_occurence__98",
-      "label": "propter uicinam eius subuersionem quam pro nece saluatoris erat perpessura"
+      "id": "jad_occurence__99",
+      "label": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,"
     },
     "next": {
       "id": "jad_occurence__10",
@@ -465,8 +465,8 @@
       "label": "Ihesus Christus cum predixisset discipulis suis scicitantibus signa eversionis Ierusalem"
     },
     "next": {
-      "id": "jad_occurence__11",
-      "label": "Impleta prophetia, quam olim Moyses predixerat, foris vastabit eos gladiis, dicit Iosephus, qui de eius exilio civitatis multa describsit"
+      "id": "jad_occurence__100",
+      "label": "subversio illius civitatis declaratur, que a principibus romanis facta est"
     }
   },
   "11": {
@@ -508,8 +508,8 @@
     ],
     "view_label": "Impleta prophetia, quam olim Moyses predixerat, foris vastabit eos gladiis, dicit Iosephus, qui de eius exilio civitatis multa describsit",
     "prev": {
-      "id": "jad_occurence__10",
-      "label": "Legitur in istoria romana quod tyrus et vespasianus post xl annum post passione domini tempore pascali"
+      "id": "jad_occurence__105",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__12",
@@ -4601,8 +4601,319 @@
       "label": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis"
     },
     "next": {
+      "id": "jad_occurence__99",
+      "label": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,"
+    }
+  },
+  "99": {
+    "id": 99,
+    "jad_id": "jad_occurence__99",
+    "occurrence": [
+      {
+        "id": 520,
+        "value": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 59,
+        "value": "BNF, Latin 8919"
+      }
+    ],
+    "position_in_ms": "178v",
+    "main_ms": false,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b100345483/f365.item",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 59,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 8919, f. 178v"
+      }
+    ],
+    "view_label": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,",
+    "prev": {
+      "id": "jad_occurence__98",
+      "label": "propter uicinam eius subuersionem quam pro nece saluatoris erat perpessura"
+    },
+    "next": {
       "id": "jad_occurence__1",
       "label": "Ihesus Christus cum predixisset discipulis suis scicitantibus signa eversionis Ierusalem"
+    }
+  },
+  "100": {
+    "id": 100,
+    "jad_id": "jad_occurence__100",
+    "occurrence": [
+      {
+        "id": 631,
+        "value": "subversio illius civitatis declaratur, que a principibus romanis facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 60,
+        "value": "Lyon, MS 628"
+      }
+    ],
+    "position_in_ms": "126v",
+    "main_ms": true,
+    "facsimile_position": "https://florus.bm-lyon.fr/visualisation.php?cote=MS0628&vue=258",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 60,
+          "database_table_3497": 28
+        },
+        "value": "Lyon, MS 628, f. 126v"
+      }
+    ],
+    "view_label": "subversio illius civitatis declaratur, que a principibus romanis facta est",
+    "prev": {
+      "id": "jad_occurence__10",
+      "label": "Legitur in istoria romana quod tyrus et vespasianus post xl annum post passione domini tempore pascali"
+    },
+    "next": {
+      "id": "jad_occurence__101",
+      "label": "secundum litteram exercitus domini romanorum intelleguntur"
+    }
+  },
+  "101": {
+    "id": 101,
+    "jad_id": "jad_occurence__101",
+    "occurrence": [
+      {
+        "id": 632,
+        "value": "secundum litteram exercitus domini romanorum intelleguntur"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 60,
+        "value": "Lyon, MS 628"
+      }
+    ],
+    "position_in_ms": "163r",
+    "main_ms": true,
+    "facsimile_position": "https://florus.bm-lyon.fr/visualisation.php?cote=MS0628&vue=331",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 60,
+          "database_table_3497": 28
+        },
+        "value": "Lyon, MS 628, f. 163r"
+      }
+    ],
+    "view_label": "secundum litteram exercitus domini romanorum intelleguntur",
+    "prev": {
+      "id": "jad_occurence__100",
+      "label": "subversio illius civitatis declaratur, que a principibus romanis facta est"
+    },
+    "next": {
+      "id": "jad_occurence__102",
+      "label": "ruinam illius qua a principibus romanis complananda erat"
+    }
+  },
+  "102": {
+    "id": 102,
+    "jad_id": "jad_occurence__102",
+    "occurrence": [
+      {
+        "id": 516,
+        "value": "ruinam illius qua a principibus romanis complananda erat"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 62,
+        "value": "BNF, Latin 2451"
+      }
+    ],
+    "position_in_ms": "113v",
+    "main_ms": false,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10034550x/f117.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 62,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 2451, f. 113v"
+      }
+    ],
+    "view_label": "ruinam illius qua a principibus romanis complananda erat",
+    "prev": {
+      "id": "jad_occurence__101",
+      "label": "secundum litteram exercitus domini romanorum intelleguntur"
+    },
+    "next": {
+      "id": "jad_occurence__103",
+      "label": "ruinam illius qua a principibus romanis complananda erat"
+    }
+  },
+  "103": {
+    "id": 103,
+    "jad_id": "jad_occurence__103",
+    "occurrence": [
+      {
+        "id": 516,
+        "value": "ruinam illius qua a principibus romanis complananda erat"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 61,
+        "value": "Autun, MS 7"
+      }
+    ],
+    "position_in_ms": "89r",
+    "main_ms": false,
+    "facsimile_position": "https://arca.irht.cnrs.fr/ark:/63955/md547p88cm12",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 61,
+          "database_table_3497": 29
+        },
+        "value": "Autun, MS 7, f. 89r"
+      }
+    ],
+    "view_label": "ruinam illius qua a principibus romanis complananda erat",
+    "prev": {
+      "id": "jad_occurence__102",
+      "label": "ruinam illius qua a principibus romanis complananda erat"
+    },
+    "next": {
+      "id": "jad_occurence__104",
+      "label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani"
+    }
+  },
+  "104": {
+    "id": 104,
+    "jad_id": "jad_occurence__104",
+    "occurrence": [
+      {
+        "id": 514,
+        "value": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 61,
+        "value": "Autun, MS 7"
+      }
+    ],
+    "position_in_ms": "112v",
+    "main_ms": false,
+    "facsimile_position": "https://arca.irht.cnrs.fr/ark:/63955/md547p88cm12",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 61,
+          "database_table_3497": 29
+        },
+        "value": "Autun, MS 7, f. 112v"
+      }
+    ],
+    "view_label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani",
+    "prev": {
+      "id": "jad_occurence__103",
+      "label": "ruinam illius qua a principibus romanis complananda erat"
+    },
+    "next": {
+      "id": "jad_occurence__105",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "105": {
+    "id": 105,
+    "jad_id": "jad_occurence__105",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__104",
+      "label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani"
+    },
+    "next": {
+      "id": "jad_occurence__11",
+      "label": "Impleta prophetia, quam olim Moyses predixerat, foris vastabit eos gladiis, dicit Iosephus, qui de eius exilio civitatis multa describsit"
     }
   }
 }

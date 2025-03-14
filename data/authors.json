@@ -8,8 +8,8 @@
     "lebensdaten": null,
     "view_label": "Petrus, of Blois",
     "prev": {
-      "id": "jad_author__96",
-      "label": "Vincent, of Beauvais"
+      "id": "jad_author__98",
+      "label": "anonymous (ed. Quentell)"
     },
     "next": {
       "id": "jad_author__10",
@@ -1172,8 +1172,8 @@
           "label": "Sermones "
         },
         "next": {
-          "id": "jad_work__25",
-          "label": "Historia Hierosolymitana "
+          "id": "jad_work__241",
+          "label": "Sermones "
         }
       }
     ]
@@ -6891,8 +6891,8 @@
         "volume_edition": null,
         "view_label": "Historia Hierosolymitana ",
         "prev": {
-          "id": "jad_work__240",
-          "label": "Somnium Neronis "
+          "id": "jad_work__242",
+          "label": "Sermones "
         },
         "next": {
           "id": "jad_work__26",
@@ -12198,7 +12198,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 28,
@@ -12269,7 +12269,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 28,
@@ -12326,7 +12326,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 28,
@@ -12383,7 +12383,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 28,
@@ -12440,7 +12440,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 28,
@@ -12497,7 +12497,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 28,
@@ -15471,8 +15471,8 @@
       "label": "Ordericus, Vitalis"
     },
     "next": {
-      "id": "jad_author__1",
-      "label": "Petrus, of Blois"
+      "id": "jad_author__97",
+      "label": "anonymous (ed. Liverani)"
     },
     "related__works": [
       {
@@ -15519,6 +15519,150 @@
         "next": {
           "id": "jad_work__24",
           "label": "Sermones "
+        }
+      }
+    ]
+  },
+  "97": {
+    "id": 97,
+    "name": "anonymous (ed. Liverani)",
+    "jad_id": "jad_author__97",
+    "gnd_url": "https://d-nb.info/gnd/117066729",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "anonymous (ed. Liverani)",
+    "prev": {
+      "id": "jad_author__96",
+      "label": "Vincent, of Beauvais"
+    },
+    "next": {
+      "id": "jad_author__98",
+      "label": "anonymous (ed. Quentell)"
+    },
+    "related__works": [
+      {
+        "id": 241,
+        "name": "Sermones ",
+        "jad_id": "jad_work__241",
+        "author": [
+          {
+            "id": 97,
+            "name": "anonymous (ed. Liverani)",
+            "jad_id": "jad_author__97",
+            "gnd_url": "https://d-nb.info/gnd/117066729",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "Florenz 1863",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 19,
+            "value": "around 900"
+          }
+        ],
+        "link_digital_editions": "https://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ219278304",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "Liverani",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__240",
+          "label": "Somnium Neronis "
+        },
+        "next": {
+          "id": "jad_work__242",
+          "label": "Sermones "
+        }
+      }
+    ]
+  },
+  "98": {
+    "id": 98,
+    "name": "anonymous (ed. Quentell)",
+    "jad_id": "jad_author__98",
+    "gnd_url": "https://d-nb.info/gnd/132131412",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "anonymous (ed. Quentell)",
+    "prev": {
+      "id": "jad_author__97",
+      "label": "anonymous (ed. Liverani)"
+    },
+    "next": {
+      "id": "jad_author__1",
+      "label": "Petrus, of Blois"
+    },
+    "related__works": [
+      {
+        "id": 242,
+        "name": "Sermones ",
+        "jad_id": "jad_work__242",
+        "author": [
+          {
+            "id": 98,
+            "name": "anonymous (ed. Quentell)",
+            "jad_id": "jad_author__98",
+            "gnd_url": "https://d-nb.info/gnd/132131412",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "Paris 1534",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 19,
+            "value": "around 900"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "Bonnemere",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__241",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__25",
+          "label": "Historia Hierosolymitana "
         }
       }
     ]

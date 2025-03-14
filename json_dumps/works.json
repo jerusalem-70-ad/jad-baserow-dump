@@ -4947,7 +4947,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 28,
@@ -9241,7 +9241,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 28,
@@ -9288,7 +9288,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 28,
@@ -9335,7 +9335,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 28,
@@ -9382,7 +9382,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 28,
@@ -9429,7 +9429,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 28,
@@ -10697,5 +10697,89 @@
     "author_certainty": true,
     "incipit": "",
     "volume_edition": "Dobschütz"
+  },
+  "241": {
+    "id": 241,
+    "order": "239.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__241",
+    "author": [
+      {
+        "id": 97,
+        "value": "anonymous (ed. Liverani)",
+        "order": "96.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "Florenz 1863",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 19,
+        "value": "around 900",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ219278304",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": "Liverani"
+  },
+  "242": {
+    "id": 242,
+    "order": "240.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__242",
+    "author": [
+      {
+        "id": 98,
+        "value": "anonymous (ed. Quentell)",
+        "order": "97.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "Paris 1534",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 19,
+        "value": "around 900",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": "Bonnemere"
   }
 }

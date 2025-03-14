@@ -36,8 +36,8 @@
     "description": "Palm Sunday (In ramis palmarum), the Sunday before Easter.",
     "view_label": "Palm Sunday",
     "prev": {
-      "id": "jad_liturgical_reference__27",
-      "label": "II Sunday after Holy Trinity"
+      "id": "jad_liturgical_reference__28",
+      "label": "XXII Sunday after Holy Trinity"
     },
     "next": {
       "id": "jad_liturgical_reference__4",
@@ -296,15 +296,15 @@
     },
     "next": {
       "id": "jad_liturgical_reference__21",
-      "label": "In feria sexta post Judica"
+      "label": "In feria VI post passionem"
     }
   },
   "21": {
     "id": 21,
-    "name": "In feria sexta post Judica",
+    "name": "In feria VI post passionem",
     "jad_id": "jad_liturgical_reference__21",
     "description": null,
-    "view_label": "In feria sexta post Judica",
+    "view_label": "In feria VI post passionem",
     "prev": {
       "id": "jad_liturgical_reference__20",
       "label": "IV Sunday September"
@@ -322,7 +322,7 @@
     "view_label": "Dominica III in quadragesima",
     "prev": {
       "id": "jad_liturgical_reference__21",
-      "label": "In feria sexta post Judica"
+      "label": "In feria VI post passionem"
     },
     "next": {
       "id": "jad_liturgical_reference__23",
@@ -398,6 +398,21 @@
     "prev": {
       "id": "jad_liturgical_reference__26",
       "label": "II Sunday Advent"
+    },
+    "next": {
+      "id": "jad_liturgical_reference__28",
+      "label": "XXII Sunday after Holy Trinity"
+    }
+  },
+  "28": {
+    "id": 28,
+    "name": "XXII Sunday after Holy Trinity",
+    "jad_id": "jad_liturgical_reference__28",
+    "description": "",
+    "view_label": "XXII Sunday after Holy Trinity",
+    "prev": {
+      "id": "jad_liturgical_reference__27",
+      "label": "II Sunday after Holy Trinity"
     },
     "next": {
       "id": "jad_liturgical_reference__3",
