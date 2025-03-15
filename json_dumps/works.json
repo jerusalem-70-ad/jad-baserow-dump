@@ -2666,7 +2666,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 13,
@@ -2674,7 +2674,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "link_digital_editions": "",
+    "link_digital_editions": "https://gloss-e.irht.cnrs.fr/php/livres-liste.php?id=glo",
     "author_certainty": true,
     "incipit": null,
     "volume_edition": null
@@ -10781,5 +10781,87 @@
     "author_certainty": true,
     "incipit": "",
     "volume_edition": "Bonnemere"
+  },
+  "243": {
+    "id": 243,
+    "order": "241.00000000000000000000",
+    "name": "Pugio fidei ",
+    "jad_id": "jad_work__243",
+    "author": [
+      {
+        "id": 99,
+        "value": "Raimundus, Martini",
+        "order": "98.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Pugio fidei",
+    "genre": {
+      "id": 14728,
+      "value": "Anti-Jewish treatise",
+      "color": "darker-purple"
+    },
+    "notes": "",
+    "notes__author": "Leipzig 1687",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://fedora.phaidra.univie.ac.at/fedora/objects/o:72111/methods/bdef:Book/view#",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": "Voisin"
+  },
+  "244": {
+    "id": 244,
+    "order": "242.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__244",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "245": {
+    "id": 245,
+    "order": "243.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__245",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition": ""
   }
 }

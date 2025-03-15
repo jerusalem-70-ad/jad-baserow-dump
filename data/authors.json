@@ -8,8 +8,8 @@
     "lebensdaten": null,
     "view_label": "Petrus, of Blois",
     "prev": {
-      "id": "jad_author__98",
-      "label": "anonymous (ed. Quentell)"
+      "id": "jad_author__99",
+      "label": "Raimundus, Martini"
     },
     "next": {
       "id": "jad_author__10",
@@ -3593,8 +3593,8 @@
       "label": "Petrus, of Blois"
     },
     "next": {
-      "id": "jad_author__11",
-      "label": "Luculentius"
+      "id": "jad_author__100",
+      "label": ""
     },
     "related__works": [
       {
@@ -3972,8 +3972,8 @@
     "lebensdaten": null,
     "view_label": "Luculentius",
     "prev": {
-      "id": "jad_author__10",
-      "label": "Langton, Stephen"
+      "id": "jad_author__102",
+      "label": ""
     },
     "next": {
       "id": "jad_author__12",
@@ -6891,8 +6891,8 @@
         "volume_edition": null,
         "view_label": "Historia Hierosolymitana ",
         "prev": {
-          "id": "jad_work__242",
-          "label": "Sermones "
+          "id": "jad_work__245",
+          "label": " "
         },
         "next": {
           "id": "jad_work__26",
@@ -11245,14 +11245,14 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 13,
             "value": "12th cen., first half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://gloss-e.irht.cnrs.fr/php/livres-liste.php?id=glo",
         "author_certainty": true,
         "incipit": null,
         "volume_edition": null,
@@ -15608,8 +15608,8 @@
       "label": "anonymous (ed. Liverani)"
     },
     "next": {
-      "id": "jad_author__1",
-      "label": "Petrus, of Blois"
+      "id": "jad_author__99",
+      "label": "Raimundus, Martini"
     },
     "related__works": [
       {
@@ -15661,10 +15661,136 @@
           "label": "Sermones "
         },
         "next": {
-          "id": "jad_work__25",
-          "label": "Historia Hierosolymitana "
+          "id": "jad_work__243",
+          "label": "Pugio fidei "
         }
       }
     ]
+  },
+  "99": {
+    "id": 99,
+    "name": "Raimundus, Martini",
+    "jad_id": "jad_author__99",
+    "gnd_url": "https://d-nb.info/gnd/118597906",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Raimundus, Martini",
+    "prev": {
+      "id": "jad_author__98",
+      "label": "anonymous (ed. Quentell)"
+    },
+    "next": {
+      "id": "jad_author__1",
+      "label": "Petrus, of Blois"
+    },
+    "related__works": [
+      {
+        "id": 243,
+        "name": "Pugio fidei ",
+        "jad_id": "jad_work__243",
+        "author": [
+          {
+            "id": 99,
+            "name": "Raimundus, Martini",
+            "jad_id": "jad_author__99",
+            "gnd_url": "https://d-nb.info/gnd/118597906",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Pugio fidei",
+        "genre": {
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "Leipzig 1687",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "https://fedora.phaidra.univie.ac.at/fedora/objects/o:72111/methods/bdef:Book/view#",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "Voisin",
+        "view_label": "Pugio fidei ",
+        "prev": {
+          "id": "jad_work__242",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__244",
+          "label": " "
+        }
+      }
+    ]
+  },
+  "100": {
+    "id": 100,
+    "name": "",
+    "jad_id": "jad_author__100",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__10",
+      "label": "Langton, Stephen"
+    },
+    "next": {
+      "id": "jad_author__101",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "101": {
+    "id": 101,
+    "name": "",
+    "jad_id": "jad_author__101",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__100",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__102",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "102": {
+    "id": 102,
+    "name": "",
+    "jad_id": "jad_author__102",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__101",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__11",
+      "label": "Luculentius"
+    },
+    "related__works": []
   }
 }

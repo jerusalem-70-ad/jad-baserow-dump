@@ -5,8 +5,8 @@
     "jad_id": "jad_cluster__1",
     "view_label": "First Crusade",
     "prev": {
-      "id": "jad_cluster__4",
-      "label": "Viking invasions"
+      "id": "jad_cluster__8",
+      "label": "Jerusalem's conquest in 1244"
     },
     "next": {
       "id": "jad_cluster__2",
@@ -49,6 +49,62 @@
     "prev": {
       "id": "jad_cluster__3",
       "label": "Carolingian correctio"
+    },
+    "next": {
+      "id": "jad_cluster__5",
+      "label": "Year 1000"
+    }
+  },
+  "5": {
+    "id": 5,
+    "name": "Year 1000",
+    "jad_id": "jad_cluster__5",
+    "view_label": "Year 1000",
+    "prev": {
+      "id": "jad_cluster__4",
+      "label": "Viking invasions"
+    },
+    "next": {
+      "id": "jad_cluster__6",
+      "label": "Visigothic persecution of Jews"
+    }
+  },
+  "6": {
+    "id": 6,
+    "name": "Visigothic persecution of Jews",
+    "jad_id": "jad_cluster__6",
+    "view_label": "Visigothic persecution of Jews",
+    "prev": {
+      "id": "jad_cluster__5",
+      "label": "Year 1000"
+    },
+    "next": {
+      "id": "jad_cluster__7",
+      "label": "Talmud burning in Paris"
+    }
+  },
+  "7": {
+    "id": 7,
+    "name": "Talmud burning in Paris",
+    "jad_id": "jad_cluster__7",
+    "view_label": "Talmud burning in Paris",
+    "prev": {
+      "id": "jad_cluster__6",
+      "label": "Visigothic persecution of Jews"
+    },
+    "next": {
+      "id": "jad_cluster__8",
+      "label": "Jerusalem's conquest in 1244"
+    }
+  },
+  "8": {
+    "id": 8,
+    "name": "Jerusalem's conquest in 1244",
+    "jad_id": "jad_cluster__8",
+    "view_label": "Jerusalem's conquest in 1244",
+    "prev": {
+      "id": "jad_cluster__7",
+      "label": "Talmud burning in Paris"
     },
     "next": {
       "id": "jad_cluster__1",
