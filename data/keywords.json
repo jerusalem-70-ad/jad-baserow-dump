@@ -296,6 +296,257 @@
           "id": "jad_occurrence__170",
           "label": "Haec enim sub Tito et Vespasiano completa sunt"
         }
+      },
+      {
+        "id": 52,
+        "passage": "tertia sub romanis",
+        "jad_id": "jad_occurrence__52",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "Ps. 78",
+        "text_paragraph": "prima captivitas fuit sub nabugodonosor, secunda sub antiocho ephifane, tertia sub romanis, modo potest dici quod iiii fuit sub salehadino, quinta per hereticos et falsos fratres cotidie, sexta erit per antichristum graviorum (?) omnibus, non (?) est alter mathatias hodie qui zelum dei habet, qui liberet terram",
+        "note": "Bird, Jessalynn L.: “Rogations, Litanies, and Crusade Preaching: The Liturgical Front in the Late Twelfth and Early Thirteenth Centuries.” In: *Papacy, Crusade, and Christian-Muslim Relations*, ed. Jessalynn L. Bird (Amsterdam 2018), pp. 155-193.",
+        "explicit_contemp_ref": "",
+        "biblical_references": [
+          {
+            "id": 56,
+            "value": "Ps. 78,1"
+          }
+        ],
+        "work": [
+          {
+            "id": 4,
+            "name": "Commentary Psalms ",
+            "jad_id": "jad_work__4",
+            "author": [
+              {
+                "id": 4,
+                "name": "Petrus, Cantor",
+                "jad_id": "jad_author__4",
+                "gnd_url": "https://d-nb.info/gnd/118790625",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 2,
+                "value": "BNF, Latin 14426"
+              },
+              {
+                "id": 68,
+                "value": "BL, Royal 10 C V"
+              }
+            ],
+            "title": "Commentary Psalms",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": null,
+            "notes__author": null,
+            "institutional_context": [
+              {
+                "id": 1,
+                "name": "University of Paris",
+                "jad_id": "jad_institutional_context__1",
+                "part_of": [
+                  {
+                    "id": 16,
+                    "name": "French schools",
+                    "jad_id": "jad_institutional_context__16",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 11,
+                "value": "after 1187"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 2,
+            "name": "Third Crusade",
+            "short_description": "",
+            "jad_id": "jad_keyword__2",
+            "part_of": [
+              {
+                "id": 1,
+                "name": "Crusades",
+                "short_description": "An occurrence appearing either in a crusade-specific source, or in a text by an author of whom we know that he was active in the crusades, or a text that we can otherwise relate to this phenomenon.",
+                "jad_id": "jad_keyword__1",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Jerusalem's conquest 1187",
+            "short_description": "",
+            "jad_id": "jad_keyword__8",
+            "part_of": [
+              {
+                "id": 2,
+                "name": "Third Crusade",
+                "short_description": "",
+                "jad_id": "jad_keyword__2",
+                "part_of": [
+                  {
+                    "id": 1,
+                    "value": "Crusades"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "name": "Another conquest of Jerusalem",
+                "short_description": "",
+                "jad_id": "jad_keyword__4",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Typology",
+            "short_description": "",
+            "jad_id": "jad_keyword__10",
+            "part_of": []
+          },
+          {
+            "id": 11,
+            "name": "Babylonian conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__11",
+            "part_of": []
+          },
+          {
+            "id": 18,
+            "name": "Greek conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__18",
+            "part_of": [
+              {
+                "id": 4,
+                "name": "Another conquest of Jerusalem",
+                "short_description": "",
+                "jad_id": "jad_keyword__4",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "name": "Heresy",
+            "short_description": "",
+            "jad_id": "jad_keyword__22",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [
+          {
+            "id": 2,
+            "value": "Third Crusade"
+          }
+        ],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 10,
+            "value": "Secondary literature"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 4,
+              "database_table_3499": 4
+            },
+            "value": "Petrus, Cantor"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 2,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 14426, f. 62v"
+          },
+          {
+            "ids": {
+              "database_table_3496": 68,
+              "database_table_3497": 7
+            },
+            "value": "BL, Royal 10 C V, f. 97r"
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 23,
+            "value": "jad_occurence__23"
+          },
+          {
+            "id": 115,
+            "value": "jad_occurence__115"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 23,
+            "value": false
+          },
+          {
+            "id": 115,
+            "value": true
+          }
+        ],
+        "incipit": null,
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 14426"
+          },
+          {
+            "id": 7,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "tertia sub romanis",
+        "prev": {
+          "id": "jad_occurrence__519",
+          "label": "destruendum esset a Vespasiano et Tito"
+        },
+        "next": {
+          "id": "jad_occurrence__520",
+          "label": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,"
+        }
       }
     ]
   },
@@ -1200,8 +1451,8 @@
     "part_of": [],
     "view_label": "Another conquest of Jerusalem",
     "prev": {
-      "id": "jad_keyword__31",
-      "label": "Discussions Roman Empire"
+      "id": "jad_keyword__35",
+      "label": ""
     },
     "next": {
       "id": "jad_keyword__5",
@@ -3947,6 +4198,160 @@
           "id": "jad_occurrence__515",
           "label": "Romanis sub hac occasione in uindictam necis saluatoris uenientibus amitterent locum, gentem et regnum"
         }
+      },
+      {
+        "id": 645,
+        "passage": "ad excidium urbis",
+        "jad_id": "jad_occurrence__645",
+        "language": null,
+        "position_in_work": "Mt. 23",
+        "text_paragraph": "",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 251,
+            "name": "Commentary Gospels (Unum ex quatuor) ",
+            "jad_id": "jad_work__251",
+            "author": [
+              {
+                "id": 4,
+                "name": "Petrus, Cantor",
+                "jad_id": "jad_author__4",
+                "gnd_url": "https://d-nb.info/gnd/118790625",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 68,
+                "value": "BL, Royal 10 C V"
+              }
+            ],
+            "title": "Commentary Gospels (Unum ex quatuor)",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [
+              {
+                "id": 1,
+                "name": "University of Paris",
+                "jad_id": "jad_institutional_context__1",
+                "part_of": [
+                  {
+                    "id": 16,
+                    "name": "French schools",
+                    "jad_id": "jad_institutional_context__16",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 5,
+                "value": "late 12th cen."
+              },
+              {
+                "id": 11,
+                "value": "after 1187"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": "",
+            "volume_edition": ""
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 6,
+            "name": "Apocalypticism",
+            "short_description": "The occurrence is entangled with eschatological or apocalyptic ideas. This often means that the conquest provides a resource for imagining and conceiving of the End of Times.",
+            "jad_id": "jad_keyword__6",
+            "part_of": []
+          },
+          {
+            "id": 22,
+            "name": "Heresy",
+            "short_description": "",
+            "jad_id": "jad_keyword__22",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 9,
+            "value": "Manuscript"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 4,
+              "database_table_3499": 251
+            },
+            "value": "Petrus, Cantor"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 68,
+              "database_table_3497": 7
+            },
+            "value": "BL, Royal 10 C V, f. 265v"
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 122,
+            "value": "jad_occurence__122"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 122,
+            "value": true
+          }
+        ],
+        "incipit": "",
+        "manuscripts": [
+          {
+            "id": 7,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "ad excidium urbis",
+        "prev": {
+          "id": "jad_occurrence__644",
+          "label": "factum est a romanis"
+        },
+        "next": {
+          "id": "jad_occurrence__646",
+          "label": "tempore romane obsidionis et captivitatis"
+        }
       }
     ]
   },
@@ -4010,7 +4415,259 @@
       "id": "jad_keyword__9",
       "label": "First Crusade"
     },
-    "related__passages": []
+    "related__passages": [
+      {
+        "id": 52,
+        "passage": "tertia sub romanis",
+        "jad_id": "jad_occurrence__52",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "Ps. 78",
+        "text_paragraph": "prima captivitas fuit sub nabugodonosor, secunda sub antiocho ephifane, tertia sub romanis, modo potest dici quod iiii fuit sub salehadino, quinta per hereticos et falsos fratres cotidie, sexta erit per antichristum graviorum (?) omnibus, non (?) est alter mathatias hodie qui zelum dei habet, qui liberet terram",
+        "note": "Bird, Jessalynn L.: “Rogations, Litanies, and Crusade Preaching: The Liturgical Front in the Late Twelfth and Early Thirteenth Centuries.” In: *Papacy, Crusade, and Christian-Muslim Relations*, ed. Jessalynn L. Bird (Amsterdam 2018), pp. 155-193.",
+        "explicit_contemp_ref": "",
+        "biblical_references": [
+          {
+            "id": 56,
+            "value": "Ps. 78,1"
+          }
+        ],
+        "work": [
+          {
+            "id": 4,
+            "name": "Commentary Psalms ",
+            "jad_id": "jad_work__4",
+            "author": [
+              {
+                "id": 4,
+                "name": "Petrus, Cantor",
+                "jad_id": "jad_author__4",
+                "gnd_url": "https://d-nb.info/gnd/118790625",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 2,
+                "value": "BNF, Latin 14426"
+              },
+              {
+                "id": 68,
+                "value": "BL, Royal 10 C V"
+              }
+            ],
+            "title": "Commentary Psalms",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": null,
+            "notes__author": null,
+            "institutional_context": [
+              {
+                "id": 1,
+                "name": "University of Paris",
+                "jad_id": "jad_institutional_context__1",
+                "part_of": [
+                  {
+                    "id": 16,
+                    "name": "French schools",
+                    "jad_id": "jad_institutional_context__16",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 11,
+                "value": "after 1187"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 2,
+            "name": "Third Crusade",
+            "short_description": "",
+            "jad_id": "jad_keyword__2",
+            "part_of": [
+              {
+                "id": 1,
+                "name": "Crusades",
+                "short_description": "An occurrence appearing either in a crusade-specific source, or in a text by an author of whom we know that he was active in the crusades, or a text that we can otherwise relate to this phenomenon.",
+                "jad_id": "jad_keyword__1",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Jerusalem's conquest 1187",
+            "short_description": "",
+            "jad_id": "jad_keyword__8",
+            "part_of": [
+              {
+                "id": 2,
+                "name": "Third Crusade",
+                "short_description": "",
+                "jad_id": "jad_keyword__2",
+                "part_of": [
+                  {
+                    "id": 1,
+                    "value": "Crusades"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "name": "Another conquest of Jerusalem",
+                "short_description": "",
+                "jad_id": "jad_keyword__4",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Typology",
+            "short_description": "",
+            "jad_id": "jad_keyword__10",
+            "part_of": []
+          },
+          {
+            "id": 11,
+            "name": "Babylonian conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__11",
+            "part_of": []
+          },
+          {
+            "id": 18,
+            "name": "Greek conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__18",
+            "part_of": [
+              {
+                "id": 4,
+                "name": "Another conquest of Jerusalem",
+                "short_description": "",
+                "jad_id": "jad_keyword__4",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "name": "Heresy",
+            "short_description": "",
+            "jad_id": "jad_keyword__22",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [
+          {
+            "id": 2,
+            "value": "Third Crusade"
+          }
+        ],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 10,
+            "value": "Secondary literature"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 4,
+              "database_table_3499": 4
+            },
+            "value": "Petrus, Cantor"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 2,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 14426, f. 62v"
+          },
+          {
+            "ids": {
+              "database_table_3496": 68,
+              "database_table_3497": 7
+            },
+            "value": "BL, Royal 10 C V, f. 97r"
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 23,
+            "value": "jad_occurence__23"
+          },
+          {
+            "id": 115,
+            "value": "jad_occurence__115"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 23,
+            "value": false
+          },
+          {
+            "id": 115,
+            "value": true
+          }
+        ],
+        "incipit": null,
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 14426"
+          },
+          {
+            "id": 7,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "tertia sub romanis",
+        "prev": {
+          "id": "jad_occurrence__519",
+          "label": "destruendum esset a Vespasiano et Tito"
+        },
+        "next": {
+          "id": "jad_occurrence__520",
+          "label": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,"
+        }
+      }
+    ]
   },
   "9": {
     "id": 9,
@@ -5012,6 +5669,257 @@
         }
       },
       {
+        "id": 52,
+        "passage": "tertia sub romanis",
+        "jad_id": "jad_occurrence__52",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "Ps. 78",
+        "text_paragraph": "prima captivitas fuit sub nabugodonosor, secunda sub antiocho ephifane, tertia sub romanis, modo potest dici quod iiii fuit sub salehadino, quinta per hereticos et falsos fratres cotidie, sexta erit per antichristum graviorum (?) omnibus, non (?) est alter mathatias hodie qui zelum dei habet, qui liberet terram",
+        "note": "Bird, Jessalynn L.: “Rogations, Litanies, and Crusade Preaching: The Liturgical Front in the Late Twelfth and Early Thirteenth Centuries.” In: *Papacy, Crusade, and Christian-Muslim Relations*, ed. Jessalynn L. Bird (Amsterdam 2018), pp. 155-193.",
+        "explicit_contemp_ref": "",
+        "biblical_references": [
+          {
+            "id": 56,
+            "value": "Ps. 78,1"
+          }
+        ],
+        "work": [
+          {
+            "id": 4,
+            "name": "Commentary Psalms ",
+            "jad_id": "jad_work__4",
+            "author": [
+              {
+                "id": 4,
+                "name": "Petrus, Cantor",
+                "jad_id": "jad_author__4",
+                "gnd_url": "https://d-nb.info/gnd/118790625",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 2,
+                "value": "BNF, Latin 14426"
+              },
+              {
+                "id": 68,
+                "value": "BL, Royal 10 C V"
+              }
+            ],
+            "title": "Commentary Psalms",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": null,
+            "notes__author": null,
+            "institutional_context": [
+              {
+                "id": 1,
+                "name": "University of Paris",
+                "jad_id": "jad_institutional_context__1",
+                "part_of": [
+                  {
+                    "id": 16,
+                    "name": "French schools",
+                    "jad_id": "jad_institutional_context__16",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 11,
+                "value": "after 1187"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 2,
+            "name": "Third Crusade",
+            "short_description": "",
+            "jad_id": "jad_keyword__2",
+            "part_of": [
+              {
+                "id": 1,
+                "name": "Crusades",
+                "short_description": "An occurrence appearing either in a crusade-specific source, or in a text by an author of whom we know that he was active in the crusades, or a text that we can otherwise relate to this phenomenon.",
+                "jad_id": "jad_keyword__1",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Jerusalem's conquest 1187",
+            "short_description": "",
+            "jad_id": "jad_keyword__8",
+            "part_of": [
+              {
+                "id": 2,
+                "name": "Third Crusade",
+                "short_description": "",
+                "jad_id": "jad_keyword__2",
+                "part_of": [
+                  {
+                    "id": 1,
+                    "value": "Crusades"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "name": "Another conquest of Jerusalem",
+                "short_description": "",
+                "jad_id": "jad_keyword__4",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Typology",
+            "short_description": "",
+            "jad_id": "jad_keyword__10",
+            "part_of": []
+          },
+          {
+            "id": 11,
+            "name": "Babylonian conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__11",
+            "part_of": []
+          },
+          {
+            "id": 18,
+            "name": "Greek conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__18",
+            "part_of": [
+              {
+                "id": 4,
+                "name": "Another conquest of Jerusalem",
+                "short_description": "",
+                "jad_id": "jad_keyword__4",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "name": "Heresy",
+            "short_description": "",
+            "jad_id": "jad_keyword__22",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [
+          {
+            "id": 2,
+            "value": "Third Crusade"
+          }
+        ],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 10,
+            "value": "Secondary literature"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 4,
+              "database_table_3499": 4
+            },
+            "value": "Petrus, Cantor"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 2,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 14426, f. 62v"
+          },
+          {
+            "ids": {
+              "database_table_3496": 68,
+              "database_table_3497": 7
+            },
+            "value": "BL, Royal 10 C V, f. 97r"
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 23,
+            "value": "jad_occurence__23"
+          },
+          {
+            "id": 115,
+            "value": "jad_occurence__115"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 23,
+            "value": false
+          },
+          {
+            "id": 115,
+            "value": true
+          }
+        ],
+        "incipit": null,
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 14426"
+          },
+          {
+            "id": 7,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "tertia sub romanis",
+        "prev": {
+          "id": "jad_occurrence__519",
+          "label": "destruendum esset a Vespasiano et Tito"
+        },
+        "next": {
+          "id": "jad_occurrence__520",
+          "label": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,"
+        }
+      },
+      {
         "id": 292,
         "passage": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus",
         "jad_id": "jad_occurrence__292",
@@ -5884,6 +6792,257 @@
         "next": {
           "id": "jad_occurrence__170",
           "label": "Haec enim sub Tito et Vespasiano completa sunt"
+        }
+      },
+      {
+        "id": 52,
+        "passage": "tertia sub romanis",
+        "jad_id": "jad_occurrence__52",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "Ps. 78",
+        "text_paragraph": "prima captivitas fuit sub nabugodonosor, secunda sub antiocho ephifane, tertia sub romanis, modo potest dici quod iiii fuit sub salehadino, quinta per hereticos et falsos fratres cotidie, sexta erit per antichristum graviorum (?) omnibus, non (?) est alter mathatias hodie qui zelum dei habet, qui liberet terram",
+        "note": "Bird, Jessalynn L.: “Rogations, Litanies, and Crusade Preaching: The Liturgical Front in the Late Twelfth and Early Thirteenth Centuries.” In: *Papacy, Crusade, and Christian-Muslim Relations*, ed. Jessalynn L. Bird (Amsterdam 2018), pp. 155-193.",
+        "explicit_contemp_ref": "",
+        "biblical_references": [
+          {
+            "id": 56,
+            "value": "Ps. 78,1"
+          }
+        ],
+        "work": [
+          {
+            "id": 4,
+            "name": "Commentary Psalms ",
+            "jad_id": "jad_work__4",
+            "author": [
+              {
+                "id": 4,
+                "name": "Petrus, Cantor",
+                "jad_id": "jad_author__4",
+                "gnd_url": "https://d-nb.info/gnd/118790625",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 2,
+                "value": "BNF, Latin 14426"
+              },
+              {
+                "id": 68,
+                "value": "BL, Royal 10 C V"
+              }
+            ],
+            "title": "Commentary Psalms",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": null,
+            "notes__author": null,
+            "institutional_context": [
+              {
+                "id": 1,
+                "name": "University of Paris",
+                "jad_id": "jad_institutional_context__1",
+                "part_of": [
+                  {
+                    "id": 16,
+                    "name": "French schools",
+                    "jad_id": "jad_institutional_context__16",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 11,
+                "value": "after 1187"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 2,
+            "name": "Third Crusade",
+            "short_description": "",
+            "jad_id": "jad_keyword__2",
+            "part_of": [
+              {
+                "id": 1,
+                "name": "Crusades",
+                "short_description": "An occurrence appearing either in a crusade-specific source, or in a text by an author of whom we know that he was active in the crusades, or a text that we can otherwise relate to this phenomenon.",
+                "jad_id": "jad_keyword__1",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Jerusalem's conquest 1187",
+            "short_description": "",
+            "jad_id": "jad_keyword__8",
+            "part_of": [
+              {
+                "id": 2,
+                "name": "Third Crusade",
+                "short_description": "",
+                "jad_id": "jad_keyword__2",
+                "part_of": [
+                  {
+                    "id": 1,
+                    "value": "Crusades"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "name": "Another conquest of Jerusalem",
+                "short_description": "",
+                "jad_id": "jad_keyword__4",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Typology",
+            "short_description": "",
+            "jad_id": "jad_keyword__10",
+            "part_of": []
+          },
+          {
+            "id": 11,
+            "name": "Babylonian conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__11",
+            "part_of": []
+          },
+          {
+            "id": 18,
+            "name": "Greek conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__18",
+            "part_of": [
+              {
+                "id": 4,
+                "name": "Another conquest of Jerusalem",
+                "short_description": "",
+                "jad_id": "jad_keyword__4",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "name": "Heresy",
+            "short_description": "",
+            "jad_id": "jad_keyword__22",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [
+          {
+            "id": 2,
+            "value": "Third Crusade"
+          }
+        ],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 10,
+            "value": "Secondary literature"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 4,
+              "database_table_3499": 4
+            },
+            "value": "Petrus, Cantor"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 2,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 14426, f. 62v"
+          },
+          {
+            "ids": {
+              "database_table_3496": 68,
+              "database_table_3497": 7
+            },
+            "value": "BL, Royal 10 C V, f. 97r"
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 23,
+            "value": "jad_occurence__23"
+          },
+          {
+            "id": 115,
+            "value": "jad_occurence__115"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 23,
+            "value": false
+          },
+          {
+            "id": 115,
+            "value": true
+          }
+        ],
+        "incipit": null,
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 14426"
+          },
+          {
+            "id": 7,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "tertia sub romanis",
+        "prev": {
+          "id": "jad_occurrence__519",
+          "label": "destruendum esset a Vespasiano et Tito"
+        },
+        "next": {
+          "id": "jad_occurrence__520",
+          "label": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,"
         }
       },
       {
@@ -8239,6 +9398,161 @@
           "id": "jad_occurrence__414",
           "label": "fuit eis a Tito et Vespasiano in destructione Hierusalem"
         }
+      },
+      {
+        "id": 650,
+        "passage": "inimici tui vallo tytus et vaspasianus",
+        "jad_id": "jad_occurrence__650",
+        "language": null,
+        "position_in_work": "X Sunday",
+        "text_paragraph": "",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [
+          {
+            "id": 1,
+            "value": "Lk. 19,41"
+          },
+          {
+            "id": 2,
+            "value": "Lk. 19,42"
+          },
+          {
+            "id": 3,
+            "value": "Lk. 19,43"
+          },
+          {
+            "id": 4,
+            "value": "Lk. 19,44"
+          },
+          {
+            "id": 6,
+            "value": "4 Reg. 2,23"
+          },
+          {
+            "id": 7,
+            "value": "4 Reg. 2,24"
+          }
+        ],
+        "work": [
+          {
+            "id": 248,
+            "name": "Sermones ",
+            "jad_id": "jad_work__248",
+            "author": [
+              {
+                "id": 103,
+                "name": "William, de Montibus",
+                "jad_id": "jad_author__103",
+                "gnd_url": "https://d-nb.info/gnd/119060531",
+                "notes": "",
+                "lebensdaten": ""
+              }
+            ],
+            "manuscripts": [],
+            "title": "Sermones",
+            "genre": {
+              "id": 14726,
+              "value": "Sermons",
+              "color": "darker-pink"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 5,
+                "value": "late 12th cen."
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": "",
+            "volume_edition": ""
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 12,
+            "name": "Christ cleansing Temple",
+            "short_description": "",
+            "jad_id": "jad_keyword__12",
+            "part_of": [
+              {
+                "id": 23,
+                "name": "Temple",
+                "short_description": "The Temple is mentioned at the occurrence (there are many others where the Temple is not present, but often it is just \"Jerusalem\").",
+                "jad_id": "jad_keyword__23",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [
+          {
+            "id": 1,
+            "value": "X Sunday after Holy Trinity"
+          }
+        ],
+        "occurrence_found_in": [
+          {
+            "id": 9,
+            "value": "Manuscript"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 103,
+              "database_table_3499": 248
+            },
+            "value": "William, de Montibus"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 74,
+              "database_table_3497": 34
+            },
+            "value": "Cambr. Univ. Libr., Dd.IV.27, f. 226v"
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 126,
+            "value": "jad_occurence__126"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 126,
+            "value": true
+          }
+        ],
+        "incipit": "",
+        "manuscripts": [
+          {
+            "id": 34,
+            "value": "Cambr. Univ. Libr., Dd.IV.27"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "inimici tui vallo tytus et vaspasianus",
+        "prev": {
+          "id": "jad_occurrence__65",
+          "label": "nutu Dei Romani principes cum exercitibus Judaeam intraverunt"
+        },
+        "next": {
+          "id": "jad_occurrence__651",
+          "label": ""
+        }
       }
     ]
   },
@@ -8892,6 +10206,275 @@
         "next": {
           "id": "jad_occurrence__167",
           "label": "transactis de passione Domini XL annis Romani Hierosolimam funditus destruxerant"
+        }
+      },
+      {
+        "id": 291,
+        "passage": "De Tyto et Vespasiano",
+        "jad_id": "jad_occurrence__291",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "Whole text",
+        "text_paragraph": "iste igitur vaspasianus anno tricesimo octavo sumpsit romanorum imperium, ex quo Iudei crucifixerunt dominum nostrum Ihesum Christum, tunc tiberius cesar tenebat imperium sicut superius est dictum",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 134,
+            "name": "De Tyto et Vespasiano ",
+            "jad_id": "jad_work__134",
+            "author": [
+              {
+                "id": 3,
+                "name": "anonymous",
+                "jad_id": "jad_author__3",
+                "gnd_url": "",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 17,
+                "value": "Cambr. St.John's Coll., MS 127"
+              }
+            ],
+            "title": "De Tyto et Vespasiano",
+            "genre": {
+              "id": 14732,
+              "value": "Idiosyncratic work",
+              "color": "dark-red"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": false,
+            "date": [],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [
+          {
+            "id": 26,
+            "value": "Josephus, Flavius"
+          },
+          {
+            "id": 101,
+            "value": "Vindicta Salvatoris"
+          }
+        ],
+        "keywords": [
+          {
+            "id": 15,
+            "name": "Vengeance",
+            "short_description": "",
+            "jad_id": "jad_keyword__15",
+            "part_of": []
+          },
+          {
+            "id": 16,
+            "name": "Concurrence Easter",
+            "short_description": "The text claims that the conquest happened on Easter, in order to mirror Christ's crucifixion, though it actually happened in the summer of 70 AD (as one reads, for example, in Josephus).",
+            "jad_id": "jad_keyword__16",
+            "part_of": []
+          },
+          {
+            "id": 32,
+            "name": "Christian emperors",
+            "short_description": "The text claims that Titus and/or Vespasian were already Christian, partly depicting their baptism as a prelude to the conquest",
+            "jad_id": "jad_keyword__32",
+            "part_of": []
+          },
+          {
+            "id": 33,
+            "name": "Prolonged siege",
+            "short_description": "The text claims that the Roman siege lasted for several years",
+            "jad_id": "jad_keyword__33",
+            "part_of": []
+          },
+          {
+            "id": 34,
+            "name": "30 pieces of silver",
+            "short_description": "Reference to Judas selling Christ for 30 pieces of silver, often connected with the ideas that the Romans sold 30 Jews for one piece of silver",
+            "jad_id": "jad_keyword__34",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [
+          {
+            "id": 5,
+            "value": "Easter"
+          },
+          {
+            "id": 6,
+            "value": "Pentecost"
+          }
+        ],
+        "occurrence_found_in": [
+          {
+            "id": 5,
+            "value": "In Principio (Brepols)"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 3,
+              "database_table_3499": 134
+            },
+            "value": "anonymous"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 17,
+              "database_table_3497": 8
+            },
+            "value": "Cambr. St.John's Coll., MS 127, f. 96v-103r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 66,
+              "database_table_3497": 32
+            },
+            "value": "Rouen, MS 1426, f. 243r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 72,
+              "database_table_3497": 33
+            },
+            "value": "Cambr. Magd. Coll., F.4.15, f. 87v-91r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 71,
+              "database_table_3497": 10
+            },
+            "value": "Bodl., Rawlinson D 1236, f. "
+          },
+          {
+            "ids": {
+              "database_table_3496": 69,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 3338, f. 168r-169r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 70,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 6755, f. "
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 58,
+            "value": "jad_occurence__58"
+          },
+          {
+            "id": 107,
+            "value": "jad_occurence__107"
+          },
+          {
+            "id": 111,
+            "value": "jad_occurence__111"
+          },
+          {
+            "id": 112,
+            "value": "jad_occurence__112"
+          },
+          {
+            "id": 113,
+            "value": "jad_occurence__113"
+          },
+          {
+            "id": 114,
+            "value": "jad_occurence__114"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 58,
+            "value": true
+          },
+          {
+            "id": 107,
+            "value": false
+          },
+          {
+            "id": 111,
+            "value": false
+          },
+          {
+            "id": 112,
+            "value": false
+          },
+          {
+            "id": 113,
+            "value": false
+          },
+          {
+            "id": 114,
+            "value": false
+          }
+        ],
+        "incipit": null,
+        "manuscripts": [
+          {
+            "id": 8,
+            "value": "Cambr. St.John's Coll., MS 127"
+          },
+          {
+            "id": 32,
+            "value": "Rouen, MS 1426"
+          },
+          {
+            "id": 33,
+            "value": "Cambr. Magd. Coll., F.4.15"
+          },
+          {
+            "id": 10,
+            "value": "Bodl., Rawlinson D 1236"
+          },
+          {
+            "id": 2,
+            "value": "BNF, Latin 3338"
+          },
+          {
+            "id": 2,
+            "value": "BNF, Latin 6755"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "De Tyto et Vespasiano",
+        "prev": {
+          "id": "jad_occurrence__290",
+          "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae"
+        },
+        "next": {
+          "id": "jad_occurrence__292",
+          "label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
         }
       }
     ]
@@ -10628,6 +12211,275 @@
         }
       },
       {
+        "id": 291,
+        "passage": "De Tyto et Vespasiano",
+        "jad_id": "jad_occurrence__291",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "Whole text",
+        "text_paragraph": "iste igitur vaspasianus anno tricesimo octavo sumpsit romanorum imperium, ex quo Iudei crucifixerunt dominum nostrum Ihesum Christum, tunc tiberius cesar tenebat imperium sicut superius est dictum",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 134,
+            "name": "De Tyto et Vespasiano ",
+            "jad_id": "jad_work__134",
+            "author": [
+              {
+                "id": 3,
+                "name": "anonymous",
+                "jad_id": "jad_author__3",
+                "gnd_url": "",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 17,
+                "value": "Cambr. St.John's Coll., MS 127"
+              }
+            ],
+            "title": "De Tyto et Vespasiano",
+            "genre": {
+              "id": 14732,
+              "value": "Idiosyncratic work",
+              "color": "dark-red"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": false,
+            "date": [],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [
+          {
+            "id": 26,
+            "value": "Josephus, Flavius"
+          },
+          {
+            "id": 101,
+            "value": "Vindicta Salvatoris"
+          }
+        ],
+        "keywords": [
+          {
+            "id": 15,
+            "name": "Vengeance",
+            "short_description": "",
+            "jad_id": "jad_keyword__15",
+            "part_of": []
+          },
+          {
+            "id": 16,
+            "name": "Concurrence Easter",
+            "short_description": "The text claims that the conquest happened on Easter, in order to mirror Christ's crucifixion, though it actually happened in the summer of 70 AD (as one reads, for example, in Josephus).",
+            "jad_id": "jad_keyword__16",
+            "part_of": []
+          },
+          {
+            "id": 32,
+            "name": "Christian emperors",
+            "short_description": "The text claims that Titus and/or Vespasian were already Christian, partly depicting their baptism as a prelude to the conquest",
+            "jad_id": "jad_keyword__32",
+            "part_of": []
+          },
+          {
+            "id": 33,
+            "name": "Prolonged siege",
+            "short_description": "The text claims that the Roman siege lasted for several years",
+            "jad_id": "jad_keyword__33",
+            "part_of": []
+          },
+          {
+            "id": 34,
+            "name": "30 pieces of silver",
+            "short_description": "Reference to Judas selling Christ for 30 pieces of silver, often connected with the ideas that the Romans sold 30 Jews for one piece of silver",
+            "jad_id": "jad_keyword__34",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [
+          {
+            "id": 5,
+            "value": "Easter"
+          },
+          {
+            "id": 6,
+            "value": "Pentecost"
+          }
+        ],
+        "occurrence_found_in": [
+          {
+            "id": 5,
+            "value": "In Principio (Brepols)"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 3,
+              "database_table_3499": 134
+            },
+            "value": "anonymous"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 17,
+              "database_table_3497": 8
+            },
+            "value": "Cambr. St.John's Coll., MS 127, f. 96v-103r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 66,
+              "database_table_3497": 32
+            },
+            "value": "Rouen, MS 1426, f. 243r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 72,
+              "database_table_3497": 33
+            },
+            "value": "Cambr. Magd. Coll., F.4.15, f. 87v-91r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 71,
+              "database_table_3497": 10
+            },
+            "value": "Bodl., Rawlinson D 1236, f. "
+          },
+          {
+            "ids": {
+              "database_table_3496": 69,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 3338, f. 168r-169r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 70,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 6755, f. "
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 58,
+            "value": "jad_occurence__58"
+          },
+          {
+            "id": 107,
+            "value": "jad_occurence__107"
+          },
+          {
+            "id": 111,
+            "value": "jad_occurence__111"
+          },
+          {
+            "id": 112,
+            "value": "jad_occurence__112"
+          },
+          {
+            "id": 113,
+            "value": "jad_occurence__113"
+          },
+          {
+            "id": 114,
+            "value": "jad_occurence__114"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 58,
+            "value": true
+          },
+          {
+            "id": 107,
+            "value": false
+          },
+          {
+            "id": 111,
+            "value": false
+          },
+          {
+            "id": 112,
+            "value": false
+          },
+          {
+            "id": 113,
+            "value": false
+          },
+          {
+            "id": 114,
+            "value": false
+          }
+        ],
+        "incipit": null,
+        "manuscripts": [
+          {
+            "id": 8,
+            "value": "Cambr. St.John's Coll., MS 127"
+          },
+          {
+            "id": 32,
+            "value": "Rouen, MS 1426"
+          },
+          {
+            "id": 33,
+            "value": "Cambr. Magd. Coll., F.4.15"
+          },
+          {
+            "id": 10,
+            "value": "Bodl., Rawlinson D 1236"
+          },
+          {
+            "id": 2,
+            "value": "BNF, Latin 3338"
+          },
+          {
+            "id": 2,
+            "value": "BNF, Latin 6755"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "De Tyto et Vespasiano",
+        "prev": {
+          "id": "jad_occurrence__290",
+          "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae"
+        },
+        "next": {
+          "id": "jad_occurrence__292",
+          "label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
+        }
+      },
+      {
         "id": 320,
         "passage": "venturis Romanis ad obsidendum Hierusalem",
         "jad_id": "jad_occurrence__320",
@@ -11654,6 +13506,257 @@
         "next": {
           "id": "jad_occurrence__150",
           "label": "Immissionem per angelos malos, seu Romanos intelligamus, sub duce Vespasiano et Tito, qui occisis Judaeae populis, praevaricatricem succenderunt civitatem"
+        }
+      },
+      {
+        "id": 52,
+        "passage": "tertia sub romanis",
+        "jad_id": "jad_occurrence__52",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "Ps. 78",
+        "text_paragraph": "prima captivitas fuit sub nabugodonosor, secunda sub antiocho ephifane, tertia sub romanis, modo potest dici quod iiii fuit sub salehadino, quinta per hereticos et falsos fratres cotidie, sexta erit per antichristum graviorum (?) omnibus, non (?) est alter mathatias hodie qui zelum dei habet, qui liberet terram",
+        "note": "Bird, Jessalynn L.: “Rogations, Litanies, and Crusade Preaching: The Liturgical Front in the Late Twelfth and Early Thirteenth Centuries.” In: *Papacy, Crusade, and Christian-Muslim Relations*, ed. Jessalynn L. Bird (Amsterdam 2018), pp. 155-193.",
+        "explicit_contemp_ref": "",
+        "biblical_references": [
+          {
+            "id": 56,
+            "value": "Ps. 78,1"
+          }
+        ],
+        "work": [
+          {
+            "id": 4,
+            "name": "Commentary Psalms ",
+            "jad_id": "jad_work__4",
+            "author": [
+              {
+                "id": 4,
+                "name": "Petrus, Cantor",
+                "jad_id": "jad_author__4",
+                "gnd_url": "https://d-nb.info/gnd/118790625",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 2,
+                "value": "BNF, Latin 14426"
+              },
+              {
+                "id": 68,
+                "value": "BL, Royal 10 C V"
+              }
+            ],
+            "title": "Commentary Psalms",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": null,
+            "notes__author": null,
+            "institutional_context": [
+              {
+                "id": 1,
+                "name": "University of Paris",
+                "jad_id": "jad_institutional_context__1",
+                "part_of": [
+                  {
+                    "id": 16,
+                    "name": "French schools",
+                    "jad_id": "jad_institutional_context__16",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 11,
+                "value": "after 1187"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 2,
+            "name": "Third Crusade",
+            "short_description": "",
+            "jad_id": "jad_keyword__2",
+            "part_of": [
+              {
+                "id": 1,
+                "name": "Crusades",
+                "short_description": "An occurrence appearing either in a crusade-specific source, or in a text by an author of whom we know that he was active in the crusades, or a text that we can otherwise relate to this phenomenon.",
+                "jad_id": "jad_keyword__1",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Jerusalem's conquest 1187",
+            "short_description": "",
+            "jad_id": "jad_keyword__8",
+            "part_of": [
+              {
+                "id": 2,
+                "name": "Third Crusade",
+                "short_description": "",
+                "jad_id": "jad_keyword__2",
+                "part_of": [
+                  {
+                    "id": 1,
+                    "value": "Crusades"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "name": "Another conquest of Jerusalem",
+                "short_description": "",
+                "jad_id": "jad_keyword__4",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Typology",
+            "short_description": "",
+            "jad_id": "jad_keyword__10",
+            "part_of": []
+          },
+          {
+            "id": 11,
+            "name": "Babylonian conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__11",
+            "part_of": []
+          },
+          {
+            "id": 18,
+            "name": "Greek conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__18",
+            "part_of": [
+              {
+                "id": 4,
+                "name": "Another conquest of Jerusalem",
+                "short_description": "",
+                "jad_id": "jad_keyword__4",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "name": "Heresy",
+            "short_description": "",
+            "jad_id": "jad_keyword__22",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [
+          {
+            "id": 2,
+            "value": "Third Crusade"
+          }
+        ],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 10,
+            "value": "Secondary literature"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 4,
+              "database_table_3499": 4
+            },
+            "value": "Petrus, Cantor"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 2,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 14426, f. 62v"
+          },
+          {
+            "ids": {
+              "database_table_3496": 68,
+              "database_table_3497": 7
+            },
+            "value": "BL, Royal 10 C V, f. 97r"
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 23,
+            "value": "jad_occurence__23"
+          },
+          {
+            "id": 115,
+            "value": "jad_occurence__115"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 23,
+            "value": false
+          },
+          {
+            "id": 115,
+            "value": true
+          }
+        ],
+        "incipit": null,
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 14426"
+          },
+          {
+            "id": 7,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "tertia sub romanis",
+        "prev": {
+          "id": "jad_occurrence__519",
+          "label": "destruendum esset a Vespasiano et Tito"
+        },
+        "next": {
+          "id": "jad_occurrence__520",
+          "label": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,"
         }
       },
       {
@@ -12882,6 +14985,257 @@
     },
     "related__passages": [
       {
+        "id": 52,
+        "passage": "tertia sub romanis",
+        "jad_id": "jad_occurrence__52",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "Ps. 78",
+        "text_paragraph": "prima captivitas fuit sub nabugodonosor, secunda sub antiocho ephifane, tertia sub romanis, modo potest dici quod iiii fuit sub salehadino, quinta per hereticos et falsos fratres cotidie, sexta erit per antichristum graviorum (?) omnibus, non (?) est alter mathatias hodie qui zelum dei habet, qui liberet terram",
+        "note": "Bird, Jessalynn L.: “Rogations, Litanies, and Crusade Preaching: The Liturgical Front in the Late Twelfth and Early Thirteenth Centuries.” In: *Papacy, Crusade, and Christian-Muslim Relations*, ed. Jessalynn L. Bird (Amsterdam 2018), pp. 155-193.",
+        "explicit_contemp_ref": "",
+        "biblical_references": [
+          {
+            "id": 56,
+            "value": "Ps. 78,1"
+          }
+        ],
+        "work": [
+          {
+            "id": 4,
+            "name": "Commentary Psalms ",
+            "jad_id": "jad_work__4",
+            "author": [
+              {
+                "id": 4,
+                "name": "Petrus, Cantor",
+                "jad_id": "jad_author__4",
+                "gnd_url": "https://d-nb.info/gnd/118790625",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 2,
+                "value": "BNF, Latin 14426"
+              },
+              {
+                "id": 68,
+                "value": "BL, Royal 10 C V"
+              }
+            ],
+            "title": "Commentary Psalms",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": null,
+            "notes__author": null,
+            "institutional_context": [
+              {
+                "id": 1,
+                "name": "University of Paris",
+                "jad_id": "jad_institutional_context__1",
+                "part_of": [
+                  {
+                    "id": 16,
+                    "name": "French schools",
+                    "jad_id": "jad_institutional_context__16",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 11,
+                "value": "after 1187"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 2,
+            "name": "Third Crusade",
+            "short_description": "",
+            "jad_id": "jad_keyword__2",
+            "part_of": [
+              {
+                "id": 1,
+                "name": "Crusades",
+                "short_description": "An occurrence appearing either in a crusade-specific source, or in a text by an author of whom we know that he was active in the crusades, or a text that we can otherwise relate to this phenomenon.",
+                "jad_id": "jad_keyword__1",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Jerusalem's conquest 1187",
+            "short_description": "",
+            "jad_id": "jad_keyword__8",
+            "part_of": [
+              {
+                "id": 2,
+                "name": "Third Crusade",
+                "short_description": "",
+                "jad_id": "jad_keyword__2",
+                "part_of": [
+                  {
+                    "id": 1,
+                    "value": "Crusades"
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "name": "Another conquest of Jerusalem",
+                "short_description": "",
+                "jad_id": "jad_keyword__4",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Typology",
+            "short_description": "",
+            "jad_id": "jad_keyword__10",
+            "part_of": []
+          },
+          {
+            "id": 11,
+            "name": "Babylonian conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__11",
+            "part_of": []
+          },
+          {
+            "id": 18,
+            "name": "Greek conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__18",
+            "part_of": [
+              {
+                "id": 4,
+                "name": "Another conquest of Jerusalem",
+                "short_description": "",
+                "jad_id": "jad_keyword__4",
+                "part_of": []
+              }
+            ]
+          },
+          {
+            "id": 22,
+            "name": "Heresy",
+            "short_description": "",
+            "jad_id": "jad_keyword__22",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [
+          {
+            "id": 2,
+            "value": "Third Crusade"
+          }
+        ],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 10,
+            "value": "Secondary literature"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 4,
+              "database_table_3499": 4
+            },
+            "value": "Petrus, Cantor"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 2,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 14426, f. 62v"
+          },
+          {
+            "ids": {
+              "database_table_3496": 68,
+              "database_table_3497": 7
+            },
+            "value": "BL, Royal 10 C V, f. 97r"
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 23,
+            "value": "jad_occurence__23"
+          },
+          {
+            "id": 115,
+            "value": "jad_occurence__115"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 23,
+            "value": false
+          },
+          {
+            "id": 115,
+            "value": true
+          }
+        ],
+        "incipit": null,
+        "manuscripts": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 14426"
+          },
+          {
+            "id": 7,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "tertia sub romanis",
+        "prev": {
+          "id": "jad_occurrence__519",
+          "label": "destruendum esset a Vespasiano et Tito"
+        },
+        "next": {
+          "id": "jad_occurrence__520",
+          "label": "uenientes Romani sub Tito et Vespasiano principibus locum simul, regnum et gentem illis abstulerunt,"
+        }
+      },
+      {
         "id": 164,
         "passage": "Jerusalem a Romanis est destructa",
         "jad_id": "jad_occurrence__164",
@@ -13237,6 +15591,323 @@
         "next": {
           "id": "jad_occurrence__343",
           "label": "ventura erant per manus Romanorum populo illi in ultionem sanguinis sui"
+        }
+      },
+      {
+        "id": 640,
+        "passage": "ad litteram titus et vaspasianus",
+        "jad_id": "jad_occurrence__640",
+        "language": null,
+        "position_in_work": "Ps. 79",
+        "text_paragraph": "unde fiat pax etc, et qui sequatur et nota quia quidam sunt in via vero fideles et licet venialiter peccaverunt, quidam a via per criminale, quidam sunt extra via vero heretici et falsi fratres et pagani qui ecclesiam dei persecunt, et spoliunt, vel qui preter gradi viam, id est gentes que preter viam legis que (?) Christus errant, opus (?) ad litteram titus et vaspasianus, ultimo helias, adrianus, exterianus (?), id est ex terminos terre promissionis posuit quia vendidit eos, aper preter ferocitatem et crudelitatem, de silva, vermes de gentilitate silvestris, singularis ferus, id est titus vel as (?) aliorum",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [
+          {
+            "id": 49,
+            "value": "Ps. 79,13"
+          },
+          {
+            "id": 50,
+            "value": "Ps. 79,14"
+          }
+        ],
+        "work": [
+          {
+            "id": 4,
+            "name": "Commentary Psalms ",
+            "jad_id": "jad_work__4",
+            "author": [
+              {
+                "id": 4,
+                "name": "Petrus, Cantor",
+                "jad_id": "jad_author__4",
+                "gnd_url": "https://d-nb.info/gnd/118790625",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 2,
+                "value": "BNF, Latin 14426"
+              },
+              {
+                "id": 68,
+                "value": "BL, Royal 10 C V"
+              }
+            ],
+            "title": "Commentary Psalms",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": null,
+            "notes__author": null,
+            "institutional_context": [
+              {
+                "id": 1,
+                "name": "University of Paris",
+                "jad_id": "jad_institutional_context__1",
+                "part_of": [
+                  {
+                    "id": 16,
+                    "name": "French schools",
+                    "jad_id": "jad_institutional_context__16",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 11,
+                "value": "after 1187"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 22,
+            "name": "Heresy",
+            "short_description": "",
+            "jad_id": "jad_keyword__22",
+            "part_of": []
+          },
+          {
+            "id": 26,
+            "name": "Emperor Hadrian",
+            "short_description": "",
+            "jad_id": "jad_keyword__26",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 9,
+            "value": "Manuscript"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 4,
+              "database_table_3499": 4
+            },
+            "value": "Petrus, Cantor"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 68,
+              "database_table_3497": 7
+            },
+            "value": "BL, Royal 10 C V, f. 98r"
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 116,
+            "value": "jad_occurence__116"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 116,
+            "value": true
+          }
+        ],
+        "incipit": "",
+        "manuscripts": [
+          {
+            "id": 7,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "ad litteram titus et vaspasianus",
+        "prev": {
+          "id": "jad_occurrence__64",
+          "label": "Romanis sub Vespasiano et Tito Judaeos interemit"
+        },
+        "next": {
+          "id": "jad_occurrence__641",
+          "label": "missis exercitibus romanis sub tito et vaspasiano"
+        }
+      },
+      {
+        "id": 645,
+        "passage": "ad excidium urbis",
+        "jad_id": "jad_occurrence__645",
+        "language": null,
+        "position_in_work": "Mt. 23",
+        "text_paragraph": "",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 251,
+            "name": "Commentary Gospels (Unum ex quatuor) ",
+            "jad_id": "jad_work__251",
+            "author": [
+              {
+                "id": 4,
+                "name": "Petrus, Cantor",
+                "jad_id": "jad_author__4",
+                "gnd_url": "https://d-nb.info/gnd/118790625",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 68,
+                "value": "BL, Royal 10 C V"
+              }
+            ],
+            "title": "Commentary Gospels (Unum ex quatuor)",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [
+              {
+                "id": 1,
+                "name": "University of Paris",
+                "jad_id": "jad_institutional_context__1",
+                "part_of": [
+                  {
+                    "id": 16,
+                    "name": "French schools",
+                    "jad_id": "jad_institutional_context__16",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 5,
+                "value": "late 12th cen."
+              },
+              {
+                "id": 11,
+                "value": "after 1187"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": "",
+            "volume_edition": ""
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 6,
+            "name": "Apocalypticism",
+            "short_description": "The occurrence is entangled with eschatological or apocalyptic ideas. This often means that the conquest provides a resource for imagining and conceiving of the End of Times.",
+            "jad_id": "jad_keyword__6",
+            "part_of": []
+          },
+          {
+            "id": 22,
+            "name": "Heresy",
+            "short_description": "",
+            "jad_id": "jad_keyword__22",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 9,
+            "value": "Manuscript"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 4,
+              "database_table_3499": 251
+            },
+            "value": "Petrus, Cantor"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 68,
+              "database_table_3497": 7
+            },
+            "value": "BL, Royal 10 C V, f. 265v"
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 122,
+            "value": "jad_occurence__122"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 122,
+            "value": true
+          }
+        ],
+        "incipit": "",
+        "manuscripts": [
+          {
+            "id": 7,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "ad excidium urbis",
+        "prev": {
+          "id": "jad_occurrence__644",
+          "label": "factum est a romanis"
+        },
+        "next": {
+          "id": "jad_occurrence__646",
+          "label": "tempore romane obsidionis et captivitatis"
         }
       }
     ]
@@ -15390,6 +18061,321 @@
           "id": "jad_occurrence__454",
           "label": "subversa Jerusalem sub Tito et Vespasiano"
         }
+      },
+      {
+        "id": 640,
+        "passage": "ad litteram titus et vaspasianus",
+        "jad_id": "jad_occurrence__640",
+        "language": null,
+        "position_in_work": "Ps. 79",
+        "text_paragraph": "unde fiat pax etc, et qui sequatur et nota quia quidam sunt in via vero fideles et licet venialiter peccaverunt, quidam a via per criminale, quidam sunt extra via vero heretici et falsi fratres et pagani qui ecclesiam dei persecunt, et spoliunt, vel qui preter gradi viam, id est gentes que preter viam legis que (?) Christus errant, opus (?) ad litteram titus et vaspasianus, ultimo helias, adrianus, exterianus (?), id est ex terminos terre promissionis posuit quia vendidit eos, aper preter ferocitatem et crudelitatem, de silva, vermes de gentilitate silvestris, singularis ferus, id est titus vel as (?) aliorum",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [
+          {
+            "id": 49,
+            "value": "Ps. 79,13"
+          },
+          {
+            "id": 50,
+            "value": "Ps. 79,14"
+          }
+        ],
+        "work": [
+          {
+            "id": 4,
+            "name": "Commentary Psalms ",
+            "jad_id": "jad_work__4",
+            "author": [
+              {
+                "id": 4,
+                "name": "Petrus, Cantor",
+                "jad_id": "jad_author__4",
+                "gnd_url": "https://d-nb.info/gnd/118790625",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 2,
+                "value": "BNF, Latin 14426"
+              },
+              {
+                "id": 68,
+                "value": "BL, Royal 10 C V"
+              }
+            ],
+            "title": "Commentary Psalms",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": null,
+            "notes__author": null,
+            "institutional_context": [
+              {
+                "id": 1,
+                "name": "University of Paris",
+                "jad_id": "jad_institutional_context__1",
+                "part_of": [
+                  {
+                    "id": 16,
+                    "name": "French schools",
+                    "jad_id": "jad_institutional_context__16",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 11,
+                "value": "after 1187"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 22,
+            "name": "Heresy",
+            "short_description": "",
+            "jad_id": "jad_keyword__22",
+            "part_of": []
+          },
+          {
+            "id": 26,
+            "name": "Emperor Hadrian",
+            "short_description": "",
+            "jad_id": "jad_keyword__26",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 9,
+            "value": "Manuscript"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 4,
+              "database_table_3499": 4
+            },
+            "value": "Petrus, Cantor"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 68,
+              "database_table_3497": 7
+            },
+            "value": "BL, Royal 10 C V, f. 98r"
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 116,
+            "value": "jad_occurence__116"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 116,
+            "value": true
+          }
+        ],
+        "incipit": "",
+        "manuscripts": [
+          {
+            "id": 7,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "ad litteram titus et vaspasianus",
+        "prev": {
+          "id": "jad_occurrence__64",
+          "label": "Romanis sub Vespasiano et Tito Judaeos interemit"
+        },
+        "next": {
+          "id": "jad_occurrence__641",
+          "label": "missis exercitibus romanis sub tito et vaspasiano"
+        }
+      },
+      {
+        "id": 644,
+        "passage": "factum est a romanis",
+        "jad_id": "jad_occurrence__644",
+        "language": null,
+        "position_in_work": "Mt. 23",
+        "text_paragraph": "ut ostendent ei edificationes, non ignotas sed tamquam admirandas, littera subseverus plana est in quibus non reliquit ia (?) licet XLII anno post passionem domini factum est a romanis quia post per titum et vaspasianum in parte destructa est civitas, que postea ab elio adriano penitus deleta est et templum penitus eversum, sed prenuntiat destructionem templi cum plebe",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [
+          {
+            "id": 29,
+            "value": "Mt. 23,38"
+          }
+        ],
+        "work": [
+          {
+            "id": 251,
+            "name": "Commentary Gospels (Unum ex quatuor) ",
+            "jad_id": "jad_work__251",
+            "author": [
+              {
+                "id": 4,
+                "name": "Petrus, Cantor",
+                "jad_id": "jad_author__4",
+                "gnd_url": "https://d-nb.info/gnd/118790625",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 68,
+                "value": "BL, Royal 10 C V"
+              }
+            ],
+            "title": "Commentary Gospels (Unum ex quatuor)",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [
+              {
+                "id": 1,
+                "name": "University of Paris",
+                "jad_id": "jad_institutional_context__1",
+                "part_of": [
+                  {
+                    "id": 16,
+                    "name": "French schools",
+                    "jad_id": "jad_institutional_context__16",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 5,
+                "value": "late 12th cen."
+              },
+              {
+                "id": 11,
+                "value": "after 1187"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": "",
+            "volume_edition": ""
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 26,
+            "name": "Emperor Hadrian",
+            "short_description": "",
+            "jad_id": "jad_keyword__26",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 9,
+            "value": "Manuscript"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 4,
+              "database_table_3499": 251
+            },
+            "value": "Petrus, Cantor"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 68,
+              "database_table_3497": 7
+            },
+            "value": "BL, Royal 10 C V, f. 265r"
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 120,
+            "value": "jad_occurence__120"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 120,
+            "value": true
+          }
+        ],
+        "incipit": "",
+        "manuscripts": [
+          {
+            "id": 7,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "factum est a romanis",
+        "prev": {
+          "id": "jad_occurrence__643",
+          "label": "contra romanos civitatem et templum dei defenderet"
+        },
+        "next": {
+          "id": "jad_occurrence__645",
+          "label": "ad excidium urbis"
+        }
       }
     ]
   },
@@ -16871,8 +19857,8 @@
       "label": "Vision of violence or extinction"
     },
     "next": {
-      "id": "jad_keyword__4",
-      "label": "Another conquest of Jerusalem"
+      "id": "jad_keyword__32",
+      "label": "Christian emperors"
     },
     "related__passages": [
       {
@@ -17033,5 +20019,883 @@
         }
       }
     ]
+  },
+  "32": {
+    "id": 32,
+    "name": "Christian emperors",
+    "short_description": "The text claims that Titus and/or Vespasian were already Christian, partly depicting their baptism as a prelude to the conquest",
+    "jad_id": "jad_keyword__32",
+    "part_of": [],
+    "view_label": "Christian emperors",
+    "prev": {
+      "id": "jad_keyword__31",
+      "label": "Discussions Roman Empire"
+    },
+    "next": {
+      "id": "jad_keyword__33",
+      "label": "Prolonged siege"
+    },
+    "related__passages": [
+      {
+        "id": 291,
+        "passage": "De Tyto et Vespasiano",
+        "jad_id": "jad_occurrence__291",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "Whole text",
+        "text_paragraph": "iste igitur vaspasianus anno tricesimo octavo sumpsit romanorum imperium, ex quo Iudei crucifixerunt dominum nostrum Ihesum Christum, tunc tiberius cesar tenebat imperium sicut superius est dictum",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 134,
+            "name": "De Tyto et Vespasiano ",
+            "jad_id": "jad_work__134",
+            "author": [
+              {
+                "id": 3,
+                "name": "anonymous",
+                "jad_id": "jad_author__3",
+                "gnd_url": "",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 17,
+                "value": "Cambr. St.John's Coll., MS 127"
+              }
+            ],
+            "title": "De Tyto et Vespasiano",
+            "genre": {
+              "id": 14732,
+              "value": "Idiosyncratic work",
+              "color": "dark-red"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": false,
+            "date": [],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [
+          {
+            "id": 26,
+            "value": "Josephus, Flavius"
+          },
+          {
+            "id": 101,
+            "value": "Vindicta Salvatoris"
+          }
+        ],
+        "keywords": [
+          {
+            "id": 15,
+            "name": "Vengeance",
+            "short_description": "",
+            "jad_id": "jad_keyword__15",
+            "part_of": []
+          },
+          {
+            "id": 16,
+            "name": "Concurrence Easter",
+            "short_description": "The text claims that the conquest happened on Easter, in order to mirror Christ's crucifixion, though it actually happened in the summer of 70 AD (as one reads, for example, in Josephus).",
+            "jad_id": "jad_keyword__16",
+            "part_of": []
+          },
+          {
+            "id": 32,
+            "name": "Christian emperors",
+            "short_description": "The text claims that Titus and/or Vespasian were already Christian, partly depicting their baptism as a prelude to the conquest",
+            "jad_id": "jad_keyword__32",
+            "part_of": []
+          },
+          {
+            "id": 33,
+            "name": "Prolonged siege",
+            "short_description": "The text claims that the Roman siege lasted for several years",
+            "jad_id": "jad_keyword__33",
+            "part_of": []
+          },
+          {
+            "id": 34,
+            "name": "30 pieces of silver",
+            "short_description": "Reference to Judas selling Christ for 30 pieces of silver, often connected with the ideas that the Romans sold 30 Jews for one piece of silver",
+            "jad_id": "jad_keyword__34",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [
+          {
+            "id": 5,
+            "value": "Easter"
+          },
+          {
+            "id": 6,
+            "value": "Pentecost"
+          }
+        ],
+        "occurrence_found_in": [
+          {
+            "id": 5,
+            "value": "In Principio (Brepols)"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 3,
+              "database_table_3499": 134
+            },
+            "value": "anonymous"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 17,
+              "database_table_3497": 8
+            },
+            "value": "Cambr. St.John's Coll., MS 127, f. 96v-103r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 66,
+              "database_table_3497": 32
+            },
+            "value": "Rouen, MS 1426, f. 243r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 72,
+              "database_table_3497": 33
+            },
+            "value": "Cambr. Magd. Coll., F.4.15, f. 87v-91r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 71,
+              "database_table_3497": 10
+            },
+            "value": "Bodl., Rawlinson D 1236, f. "
+          },
+          {
+            "ids": {
+              "database_table_3496": 69,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 3338, f. 168r-169r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 70,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 6755, f. "
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 58,
+            "value": "jad_occurence__58"
+          },
+          {
+            "id": 107,
+            "value": "jad_occurence__107"
+          },
+          {
+            "id": 111,
+            "value": "jad_occurence__111"
+          },
+          {
+            "id": 112,
+            "value": "jad_occurence__112"
+          },
+          {
+            "id": 113,
+            "value": "jad_occurence__113"
+          },
+          {
+            "id": 114,
+            "value": "jad_occurence__114"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 58,
+            "value": true
+          },
+          {
+            "id": 107,
+            "value": false
+          },
+          {
+            "id": 111,
+            "value": false
+          },
+          {
+            "id": 112,
+            "value": false
+          },
+          {
+            "id": 113,
+            "value": false
+          },
+          {
+            "id": 114,
+            "value": false
+          }
+        ],
+        "incipit": null,
+        "manuscripts": [
+          {
+            "id": 8,
+            "value": "Cambr. St.John's Coll., MS 127"
+          },
+          {
+            "id": 32,
+            "value": "Rouen, MS 1426"
+          },
+          {
+            "id": 33,
+            "value": "Cambr. Magd. Coll., F.4.15"
+          },
+          {
+            "id": 10,
+            "value": "Bodl., Rawlinson D 1236"
+          },
+          {
+            "id": 2,
+            "value": "BNF, Latin 3338"
+          },
+          {
+            "id": 2,
+            "value": "BNF, Latin 6755"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "De Tyto et Vespasiano",
+        "prev": {
+          "id": "jad_occurrence__290",
+          "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae"
+        },
+        "next": {
+          "id": "jad_occurrence__292",
+          "label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
+        }
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "name": "Prolonged siege",
+    "short_description": "The text claims that the Roman siege lasted for several years",
+    "jad_id": "jad_keyword__33",
+    "part_of": [],
+    "view_label": "Prolonged siege",
+    "prev": {
+      "id": "jad_keyword__32",
+      "label": "Christian emperors"
+    },
+    "next": {
+      "id": "jad_keyword__34",
+      "label": "30 pieces of silver"
+    },
+    "related__passages": [
+      {
+        "id": 291,
+        "passage": "De Tyto et Vespasiano",
+        "jad_id": "jad_occurrence__291",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "Whole text",
+        "text_paragraph": "iste igitur vaspasianus anno tricesimo octavo sumpsit romanorum imperium, ex quo Iudei crucifixerunt dominum nostrum Ihesum Christum, tunc tiberius cesar tenebat imperium sicut superius est dictum",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 134,
+            "name": "De Tyto et Vespasiano ",
+            "jad_id": "jad_work__134",
+            "author": [
+              {
+                "id": 3,
+                "name": "anonymous",
+                "jad_id": "jad_author__3",
+                "gnd_url": "",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 17,
+                "value": "Cambr. St.John's Coll., MS 127"
+              }
+            ],
+            "title": "De Tyto et Vespasiano",
+            "genre": {
+              "id": 14732,
+              "value": "Idiosyncratic work",
+              "color": "dark-red"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": false,
+            "date": [],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [
+          {
+            "id": 26,
+            "value": "Josephus, Flavius"
+          },
+          {
+            "id": 101,
+            "value": "Vindicta Salvatoris"
+          }
+        ],
+        "keywords": [
+          {
+            "id": 15,
+            "name": "Vengeance",
+            "short_description": "",
+            "jad_id": "jad_keyword__15",
+            "part_of": []
+          },
+          {
+            "id": 16,
+            "name": "Concurrence Easter",
+            "short_description": "The text claims that the conquest happened on Easter, in order to mirror Christ's crucifixion, though it actually happened in the summer of 70 AD (as one reads, for example, in Josephus).",
+            "jad_id": "jad_keyword__16",
+            "part_of": []
+          },
+          {
+            "id": 32,
+            "name": "Christian emperors",
+            "short_description": "The text claims that Titus and/or Vespasian were already Christian, partly depicting their baptism as a prelude to the conquest",
+            "jad_id": "jad_keyword__32",
+            "part_of": []
+          },
+          {
+            "id": 33,
+            "name": "Prolonged siege",
+            "short_description": "The text claims that the Roman siege lasted for several years",
+            "jad_id": "jad_keyword__33",
+            "part_of": []
+          },
+          {
+            "id": 34,
+            "name": "30 pieces of silver",
+            "short_description": "Reference to Judas selling Christ for 30 pieces of silver, often connected with the ideas that the Romans sold 30 Jews for one piece of silver",
+            "jad_id": "jad_keyword__34",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [
+          {
+            "id": 5,
+            "value": "Easter"
+          },
+          {
+            "id": 6,
+            "value": "Pentecost"
+          }
+        ],
+        "occurrence_found_in": [
+          {
+            "id": 5,
+            "value": "In Principio (Brepols)"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 3,
+              "database_table_3499": 134
+            },
+            "value": "anonymous"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 17,
+              "database_table_3497": 8
+            },
+            "value": "Cambr. St.John's Coll., MS 127, f. 96v-103r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 66,
+              "database_table_3497": 32
+            },
+            "value": "Rouen, MS 1426, f. 243r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 72,
+              "database_table_3497": 33
+            },
+            "value": "Cambr. Magd. Coll., F.4.15, f. 87v-91r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 71,
+              "database_table_3497": 10
+            },
+            "value": "Bodl., Rawlinson D 1236, f. "
+          },
+          {
+            "ids": {
+              "database_table_3496": 69,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 3338, f. 168r-169r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 70,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 6755, f. "
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 58,
+            "value": "jad_occurence__58"
+          },
+          {
+            "id": 107,
+            "value": "jad_occurence__107"
+          },
+          {
+            "id": 111,
+            "value": "jad_occurence__111"
+          },
+          {
+            "id": 112,
+            "value": "jad_occurence__112"
+          },
+          {
+            "id": 113,
+            "value": "jad_occurence__113"
+          },
+          {
+            "id": 114,
+            "value": "jad_occurence__114"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 58,
+            "value": true
+          },
+          {
+            "id": 107,
+            "value": false
+          },
+          {
+            "id": 111,
+            "value": false
+          },
+          {
+            "id": 112,
+            "value": false
+          },
+          {
+            "id": 113,
+            "value": false
+          },
+          {
+            "id": 114,
+            "value": false
+          }
+        ],
+        "incipit": null,
+        "manuscripts": [
+          {
+            "id": 8,
+            "value": "Cambr. St.John's Coll., MS 127"
+          },
+          {
+            "id": 32,
+            "value": "Rouen, MS 1426"
+          },
+          {
+            "id": 33,
+            "value": "Cambr. Magd. Coll., F.4.15"
+          },
+          {
+            "id": 10,
+            "value": "Bodl., Rawlinson D 1236"
+          },
+          {
+            "id": 2,
+            "value": "BNF, Latin 3338"
+          },
+          {
+            "id": 2,
+            "value": "BNF, Latin 6755"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "De Tyto et Vespasiano",
+        "prev": {
+          "id": "jad_occurrence__290",
+          "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae"
+        },
+        "next": {
+          "id": "jad_occurrence__292",
+          "label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
+        }
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "name": "30 pieces of silver",
+    "short_description": "Reference to Judas selling Christ for 30 pieces of silver, often connected with the ideas that the Romans sold 30 Jews for one piece of silver",
+    "jad_id": "jad_keyword__34",
+    "part_of": [],
+    "view_label": "30 pieces of silver",
+    "prev": {
+      "id": "jad_keyword__33",
+      "label": "Prolonged siege"
+    },
+    "next": {
+      "id": "jad_keyword__35",
+      "label": ""
+    },
+    "related__passages": [
+      {
+        "id": 291,
+        "passage": "De Tyto et Vespasiano",
+        "jad_id": "jad_occurrence__291",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "Whole text",
+        "text_paragraph": "iste igitur vaspasianus anno tricesimo octavo sumpsit romanorum imperium, ex quo Iudei crucifixerunt dominum nostrum Ihesum Christum, tunc tiberius cesar tenebat imperium sicut superius est dictum",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 134,
+            "name": "De Tyto et Vespasiano ",
+            "jad_id": "jad_work__134",
+            "author": [
+              {
+                "id": 3,
+                "name": "anonymous",
+                "jad_id": "jad_author__3",
+                "gnd_url": "",
+                "notes": null,
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [
+              {
+                "id": 17,
+                "value": "Cambr. St.John's Coll., MS 127"
+              }
+            ],
+            "title": "De Tyto et Vespasiano",
+            "genre": {
+              "id": 14732,
+              "value": "Idiosyncratic work",
+              "color": "dark-red"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 1,
+                "name": "None",
+                "jad_id": "jad_sources_occurrences__1",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": false,
+            "date": [],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition": null
+          }
+        ],
+        "sources_used": [
+          {
+            "id": 26,
+            "value": "Josephus, Flavius"
+          },
+          {
+            "id": 101,
+            "value": "Vindicta Salvatoris"
+          }
+        ],
+        "keywords": [
+          {
+            "id": 15,
+            "name": "Vengeance",
+            "short_description": "",
+            "jad_id": "jad_keyword__15",
+            "part_of": []
+          },
+          {
+            "id": 16,
+            "name": "Concurrence Easter",
+            "short_description": "The text claims that the conquest happened on Easter, in order to mirror Christ's crucifixion, though it actually happened in the summer of 70 AD (as one reads, for example, in Josephus).",
+            "jad_id": "jad_keyword__16",
+            "part_of": []
+          },
+          {
+            "id": 32,
+            "name": "Christian emperors",
+            "short_description": "The text claims that Titus and/or Vespasian were already Christian, partly depicting their baptism as a prelude to the conquest",
+            "jad_id": "jad_keyword__32",
+            "part_of": []
+          },
+          {
+            "id": 33,
+            "name": "Prolonged siege",
+            "short_description": "The text claims that the Roman siege lasted for several years",
+            "jad_id": "jad_keyword__33",
+            "part_of": []
+          },
+          {
+            "id": 34,
+            "name": "30 pieces of silver",
+            "short_description": "Reference to Judas selling Christ for 30 pieces of silver, often connected with the ideas that the Romans sold 30 Jews for one piece of silver",
+            "jad_id": "jad_keyword__34",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [
+          {
+            "id": 5,
+            "value": "Easter"
+          },
+          {
+            "id": 6,
+            "value": "Pentecost"
+          }
+        ],
+        "occurrence_found_in": [
+          {
+            "id": 5,
+            "value": "In Principio (Brepols)"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 3,
+              "database_table_3499": 134
+            },
+            "value": "anonymous"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [
+          {
+            "ids": {
+              "database_table_3496": 17,
+              "database_table_3497": 8
+            },
+            "value": "Cambr. St.John's Coll., MS 127, f. 96v-103r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 66,
+              "database_table_3497": 32
+            },
+            "value": "Rouen, MS 1426, f. 243r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 72,
+              "database_table_3497": 33
+            },
+            "value": "Cambr. Magd. Coll., F.4.15, f. 87v-91r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 71,
+              "database_table_3497": 10
+            },
+            "value": "Bodl., Rawlinson D 1236, f. "
+          },
+          {
+            "ids": {
+              "database_table_3496": 69,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 3338, f. 168r-169r"
+          },
+          {
+            "ids": {
+              "database_table_3496": 70,
+              "database_table_3497": 2
+            },
+            "value": "BNF, Latin 6755, f. "
+          }
+        ],
+        "occurrence_ms": [
+          {
+            "id": 58,
+            "value": "jad_occurence__58"
+          },
+          {
+            "id": 107,
+            "value": "jad_occurence__107"
+          },
+          {
+            "id": 111,
+            "value": "jad_occurence__111"
+          },
+          {
+            "id": 112,
+            "value": "jad_occurence__112"
+          },
+          {
+            "id": 113,
+            "value": "jad_occurence__113"
+          },
+          {
+            "id": 114,
+            "value": "jad_occurence__114"
+          }
+        ],
+        "main_ms": [
+          {
+            "id": 58,
+            "value": true
+          },
+          {
+            "id": 107,
+            "value": false
+          },
+          {
+            "id": 111,
+            "value": false
+          },
+          {
+            "id": 112,
+            "value": false
+          },
+          {
+            "id": 113,
+            "value": false
+          },
+          {
+            "id": 114,
+            "value": false
+          }
+        ],
+        "incipit": null,
+        "manuscripts": [
+          {
+            "id": 8,
+            "value": "Cambr. St.John's Coll., MS 127"
+          },
+          {
+            "id": 32,
+            "value": "Rouen, MS 1426"
+          },
+          {
+            "id": 33,
+            "value": "Cambr. Magd. Coll., F.4.15"
+          },
+          {
+            "id": 10,
+            "value": "Bodl., Rawlinson D 1236"
+          },
+          {
+            "id": 2,
+            "value": "BNF, Latin 3338"
+          },
+          {
+            "id": 2,
+            "value": "BNF, Latin 6755"
+          }
+        ],
+        "ai_bibl_ref": [],
+        "view_label": "De Tyto et Vespasiano",
+        "prev": {
+          "id": "jad_occurrence__290",
+          "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae"
+        },
+        "next": {
+          "id": "jad_occurrence__292",
+          "label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
+        }
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "name": "",
+    "short_description": "",
+    "jad_id": "jad_keyword__35",
+    "part_of": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_keyword__34",
+      "label": "30 pieces of silver"
+    },
+    "next": {
+      "id": "jad_keyword__4",
+      "label": "Another conquest of Jerusalem"
+    },
+    "related__passages": []
   }
 }

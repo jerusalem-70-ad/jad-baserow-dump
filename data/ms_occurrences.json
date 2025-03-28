@@ -508,12 +508,12 @@
     ],
     "view_label": "Impleta prophetia, quam olim Moyses predixerat, foris vastabit eos gladiis, dicit Iosephus, qui de eius exilio civitatis multa describsit",
     "prev": {
-      "id": "jad_occurence__105",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "id": "jad_occurence__109",
+      "label": "dixit ad Iherusalem, quod si cognovisses, et subaudi ruinam que tibi iminet"
     },
     "next": {
-      "id": "jad_occurence__12",
-      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum"
+      "id": "jad_occurence__110",
+      "label": "exercitus titus et vaspasianus, homicede Iudei, civitas Iherusalem acciones sunt vie"
     }
   },
   "12": {
@@ -555,12 +555,12 @@
     ],
     "view_label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
     "prev": {
-      "id": "jad_occurence__11",
-      "label": "Impleta prophetia, quam olim Moyses predixerat, foris vastabit eos gladiis, dicit Iosephus, qui de eius exilio civitatis multa describsit"
+      "id": "jad_occurence__119",
+      "label": "contra romanos civitatem et templum dei defenderet"
     },
     "next": {
-      "id": "jad_occurence__13",
-      "label": "signa destructionis Ierusalem et templi cum dicit ibidem, cum videritis circumdari ab exercitu Ierusalem"
+      "id": "jad_occurence__120",
+      "label": "factum est a romanis"
     }
   },
   "13": {
@@ -602,12 +602,12 @@
     ],
     "view_label": "signa destructionis Ierusalem et templi cum dicit ibidem, cum videritis circumdari ab exercitu Ierusalem",
     "prev": {
-      "id": "jad_occurence__12",
-      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum"
+      "id": "jad_occurence__129",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__14",
-      "label": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam"
+      "id": "jad_occurence__130",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "14": {
@@ -649,8 +649,8 @@
     ],
     "view_label": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam",
     "prev": {
-      "id": "jad_occurence__13",
-      "label": "signa destructionis Ierusalem et templi cum dicit ibidem, cum videritis circumdari ab exercitu Ierusalem"
+      "id": "jad_occurence__132",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__15",
@@ -1030,7 +1030,7 @@
     },
     "next": {
       "id": "jad_occurence__23",
-      "label": "sub romanis"
+      "label": "tertia sub romanis"
     }
   },
   "23": {
@@ -1039,7 +1039,7 @@
     "occurrence": [
       {
         "id": 52,
-        "value": "sub romanis"
+        "value": "tertia sub romanis"
       }
     ],
     "manuscript": [
@@ -1049,7 +1049,7 @@
       }
     ],
     "position_in_ms": "62v",
-    "main_ms": true,
+    "main_ms": false,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -1060,7 +1060,7 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2024-08-05",
+    "last_modified_on": "2025-03-27",
     "ms_locus": [
       {
         "ids": {
@@ -1070,7 +1070,7 @@
         "value": "BNF, Latin 14426, f. 62v"
       }
     ],
-    "view_label": "sub romanis",
+    "view_label": "tertia sub romanis",
     "prev": {
       "id": "jad_occurence__22",
       "label": "ad litteram evenerunt tempore titi et vespasiani"
@@ -1120,7 +1120,7 @@
     "view_label": "Cum adpropinquasset Ihesus Hierusalem, uidens ciuitatem fleuit super illam. Pensare debemus, fratres karissimi, quid sit quod flente Domino, sicut nunc in presenti lectum est, hierosolime ciuitatis subuersio describebatur",
     "prev": {
       "id": "jad_occurence__23",
-      "label": "sub romanis"
+      "label": "tertia sub romanis"
     },
     "next": {
       "id": "jad_occurence__25",
@@ -2693,7 +2693,7 @@
         "value": "Cambr. St.John's Coll., MS 127"
       }
     ],
-    "position_in_ms": "96r-103r",
+    "position_in_ms": "96v-103r",
     "main_ms": true,
     "facsimile_position": "",
     "created_by": {
@@ -2705,14 +2705,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2024-08-07",
+    "last_modified_on": "2025-03-27",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 17,
           "database_table_3497": 8
         },
-        "value": "Cambr. St.John's Coll., MS 127, f. 96r-103r"
+        "value": "Cambr. St.John's Coll., MS 127, f. 96v-103r"
       }
     ],
     "view_label": "De Tyto et Vespasiano",
@@ -3098,18 +3098,13 @@
     },
     "next": {
       "id": "jad_occurence__67",
-      "label": "De tyto et uaspasiano"
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "67": {
     "id": 67,
     "jad_id": "jad_occurence__67",
-    "occurrence": [
-      {
-        "id": 477,
-        "value": "De tyto et uaspasiano"
-      }
-    ],
+    "occurrence": [],
     "manuscript": [
       {
         "id": 17,
@@ -3138,7 +3133,7 @@
         "value": "Cambr. St.John's Coll., MS 127, f. 96-103"
       }
     ],
-    "view_label": "De tyto et uaspasiano",
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__66",
       "label": "tyto et vespasiano ultione urbs capta est"
@@ -3188,7 +3183,7 @@
     "view_label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII",
     "prev": {
       "id": "jad_occurence__67",
-      "label": "De tyto et uaspasiano"
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__69",
@@ -4884,17 +4879,27 @@
     },
     "next": {
       "id": "jad_occurence__105",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Vindicta Salvatoris"
     }
   },
   "105": {
     "id": 105,
     "jad_id": "jad_occurence__105",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 636,
+        "value": "Vindicta Salvatoris"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 65,
+        "value": "Saint-Omer, MS 202"
+      }
+    ],
+    "position_in_ms": "20v-25v",
+    "main_ms": true,
+    "facsimile_position": "https://arca.irht.cnrs.fr/ark:/63955/md73bz60dz4t",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -4904,16 +4909,1185 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-03-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 65,
+          "database_table_3497": 31
+        },
+        "value": "Saint-Omer, MS 202, f. 20v-25v"
+      }
+    ],
+    "view_label": "Vindicta Salvatoris",
     "prev": {
       "id": "jad_occurence__104",
       "label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani"
     },
     "next": {
+      "id": "jad_occurence__106",
+      "label": "Vindicta Salvatoris"
+    }
+  },
+  "106": {
+    "id": 106,
+    "jad_id": "jad_occurence__106",
+    "occurrence": [
+      {
+        "id": 636,
+        "value": "Vindicta Salvatoris"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 64,
+        "value": "BNF, Latin 5327"
+      }
+    ],
+    "position_in_ms": "55r-61v",
+    "main_ms": false,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b9068470g/f57.item",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 64,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 5327, f. 55r-61v"
+      }
+    ],
+    "view_label": "Vindicta Salvatoris",
+    "prev": {
+      "id": "jad_occurence__105",
+      "label": "Vindicta Salvatoris"
+    },
+    "next": {
+      "id": "jad_occurence__107",
+      "label": "De Tyto et Vespasiano"
+    }
+  },
+  "107": {
+    "id": 107,
+    "jad_id": "jad_occurence__107",
+    "occurrence": [
+      {
+        "id": 291,
+        "value": "De Tyto et Vespasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 66,
+        "value": "Rouen, MS 1426"
+      }
+    ],
+    "position_in_ms": "243r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 66,
+          "database_table_3497": 32
+        },
+        "value": "Rouen, MS 1426, f. 243r"
+      }
+    ],
+    "view_label": "De Tyto et Vespasiano",
+    "prev": {
+      "id": "jad_occurence__106",
+      "label": "Vindicta Salvatoris"
+    },
+    "next": {
+      "id": "jad_occurence__108",
+      "label": "cum vaspasianus audisset vii viros ignaros nandi, ligatis pedibus et manibus, vitus proici fecit"
+    }
+  },
+  "108": {
+    "id": 108,
+    "jad_id": "jad_occurence__108",
+    "occurrence": [
+      {
+        "id": 637,
+        "value": "cum vaspasianus audisset vii viros ignaros nandi, ligatis pedibus et manibus, vitus proici fecit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 67,
+        "value": "BL, Royal 2 D VI"
+      }
+    ],
+    "position_in_ms": "139r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 67,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 2 D VI, f. 139r"
+      }
+    ],
+    "view_label": "cum vaspasianus audisset vii viros ignaros nandi, ligatis pedibus et manibus, vitus proici fecit",
+    "prev": {
+      "id": "jad_occurence__107",
+      "label": "De Tyto et Vespasiano"
+    },
+    "next": {
+      "id": "jad_occurence__109",
+      "label": "dixit ad Iherusalem, quod si cognovisses, et subaudi ruinam que tibi iminet"
+    }
+  },
+  "109": {
+    "id": 109,
+    "jad_id": "jad_occurence__109",
+    "occurrence": [
+      {
+        "id": 638,
+        "value": "dixit ad Iherusalem, quod si cognovisses, et subaudi ruinam que tibi iminet"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 67,
+        "value": "BL, Royal 2 D VI"
+      }
+    ],
+    "position_in_ms": "195v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 67,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 2 D VI, f. 195v"
+      }
+    ],
+    "view_label": "dixit ad Iherusalem, quod si cognovisses, et subaudi ruinam que tibi iminet",
+    "prev": {
+      "id": "jad_occurence__108",
+      "label": "cum vaspasianus audisset vii viros ignaros nandi, ligatis pedibus et manibus, vitus proici fecit"
+    },
+    "next": {
       "id": "jad_occurence__11",
       "label": "Impleta prophetia, quam olim Moyses predixerat, foris vastabit eos gladiis, dicit Iosephus, qui de eius exilio civitatis multa describsit"
+    }
+  },
+  "110": {
+    "id": 110,
+    "jad_id": "jad_occurence__110",
+    "occurrence": [
+      {
+        "id": 639,
+        "value": "exercitus titus et vaspasianus, homicede Iudei, civitas Iherusalem acciones sunt vie"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 67,
+        "value": "BL, Royal 2 D VI"
+      }
+    ],
+    "position_in_ms": "203v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 67,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 2 D VI, f. 203v"
+      }
+    ],
+    "view_label": "exercitus titus et vaspasianus, homicede Iudei, civitas Iherusalem acciones sunt vie",
+    "prev": {
+      "id": "jad_occurence__11",
+      "label": "Impleta prophetia, quam olim Moyses predixerat, foris vastabit eos gladiis, dicit Iosephus, qui de eius exilio civitatis multa describsit"
+    },
+    "next": {
+      "id": "jad_occurence__111",
+      "label": "De Tyto et Vespasiano"
+    }
+  },
+  "111": {
+    "id": 111,
+    "jad_id": "jad_occurence__111",
+    "occurrence": [
+      {
+        "id": 291,
+        "value": "De Tyto et Vespasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 72,
+        "value": "Cambr. Magd. Coll., F.4.15"
+      }
+    ],
+    "position_in_ms": "87v-91r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 72,
+          "database_table_3497": 33
+        },
+        "value": "Cambr. Magd. Coll., F.4.15, f. 87v-91r"
+      }
+    ],
+    "view_label": "De Tyto et Vespasiano",
+    "prev": {
+      "id": "jad_occurence__110",
+      "label": "exercitus titus et vaspasianus, homicede Iudei, civitas Iherusalem acciones sunt vie"
+    },
+    "next": {
+      "id": "jad_occurence__112",
+      "label": "De Tyto et Vespasiano"
+    }
+  },
+  "112": {
+    "id": 112,
+    "jad_id": "jad_occurence__112",
+    "occurrence": [
+      {
+        "id": 291,
+        "value": "De Tyto et Vespasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 71,
+        "value": "Bodl., Rawlinson D 1236"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 71,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Rawlinson D 1236, f. "
+      }
+    ],
+    "view_label": "De Tyto et Vespasiano",
+    "prev": {
+      "id": "jad_occurence__111",
+      "label": "De Tyto et Vespasiano"
+    },
+    "next": {
+      "id": "jad_occurence__113",
+      "label": "De Tyto et Vespasiano"
+    }
+  },
+  "113": {
+    "id": 113,
+    "jad_id": "jad_occurence__113",
+    "occurrence": [
+      {
+        "id": 291,
+        "value": "De Tyto et Vespasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 69,
+        "value": "BNF, Latin 3338"
+      }
+    ],
+    "position_in_ms": "168r-169r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 69,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 3338, f. 168r-169r"
+      }
+    ],
+    "view_label": "De Tyto et Vespasiano",
+    "prev": {
+      "id": "jad_occurence__112",
+      "label": "De Tyto et Vespasiano"
+    },
+    "next": {
+      "id": "jad_occurence__114",
+      "label": "De Tyto et Vespasiano"
+    }
+  },
+  "114": {
+    "id": 114,
+    "jad_id": "jad_occurence__114",
+    "occurrence": [
+      {
+        "id": 291,
+        "value": "De Tyto et Vespasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 70,
+        "value": "BNF, Latin 6755"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 70,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 6755, f. "
+      }
+    ],
+    "view_label": "De Tyto et Vespasiano",
+    "prev": {
+      "id": "jad_occurence__113",
+      "label": "De Tyto et Vespasiano"
+    },
+    "next": {
+      "id": "jad_occurence__115",
+      "label": "tertia sub romanis"
+    }
+  },
+  "115": {
+    "id": 115,
+    "jad_id": "jad_occurence__115",
+    "occurrence": [
+      {
+        "id": 52,
+        "value": "tertia sub romanis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "position_in_ms": "97r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 97r"
+      }
+    ],
+    "view_label": "tertia sub romanis",
+    "prev": {
+      "id": "jad_occurence__114",
+      "label": "De Tyto et Vespasiano"
+    },
+    "next": {
+      "id": "jad_occurence__116",
+      "label": "ad litteram titus et vaspasianus"
+    }
+  },
+  "116": {
+    "id": 116,
+    "jad_id": "jad_occurence__116",
+    "occurrence": [
+      {
+        "id": 640,
+        "value": "ad litteram titus et vaspasianus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "position_in_ms": "98r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 98r"
+      }
+    ],
+    "view_label": "ad litteram titus et vaspasianus",
+    "prev": {
+      "id": "jad_occurence__115",
+      "label": "tertia sub romanis"
+    },
+    "next": {
+      "id": "jad_occurence__117",
+      "label": "missis exercitibus romanis sub tito et vaspasiano"
+    }
+  },
+  "117": {
+    "id": 117,
+    "jad_id": "jad_occurence__117",
+    "occurrence": [
+      {
+        "id": 641,
+        "value": "missis exercitibus romanis sub tito et vaspasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "position_in_ms": "250r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 250r"
+      }
+    ],
+    "view_label": "missis exercitibus romanis sub tito et vaspasiano",
+    "prev": {
+      "id": "jad_occurence__116",
+      "label": "ad litteram titus et vaspasianus"
+    },
+    "next": {
+      "id": "jad_occurence__118",
+      "label": "romani principes vallo et obsidione et circumdederunt"
+    }
+  },
+  "118": {
+    "id": 118,
+    "jad_id": "jad_occurence__118",
+    "occurrence": [
+      {
+        "id": 642,
+        "value": "romani principes vallo et obsidione et circumdederunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "position_in_ms": "245r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 245r"
+      }
+    ],
+    "view_label": "romani principes vallo et obsidione et circumdederunt",
+    "prev": {
+      "id": "jad_occurence__117",
+      "label": "missis exercitibus romanis sub tito et vaspasiano"
+    },
+    "next": {
+      "id": "jad_occurence__119",
+      "label": "contra romanos civitatem et templum dei defenderet"
+    }
+  },
+  "119": {
+    "id": 119,
+    "jad_id": "jad_occurence__119",
+    "occurrence": [
+      {
+        "id": 643,
+        "value": "contra romanos civitatem et templum dei defenderet"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "position_in_ms": "259r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 259r"
+      }
+    ],
+    "view_label": "contra romanos civitatem et templum dei defenderet",
+    "prev": {
+      "id": "jad_occurence__118",
+      "label": "romani principes vallo et obsidione et circumdederunt"
+    },
+    "next": {
+      "id": "jad_occurence__12",
+      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum"
+    }
+  },
+  "120": {
+    "id": 120,
+    "jad_id": "jad_occurence__120",
+    "occurrence": [
+      {
+        "id": 644,
+        "value": "factum est a romanis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "position_in_ms": "265r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 265r"
+      }
+    ],
+    "view_label": "factum est a romanis",
+    "prev": {
+      "id": "jad_occurence__12",
+      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum"
+    },
+    "next": {
+      "id": "jad_occurence__121",
+      "label": "Ierusalem obsessus a tito"
+    }
+  },
+  "121": {
+    "id": 121,
+    "jad_id": "jad_occurence__121",
+    "occurrence": [
+      {
+        "id": 648,
+        "value": "Ierusalem obsessus a tito"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 73,
+        "value": "Cambr. Univ. Libr., Ii.VI.44"
+      }
+    ],
+    "position_in_ms": "258r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 73,
+          "database_table_3497": 34
+        },
+        "value": "Cambr. Univ. Libr., Ii.VI.44, f. 258r"
+      }
+    ],
+    "view_label": "Ierusalem obsessus a tito",
+    "prev": {
+      "id": "jad_occurence__120",
+      "label": "factum est a romanis"
+    },
+    "next": {
+      "id": "jad_occurence__122",
+      "label": "ad excidium urbis"
+    }
+  },
+  "122": {
+    "id": 122,
+    "jad_id": "jad_occurence__122",
+    "occurrence": [
+      {
+        "id": 645,
+        "value": "ad excidium urbis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "position_in_ms": "265v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 265v"
+      }
+    ],
+    "view_label": "ad excidium urbis",
+    "prev": {
+      "id": "jad_occurence__121",
+      "label": "Ierusalem obsessus a tito"
+    },
+    "next": {
+      "id": "jad_occurence__123",
+      "label": "tempore romane obsidionis et captivitatis"
+    }
+  },
+  "123": {
+    "id": 123,
+    "jad_id": "jad_occurence__123",
+    "occurrence": [
+      {
+        "id": 646,
+        "value": "tempore romane obsidionis et captivitatis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "position_in_ms": "285v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 285v"
+      }
+    ],
+    "view_label": "tempore romane obsidionis et captivitatis",
+    "prev": {
+      "id": "jad_occurence__122",
+      "label": "ad excidium urbis"
+    },
+    "next": {
+      "id": "jad_occurence__124",
+      "label": "de predictione destructionis Ierusalem"
+    }
+  },
+  "124": {
+    "id": 124,
+    "jad_id": "jad_occurence__124",
+    "occurrence": [
+      {
+        "id": 647,
+        "value": "de predictione destructionis Ierusalem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "position_in_ms": "294r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 294r"
+      }
+    ],
+    "view_label": "de predictione destructionis Ierusalem",
+    "prev": {
+      "id": "jad_occurence__123",
+      "label": "tempore romane obsidionis et captivitatis"
+    },
+    "next": {
+      "id": "jad_occurence__125",
+      "label": "tertio flevit super civitatem"
+    }
+  },
+  "125": {
+    "id": 125,
+    "jad_id": "jad_occurence__125",
+    "occurrence": [
+      {
+        "id": 649,
+        "value": "tertio flevit super civitatem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 74,
+        "value": "Cambr. Univ. Libr., Dd.IV.27"
+      }
+    ],
+    "position_in_ms": "105r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 74,
+          "database_table_3497": 34
+        },
+        "value": "Cambr. Univ. Libr., Dd.IV.27, f. 105r"
+      }
+    ],
+    "view_label": "tertio flevit super civitatem",
+    "prev": {
+      "id": "jad_occurence__124",
+      "label": "de predictione destructionis Ierusalem"
+    },
+    "next": {
+      "id": "jad_occurence__126",
+      "label": "inimici tui vallo tytus et vaspasianus"
+    }
+  },
+  "126": {
+    "id": 126,
+    "jad_id": "jad_occurence__126",
+    "occurrence": [
+      {
+        "id": 650,
+        "value": "inimici tui vallo tytus et vaspasianus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 74,
+        "value": "Cambr. Univ. Libr., Dd.IV.27"
+      }
+    ],
+    "position_in_ms": "226v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 74,
+          "database_table_3497": 34
+        },
+        "value": "Cambr. Univ. Libr., Dd.IV.27, f. 226v"
+      }
+    ],
+    "view_label": "inimici tui vallo tytus et vaspasianus",
+    "prev": {
+      "id": "jad_occurence__125",
+      "label": "tertio flevit super civitatem"
+    },
+    "next": {
+      "id": "jad_occurence__127",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "127": {
+    "id": 127,
+    "jad_id": "jad_occurence__127",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__126",
+      "label": "inimici tui vallo tytus et vaspasianus"
+    },
+    "next": {
+      "id": "jad_occurence__128",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "128": {
+    "id": 128,
+    "jad_id": "jad_occurence__128",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__127",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__129",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "129": {
+    "id": 129,
+    "jad_id": "jad_occurence__129",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__128",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__13",
+      "label": "signa destructionis Ierusalem et templi cum dicit ibidem, cum videritis circumdari ab exercitu Ierusalem"
+    }
+  },
+  "130": {
+    "id": 130,
+    "jad_id": "jad_occurence__130",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__13",
+      "label": "signa destructionis Ierusalem et templi cum dicit ibidem, cum videritis circumdari ab exercitu Ierusalem"
+    },
+    "next": {
+      "id": "jad_occurence__131",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "131": {
+    "id": 131,
+    "jad_id": "jad_occurence__131",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__130",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__132",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "132": {
+    "id": 132,
+    "jad_id": "jad_occurence__132",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__131",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__14",
+      "label": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam"
     }
   }
 }

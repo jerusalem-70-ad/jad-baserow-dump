@@ -2209,22 +2209,422 @@
   "63": {
     "id": 63,
     "order": "62.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 30,
+        "value": "Pembroke Coll., MS 30"
+      }
+    ],
     "jad_id": "jad_manuscript__63",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 30,
+        "value": "Pembroke Coll.",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "idno": "MS 30",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 9,
+        "value": "around 1200",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 30,
+        "value": "Cambridge, Pembroke College"
+      }
+    ]
   },
   "64": {
     "id": 64,
     "order": "62.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 5327"
+      }
+    ],
     "jad_id": "jad_manuscript__64",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "Latin 5327",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc64267k",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b9068470g/f57.item",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 50,
+        "value": "10th cen.",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "format": "27 x 18, 205 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
+  },
+  "65": {
+    "id": 65,
+    "order": "62.00000000000000000000",
+    "name": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, MS 202"
+      }
+    ],
+    "jad_id": "jad_manuscript__65",
+    "library": [
+      {
+        "id": 31,
+        "value": "Saint-Omer",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "idno": "MS 202",
+    "catalog_url": "https://arca.irht.cnrs.fr/ark:/63955/md73bz60dz4t",
+    "digi_url": "https://arca.irht.cnrs.fr/ark:/63955/md73bz60dz4t",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 1,
+        "value": "9th cen.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "format": "27 x 15, 180 ff.",
+    "library_full": [
+      {
+        "id": 31,
+        "value": "Bibliothèque Municipale (Saint-Omer)"
+      }
+    ]
+  },
+  "66": {
+    "id": 66,
+    "order": "63.00000000000000000000",
+    "name": [
+      {
+        "id": 32,
+        "value": "Rouen, MS 1426"
+      }
+    ],
+    "jad_id": "jad_manuscript__66",
+    "library": [
+      {
+        "id": 32,
+        "value": "Rouen",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "idno": "MS 1426",
+    "catalog_url": "https://arca.irht.cnrs.fr/ark:/63955/md08v979vz7g",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 43,
+        "value": "14th cen.",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 32,
+        "value": "Bibliothèque Municipale (Rouen)"
+      }
+    ]
+  },
+  "67": {
+    "id": 67,
+    "order": "63.00000000000000000000",
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Royal 2 D VI"
+      }
+    ],
+    "jad_id": "jad_manuscript__67",
+    "library": [
+      {
+        "id": 7,
+        "value": "BL",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "idno": "Royal 2 D VI",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "12 x 15, 230 ff.",
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ]
+  },
+  "68": {
+    "id": 68,
+    "order": "64.00000000000000000000",
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "jad_id": "jad_manuscript__68",
+    "library": [
+      {
+        "id": 7,
+        "value": "BL",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "idno": "Royal 10 C V",
+    "catalog_url": "https://archive.org/details/BMCatalogueOfWesternMssRoyal1/page/n375/mode/2up?view=theater",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "25 x 35, 442 ff.",
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ]
+  },
+  "69": {
+    "id": 69,
+    "order": "64.00000000000000000000",
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3338"
+      }
+    ],
+    "jad_id": "jad_manuscript__69",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "Latin 3338",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61223c",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10882784s/f170.item",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 17,
+        "value": "around 1300",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "format": "33 x 24, 194 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
+  },
+  "70": {
+    "id": 70,
+    "order": "65.00000000000000000000",
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 6755"
+      }
+    ],
+    "jad_id": "jad_manuscript__70",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "Latin 6755",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc65879f",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
+  },
+  "71": {
+    "id": 71,
+    "order": "66.00000000000000000000",
+    "name": [
+      {
+        "id": 10,
+        "value": "Bodl., Rawlinson D 1236"
+      }
+    ],
+    "jad_id": "jad_manuscript__71",
+    "library": [
+      {
+        "id": 10,
+        "value": "Bodl.",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "idno": "Rawlinson D 1236",
+    "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8413",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 43,
+        "value": "14th cen.",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 10,
+        "value": "Bodleian Library"
+      }
+    ]
+  },
+  "72": {
+    "id": 72,
+    "order": "67.00000000000000000000",
+    "name": [
+      {
+        "id": 33,
+        "value": "Cambr. Magd. Coll., F.4.15"
+      }
+    ],
+    "jad_id": "jad_manuscript__72",
+    "library": [
+      {
+        "id": 33,
+        "value": "Cambr. Magd. Coll.",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "idno": "F.4.15",
+    "catalog_url": "https://archive.org/details/descriptivecatal00magd/page/40/mode/2up?view=theater",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 33,
+        "value": "Cambridge, Magdalene College"
+      }
+    ]
+  },
+  "73": {
+    "id": 73,
+    "order": "68.00000000000000000000",
+    "name": [
+      {
+        "id": 34,
+        "value": "Cambr. Univ. Libr., Ii.VI.44"
+      }
+    ],
+    "jad_id": "jad_manuscript__73",
+    "library": [
+      {
+        "id": 34,
+        "value": "Cambr. Univ. Libr.",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "idno": "Ii.VI.44",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 43,
+        "value": "14th cen.",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "format": "6 x 10, 269 ff.",
+    "library_full": [
+      {
+        "id": 34,
+        "value": "Cambridge University Library"
+      }
+    ]
+  },
+  "74": {
+    "id": 74,
+    "order": "69.00000000000000000000",
+    "name": [
+      {
+        "id": 34,
+        "value": "Cambr. Univ. Libr., Dd.IV.27"
+      }
+    ],
+    "jad_id": "jad_manuscript__74",
+    "library": [
+      {
+        "id": 34,
+        "value": "Cambr. Univ. Libr.",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "idno": "Dd.IV.27",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "15 x 22, 239 ff.",
+    "library_full": [
+      {
+        "id": 34,
+        "value": "Cambridge University Library"
+      }
+    ]
+  },
+  "75": {
+    "id": 75,
+    "order": "70.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__75",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -2234,11 +2634,67 @@
     "format": "",
     "library_full": []
   },
-  "65": {
-    "id": 65,
-    "order": "62.00000000000000000000",
+  "76": {
+    "id": 76,
+    "order": "71.00000000000000000000",
     "name": [],
-    "jad_id": "jad_manuscript__65",
+    "jad_id": "jad_manuscript__76",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "77": {
+    "id": 77,
+    "order": "72.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__77",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "78": {
+    "id": 78,
+    "order": "72.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__78",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "79": {
+    "id": 79,
+    "order": "73.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__79",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "80": {
+    "id": 80,
+    "order": "74.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__80",
     "library": [],
     "idno": "",
     "catalog_url": "",

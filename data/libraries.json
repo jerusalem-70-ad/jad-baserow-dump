@@ -1341,7 +1341,166 @@
         },
         "next": {
           "id": "jad_manuscript__63",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Pembroke Coll., MS 30"
+        }
+      },
+      {
+        "id": 64,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 5327"
+          }
+        ],
+        "jad_id": "jad_manuscript__64",
+        "library": [
+          {
+            "id": 2,
+            "name": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "Latin 5327",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc64267k",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b9068470g/f57.item",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 50,
+            "value": "10th cen."
+          }
+        ],
+        "format": "27 x 18, 205 ff.",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, Latin 5327",
+        "prev": {
+          "id": "jad_manuscript__63",
+          "label": "Pembroke Coll., MS 30"
+        },
+        "next": {
+          "id": "jad_manuscript__65",
+          "label": "Saint-Omer, MS 202"
+        }
+      },
+      {
+        "id": 69,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 3338"
+          }
+        ],
+        "jad_id": "jad_manuscript__69",
+        "library": [
+          {
+            "id": 2,
+            "name": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "Latin 3338",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61223c",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10882784s/f170.item",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 17,
+            "value": "around 1300"
+          }
+        ],
+        "format": "33 x 24, 194 ff.",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, Latin 3338",
+        "prev": {
+          "id": "jad_manuscript__68",
+          "label": "BL, Royal 10 C V"
+        },
+        "next": {
+          "id": "jad_manuscript__7",
+          "label": "Maz., MS 177"
+        }
+      },
+      {
+        "id": 70,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 6755"
+          }
+        ],
+        "jad_id": "jad_manuscript__70",
+        "library": [
+          {
+            "id": 2,
+            "name": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "Latin 6755",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc65879f",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, Latin 6755",
+        "prev": {
+          "id": "jad_manuscript__7",
+          "label": "Maz., MS 177"
+        },
+        "next": {
+          "id": "jad_manuscript__71",
+          "label": "Bodl., Rawlinson D 1236"
         }
       }
     ]
@@ -1367,7 +1526,7 @@
     },
     "next": {
       "id": "jad_library__30",
-      "label": ""
+      "label": "Pembroke Coll."
     },
     "related__manuscripts": [
       {
@@ -1455,7 +1614,7 @@
     ],
     "view_label": "St. Gen.",
     "prev": {
-      "id": "jad_library__30",
+      "id": "jad_library__36",
       "label": ""
     },
     "next": {
@@ -1575,12 +1734,12 @@
         ],
         "view_label": "St. Gen., MS 1422",
         "prev": {
-          "id": "jad_manuscript__7",
-          "label": "Maz., MS 177"
+          "id": "jad_manuscript__79",
+          "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
-          "id": "jad_manuscript__9",
-          "label": "Lam., MS 144"
+          "id": "jad_manuscript__80",
+          "label": "NO MATCH FOR $..name[0].value"
         }
       },
       {
@@ -1735,12 +1894,12 @@
         ],
         "view_label": "Maz., MS 177",
         "prev": {
-          "id": "jad_manuscript__65",
-          "label": "NO MATCH FOR $..name[0].value"
+          "id": "jad_manuscript__69",
+          "label": "BNF, Latin 3338"
         },
         "next": {
-          "id": "jad_manuscript__8",
-          "label": "St. Gen., MS 1422"
+          "id": "jad_manuscript__70",
+          "label": "BNF, Latin 6755"
         }
       },
       {
@@ -2175,8 +2334,8 @@
         ],
         "view_label": "Lam., MS 144",
         "prev": {
-          "id": "jad_manuscript__8",
-          "label": "St. Gen., MS 1422"
+          "id": "jad_manuscript__80",
+          "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
           "id": "jad_manuscript__10",
@@ -2356,6 +2515,102 @@
         "next": {
           "id": "jad_manuscript__15",
           "label": "BNF, Latin 620"
+        }
+      },
+      {
+        "id": 67,
+        "name": [
+          {
+            "id": 7,
+            "value": "BL, Royal 2 D VI"
+          }
+        ],
+        "jad_id": "jad_manuscript__67",
+        "library": [
+          {
+            "id": 7,
+            "name": "BL",
+            "jad_id": "jad_library__7",
+            "gnd_url": "https://d-nb.info/gnd/1023420-2",
+            "full_name": "British Library",
+            "place": [
+              {
+                "id": 5,
+                "name": "London",
+                "geonames_url": "https://www.geonames.org/2643743/london.html",
+                "jad_id": "jad_places__5"
+              }
+            ]
+          }
+        ],
+        "idno": "Royal 2 D VI",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "12 x 15, 230 ff.",
+        "library_full": [
+          {
+            "id": 7,
+            "value": "British Library"
+          }
+        ],
+        "view_label": "BL, Royal 2 D VI",
+        "prev": {
+          "id": "jad_manuscript__66",
+          "label": "Rouen, MS 1426"
+        },
+        "next": {
+          "id": "jad_manuscript__68",
+          "label": "BL, Royal 10 C V"
+        }
+      },
+      {
+        "id": 68,
+        "name": [
+          {
+            "id": 7,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "jad_id": "jad_manuscript__68",
+        "library": [
+          {
+            "id": 7,
+            "name": "BL",
+            "jad_id": "jad_library__7",
+            "gnd_url": "https://d-nb.info/gnd/1023420-2",
+            "full_name": "British Library",
+            "place": [
+              {
+                "id": 5,
+                "name": "London",
+                "geonames_url": "https://www.geonames.org/2643743/london.html",
+                "jad_id": "jad_places__5"
+              }
+            ]
+          }
+        ],
+        "idno": "Royal 10 C V",
+        "catalog_url": "https://archive.org/details/BMCatalogueOfWesternMssRoyal1/page/n375/mode/2up?view=theater",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "25 x 35, 442 ff.",
+        "library_full": [
+          {
+            "id": 7,
+            "value": "British Library"
+          }
+        ],
+        "view_label": "BL, Royal 10 C V",
+        "prev": {
+          "id": "jad_manuscript__67",
+          "label": "BL, Royal 2 D VI"
+        },
+        "next": {
+          "id": "jad_manuscript__69",
+          "label": "BNF, Latin 3338"
         }
       }
     ]
@@ -2648,6 +2903,59 @@
         "next": {
           "id": "jad_manuscript__49",
           "label": "Trinity Coll., B.14.43"
+        }
+      },
+      {
+        "id": 71,
+        "name": [
+          {
+            "id": 10,
+            "value": "Bodl., Rawlinson D 1236"
+          }
+        ],
+        "jad_id": "jad_manuscript__71",
+        "library": [
+          {
+            "id": 10,
+            "name": "Bodl.",
+            "jad_id": "jad_library__10",
+            "gnd_url": "https://d-nb.info/gnd/38352-1",
+            "full_name": "Bodleian Library",
+            "place": [
+              {
+                "id": 6,
+                "name": "Oxford",
+                "geonames_url": "https://www.geonames.org/2640729/oxford.html",
+                "jad_id": "jad_places__6"
+              }
+            ]
+          }
+        ],
+        "idno": "Rawlinson D 1236",
+        "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_8413",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 43,
+            "value": "14th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 10,
+            "value": "Bodleian Library"
+          }
+        ],
+        "view_label": "Bodl., Rawlinson D 1236",
+        "prev": {
+          "id": "jad_manuscript__70",
+          "label": "BNF, Latin 6755"
+        },
+        "next": {
+          "id": "jad_manuscript__72",
+          "label": "Cambr. Magd. Coll., F.4.15"
         }
       }
     ]
@@ -3960,15 +4268,448 @@
   },
   "30": {
     "id": 30,
-    "name": "",
+    "name": "Pembroke Coll.",
     "jad_id": "jad_library__30",
+    "gnd_url": "https://d-nb.info/gnd/1220253-8",
+    "full_name": "Cambridge, Pembroke College",
+    "place": [
+      {
+        "id": 7,
+        "name": "Cambridge",
+        "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
+        "jad_id": "jad_places__7"
+      }
+    ],
+    "view_label": "Pembroke Coll.",
+    "prev": {
+      "id": "jad_library__3",
+      "label": "San Isidoro"
+    },
+    "next": {
+      "id": "jad_library__31",
+      "label": "Saint-Omer"
+    },
+    "related__manuscripts": [
+      {
+        "id": 63,
+        "name": [
+          {
+            "id": 30,
+            "value": "Pembroke Coll., MS 30"
+          }
+        ],
+        "jad_id": "jad_manuscript__63",
+        "library": [
+          {
+            "id": 30,
+            "name": "Pembroke Coll.",
+            "jad_id": "jad_library__30",
+            "gnd_url": "https://d-nb.info/gnd/1220253-8",
+            "full_name": "Cambridge, Pembroke College",
+            "place": [
+              {
+                "id": 7,
+                "name": "Cambridge",
+                "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
+                "jad_id": "jad_places__7"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 30",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 9,
+            "value": "around 1200"
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 30,
+            "value": "Cambridge, Pembroke College"
+          }
+        ],
+        "view_label": "Pembroke Coll., MS 30",
+        "prev": {
+          "id": "jad_manuscript__62",
+          "label": "BNF, Latin 2451"
+        },
+        "next": {
+          "id": "jad_manuscript__64",
+          "label": "BNF, Latin 5327"
+        }
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "name": "Saint-Omer",
+    "jad_id": "jad_library__31",
+    "gnd_url": "https://d-nb.info/gnd/411822-4",
+    "full_name": "Bibliothèque Municipale (Saint-Omer)",
+    "place": [],
+    "view_label": "Saint-Omer",
+    "prev": {
+      "id": "jad_library__30",
+      "label": "Pembroke Coll."
+    },
+    "next": {
+      "id": "jad_library__32",
+      "label": "Rouen"
+    },
+    "related__manuscripts": [
+      {
+        "id": 65,
+        "name": [
+          {
+            "id": 31,
+            "value": "Saint-Omer, MS 202"
+          }
+        ],
+        "jad_id": "jad_manuscript__65",
+        "library": [
+          {
+            "id": 31,
+            "name": "Saint-Omer",
+            "jad_id": "jad_library__31",
+            "gnd_url": "https://d-nb.info/gnd/411822-4",
+            "full_name": "Bibliothèque Municipale (Saint-Omer)",
+            "place": []
+          }
+        ],
+        "idno": "MS 202",
+        "catalog_url": "https://arca.irht.cnrs.fr/ark:/63955/md73bz60dz4t",
+        "digi_url": "https://arca.irht.cnrs.fr/ark:/63955/md73bz60dz4t",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 1,
+            "value": "9th cen."
+          }
+        ],
+        "format": "27 x 15, 180 ff.",
+        "library_full": [
+          {
+            "id": 31,
+            "value": "Bibliothèque Municipale (Saint-Omer)"
+          }
+        ],
+        "view_label": "Saint-Omer, MS 202",
+        "prev": {
+          "id": "jad_manuscript__64",
+          "label": "BNF, Latin 5327"
+        },
+        "next": {
+          "id": "jad_manuscript__66",
+          "label": "Rouen, MS 1426"
+        }
+      }
+    ]
+  },
+  "32": {
+    "id": 32,
+    "name": "Rouen",
+    "jad_id": "jad_library__32",
+    "gnd_url": "https://d-nb.info/gnd/1032332-6",
+    "full_name": "Bibliothèque Municipale (Rouen)",
+    "place": [],
+    "view_label": "Rouen",
+    "prev": {
+      "id": "jad_library__31",
+      "label": "Saint-Omer"
+    },
+    "next": {
+      "id": "jad_library__33",
+      "label": "Cambr. Magd. Coll."
+    },
+    "related__manuscripts": [
+      {
+        "id": 66,
+        "name": [
+          {
+            "id": 32,
+            "value": "Rouen, MS 1426"
+          }
+        ],
+        "jad_id": "jad_manuscript__66",
+        "library": [
+          {
+            "id": 32,
+            "name": "Rouen",
+            "jad_id": "jad_library__32",
+            "gnd_url": "https://d-nb.info/gnd/1032332-6",
+            "full_name": "Bibliothèque Municipale (Rouen)",
+            "place": []
+          }
+        ],
+        "idno": "MS 1426",
+        "catalog_url": "https://arca.irht.cnrs.fr/ark:/63955/md08v979vz7g",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 43,
+            "value": "14th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 32,
+            "value": "Bibliothèque Municipale (Rouen)"
+          }
+        ],
+        "view_label": "Rouen, MS 1426",
+        "prev": {
+          "id": "jad_manuscript__65",
+          "label": "Saint-Omer, MS 202"
+        },
+        "next": {
+          "id": "jad_manuscript__67",
+          "label": "BL, Royal 2 D VI"
+        }
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "name": "Cambr. Magd. Coll.",
+    "jad_id": "jad_library__33",
+    "gnd_url": "https://d-nb.info/gnd/1052776-X",
+    "full_name": "Cambridge, Magdalene College",
+    "place": [
+      {
+        "id": 7,
+        "name": "Cambridge",
+        "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
+        "jad_id": "jad_places__7"
+      }
+    ],
+    "view_label": "Cambr. Magd. Coll.",
+    "prev": {
+      "id": "jad_library__32",
+      "label": "Rouen"
+    },
+    "next": {
+      "id": "jad_library__34",
+      "label": "Cambr. Univ. Libr."
+    },
+    "related__manuscripts": [
+      {
+        "id": 72,
+        "name": [
+          {
+            "id": 33,
+            "value": "Cambr. Magd. Coll., F.4.15"
+          }
+        ],
+        "jad_id": "jad_manuscript__72",
+        "library": [
+          {
+            "id": 33,
+            "name": "Cambr. Magd. Coll.",
+            "jad_id": "jad_library__33",
+            "gnd_url": "https://d-nb.info/gnd/1052776-X",
+            "full_name": "Cambridge, Magdalene College",
+            "place": [
+              {
+                "id": 7,
+                "name": "Cambridge",
+                "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
+                "jad_id": "jad_places__7"
+              }
+            ]
+          }
+        ],
+        "idno": "F.4.15",
+        "catalog_url": "https://archive.org/details/descriptivecatal00magd/page/40/mode/2up?view=theater",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 33,
+            "value": "Cambridge, Magdalene College"
+          }
+        ],
+        "view_label": "Cambr. Magd. Coll., F.4.15",
+        "prev": {
+          "id": "jad_manuscript__71",
+          "label": "Bodl., Rawlinson D 1236"
+        },
+        "next": {
+          "id": "jad_manuscript__73",
+          "label": "Cambr. Univ. Libr., Ii.VI.44"
+        }
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "name": "Cambr. Univ. Libr.",
+    "jad_id": "jad_library__34",
+    "gnd_url": "https://d-nb.info/gnd/1010752-6",
+    "full_name": "Cambridge University Library",
+    "place": [
+      {
+        "id": 7,
+        "name": "Cambridge",
+        "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
+        "jad_id": "jad_places__7"
+      }
+    ],
+    "view_label": "Cambr. Univ. Libr.",
+    "prev": {
+      "id": "jad_library__33",
+      "label": "Cambr. Magd. Coll."
+    },
+    "next": {
+      "id": "jad_library__35",
+      "label": ""
+    },
+    "related__manuscripts": [
+      {
+        "id": 73,
+        "name": [
+          {
+            "id": 34,
+            "value": "Cambr. Univ. Libr., Ii.VI.44"
+          }
+        ],
+        "jad_id": "jad_manuscript__73",
+        "library": [
+          {
+            "id": 34,
+            "name": "Cambr. Univ. Libr.",
+            "jad_id": "jad_library__34",
+            "gnd_url": "https://d-nb.info/gnd/1010752-6",
+            "full_name": "Cambridge University Library",
+            "place": [
+              {
+                "id": 7,
+                "name": "Cambridge",
+                "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
+                "jad_id": "jad_places__7"
+              }
+            ]
+          }
+        ],
+        "idno": "Ii.VI.44",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 43,
+            "value": "14th cen."
+          }
+        ],
+        "format": "6 x 10, 269 ff.",
+        "library_full": [
+          {
+            "id": 34,
+            "value": "Cambridge University Library"
+          }
+        ],
+        "view_label": "Cambr. Univ. Libr., Ii.VI.44",
+        "prev": {
+          "id": "jad_manuscript__72",
+          "label": "Cambr. Magd. Coll., F.4.15"
+        },
+        "next": {
+          "id": "jad_manuscript__74",
+          "label": "Cambr. Univ. Libr., Dd.IV.27"
+        }
+      },
+      {
+        "id": 74,
+        "name": [
+          {
+            "id": 34,
+            "value": "Cambr. Univ. Libr., Dd.IV.27"
+          }
+        ],
+        "jad_id": "jad_manuscript__74",
+        "library": [
+          {
+            "id": 34,
+            "name": "Cambr. Univ. Libr.",
+            "jad_id": "jad_library__34",
+            "gnd_url": "https://d-nb.info/gnd/1010752-6",
+            "full_name": "Cambridge University Library",
+            "place": [
+              {
+                "id": 7,
+                "name": "Cambridge",
+                "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
+                "jad_id": "jad_places__7"
+              }
+            ]
+          }
+        ],
+        "idno": "Dd.IV.27",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "15 x 22, 239 ff.",
+        "library_full": [
+          {
+            "id": 34,
+            "value": "Cambridge University Library"
+          }
+        ],
+        "view_label": "Cambr. Univ. Libr., Dd.IV.27",
+        "prev": {
+          "id": "jad_manuscript__73",
+          "label": "Cambr. Univ. Libr., Ii.VI.44"
+        },
+        "next": {
+          "id": "jad_manuscript__75",
+          "label": "NO MATCH FOR $..name[0].value"
+        }
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "name": "",
+    "jad_id": "jad_library__35",
     "gnd_url": "",
     "full_name": "",
     "place": [],
     "view_label": "",
     "prev": {
-      "id": "jad_library__3",
-      "label": "San Isidoro"
+      "id": "jad_library__34",
+      "label": "Cambr. Univ. Libr."
+    },
+    "next": {
+      "id": "jad_library__36",
+      "label": ""
+    },
+    "related__manuscripts": []
+  },
+  "36": {
+    "id": 36,
+    "name": "",
+    "jad_id": "jad_library__36",
+    "gnd_url": "",
+    "full_name": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_library__35",
+      "label": ""
     },
     "next": {
       "id": "jad_library__4",

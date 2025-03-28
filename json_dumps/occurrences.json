@@ -4411,7 +4411,7 @@
   "52": {
     "id": 52,
     "order": "52.00000000000000000000",
-    "passage": "sub romanis",
+    "passage": "tertia sub romanis",
     "jad_id": "jad_occurrence__52",
     "language": {
       "id": 14729,
@@ -4419,7 +4419,7 @@
       "color": "dark-yellow"
     },
     "position_in_work": "Ps. 78",
-    "text_paragraph": "",
+    "text_paragraph": "prima captivitas fuit sub nabugodonosor, secunda sub antiocho ephifane, tertia sub romanis, modo potest dici quod iiii fuit sub salehadino, quinta per hereticos et falsos fratres cotidie, sexta erit per antichristum graviorum (?) omnibus, non (?) est alter mathatias hodie qui zelum dei habet, qui liberet terram",
     "note": "Bird, Jessalynn L.: “Rogations, Litanies, and Crusade Preaching: The Liturgical Front in the Late Twelfth and Early Thirteenth Centuries.” In: *Papacy, Crusade, and Christian-Muslim Relations*, ed. Jessalynn L. Bird (Amsterdam 2018), pp. 155-193.",
     "explicit_contemp_ref": "",
     "biblical_references": [
@@ -4437,7 +4437,38 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 2,
+        "value": "Third Crusade",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 8,
+        "value": "Jerusalem's conquest 1187",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "Typology",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 11,
+        "value": "Babylonian conquest of Jerusalem",
+        "order": "11.00000000000000000000"
+      },
+      {
+        "id": 18,
+        "value": "Greek conquest of Jerusalem",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 22,
+        "value": "Heresy",
+        "order": "22.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 2,
@@ -4471,6 +4502,13 @@
           "database_table_3497": 2
         },
         "value": "BNF, Latin 14426, f. 62v"
+      },
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 97r"
       }
     ],
     "occurrence_ms": [
@@ -4478,11 +4516,20 @@
         "id": 23,
         "value": "jad_occurence__23",
         "order": "23.00000000000000000000"
+      },
+      {
+        "id": 115,
+        "value": "jad_occurence__115",
+        "order": "112.00000000000000000000"
       }
     ],
     "main_ms": [
       {
         "id": 23,
+        "value": false
+      },
+      {
+        "id": 115,
         "value": true
       }
     ],
@@ -4491,6 +4538,10 @@
       {
         "id": 2,
         "value": "BNF, Latin 14426"
+      },
+      {
+        "id": 7,
+        "value": "BL, Royal 10 C V"
       }
     ],
     "ai_bibl_ref": []
@@ -21439,8 +21490,8 @@
       "value": "Latin",
       "color": "dark-yellow"
     },
-    "position_in_work": "",
-    "text_paragraph": "",
+    "position_in_work": "Whole text",
+    "text_paragraph": "iste igitur vaspasianus anno tricesimo octavo sumpsit romanorum imperium, ex quo Iudei crucifixerunt dominum nostrum Ihesum Christum, tunc tiberius cesar tenebat imperium sicut superius est dictum",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
@@ -21451,11 +21502,59 @@
         "order": "133.00000000000000000000"
       }
     ],
-    "sources_used": [],
-    "keywords": [],
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 101,
+        "value": "Vindicta Salvatoris",
+        "order": "100.00000000000000000000"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 15,
+        "value": "Vengeance",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 16,
+        "value": "Concurrence Easter",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 32,
+        "value": "Christian emperors",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 33,
+        "value": "Prolonged siege",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 34,
+        "value": "30 pieces of silver",
+        "order": "34.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
-    "liturgical_references": [],
+    "liturgical_references": [
+      {
+        "id": 5,
+        "value": "Easter",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Pentecost",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "occurrence_found_in": [
       {
         "id": 5,
@@ -21479,7 +21578,42 @@
           "database_table_3496": 17,
           "database_table_3497": 8
         },
-        "value": "Cambr. St.John's Coll., MS 127, f. 96r-103r"
+        "value": "Cambr. St.John's Coll., MS 127, f. 96v-103r"
+      },
+      {
+        "ids": {
+          "database_table_3496": 66,
+          "database_table_3497": 32
+        },
+        "value": "Rouen, MS 1426, f. 243r"
+      },
+      {
+        "ids": {
+          "database_table_3496": 72,
+          "database_table_3497": 33
+        },
+        "value": "Cambr. Magd. Coll., F.4.15, f. 87v-91r"
+      },
+      {
+        "ids": {
+          "database_table_3496": 71,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Rawlinson D 1236, f. "
+      },
+      {
+        "ids": {
+          "database_table_3496": 69,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 3338, f. 168r-169r"
+      },
+      {
+        "ids": {
+          "database_table_3496": 70,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 6755, f. "
       }
     ],
     "occurrence_ms": [
@@ -21487,12 +21621,57 @@
         "id": 58,
         "value": "jad_occurence__58",
         "order": "57.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "jad_occurence__107",
+        "order": "105.00000000000000000000"
+      },
+      {
+        "id": 111,
+        "value": "jad_occurence__111",
+        "order": "108.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "jad_occurence__112",
+        "order": "109.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "jad_occurence__113",
+        "order": "110.00000000000000000000"
+      },
+      {
+        "id": 114,
+        "value": "jad_occurence__114",
+        "order": "111.00000000000000000000"
       }
     ],
     "main_ms": [
       {
         "id": 58,
         "value": true
+      },
+      {
+        "id": 107,
+        "value": false
+      },
+      {
+        "id": 111,
+        "value": false
+      },
+      {
+        "id": 112,
+        "value": false
+      },
+      {
+        "id": 113,
+        "value": false
+      },
+      {
+        "id": 114,
+        "value": false
       }
     ],
     "incipit": null,
@@ -21500,6 +21679,26 @@
       {
         "id": 8,
         "value": "Cambr. St.John's Coll., MS 127"
+      },
+      {
+        "id": 32,
+        "value": "Rouen, MS 1426"
+      },
+      {
+        "id": 33,
+        "value": "Cambr. Magd. Coll., F.4.15"
+      },
+      {
+        "id": 10,
+        "value": "Bodl., Rawlinson D 1236"
+      },
+      {
+        "id": 2,
+        "value": "BNF, Latin 3338"
+      },
+      {
+        "id": 2,
+        "value": "BNF, Latin 6755"
       }
     ],
     "ai_bibl_ref": []
@@ -28228,7 +28427,7 @@
   "408": {
     "id": 408,
     "order": "400.00000000000000000000",
-    "passage": "mmisit duos ursos de silvis gentium, Vespasianum scilicet, et Titum",
+    "passage": "misit duos ursos de silvis gentium, Vespasianum scilicet, et Titum",
     "jad_id": "jad_occurrence__408",
     "language": {
       "id": 14729,
@@ -31613,77 +31812,6 @@
     "main_ms": [],
     "incipit": null,
     "manuscripts": [],
-    "ai_bibl_ref": []
-  },
-  "477": {
-    "id": 477,
-    "order": "466.00000000000000000000",
-    "passage": "De tyto et uaspasiano",
-    "jad_id": "jad_occurrence__477",
-    "language": null,
-    "position_in_work": "",
-    "text_paragraph": "",
-    "note": "",
-    "explicit_contemp_ref": "",
-    "biblical_references": [],
-    "work": [
-      {
-        "id": 134,
-        "value": "De Tyto et Vespasiano ",
-        "order": "133.00000000000000000000"
-      }
-    ],
-    "sources_used": [],
-    "keywords": [],
-    "part_of_cluster": [],
-    "authority_discourse": 0,
-    "liturgical_references": [],
-    "occurrence_found_in": [
-      {
-        "id": 9,
-        "value": "Manuscript",
-        "order": "8.00000000000000000000"
-      }
-    ],
-    "author_lookup": [
-      {
-        "ids": {
-          "database_table_3498": 3,
-          "database_table_3499": 134
-        },
-        "value": "anonymous"
-      }
-    ],
-    "source_passage": [],
-    "mss_locus": [
-      {
-        "ids": {
-          "database_table_3496": 17,
-          "database_table_3497": 8
-        },
-        "value": "Cambr. St.John's Coll., MS 127, f. 96-103"
-      }
-    ],
-    "occurrence_ms": [
-      {
-        "id": 67,
-        "value": "jad_occurence__67",
-        "order": "66.00000000000000000000"
-      }
-    ],
-    "main_ms": [
-      {
-        "id": 67,
-        "value": true
-      }
-    ],
-    "incipit": null,
-    "manuscripts": [
-      {
-        "id": 8,
-        "value": "Cambr. St.John's Coll., MS 127"
-      }
-    ],
     "ai_bibl_ref": []
   },
   "478": {
@@ -40282,22 +40410,48 @@
   "635": {
     "id": 635,
     "order": "624.00000000000000000000",
-    "passage": "",
+    "passage": "venient romani et tollent nostrum locum",
     "jad_id": "jad_occurrence__635",
     "language": null,
-    "position_in_work": "",
-    "text_paragraph": "",
+    "position_in_work": "Sermo 29",
+    "text_paragraph": "nunquid aliquis ex principibus credidit in eum aut ex phariseis, sed turba hec que non novit legem maledicti sunt, lactaverunt autem dicentes, si dimittimus eum sic omnes credent in eum, et venient romani et tollent nostrum locum et gentem, respondente caypha, expedit vobis ut unus monatur homo pro populo, et non tota gens pereat, hiis sermonibus quasi lacte delectatur populus ab illo die cogitaverunt occidere eum",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
-    "work": [],
+    "biblical_references": [
+      {
+        "id": 36,
+        "value": "Joh. 11,48",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 244,
+        "value": "Homeliae super Ezechielem ",
+        "order": "242.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 100,
+          "database_table_3499": 244
+        },
+        "value": "Robertus, de Cricklade"
+      }
+    ],
     "source_passage": [],
     "mss_locus": [],
     "occurrence_ms": [],
@@ -40309,34 +40463,98 @@
   "636": {
     "id": 636,
     "order": "625.00000000000000000000",
-    "passage": "",
+    "passage": "Vindicta Salvatoris",
     "jad_id": "jad_occurrence__636",
     "language": null,
-    "position_in_work": "",
-    "text_paragraph": "",
-    "note": "",
+    "position_in_work": "Whole text",
+    "text_paragraph": "In diebus Tiberii Caesaris imperatoris, Herode tetrarcha,\nsub Pentio Pilato traditus fuit Christus a Iudaeis et revelatus a Tiberio. In diebus illis erat Titus regulus sub Tiberio in regione Equitaniae in civitate Libiae quae dicitur Burgidalla. Titus namque vulnus habebat in nare dextra propter cancrum , et habebat faciem dilaceratam usque ad oculum.",
+    "note": "Tischendorf",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 245,
+        "value": "Vindicta Salvatoris ",
+        "order": "243.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 245
+        },
+        "value": "anonymous"
+      }
+    ],
     "source_passage": [],
-    "mss_locus": [],
-    "occurrence_ms": [],
-    "main_ms": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 65,
+          "database_table_3497": 31
+        },
+        "value": "Saint-Omer, MS 202, f. 20v-25v"
+      },
+      {
+        "ids": {
+          "database_table_3496": 64,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 5327, f. 55r-61v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 105,
+        "value": "jad_occurence__105",
+        "order": "103.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "jad_occurence__106",
+        "order": "104.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 105,
+        "value": true
+      },
+      {
+        "id": 106,
+        "value": false
+      }
+    ],
     "incipit": "",
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 31,
+        "value": "Saint-Omer, MS 202"
+      },
+      {
+        "id": 2,
+        "value": "BNF, Latin 5327"
+      }
+    ],
     "ai_bibl_ref": []
   },
   "637": {
     "id": 637,
     "order": "626.00000000000000000000",
-    "passage": "",
+    "passage": "cum vaspasianus audisset vii viros ignaros nandi, ligatis pedibus et manibus, vitus proici fecit",
     "jad_id": "jad_occurrence__637",
     "language": null,
     "position_in_work": "",
@@ -40344,189 +40562,1157 @@
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 38,
+        "value": "Historia Orientalis ",
+        "order": "38.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 35,
+          "database_table_3499": 38
+        },
+        "value": "Jacques, de Vitry"
+      }
+    ],
     "source_passage": [],
-    "mss_locus": [],
-    "occurrence_ms": [],
-    "main_ms": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 67,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 2 D VI, f. 139r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 108,
+        "value": "jad_occurence__108",
+        "order": "106.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 108,
+        "value": true
+      }
+    ],
     "incipit": "",
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "BL, Royal 2 D VI"
+      }
+    ],
     "ai_bibl_ref": []
   },
   "638": {
     "id": 638,
     "order": "627.00000000000000000000",
-    "passage": "",
+    "passage": "dixit ad Iherusalem, quod si cognovisses, et subaudi ruinam que tibi iminet",
     "jad_id": "jad_occurrence__638",
     "language": null,
     "position_in_work": "",
-    "text_paragraph": "",
+    "text_paragraph": "nos ergo fratres hec cogitantes ploremus super nosmetipsos, unde dominus dixit ad Iherusalem, quod si cognovisses, et subaudi ruinam que tibi iminet, et tu subaudi que modo exultas, flevisses, ploremus itaque super civitatem corporis nostri lugentes peccata nostra que per membra corporis fecimus",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
-    "work": [],
+    "biblical_references": [
+      {
+        "id": 1,
+        "value": "Lk. 19,41",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 246,
+        "value": "Sermones ",
+        "order": "244.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
-    "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "liturgical_references": [
+      {
+        "id": 24,
+        "value": "Title lacking (no space)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 246
+        },
+        "value": "anonymous"
+      }
+    ],
     "source_passage": [],
-    "mss_locus": [],
-    "occurrence_ms": [],
-    "main_ms": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 67,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 2 D VI, f. 195v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 109,
+        "value": "jad_occurence__109",
+        "order": "106.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 109,
+        "value": true
+      }
+    ],
     "incipit": "",
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "BL, Royal 2 D VI"
+      }
+    ],
     "ai_bibl_ref": []
   },
   "639": {
     "id": 639,
     "order": "628.00000000000000000000",
-    "passage": "",
+    "passage": "exercitus titus et vaspasianus, homicede Iudei, civitas Iherusalem acciones sunt vie",
     "jad_id": "jad_occurrence__639",
     "language": null,
     "position_in_work": "",
-    "text_paragraph": "",
+    "text_paragraph": "et omnia sunt parata, quia introitus regni apertus, in villam ire est labori terreno in moderate incumbere, negociari vero, terrenis lucris inhiare, exercitus titus et vaspasianus, homicede Iudei, civitas Iherusalem actiones sunt vie, exitus de factis actionum, quia plurimum facile convertuntur quos in terrenis actionibus prospera milla commitantur, hii sunt pauperes et gentiles qui postea congregati sunt ad nuptias, id est ad fidem convenerunt",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 246,
+        "value": "Sermones ",
+        "order": "244.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
-    "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "liturgical_references": [
+      {
+        "id": 24,
+        "value": "Title lacking (no space)",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 246
+        },
+        "value": "anonymous"
+      }
+    ],
     "source_passage": [],
-    "mss_locus": [],
-    "occurrence_ms": [],
-    "main_ms": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 67,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 2 D VI, f. 203v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 110,
+        "value": "jad_occurence__110",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 110,
+        "value": true
+      }
+    ],
     "incipit": "",
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "BL, Royal 2 D VI"
+      }
+    ],
     "ai_bibl_ref": []
   },
   "640": {
     "id": 640,
     "order": "629.00000000000000000000",
-    "passage": "",
+    "passage": "ad litteram titus et vaspasianus",
     "jad_id": "jad_occurrence__640",
     "language": null,
-    "position_in_work": "",
-    "text_paragraph": "",
+    "position_in_work": "Ps. 79",
+    "text_paragraph": "unde fiat pax etc, et qui sequatur et nota quia quidam sunt in via vero fideles et licet venialiter peccaverunt, quidam a via per criminale, quidam sunt extra via vero heretici et falsi fratres et pagani qui ecclesiam dei persecunt, et spoliunt, vel qui preter gradi viam, id est gentes que preter viam legis que (?) Christus errant, opus (?) ad litteram titus et vaspasianus, ultimo helias, adrianus, exterianus (?), id est ex terminos terre promissionis posuit quia vendidit eos, aper preter ferocitatem et crudelitatem, de silva, vermes de gentilitate silvestris, singularis ferus, id est titus vel as (?) aliorum",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
-    "work": [],
+    "biblical_references": [
+      {
+        "id": 49,
+        "value": "Ps. 79,13",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "Ps. 79,14",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 4,
+        "value": "Commentary Psalms ",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 22,
+        "value": "Heresy",
+        "order": "22.00000000000000000000"
+      },
+      {
+        "id": 26,
+        "value": "Emperor Hadrian",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 4,
+          "database_table_3499": 4
+        },
+        "value": "Petrus, Cantor"
+      }
+    ],
     "source_passage": [],
-    "mss_locus": [],
-    "occurrence_ms": [],
-    "main_ms": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 98r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 116,
+        "value": "jad_occurence__116",
+        "order": "113.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 116,
+        "value": true
+      }
+    ],
     "incipit": "",
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
     "ai_bibl_ref": []
   },
   "641": {
     "id": 641,
     "order": "630.00000000000000000000",
-    "passage": "",
+    "passage": "missis exercitibus romanis sub tito et vaspasiano",
     "jad_id": "jad_occurrence__641",
     "language": null,
-    "position_in_work": "",
-    "text_paragraph": "",
+    "position_in_work": "Mt. 22",
+    "text_paragraph": "cum audisset vocem sanguinis, iratus est, tamen cum tranquilitate indicans, sed hoc dicitur quo (?) fecit quod iratus solet, missis exercitibus romanis sub tito et vaspasiano, homicidas enim Iudeos, et civitate Ierusalem succendit, vel sic missus exercitus, id est angelis per quos iudicium exercebit",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
-    "work": [],
+    "biblical_references": [
+      {
+        "id": 28,
+        "value": "Mt. 22,7",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 251,
+        "value": "Commentary Gospels (Unum ex quatuor) ",
+        "order": "249.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 4,
+          "database_table_3499": 251
+        },
+        "value": "Petrus, Cantor"
+      }
+    ],
     "source_passage": [],
-    "mss_locus": [],
-    "occurrence_ms": [],
-    "main_ms": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 250r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 117,
+        "value": "jad_occurence__117",
+        "order": "113.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 117,
+        "value": true
+      }
+    ],
     "incipit": "",
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
     "ai_bibl_ref": []
   },
   "642": {
     "id": 642,
     "order": "631.00000000000000000000",
-    "passage": "",
+    "passage": "romani principes vallo et obsidione et circumdederunt",
     "jad_id": "jad_occurrence__642",
     "language": null,
-    "position_in_work": "",
-    "text_paragraph": "",
+    "position_in_work": "Lk. 19",
+    "text_paragraph": "si enim previderes in presentibus prosperis leta non fuisses, et ecce pena, que ignoras imminentem, quia venit dies ultionis in te, id est contra te, et id est circum in uni, romani principes vallo et obsidione et circumdederunt in giro et coangus, te prelibet, angustiis et pressuris prosternent adeo quia helius eam arabilem fecit, et tam transtulit civitatem",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
-    "work": [],
+    "biblical_references": [
+      {
+        "id": 1,
+        "value": "Lk. 19,41",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "Lk. 19,42",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Lk. 19,43",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Lk. 19,44",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 251,
+        "value": "Commentary Gospels (Unum ex quatuor) ",
+        "order": "249.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 4,
+          "database_table_3499": 251
+        },
+        "value": "Petrus, Cantor"
+      }
+    ],
     "source_passage": [],
-    "mss_locus": [],
-    "occurrence_ms": [],
-    "main_ms": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 245r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 118,
+        "value": "jad_occurence__118",
+        "order": "114.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 118,
+        "value": true
+      }
+    ],
     "incipit": "",
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
     "ai_bibl_ref": []
   },
   "643": {
     "id": 643,
     "order": "632.00000000000000000000",
-    "passage": "",
+    "passage": "contra romanos civitatem et templum dei defenderet",
     "jad_id": "jad_occurrence__643",
     "language": null,
-    "position_in_work": "",
-    "text_paragraph": "",
+    "position_in_work": "John 11",
+    "text_paragraph": "et quia sentiebant eius doctrinam esse contra templum et primas leges timebant ne si omnes crederent in Christum, nemo remaneret qui contra romanos civitatem et templum dei defenderet, unde sequitur, et venient romani et tollunt etc, de temporalibus timent non de eternis, et utraque perdiderunt, locus est Ierusalem quem perdiderunt, gentem suam perdiderunt",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
-    "work": [],
+    "biblical_references": [
+      {
+        "id": 36,
+        "value": "Joh. 11,48",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 251,
+        "value": "Commentary Gospels (Unum ex quatuor) ",
+        "order": "249.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 4,
+          "database_table_3499": 251
+        },
+        "value": "Petrus, Cantor"
+      }
+    ],
     "source_passage": [],
-    "mss_locus": [],
-    "occurrence_ms": [],
-    "main_ms": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 259r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 119,
+        "value": "jad_occurence__119",
+        "order": "115.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 119,
+        "value": true
+      }
+    ],
     "incipit": "",
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
     "ai_bibl_ref": []
   },
   "644": {
     "id": 644,
     "order": "633.00000000000000000000",
-    "passage": "",
+    "passage": "factum est a romanis",
     "jad_id": "jad_occurrence__644",
+    "language": null,
+    "position_in_work": "Mt. 23",
+    "text_paragraph": "ut ostendent ei edificationes, non ignotas sed tamquam admirandas, littera subseverus plana est in quibus non reliquit ia (?) licet XLII anno post passionem domini factum est a romanis quia post per titum et vaspasianum in parte destructa est civitas, que postea ab elio adriano penitus deleta est et templum penitus eversum, sed prenuntiat destructionem templi cum plebe",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 29,
+        "value": "Mt. 23,38",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 251,
+        "value": "Commentary Gospels (Unum ex quatuor) ",
+        "order": "249.00000000000000000000"
+      }
+    ],
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 26,
+        "value": "Emperor Hadrian",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 4,
+          "database_table_3499": 251
+        },
+        "value": "Petrus, Cantor"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 265r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 120,
+        "value": "jad_occurence__120",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 120,
+        "value": true
+      }
+    ],
+    "incipit": "",
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "ai_bibl_ref": []
+  },
+  "645": {
+    "id": 645,
+    "order": "634.00000000000000000000",
+    "passage": "ad excidium urbis",
+    "jad_id": "jad_occurrence__645",
+    "language": null,
+    "position_in_work": "Mt. 23",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 251,
+        "value": "Commentary Gospels (Unum ex quatuor) ",
+        "order": "249.00000000000000000000"
+      }
+    ],
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 6,
+        "value": "Apocalypticism",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 22,
+        "value": "Heresy",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 4,
+          "database_table_3499": 251
+        },
+        "value": "Petrus, Cantor"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 265v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 122,
+        "value": "jad_occurence__122",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 122,
+        "value": true
+      }
+    ],
+    "incipit": "",
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "ai_bibl_ref": []
+  },
+  "646": {
+    "id": 646,
+    "order": "635.00000000000000000000",
+    "passage": "tempore romane obsidionis et captivitatis",
+    "jad_id": "jad_occurrence__646",
+    "language": null,
+    "position_in_work": "Mt. 27",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 251,
+        "value": "Commentary Gospels (Unum ex quatuor) ",
+        "order": "249.00000000000000000000"
+      }
+    ],
+    "sources_used": [
+      {
+        "id": 26,
+        "value": "Josephus, Flavius",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 4,
+          "database_table_3499": 251
+        },
+        "value": "Petrus, Cantor"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 285v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 123,
+        "value": "jad_occurence__123",
+        "order": "119.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 123,
+        "value": true
+      }
+    ],
+    "incipit": "",
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "ai_bibl_ref": []
+  },
+  "647": {
+    "id": 647,
+    "order": "636.00000000000000000000",
+    "passage": "de predictione destructionis Ierusalem",
+    "jad_id": "jad_occurrence__647",
+    "language": null,
+    "position_in_work": "Table of contents",
+    "text_paragraph": "de predictione destructionis Ierusalem",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 251,
+        "value": "Commentary Gospels (Unum ex quatuor) ",
+        "order": "249.00000000000000000000"
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 4,
+          "database_table_3499": 251
+        },
+        "value": "Petrus, Cantor"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 294r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 124,
+        "value": "jad_occurence__124",
+        "order": "120.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 124,
+        "value": true
+      }
+    ],
+    "incipit": "",
+    "manuscripts": [
+      {
+        "id": 7,
+        "value": "BL, Royal 10 C V"
+      }
+    ],
+    "ai_bibl_ref": []
+  },
+  "648": {
+    "id": 648,
+    "order": "637.00000000000000000000",
+    "passage": "Ierusalem obsessus a tito",
+    "jad_id": "jad_occurrence__648",
+    "language": null,
+    "position_in_work": "Good Friday",
+    "text_paragraph": "et Iudas qui Christum tradidit exana (?), suspendio se peremit, et pylatus qui eum tradidit ex placentia, manu propria se occidit, et Iudaicus propter quem contra eum clamavit ex nequitia in Ierusalem obsessus a tito, undecies centena milia fame perierunt, et gladio, et nonaginta milia sunt in servos et ancillas, venditione distincta, sicut ipsi deum emerunt XXX denariis grossis a Iuda sicut de eis",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [
+      {
+        "id": 247,
+        "value": "Sermones ",
+        "order": "245.00000000000000000000"
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 5,
+        "value": "Easter",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 102,
+          "database_table_3499": 247
+        },
+        "value": "Nicolaus, de Hanapis, patriarch of Jerusalem"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 73,
+          "database_table_3497": 34
+        },
+        "value": "Cambr. Univ. Libr., Ii.VI.44, f. 258r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 121,
+        "value": "jad_occurence__121",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 121,
+        "value": true
+      }
+    ],
+    "incipit": "Audidit deus dolorem dolore meo, psalmus 49, sic contrarium (?) constet esse naturam, similiter (?) in eodem esse non posse et dolor et gaudium sunt sibi contraria, fortis oritur",
+    "manuscripts": [
+      {
+        "id": 34,
+        "value": "Cambr. Univ. Libr., Ii.VI.44"
+      }
+    ],
+    "ai_bibl_ref": []
+  },
+  "649": {
+    "id": 649,
+    "order": "637.00000000000000000000",
+    "passage": "tertio flevit super civitatem",
+    "jad_id": "jad_occurrence__649",
+    "language": null,
+    "position_in_work": "Good Friday",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 1,
+        "value": "Lk. 19,41",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 248,
+        "value": "Sermones ",
+        "order": "246.00000000000000000000"
+      }
+    ],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 5,
+        "value": "Easter",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 103,
+          "database_table_3499": 248
+        },
+        "value": "William, de Montibus"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 74,
+          "database_table_3497": 34
+        },
+        "value": "Cambr. Univ. Libr., Dd.IV.27, f. 105r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 125,
+        "value": "jad_occurence__125",
+        "order": "121.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 125,
+        "value": true
+      }
+    ],
+    "incipit": "",
+    "manuscripts": [
+      {
+        "id": 34,
+        "value": "Cambr. Univ. Libr., Dd.IV.27"
+      }
+    ],
+    "ai_bibl_ref": []
+  },
+  "650": {
+    "id": 650,
+    "order": "638.00000000000000000000",
+    "passage": "inimici tui vallo tytus et vaspasianus",
+    "jad_id": "jad_occurrence__650",
+    "language": null,
+    "position_in_work": "X Sunday",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 1,
+        "value": "Lk. 19,41",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "Lk. 19,42",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Lk. 19,43",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Lk. 19,44",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "4 Reg. 2,23",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "4 Reg. 2,24",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 248,
+        "value": "Sermones ",
+        "order": "246.00000000000000000000"
+      }
+    ],
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 12,
+        "value": "Christ cleansing Temple",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 1,
+        "value": "X Sunday after Holy Trinity",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 9,
+        "value": "Manuscript",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 103,
+          "database_table_3499": 248
+        },
+        "value": "William, de Montibus"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 74,
+          "database_table_3497": 34
+        },
+        "value": "Cambr. Univ. Libr., Dd.IV.27, f. 226v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 126,
+        "value": "jad_occurence__126",
+        "order": "122.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 126,
+        "value": true
+      }
+    ],
+    "incipit": "",
+    "manuscripts": [
+      {
+        "id": 34,
+        "value": "Cambr. Univ. Libr., Dd.IV.27"
+      }
+    ],
+    "ai_bibl_ref": []
+  },
+  "651": {
+    "id": 651,
+    "order": "639.00000000000000000000",
+    "passage": "",
+    "jad_id": "jad_occurrence__651",
     "language": null,
     "position_in_work": "",
     "text_paragraph": "",
@@ -40549,11 +41735,11 @@
     "manuscripts": [],
     "ai_bibl_ref": []
   },
-  "645": {
-    "id": 645,
-    "order": "634.00000000000000000000",
+  "652": {
+    "id": 652,
+    "order": "640.00000000000000000000",
     "passage": "",
-    "jad_id": "jad_occurrence__645",
+    "jad_id": "jad_occurrence__652",
     "language": null,
     "position_in_work": "",
     "text_paragraph": "",

@@ -1175,6 +1175,121 @@
           "id": "jad_work__241",
           "label": "Sermones "
         }
+      },
+      {
+        "id": 245,
+        "name": "Vindicta Salvatoris ",
+        "jad_id": "jad_work__245",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 64,
+            "value": "BNF, Latin 5327"
+          },
+          {
+            "id": 65,
+            "value": "Saint-Omer, MS 202"
+          }
+        ],
+        "title": "Vindicta Salvatoris",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 52,
+            "value": "around 700"
+          }
+        ],
+        "link_digital_editions": "https://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ222436500",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "Tischendorf",
+        "view_label": "Vindicta Salvatoris ",
+        "prev": {
+          "id": "jad_work__244",
+          "label": "Homeliae super Ezechielem "
+        },
+        "next": {
+          "id": "jad_work__246",
+          "label": "Sermones "
+        }
+      },
+      {
+        "id": 246,
+        "name": "Sermones ",
+        "jad_id": "jad_work__246",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 67,
+            "value": "BL, Royal 2 D VI"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__245",
+          "label": "Vindicta Salvatoris "
+        },
+        "next": {
+          "id": "jad_work__247",
+          "label": "Sermones "
+        }
       }
     ]
   },
@@ -1213,6 +1328,10 @@
           {
             "id": 2,
             "value": "BNF, Latin 14426"
+          },
+          {
+            "id": 68,
+            "value": "BL, Royal 10 C V"
           }
         ],
         "title": "Commentary Psalms",
@@ -1553,6 +1672,82 @@
         "next": {
           "id": "jad_work__220",
           "label": "Commentary Hosea "
+        }
+      },
+      {
+        "id": 251,
+        "name": "Commentary Gospels (Unum ex quatuor) ",
+        "jad_id": "jad_work__251",
+        "author": [
+          {
+            "id": 4,
+            "name": "Petrus, Cantor",
+            "jad_id": "jad_author__4",
+            "gnd_url": "https://d-nb.info/gnd/118790625",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 68,
+            "value": "BL, Royal 10 C V"
+          }
+        ],
+        "title": "Commentary Gospels (Unum ex quatuor)",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          },
+          {
+            "id": 11,
+            "value": "after 1187"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Commentary Gospels (Unum ex quatuor) ",
+        "prev": {
+          "id": "jad_work__250",
+          "label": " "
+        },
+        "next": {
+          "id": "jad_work__252",
+          "label": " "
         }
       }
     ]
@@ -3594,7 +3789,7 @@
     },
     "next": {
       "id": "jad_author__100",
-      "label": ""
+      "label": "Robertus, de Cricklade"
     },
     "related__works": [
       {
@@ -3972,7 +4167,7 @@
     "lebensdaten": null,
     "view_label": "Luculentius",
     "prev": {
-      "id": "jad_author__102",
+      "id": "jad_author__107",
       "label": ""
     },
     "next": {
@@ -6891,12 +7086,12 @@
         "volume_edition": null,
         "view_label": "Historia Hierosolymitana ",
         "prev": {
-          "id": "jad_work__245",
+          "id": "jad_work__249",
           "label": " "
         },
         "next": {
-          "id": "jad_work__26",
-          "label": "Commentary Isaiah "
+          "id": "jad_work__250",
+          "label": " "
         }
       }
     ]
@@ -7055,8 +7250,8 @@
         "volume_edition": null,
         "view_label": "Commentary Isaiah ",
         "prev": {
-          "id": "jad_work__25",
-          "label": "Historia Hierosolymitana "
+          "id": "jad_work__252",
+          "label": " "
         },
         "next": {
           "id": "jad_work__27",
@@ -15734,57 +15929,292 @@
         },
         "next": {
           "id": "jad_work__244",
-          "label": " "
+          "label": "Homeliae super Ezechielem "
         }
       }
     ]
   },
   "100": {
     "id": 100,
-    "name": "",
+    "name": "Robertus, de Cricklade",
     "jad_id": "jad_author__100",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100959652",
     "notes": "",
     "lebensdaten": "",
-    "view_label": "",
+    "view_label": "Robertus, de Cricklade",
     "prev": {
       "id": "jad_author__10",
       "label": "Langton, Stephen"
     },
     "next": {
       "id": "jad_author__101",
-      "label": ""
+      "label": "Vindicta Salvatoris"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 244,
+        "name": "Homeliae super Ezechielem ",
+        "jad_id": "jad_work__244",
+        "author": [
+          {
+            "id": 100,
+            "name": "Robertus, de Cricklade",
+            "jad_id": "jad_author__100",
+            "gnd_url": "https://d-nb.info/gnd/100959652",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Homeliae super Ezechielem",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 11,
+            "value": "after 1187"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Homeliae super Ezechielem ",
+        "prev": {
+          "id": "jad_work__243",
+          "label": "Pugio fidei "
+        },
+        "next": {
+          "id": "jad_work__245",
+          "label": "Vindicta Salvatoris "
+        }
+      }
+    ]
   },
   "101": {
     "id": 101,
-    "name": "",
+    "name": "Vindicta Salvatoris",
     "jad_id": "jad_author__101",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4529844-0",
     "notes": "",
     "lebensdaten": "",
-    "view_label": "",
+    "view_label": "Vindicta Salvatoris",
     "prev": {
       "id": "jad_author__100",
-      "label": ""
+      "label": "Robertus, de Cricklade"
     },
     "next": {
       "id": "jad_author__102",
-      "label": ""
+      "label": "Nicolaus, de Hanapis, patriarch of Jerusalem"
     },
     "related__works": []
   },
   "102": {
     "id": 102,
-    "name": "",
+    "name": "Nicolaus, de Hanapis, patriarch of Jerusalem",
     "jad_id": "jad_author__102",
+    "gnd_url": "https://d-nb.info/gnd/100954820",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Nicolaus, de Hanapis, patriarch of Jerusalem",
+    "prev": {
+      "id": "jad_author__101",
+      "label": "Vindicta Salvatoris"
+    },
+    "next": {
+      "id": "jad_author__103",
+      "label": "William, de Montibus"
+    },
+    "related__works": [
+      {
+        "id": 247,
+        "name": "Sermones ",
+        "jad_id": "jad_work__247",
+        "author": [
+          {
+            "id": 102,
+            "name": "Nicolaus, de Hanapis, patriarch of Jerusalem",
+            "jad_id": "jad_author__102",
+            "gnd_url": "https://d-nb.info/gnd/100954820",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          },
+          {
+            "id": 53,
+            "value": "before 1291"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__246",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__248",
+          "label": "Sermones "
+        }
+      }
+    ]
+  },
+  "103": {
+    "id": 103,
+    "name": "William, de Montibus",
+    "jad_id": "jad_author__103",
+    "gnd_url": "https://d-nb.info/gnd/119060531",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "William, de Montibus",
+    "prev": {
+      "id": "jad_author__102",
+      "label": "Nicolaus, de Hanapis, patriarch of Jerusalem"
+    },
+    "next": {
+      "id": "jad_author__104",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 248,
+        "name": "Sermones ",
+        "jad_id": "jad_work__248",
+        "author": [
+          {
+            "id": 103,
+            "name": "William, de Montibus",
+            "jad_id": "jad_author__103",
+            "gnd_url": "https://d-nb.info/gnd/119060531",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__247",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__249",
+          "label": " "
+        }
+      }
+    ]
+  },
+  "104": {
+    "id": 104,
+    "name": "",
+    "jad_id": "jad_author__104",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
     "view_label": "",
     "prev": {
-      "id": "jad_author__101",
+      "id": "jad_author__103",
+      "label": "William, de Montibus"
+    },
+    "next": {
+      "id": "jad_author__105",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "105": {
+    "id": 105,
+    "name": "",
+    "jad_id": "jad_author__105",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__104",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__106",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "106": {
+    "id": 106,
+    "name": "",
+    "jad_id": "jad_author__106",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__105",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__107",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "107": {
+    "id": 107,
+    "name": "",
+    "jad_id": "jad_author__107",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__106",
       "label": ""
     },
     "next": {

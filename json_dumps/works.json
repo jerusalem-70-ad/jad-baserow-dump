@@ -193,6 +193,11 @@
         "id": 2,
         "value": "BNF, Latin 14426",
         "order": "2.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V",
+        "order": "64.00000000000000000000"
       }
     ],
     "title": "Commentary Psalms",
@@ -10827,8 +10832,216 @@
   "244": {
     "id": 244,
     "order": "242.00000000000000000000",
-    "name": " ",
+    "name": "Homeliae super Ezechielem ",
     "jad_id": "jad_work__244",
+    "author": [
+      {
+        "id": 100,
+        "value": "Robertus, de Cricklade",
+        "order": "99.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Homeliae super Ezechielem",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 11,
+        "value": "after 1187",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "245": {
+    "id": 245,
+    "order": "243.00000000000000000000",
+    "name": "Vindicta Salvatoris ",
+    "jad_id": "jad_work__245",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 64,
+        "value": "BNF, Latin 5327",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 65,
+        "value": "Saint-Omer, MS 202",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "title": "Vindicta Salvatoris",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 52,
+        "value": "around 700",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ222436500",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": "Tischendorf"
+  },
+  "246": {
+    "id": 246,
+    "order": "244.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__246",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 67,
+        "value": "BL, Royal 2 D VI",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "247": {
+    "id": 247,
+    "order": "245.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__247",
+    "author": [
+      {
+        "id": 102,
+        "value": "Nicolaus, de Hanapis, patriarch of Jerusalem",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      },
+      {
+        "id": 53,
+        "value": "before 1291",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "248": {
+    "id": 248,
+    "order": "246.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__248",
+    "author": [
+      {
+        "id": 103,
+        "value": "William, de Montibus",
+        "order": "102.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "249": {
+    "id": 249,
+    "order": "247.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__249",
     "author": [],
     "manuscripts": [],
     "title": "",
@@ -10844,11 +11057,90 @@
     "incipit": "",
     "volume_edition": ""
   },
-  "245": {
-    "id": 245,
-    "order": "243.00000000000000000000",
+  "250": {
+    "id": 250,
+    "order": "248.00000000000000000000",
     "name": " ",
-    "jad_id": "jad_work__245",
+    "jad_id": "jad_work__250",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "251": {
+    "id": 251,
+    "order": "249.00000000000000000000",
+    "name": "Commentary Gospels (Unum ex quatuor) ",
+    "jad_id": "jad_work__251",
+    "author": [
+      {
+        "id": 4,
+        "value": "Petrus, Cantor",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Gospels (Unum ex quatuor)",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 11,
+        "value": "after 1187",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "252": {
+    "id": 252,
+    "order": "250.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__252",
     "author": [],
     "manuscripts": [],
     "title": "",

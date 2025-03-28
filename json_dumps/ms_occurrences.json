@@ -908,7 +908,7 @@
     "occurrence": [
       {
         "id": 52,
-        "value": "sub romanis",
+        "value": "tertia sub romanis",
         "order": "52.00000000000000000000"
       }
     ],
@@ -920,7 +920,7 @@
       }
     ],
     "position_in_ms": "62v",
-    "main_ms": true,
+    "main_ms": false,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -931,7 +931,7 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2024-08-05",
+    "last_modified_on": "2025-03-27",
     "ms_locus": [
       {
         "ids": {
@@ -2354,7 +2354,7 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "position_in_ms": "96r-103r",
+    "position_in_ms": "96v-103r",
     "main_ms": true,
     "facsimile_position": "",
     "created_by": {
@@ -2366,14 +2366,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2024-08-07",
+    "last_modified_on": "2025-03-27",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 17,
           "database_table_3497": 8
         },
-        "value": "Cambr. St.John's Coll., MS 127, f. 96r-103r"
+        "value": "Cambr. St.John's Coll., MS 127, f. 96v-103r"
       }
     ]
   },
@@ -2709,13 +2709,7 @@
     "id": 67,
     "order": "66.00000000000000000000",
     "jad_id": "jad_occurence__67",
-    "occurrence": [
-      {
-        "id": 477,
-        "value": "De tyto et uaspasiano",
-        "order": "466.00000000000000000000"
-      }
-    ],
+    "occurrence": [],
     "manuscript": [
       {
         "id": 17,
@@ -4267,11 +4261,23 @@
     "id": 105,
     "order": "103.00000000000000000000",
     "jad_id": "jad_occurence__105",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 636,
+        "value": "Vindicta Salvatoris",
+        "order": "625.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 65,
+        "value": "Saint-Omer, MS 202",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "20v-25v",
+    "main_ms": true,
+    "facsimile_position": "https://arca.irht.cnrs.fr/ark:/63955/md73bz60dz4t",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -4281,7 +4287,1002 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-03-13",
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 65,
+          "database_table_3497": 31
+        },
+        "value": "Saint-Omer, MS 202, f. 20v-25v"
+      }
+    ]
+  },
+  "106": {
+    "id": 106,
+    "order": "104.00000000000000000000",
+    "jad_id": "jad_occurence__106",
+    "occurrence": [
+      {
+        "id": 636,
+        "value": "Vindicta Salvatoris",
+        "order": "625.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 64,
+        "value": "BNF, Latin 5327",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "55r-61v",
+    "main_ms": false,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b9068470g/f57.item",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 64,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 5327, f. 55r-61v"
+      }
+    ]
+  },
+  "107": {
+    "id": 107,
+    "order": "105.00000000000000000000",
+    "jad_id": "jad_occurence__107",
+    "occurrence": [
+      {
+        "id": 291,
+        "value": "De Tyto et Vespasiano",
+        "order": "284.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 66,
+        "value": "Rouen, MS 1426",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "243r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 66,
+          "database_table_3497": 32
+        },
+        "value": "Rouen, MS 1426, f. 243r"
+      }
+    ]
+  },
+  "108": {
+    "id": 108,
+    "order": "106.00000000000000000000",
+    "jad_id": "jad_occurence__108",
+    "occurrence": [
+      {
+        "id": 637,
+        "value": "cum vaspasianus audisset vii viros ignaros nandi, ligatis pedibus et manibus, vitus proici fecit",
+        "order": "626.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 67,
+        "value": "BL, Royal 2 D VI",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "139r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 67,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 2 D VI, f. 139r"
+      }
+    ]
+  },
+  "109": {
+    "id": 109,
+    "order": "106.00000000000000000000",
+    "jad_id": "jad_occurence__109",
+    "occurrence": [
+      {
+        "id": 638,
+        "value": "dixit ad Iherusalem, quod si cognovisses, et subaudi ruinam que tibi iminet",
+        "order": "627.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 67,
+        "value": "BL, Royal 2 D VI",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "195v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 67,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 2 D VI, f. 195v"
+      }
+    ]
+  },
+  "110": {
+    "id": 110,
+    "order": "107.00000000000000000000",
+    "jad_id": "jad_occurence__110",
+    "occurrence": [
+      {
+        "id": 639,
+        "value": "exercitus titus et vaspasianus, homicede Iudei, civitas Iherusalem acciones sunt vie",
+        "order": "628.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 67,
+        "value": "BL, Royal 2 D VI",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "203v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 67,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 2 D VI, f. 203v"
+      }
+    ]
+  },
+  "111": {
+    "id": 111,
+    "order": "108.00000000000000000000",
+    "jad_id": "jad_occurence__111",
+    "occurrence": [
+      {
+        "id": 291,
+        "value": "De Tyto et Vespasiano",
+        "order": "284.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 72,
+        "value": "Cambr. Magd. Coll., F.4.15",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "87v-91r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 72,
+          "database_table_3497": 33
+        },
+        "value": "Cambr. Magd. Coll., F.4.15, f. 87v-91r"
+      }
+    ]
+  },
+  "112": {
+    "id": 112,
+    "order": "109.00000000000000000000",
+    "jad_id": "jad_occurence__112",
+    "occurrence": [
+      {
+        "id": 291,
+        "value": "De Tyto et Vespasiano",
+        "order": "284.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 71,
+        "value": "Bodl., Rawlinson D 1236",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 71,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Rawlinson D 1236, f. "
+      }
+    ]
+  },
+  "113": {
+    "id": 113,
+    "order": "110.00000000000000000000",
+    "jad_id": "jad_occurence__113",
+    "occurrence": [
+      {
+        "id": 291,
+        "value": "De Tyto et Vespasiano",
+        "order": "284.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 69,
+        "value": "BNF, Latin 3338",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "168r-169r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 69,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 3338, f. 168r-169r"
+      }
+    ]
+  },
+  "114": {
+    "id": 114,
+    "order": "111.00000000000000000000",
+    "jad_id": "jad_occurence__114",
+    "occurrence": [
+      {
+        "id": 291,
+        "value": "De Tyto et Vespasiano",
+        "order": "284.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 70,
+        "value": "BNF, Latin 6755",
+        "order": "65.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 70,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 6755, f. "
+      }
+    ]
+  },
+  "115": {
+    "id": 115,
+    "order": "112.00000000000000000000",
+    "jad_id": "jad_occurence__115",
+    "occurrence": [
+      {
+        "id": 52,
+        "value": "tertia sub romanis",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "97r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 97r"
+      }
+    ]
+  },
+  "116": {
+    "id": 116,
+    "order": "113.00000000000000000000",
+    "jad_id": "jad_occurence__116",
+    "occurrence": [
+      {
+        "id": 640,
+        "value": "ad litteram titus et vaspasianus",
+        "order": "629.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "98r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 98r"
+      }
+    ]
+  },
+  "117": {
+    "id": 117,
+    "order": "113.00000000000000000000",
+    "jad_id": "jad_occurence__117",
+    "occurrence": [
+      {
+        "id": 641,
+        "value": "missis exercitibus romanis sub tito et vaspasiano",
+        "order": "630.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "250r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 250r"
+      }
+    ]
+  },
+  "118": {
+    "id": 118,
+    "order": "114.00000000000000000000",
+    "jad_id": "jad_occurence__118",
+    "occurrence": [
+      {
+        "id": 642,
+        "value": "romani principes vallo et obsidione et circumdederunt",
+        "order": "631.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "245r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 245r"
+      }
+    ]
+  },
+  "119": {
+    "id": 119,
+    "order": "115.00000000000000000000",
+    "jad_id": "jad_occurence__119",
+    "occurrence": [
+      {
+        "id": 643,
+        "value": "contra romanos civitatem et templum dei defenderet",
+        "order": "632.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "259r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 259r"
+      }
+    ]
+  },
+  "120": {
+    "id": 120,
+    "order": "116.00000000000000000000",
+    "jad_id": "jad_occurence__120",
+    "occurrence": [
+      {
+        "id": 644,
+        "value": "factum est a romanis",
+        "order": "633.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "265r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 265r"
+      }
+    ]
+  },
+  "121": {
+    "id": 121,
+    "order": "117.00000000000000000000",
+    "jad_id": "jad_occurence__121",
+    "occurrence": [
+      {
+        "id": 648,
+        "value": "Ierusalem obsessus a tito",
+        "order": "637.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 73,
+        "value": "Cambr. Univ. Libr., Ii.VI.44",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "258r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 73,
+          "database_table_3497": 34
+        },
+        "value": "Cambr. Univ. Libr., Ii.VI.44, f. 258r"
+      }
+    ]
+  },
+  "122": {
+    "id": 122,
+    "order": "118.00000000000000000000",
+    "jad_id": "jad_occurence__122",
+    "occurrence": [
+      {
+        "id": 645,
+        "value": "ad excidium urbis",
+        "order": "634.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "265v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 265v"
+      }
+    ]
+  },
+  "123": {
+    "id": 123,
+    "order": "119.00000000000000000000",
+    "jad_id": "jad_occurence__123",
+    "occurrence": [
+      {
+        "id": 646,
+        "value": "tempore romane obsidionis et captivitatis",
+        "order": "635.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "285v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 285v"
+      }
+    ]
+  },
+  "124": {
+    "id": 124,
+    "order": "120.00000000000000000000",
+    "jad_id": "jad_occurence__124",
+    "occurrence": [
+      {
+        "id": 647,
+        "value": "de predictione destructionis Ierusalem",
+        "order": "636.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "294r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 294r"
+      }
+    ]
+  },
+  "125": {
+    "id": 125,
+    "order": "121.00000000000000000000",
+    "jad_id": "jad_occurence__125",
+    "occurrence": [
+      {
+        "id": 649,
+        "value": "tertio flevit super civitatem",
+        "order": "637.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 74,
+        "value": "Cambr. Univ. Libr., Dd.IV.27",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "105r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 74,
+          "database_table_3497": 34
+        },
+        "value": "Cambr. Univ. Libr., Dd.IV.27, f. 105r"
+      }
+    ]
+  },
+  "126": {
+    "id": 126,
+    "order": "122.00000000000000000000",
+    "jad_id": "jad_occurence__126",
+    "occurrence": [
+      {
+        "id": 650,
+        "value": "inimici tui vallo tytus et vaspasianus",
+        "order": "638.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 74,
+        "value": "Cambr. Univ. Libr., Dd.IV.27",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "226v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 74,
+          "database_table_3497": 34
+        },
+        "value": "Cambr. Univ. Libr., Dd.IV.27, f. 226v"
+      }
+    ]
+  },
+  "127": {
+    "id": 127,
+    "order": "123.00000000000000000000",
+    "jad_id": "jad_occurence__127",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": []
+  },
+  "128": {
+    "id": 128,
+    "order": "124.00000000000000000000",
+    "jad_id": "jad_occurence__128",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": []
+  },
+  "129": {
+    "id": 129,
+    "order": "125.00000000000000000000",
+    "jad_id": "jad_occurence__129",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": []
+  },
+  "130": {
+    "id": 130,
+    "order": "125.00000000000000000000",
+    "jad_id": "jad_occurence__130",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": []
+  },
+  "131": {
+    "id": 131,
+    "order": "126.00000000000000000000",
+    "jad_id": "jad_occurence__131",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
+    "ms_locus": []
+  },
+  "132": {
+    "id": 132,
+    "order": "127.00000000000000000000",
+    "jad_id": "jad_occurence__132",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-27",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-27",
     "ms_locus": []
   }
 }
