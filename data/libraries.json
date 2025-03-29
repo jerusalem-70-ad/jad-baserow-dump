@@ -67,8 +67,13 @@
             ]
           }
         ],
-        "date_written": [],
-        "format": null,
+        "date_written": [
+          {
+            "id": 6,
+            "value": "early 9th cen."
+          }
+        ],
+        "format": "25 x 16, 198 ff.",
         "library_full": [
           {
             "id": 1,
@@ -449,7 +454,7 @@
             "value": "around 1300"
           }
         ],
-        "format": null,
+        "format": "15 x 10, 162 ff.",
         "library_full": [
           {
             "id": 2,
@@ -510,7 +515,12 @@
             ]
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
         "format": null,
         "library_full": [
           {
@@ -985,7 +995,12 @@
             ]
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
         "format": null,
         "library_full": [
           {
@@ -1168,7 +1183,7 @@
             "value": "12th cen."
           }
         ],
-        "format": "",
+        "format": "30 x 21, 338 ff.",
         "library_full": [
           {
             "id": 2,
@@ -2234,7 +2249,12 @@
         "catalog_url": "https://calames.abes.fr/pub/mazarine.aspx#details?id=MAZA14397",
         "digi_url": "",
         "institutional_context": [],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
         "format": null,
         "library_full": [
           {
@@ -2544,10 +2564,15 @@
           }
         ],
         "idno": "Royal 2 D VI",
-        "catalog_url": "",
+        "catalog_url": "https://archive.org/details/BMCatalogueOfWesternMssRoyal1/page/n103/mode/2up?view=theater",
         "digi_url": "",
         "institutional_context": [],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
         "format": "12 x 15, 230 ff.",
         "library_full": [
           {
@@ -2595,7 +2620,12 @@
         "catalog_url": "https://archive.org/details/BMCatalogueOfWesternMssRoyal1/page/n375/mode/2up?view=theater",
         "digi_url": "",
         "institutional_context": [],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          }
+        ],
         "format": "25 x 35, 442 ff.",
         "library_full": [
           {
@@ -2611,6 +2641,165 @@
         "next": {
           "id": "jad_manuscript__69",
           "label": "BNF, Latin 3338"
+        }
+      },
+      {
+        "id": 76,
+        "name": [
+          {
+            "id": 7,
+            "value": "BL, Add 18335"
+          }
+        ],
+        "jad_id": "jad_manuscript__76",
+        "library": [
+          {
+            "id": 7,
+            "name": "BL",
+            "jad_id": "jad_library__7",
+            "gnd_url": "https://d-nb.info/gnd/1023420-2",
+            "full_name": "British Library",
+            "place": [
+              {
+                "id": 5,
+                "name": "London",
+                "geonames_url": "https://www.geonames.org/2643743/london.html",
+                "jad_id": "jad_places__5"
+              }
+            ]
+          }
+        ],
+        "idno": "Add 18335",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 7,
+            "value": "British Library"
+          }
+        ],
+        "view_label": "BL, Add 18335",
+        "prev": {
+          "id": "jad_manuscript__75",
+          "label": "Berlin Staatsbibl., theol. lat. fol. 595"
+        },
+        "next": {
+          "id": "jad_manuscript__77",
+          "label": "BL, Royal 2 C XI"
+        }
+      },
+      {
+        "id": 77,
+        "name": [
+          {
+            "id": 7,
+            "value": "BL, Royal 2 C XI"
+          }
+        ],
+        "jad_id": "jad_manuscript__77",
+        "library": [
+          {
+            "id": 7,
+            "name": "BL",
+            "jad_id": "jad_library__7",
+            "gnd_url": "https://d-nb.info/gnd/1023420-2",
+            "full_name": "British Library",
+            "place": [
+              {
+                "id": 5,
+                "name": "London",
+                "geonames_url": "https://www.geonames.org/2643743/london.html",
+                "jad_id": "jad_places__5"
+              }
+            ]
+          }
+        ],
+        "idno": "Royal 2 C XI",
+        "catalog_url": "https://archive.org/details/BMCatalogueOfWesternMssRoyal1/page/n101/mode/2up?view=theater",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "format": "25 x 35, 206 ff.",
+        "library_full": [
+          {
+            "id": 7,
+            "value": "British Library"
+          }
+        ],
+        "view_label": "BL, Royal 2 C XI",
+        "prev": {
+          "id": "jad_manuscript__76",
+          "label": "BL, Add 18335"
+        },
+        "next": {
+          "id": "jad_manuscript__78",
+          "label": "BL, Arundel 231/2"
+        }
+      },
+      {
+        "id": 78,
+        "name": [
+          {
+            "id": 7,
+            "value": "BL, Arundel 231/2"
+          }
+        ],
+        "jad_id": "jad_manuscript__78",
+        "library": [
+          {
+            "id": 7,
+            "name": "BL",
+            "jad_id": "jad_library__7",
+            "gnd_url": "https://d-nb.info/gnd/1023420-2",
+            "full_name": "British Library",
+            "place": [
+              {
+                "id": 5,
+                "name": "London",
+                "geonames_url": "https://www.geonames.org/2643743/london.html",
+                "jad_id": "jad_places__5"
+              }
+            ]
+          }
+        ],
+        "idno": "Arundel 231/2",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "format": "15 x 25, 229 ff.",
+        "library_full": [
+          {
+            "id": 7,
+            "value": "British Library"
+          }
+        ],
+        "view_label": "BL, Arundel 231/2",
+        "prev": {
+          "id": "jad_manuscript__77",
+          "label": "BL, Royal 2 C XI"
+        },
+        "next": {
+          "id": "jad_manuscript__79",
+          "label": "NO MATCH FOR $..name[0].value"
         }
       }
     ]
@@ -2666,7 +2855,7 @@
           }
         ],
         "idno": "MS 127",
-        "catalog_url": "",
+        "catalog_url": "https://archive.org/details/descriptivecata00stjo/page/158/mode/2up",
         "digi_url": "",
         "institutional_context": [],
         "date_written": [
@@ -2835,7 +3024,7 @@
             "value": "early 13th cen."
           }
         ],
-        "format": null,
+        "format": "28 x 17, 58 ff.",
         "library_full": [
           {
             "id": 10,
@@ -3039,8 +3228,13 @@
         "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037622269707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%203721&offset=0",
         "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00114266?page=,1",
         "institutional_context": [],
-        "date_written": [],
-        "format": null,
+        "date_written": [
+          {
+            "id": 14,
+            "value": "12th cen., second half"
+          }
+        ],
+        "format": "20 x 14, 104 ff.",
         "library_full": [
           {
             "id": 12,
@@ -3113,7 +3307,12 @@
         "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc79628g",
         "digi_url": "",
         "institutional_context": [],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
         "format": null,
         "library_full": [
           {
@@ -3251,7 +3450,12 @@
         "catalog_url": "https://arca.irht.cnrs.fr/ark:/63955/md859c67z259",
         "digi_url": "",
         "institutional_context": [],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 2,
+            "value": "12th cen."
+          }
+        ],
         "format": null,
         "library_full": [
           {
@@ -3326,7 +3530,7 @@
         "digi_url": "https://handschriftenportal.de/search?q=settlement-search%3D%3D%27jena%27%3BFIELD-GROUP-ALL%3D%3D%2732%27&hl=true&isExtended=true",
         "institutional_context": [],
         "date_written": [],
-        "format": null,
+        "format": "28 x 22, 134 ff.",
         "library_full": [
           {
             "id": 16,
@@ -3486,8 +3690,13 @@
         "catalog_url": "https://manuscripta.at/hs_detail.php?ID=36861",
         "digi_url": "",
         "institutional_context": [],
-        "date_written": [],
-        "format": null,
+        "date_written": [
+          {
+            "id": 54,
+            "value": "14th cen., second half"
+          }
+        ],
+        "format": "25 x 18, 447 ff.",
         "library_full": [
           {
             "id": 18,
@@ -3611,7 +3820,12 @@
         "catalog_url": "http://18.235.151.129/detail.php?msid=24431",
         "digi_url": "",
         "institutional_context": [],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
         "format": null,
         "library_full": [
           {
@@ -3671,8 +3885,13 @@
         "catalog_url": "https://manuscripta.at/hs_detail.php?ID=34019",
         "digi_url": "https://digi.landesbibliothek.at/viewer/image/488/1/LOG_0001/",
         "institutional_context": [],
-        "date_written": [],
-        "format": null,
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "format": "41 x 25, 188 ff.",
         "library_full": [
           {
             "id": 21,
@@ -4575,7 +4794,7 @@
     },
     "next": {
       "id": "jad_library__35",
-      "label": ""
+      "label": "Berlin Staatsbibl."
     },
     "related__manuscripts": [
       {
@@ -4658,10 +4877,15 @@
           }
         ],
         "idno": "Dd.IV.27",
-        "catalog_url": "",
+        "catalog_url": "https://archive.org/details/catalogueofmanus01cambuoft/page/230/mode/2up",
         "digi_url": "",
         "institutional_context": [],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 43,
+            "value": "14th cen."
+          }
+        ],
         "format": "15 x 22, 239 ff.",
         "library_full": [
           {
@@ -4676,19 +4900,19 @@
         },
         "next": {
           "id": "jad_manuscript__75",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Berlin Staatsbibl., theol. lat. fol. 595"
         }
       }
     ]
   },
   "35": {
     "id": 35,
-    "name": "",
+    "name": "Berlin Staatsbibl.",
     "jad_id": "jad_library__35",
-    "gnd_url": "",
-    "full_name": "",
+    "gnd_url": "https://d-nb.info/gnd/2118116-0",
+    "full_name": "Staatsbibliothek zu Berlin. Handschriftenabteilung",
     "place": [],
-    "view_label": "",
+    "view_label": "Berlin Staatsbibl.",
     "prev": {
       "id": "jad_library__34",
       "label": "Cambr. Univ. Libr."
@@ -4697,7 +4921,54 @@
       "id": "jad_library__36",
       "label": ""
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 75,
+        "name": [
+          {
+            "id": 35,
+            "value": "Berlin Staatsbibl., theol. lat. fol. 595"
+          }
+        ],
+        "jad_id": "jad_manuscript__75",
+        "library": [
+          {
+            "id": 35,
+            "name": "Berlin Staatsbibl.",
+            "jad_id": "jad_library__35",
+            "gnd_url": "https://d-nb.info/gnd/2118116-0",
+            "full_name": "Staatsbibliothek zu Berlin. Handschriftenabteilung",
+            "place": []
+          }
+        ],
+        "idno": "theol. lat. fol. 595",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 10,
+            "value": "around 1100"
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 35,
+            "value": "Staatsbibliothek zu Berlin. Handschriftenabteilung"
+          }
+        ],
+        "view_label": "Berlin Staatsbibl., theol. lat. fol. 595",
+        "prev": {
+          "id": "jad_manuscript__74",
+          "label": "Cambr. Univ. Libr., Dd.IV.27"
+        },
+        "next": {
+          "id": "jad_manuscript__76",
+          "label": "BL, Add 18335"
+        }
+      }
+    ]
   },
   "36": {
     "id": 36,
@@ -4709,7 +4980,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_library__35",
-      "label": ""
+      "label": "Berlin Staatsbibl."
     },
     "next": {
       "id": "jad_library__4",

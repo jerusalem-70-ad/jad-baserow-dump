@@ -254,7 +254,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition": null,
+        "volume_edition": "209",
         "view_label": "Commentary Revelation ",
         "prev": {
           "id": "jad_work__67",
@@ -896,7 +896,12 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -1108,7 +1113,12 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -1289,6 +1299,59 @@
         "next": {
           "id": "jad_work__247",
           "label": "Sermones "
+        }
+      },
+      {
+        "id": 252,
+        "name": "Sermones ",
+        "jad_id": "jad_work__252",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__251",
+          "label": "Commentary Gospels (Unum ex quatuor) "
+        },
+        "next": {
+          "id": "jad_work__253",
+          "label": "De locis sanctis "
         }
       }
     ]
@@ -1743,11 +1806,11 @@
         "view_label": "Commentary Gospels (Unum ex quatuor) ",
         "prev": {
           "id": "jad_work__250",
-          "label": " "
+          "label": "Psalm Commentary "
         },
         "next": {
           "id": "jad_work__252",
-          "label": " "
+          "label": "Sermones "
         }
       }
     ]
@@ -2564,7 +2627,12 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 7,
+            "value": "mid 9th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": false,
         "incipit": "",
@@ -4167,12 +4235,12 @@
     "lebensdaten": null,
     "view_label": "Luculentius",
     "prev": {
-      "id": "jad_author__107",
-      "label": ""
+      "id": "jad_author__109",
+      "label": "Balderich, von Bourgueil"
     },
     "next": {
-      "id": "jad_author__12",
-      "label": "Philippus, Cancellarius"
+      "id": "jad_author__110",
+      "label": "Benedictinus Anonymus"
     },
     "related__works": [
       {
@@ -4244,8 +4312,8 @@
     "lebensdaten": null,
     "view_label": "Philippus, Cancellarius",
     "prev": {
-      "id": "jad_author__11",
-      "label": "Luculentius"
+      "id": "jad_author__112",
+      "label": ""
     },
     "next": {
       "id": "jad_author__13",
@@ -4568,15 +4636,11 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
-            "id": 3,
-            "value": "early 12th cen."
-          },
-          {
-            "id": 35,
-            "value": "late 11th cen."
+            "id": 10,
+            "value": "around 1100"
           }
         ],
         "link_digital_editions": "",
@@ -4632,15 +4696,11 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
-            "id": 3,
-            "value": "early 12th cen."
-          },
-          {
-            "id": 35,
-            "value": "late 11th cen."
+            "id": 10,
+            "value": "around 1100"
           }
         ],
         "link_digital_editions": "",
@@ -4696,15 +4756,11 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
-            "id": 3,
-            "value": "early 12th cen."
-          },
-          {
-            "id": 35,
-            "value": "late 11th cen."
+            "id": 10,
+            "value": "around 1100"
           }
         ],
         "link_digital_editions": "",
@@ -4760,15 +4816,11 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
-            "id": 3,
-            "value": "early 12th cen."
-          },
-          {
-            "id": 35,
-            "value": "late 11th cen."
+            "id": 10,
+            "value": "around 1100"
           }
         ],
         "link_digital_editions": "",
@@ -6259,7 +6311,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -7087,11 +7146,11 @@
         "view_label": "Historia Hierosolymitana ",
         "prev": {
           "id": "jad_work__249",
-          "label": " "
+          "label": "Sermones "
         },
         "next": {
           "id": "jad_work__250",
-          "label": " "
+          "label": "Psalm Commentary "
         }
       }
     ]
@@ -7250,12 +7309,12 @@
         "volume_edition": null,
         "view_label": "Commentary Isaiah ",
         "prev": {
-          "id": "jad_work__252",
-          "label": " "
+          "id": "jad_work__259",
+          "label": "De penitentia "
         },
         "next": {
-          "id": "jad_work__27",
-          "label": "Sermones "
+          "id": "jad_work__260",
+          "label": "Ennarrationes in Matthaeum "
         }
       },
       {
@@ -7317,8 +7376,8 @@
         "volume_edition": null,
         "view_label": "Sermones ",
         "prev": {
-          "id": "jad_work__26",
-          "label": "Commentary Isaiah "
+          "id": "jad_work__266",
+          "label": " "
         },
         "next": {
           "id": "jad_work__28",
@@ -8853,8 +8912,13 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 26,
+            "value": "around 400"
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -8901,8 +8965,13 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 26,
+            "value": "around 400"
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -8945,8 +9014,13 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 26,
+            "value": "around 400"
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -9395,7 +9469,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 4,
@@ -9640,7 +9714,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 10,
@@ -9693,7 +9767,7 @@
           }
         ],
         "published_edition": [],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 10,
@@ -9712,6 +9786,98 @@
         "next": {
           "id": "jad_work__128",
           "label": "Commentary Jacob "
+        }
+      },
+      {
+        "id": 258,
+        "name": "Enarrationes in Cantica canticorum ",
+        "jad_id": "jad_work__258",
+        "author": [
+          {
+            "id": 32,
+            "name": "Anselm, of Laon",
+            "jad_id": "jad_author__32",
+            "gnd_url": "https://d-nb.info/gnd/118649566",
+            "notes": "",
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarrationes in Cantica canticorum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 10,
+            "value": "around 1100"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Enarrationes in Cantica canticorum ",
+        "prev": {
+          "id": "jad_work__257",
+          "label": "Historia Hierosolymitana "
+        },
+        "next": {
+          "id": "jad_work__259",
+          "label": "De penitentia "
+        }
+      },
+      {
+        "id": 260,
+        "name": "Ennarrationes in Matthaeum ",
+        "jad_id": "jad_work__260",
+        "author": [
+          {
+            "id": 32,
+            "name": "Anselm, of Laon",
+            "jad_id": "jad_author__32",
+            "gnd_url": "https://d-nb.info/gnd/118649566",
+            "notes": "",
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Ennarrationes in Matthaeum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 10,
+            "value": "around 1100"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Ennarrationes in Matthaeum ",
+        "prev": {
+          "id": "jad_work__26",
+          "label": "Commentary Isaiah "
+        },
+        "next": {
+          "id": "jad_work__261",
+          "label": "Chronicon "
         }
       }
     ]
@@ -9980,7 +10146,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 21,
@@ -10060,7 +10226,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 21,
@@ -10140,7 +10306,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 21,
@@ -11359,8 +11525,13 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -12909,7 +13080,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 5,
@@ -12981,7 +13152,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 9,
@@ -13045,7 +13216,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": false,
         "date": [],
         "link_digital_editions": "",
@@ -13106,8 +13284,13 @@
         "notes__author": "",
         "institutional_context": [],
         "published_edition": [],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -13359,7 +13542,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 37,
@@ -13502,7 +13685,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 6,
@@ -14837,8 +15020,13 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 7,
+            "value": "mid 9th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -14890,8 +15078,13 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 7,
+            "value": "mid 9th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -15164,8 +15357,13 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -15304,7 +15502,7 @@
           }
         ],
         "link_digital_editions": "",
-        "author_certainty": false,
+        "author_certainty": true,
         "incipit": "",
         "volume_edition": null,
         "view_label": "Expositio in Psalmos ",
@@ -15315,6 +15513,47 @@
         "next": {
           "id": "jad_work__229",
           "label": "Epistolae "
+        }
+      },
+      {
+        "id": 262,
+        "name": " ",
+        "jad_id": "jad_work__262",
+        "author": [
+          {
+            "id": 90,
+            "name": "Bruno, Carthusianus, of Cologne",
+            "jad_id": "jad_author__90",
+            "gnd_url": "https://d-nb.info/gnd/118674838",
+            "notes": "",
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": " ",
+        "prev": {
+          "id": "jad_work__261",
+          "label": "Chronicon "
+        },
+        "next": {
+          "id": "jad_work__263",
+          "label": " "
         }
       }
     ]
@@ -15505,8 +15744,13 @@
         "notes__author": "",
         "institutional_context": [],
         "published_edition": [],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 55,
+            "value": "early 14th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -15975,7 +16219,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -16058,7 +16309,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -16100,7 +16358,7 @@
     },
     "next": {
       "id": "jad_author__104",
-      "label": ""
+      "label": "Praepositinus, de Cremona"
     },
     "related__works": [
       {
@@ -16127,7 +16385,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -16146,80 +16411,642 @@
         },
         "next": {
           "id": "jad_work__249",
-          "label": " "
+          "label": "Sermones "
         }
       }
     ]
   },
   "104": {
     "id": 104,
-    "name": "",
+    "name": "Praepositinus, de Cremona",
     "jad_id": "jad_author__104",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118991922",
     "notes": "",
     "lebensdaten": "",
-    "view_label": "",
+    "view_label": "Praepositinus, de Cremona",
     "prev": {
       "id": "jad_author__103",
       "label": "William, de Montibus"
     },
     "next": {
       "id": "jad_author__105",
-      "label": ""
+      "label": "Alexander, Neckam"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 249,
+        "name": "Sermones ",
+        "jad_id": "jad_work__249",
+        "author": [
+          {
+            "id": 104,
+            "name": "Praepositinus, de Cremona",
+            "jad_id": "jad_author__104",
+            "gnd_url": "https://d-nb.info/gnd/118991922",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__248",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__25",
+          "label": "Historia Hierosolymitana "
+        }
+      }
+    ]
   },
   "105": {
     "id": 105,
-    "name": "",
+    "name": "Alexander, Neckam",
     "jad_id": "jad_author__105",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/11864128X",
     "notes": "",
     "lebensdaten": "",
-    "view_label": "",
+    "view_label": "Alexander, Neckam",
     "prev": {
       "id": "jad_author__104",
-      "label": ""
+      "label": "Praepositinus, de Cremona"
     },
     "next": {
       "id": "jad_author__106",
-      "label": ""
+      "label": "Adamnanus, de Iona"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 250,
+        "name": "Psalm Commentary ",
+        "jad_id": "jad_work__250",
+        "author": [
+          {
+            "id": 105,
+            "name": "Alexander, Neckam",
+            "jad_id": "jad_author__105",
+            "gnd_url": "https://d-nb.info/gnd/11864128X",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Psalm Commentary",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Psalm Commentary ",
+        "prev": {
+          "id": "jad_work__25",
+          "label": "Historia Hierosolymitana "
+        },
+        "next": {
+          "id": "jad_work__251",
+          "label": "Commentary Gospels (Unum ex quatuor) "
+        }
+      }
+    ]
   },
   "106": {
     "id": 106,
-    "name": "",
+    "name": "Adamnanus, de Iona",
     "jad_id": "jad_author__106",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/119394030",
     "notes": "",
     "lebensdaten": "",
-    "view_label": "",
+    "view_label": "Adamnanus, de Iona",
     "prev": {
       "id": "jad_author__105",
-      "label": ""
+      "label": "Alexander, Neckam"
     },
     "next": {
       "id": "jad_author__107",
-      "label": ""
+      "label": "Ammonius, Alexandrinus"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 253,
+        "name": "De locis sanctis ",
+        "jad_id": "jad_work__253",
+        "author": [
+          {
+            "id": 106,
+            "name": "Adamnanus, de Iona",
+            "jad_id": "jad_author__106",
+            "gnd_url": "https://d-nb.info/gnd/119394030",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "De locis sanctis",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 27,
+            "value": "late 7th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "De locis sanctis ",
+        "prev": {
+          "id": "jad_work__252",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__254",
+          "label": "Expositio Evangelii secundum Lucam "
+        }
+      }
+    ]
   },
   "107": {
     "id": 107,
-    "name": "",
+    "name": "Ammonius, Alexandrinus",
     "jad_id": "jad_author__107",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/10237905X",
     "notes": "",
     "lebensdaten": "",
-    "view_label": "",
+    "view_label": "Ammonius, Alexandrinus",
     "prev": {
       "id": "jad_author__106",
-      "label": ""
+      "label": "Adamnanus, de Iona"
+    },
+    "next": {
+      "id": "jad_author__108",
+      "label": "Ambrosius, Mediolanensis, Heiliger"
+    },
+    "related__works": [
+      {
+        "id": 256,
+        "name": "Evangelicarum harmoniarum interpretatio ",
+        "jad_id": "jad_work__256",
+        "author": [
+          {
+            "id": 107,
+            "name": "Ammonius, Alexandrinus",
+            "jad_id": "jad_author__107",
+            "gnd_url": "https://d-nb.info/gnd/10237905X",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Evangelicarum harmoniarum interpretatio",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Evangelicarum harmoniarum interpretatio ",
+        "prev": {
+          "id": "jad_work__255",
+          "label": "Expositio in psalmum David "
+        },
+        "next": {
+          "id": "jad_work__257",
+          "label": "Historia Hierosolymitana "
+        }
+      }
+    ]
+  },
+  "108": {
+    "id": 108,
+    "name": "Ambrosius, Mediolanensis, Heiliger",
+    "jad_id": "jad_author__108",
+    "gnd_url": "https://d-nb.info/gnd/11850245X",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Ambrosius, Mediolanensis, Heiliger",
+    "prev": {
+      "id": "jad_author__107",
+      "label": "Ammonius, Alexandrinus"
+    },
+    "next": {
+      "id": "jad_author__109",
+      "label": "Balderich, von Bourgueil"
+    },
+    "related__works": [
+      {
+        "id": 254,
+        "name": "Expositio Evangelii secundum Lucam ",
+        "jad_id": "jad_work__254",
+        "author": [
+          {
+            "id": 108,
+            "name": "Ambrosius, Mediolanensis, Heiliger",
+            "jad_id": "jad_author__108",
+            "gnd_url": "https://d-nb.info/gnd/11850245X",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Expositio Evangelii secundum Lucam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 26,
+            "value": "around 400"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Expositio Evangelii secundum Lucam ",
+        "prev": {
+          "id": "jad_work__253",
+          "label": "De locis sanctis "
+        },
+        "next": {
+          "id": "jad_work__255",
+          "label": "Expositio in psalmum David "
+        }
+      },
+      {
+        "id": 255,
+        "name": "Expositio in psalmum David ",
+        "jad_id": "jad_work__255",
+        "author": [
+          {
+            "id": 108,
+            "name": "Ambrosius, Mediolanensis, Heiliger",
+            "jad_id": "jad_author__108",
+            "gnd_url": "https://d-nb.info/gnd/11850245X",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Expositio in psalmum David",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 26,
+            "value": "around 400"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Expositio in psalmum David ",
+        "prev": {
+          "id": "jad_work__254",
+          "label": "Expositio Evangelii secundum Lucam "
+        },
+        "next": {
+          "id": "jad_work__256",
+          "label": "Evangelicarum harmoniarum interpretatio "
+        }
+      }
+    ]
+  },
+  "109": {
+    "id": 109,
+    "name": "Balderich, von Bourgueil",
+    "jad_id": "jad_author__109",
+    "gnd_url": "https://d-nb.info/gnd/119023067",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Balderich, von Bourgueil",
+    "prev": {
+      "id": "jad_author__108",
+      "label": "Ambrosius, Mediolanensis, Heiliger"
     },
     "next": {
       "id": "jad_author__11",
       "label": "Luculentius"
+    },
+    "related__works": [
+      {
+        "id": 257,
+        "name": "Historia Hierosolymitana ",
+        "jad_id": "jad_work__257",
+        "author": [
+          {
+            "id": 109,
+            "name": "Balderich, von Bourgueil",
+            "jad_id": "jad_author__109",
+            "gnd_url": "https://d-nb.info/gnd/119023067",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Historia Hierosolymitana",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 10,
+            "value": "around 1100"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Historia Hierosolymitana ",
+        "prev": {
+          "id": "jad_work__256",
+          "label": "Evangelicarum harmoniarum interpretatio "
+        },
+        "next": {
+          "id": "jad_work__258",
+          "label": "Enarrationes in Cantica canticorum "
+        }
+      }
+    ]
+  },
+  "110": {
+    "id": 110,
+    "name": "Benedictinus Anonymus",
+    "jad_id": "jad_author__110",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Benedictinus Anonymus",
+    "prev": {
+      "id": "jad_author__11",
+      "label": "Luculentius"
+    },
+    "next": {
+      "id": "jad_author__111",
+      "label": "Bernoldus, Constantiensis"
+    },
+    "related__works": [
+      {
+        "id": 259,
+        "name": "De penitentia ",
+        "jad_id": "jad_work__259",
+        "author": [
+          {
+            "id": 110,
+            "name": "Benedictinus Anonymus",
+            "jad_id": "jad_author__110",
+            "gnd_url": "",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "De penitentia",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          },
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "De penitentia ",
+        "prev": {
+          "id": "jad_work__258",
+          "label": "Enarrationes in Cantica canticorum "
+        },
+        "next": {
+          "id": "jad_work__26",
+          "label": "Commentary Isaiah "
+        }
+      }
+    ]
+  },
+  "111": {
+    "id": 111,
+    "name": "Bernoldus, Constantiensis",
+    "jad_id": "jad_author__111",
+    "gnd_url": "https://d-nb.info/gnd/119422352",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Bernoldus, Constantiensis",
+    "prev": {
+      "id": "jad_author__110",
+      "label": "Benedictinus Anonymus"
+    },
+    "next": {
+      "id": "jad_author__112",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 261,
+        "name": "Chronicon ",
+        "jad_id": "jad_work__261",
+        "author": [
+          {
+            "id": 111,
+            "name": "Bernoldus, Constantiensis",
+            "jad_id": "jad_author__111",
+            "gnd_url": "https://d-nb.info/gnd/119422352",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronicon",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 35,
+            "value": "late 11th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Chronicon ",
+        "prev": {
+          "id": "jad_work__260",
+          "label": "Ennarrationes in Matthaeum "
+        },
+        "next": {
+          "id": "jad_work__262",
+          "label": " "
+        }
+      }
+    ]
+  },
+  "112": {
+    "id": 112,
+    "name": "",
+    "jad_id": "jad_author__112",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__111",
+      "label": "Bernoldus, Constantiensis"
+    },
+    "next": {
+      "id": "jad_author__12",
+      "label": "Philippus, Cancellarius"
     },
     "related__works": []
   }

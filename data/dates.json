@@ -87,7 +87,7 @@
     "jad_id": "jad_date__6",
     "view_label": "early 9th cen.",
     "prev": {
-      "id": "jad_date__55",
+      "id": "jad_date__58",
       "label": ""
     },
     "next": {
@@ -802,8 +802,8 @@
   "51": {
     "id": 51,
     "name": "1010",
-    "not_before": null,
-    "not_after": null,
+    "not_before": "1010",
+    "not_after": "1010",
     "jad_id": "jad_date__51",
     "view_label": "1010",
     "prev": {
@@ -818,8 +818,8 @@
   "52": {
     "id": 52,
     "name": "around 700",
-    "not_before": null,
-    "not_after": null,
+    "not_before": "690",
+    "not_after": "710",
     "jad_id": "jad_date__52",
     "view_label": "around 700",
     "prev": {
@@ -844,34 +844,82 @@
     },
     "next": {
       "id": "jad_date__54",
-      "label": ""
+      "label": "14th cen., second half"
     }
   },
   "54": {
     "id": 54,
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "14th cen., second half",
+    "not_before": "1351",
+    "not_after": "1400",
     "jad_id": "jad_date__54",
-    "view_label": "",
+    "view_label": "14th cen., second half",
     "prev": {
       "id": "jad_date__53",
       "label": "before 1291"
     },
     "next": {
       "id": "jad_date__55",
-      "label": ""
+      "label": "early 14th cen."
     }
   },
   "55": {
     "id": 55,
+    "name": "early 14th cen.",
+    "not_before": "1300",
+    "not_after": "1330",
+    "jad_id": "jad_date__55",
+    "view_label": "early 14th cen.",
+    "prev": {
+      "id": "jad_date__54",
+      "label": "14th cen., second half"
+    },
+    "next": {
+      "id": "jad_date__56",
+      "label": ""
+    }
+  },
+  "56": {
+    "id": 56,
     "name": "",
     "not_before": null,
     "not_after": null,
-    "jad_id": "jad_date__55",
+    "jad_id": "jad_date__56",
     "view_label": "",
     "prev": {
-      "id": "jad_date__54",
+      "id": "jad_date__55",
+      "label": "early 14th cen."
+    },
+    "next": {
+      "id": "jad_date__57",
+      "label": ""
+    }
+  },
+  "57": {
+    "id": 57,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__57",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__56",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_date__58",
+      "label": ""
+    }
+  },
+  "58": {
+    "id": 58,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__58",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__57",
       "label": ""
     },
     "next": {

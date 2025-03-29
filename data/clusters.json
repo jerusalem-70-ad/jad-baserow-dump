@@ -5,12 +5,12 @@
     "jad_id": "jad_cluster__1",
     "view_label": "First Crusade",
     "prev": {
-      "id": "jad_cluster__8",
-      "label": "Jerusalem's conquest in 1244"
+      "id": "jad_cluster__9",
+      "label": "Anti-Jewish action in 840s"
     },
     "next": {
-      "id": "jad_cluster__2",
-      "label": "Third Crusade"
+      "id": "jad_cluster__10",
+      "label": "Capture of Acre (1291)"
     }
   },
   "2": {
@@ -19,8 +19,8 @@
     "jad_id": "jad_cluster__2",
     "view_label": "Third Crusade",
     "prev": {
-      "id": "jad_cluster__1",
-      "label": "First Crusade"
+      "id": "jad_cluster__10",
+      "label": "Capture of Acre (1291)"
     },
     "next": {
       "id": "jad_cluster__3",
@@ -107,8 +107,36 @@
       "label": "Talmud burning in Paris"
     },
     "next": {
+      "id": "jad_cluster__9",
+      "label": "Anti-Jewish action in 840s"
+    }
+  },
+  "9": {
+    "id": 9,
+    "name": "Anti-Jewish action in 840s",
+    "jad_id": "jad_cluster__9",
+    "view_label": "Anti-Jewish action in 840s",
+    "prev": {
+      "id": "jad_cluster__8",
+      "label": "Jerusalem's conquest in 1244"
+    },
+    "next": {
       "id": "jad_cluster__1",
       "label": "First Crusade"
+    }
+  },
+  "10": {
+    "id": 10,
+    "name": "Capture of Acre (1291)",
+    "jad_id": "jad_cluster__10",
+    "view_label": "Capture of Acre (1291)",
+    "prev": {
+      "id": "jad_cluster__1",
+      "label": "First Crusade"
+    },
+    "next": {
+      "id": "jad_cluster__2",
+      "label": "Third Crusade"
     }
   }
 }
