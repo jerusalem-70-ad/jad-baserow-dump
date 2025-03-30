@@ -8122,7 +8122,7 @@
   "178": {
     "id": 178,
     "order": "176.00000000000000000000",
-    "name": "Quaestiones in Veterum Testamentum (636): IN ",
+    "name": "Quaestiones in Veterum Testamentum ",
     "jad_id": "jad_work__178",
     "author": [
       {
@@ -8132,7 +8132,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "Quaestiones in Veterum Testamentum (636): IN",
+    "title": "Quaestiones in Veterum Testamentum",
     "genre": {
       "id": 14727,
       "value": "Commentary",
@@ -10262,7 +10262,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": false,
     "date": [
       {
@@ -11648,7 +11654,7 @@
   "262": {
     "id": 262,
     "order": "260.00000000000000000000",
-    "name": " ",
+    "name": "Expositio in epistolas Pauli ",
     "jad_id": "jad_work__262",
     "author": [
       {
@@ -11658,7 +11664,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "",
+    "title": "Expositio in epistolas Pauli",
     "genre": {
       "id": 14727,
       "value": "Commentary",
@@ -11667,51 +11673,101 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 35,
+        "value": "late 11th cen.",
+        "order": "35.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition": ""
   },
   "263": {
     "id": 263,
     "order": "261.00000000000000000000",
-    "name": " ",
+    "name": "Expositio in Apocalypsim ",
     "jad_id": "jad_work__263",
-    "author": [],
+    "author": [
+      {
+        "id": 112,
+        "value": "Alexander Minorita, Bremensis",
+        "order": "111.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Expositio in Apocalypsim",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition": ""
+    "volume_edition": "QQ zur Geistesgesch. 1"
   },
   "264": {
     "id": 264,
     "order": "262.00000000000000000000",
-    "name": " ",
+    "name": "De decursu temporum ",
     "jad_id": "jad_work__264",
-    "author": [],
+    "author": [
+      {
+        "id": 113,
+        "value": "Haimo, of Bamberg",
+        "order": "112.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "De decursu temporum",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition": ""
   },

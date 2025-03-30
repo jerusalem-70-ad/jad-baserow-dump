@@ -4312,8 +4312,8 @@
     "lebensdaten": null,
     "view_label": "Philippus, Cancellarius",
     "prev": {
-      "id": "jad_author__112",
-      "label": ""
+      "id": "jad_author__113",
+      "label": "Haimo, of Bamberg"
     },
     "next": {
       "id": "jad_author__13",
@@ -6390,12 +6390,12 @@
         },
         "next": {
           "id": "jad_work__178",
-          "label": "Quaestiones in Veterum Testamentum (636): IN "
+          "label": "Quaestiones in Veterum Testamentum "
         }
       },
       {
         "id": 178,
-        "name": "Quaestiones in Veterum Testamentum (636): IN ",
+        "name": "Quaestiones in Veterum Testamentum ",
         "jad_id": "jad_work__178",
         "author": [
           {
@@ -6408,7 +6408,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Quaestiones in Veterum Testamentum (636): IN",
+        "title": "Quaestiones in Veterum Testamentum",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -6436,7 +6436,7 @@
         "author_certainty": true,
         "incipit": null,
         "volume_edition": null,
-        "view_label": "Quaestiones in Veterum Testamentum (636): IN ",
+        "view_label": "Quaestiones in Veterum Testamentum ",
         "prev": {
           "id": "jad_work__177",
           "label": "Allegoriae sacrae Scripturae "
@@ -6492,7 +6492,7 @@
         "view_label": "Prooemia in libros Veteris ac Novi Testamenti ",
         "prev": {
           "id": "jad_work__178",
-          "label": "Quaestiones in Veterum Testamentum (636): IN "
+          "label": "Quaestiones in Veterum Testamentum "
         },
         "next": {
           "id": "jad_work__18",
@@ -15493,7 +15493,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": false,
         "date": [
           {
@@ -15517,7 +15524,7 @@
       },
       {
         "id": 262,
-        "name": " ",
+        "name": "Expositio in epistolas Pauli ",
         "jad_id": "jad_work__262",
         "author": [
           {
@@ -15530,7 +15537,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "",
+        "title": "Expositio in epistolas Pauli",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -15539,21 +15546,33 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 35,
+            "value": "late 11th cen."
+          }
+        ],
         "link_digital_editions": "",
-        "author_certainty": false,
+        "author_certainty": true,
         "incipit": "",
         "volume_edition": "",
-        "view_label": " ",
+        "view_label": "Expositio in epistolas Pauli ",
         "prev": {
           "id": "jad_work__261",
           "label": "Chronicon "
         },
         "next": {
           "id": "jad_work__263",
-          "label": " "
+          "label": "Expositio in Apocalypsim "
         }
       }
     ]
@@ -16981,7 +17000,7 @@
     },
     "next": {
       "id": "jad_author__112",
-      "label": ""
+      "label": "Alexander Minorita, Bremensis"
     },
     "related__works": [
       {
@@ -17027,27 +17046,146 @@
         },
         "next": {
           "id": "jad_work__262",
-          "label": " "
+          "label": "Expositio in epistolas Pauli "
         }
       }
     ]
   },
   "112": {
     "id": 112,
-    "name": "",
+    "name": "Alexander Minorita, Bremensis",
     "jad_id": "jad_author__112",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/119018497",
     "notes": "",
     "lebensdaten": "",
-    "view_label": "",
+    "view_label": "Alexander Minorita, Bremensis",
     "prev": {
       "id": "jad_author__111",
       "label": "Bernoldus, Constantiensis"
     },
     "next": {
+      "id": "jad_author__113",
+      "label": "Haimo, of Bamberg"
+    },
+    "related__works": [
+      {
+        "id": 263,
+        "name": "Expositio in Apocalypsim ",
+        "jad_id": "jad_work__263",
+        "author": [
+          {
+            "id": 112,
+            "name": "Alexander Minorita, Bremensis",
+            "jad_id": "jad_author__112",
+            "gnd_url": "https://d-nb.info/gnd/119018497",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Expositio in Apocalypsim",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "QQ zur Geistesgesch. 1",
+        "view_label": "Expositio in Apocalypsim ",
+        "prev": {
+          "id": "jad_work__262",
+          "label": "Expositio in epistolas Pauli "
+        },
+        "next": {
+          "id": "jad_work__264",
+          "label": "De decursu temporum "
+        }
+      }
+    ]
+  },
+  "113": {
+    "id": 113,
+    "name": "Haimo, of Bamberg",
+    "jad_id": "jad_author__113",
+    "gnd_url": "https://d-nb.info/gnd/104099275",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Haimo, of Bamberg",
+    "prev": {
+      "id": "jad_author__112",
+      "label": "Alexander Minorita, Bremensis"
+    },
+    "next": {
       "id": "jad_author__12",
       "label": "Philippus, Cancellarius"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 264,
+        "name": "De decursu temporum ",
+        "jad_id": "jad_work__264",
+        "author": [
+          {
+            "id": 113,
+            "name": "Haimo, of Bamberg",
+            "jad_id": "jad_author__113",
+            "gnd_url": "https://d-nb.info/gnd/104099275",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "De decursu temporum",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "De decursu temporum ",
+        "prev": {
+          "id": "jad_work__263",
+          "label": "Expositio in Apocalypsim "
+        },
+        "next": {
+          "id": "jad_work__265",
+          "label": " "
+        }
+      }
+    ]
   }
 }
