@@ -1750,7 +1750,7 @@
         "view_label": "St. Gen., MS 1422",
         "prev": {
           "id": "jad_manuscript__79",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "BSB, Clm 5531"
         },
         "next": {
           "id": "jad_manuscript__80",
@@ -2799,7 +2799,7 @@
         },
         "next": {
           "id": "jad_manuscript__79",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "BSB, Clm 5531"
         }
       }
     ]
@@ -3249,6 +3249,59 @@
         "next": {
           "id": "jad_manuscript__38",
           "label": "Jena, UB, El. f. 32"
+        }
+      },
+      {
+        "id": 79,
+        "name": [
+          {
+            "id": 12,
+            "value": "BSB, Clm 5531"
+          }
+        ],
+        "jad_id": "jad_manuscript__79",
+        "library": [
+          {
+            "id": 12,
+            "name": "BSB",
+            "jad_id": "jad_library__12",
+            "gnd_url": "https://d-nb.info/gnd/2031351-2",
+            "full_name": "Bayrische Staatsbibliothek",
+            "place": [
+              {
+                "id": 3,
+                "name": "Munich",
+                "geonames_url": "https://www.geonames.org/2867714/munich.html",
+                "jad_id": "jad_places__3"
+              }
+            ]
+          }
+        ],
+        "idno": "Clm 5531",
+        "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037672109707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%20Clm%205531&offset=0",
+        "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00095981?page=128,129",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 43,
+            "value": "14th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 12,
+            "value": "Bayrische Staatsbibliothek"
+          }
+        ],
+        "view_label": "BSB, Clm 5531",
+        "prev": {
+          "id": "jad_manuscript__78",
+          "label": "BL, Arundel 231/2"
+        },
+        "next": {
+          "id": "jad_manuscript__8",
+          "label": "St. Gen., MS 1422"
         }
       }
     ]
@@ -3753,7 +3806,7 @@
         ],
         "idno": "Barth. 56",
         "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-0f187f83-39a9-3335-9bd8-3632c2be9b08&q=frankfurt+56&hl=true",
-        "digi_url": "",
+        "digi_url": "https://sammlungen.ub.uni-frankfurt.de/msma/content/titleinfo/2072068",
         "institutional_context": [],
         "date_written": [
           {
@@ -3761,7 +3814,7 @@
             "value": "early 13th cen."
           }
         ],
-        "format": null,
+        "format": "34 x 23, 160 ff.",
         "library_full": [
           {
             "id": 19,

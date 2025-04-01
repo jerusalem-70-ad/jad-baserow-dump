@@ -1589,7 +1589,7 @@
     ],
     "idno": "Barth. 56",
     "catalog_url": "https://handschriftenportal.de/search?hspobjectid=HSP-0f187f83-39a9-3335-9bd8-3632c2be9b08&q=frankfurt+56&hl=true",
-    "digi_url": "",
+    "digi_url": "https://sammlungen.ub.uni-frankfurt.de/msma/content/titleinfo/2072068",
     "institutional_context": [],
     "date_written": [
       {
@@ -1598,7 +1598,7 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "format": null,
+    "format": "34 x 23, 160 ff.",
     "library_full": [
       {
         "id": 19,
@@ -2845,16 +2845,38 @@
   "79": {
     "id": 79,
     "order": "73.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 5531"
+      }
+    ],
     "jad_id": "jad_manuscript__79",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "idno": "Clm 5531",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037672109707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%20Clm%205531&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00095981?page=128,129",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 43,
+        "value": "14th cen.",
+        "order": "43.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ]
   },
   "80": {
     "id": 80,

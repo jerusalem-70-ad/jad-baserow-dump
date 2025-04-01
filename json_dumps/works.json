@@ -3425,9 +3425,9 @@
     "manuscripts": [],
     "title": "De comprobatione sextae aetatis",
     "genre": {
-      "id": 14732,
-      "value": "Idiosyncratic work",
-      "color": "dark-red"
+      "id": 18449,
+      "value": "Computistic treatise",
+      "color": "darker-gray"
     },
     "notes": "",
     "notes__author": "",
@@ -8638,9 +8638,9 @@
     "manuscripts": [],
     "title": "De sex aetatibus mundi",
     "genre": {
-      "id": 14732,
-      "value": "Idiosyncratic work",
-      "color": "dark-red"
+      "id": 18449,
+      "value": "Computistic treatise",
+      "color": "darker-gray"
     },
     "notes": "",
     "notes__author": "",
@@ -11750,9 +11750,9 @@
     "manuscripts": [],
     "title": "De decursu temporum",
     "genre": {
-      "id": 14732,
-      "value": "Idiosyncratic work",
-      "color": "dark-red"
+      "id": 18449,
+      "value": "Computistic treatise",
+      "color": "darker-gray"
     },
     "notes": "",
     "notes__author": "",
@@ -11774,28 +11774,350 @@
   "265": {
     "id": 265,
     "order": "263.00000000000000000000",
-    "name": " ",
+    "name": "Expositio in Psalterium ",
     "jad_id": "jad_work__265",
-    "author": [],
+    "author": [
+      {
+        "id": 114,
+        "value": "Cassiodorus, Flavius Magnus Aurelius",
+        "order": "113.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Expositio in Psalterium",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 56,
+        "value": "mid 6th cen.",
+        "order": "56.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition": ""
   },
   "266": {
     "id": 266,
     "order": "264.00000000000000000000",
-    "name": " ",
+    "name": "Chronicon ",
     "jad_id": "jad_work__266",
+    "author": [
+      {
+        "id": 114,
+        "value": "Cassiodorus, Flavius Magnus Aurelius",
+        "order": "113.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronicon",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 56,
+        "value": "mid 6th cen.",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "267": {
+    "id": 267,
+    "order": "265.00000000000000000000",
+    "name": "Complexiones in epistulis apostolorum ",
+    "jad_id": "jad_work__267",
+    "author": [
+      {
+        "id": 114,
+        "value": "Cassiodorus, Flavius Magnus Aurelius",
+        "order": "113.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Complexiones in epistulis apostolorum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 56,
+        "value": "mid 6th cen.",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "268": {
+    "id": 268,
+    "order": "266.00000000000000000000",
+    "name": "Commentaria in Isaiam ",
+    "jad_id": "jad_work__268",
+    "author": [
+      {
+        "id": 115,
+        "value": "Hervaeus, Burgidolensis",
+        "order": "114.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentaria in Isaiam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 13,
+        "value": "12th cen., first half",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "269": {
+    "id": 269,
+    "order": "267.00000000000000000000",
+    "name": "Commentaria in epistolas Pauli ",
+    "jad_id": "jad_work__269",
+    "author": [
+      {
+        "id": 115,
+        "value": "Hervaeus, Burgidolensis",
+        "order": "114.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentaria in epistolas Pauli",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 13,
+        "value": "12th cen., first half",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "270": {
+    "id": 270,
+    "order": "268.00000000000000000000",
+    "name": "Expositio Psalmorum ",
+    "jad_id": "jad_work__270",
+    "author": [
+      {
+        "id": 116,
+        "value": "Bruno, of Würzburg, Bischof, Heiliger",
+        "order": "115.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio Psalmorum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 49,
+        "value": "11th cen., first half",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "271": {
+    "id": 271,
+    "order": "269.00000000000000000000",
+    "name": "Decretum Gratiani ",
+    "jad_id": "jad_work__271",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Decretum Gratiani",
+    "genre": {
+      "id": 18448,
+      "value": "Legal text",
+      "color": "green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 2,
+        "value": "12th cen.",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://geschichte.digitale-sammlungen.de/decretum-gratiani/online/angebot",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": "Friedberg"
+  },
+  "272": {
+    "id": 272,
+    "order": "270.00000000000000000000",
+    "name": "Sermones dominicales ",
+    "jad_id": "jad_work__272",
+    "author": [
+      {
+        "id": 117,
+        "value": "Antonius, de Bitonto",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones dominicales",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 57,
+        "value": "mid 15th cen.",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb00045632?q=roman*&page=214,215",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "273": {
+    "id": 273,
+    "order": "271.00000000000000000000",
+    "name": "Sermones rusticani de dominicis ",
+    "jad_id": "jad_work__273",
+    "author": [
+      {
+        "id": 118,
+        "value": "Berthold, of Regensburg",
+        "order": "117.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones rusticani de dominicis",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "274": {
+    "id": 274,
+    "order": "272.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__274",
     "author": [],
     "manuscripts": [],
     "title": "",
@@ -11811,11 +12133,111 @@
     "incipit": "",
     "volume_edition": ""
   },
-  "267": {
-    "id": 267,
-    "order": "265.00000000000000000000",
+  "275": {
+    "id": 275,
+    "order": "273.00000000000000000000",
     "name": " ",
-    "jad_id": "jad_work__267",
+    "jad_id": "jad_work__275",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "276": {
+    "id": 276,
+    "order": "274.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__276",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "277": {
+    "id": 277,
+    "order": "275.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__277",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "278": {
+    "id": 278,
+    "order": "276.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__278",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "279": {
+    "id": 279,
+    "order": "277.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__279",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition": ""
+  },
+  "280": {
+    "id": 280,
+    "order": "278.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__280",
     "author": [],
     "manuscripts": [],
     "title": "",

@@ -1353,6 +1353,59 @@
           "id": "jad_work__253",
           "label": "De locis sanctis "
         }
+      },
+      {
+        "id": 271,
+        "name": "Decretum Gratiani ",
+        "jad_id": "jad_work__271",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Decretum Gratiani",
+        "genre": {
+          "id": 18448,
+          "value": "Legal text",
+          "color": "green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 2,
+            "value": "12th cen."
+          }
+        ],
+        "link_digital_editions": "https://geschichte.digitale-sammlungen.de/decretum-gratiani/online/angebot",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "Friedberg",
+        "view_label": "Decretum Gratiani ",
+        "prev": {
+          "id": "jad_work__270",
+          "label": "Expositio Psalmorum "
+        },
+        "next": {
+          "id": "jad_work__272",
+          "label": "Sermones dominicales "
+        }
       }
     ]
   },
@@ -1983,12 +2036,12 @@
         "volume_edition": null,
         "view_label": "Commentary Kings ",
         "prev": {
-          "id": "jad_work__27",
-          "label": "Sermones "
+          "id": "jad_work__279",
+          "label": " "
         },
         "next": {
-          "id": "jad_work__29",
-          "label": "Commentary Matthew "
+          "id": "jad_work__280",
+          "label": " "
         }
       },
       {
@@ -4312,12 +4365,12 @@
     "lebensdaten": null,
     "view_label": "Philippus, Cancellarius",
     "prev": {
-      "id": "jad_author__113",
-      "label": "Haimo, of Bamberg"
+      "id": "jad_author__119",
+      "label": ""
     },
     "next": {
-      "id": "jad_author__13",
-      "label": "Maurice, de Sully"
+      "id": "jad_author__120",
+      "label": ""
     },
     "related__works": [
       {
@@ -4403,8 +4456,8 @@
     "lebensdaten": null,
     "view_label": "Maurice, de Sully",
     "prev": {
-      "id": "jad_author__12",
-      "label": "Philippus, Cancellarius"
+      "id": "jad_author__125",
+      "label": ""
     },
     "next": {
       "id": "jad_author__14",
@@ -6020,8 +6073,8 @@
         "volume_edition": null,
         "view_label": "Commentary Matthew ",
         "prev": {
-          "id": "jad_work__28",
-          "label": "Commentary Kings "
+          "id": "jad_work__280",
+          "label": " "
         },
         "next": {
           "id": "jad_work__3",
@@ -7376,12 +7429,12 @@
         "volume_edition": null,
         "view_label": "Sermones ",
         "prev": {
-          "id": "jad_work__267",
-          "label": " "
+          "id": "jad_work__269",
+          "label": "Commentaria in epistolas Pauli "
         },
         "next": {
-          "id": "jad_work__28",
-          "label": "Commentary Kings "
+          "id": "jad_work__270",
+          "label": "Expositio Psalmorum "
         }
       },
       {
@@ -12049,9 +12102,9 @@
         "manuscripts": [],
         "title": "De comprobatione sextae aetatis",
         "genre": {
-          "id": 14732,
-          "value": "Idiosyncratic work",
-          "color": "dark-red"
+          "id": 18449,
+          "value": "Computistic treatise",
+          "color": "darker-gray"
         },
         "notes": "",
         "notes__author": "",
@@ -13723,9 +13776,9 @@
         "manuscripts": [],
         "title": "De sex aetatibus mundi",
         "genre": {
-          "id": 14732,
-          "value": "Idiosyncratic work",
-          "color": "dark-red"
+          "id": 18449,
+          "value": "Computistic treatise",
+          "color": "darker-gray"
         },
         "notes": "",
         "notes__author": "",
@@ -17136,8 +17189,8 @@
       "label": "Alexander Minorita, Bremensis"
     },
     "next": {
-      "id": "jad_author__12",
-      "label": "Philippus, Cancellarius"
+      "id": "jad_author__114",
+      "label": "Cassiodorus, Flavius Magnus Aurelius"
     },
     "related__works": [
       {
@@ -17157,9 +17210,9 @@
         "manuscripts": [],
         "title": "De decursu temporum",
         "genre": {
-          "id": 14732,
-          "value": "Idiosyncratic work",
-          "color": "dark-red"
+          "id": 18449,
+          "value": "Computistic treatise",
+          "color": "darker-gray"
         },
         "notes": "",
         "notes__author": "",
@@ -17183,9 +17236,612 @@
         },
         "next": {
           "id": "jad_work__265",
+          "label": "Expositio in Psalterium "
+        }
+      }
+    ]
+  },
+  "114": {
+    "id": 114,
+    "name": "Cassiodorus, Flavius Magnus Aurelius",
+    "jad_id": "jad_author__114",
+    "gnd_url": "https://d-nb.info/gnd/118519514",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Cassiodorus, Flavius Magnus Aurelius",
+    "prev": {
+      "id": "jad_author__113",
+      "label": "Haimo, of Bamberg"
+    },
+    "next": {
+      "id": "jad_author__115",
+      "label": "Hervaeus, Burgidolensis"
+    },
+    "related__works": [
+      {
+        "id": 265,
+        "name": "Expositio in Psalterium ",
+        "jad_id": "jad_work__265",
+        "author": [
+          {
+            "id": 114,
+            "name": "Cassiodorus, Flavius Magnus Aurelius",
+            "jad_id": "jad_author__114",
+            "gnd_url": "https://d-nb.info/gnd/118519514",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Expositio in Psalterium",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 56,
+            "value": "mid 6th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Expositio in Psalterium ",
+        "prev": {
+          "id": "jad_work__264",
+          "label": "De decursu temporum "
+        },
+        "next": {
+          "id": "jad_work__266",
+          "label": "Chronicon "
+        }
+      },
+      {
+        "id": 266,
+        "name": "Chronicon ",
+        "jad_id": "jad_work__266",
+        "author": [
+          {
+            "id": 114,
+            "name": "Cassiodorus, Flavius Magnus Aurelius",
+            "jad_id": "jad_author__114",
+            "gnd_url": "https://d-nb.info/gnd/118519514",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronicon",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 56,
+            "value": "mid 6th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Chronicon ",
+        "prev": {
+          "id": "jad_work__265",
+          "label": "Expositio in Psalterium "
+        },
+        "next": {
+          "id": "jad_work__267",
+          "label": "Complexiones in epistulis apostolorum "
+        }
+      },
+      {
+        "id": 267,
+        "name": "Complexiones in epistulis apostolorum ",
+        "jad_id": "jad_work__267",
+        "author": [
+          {
+            "id": 114,
+            "name": "Cassiodorus, Flavius Magnus Aurelius",
+            "jad_id": "jad_author__114",
+            "gnd_url": "https://d-nb.info/gnd/118519514",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Complexiones in epistulis apostolorum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 56,
+            "value": "mid 6th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Complexiones in epistulis apostolorum ",
+        "prev": {
+          "id": "jad_work__266",
+          "label": "Chronicon "
+        },
+        "next": {
+          "id": "jad_work__268",
+          "label": "Commentaria in Isaiam "
+        }
+      }
+    ]
+  },
+  "115": {
+    "id": 115,
+    "name": "Hervaeus, Burgidolensis",
+    "jad_id": "jad_author__115",
+    "gnd_url": "https://d-nb.info/gnd/100946143",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Hervaeus, Burgidolensis",
+    "prev": {
+      "id": "jad_author__114",
+      "label": "Cassiodorus, Flavius Magnus Aurelius"
+    },
+    "next": {
+      "id": "jad_author__116",
+      "label": "Bruno, of Würzburg, Bischof, Heiliger"
+    },
+    "related__works": [
+      {
+        "id": 268,
+        "name": "Commentaria in Isaiam ",
+        "jad_id": "jad_work__268",
+        "author": [
+          {
+            "id": 115,
+            "name": "Hervaeus, Burgidolensis",
+            "jad_id": "jad_author__115",
+            "gnd_url": "https://d-nb.info/gnd/100946143",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentaria in Isaiam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 13,
+            "value": "12th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Commentaria in Isaiam ",
+        "prev": {
+          "id": "jad_work__267",
+          "label": "Complexiones in epistulis apostolorum "
+        },
+        "next": {
+          "id": "jad_work__269",
+          "label": "Commentaria in epistolas Pauli "
+        }
+      },
+      {
+        "id": 269,
+        "name": "Commentaria in epistolas Pauli ",
+        "jad_id": "jad_work__269",
+        "author": [
+          {
+            "id": 115,
+            "name": "Hervaeus, Burgidolensis",
+            "jad_id": "jad_author__115",
+            "gnd_url": "https://d-nb.info/gnd/100946143",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentaria in epistolas Pauli",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 13,
+            "value": "12th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Commentaria in epistolas Pauli ",
+        "prev": {
+          "id": "jad_work__268",
+          "label": "Commentaria in Isaiam "
+        },
+        "next": {
+          "id": "jad_work__27",
+          "label": "Sermones "
+        }
+      }
+    ]
+  },
+  "116": {
+    "id": 116,
+    "name": "Bruno, of Würzburg, Bischof, Heiliger",
+    "jad_id": "jad_author__116",
+    "gnd_url": "https://d-nb.info/gnd/118746154",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Bruno, of Würzburg, Bischof, Heiliger",
+    "prev": {
+      "id": "jad_author__115",
+      "label": "Hervaeus, Burgidolensis"
+    },
+    "next": {
+      "id": "jad_author__117",
+      "label": "Antonius, de Bitonto"
+    },
+    "related__works": [
+      {
+        "id": 270,
+        "name": "Expositio Psalmorum ",
+        "jad_id": "jad_work__270",
+        "author": [
+          {
+            "id": 116,
+            "name": "Bruno, of Würzburg, Bischof, Heiliger",
+            "jad_id": "jad_author__116",
+            "gnd_url": "https://d-nb.info/gnd/118746154",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Expositio Psalmorum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 49,
+            "value": "11th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Expositio Psalmorum ",
+        "prev": {
+          "id": "jad_work__27",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__271",
+          "label": "Decretum Gratiani "
+        }
+      }
+    ]
+  },
+  "117": {
+    "id": 117,
+    "name": "Antonius, de Bitonto",
+    "jad_id": "jad_author__117",
+    "gnd_url": "https://d-nb.info/gnd/101029772",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Antonius, de Bitonto",
+    "prev": {
+      "id": "jad_author__116",
+      "label": "Bruno, of Würzburg, Bischof, Heiliger"
+    },
+    "next": {
+      "id": "jad_author__118",
+      "label": "Berthold, of Regensburg"
+    },
+    "related__works": [
+      {
+        "id": 272,
+        "name": "Sermones dominicales ",
+        "jad_id": "jad_work__272",
+        "author": [
+          {
+            "id": 117,
+            "name": "Antonius, de Bitonto",
+            "jad_id": "jad_author__117",
+            "gnd_url": "https://d-nb.info/gnd/101029772",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones dominicales",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 57,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb00045632?q=roman*&page=214,215",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Sermones dominicales ",
+        "prev": {
+          "id": "jad_work__271",
+          "label": "Decretum Gratiani "
+        },
+        "next": {
+          "id": "jad_work__273",
+          "label": "Sermones rusticani de dominicis "
+        }
+      }
+    ]
+  },
+  "118": {
+    "id": 118,
+    "name": "Berthold, of Regensburg",
+    "jad_id": "jad_author__118",
+    "gnd_url": "https://d-nb.info/gnd/11851007X",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Berthold, of Regensburg",
+    "prev": {
+      "id": "jad_author__117",
+      "label": "Antonius, de Bitonto"
+    },
+    "next": {
+      "id": "jad_author__119",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 273,
+        "name": "Sermones rusticani de dominicis ",
+        "jad_id": "jad_work__273",
+        "author": [
+          {
+            "id": 118,
+            "name": "Berthold, of Regensburg",
+            "jad_id": "jad_author__118",
+            "gnd_url": "https://d-nb.info/gnd/11851007X",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones rusticani de dominicis",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition": "",
+        "view_label": "Sermones rusticani de dominicis ",
+        "prev": {
+          "id": "jad_work__272",
+          "label": "Sermones dominicales "
+        },
+        "next": {
+          "id": "jad_work__274",
           "label": " "
         }
       }
     ]
+  },
+  "119": {
+    "id": 119,
+    "name": "",
+    "jad_id": "jad_author__119",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__118",
+      "label": "Berthold, of Regensburg"
+    },
+    "next": {
+      "id": "jad_author__12",
+      "label": "Philippus, Cancellarius"
+    },
+    "related__works": []
+  },
+  "120": {
+    "id": 120,
+    "name": "",
+    "jad_id": "jad_author__120",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__12",
+      "label": "Philippus, Cancellarius"
+    },
+    "next": {
+      "id": "jad_author__121",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "121": {
+    "id": 121,
+    "name": "",
+    "jad_id": "jad_author__121",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__120",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__122",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "122": {
+    "id": 122,
+    "name": "",
+    "jad_id": "jad_author__122",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__121",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__123",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "123": {
+    "id": 123,
+    "name": "",
+    "jad_id": "jad_author__123",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__122",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__124",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "124": {
+    "id": 124,
+    "name": "",
+    "jad_id": "jad_author__124",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__123",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__125",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "125": {
+    "id": 125,
+    "name": "",
+    "jad_id": "jad_author__125",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__124",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__13",
+      "label": "Maurice, de Sully"
+    },
+    "related__works": []
   }
 }

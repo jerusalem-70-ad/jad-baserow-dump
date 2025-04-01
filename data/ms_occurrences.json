@@ -649,7 +649,7 @@
     ],
     "view_label": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam",
     "prev": {
-      "id": "jad_occurence__135",
+      "id": "jad_occurence__137",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
@@ -6242,17 +6242,27 @@
     },
     "next": {
       "id": "jad_occurence__134",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "non enim flevit lapides Ierusalem, sed peccata eius"
     }
   },
   "134": {
     "id": 134,
     "jad_id": "jad_occurence__134",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 733,
+        "value": "non enim flevit lapides Ierusalem, sed peccata eius"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 79,
+        "value": "BSB, Clm 5531"
+      }
+    ],
+    "position_in_ms": "61v",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00095981?page=128,129",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -6262,9 +6272,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-03-30",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-03-31",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 79,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 5531, f. 61v"
+      }
+    ],
+    "view_label": "non enim flevit lapides Ierusalem, sed peccata eius",
     "prev": {
       "id": "jad_occurence__133",
       "label": "Si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est. Et ne ad veteres historias nos ire oporteat, in promptu est destructio illius civitatis facta tempore papae Urbani secundi, regnante rege Francorum Philippo.   Sed nunc, culpis nostris exigentibus, haec novissima captio et destructio facta est sub Urbano papa tertio, et sub alio Philippo rege Francorum.   Sed est alia Jerusalem superna, et coelestis illa, quae est mater nostra, cujus muri in ruina, et lapsu Luciferi atque complicum p. 0677D | ejus, ex parte non modica corruerunt."
@@ -6296,6 +6314,64 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__134",
+      "label": "non enim flevit lapides Ierusalem, sed peccata eius"
+    },
+    "next": {
+      "id": "jad_occurence__136",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "136": {
+    "id": 136,
+    "jad_id": "jad_occurence__136",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-31",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-31",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__135",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__137",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "137": {
+    "id": 137,
+    "jad_id": "jad_occurence__137",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-03-31",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-03-31",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__136",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
