@@ -87,12 +87,12 @@
     "jad_id": "jad_date__6",
     "view_label": "early 9th cen.",
     "prev": {
-      "id": "jad_date__58",
-      "label": ""
+      "id": "jad_date__59",
+      "label": "mid 4th cen."
     },
     "next": {
-      "id": "jad_date__7",
-      "label": "mid 9th cen."
+      "id": "jad_date__60",
+      "label": "mid 10th cen."
     }
   },
   "7": {
@@ -103,8 +103,8 @@
     "jad_id": "jad_date__7",
     "view_label": "mid 9th cen.",
     "prev": {
-      "id": "jad_date__6",
-      "label": "early 9th cen."
+      "id": "jad_date__62",
+      "label": ""
     },
     "next": {
       "id": "jad_date__8",
@@ -908,23 +908,87 @@
     },
     "next": {
       "id": "jad_date__58",
-      "label": ""
+      "label": "5th cen., first half"
     }
   },
   "58": {
     "id": 58,
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "5th cen., first half",
+    "not_before": "401",
+    "not_after": "450",
     "jad_id": "jad_date__58",
-    "view_label": "",
+    "view_label": "5th cen., first half",
     "prev": {
       "id": "jad_date__57",
       "label": "mid 15th cen."
     },
     "next": {
+      "id": "jad_date__59",
+      "label": "mid 4th cen."
+    }
+  },
+  "59": {
+    "id": 59,
+    "name": "mid 4th cen.",
+    "not_before": "331",
+    "not_after": "370",
+    "jad_id": "jad_date__59",
+    "view_label": "mid 4th cen.",
+    "prev": {
+      "id": "jad_date__58",
+      "label": "5th cen., first half"
+    },
+    "next": {
       "id": "jad_date__6",
       "label": "early 9th cen."
+    }
+  },
+  "60": {
+    "id": 60,
+    "name": "mid 10th cen.",
+    "not_before": "931",
+    "not_after": "970",
+    "jad_id": "jad_date__60",
+    "view_label": "mid 10th cen.",
+    "prev": {
+      "id": "jad_date__6",
+      "label": "early 9th cen."
+    },
+    "next": {
+      "id": "jad_date__61",
+      "label": "around 800"
+    }
+  },
+  "61": {
+    "id": 61,
+    "name": "around 800",
+    "not_before": "790",
+    "not_after": "810",
+    "jad_id": "jad_date__61",
+    "view_label": "around 800",
+    "prev": {
+      "id": "jad_date__60",
+      "label": "mid 10th cen."
+    },
+    "next": {
+      "id": "jad_date__62",
+      "label": ""
+    }
+  },
+  "62": {
+    "id": 62,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__62",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__61",
+      "label": "around 800"
+    },
+    "next": {
+      "id": "jad_date__7",
+      "label": "mid 9th cen."
     }
   }
 }

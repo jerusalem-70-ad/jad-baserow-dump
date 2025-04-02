@@ -1630,7 +1630,7 @@
     "view_label": "St. Gen.",
     "prev": {
       "id": "jad_library__36",
-      "label": ""
+      "label": "Admont"
     },
     "next": {
       "id": "jad_library__5",
@@ -1754,7 +1754,7 @@
         },
         "next": {
           "id": "jad_manuscript__80",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Admont, Cod. 73"
         }
       },
       {
@@ -2354,7 +2354,7 @@
         ],
         "view_label": "Lam., MS 144",
         "prev": {
-          "id": "jad_manuscript__80",
+          "id": "jad_manuscript__85",
           "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
@@ -4972,7 +4972,7 @@
     },
     "next": {
       "id": "jad_library__36",
-      "label": ""
+      "label": "Admont"
     },
     "related__manuscripts": [
       {
@@ -5025,12 +5025,12 @@
   },
   "36": {
     "id": 36,
-    "name": "",
+    "name": "Admont",
     "jad_id": "jad_library__36",
-    "gnd_url": "",
-    "full_name": "",
+    "gnd_url": "https://d-nb.info/gnd/1237868-9",
+    "full_name": "Stiftsbibliothek Admont",
     "place": [],
-    "view_label": "",
+    "view_label": "Admont",
     "prev": {
       "id": "jad_library__35",
       "label": "Berlin Staatsbibl."
@@ -5039,6 +5039,53 @@
       "id": "jad_library__4",
       "label": "St. Gen."
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 80,
+        "name": [
+          {
+            "id": 36,
+            "value": "Admont, Cod. 73"
+          }
+        ],
+        "jad_id": "jad_manuscript__80",
+        "library": [
+          {
+            "id": 36,
+            "name": "Admont",
+            "jad_id": "jad_library__36",
+            "gnd_url": "https://d-nb.info/gnd/1237868-9",
+            "full_name": "Stiftsbibliothek Admont",
+            "place": []
+          }
+        ],
+        "idno": "Cod. 73",
+        "catalog_url": "https://manuscripta.at/hs_detail.php?ID=25968",
+        "digi_url": "https://manuscripta.at/diglit/AT1000-73/0164?sid=5849ee5005e425cb73a6a042c9421f8a",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 14,
+            "value": "12th cen., second half"
+          }
+        ],
+        "format": "36 x 24, 176 ff.",
+        "library_full": [
+          {
+            "id": 36,
+            "value": "Stiftsbibliothek Admont"
+          }
+        ],
+        "view_label": "Admont, Cod. 73",
+        "prev": {
+          "id": "jad_manuscript__8",
+          "label": "St. Gen., MS 1422"
+        },
+        "next": {
+          "id": "jad_manuscript__81",
+          "label": "NO MATCH FOR $..name[0].value"
+        }
+      }
+    ]
   }
 }

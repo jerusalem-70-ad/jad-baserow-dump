@@ -432,7 +432,7 @@
     },
     "next": {
       "id": "jad_manuscript__80",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Admont, Cod. 73"
     }
   },
   "9": {
@@ -491,7 +491,7 @@
     ],
     "view_label": "Lam., MS 144",
     "prev": {
-      "id": "jad_manuscript__80",
+      "id": "jad_manuscript__85",
       "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
@@ -4248,8 +4248,54 @@
   },
   "80": {
     "id": 80,
-    "name": [],
+    "name": [
+      {
+        "id": 36,
+        "value": "Admont, Cod. 73"
+      }
+    ],
     "jad_id": "jad_manuscript__80",
+    "library": [
+      {
+        "id": 36,
+        "name": "Admont",
+        "jad_id": "jad_library__36",
+        "gnd_url": "https://d-nb.info/gnd/1237868-9",
+        "full_name": "Stiftsbibliothek Admont",
+        "place": []
+      }
+    ],
+    "idno": "Cod. 73",
+    "catalog_url": "https://manuscripta.at/hs_detail.php?ID=25968",
+    "digi_url": "https://manuscripta.at/diglit/AT1000-73/0164?sid=5849ee5005e425cb73a6a042c9421f8a",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 14,
+        "value": "12th cen., second half"
+      }
+    ],
+    "format": "36 x 24, 176 ff.",
+    "library_full": [
+      {
+        "id": 36,
+        "value": "Stiftsbibliothek Admont"
+      }
+    ],
+    "view_label": "Admont, Cod. 73",
+    "prev": {
+      "id": "jad_manuscript__8",
+      "label": "St. Gen., MS 1422"
+    },
+    "next": {
+      "id": "jad_manuscript__81",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "81": {
+    "id": 81,
+    "name": [],
+    "jad_id": "jad_manuscript__81",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -4260,8 +4306,96 @@
     "library_full": [],
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
-      "id": "jad_manuscript__8",
-      "label": "St. Gen., MS 1422"
+      "id": "jad_manuscript__80",
+      "label": "Admont, Cod. 73"
+    },
+    "next": {
+      "id": "jad_manuscript__82",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "82": {
+    "id": 82,
+    "name": [],
+    "jad_id": "jad_manuscript__82",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__81",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__83",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "83": {
+    "id": 83,
+    "name": [],
+    "jad_id": "jad_manuscript__83",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__82",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__84",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "84": {
+    "id": 84,
+    "name": [],
+    "jad_id": "jad_manuscript__84",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__83",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__85",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "85": {
+    "id": 85,
+    "name": [],
+    "jad_id": "jad_manuscript__85",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__84",
+      "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
       "id": "jad_manuscript__9",
