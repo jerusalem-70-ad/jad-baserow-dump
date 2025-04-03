@@ -2602,7 +2602,7 @@
     "author": [
       {
         "id": 45,
-        "value": "Andrew, of Sankt Viktor",
+        "value": "Andrew, of Saint Victor",
         "order": "45.00000000000000000000"
       }
     ],
@@ -3514,7 +3514,7 @@
     "author": [
       {
         "id": 56,
-        "value": "Hugo, Flaviniacensis",
+        "value": "Hugh, of Flavigny",
         "order": "55.00000000000000000000"
       }
     ],
@@ -12284,9 +12284,9 @@
     "manuscripts": [],
     "title": "De triumphis Christi apud Italiam",
     "genre": {
-      "id": 14732,
-      "value": "Idiosyncratic work",
-      "color": "dark-red"
+      "id": 18451,
+      "value": "Poetry",
+      "color": "orange"
     },
     "notes": "",
     "notes__author": "",
@@ -12709,48 +12709,1166 @@
   "290": {
     "id": 290,
     "order": "286.00000000000000000000",
-    "name": " ",
+    "name": "De septem libris Iosephi ",
     "jad_id": "jad_work__290",
-    "author": [],
+    "author": [
+      {
+        "id": 131,
+        "value": "Geoffrey, prior of the templum domini",
+        "order": "127.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "De septem libris Iosephi",
+    "genre": {
+      "id": 18451,
+      "value": "Poetry",
+      "color": "orange"
+    },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
-    "link_digital_editions": "",
-    "author_certainty": false,
+    "institutional_context": [
+      {
+        "id": 4,
+        "value": "Kingdom of Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.tandfonline.com/doi/full/10.1080/28327861.2014.12220391",
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": ""
+    "volume_edition_or_individual_editor": "Yolles"
   },
   "291": {
     "id": 291,
     "order": "287.00000000000000000000",
-    "name": " ",
+    "name": "Excerpta ex Historia ecclesiastica ",
     "jad_id": "jad_work__291",
-    "author": [],
+    "author": [
+      {
+        "id": 132,
+        "value": "Hugh, of Fleury",
+        "order": "128.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Excerpta ex Historia ecclesiastica",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "292": {
     "id": 292,
     "order": "287.00000000000000000000",
-    "name": " ",
+    "name": "De scripturis et scriptoribus sacris ",
     "jad_id": "jad_work__292",
+    "author": [
+      {
+        "id": 133,
+        "value": "Hugh, of Saint Victor",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De scripturis et scriptoribus sacris",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "293": {
+    "id": 293,
+    "order": "288.00000000000000000000",
+    "name": "Adnotatiunculae in Joelem ",
+    "jad_id": "jad_work__293",
+    "author": [
+      {
+        "id": 133,
+        "value": "Hugh, of Saint Victor",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Adnotatiunculae in Joelem",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "294": {
+    "id": 294,
+    "order": "289.00000000000000000000",
+    "name": "Adnotatiunculae in Threnos ",
+    "jad_id": "jad_work__294",
+    "author": [
+      {
+        "id": 133,
+        "value": "Hugh, of Saint Victor",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Adnotatiunculae in Threnos",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "295": {
+    "id": 295,
+    "order": "290.00000000000000000000",
+    "name": "In Lamentationes Jeremiae ",
+    "jad_id": "jad_work__295",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus, Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "In Lamentationes Jeremiae",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "296": {
+    "id": 296,
+    "order": "291.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__296",
+    "author": [
+      {
+        "id": 134,
+        "value": "Peter Abaelard",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "297": {
+    "id": 297,
+    "order": "292.00000000000000000000",
+    "name": "Collectanea in epistolas Pauli ",
+    "jad_id": "jad_work__297",
+    "author": [
+      {
+        "id": 41,
+        "value": "Peter Lombard",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Collectanea in epistolas Pauli",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "298": {
+    "id": 298,
+    "order": "292.00000000000000000000",
+    "name": "Sententiae ",
+    "jad_id": "jad_work__298",
+    "author": [
+      {
+        "id": 135,
+        "value": "Petrus, of Poitiers",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sententiae",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "299": {
+    "id": 299,
+    "order": "293.00000000000000000000",
+    "name": "Chronicon cum continuatione Treverensi ",
+    "jad_id": "jad_work__299",
+    "author": [
+      {
+        "id": 136,
+        "value": "Regino, of Prüm",
+        "order": "131.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronicon cum continuatione Treverensi",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 19,
+        "value": "around 900",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "300": {
+    "id": 300,
+    "order": "294.00000000000000000000",
+    "name": "Chronica sive historia de duabus civitatibus ",
+    "jad_id": "jad_work__300",
+    "author": [
+      {
+        "id": 137,
+        "value": "Otto, of Freising",
+        "order": "131.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronica sive historia de duabus civitatibus",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "301": {
+    "id": 301,
+    "order": "295.00000000000000000000",
+    "name": "Sermones in quadragesima ",
+    "jad_id": "jad_work__301",
+    "author": [
+      {
+        "id": 138,
+        "value": "Bernardino, de Siena",
+        "order": "132.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones in quadragesima",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 62,
+        "value": "15th cen., first half",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "302": {
+    "id": 302,
+    "order": "295.00000000000000000000",
+    "name": "Commentaria in psalmos ",
+    "jad_id": "jad_work__302",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentaria in psalmos",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "303": {
+    "id": 303,
+    "order": "296.00000000000000000000",
+    "name": "Dialogion de fide catholica ",
+    "jad_id": "jad_work__303",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Dialogion de fide catholica",
+    "genre": {
+      "id": 15026,
+      "value": "Polemics",
+      "color": "light-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "304": {
+    "id": 304,
+    "order": "297.00000000000000000000",
+    "name": "Enarratio in Actus Apostolorum ",
+    "jad_id": "jad_work__304",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in Actus Apostolorum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "305": {
+    "id": 305,
+    "order": "298.00000000000000000000",
+    "name": "Enarratio in Baruch prophetam ",
+    "jad_id": "jad_work__305",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in Baruch prophetam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "306": {
+    "id": 306,
+    "order": "299.00000000000000000000",
+    "name": "Enarratio in Danielem prophetam ",
+    "jad_id": "jad_work__306",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in Danielem prophetam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "307": {
+    "id": 307,
+    "order": "300.00000000000000000000",
+    "name": "Enarratio in evangelium secundum Lucam ",
+    "jad_id": "jad_work__307",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in evangelium secundum Lucam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "308": {
+    "id": 308,
+    "order": "301.00000000000000000000",
+    "name": "Rationale divinorum officiorum ",
+    "jad_id": "jad_work__308",
+    "author": [
+      {
+        "id": 140,
+        "value": "John, Beleth",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Rationale divinorum officiorum",
+    "genre": {
+      "id": 15021,
+      "value": "Liturgical text",
+      "color": "dark-yellow"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "309": {
+    "id": 309,
+    "order": "302.00000000000000000000",
+    "name": "Polycraticus ",
+    "jad_id": "jad_work__309",
+    "author": [
+      {
+        "id": 141,
+        "value": "John, of Salisbury",
+        "order": "134.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Polycraticus",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "310": {
+    "id": 310,
+    "order": "303.00000000000000000000",
+    "name": "Epistolae ",
+    "jad_id": "jad_work__310",
+    "author": [
+      {
+        "id": 141,
+        "value": "John, of Salisbury",
+        "order": "134.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Epistolae",
+    "genre": {
+      "id": 18135,
+      "value": "Letters",
+      "color": "darker-orange"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "311": {
+    "id": 311,
+    "order": "304.00000000000000000000",
+    "name": "Divinae institutiones ",
+    "jad_id": "jad_work__311",
+    "author": [
+      {
+        "id": 142,
+        "value": "Lactantius, Lucius Caecilius Firmianus",
+        "order": "135.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Divinae institutiones",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 36,
+        "value": "early 4th cen.",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "312": {
+    "id": 312,
+    "order": "304.00000000000000000000",
+    "name": "Epitome Divinarum institutionum ",
+    "jad_id": "jad_work__312",
+    "author": [
+      {
+        "id": 142,
+        "value": "Lactantius, Lucius Caecilius Firmianus",
+        "order": "135.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Epitome Divinarum institutionum",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 36,
+        "value": "early 4th cen.",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "313": {
+    "id": 313,
+    "order": "305.00000000000000000000",
+    "name": "Historia miscella ",
+    "jad_id": "jad_work__313",
+    "author": [
+      {
+        "id": 143,
+        "value": "Landulfus, Sagax",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Historia miscella",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 18,
+        "value": "around 1000",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "314": {
+    "id": 314,
+    "order": "306.00000000000000000000",
+    "name": "De haeresi et historia Manichaeorum ",
+    "jad_id": "jad_work__314",
+    "author": [
+      {
+        "id": 144,
+        "value": "Leo I, pope",
+        "order": "136.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De haeresi et historia Manichaeorum",
+    "genre": {
+      "id": 15026,
+      "value": "Polemics",
+      "color": "light-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 64,
+        "value": "mid 5th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "315": {
+    "id": 315,
+    "order": "306.00000000000000000000",
+    "name": "Chronicon ",
+    "jad_id": "jad_work__315",
+    "author": [
+      {
+        "id": 145,
+        "value": "Marianus Scotus",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronicon",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 65,
+        "value": "11th cen., second half",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "316": {
+    "id": 316,
+    "order": "307.00000000000000000000",
+    "name": "Epistolae et decreta ",
+    "jad_id": "jad_work__316",
+    "author": [
+      {
+        "id": 146,
+        "value": "Nikolaus I, pope",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Epistolae et decreta",
+    "genre": {
+      "id": 18135,
+      "value": "Letters",
+      "color": "darker-orange"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 28,
+        "value": "860s",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "317": {
+    "id": 317,
+    "order": "308.00000000000000000000",
+    "name": "Expositio in Psalmos ",
+    "jad_id": "jad_work__317",
+    "author": [
+      {
+        "id": 147,
+        "value": "Odo, Astensis",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio in Psalmos",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "318": {
+    "id": 318,
+    "order": "309.00000000000000000000",
+    "name": "De schismate Donatistarum ",
+    "jad_id": "jad_work__318",
+    "author": [
+      {
+        "id": 148,
+        "value": "Optatus, of Milet",
+        "order": "138.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De schismate Donatistarum",
+    "genre": {
+      "id": 15026,
+      "value": "Polemics",
+      "color": "light-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 66,
+        "value": "late 4th cen.",
+        "order": "65.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "319": {
+    "id": 319,
+    "order": "310.00000000000000000000",
+    "name": "Homiliae ",
+    "jad_id": "jad_work__319",
+    "author": [
+      {
+        "id": 149,
+        "value": "Origenes",
+        "order": "138.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Homiliae",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "320": {
+    "id": 320,
+    "order": "311.00000000000000000000",
+    "name": "Excerpta ex operibus deperditis S. Paulini ",
+    "jad_id": "jad_work__320",
+    "author": [
+      {
+        "id": 150,
+        "value": "Paulinus of Nola",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Excerpta ex operibus deperditis S. Paulini",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "321": {
+    "id": 321,
+    "order": "312.00000000000000000000",
+    "name": "Epistolae ",
+    "jad_id": "jad_work__321",
+    "author": [
+      {
+        "id": 151,
+        "value": "Paulus Alvarus Cordubensis",
+        "order": "140.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Epistolae",
+    "genre": {
+      "id": 18135,
+      "value": "Letters",
+      "color": "darker-orange"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "322": {
+    "id": 322,
+    "order": "313.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__322",
     "author": [],
     "manuscripts": [],
     "title": "",
