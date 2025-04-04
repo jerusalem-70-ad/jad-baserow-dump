@@ -101,6 +101,98 @@
           "id": "jad_work__20",
           "label": "Commentary Ezekiel "
         }
+      },
+      {
+        "id": 323,
+        "name": "Passio Raginaldi principis Antiochie ",
+        "jad_id": "jad_work__323",
+        "author": [
+          {
+            "id": 1,
+            "name": "Petrus, of Blois",
+            "jad_id": "jad_author__1",
+            "gnd_url": "https://d-nb.info/gnd/118923927",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Passio Raginaldi principis Antiochie",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 11,
+            "value": "after 1187"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Passio Raginaldi principis Antiochie ",
+        "prev": {
+          "id": "jad_work__322",
+          "label": "Theologica Christiana "
+        },
+        "next": {
+          "id": "jad_work__324",
+          "label": "Contra perfidiam Judaeorum "
+        }
+      },
+      {
+        "id": 324,
+        "name": "Contra perfidiam Judaeorum ",
+        "jad_id": "jad_work__324",
+        "author": [
+          {
+            "id": 1,
+            "name": "Petrus, of Blois",
+            "jad_id": "jad_author__1",
+            "gnd_url": "https://d-nb.info/gnd/118923927",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Contra perfidiam Judaeorum",
+        "genre": {
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Contra perfidiam Judaeorum ",
+        "prev": {
+          "id": "jad_work__323",
+          "label": "Passio Raginaldi principis Antiochie "
+        },
+        "next": {
+          "id": "jad_work__325",
+          "label": "Distinctiones Abel "
+        }
       }
     ]
   },
@@ -1864,6 +1956,151 @@
         "next": {
           "id": "jad_work__252",
           "label": "Sermones "
+        }
+      },
+      {
+        "id": 325,
+        "name": "Distinctiones Abel ",
+        "jad_id": "jad_work__325",
+        "author": [
+          {
+            "id": 4,
+            "name": "Petrus, Cantor",
+            "jad_id": "jad_author__4",
+            "gnd_url": "https://d-nb.info/gnd/118790625",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Distinctiones Abel",
+        "genre": {
+          "id": 18452,
+          "value": "Distinctiones",
+          "color": "light-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Distinctiones Abel ",
+        "prev": {
+          "id": "jad_work__324",
+          "label": "Contra perfidiam Judaeorum "
+        },
+        "next": {
+          "id": "jad_work__326",
+          "label": "Verbum adbreuiatum (textus conflatus) "
+        }
+      },
+      {
+        "id": 326,
+        "name": "Verbum adbreuiatum (textus conflatus) ",
+        "jad_id": "jad_work__326",
+        "author": [
+          {
+            "id": 4,
+            "name": "Petrus, Cantor",
+            "jad_id": "jad_author__4",
+            "gnd_url": "https://d-nb.info/gnd/118790625",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Verbum adbreuiatum (textus conflatus)",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Verbum adbreuiatum (textus conflatus) ",
+        "prev": {
+          "id": "jad_work__325",
+          "label": "Distinctiones Abel "
+        },
+        "next": {
+          "id": "jad_work__327",
+          "label": "Verbum adbreuiatum (textus prior) "
+        }
+      },
+      {
+        "id": 327,
+        "name": "Verbum adbreuiatum (textus prior) ",
+        "jad_id": "jad_work__327",
+        "author": [
+          {
+            "id": 4,
+            "name": "Petrus, Cantor",
+            "jad_id": "jad_author__4",
+            "gnd_url": "https://d-nb.info/gnd/118790625",
+            "notes": null,
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Verbum adbreuiatum (textus prior)",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Verbum adbreuiatum (textus prior) ",
+        "prev": {
+          "id": "jad_work__326",
+          "label": "Verbum adbreuiatum (textus conflatus) "
+        },
+        "next": {
+          "id": "jad_work__328",
+          "label": "De panibus "
         }
       }
     ]
@@ -4901,7 +5138,7 @@
     "lebensdaten": null,
     "view_label": "Rupert, of Deutz",
     "prev": {
-      "id": "jad_author__152",
+      "id": "jad_author__158",
       "label": ""
     },
     "next": {
@@ -6729,6 +6966,144 @@
           "id": "jad_work__23",
           "label": "Sermones "
         }
+      },
+      {
+        "id": 331,
+        "name": "Antilogus contra Judaeos ad Honestum ",
+        "jad_id": "jad_work__331",
+        "author": [
+          {
+            "id": 19,
+            "name": "Petrus, Damiani",
+            "jad_id": "jad_author__19",
+            "gnd_url": "https://d-nb.info/gnd/118593331",
+            "notes": "",
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Antilogus contra Judaeos ad Honestum",
+        "genre": {
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 33,
+            "value": "mid 11th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Antilogus contra Judaeos ad Honestum ",
+        "prev": {
+          "id": "jad_work__330",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__332",
+          "label": "Dialogus inter Judaeum et Christianum ad Honestum "
+        }
+      },
+      {
+        "id": 332,
+        "name": "Dialogus inter Judaeum et Christianum ad Honestum ",
+        "jad_id": "jad_work__332",
+        "author": [
+          {
+            "id": 19,
+            "name": "Petrus, Damiani",
+            "jad_id": "jad_author__19",
+            "gnd_url": "https://d-nb.info/gnd/118593331",
+            "notes": "",
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Dialogus inter Judaeum et Christianum ad Honestum",
+        "genre": {
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 33,
+            "value": "mid 11th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Dialogus inter Judaeum et Christianum ad Honestum ",
+        "prev": {
+          "id": "jad_work__331",
+          "label": "Antilogus contra Judaeos ad Honestum "
+        },
+        "next": {
+          "id": "jad_work__333",
+          "label": "Collectanea in Vetus Testamentum "
+        }
+      },
+      {
+        "id": 333,
+        "name": "Collectanea in Vetus Testamentum ",
+        "jad_id": "jad_work__333",
+        "author": [
+          {
+            "id": 19,
+            "name": "Petrus, Damiani",
+            "jad_id": "jad_author__19",
+            "gnd_url": "https://d-nb.info/gnd/118593331",
+            "notes": "",
+            "lebensdaten": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Collectanea in Vetus Testamentum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 33,
+            "value": "mid 11th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Collectanea in Vetus Testamentum ",
+        "prev": {
+          "id": "jad_work__332",
+          "label": "Dialogus inter Judaeum et Christianum ad Honestum "
+        },
+        "next": {
+          "id": "jad_work__334",
+          "label": "Historia Albigensium "
+        }
       }
     ]
   },
@@ -6974,12 +7349,12 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Sermones ",
         "prev": {
-          "id": "jad_work__33",
-          "label": "Commentary Kings "
+          "id": "jad_work__339",
+          "label": "Apologeticus adversus gentes "
         },
         "next": {
-          "id": "jad_work__35",
-          "label": "Historia expeditionis Hierosolymitanae "
+          "id": "jad_work__340",
+          "label": " "
         }
       }
     ]
@@ -7276,8 +7651,8 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Historia expeditionis Hierosolymitanae ",
         "prev": {
-          "id": "jad_work__34",
-          "label": "Sermones "
+          "id": "jad_work__340",
+          "label": " "
         },
         "next": {
           "id": "jad_work__36",
@@ -10038,11 +10413,11 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Commentary Kings ",
         "prev": {
-          "id": "jad_work__322",
-          "label": " "
+          "id": "jad_work__329",
+          "label": "Sermones "
         },
         "next": {
-          "id": "jad_work__34",
+          "id": "jad_work__330",
           "label": "Sermones "
         }
       },
@@ -19157,6 +19532,52 @@
           "id": "jad_work__297",
           "label": "Collectanea in epistolas Pauli "
         }
+      },
+      {
+        "id": 322,
+        "name": "Theologica Christiana ",
+        "jad_id": "jad_work__322",
+        "author": [
+          {
+            "id": 134,
+            "name": "Peter Abaelard",
+            "jad_id": "jad_author__134",
+            "gnd_url": "https://d-nb.info/gnd/11850004X",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Theologica Christiana",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Theologica Christiana ",
+        "prev": {
+          "id": "jad_work__321",
+          "label": "Epistolae "
+        },
+        "next": {
+          "id": "jad_work__323",
+          "label": "Passio Raginaldi principis Antiochie "
+        }
       }
     ]
   },
@@ -20531,7 +20952,7 @@
     },
     "next": {
       "id": "jad_author__152",
-      "label": ""
+      "label": "Petrus, Cellensis"
     },
     "related__works": [
       {
@@ -20577,22 +20998,550 @@
         },
         "next": {
           "id": "jad_work__322",
-          "label": " "
+          "label": "Theologica Christiana "
         }
       }
     ]
   },
   "152": {
     "id": 152,
-    "name": "",
+    "name": "Petrus, Cellensis",
     "jad_id": "jad_author__152",
+    "gnd_url": "https://d-nb.info/gnd/11879065X",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Petrus, Cellensis",
+    "prev": {
+      "id": "jad_author__151",
+      "label": "Paulus Alvarus Cordubensis"
+    },
+    "next": {
+      "id": "jad_author__153",
+      "label": "Petrus Chrysologus"
+    },
+    "related__works": [
+      {
+        "id": 328,
+        "name": "De panibus ",
+        "jad_id": "jad_work__328",
+        "author": [
+          {
+            "id": 152,
+            "name": "Petrus, Cellensis",
+            "jad_id": "jad_author__152",
+            "gnd_url": "https://d-nb.info/gnd/11879065X",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "De panibus",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "De panibus ",
+        "prev": {
+          "id": "jad_work__327",
+          "label": "Verbum adbreuiatum (textus prior) "
+        },
+        "next": {
+          "id": "jad_work__329",
+          "label": "Sermones "
+        }
+      },
+      {
+        "id": 329,
+        "name": "Sermones ",
+        "jad_id": "jad_work__329",
+        "author": [
+          {
+            "id": 152,
+            "name": "Petrus, Cellensis",
+            "jad_id": "jad_author__152",
+            "gnd_url": "https://d-nb.info/gnd/11879065X",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__328",
+          "label": "De panibus "
+        },
+        "next": {
+          "id": "jad_work__33",
+          "label": "Commentary Kings "
+        }
+      }
+    ]
+  },
+  "153": {
+    "id": 153,
+    "name": "Petrus Chrysologus",
+    "jad_id": "jad_author__153",
+    "gnd_url": "https://d-nb.info/gnd/118993631",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Petrus Chrysologus",
+    "prev": {
+      "id": "jad_author__152",
+      "label": "Petrus, Cellensis"
+    },
+    "next": {
+      "id": "jad_author__154",
+      "label": "Peter, des Vaux-de-Cernay"
+    },
+    "related__works": [
+      {
+        "id": 330,
+        "name": "Sermones ",
+        "jad_id": "jad_work__330",
+        "author": [
+          {
+            "id": 153,
+            "name": "Petrus Chrysologus",
+            "jad_id": "jad_author__153",
+            "gnd_url": "https://d-nb.info/gnd/118993631",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 58,
+            "value": "5th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__33",
+          "label": "Commentary Kings "
+        },
+        "next": {
+          "id": "jad_work__331",
+          "label": "Antilogus contra Judaeos ad Honestum "
+        }
+      }
+    ]
+  },
+  "154": {
+    "id": 154,
+    "name": "Peter, des Vaux-de-Cernay",
+    "jad_id": "jad_author__154",
+    "gnd_url": "https://d-nb.info/gnd/100957994",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Peter, des Vaux-de-Cernay",
+    "prev": {
+      "id": "jad_author__153",
+      "label": "Petrus Chrysologus"
+    },
+    "next": {
+      "id": "jad_author__155",
+      "label": "Petrus, Diaconus"
+    },
+    "related__works": [
+      {
+        "id": 334,
+        "name": "Historia Albigensium ",
+        "jad_id": "jad_work__334",
+        "author": [
+          {
+            "id": 154,
+            "name": "Peter, des Vaux-de-Cernay",
+            "jad_id": "jad_author__154",
+            "gnd_url": "https://d-nb.info/gnd/100957994",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Historia Albigensium",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Historia Albigensium ",
+        "prev": {
+          "id": "jad_work__333",
+          "label": "Collectanea in Vetus Testamentum "
+        },
+        "next": {
+          "id": "jad_work__335",
+          "label": "De locis sanctis "
+        }
+      }
+    ]
+  },
+  "155": {
+    "id": 155,
+    "name": "Petrus, Diaconus",
+    "jad_id": "jad_author__155",
+    "gnd_url": "https://d-nb.info/gnd/119305879",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Petrus, Diaconus",
+    "prev": {
+      "id": "jad_author__154",
+      "label": "Peter, des Vaux-de-Cernay"
+    },
+    "next": {
+      "id": "jad_author__156",
+      "label": "Prosper, de Aquitania"
+    },
+    "related__works": [
+      {
+        "id": 335,
+        "name": "De locis sanctis ",
+        "jad_id": "jad_work__335",
+        "author": [
+          {
+            "id": 155,
+            "name": "Petrus, Diaconus",
+            "jad_id": "jad_author__155",
+            "gnd_url": "https://d-nb.info/gnd/119305879",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "De locis sanctis",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 13,
+            "value": "12th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "De locis sanctis ",
+        "prev": {
+          "id": "jad_work__334",
+          "label": "Historia Albigensium "
+        },
+        "next": {
+          "id": "jad_work__336",
+          "label": "Chronicum integrum "
+        }
+      }
+    ]
+  },
+  "156": {
+    "id": 156,
+    "name": "Prosper, de Aquitania",
+    "jad_id": "jad_author__156",
+    "gnd_url": "https://d-nb.info/gnd/118793519",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Prosper, de Aquitania",
+    "prev": {
+      "id": "jad_author__155",
+      "label": "Petrus, Diaconus"
+    },
+    "next": {
+      "id": "jad_author__157",
+      "label": "Tertullianus, Quintus Septimius Florens"
+    },
+    "related__works": [
+      {
+        "id": 336,
+        "name": "Chronicum integrum ",
+        "jad_id": "jad_work__336",
+        "author": [
+          {
+            "id": 156,
+            "name": "Prosper, de Aquitania",
+            "jad_id": "jad_author__156",
+            "gnd_url": "https://d-nb.info/gnd/118793519",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronicum integrum",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 58,
+            "value": "5th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Chronicum integrum ",
+        "prev": {
+          "id": "jad_work__335",
+          "label": "De locis sanctis "
+        },
+        "next": {
+          "id": "jad_work__337",
+          "label": "Adversus Judaeos "
+        }
+      }
+    ]
+  },
+  "157": {
+    "id": 157,
+    "name": "Tertullianus, Quintus Septimius Florens",
+    "jad_id": "jad_author__157",
+    "gnd_url": "https://d-nb.info/gnd/118621386",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Tertullianus, Quintus Septimius Florens",
+    "prev": {
+      "id": "jad_author__156",
+      "label": "Prosper, de Aquitania"
+    },
+    "next": {
+      "id": "jad_author__158",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 337,
+        "name": "Adversus Judaeos ",
+        "jad_id": "jad_work__337",
+        "author": [
+          {
+            "id": 157,
+            "name": "Tertullianus, Quintus Septimius Florens",
+            "jad_id": "jad_author__157",
+            "gnd_url": "https://d-nb.info/gnd/118621386",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Adversus Judaeos",
+        "genre": {
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 67,
+            "value": "around 200"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Adversus Judaeos ",
+        "prev": {
+          "id": "jad_work__336",
+          "label": "Chronicum integrum "
+        },
+        "next": {
+          "id": "jad_work__338",
+          "label": "Adversus Marcionem "
+        }
+      },
+      {
+        "id": 338,
+        "name": "Adversus Marcionem ",
+        "jad_id": "jad_work__338",
+        "author": [
+          {
+            "id": 157,
+            "name": "Tertullianus, Quintus Septimius Florens",
+            "jad_id": "jad_author__157",
+            "gnd_url": "https://d-nb.info/gnd/118621386",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Adversus Marcionem",
+        "genre": {
+          "id": 15026,
+          "value": "Polemics",
+          "color": "light-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 67,
+            "value": "around 200"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Adversus Marcionem ",
+        "prev": {
+          "id": "jad_work__337",
+          "label": "Adversus Judaeos "
+        },
+        "next": {
+          "id": "jad_work__339",
+          "label": "Apologeticus adversus gentes "
+        }
+      },
+      {
+        "id": 339,
+        "name": "Apologeticus adversus gentes ",
+        "jad_id": "jad_work__339",
+        "author": [
+          {
+            "id": 157,
+            "name": "Tertullianus, Quintus Septimius Florens",
+            "jad_id": "jad_author__157",
+            "gnd_url": "https://d-nb.info/gnd/118621386",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Apologeticus adversus gentes",
+        "genre": {
+          "id": 15026,
+          "value": "Polemics",
+          "color": "light-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 67,
+            "value": "around 200"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Apologeticus adversus gentes ",
+        "prev": {
+          "id": "jad_work__338",
+          "label": "Adversus Marcionem "
+        },
+        "next": {
+          "id": "jad_work__34",
+          "label": "Sermones "
+        }
+      }
+    ]
+  },
+  "158": {
+    "id": 158,
+    "name": "",
+    "jad_id": "jad_author__158",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
     "view_label": "",
     "prev": {
-      "id": "jad_author__151",
-      "label": "Paulus Alvarus Cordubensis"
+      "id": "jad_author__157",
+      "label": "Tertullianus, Quintus Septimius Florens"
     },
     "next": {
       "id": "jad_author__16",

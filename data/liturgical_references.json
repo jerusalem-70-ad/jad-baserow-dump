@@ -36,12 +36,12 @@
     "description": "Palm Sunday (In ramis palmarum), the Sunday before Easter.",
     "view_label": "Palm Sunday",
     "prev": {
-      "id": "jad_liturgical_reference__28",
-      "label": "XXII Sunday after Holy Trinity"
+      "id": "jad_liturgical_reference__29",
+      "label": "De transfiguratione domini"
     },
     "next": {
-      "id": "jad_liturgical_reference__4",
-      "label": "Maundy Thursday"
+      "id": "jad_liturgical_reference__30",
+      "label": ""
     }
   },
   "4": {
@@ -51,8 +51,8 @@
     "description": "",
     "view_label": "Maundy Thursday",
     "prev": {
-      "id": "jad_liturgical_reference__3",
-      "label": "Palm Sunday"
+      "id": "jad_liturgical_reference__32",
+      "label": ""
     },
     "next": {
       "id": "jad_liturgical_reference__5",
@@ -415,8 +415,68 @@
       "label": "II Sunday after Holy Trinity"
     },
     "next": {
+      "id": "jad_liturgical_reference__29",
+      "label": "De transfiguratione domini"
+    }
+  },
+  "29": {
+    "id": 29,
+    "name": "De transfiguratione domini",
+    "jad_id": "jad_liturgical_reference__29",
+    "description": "",
+    "view_label": "De transfiguratione domini",
+    "prev": {
+      "id": "jad_liturgical_reference__28",
+      "label": "XXII Sunday after Holy Trinity"
+    },
+    "next": {
       "id": "jad_liturgical_reference__3",
       "label": "Palm Sunday"
+    }
+  },
+  "30": {
+    "id": 30,
+    "name": "",
+    "jad_id": "jad_liturgical_reference__30",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_liturgical_reference__3",
+      "label": "Palm Sunday"
+    },
+    "next": {
+      "id": "jad_liturgical_reference__31",
+      "label": ""
+    }
+  },
+  "31": {
+    "id": 31,
+    "name": "",
+    "jad_id": "jad_liturgical_reference__31",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_liturgical_reference__30",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_liturgical_reference__32",
+      "label": ""
+    }
+  },
+  "32": {
+    "id": 32,
+    "name": "",
+    "jad_id": "jad_liturgical_reference__32",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_liturgical_reference__31",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_liturgical_reference__4",
+      "label": "Maundy Thursday"
     }
   }
 }
