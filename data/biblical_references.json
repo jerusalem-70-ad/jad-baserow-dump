@@ -423,8 +423,8 @@
     "part_of": [],
     "view_label": "Lam. 3,12",
     "prev": {
-      "id": "jad_biblical_reference__233",
-      "label": "Is. 59,19"
+      "id": "jad_biblical_reference__238",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__25",
@@ -3568,7 +3568,7 @@
     "name": "4 Reg. 19,35",
     "jad_id": "jad_biblical_reference__200",
     "nova_vulgata_url": "",
-    "text": null,
+    "text": "Factum est igitur in nocte illa: egressus est angelus Domini et percussit in castris Assyriorum centum octoginta quinque milia. Cumque diluculo surrexissent, viderunt omnia corpora mortuorum.",
     "description": null,
     "part_of": [],
     "view_label": "4 Reg. 19,35",
@@ -3820,7 +3820,7 @@
     "name": "Osee 10,8",
     "jad_id": "jad_biblical_reference__214",
     "nova_vulgata_url": "",
-    "text": null,
+    "text": "Et disperdentur excelsa impietatis,\npeccatum Israel;\nspina et tribulus ascendet\nsuper aras eorum,\net dicent montibus: “ Operite nos! ”\net collibus: “ Cadite super nos! ”.",
     "description": null,
     "part_of": [],
     "view_label": "Osee 10,8",
@@ -3874,7 +3874,7 @@
     "name": "Zach. 12,13",
     "jad_id": "jad_biblical_reference__217",
     "nova_vulgata_url": "",
-    "text": null,
+    "text": "familia domus Levi seorsum\net mulieres eorum seorsum;\nfamilia Semei seorsum\net mulieres eorum seorsum",
     "description": null,
     "part_of": [],
     "view_label": "Zach. 12,13",
@@ -3928,7 +3928,7 @@
     "name": "Zach. 12,12",
     "jad_id": "jad_biblical_reference__220",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "et planget terra, singulae familiae seorsum:\nfamilia domus David seorsum\net mulieres eorum seorsum;\nfamilia domus Nathan seorsum\net mulieres eorum seorsum",
     "description": "",
     "part_of": [],
     "view_label": "Zach. 12,12",
@@ -4108,7 +4108,7 @@
     "name": "Mt. 24,28",
     "jad_id": "jad_biblical_reference__230",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "Ubicumque fuerit corpus, illuc congregabuntur aquilae.",
     "description": "",
     "part_of": [],
     "view_label": "Mt. 24,28",
@@ -4118,18 +4118,18 @@
     },
     "next": {
       "id": "jad_biblical_reference__231",
-      "label": ""
+      "label": "John. 12,32"
     }
   },
   "231": {
     "id": 231,
-    "name": "",
+    "name": "John. 12,32",
     "jad_id": "jad_biblical_reference__231",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "et ego, si exaltatus fuero a terra, omnes traham ad meipsum",
     "description": "",
     "part_of": [],
-    "view_label": "",
+    "view_label": "John. 12,32",
     "prev": {
       "id": "jad_biblical_reference__230",
       "label": "Mt. 24,28"
@@ -4150,7 +4150,7 @@
     "view_label": "Sir. 10,19",
     "prev": {
       "id": "jad_biblical_reference__231",
-      "label": ""
+      "label": "John. 12,32"
     },
     "next": {
       "id": "jad_biblical_reference__233",
@@ -4169,6 +4169,96 @@
     "prev": {
       "id": "jad_biblical_reference__232",
       "label": "Sir. 10,19"
+    },
+    "next": {
+      "id": "jad_biblical_reference__234",
+      "label": "Soph. 1,14"
+    }
+  },
+  "234": {
+    "id": 234,
+    "name": "Soph. 1,14",
+    "jad_id": "jad_biblical_reference__234",
+    "nova_vulgata_url": "",
+    "text": "Iuxta est dies Domini magnus,\niuxta et velox nimis;\nvox diei Domini amara,\ntribulabitur ibi fortis.",
+    "description": "",
+    "part_of": [],
+    "view_label": "Soph. 1,14",
+    "prev": {
+      "id": "jad_biblical_reference__233",
+      "label": "Is. 59,19"
+    },
+    "next": {
+      "id": "jad_biblical_reference__235",
+      "label": ""
+    }
+  },
+  "235": {
+    "id": 235,
+    "name": "",
+    "jad_id": "jad_biblical_reference__235",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "part_of": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__234",
+      "label": "Soph. 1,14"
+    },
+    "next": {
+      "id": "jad_biblical_reference__236",
+      "label": ""
+    }
+  },
+  "236": {
+    "id": 236,
+    "name": "",
+    "jad_id": "jad_biblical_reference__236",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "part_of": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__235",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__237",
+      "label": ""
+    }
+  },
+  "237": {
+    "id": 237,
+    "name": "",
+    "jad_id": "jad_biblical_reference__237",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "part_of": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__236",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__238",
+      "label": ""
+    }
+  },
+  "238": {
+    "id": 238,
+    "name": "",
+    "jad_id": "jad_biblical_reference__238",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "part_of": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__237",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__24",

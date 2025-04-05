@@ -5573,11 +5573,23 @@
     "id": 137,
     "order": "132.00000000000000000000",
     "jad_id": "jad_occurence__137",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 908,
+        "value": "omnem Iudeorum gentem per romanos destruendam",
+        "order": "854.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 37,
+        "value": "BSB, Clm 3721",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "9v",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00114266?page=22,23",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -5587,7 +5599,98 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-03-31",
+    "last_modified_on": "2025-04-04",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 37,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 3721, f. 9v"
+      }
+    ]
+  },
+  "138": {
+    "id": 138,
+    "order": "133.00000000000000000000",
+    "jad_id": "jad_occurence__138",
+    "occurrence": [
+      {
+        "id": 909,
+        "value": "cum flet super destructionem Ierusalem",
+        "order": "855.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 37,
+        "value": "BSB, Clm 3721",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "79v",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00114266?page=162,163",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-04-04",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-04-04",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 37,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 3721, f. 79v"
+      }
+    ]
+  },
+  "139": {
+    "id": 139,
+    "order": "133.00000000000000000000",
+    "jad_id": "jad_occurence__139",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-04-04",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-04-04",
+    "ms_locus": []
+  },
+  "140": {
+    "id": 140,
+    "order": "133.00000000000000000000",
+    "jad_id": "jad_occurence__140",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-04-04",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-04-04",
     "ms_locus": []
   }
 }

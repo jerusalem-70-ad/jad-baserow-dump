@@ -5138,12 +5138,12 @@
     "lebensdaten": null,
     "view_label": "Rupert, of Deutz",
     "prev": {
-      "id": "jad_author__158",
+      "id": "jad_author__159",
       "label": ""
     },
     "next": {
-      "id": "jad_author__17",
-      "label": "Paschasius, Radbertus"
+      "id": "jad_author__160",
+      "label": ""
     },
     "related__works": [
       {
@@ -6237,8 +6237,8 @@
     "lebensdaten": null,
     "view_label": "Paschasius, Radbertus",
     "prev": {
-      "id": "jad_author__16",
-      "label": "Rupert, of Deutz"
+      "id": "jad_author__160",
+      "label": ""
     },
     "next": {
       "id": "jad_author__18",
@@ -7651,7 +7651,7 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Historia expeditionis Hierosolymitanae ",
         "prev": {
-          "id": "jad_work__340",
+          "id": "jad_work__342",
           "label": " "
         },
         "next": {
@@ -21544,8 +21544,44 @@
       "label": "Tertullianus, Quintus Septimius Florens"
     },
     "next": {
+      "id": "jad_author__159",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "159": {
+    "id": 159,
+    "name": "",
+    "jad_id": "jad_author__159",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__158",
+      "label": ""
+    },
+    "next": {
       "id": "jad_author__16",
       "label": "Rupert, of Deutz"
+    },
+    "related__works": []
+  },
+  "160": {
+    "id": 160,
+    "name": "",
+    "jad_id": "jad_author__160",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__16",
+      "label": "Rupert, of Deutz"
+    },
+    "next": {
+      "id": "jad_author__17",
+      "label": "Paschasius, Radbertus"
     },
     "related__works": []
   }

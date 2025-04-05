@@ -649,12 +649,12 @@
     ],
     "view_label": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam",
     "prev": {
-      "id": "jad_occurence__137",
+      "id": "jad_occurence__139",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__15",
-      "label": "Anno post passionem Domini quadragesimo secundo, Titus, quem pater Vespasianus romam reversus in obsidione Ierosolimorum iudeorum dilaniavit populum, in tantum ut Iosephus commemorat"
+      "id": "jad_occurence__140",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "15": {
@@ -696,8 +696,8 @@
     ],
     "view_label": "Anno post passionem Domini quadragesimo secundo, Titus, quem pater Vespasianus romam reversus in obsidione Ierosolimorum iudeorum dilaniavit populum, in tantum ut Iosephus commemorat",
     "prev": {
-      "id": "jad_occurence__14",
-      "label": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam"
+      "id": "jad_occurence__140",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__16",
@@ -6383,17 +6383,27 @@
     },
     "next": {
       "id": "jad_occurence__137",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "omnem Iudeorum gentem per romanos destruendam"
     }
   },
   "137": {
     "id": 137,
     "jad_id": "jad_occurence__137",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 908,
+        "value": "omnem Iudeorum gentem per romanos destruendam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 37,
+        "value": "BSB, Clm 3721"
+      }
+    ],
+    "position_in_ms": "9v",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00114266?page=22,23",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -6403,16 +6413,129 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-04-04",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 37,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 3721, f. 9v"
+      }
+    ],
+    "view_label": "omnem Iudeorum gentem per romanos destruendam",
     "prev": {
       "id": "jad_occurence__136",
       "label": "Cum appropinquaret Dominus Jerusalem, videns civitatem flevit super illam"
     },
     "next": {
+      "id": "jad_occurence__138",
+      "label": "cum flet super destructionem Ierusalem"
+    }
+  },
+  "138": {
+    "id": 138,
+    "jad_id": "jad_occurence__138",
+    "occurrence": [
+      {
+        "id": 909,
+        "value": "cum flet super destructionem Ierusalem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 37,
+        "value": "BSB, Clm 3721"
+      }
+    ],
+    "position_in_ms": "79v",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00114266?page=162,163",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-04-04",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-04-04",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 37,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 3721, f. 79v"
+      }
+    ],
+    "view_label": "cum flet super destructionem Ierusalem",
+    "prev": {
+      "id": "jad_occurence__137",
+      "label": "omnem Iudeorum gentem per romanos destruendam"
+    },
+    "next": {
+      "id": "jad_occurence__139",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "139": {
+    "id": 139,
+    "jad_id": "jad_occurence__139",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-04-04",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-04-04",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__138",
+      "label": "cum flet super destructionem Ierusalem"
+    },
+    "next": {
       "id": "jad_occurence__14",
       "label": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam"
+    }
+  },
+  "140": {
+    "id": 140,
+    "jad_id": "jad_occurence__140",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-04-04",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-04-04",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__14",
+      "label": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam"
+    },
+    "next": {
+      "id": "jad_occurence__15",
+      "label": "Anno post passionem Domini quadragesimo secundo, Titus, quem pater Vespasianus romam reversus in obsidione Ierosolimorum iudeorum dilaniavit populum, in tantum ut Iosephus commemorat"
     }
   }
 }
