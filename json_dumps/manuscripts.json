@@ -2917,16 +2917,38 @@
   "81": {
     "id": 81,
     "order": "75.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 37,
+        "value": "Bibl. Laurenziana, Plut.19.17"
+      }
+    ],
     "jad_id": "jad_manuscript__81",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 37,
+        "value": "Bibl. Laurenziana",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Plut.19.17",
+    "catalog_url": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/275500/rec/1",
+    "digi_url": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/275500/rec/1",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": []
+    "date_written": [
+      {
+        "id": 68,
+        "value": "11th cen.",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "format": "26 x 35, 338 ff.",
+    "library_full": [
+      {
+        "id": 37,
+        "value": "Biblioteca Medicea Laurenziana"
+      }
+    ]
   },
   "82": {
     "id": 82,

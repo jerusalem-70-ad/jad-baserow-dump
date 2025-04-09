@@ -14521,40 +14521,78 @@
   "340": {
     "id": 340,
     "order": "328.00000000000000000000",
-    "name": " ",
+    "name": "Tractatus de diuersis materiis praedicabilibus ",
     "jad_id": "jad_work__340",
-    "author": [],
+    "author": [
+      {
+        "id": 158,
+        "value": "Stephen, of Bourbon",
+        "order": "146.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Tractatus de diuersis materiis praedicabilibus",
+    "genre": {
+      "id": 18453,
+      "value": "Preaching material or tool",
+      "color": "darker-blue"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "341": {
     "id": 341,
     "order": "329.00000000000000000000",
-    "name": " ",
+    "name": "Flores historiarum ",
     "jad_id": "jad_work__341",
-    "author": [],
+    "author": [
+      {
+        "id": 159,
+        "value": "Roger, of Wendover",
+        "order": "147.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Flores historiarum",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
     "notes": "",
-    "notes__author": "",
+    "notes__author": "London 1841",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
-    "link_digital_editions": "",
-    "author_certainty": false,
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb10282310?q=%28Rogeri+de+Wendover+Chronica%29&page=162,163",
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
@@ -14563,6 +14601,66 @@
     "order": "329.00000000000000000000",
     "name": " ",
     "jad_id": "jad_work__342",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "343": {
+    "id": 343,
+    "order": "330.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__343",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "344": {
+    "id": 344,
+    "order": "331.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__344",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "345": {
+    "id": 345,
+    "order": "332.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__345",
     "author": [],
     "manuscripts": [],
     "title": "",

@@ -5139,7 +5139,7 @@
     "view_label": "Rupert, of Deutz",
     "prev": {
       "id": "jad_author__159",
-      "label": ""
+      "label": "Roger, of Wendover"
     },
     "next": {
       "id": "jad_author__160",
@@ -7354,7 +7354,7 @@
         },
         "next": {
           "id": "jad_work__340",
-          "label": " "
+          "label": "Tractatus de diuersis materiis praedicabilibus "
         }
       }
     ]
@@ -7651,7 +7651,7 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Historia expeditionis Hierosolymitanae ",
         "prev": {
-          "id": "jad_work__342",
+          "id": "jad_work__345",
           "label": " "
         },
         "next": {
@@ -21388,7 +21388,7 @@
     },
     "next": {
       "id": "jad_author__158",
-      "label": ""
+      "label": "Stephen, of Bourbon"
     },
     "related__works": [
       {
@@ -21533,39 +21533,140 @@
   },
   "158": {
     "id": 158,
-    "name": "",
+    "name": "Stephen, of Bourbon",
     "jad_id": "jad_author__158",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/11902523X",
     "notes": "",
     "lebensdaten": "",
-    "view_label": "",
+    "view_label": "Stephen, of Bourbon",
     "prev": {
       "id": "jad_author__157",
       "label": "Tertullianus, Quintus Septimius Florens"
     },
     "next": {
       "id": "jad_author__159",
-      "label": ""
+      "label": "Roger, of Wendover"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 340,
+        "name": "Tractatus de diuersis materiis praedicabilibus ",
+        "jad_id": "jad_work__340",
+        "author": [
+          {
+            "id": 158,
+            "name": "Stephen, of Bourbon",
+            "jad_id": "jad_author__158",
+            "gnd_url": "https://d-nb.info/gnd/11902523X",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Tractatus de diuersis materiis praedicabilibus",
+        "genre": {
+          "id": 18453,
+          "value": "Preaching material or tool",
+          "color": "darker-blue"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Tractatus de diuersis materiis praedicabilibus ",
+        "prev": {
+          "id": "jad_work__34",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__341",
+          "label": "Flores historiarum "
+        }
+      }
+    ]
   },
   "159": {
     "id": 159,
-    "name": "",
+    "name": "Roger, of Wendover",
     "jad_id": "jad_author__159",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/10095992X",
     "notes": "",
     "lebensdaten": "",
-    "view_label": "",
+    "view_label": "Roger, of Wendover",
     "prev": {
       "id": "jad_author__158",
-      "label": ""
+      "label": "Stephen, of Bourbon"
     },
     "next": {
       "id": "jad_author__16",
       "label": "Rupert, of Deutz"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 341,
+        "name": "Flores historiarum ",
+        "jad_id": "jad_work__341",
+        "author": [
+          {
+            "id": 159,
+            "name": "Roger, of Wendover",
+            "jad_id": "jad_author__159",
+            "gnd_url": "https://d-nb.info/gnd/10095992X",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Flores historiarum",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "London 1841",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb10282310?q=%28Rogeri+de+Wendover+Chronica%29&page=162,163",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Flores historiarum ",
+        "prev": {
+          "id": "jad_work__340",
+          "label": "Tractatus de diuersis materiis praedicabilibus "
+        },
+        "next": {
+          "id": "jad_work__342",
+          "label": " "
+        }
+      }
+    ]
   },
   "160": {
     "id": 160,

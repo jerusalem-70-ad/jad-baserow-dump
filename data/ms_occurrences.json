@@ -650,7 +650,7 @@
     "view_label": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam",
     "prev": {
       "id": "jad_occurence__139",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis"
     },
     "next": {
       "id": "jad_occurence__140",
@@ -6477,17 +6477,27 @@
     },
     "next": {
       "id": "jad_occurence__139",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis"
     }
   },
   "139": {
     "id": 139,
     "jad_id": "jad_occurence__139",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 550,
+        "value": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 81,
+        "value": "Bibl. Laurenziana, Plut.19.17"
+      }
+    ],
+    "position_in_ms": "178r-181v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/275110/rec/1",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -6497,9 +6507,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-04-04",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-04-08",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 81,
+          "database_table_3497": 37
+        },
+        "value": "Bibl. Laurenziana, Plut.19.17, f. 178r-181v"
+      }
+    ],
+    "view_label": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis",
     "prev": {
       "id": "jad_occurence__138",
       "label": "cum flet super destructionem Ierusalem"
