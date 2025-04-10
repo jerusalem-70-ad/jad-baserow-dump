@@ -14599,20 +14599,42 @@
   "342": {
     "id": 342,
     "order": "329.00000000000000000000",
-    "name": " ",
+    "name": "Summa de officiis ecclesiasticis ",
     "jad_id": "jad_work__342",
-    "author": [],
+    "author": [
+      {
+        "id": 160,
+        "value": "Sicardus, of Cremona",
+        "order": "147.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Summa de officiis ecclesiasticis",
+    "genre": {
+      "id": 15021,
+      "value": "Liturgical text",
+      "color": "dark-yellow"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 9,
+        "value": "around 1200",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },

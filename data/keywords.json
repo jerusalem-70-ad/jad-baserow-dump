@@ -1770,7 +1770,12 @@
         "part_of_cluster": [],
         "authority_discourse": 0,
         "liturgical_references": [],
-        "occurrence_found_in": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
         "author_lookup": [
           {
             "ids": {
@@ -4501,7 +4506,12 @@
         "part_of_cluster": [],
         "authority_discourse": 0,
         "liturgical_references": [],
-        "occurrence_found_in": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
         "author_lookup": [
           {
             "ids": {
@@ -10602,6 +10612,124 @@
           "id": "jad_occurrence__384",
           "label": "utique temporibus Vespasiani, et Titi expletum, qui legit Josephum historiographum"
         }
+      },
+      {
+        "id": 916,
+        "passage": "hos igitur homicidas juste perdendos, et civitatem illorum subvertendam prophetae praeviderunt",
+        "jad_id": "jad_occurrence__916",
+        "language": null,
+        "position_in_work": "B12, Ch20",
+        "text_paragraph": "CAPUT XX.   Dominica vicesima post Pentecosten. \n    Officium Dominicae vicesimae partim ex vocibus constat eorum qui ad nuptias intraverunt, partim ex vocibus Patrum gementium pro illis qui ad nuptias p. 0327D | easdem vocati, quas fecit rex filio suo, non solum venire noluerunt, sed et illos, qui a se missi sunt, servos tenuerunt, et contumeliis affectos occiderunt *.   Hoc enim priores fecisse Judaeos notum est, qui missos ad se prophetas et sapientes parsecuti sunt, et apostolos Christi contumeliis affecerunt.   Hos igitur homicidas juste perdendos, et civitatem illorum subvertendam prophetae praeviderunt, quorum illa vox est, quae in introitu ex verbis Danielis decantatur: Omnia quae fecisti nobis, Domine, in vero judicio fecisti * , etc. Item in offerenda: Super flumina Babylonis illic sedimus et flevimus * .   In hac enim seu in versibus ejus hoc deplorant quod ad salices Babylonis organa p. 0328A | sua suspenderunt, id est propter infructuosos et steriles auditores, praedicantium voces conticuerunt; propter eos, inquam, qui vocati ad nuptias, ut dictum est, venire noluerunt, quia non fuerunt digni.   In lectione vero epistolae eos qui de exitibus viarum congregati sunt, ut implerentur nuptiae discumbentium, Paulus apostolus opportune commonet, dicendo: Videte, quomodo caute ambuletis, non quasi insipientes, sed ut sapientes * , etc., hoc videlicet intendens, ne inebriatus vino, in quo est luxuria, inveniatur quis absque veste nuptiali, cum rex ad videndos discumbentes intraverit; sed econtra impleamini 146 Spiritu sancto, loquentes vobismetipsis in psalmis et hymnis et canticis spiritualibus * , quae verae harum sunt epulae nuptiarum, de p. 0328B | quibus in sequenti graduali gratias agentes dicimus: Oculi omnium in te sperant, Domine * , etc., vel quas in communione postulans quis nostrum dicit: Memento verbi tui servo tuo, Domine * .",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [
+          {
+            "id": 28,
+            "value": "Mt. 22,7"
+          }
+        ],
+        "work": [
+          {
+            "id": 90,
+            "name": "De divinis officiis ",
+            "jad_id": "jad_work__90",
+            "author": [
+              {
+                "id": 16,
+                "name": "Rupert, of Deutz",
+                "jad_id": "jad_author__16",
+                "gnd_url": "https://d-nb.info/gnd/118604198",
+                "notes": "",
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [],
+            "title": "De divinis officiis",
+            "genre": {
+              "id": 15021,
+              "value": "Liturgical text",
+              "color": "dark-yellow"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 3,
+                "value": "early 12th cen."
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition_or_individual_editor": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 11,
+            "name": "Babylonian conquest of Jerusalem",
+            "short_description": "",
+            "jad_id": "jad_keyword__11",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [
+          {
+            "id": 2,
+            "value": "XX Sunday after Holy Trinity"
+          }
+        ],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 16,
+              "database_table_3499": 90
+            },
+            "value": "Rupert, of Deutz"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "incipit": "",
+        "manuscripts": [],
+        "ai_bibl_ref": [],
+        "view_label": "hos igitur homicidas juste perdendos, et civitatem illorum subvertendam prophetae praeviderunt",
+        "prev": {
+          "id": "jad_occurrence__915",
+          "label": "dominica decima legitur hoc evangelium quod Dominus flevisse refertur super civitatem Hierusalem"
+        },
+        "next": {
+          "id": "jad_occurrence__917",
+          "label": "venient Romani, et tollent nostrum locum, et gentem"
+        }
       }
     ]
   },
@@ -12143,6 +12271,132 @@
           "id": "jad_occurrence__651",
           "label": "duo ursi tytum et vespasianum de gentilitate venietes"
         }
+      },
+      {
+        "id": 915,
+        "passage": "dominica decima legitur hoc evangelium quod Dominus flevisse refertur super civitatem Hierusalem",
+        "jad_id": "jad_occurrence__915",
+        "language": null,
+        "position_in_work": "B12, Ch10",
+        "text_paragraph": "CAPUT X. Dominica decima post Pentecosten. \n    Dominica decima legitur hoc evangelium quod Dominus flevisse refertur super civitatem Hierusalem.   Qui et ingressus in templum, coepit ejicere p. 0320A | vendentes in illo *.   Notum est pene cunctis, tam in Scripturis quam in ore omnium satis usitatum per hoc illud significatum esse quod illos de Ecclesia sua Dominus ejiciat, qui sacros ordines emunt aut vendunt, quia videlicet tales negotiatores columbas quoque, id est sancti Spiritus dona venalia faciunt.   Itaque recte et opportune illa praemittitur Apostoli lectio, quae satis aperte indicat non posse ab homine dari, nedum vendi aliquid doni spiritualis, sed a solo Spiritu Dei, dividente singulis prout vult, dari gratuito, alii sermonem scientiae, alii sermonem sapientiae, alii genera linguarum, alii fidem, alii prophetiam *, etc. Et qui hujus, id est sancti Spiritus exspectat electionem potius quam hominum, dicitur in introitu: Jacta p. 0320B | cogitatum tuum in Domino, et ipse te enutriet * .   In Domino, inquit, jacta cogitatum tuum, non in teipso, dicendo quod alibi scriptum est: « Domine, non est exaltatum cor meum, neque elati sunt oculi mei.   Neque ambulavi in magnis, neque in mirabilibus super me *.   » Videlicet ut Simon Magus ille, qui Dei donum existimavit pecunia possideri *, et ipse te enutriet, inquit, dicentem scilicet quod in graduali canitur: Custodi me, Domine, ut pupillam oculi, sub umbra alarum tuarum protege me * , ne, superbiendo et evagando, fiam sicut ablactatum super matre sua *.   Potius « de vultu tuo judicium meum, » id est, electio mea, prodeat * , quam ipse me commendem praesumptione mea.   Idem in offerenda p. 0320C | dicit: Ad te, Domine, levavi animam meam, etenim universi qui te exspectant, non confundentur * .   His autem qui ab hominibus exspectant vel emunt, dicit Sapientia Dei: « Haereditas ad quam festinatur in principio, in novissimo benedictione carebit *.   » Et quod talium sacerdotum sacrificium non acceptet Deus, quia sacrificia sunt injustitiae, monstratur per oppositum in communione: Acceptabis sacrificium justitiae * , etc.",
+        "note": "",
+        "explicit_contemp_ref": "",
+        "biblical_references": [
+          {
+            "id": 1,
+            "value": "Lk. 19,41"
+          }
+        ],
+        "work": [
+          {
+            "id": 90,
+            "name": "De divinis officiis ",
+            "jad_id": "jad_work__90",
+            "author": [
+              {
+                "id": 16,
+                "name": "Rupert, of Deutz",
+                "jad_id": "jad_author__16",
+                "gnd_url": "https://d-nb.info/gnd/118604198",
+                "notes": "",
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [],
+            "title": "De divinis officiis",
+            "genre": {
+              "id": 15021,
+              "value": "Liturgical text",
+              "color": "dark-yellow"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": []
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 3,
+                "value": "early 12th cen."
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition_or_individual_editor": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 12,
+            "name": "Christ cleansing Temple",
+            "short_description": "",
+            "jad_id": "jad_keyword__12",
+            "part_of": [
+              {
+                "id": 23,
+                "name": "Temple",
+                "short_description": "The Temple is mentioned at the occurrence (there are many others where the Temple is not present, but often it is just \"Jerusalem\").",
+                "jad_id": "jad_keyword__23",
+                "part_of": []
+              }
+            ]
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [
+          {
+            "id": 1,
+            "value": "X Sunday after Holy Trinity"
+          }
+        ],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 16,
+              "database_table_3499": 90
+            },
+            "value": "Rupert, of Deutz"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "incipit": "",
+        "manuscripts": [],
+        "ai_bibl_ref": [],
+        "view_label": "dominica decima legitur hoc evangelium quod Dominus flevisse refertur super civitatem Hierusalem",
+        "prev": {
+          "id": "jad_occurrence__914",
+          "label": "Titus Vespasiani filius, Romanorum princeps magnificus, obsedit et expugnatam dejecit"
+        },
+        "next": {
+          "id": "jad_occurrence__916",
+          "label": "hos igitur homicidas juste perdendos, et civitatem illorum subvertendam prophetae praeviderunt"
+        }
       }
     ]
   },
@@ -12161,7 +12415,285 @@
       "id": "jad_keyword__14",
       "label": "Carolingian correctio"
     },
-    "related__passages": []
+    "related__passages": [
+      {
+        "id": 137,
+        "passage": "Hierusalem in vindictam Christi vastaretur à Romanis",
+        "jad_id": "jad_occurrence__137",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "B11",
+        "text_paragraph": "Et tunc, inquit, tradent vos in tribulationem et occident vos, et eritis odio omnibus gentibus propter nomen meam. Tunc autem, quod dicit, expressius quidem videtur significare tempus, et ad illud referre, quando Surget gens in gentem, et regnum 120.0803B | adversus regnum, seu caetera. Sed Apostoli mox ut testes exstiterunt veritatis, traditi sunt et occisi, quidam etiam antequam Hierusalem in vindictam Christi vastaretur à Romanis. Et ideo melius, ut dixi, quod gens contra gentem surgat, et regnum adversus regnum, de regno Christi accipimus et regno diaboli, ac de gente cujus perfidia saeviit, mox ut fides coepit, contra Christi Ecclesiam.",
+        "note": "",
+        "explicit_contemp_ref": "Viking invasions",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 29,
+            "name": "Commentary Matthew ",
+            "jad_id": "jad_work__29",
+            "author": [
+              {
+                "id": 17,
+                "name": "Paschasius, Radbertus",
+                "jad_id": "jad_author__17",
+                "gnd_url": "https://d-nb.info/gnd/118739409",
+                "notes": "",
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [],
+            "title": "Commentary Matthew",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [
+              {
+                "id": 13,
+                "name": "Benedictines Corbie",
+                "jad_id": "jad_institutional_context__13",
+                "part_of": [
+                  {
+                    "id": 3,
+                    "name": "Benedictines",
+                    "jad_id": "jad_institutional_context__3",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              },
+              {
+                "id": 7,
+                "name": "Corpus Christianorum",
+                "jad_id": "jad_sources_occurrences__7",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 7,
+                "value": "mid 9th cen."
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition_or_individual_editor": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 13,
+            "name": "Viking invasions",
+            "short_description": "",
+            "jad_id": "jad_keyword__13",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [
+          {
+            "id": 4,
+            "value": "Viking invasions"
+          }
+        ],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 17,
+              "database_table_3499": 29
+            },
+            "value": "Paschasius, Radbertus"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "incipit": null,
+        "manuscripts": [],
+        "ai_bibl_ref": [
+          {
+            "id": 148,
+            "value": "Matthew 24:9 (AI)"
+          },
+          {
+            "id": 149,
+            "value": "Matthew 24:7 (AI)"
+          }
+        ],
+        "view_label": "Hierusalem in vindictam Christi vastaretur à Romanis",
+        "prev": {
+          "id": "jad_occurrence__136",
+          "label": "Vespasianus dux exercitus adversum Judaeos"
+        },
+        "next": {
+          "id": "jad_occurrence__138",
+          "label": "Judaei a secundo anno Vespasiani, quando Hierusalem a Romanis capta, templumque subversum est"
+        }
+      },
+      {
+        "id": 147,
+        "passage": "in illa obsidione teste Iosepho quae sub Tito et Vespasiano accidisse legitur",
+        "jad_id": "jad_occurrence__147",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "B4",
+        "text_paragraph": "IOTH quoque littera sequitur quae principium uel desolatio interpretatur.\nManus mulierum misericordium coxerunt filios suos.\nFacti sunt cibus earum in contritione filiae populi mei.\nPrincipium namque desolationis Iudaeis tunc imminebat quando mulieres eorum natos suos quos uidebant fame siti que consumi quasi per misericordiam in cibos coxere.\nNulli dubium esse poterit quicumque historias legerit eos hoc fecisse maxime in illa obsidione teste Iosepho quae sub Tito et Vespasiano accidisse legitur.\nCeterum in hac Christi ecclesia illi quasi per misericordiam filios decoquunt suos qui culmine regiminis sublimati zeli uel inuidiae flamma urunt animas natorum dum nimis iusti ipsi uideri cupiunt et dum per tyrannicam potestatem eos excruciant quasi per misericordiam eos zeli flamma | decoquunt.\nHabent quidem et ipsi secundum apostolum zelum Dei ita dumtaxat sed non secundum scientiam.\nQuorum profecto cibus decoctio est cum eos non solum crudeli dominatione quasi pro iustitia adurunt uerum etiam cum infirmam et carnalem eorum uitam dentibus rodunt. Haec namque omnia in contritione ecclesiae quae est filia populi Dei apostolorum uidelicet et sanctorum ab eis fiunt qui aut ecclesiastica potestate certe aut officio saeculari animas tyrannica uexatione exurunt dum concupiscentiis suis inflammati filios aut subiectos quos nutrire lacte debuerant doctrinarum, adustione prauae afflictionis consumunt.\n \nSic itaque tropologice uirtutes hypocritarum conceptus suos in animo faciunt dum simulate quasi per misericordiam laudis amore uel fauoris gratia in tenera sua adhuc conceptione uirtutes perimunt et decoquunt in cibos suos.\n \nDum non futura sed praesentis uitae lucra quaerunt et dum suarum uirtutum pascuntur laudibus quasi proprios et decoctos fauoris adustione natos comedunt.\n \nQuae bene mulieres fuisse talia que gessisse perhibentur.\n \nQuia nisi muliebria simulatae uirtutes in animo sectarentur non utique conceptus animi bene formatos ad uitam in mortem uanae laudis addicerent.\n \nVnde sequitur: Compleuit Dominus furorem suum effudit iram indignationis suae et succendit ignem in Sion et deuorauit fundamenta eius.\n \nTunc sane super Hierusalem compleuit Dominus furorem suum quando completa est malitia illius sicuti et peccata Amorreorum | quando deleti sunt.\n \nEffudit uero iram indignationis suae quando et ipsa se diffudit ad omnia uitiorum scelera.\n \nEt deuorauit fundamenta eius quando fundamentum quod Christus est noluit recipere. Reiecit sane illum lapidem pretiosum angularem fundatum in fundamento totius structurae nostrae.\n \nQui cum uidisset eandem miseram Hierusalem fleuit super illam dicens quod in ea nec lapis super lapidem relinquendus esset seu cetera quae leguntur.\n \nPorro nos quod ualde dolendum est super nostra Hierusalem pene iam completa cernimus quae propheta inremediabiliter pro suis deflebat profusis lacrimis.\n \nAlioquin nisi completus esset furor | Domini effusa contemptio super principes non esset nostros quae ut cernimus facit eos errare in inuio et non in uia ob iram indignationis Dei.\n \nCompleta quidem malitia compleuit furorem Dei.\n \nQuia secundum mensuram delictorum sequitur et poena.\n \nNam iam haec omnia quae cernimus poena peccati sunt.\n \nAlioquin nisi completa essent scelera nostra nec Dominus furorem suum compleuisset.\n \nQuod si alicui necdum completus uidetur cernat iam qui in sordibus sunt quantum sordescant.Sic utique uidere poterit ac deflere quod talia ex completione diuini furoris ueniant.\n \nQuoniam succensus est ignis in Sion.\n \nNon ignis utique ille qui super apostolos de caelo descendit sed ille qui oues Iob pueros que consumpsit.\n \nHabet enim Deus diuersum ignem quem emittit de thesauris suis secundum dispensationis suae modum.\n \nCuius ignis est in Sion et caminus in Hierusalem.\n \nDe quo nimirum igne alios inflammat ut erudiat.\n \nAlios incendit ut exurat.\n \nQuos cum succenderit etiam omne fundamentum eorum diripit.\n \nSuper quod itaque fundamentum si quis aedificauerit ligna stipulam faenum stagnum et plumbum detrimentum sui patietur. Quia uniuscuiusque opus ignis probabit.\n \nEt tunc fundamenta eius subruunt quando integra et uera fides a corde prauis et peruersis operibus destruitur.\n \nEt quia iam talia in nobis cernimus non necesse est oculum deflectere cum propheta super Iudaeorum miserias uerum probabilius nunc in tempore nostras deflere calamitates.\n \nQuando ignis concupiscentiarum nostrarum succensus est.\n \nQuando ut dixi uniuersos pene uorax flamma insidiarum ac seditionum deuastat.\n \nQuando in diuinis rebus et facultatibus Deo conlatis Babylonis olla succensa a facie aquilonis atque fornax Caldeorum septuplum succensa cuncta diripit et succendit quoscumque reperit de Caldeis.\n \nNam sicut predecessores nostri succensi fuere diuini amoris igne qui haec Deo dedere et sanctam Christi ecclesiam suis ditarunt sumptibus ita probantur succensi alieno ab igne qui modo ea deuorant et diripiunt.\n \nPauperum quidem diripiunt patrimonium.\n \nEt ideo homicidiorum iure rei plectuntur. Quoniam teste Scriptura qui tollit substantiam eorum quasi qui mactat in conspectu patris filium.\n \nVnde ualde timendum est quod furor iste cessare non debeat donec compleatur ira indignationis Dei et deuoret | etiam regni fundamenta.\n \nTropologice uero quod cuncta fundamenta hypocri|tarum seu hereticorum deuorentur ab igne furoris Dei nulli dubium eo quod in mente eorum iam ignis ardeat indignationis et completus sit furor Domini super eos.\n \nVnde Iob: Vidi stultum inquit firma radice sed statim maledixi pulchritudini eius.\n \nQuid igitur scelestius quam hypocritarum stultitia esse probatur?\n \nQui cum suis uideantur quasi sanctis operibus firmari atque stare ac si firma radice, in initio quoque sui decoris uel pulchritudinis suarum uirtutum maledicti habentur et reprobi coram Deo.\n \nQuorum corda uanis flammantur laudibus et adulantium concremantur fauoribus.\n \nPro quibus omnibus quam bene sequitur: Non crediderunt reges terrae et uniuersi habitatores orbis quod ingrederetur hostis et inimicus per portas Hierusalem.\n \nVerum secundum litteram quamdiu haec ciuitas uallata fuit auxilio Dei et munita presidio angelorum quando fuit in ea iudicium et iustitia quando uirtutum replebatur bonis nullus regum uel habitator orbis credere poterat quod ingrederetur hostis et inimicus in ea. Quia confortauerat Dominus seras portarum eius et posuerat fines eius pacem.\n \nCum autem ipsi auersi sunt ab eo cuius beneficio muniebantur recessit ab eis omne Dei praesidium et facti sunt inter hostes preda sicuti et nostra nunc ecclesia iuxta misticos sensus hinc inde ab hostibus diripitur ut ita loquar.\n \nQuis umquam crederet uel quis umquam cogitare potuisset quod accidere tale aliquid potuisset nostris in partibus quod transcurso tempore omnes accidisse conspeximus doluimus ac defleuimus et ualde pertimuimus?\n \nVnde et adhuc hodie non minus pertimescimus ut piratae diuersis ad modum collecti ex familiis, Parisiorum attingerent fines ecclesias que Christi igne hinc inde cremarent circa litus.\n \nQuis umquam quaeso crederet quod latrones promiscuae gentis umquam talia auderent?\n \nVel quis aestimare potuisset quod tam gloriosum regnum tam que munitum et latissimum tam populosum et firmissimum talium hominum humiliari uel foedari sordibus deberetur?\n \nEt non dico hi quod censum plurimum asportare et predas diripere uel captiuos transducere uerum quis credere potuisset quod tam uilissimi nostros adire fines auderent?\n \nFateor enim ut | aestimo non longe retro quod nullus ex regibus terrae ista cogitaret neque ullus habitator nostri orbis audire potuisset quod Parisius nostrum hostis intraret.\n \nPropterea hoc in loco et si non est quod exponam est tamen quod defleam et plangam. Quoniam ut sequens uersus insinuat: Propter peccata populi haec omnia contigerunt et propter iniquitates sacerdotum et principum hinc inde tanta crebrescunt mala.\n \nQuia peruerterunt longe iam diu in medio nostrum ut ita dicam iudicia iustorum et sanguis sanguinem tetigit quo cuncti polluti iam suis cuncta repleuerunt dolis et fraudibus.\n \nVnde hi uersus lamentis | potius sunt exponendi et fletibus quam ullis sententiarum eloquiis retexendi.\n \nNeque triplicitas sensuum requirenda cum unus sit omnium nostrum casus et ruina.\n \nIdcirco dolor cordis in cubilibus, ululatus et gemitus est requirendus ut cum propheta nostra quae gessimus mala deflere possimus quoniam iam uibrat Dei gladius et pendet in ceruicibus nostris.\n \nIam securis ad radices arborum posita est quia infructuosa est mens nostra.\n \nErgo desaeuit gladius Barbarorum euaginatus ex uagina Domini.\n \nEt nos miseri torpentes uiuimus inter tam immania Barbarorum mala inter tam crudelium ciuium bella inter diripientium predas inter seditiones et fraudes.\n \nSed cottidie ad maiora inardescimus scelerum mala.",
+        "note": "",
+        "explicit_contemp_ref": "Viking invasions",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 69,
+            "name": "Commentary Lamentationes ",
+            "jad_id": "jad_work__69",
+            "author": [
+              {
+                "id": 17,
+                "name": "Paschasius, Radbertus",
+                "jad_id": "jad_author__17",
+                "gnd_url": "https://d-nb.info/gnd/118739409",
+                "notes": "",
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [],
+            "title": "Commentary Lamentationes",
+            "genre": {
+              "id": 14727,
+              "value": "Commentary",
+              "color": "darker-green"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [
+              {
+                "id": 13,
+                "name": "Benedictines Corbie",
+                "jad_id": "jad_institutional_context__13",
+                "part_of": [
+                  {
+                    "id": 3,
+                    "name": "Benedictines",
+                    "jad_id": "jad_institutional_context__3",
+                    "part_of": []
+                  }
+                ]
+              }
+            ],
+            "published_edition": [
+              {
+                "id": 7,
+                "name": "Corpus Christianorum",
+                "jad_id": "jad_sources_occurrences__7",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 7,
+                "value": "mid 9th cen."
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": true,
+            "incipit": null,
+            "volume_edition_or_individual_editor": null
+          }
+        ],
+        "sources_used": [
+          {
+            "id": 26,
+            "value": "Josephus, Flavius"
+          }
+        ],
+        "keywords": [
+          {
+            "id": 13,
+            "name": "Viking invasions",
+            "short_description": "",
+            "jad_id": "jad_keyword__13",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [
+          {
+            "id": 4,
+            "value": "Viking invasions"
+          }
+        ],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 4,
+            "value": "Library of Latin Texts (Brepols)"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 17,
+              "database_table_3499": 69
+            },
+            "value": "Paschasius, Radbertus"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "incipit": null,
+        "manuscripts": [],
+        "ai_bibl_ref": [
+          {
+            "id": 157,
+            "value": "Lamentations 4:10 (AI)"
+          },
+          {
+            "id": 158,
+            "value": "Romans 10:2 (AI)"
+          }
+        ],
+        "view_label": "in illa obsidione teste Iosepho quae sub Tito et Vespasiano accidisse legitur",
+        "prev": {
+          "id": "jad_occurrence__145",
+          "label": "Dominus hoc loco huic bestiae comparatur immo per eas | utrasque Nabugodonosor certe aut Titus uel Vespasianus designantur"
+        },
+        "next": {
+          "id": "jad_occurrence__148",
+          "label": "qui patrem et filium despexerant, a filio et patre, id est, Tito et Vespasiano delerentur"
+        }
+      }
+    ]
   },
   "14": {
     "id": 14,

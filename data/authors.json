@@ -5143,7 +5143,7 @@
     },
     "next": {
       "id": "jad_author__160",
-      "label": ""
+      "label": "Sicardus, of Cremona"
     },
     "related__works": [
       {
@@ -6237,7 +6237,7 @@
     "lebensdaten": null,
     "view_label": "Paschasius, Radbertus",
     "prev": {
-      "id": "jad_author__160",
+      "id": "jad_author__165",
       "label": ""
     },
     "next": {
@@ -21663,22 +21663,166 @@
         },
         "next": {
           "id": "jad_work__342",
-          "label": " "
+          "label": "Summa de officiis ecclesiasticis "
         }
       }
     ]
   },
   "160": {
     "id": 160,
-    "name": "",
+    "name": "Sicardus, of Cremona",
     "jad_id": "jad_author__160",
+    "gnd_url": "https://d-nb.info/gnd/118996088",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "Sicardus, of Cremona",
+    "prev": {
+      "id": "jad_author__16",
+      "label": "Rupert, of Deutz"
+    },
+    "next": {
+      "id": "jad_author__161",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 342,
+        "name": "Summa de officiis ecclesiasticis ",
+        "jad_id": "jad_work__342",
+        "author": [
+          {
+            "id": 160,
+            "name": "Sicardus, of Cremona",
+            "jad_id": "jad_author__160",
+            "gnd_url": "https://d-nb.info/gnd/118996088",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Summa de officiis ecclesiasticis",
+        "genre": {
+          "id": 15021,
+          "value": "Liturgical text",
+          "color": "dark-yellow"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 9,
+            "value": "around 1200"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Summa de officiis ecclesiasticis ",
+        "prev": {
+          "id": "jad_work__341",
+          "label": "Flores historiarum "
+        },
+        "next": {
+          "id": "jad_work__343",
+          "label": " "
+        }
+      }
+    ]
+  },
+  "161": {
+    "id": 161,
+    "name": "",
+    "jad_id": "jad_author__161",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
     "view_label": "",
     "prev": {
-      "id": "jad_author__16",
-      "label": "Rupert, of Deutz"
+      "id": "jad_author__160",
+      "label": "Sicardus, of Cremona"
+    },
+    "next": {
+      "id": "jad_author__162",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "162": {
+    "id": 162,
+    "name": "",
+    "jad_id": "jad_author__162",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__161",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__163",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "163": {
+    "id": 163,
+    "name": "",
+    "jad_id": "jad_author__163",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__162",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__164",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "164": {
+    "id": 164,
+    "name": "",
+    "jad_id": "jad_author__164",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__163",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__165",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "165": {
+    "id": 165,
+    "name": "",
+    "jad_id": "jad_author__165",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__164",
+      "label": ""
     },
     "next": {
       "id": "jad_author__17",
