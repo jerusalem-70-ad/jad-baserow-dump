@@ -14641,40 +14641,72 @@
   "343": {
     "id": 343,
     "order": "330.00000000000000000000",
-    "name": " ",
+    "name": "Historiarum libri quinque ",
     "jad_id": "jad_work__343",
-    "author": [],
+    "author": [
+      {
+        "id": 161,
+        "value": "Rodolfus, Glaber",
+        "order": "148.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Historiarum libri quinque",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 49,
+        "value": "11th cen., first half",
+        "order": "49.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "344": {
     "id": 344,
     "order": "331.00000000000000000000",
-    "name": " ",
+    "name": "Historia Francorum qui ceperunt Jerusalem ",
     "jad_id": "jad_work__344",
-    "author": [],
+    "author": [
+      {
+        "id": 162,
+        "value": "Raymond of Aguilers",
+        "order": "149.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Historia Francorum qui ceperunt Jerusalem",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 10,
+        "value": "around 1100",
+        "order": "10.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },

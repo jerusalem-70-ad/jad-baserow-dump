@@ -21682,7 +21682,7 @@
     },
     "next": {
       "id": "jad_author__161",
-      "label": ""
+      "label": "Rodolfus, Glaber"
     },
     "related__works": [
       {
@@ -21735,46 +21735,140 @@
         },
         "next": {
           "id": "jad_work__343",
-          "label": " "
+          "label": "Historiarum libri quinque "
         }
       }
     ]
   },
   "161": {
     "id": 161,
-    "name": "",
+    "name": "Rodolfus, Glaber",
     "jad_id": "jad_author__161",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118884859",
     "notes": "",
     "lebensdaten": "",
-    "view_label": "",
+    "view_label": "Rodolfus, Glaber",
     "prev": {
       "id": "jad_author__160",
       "label": "Sicardus, of Cremona"
     },
     "next": {
       "id": "jad_author__162",
-      "label": ""
+      "label": "Raymond of Aguilers"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 343,
+        "name": "Historiarum libri quinque ",
+        "jad_id": "jad_work__343",
+        "author": [
+          {
+            "id": 161,
+            "name": "Rodolfus, Glaber",
+            "jad_id": "jad_author__161",
+            "gnd_url": "https://d-nb.info/gnd/118884859",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Historiarum libri quinque",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 49,
+            "value": "11th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Historiarum libri quinque ",
+        "prev": {
+          "id": "jad_work__342",
+          "label": "Summa de officiis ecclesiasticis "
+        },
+        "next": {
+          "id": "jad_work__344",
+          "label": "Historia Francorum qui ceperunt Jerusalem "
+        }
+      }
+    ]
   },
   "162": {
     "id": 162,
-    "name": "",
+    "name": "Raymond of Aguilers",
     "jad_id": "jad_author__162",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100958958",
     "notes": "",
     "lebensdaten": "",
-    "view_label": "",
+    "view_label": "Raymond of Aguilers",
     "prev": {
       "id": "jad_author__161",
-      "label": ""
+      "label": "Rodolfus, Glaber"
     },
     "next": {
       "id": "jad_author__163",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 344,
+        "name": "Historia Francorum qui ceperunt Jerusalem ",
+        "jad_id": "jad_work__344",
+        "author": [
+          {
+            "id": 162,
+            "name": "Raymond of Aguilers",
+            "jad_id": "jad_author__162",
+            "gnd_url": "https://d-nb.info/gnd/100958958",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Historia Francorum qui ceperunt Jerusalem",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 10,
+            "value": "around 1100"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Historia Francorum qui ceperunt Jerusalem ",
+        "prev": {
+          "id": "jad_work__343",
+          "label": "Historiarum libri quinque "
+        },
+        "next": {
+          "id": "jad_work__345",
+          "label": " "
+        }
+      }
+    ]
   },
   "163": {
     "id": 163,
@@ -21786,7 +21880,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__162",
-      "label": ""
+      "label": "Raymond of Aguilers"
     },
     "next": {
       "id": "jad_author__164",
