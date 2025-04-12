@@ -2401,7 +2401,12 @@
             "lebensdaten": null
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 83,
+            "value": "BL, Add 22820"
+          }
+        ],
         "title": "Commentary Jeremiah",
         "genre": {
           "id": 14727,
@@ -6237,7 +6242,7 @@
     "lebensdaten": null,
     "view_label": "Paschasius, Radbertus",
     "prev": {
-      "id": "jad_author__165",
+      "id": "jad_author__168",
       "label": ""
     },
     "next": {
@@ -7651,7 +7656,7 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Historia expeditionis Hierosolymitanae ",
         "prev": {
-          "id": "jad_work__345",
+          "id": "jad_work__348",
           "label": " "
         },
         "next": {
@@ -7692,7 +7697,12 @@
             "lebensdaten": null
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 84,
+            "value": "BL, Egerton 2782"
+          }
+        ],
         "title": "Commentary Isaiah",
         "genre": {
           "id": 14727,
@@ -7826,7 +7836,12 @@
             "lebensdaten": null
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 85,
+            "value": "BL, Harley 3026"
+          }
+        ],
         "title": "Expositio in Apocalypsin",
         "genre": {
           "id": 14727,
@@ -21819,7 +21834,7 @@
     },
     "next": {
       "id": "jad_author__163",
-      "label": ""
+      "label": "Hugh, of Langres"
     },
     "related__works": [
       {
@@ -21865,19 +21880,19 @@
         },
         "next": {
           "id": "jad_work__345",
-          "label": " "
+          "label": "Commentary Psalms "
         }
       }
     ]
   },
   "163": {
     "id": 163,
-    "name": "",
+    "name": "Hugh, of Langres",
     "jad_id": "jad_author__163",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100946402",
     "notes": "",
     "lebensdaten": "",
-    "view_label": "",
+    "view_label": "Hugh, of Langres",
     "prev": {
       "id": "jad_author__162",
       "label": "Raymond of Aguilers"
@@ -21886,7 +21901,59 @@
       "id": "jad_author__164",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 345,
+        "name": "Commentary Psalms ",
+        "jad_id": "jad_work__345",
+        "author": [
+          {
+            "id": 163,
+            "name": "Hugh, of Langres",
+            "jad_id": "jad_author__163",
+            "gnd_url": "https://d-nb.info/gnd/100946402",
+            "notes": "",
+            "lebensdaten": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 82,
+            "value": "BL, Arundel 235"
+          }
+        ],
+        "title": "Commentary Psalms",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 49,
+            "value": "11th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Commentary Psalms ",
+        "prev": {
+          "id": "jad_work__344",
+          "label": "Historia Francorum qui ceperunt Jerusalem "
+        },
+        "next": {
+          "id": "jad_work__346",
+          "label": " "
+        }
+      }
+    ]
   },
   "164": {
     "id": 164,
@@ -21898,7 +21965,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__163",
-      "label": ""
+      "label": "Hugh, of Langres"
     },
     "next": {
       "id": "jad_author__165",
@@ -21916,6 +21983,60 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__164",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__166",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "166": {
+    "id": 166,
+    "name": "",
+    "jad_id": "jad_author__166",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__165",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__167",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "167": {
+    "id": 167,
+    "name": "",
+    "jad_id": "jad_author__167",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__166",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__168",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "168": {
+    "id": 168,
+    "name": "",
+    "jad_id": "jad_author__168",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__167",
       "label": ""
     },
     "next": {

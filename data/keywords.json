@@ -1705,7 +1705,12 @@
                 "lebensdaten": null
               }
             ],
-            "manuscripts": [],
+            "manuscripts": [
+              {
+                "id": 85,
+                "value": "BL, Harley 3026"
+              }
+            ],
             "title": "Expositio in Apocalypsin",
             "genre": {
               "id": 14727,
@@ -1822,7 +1827,7 @@
     "view_label": "Another conquest of Jerusalem",
     "prev": {
       "id": "jad_keyword__39",
-      "label": ""
+      "label": "Muslim invasions Europe"
     },
     "next": {
       "id": "jad_keyword__40",
@@ -4445,7 +4450,12 @@
                 "lebensdaten": null
               }
             ],
-            "manuscripts": [],
+            "manuscripts": [
+              {
+                "id": 85,
+                "value": "BL, Harley 3026"
+              }
+            ],
             "title": "Expositio in Apocalypsin",
             "genre": {
               "id": 14727,
@@ -7038,7 +7048,7 @@
         },
         "next": {
           "id": "jad_occurrence__932",
-          "label": ""
+          "label": "De excidio Hierosolimorum et captivitate Iudaici populi"
         }
       }
     ]
@@ -8279,6 +8289,137 @@
         "next": {
           "id": "jad_occurrence__327",
           "label": "adversus Hierusalem illam terrenam congregatae sunt in praelium omnes gentes, scilicet Romani omnium gentium principes, et capta est civita"
+        }
+      },
+      {
+        "id": 601,
+        "passage": "per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit",
+        "jad_id": "jad_occurrence__601",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "",
+        "text_paragraph": "Imminente itaque tempore illo quo ab Hispaniae finibus ebulliens crudelissima Sarracenorum ingens multitudo per iter navale ad terminos usque Italiae atque Provinciae pervenit et in utroque regno utriusque ordinis sexus aetatis hominum strages dedit; deinde monasteria destruens, urbes, vicos villasque depopulans et sic p. 0960A | per Alpes Julias usque ad juga Penninarum Alpium rapido cursu pervenit, ibique impietatis suae frena relaxans, per multorum temporum spatia Christiani nominis populos diversis infestationibus et calamitatibus afflixit, alios occidendo, alios capiendo, alios bonis suis omnibus exspoliando, impietatis suae vota taliter tyrannica exercitatione complevit; inter caetera mala quae populus ille nefandissimus gessit, beatissimum Patrem Maiolum, a liminibus apostolorum redeuntem, fraude et insidiis cepit, rebus omnibus exspoliatum, vinculis alligavit, fame et siti afflixit.   Ille vero divinitus absolutus, ad postremum pecuniis monasterii sui redemptus, de manibus illorum Domino protegente evasit illaesus, et ejus injusta captio expulsionis illorum et perpetuae perditionis p. 0960B | fuit occasio.   Sicut vero, post passionem Christi, Judaei sunt a suis exsulati, ita, post captionem servi illius et fidelissimi ejus famuli Maioli, Sarraceni a finibus Christianorum sunt expulsi.   Et sicut per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit, ita per Willelmum illustrissimum virum et Christianissimum principem, meritis beati Maioli jugum Sarracenorum ab humeris Christianorum deposuit.   Et multa terrarum spatia, ab eis injuste possessa, ab eorum tyrannica dominatione potenti virtute eripuit.   Sed, his dictis, necesse est ut ad proposita redeamus.\n\n¶\n    Quae sunt quae proposuimus?   Praesagium quoddam memorabile, favens accidentiis temporibus beati Maioli supervenientibus.   Quae sunt illa accidentia?   p. 0960C | Sarracenorum improvisus adventus, Christianorum afflictio, monasteriorum et urbium destructio, ipsius beati Maioli captio, redemptio, et liberatio, et ejusdem ferocissimae gentis a Christianorum finibus, Christo auxiliante, dejectio.   Quod vel quale est illud praesagium memorabile?   Praecessit enim crudelissimam infestationem Sarracenorum rabies inaudita luporum in illis maxime partibus, in quibus post transitum maris totus Sarracenorum efferbuit impetus.   Diximus pro modulo qualiter liberata est fidelium multitudo a Sarracenorum persecutione, dicamus pro posse quo ordine liberata est patria a luporum infestatione.",
+        "note": "",
+        "explicit_contemp_ref": "Expulsion Saracens from Provence (late 10th cen.)",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 224,
+            "name": "Vita Maioli ",
+            "jad_id": "jad_work__224",
+            "author": [
+              {
+                "id": 87,
+                "name": "Odilo, of Cluny",
+                "jad_id": "jad_author__87",
+                "gnd_url": "https://d-nb.info/gnd/100955835",
+                "notes": "",
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [],
+            "title": "Vita Maioli",
+            "genre": {
+              "id": 15028,
+              "value": "Hagiography",
+              "color": "darker-blue"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "date_certainty": false,
+            "date": [
+              {
+                "id": 49,
+                "value": "11th cen., first half"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": false,
+            "incipit": "",
+            "volume_edition_or_individual_editor": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 10,
+            "name": "Typology",
+            "short_description": "",
+            "jad_id": "jad_keyword__10",
+            "part_of": []
+          },
+          {
+            "id": 15,
+            "name": "Vengeance",
+            "short_description": "",
+            "jad_id": "jad_keyword__15",
+            "part_of": []
+          },
+          {
+            "id": 28,
+            "name": "Warfare / Militant imagery",
+            "short_description": "",
+            "jad_id": "jad_keyword__28",
+            "part_of": []
+          },
+          {
+            "id": 39,
+            "name": "Muslim invasions Europe",
+            "short_description": "",
+            "jad_id": "jad_keyword__39",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [
+          {
+            "id": 5,
+            "value": "Year 1000"
+          }
+        ],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 87,
+              "database_table_3499": 224
+            },
+            "value": "Odilo, of Cluny"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "incipit": "",
+        "manuscripts": [],
+        "ai_bibl_ref": [],
+        "view_label": "per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit",
+        "prev": {
+          "id": "jad_occurrence__600",
+          "label": "Per Romanum quippe principem Titum protinus Judaea destruitur"
+        },
+        "next": {
+          "id": "jad_occurrence__602",
+          "label": "destructionem Hierusalem et templi, quae a Tito Romanorum imperatore fuit facta"
         }
       }
     ]
@@ -14553,6 +14694,137 @@
         "next": {
           "id": "jad_occurrence__292",
           "label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
+        }
+      },
+      {
+        "id": 601,
+        "passage": "per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit",
+        "jad_id": "jad_occurrence__601",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "",
+        "text_paragraph": "Imminente itaque tempore illo quo ab Hispaniae finibus ebulliens crudelissima Sarracenorum ingens multitudo per iter navale ad terminos usque Italiae atque Provinciae pervenit et in utroque regno utriusque ordinis sexus aetatis hominum strages dedit; deinde monasteria destruens, urbes, vicos villasque depopulans et sic p. 0960A | per Alpes Julias usque ad juga Penninarum Alpium rapido cursu pervenit, ibique impietatis suae frena relaxans, per multorum temporum spatia Christiani nominis populos diversis infestationibus et calamitatibus afflixit, alios occidendo, alios capiendo, alios bonis suis omnibus exspoliando, impietatis suae vota taliter tyrannica exercitatione complevit; inter caetera mala quae populus ille nefandissimus gessit, beatissimum Patrem Maiolum, a liminibus apostolorum redeuntem, fraude et insidiis cepit, rebus omnibus exspoliatum, vinculis alligavit, fame et siti afflixit.   Ille vero divinitus absolutus, ad postremum pecuniis monasterii sui redemptus, de manibus illorum Domino protegente evasit illaesus, et ejus injusta captio expulsionis illorum et perpetuae perditionis p. 0960B | fuit occasio.   Sicut vero, post passionem Christi, Judaei sunt a suis exsulati, ita, post captionem servi illius et fidelissimi ejus famuli Maioli, Sarraceni a finibus Christianorum sunt expulsi.   Et sicut per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit, ita per Willelmum illustrissimum virum et Christianissimum principem, meritis beati Maioli jugum Sarracenorum ab humeris Christianorum deposuit.   Et multa terrarum spatia, ab eis injuste possessa, ab eorum tyrannica dominatione potenti virtute eripuit.   Sed, his dictis, necesse est ut ad proposita redeamus.\n\n¶\n    Quae sunt quae proposuimus?   Praesagium quoddam memorabile, favens accidentiis temporibus beati Maioli supervenientibus.   Quae sunt illa accidentia?   p. 0960C | Sarracenorum improvisus adventus, Christianorum afflictio, monasteriorum et urbium destructio, ipsius beati Maioli captio, redemptio, et liberatio, et ejusdem ferocissimae gentis a Christianorum finibus, Christo auxiliante, dejectio.   Quod vel quale est illud praesagium memorabile?   Praecessit enim crudelissimam infestationem Sarracenorum rabies inaudita luporum in illis maxime partibus, in quibus post transitum maris totus Sarracenorum efferbuit impetus.   Diximus pro modulo qualiter liberata est fidelium multitudo a Sarracenorum persecutione, dicamus pro posse quo ordine liberata est patria a luporum infestatione.",
+        "note": "",
+        "explicit_contemp_ref": "Expulsion Saracens from Provence (late 10th cen.)",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 224,
+            "name": "Vita Maioli ",
+            "jad_id": "jad_work__224",
+            "author": [
+              {
+                "id": 87,
+                "name": "Odilo, of Cluny",
+                "jad_id": "jad_author__87",
+                "gnd_url": "https://d-nb.info/gnd/100955835",
+                "notes": "",
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [],
+            "title": "Vita Maioli",
+            "genre": {
+              "id": 15028,
+              "value": "Hagiography",
+              "color": "darker-blue"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "date_certainty": false,
+            "date": [
+              {
+                "id": 49,
+                "value": "11th cen., first half"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": false,
+            "incipit": "",
+            "volume_edition_or_individual_editor": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 10,
+            "name": "Typology",
+            "short_description": "",
+            "jad_id": "jad_keyword__10",
+            "part_of": []
+          },
+          {
+            "id": 15,
+            "name": "Vengeance",
+            "short_description": "",
+            "jad_id": "jad_keyword__15",
+            "part_of": []
+          },
+          {
+            "id": 28,
+            "name": "Warfare / Militant imagery",
+            "short_description": "",
+            "jad_id": "jad_keyword__28",
+            "part_of": []
+          },
+          {
+            "id": 39,
+            "name": "Muslim invasions Europe",
+            "short_description": "",
+            "jad_id": "jad_keyword__39",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [
+          {
+            "id": 5,
+            "value": "Year 1000"
+          }
+        ],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 87,
+              "database_table_3499": 224
+            },
+            "value": "Odilo, of Cluny"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "incipit": "",
+        "manuscripts": [],
+        "ai_bibl_ref": [],
+        "view_label": "per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit",
+        "prev": {
+          "id": "jad_occurrence__600",
+          "label": "Per Romanum quippe principem Titum protinus Judaea destruitur"
+        },
+        "next": {
+          "id": "jad_occurrence__602",
+          "label": "destructionem Hierusalem et templi, quae a Tito Romanorum imperatore fuit facta"
         }
       }
     ]
@@ -22630,7 +22902,12 @@
                 "lebensdaten": null
               }
             ],
-            "manuscripts": [],
+            "manuscripts": [
+              {
+                "id": 84,
+                "value": "BL, Egerton 2782"
+              }
+            ],
             "title": "Commentary Isaiah",
             "genre": {
               "id": 14727,
@@ -24708,6 +24985,137 @@
         "next": {
           "id": "jad_occurrence__120",
           "label": "consideres tempora passionis Dominicae et ruinae Jerusalem, quando subversa est; post cujus passionem venit consummatio Jerusalem, et interfectio populi Judaeorum"
+        }
+      },
+      {
+        "id": 601,
+        "passage": "per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit",
+        "jad_id": "jad_occurrence__601",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "",
+        "text_paragraph": "Imminente itaque tempore illo quo ab Hispaniae finibus ebulliens crudelissima Sarracenorum ingens multitudo per iter navale ad terminos usque Italiae atque Provinciae pervenit et in utroque regno utriusque ordinis sexus aetatis hominum strages dedit; deinde monasteria destruens, urbes, vicos villasque depopulans et sic p. 0960A | per Alpes Julias usque ad juga Penninarum Alpium rapido cursu pervenit, ibique impietatis suae frena relaxans, per multorum temporum spatia Christiani nominis populos diversis infestationibus et calamitatibus afflixit, alios occidendo, alios capiendo, alios bonis suis omnibus exspoliando, impietatis suae vota taliter tyrannica exercitatione complevit; inter caetera mala quae populus ille nefandissimus gessit, beatissimum Patrem Maiolum, a liminibus apostolorum redeuntem, fraude et insidiis cepit, rebus omnibus exspoliatum, vinculis alligavit, fame et siti afflixit.   Ille vero divinitus absolutus, ad postremum pecuniis monasterii sui redemptus, de manibus illorum Domino protegente evasit illaesus, et ejus injusta captio expulsionis illorum et perpetuae perditionis p. 0960B | fuit occasio.   Sicut vero, post passionem Christi, Judaei sunt a suis exsulati, ita, post captionem servi illius et fidelissimi ejus famuli Maioli, Sarraceni a finibus Christianorum sunt expulsi.   Et sicut per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit, ita per Willelmum illustrissimum virum et Christianissimum principem, meritis beati Maioli jugum Sarracenorum ab humeris Christianorum deposuit.   Et multa terrarum spatia, ab eis injuste possessa, ab eorum tyrannica dominatione potenti virtute eripuit.   Sed, his dictis, necesse est ut ad proposita redeamus.\n\n¶\n    Quae sunt quae proposuimus?   Praesagium quoddam memorabile, favens accidentiis temporibus beati Maioli supervenientibus.   Quae sunt illa accidentia?   p. 0960C | Sarracenorum improvisus adventus, Christianorum afflictio, monasteriorum et urbium destructio, ipsius beati Maioli captio, redemptio, et liberatio, et ejusdem ferocissimae gentis a Christianorum finibus, Christo auxiliante, dejectio.   Quod vel quale est illud praesagium memorabile?   Praecessit enim crudelissimam infestationem Sarracenorum rabies inaudita luporum in illis maxime partibus, in quibus post transitum maris totus Sarracenorum efferbuit impetus.   Diximus pro modulo qualiter liberata est fidelium multitudo a Sarracenorum persecutione, dicamus pro posse quo ordine liberata est patria a luporum infestatione.",
+        "note": "",
+        "explicit_contemp_ref": "Expulsion Saracens from Provence (late 10th cen.)",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 224,
+            "name": "Vita Maioli ",
+            "jad_id": "jad_work__224",
+            "author": [
+              {
+                "id": 87,
+                "name": "Odilo, of Cluny",
+                "jad_id": "jad_author__87",
+                "gnd_url": "https://d-nb.info/gnd/100955835",
+                "notes": "",
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [],
+            "title": "Vita Maioli",
+            "genre": {
+              "id": 15028,
+              "value": "Hagiography",
+              "color": "darker-blue"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "date_certainty": false,
+            "date": [
+              {
+                "id": 49,
+                "value": "11th cen., first half"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": false,
+            "incipit": "",
+            "volume_edition_or_individual_editor": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 10,
+            "name": "Typology",
+            "short_description": "",
+            "jad_id": "jad_keyword__10",
+            "part_of": []
+          },
+          {
+            "id": 15,
+            "name": "Vengeance",
+            "short_description": "",
+            "jad_id": "jad_keyword__15",
+            "part_of": []
+          },
+          {
+            "id": 28,
+            "name": "Warfare / Militant imagery",
+            "short_description": "",
+            "jad_id": "jad_keyword__28",
+            "part_of": []
+          },
+          {
+            "id": 39,
+            "name": "Muslim invasions Europe",
+            "short_description": "",
+            "jad_id": "jad_keyword__39",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [
+          {
+            "id": 5,
+            "value": "Year 1000"
+          }
+        ],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 87,
+              "database_table_3499": 224
+            },
+            "value": "Odilo, of Cluny"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "incipit": "",
+        "manuscripts": [],
+        "ai_bibl_ref": [],
+        "view_label": "per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit",
+        "prev": {
+          "id": "jad_occurrence__600",
+          "label": "Per Romanum quippe principem Titum protinus Judaea destruitur"
+        },
+        "next": {
+          "id": "jad_occurrence__602",
+          "label": "destructionem Hierusalem et templi, quae a Tito Romanorum imperatore fuit facta"
         }
       }
     ]
@@ -27612,7 +28020,7 @@
     },
     "next": {
       "id": "jad_keyword__39",
-      "label": ""
+      "label": "Muslim invasions Europe"
     },
     "related__passages": [
       {
@@ -27988,18 +28396,18 @@
         },
         "next": {
           "id": "jad_occurrence__932",
-          "label": ""
+          "label": "De excidio Hierosolimorum et captivitate Iudaici populi"
         }
       }
     ]
   },
   "39": {
     "id": 39,
-    "name": "",
+    "name": "Muslim invasions Europe",
     "short_description": "",
     "jad_id": "jad_keyword__39",
     "part_of": [],
-    "view_label": "",
+    "view_label": "Muslim invasions Europe",
     "prev": {
       "id": "jad_keyword__38",
       "label": "Textual recycling"
@@ -28008,7 +28416,139 @@
       "id": "jad_keyword__4",
       "label": "Another conquest of Jerusalem"
     },
-    "related__passages": []
+    "related__passages": [
+      {
+        "id": 601,
+        "passage": "per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit",
+        "jad_id": "jad_occurrence__601",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "",
+        "text_paragraph": "Imminente itaque tempore illo quo ab Hispaniae finibus ebulliens crudelissima Sarracenorum ingens multitudo per iter navale ad terminos usque Italiae atque Provinciae pervenit et in utroque regno utriusque ordinis sexus aetatis hominum strages dedit; deinde monasteria destruens, urbes, vicos villasque depopulans et sic p. 0960A | per Alpes Julias usque ad juga Penninarum Alpium rapido cursu pervenit, ibique impietatis suae frena relaxans, per multorum temporum spatia Christiani nominis populos diversis infestationibus et calamitatibus afflixit, alios occidendo, alios capiendo, alios bonis suis omnibus exspoliando, impietatis suae vota taliter tyrannica exercitatione complevit; inter caetera mala quae populus ille nefandissimus gessit, beatissimum Patrem Maiolum, a liminibus apostolorum redeuntem, fraude et insidiis cepit, rebus omnibus exspoliatum, vinculis alligavit, fame et siti afflixit.   Ille vero divinitus absolutus, ad postremum pecuniis monasterii sui redemptus, de manibus illorum Domino protegente evasit illaesus, et ejus injusta captio expulsionis illorum et perpetuae perditionis p. 0960B | fuit occasio.   Sicut vero, post passionem Christi, Judaei sunt a suis exsulati, ita, post captionem servi illius et fidelissimi ejus famuli Maioli, Sarraceni a finibus Christianorum sunt expulsi.   Et sicut per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit, ita per Willelmum illustrissimum virum et Christianissimum principem, meritis beati Maioli jugum Sarracenorum ab humeris Christianorum deposuit.   Et multa terrarum spatia, ab eis injuste possessa, ab eorum tyrannica dominatione potenti virtute eripuit.   Sed, his dictis, necesse est ut ad proposita redeamus.\n\n¶\n    Quae sunt quae proposuimus?   Praesagium quoddam memorabile, favens accidentiis temporibus beati Maioli supervenientibus.   Quae sunt illa accidentia?   p. 0960C | Sarracenorum improvisus adventus, Christianorum afflictio, monasteriorum et urbium destructio, ipsius beati Maioli captio, redemptio, et liberatio, et ejusdem ferocissimae gentis a Christianorum finibus, Christo auxiliante, dejectio.   Quod vel quale est illud praesagium memorabile?   Praecessit enim crudelissimam infestationem Sarracenorum rabies inaudita luporum in illis maxime partibus, in quibus post transitum maris totus Sarracenorum efferbuit impetus.   Diximus pro modulo qualiter liberata est fidelium multitudo a Sarracenorum persecutione, dicamus pro posse quo ordine liberata est patria a luporum infestatione.",
+        "note": "",
+        "explicit_contemp_ref": "Expulsion Saracens from Provence (late 10th cen.)",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 224,
+            "name": "Vita Maioli ",
+            "jad_id": "jad_work__224",
+            "author": [
+              {
+                "id": 87,
+                "name": "Odilo, of Cluny",
+                "jad_id": "jad_author__87",
+                "gnd_url": "https://d-nb.info/gnd/100955835",
+                "notes": "",
+                "lebensdaten": null
+              }
+            ],
+            "manuscripts": [],
+            "title": "Vita Maioli",
+            "genre": {
+              "id": 15028,
+              "value": "Hagiography",
+              "color": "darker-blue"
+            },
+            "notes": "",
+            "notes__author": "",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 2,
+                "name": "Patrologia Latina",
+                "jad_id": "jad_sources_occurrences__2",
+                "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+              }
+            ],
+            "date_certainty": false,
+            "date": [
+              {
+                "id": 49,
+                "value": "11th cen., first half"
+              }
+            ],
+            "link_digital_editions": "",
+            "author_certainty": false,
+            "incipit": "",
+            "volume_edition_or_individual_editor": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 10,
+            "name": "Typology",
+            "short_description": "",
+            "jad_id": "jad_keyword__10",
+            "part_of": []
+          },
+          {
+            "id": 15,
+            "name": "Vengeance",
+            "short_description": "",
+            "jad_id": "jad_keyword__15",
+            "part_of": []
+          },
+          {
+            "id": 28,
+            "name": "Warfare / Militant imagery",
+            "short_description": "",
+            "jad_id": "jad_keyword__28",
+            "part_of": []
+          },
+          {
+            "id": 39,
+            "name": "Muslim invasions Europe",
+            "short_description": "",
+            "jad_id": "jad_keyword__39",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [
+          {
+            "id": 5,
+            "value": "Year 1000"
+          }
+        ],
+        "authority_discourse": 0,
+        "liturgical_references": [],
+        "occurrence_found_in": [
+          {
+            "id": 2,
+            "value": "Patrologia Latina"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 87,
+              "database_table_3499": 224
+            },
+            "value": "Odilo, of Cluny"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "incipit": "",
+        "manuscripts": [],
+        "ai_bibl_ref": [],
+        "view_label": "per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit",
+        "prev": {
+          "id": "jad_occurrence__600",
+          "label": "Per Romanum quippe principem Titum protinus Judaea destruitur"
+        },
+        "next": {
+          "id": "jad_occurrence__602",
+          "label": "destructionem Hierusalem et templi, quae a Tito Romanorum imperatore fuit facta"
+        }
+      }
+    ]
   },
   "40": {
     "id": 40,

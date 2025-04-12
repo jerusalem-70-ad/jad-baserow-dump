@@ -2953,57 +2953,145 @@
   "82": {
     "id": 82,
     "order": "76.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Arundel 235"
+      }
+    ],
     "jad_id": "jad_manuscript__82",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 7,
+        "value": "BL",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "idno": "Arundel 235",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100062417734.0x000001",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 35,
+        "value": "late 11th cen.",
+        "order": "35.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ]
   },
   "83": {
     "id": 83,
     "order": "77.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Add 22820"
+      }
+    ],
     "jad_id": "jad_manuscript__83",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 7,
+        "value": "BL",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "idno": "Add 22820",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100055988155.0x000001",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 69,
+        "value": "late 10th cen.",
+        "order": "68.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ]
   },
   "84": {
     "id": 84,
     "order": "77.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Egerton 2782"
+      }
+    ],
     "jad_id": "jad_manuscript__84",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 7,
+        "value": "BL",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "idno": "Egerton 2782",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ]
   },
   "85": {
     "id": 85,
     "order": "78.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Harley 3026"
+      }
+    ],
     "jad_id": "jad_manuscript__85",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 7,
+        "value": "BL",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "idno": "Harley 3026",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 50,
+        "value": "10th cen.",
+        "order": "50.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ]
   }
 }

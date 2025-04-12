@@ -492,7 +492,7 @@
     "view_label": "Lam., MS 144",
     "prev": {
       "id": "jad_manuscript__85",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BL, Harley 3026"
     },
     "next": {
       "id": "jad_manuscript__10",
@@ -4335,91 +4335,215 @@
     },
     "next": {
       "id": "jad_manuscript__82",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BL, Arundel 235"
     }
   },
   "82": {
     "id": 82,
-    "name": [],
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Arundel 235"
+      }
+    ],
     "jad_id": "jad_manuscript__82",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 7,
+        "name": "BL",
+        "jad_id": "jad_library__7",
+        "gnd_url": "https://d-nb.info/gnd/1023420-2",
+        "full_name": "British Library",
+        "place": [
+          {
+            "id": 5,
+            "name": "London",
+            "geonames_url": "https://www.geonames.org/2643743/london.html",
+            "jad_id": "jad_places__5"
+          }
+        ]
+      }
+    ],
+    "idno": "Arundel 235",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100062417734.0x000001",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 35,
+        "value": "late 11th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ],
+    "view_label": "BL, Arundel 235",
     "prev": {
       "id": "jad_manuscript__81",
       "label": "Bibl. Laurenziana, Plut.19.17"
     },
     "next": {
       "id": "jad_manuscript__83",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BL, Add 22820"
     }
   },
   "83": {
     "id": 83,
-    "name": [],
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Add 22820"
+      }
+    ],
     "jad_id": "jad_manuscript__83",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 7,
+        "name": "BL",
+        "jad_id": "jad_library__7",
+        "gnd_url": "https://d-nb.info/gnd/1023420-2",
+        "full_name": "British Library",
+        "place": [
+          {
+            "id": 5,
+            "name": "London",
+            "geonames_url": "https://www.geonames.org/2643743/london.html",
+            "jad_id": "jad_places__5"
+          }
+        ]
+      }
+    ],
+    "idno": "Add 22820",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100055988155.0x000001",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 69,
+        "value": "late 10th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ],
+    "view_label": "BL, Add 22820",
     "prev": {
       "id": "jad_manuscript__82",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BL, Arundel 235"
     },
     "next": {
       "id": "jad_manuscript__84",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BL, Egerton 2782"
     }
   },
   "84": {
     "id": 84,
-    "name": [],
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Egerton 2782"
+      }
+    ],
     "jad_id": "jad_manuscript__84",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 7,
+        "name": "BL",
+        "jad_id": "jad_library__7",
+        "gnd_url": "https://d-nb.info/gnd/1023420-2",
+        "full_name": "British Library",
+        "place": [
+          {
+            "id": 5,
+            "name": "London",
+            "geonames_url": "https://www.geonames.org/2643743/london.html",
+            "jad_id": "jad_places__5"
+          }
+        ]
+      }
+    ],
+    "idno": "Egerton 2782",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 3,
+        "value": "early 12th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ],
+    "view_label": "BL, Egerton 2782",
     "prev": {
       "id": "jad_manuscript__83",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BL, Add 22820"
     },
     "next": {
       "id": "jad_manuscript__85",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BL, Harley 3026"
     }
   },
   "85": {
     "id": 85,
-    "name": [],
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Harley 3026"
+      }
+    ],
     "jad_id": "jad_manuscript__85",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 7,
+        "name": "BL",
+        "jad_id": "jad_library__7",
+        "gnd_url": "https://d-nb.info/gnd/1023420-2",
+        "full_name": "British Library",
+        "place": [
+          {
+            "id": 5,
+            "name": "London",
+            "geonames_url": "https://www.geonames.org/2643743/london.html",
+            "jad_id": "jad_places__5"
+          }
+        ]
+      }
+    ],
+    "idno": "Harley 3026",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 50,
+        "value": "10th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ],
+    "view_label": "BL, Harley 3026",
     "prev": {
       "id": "jad_manuscript__84",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BL, Egerton 2782"
     },
     "next": {
       "id": "jad_manuscript__9",

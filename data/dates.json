@@ -103,12 +103,12 @@
     "jad_id": "jad_date__7",
     "view_label": "mid 9th cen.",
     "prev": {
-      "id": "jad_date__68",
-      "label": "11th cen."
+      "id": "jad_date__69",
+      "label": "late 10th cen."
     },
     "next": {
-      "id": "jad_date__8",
-      "label": "late 9th cen."
+      "id": "jad_date__70",
+      "label": ""
     }
   },
   "8": {
@@ -119,8 +119,8 @@
     "jad_id": "jad_date__8",
     "view_label": "late 9th cen.",
     "prev": {
-      "id": "jad_date__7",
-      "label": "mid 9th cen."
+      "id": "jad_date__70",
+      "label": ""
     },
     "next": {
       "id": "jad_date__9",
@@ -1042,8 +1042,8 @@
   "66": {
     "id": 66,
     "name": "late 4th cen.",
-    "not_before": null,
-    "not_after": null,
+    "not_before": "371",
+    "not_after": "400",
     "jad_id": "jad_date__66",
     "view_label": "late 4th cen.",
     "prev": {
@@ -1083,8 +1083,40 @@
       "label": "around 200"
     },
     "next": {
+      "id": "jad_date__69",
+      "label": "late 10th cen."
+    }
+  },
+  "69": {
+    "id": 69,
+    "name": "late 10th cen.",
+    "not_before": "971",
+    "not_after": "1000",
+    "jad_id": "jad_date__69",
+    "view_label": "late 10th cen.",
+    "prev": {
+      "id": "jad_date__68",
+      "label": "11th cen."
+    },
+    "next": {
       "id": "jad_date__7",
       "label": "mid 9th cen."
+    }
+  },
+  "70": {
+    "id": 70,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__70",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__7",
+      "label": "mid 9th cen."
+    },
+    "next": {
+      "id": "jad_date__8",
+      "label": "late 9th cen."
     }
   }
 }

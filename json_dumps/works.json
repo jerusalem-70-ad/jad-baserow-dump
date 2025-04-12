@@ -1352,7 +1352,13 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 84,
+        "value": "BL, Egerton 2782",
+        "order": "77.00000000000000000000"
+      }
+    ],
     "title": "Commentary Isaiah",
     "genre": {
       "id": 14727,
@@ -2978,7 +2984,13 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 83,
+        "value": "BL, Add 22820",
+        "order": "77.00000000000000000000"
+      }
+    ],
     "title": "Commentary Jeremiah",
     "genre": {
       "id": 14727,
@@ -5094,7 +5106,13 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 85,
+        "value": "BL, Harley 3026",
+        "order": "78.00000000000000000000"
+      }
+    ],
     "title": "Expositio in Apocalypsin",
     "genre": {
       "id": 14727,
@@ -14713,8 +14731,90 @@
   "345": {
     "id": 345,
     "order": "332.00000000000000000000",
-    "name": " ",
+    "name": "Commentary Psalms ",
     "jad_id": "jad_work__345",
+    "author": [
+      {
+        "id": 163,
+        "value": "Hugh, of Langres",
+        "order": "150.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 82,
+        "value": "BL, Arundel 235",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Psalms",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 49,
+        "value": "11th cen., first half",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "346": {
+    "id": 346,
+    "order": "333.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__346",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "347": {
+    "id": 347,
+    "order": "334.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__347",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "348": {
+    "id": 348,
+    "order": "335.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__348",
     "author": [],
     "manuscripts": [],
     "title": "",

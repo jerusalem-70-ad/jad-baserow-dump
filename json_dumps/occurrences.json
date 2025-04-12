@@ -41410,11 +41410,15 @@
     "order": "590.00000000000000000000",
     "passage": "per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit",
     "jad_id": "jad_occurrence__601",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "position_in_work": "",
     "text_paragraph": "Imminente itaque tempore illo quo ab Hispaniae finibus ebulliens crudelissima Sarracenorum ingens multitudo per iter navale ad terminos usque Italiae atque Provinciae pervenit et in utroque regno utriusque ordinis sexus aetatis hominum strages dedit; deinde monasteria destruens, urbes, vicos villasque depopulans et sic p. 0960A | per Alpes Julias usque ad juga Penninarum Alpium rapido cursu pervenit, ibique impietatis suae frena relaxans, per multorum temporum spatia Christiani nominis populos diversis infestationibus et calamitatibus afflixit, alios occidendo, alios capiendo, alios bonis suis omnibus exspoliando, impietatis suae vota taliter tyrannica exercitatione complevit; inter caetera mala quae populus ille nefandissimus gessit, beatissimum Patrem Maiolum, a liminibus apostolorum redeuntem, fraude et insidiis cepit, rebus omnibus exspoliatum, vinculis alligavit, fame et siti afflixit.   Ille vero divinitus absolutus, ad postremum pecuniis monasterii sui redemptus, de manibus illorum Domino protegente evasit illaesus, et ejus injusta captio expulsionis illorum et perpetuae perditionis p. 0960B | fuit occasio.   Sicut vero, post passionem Christi, Judaei sunt a suis exsulati, ita, post captionem servi illius et fidelissimi ejus famuli Maioli, Sarraceni a finibus Christianorum sunt expulsi.   Et sicut per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit, ita per Willelmum illustrissimum virum et Christianissimum principem, meritis beati Maioli jugum Sarracenorum ab humeris Christianorum deposuit.   Et multa terrarum spatia, ab eis injuste possessa, ab eorum tyrannica dominatione potenti virtute eripuit.   Sed, his dictis, necesse est ut ad proposita redeamus.\n\n¶\n    Quae sunt quae proposuimus?   Praesagium quoddam memorabile, favens accidentiis temporibus beati Maioli supervenientibus.   Quae sunt illa accidentia?   p. 0960C | Sarracenorum improvisus adventus, Christianorum afflictio, monasteriorum et urbium destructio, ipsius beati Maioli captio, redemptio, et liberatio, et ejusdem ferocissimae gentis a Christianorum finibus, Christo auxiliante, dejectio.   Quod vel quale est illud praesagium memorabile?   Praecessit enim crudelissimam infestationem Sarracenorum rabies inaudita luporum in illis maxime partibus, in quibus post transitum maris totus Sarracenorum efferbuit impetus.   Diximus pro modulo qualiter liberata est fidelium multitudo a Sarracenorum persecutione, dicamus pro posse quo ordine liberata est patria a luporum infestatione.",
     "note": "",
-    "explicit_contemp_ref": "",
+    "explicit_contemp_ref": "Expulsion Saracens from Provence (late 10th cen.)",
     "biblical_references": [],
     "work": [
       {
@@ -41424,8 +41428,35 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
-    "part_of_cluster": [],
+    "keywords": [
+      {
+        "id": 10,
+        "value": "Typology",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 15,
+        "value": "Vengeance",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 28,
+        "value": "Warfare / Militant imagery",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 39,
+        "value": "Muslim invasions Europe",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "part_of_cluster": [
+      {
+        "id": 5,
+        "value": "Year 1000",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "authority_discourse": 0,
     "liturgical_references": [],
     "occurrence_found_in": [
@@ -58405,22 +58436,42 @@
   "932": {
     "id": 932,
     "order": "869.00000000000000000000",
-    "passage": "",
+    "passage": "De excidio Hierosolimorum et captivitate Iudaici populi",
     "jad_id": "jad_occurrence__932",
     "language": null,
-    "position_in_work": "",
-    "text_paragraph": "",
+    "position_in_work": "Table of contents",
+    "text_paragraph": "XVII. De civilibus malis in Urbe et captivitate Iosephi imperioque Vespasiani.\n\n¶\n    XVIII. De excidio Hierosolimorum et captivitate Iudaici populi.   Auctoritates de hoc Iosephi.   Quod Titus et Vespasianus ob hoc imperatores dicti Romae cum triumpho suscepti sint.   De Iano clauso et incremento Romani imperii.   De terrae motu et pestilentia.   De morte utrorumque et amphiteatro.\n\n    XVIIII. De persecutione Domitiani in suos et in nostros.   De Clemente successore Petri.   Quod Domitianus Iohannem apostolum in exilium miserit et David prolem requiri fecerit.   De morte ipsius et de substitutione Nervae, sub quo ab exilio revocatus est Iohannes.",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 300,
+        "value": "Chronica sive historia de duabus civitatibus ",
+        "order": "294.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 137,
+          "database_table_3499": 300
+        },
+        "value": "Otto, of Freising"
+      }
+    ],
     "source_passage": [],
     "mss_locus": [],
     "occurrence_ms": [],
@@ -58432,22 +58483,42 @@
   "933": {
     "id": 933,
     "order": "870.00000000000000000000",
-    "passage": "",
+    "passage": "Vespasianus in Syria, qui contra Iudeos a Nerone missus",
     "jad_id": "jad_occurrence__933",
     "language": null,
-    "position_in_work": "",
-    "text_paragraph": "",
+    "position_in_work": "B3",
+    "text_paragraph": "XVII. Galba VIus ab Augusto morte Neronis comperta Romam venit.   Ubi dum nobilem quendam Pisonem sibi in filium adoptaret, ab Othone uterque VII° imperii sui mense necatur.   Itaque dum Romae Otho usurpat imperium, Vitellius in Germania idem arripere conatur, Vespasianus in Syria, qui contra Iudeos a Nerone missus multis eos malis adtriverat Ioseph umque fortissimum ac prudentissimum sacerdotem eorum in vinculis tenebat, ab exercitu Neronis audita morte imperator creatur.   Quod nimirum civile malum et nobilissimi imperii distractionem ob piaculum in apostolorum principes commissum Roma meruit.   Iosephus iste Mathiae filius tantae non solum inter Iudeos, verum etiam apud Romanos postmodum auctoritatis fuit, ut statua ei in Urbe donata libri quoque eius bibliothecae traderentur.   Extant eius opera: in XX libris Antiquitatum hystoria, de Iudeorum cum Romanis bello libri VII.   Liber quoque Machabeorum secundus ab eodem esse compositus a quibusdam dicitur.   Alia etiam eius opera preclara Eusebius ponit.   Otho contra Vitellium bellum parat.   Ubi dum primo circa Alpes, secundo iuxta Placentiam, tercio circa locum qui Castoris dicitur victor extitisset, quarto, cum suos apud Briacum vinci videret, tercio, ex quo imperare ceperat, mense se ipsum interfecit.   Vitellius Romam veniens regnum usurpat multisque ibi crudeliter ac nequiter actis, ut audivit de Vespasiano, primo quidem imperium deponere cogitat, sed post a sociis confortatus Sabinum Vespasiani fratrem in Capitolium cum suis fugavit ibique omnes flamma ac ruina in unum tumulum dedit.   Vespasianus ergo, qui post mortem Neronis hortatu principum et precipue Iosephi, qui, cum in vinculis poneretur, constantissime se ab eodem, sed imperatore, solvendum p. 157 | dixerat, imperium suscepit relictoque ad obsidionem Hierosolimorum filio suo Tito per Alexandriam Romam tendit.   Porro inter haec a suis Vitellius capitur turpiterque tam per viam sacram quam per forum ductus unco trahitur et in Tyberim mersus communi quoque caruit sepultura.   Adversus senatum etiam interea a militibus eius multa crudeliter acta fuerant.   Cognita morte Vitellii Vespasianus Alexandriae substitit.\n\n¶\n    XVIII. Igitur cum Iudei post XL a passione Domini annos, quos in spacium penitentiae acceperant, de commisso in salvatorem scelere penitere nollent, immo in Stephano et in duobus Iacobis occisis peccatum peccato apposuissent, ultio divina, quae a Domino eis predicta erat, iam in populum impium exardescere debuit.   Premonitis autem divino responso civibus Christi, ut de urbe sacrilega populoque impiissimo, tanquam Loth de Sodomis , trans Iordanem in oppidum Pella nomine transirent, urbs infidelis a Tito obsidione in ipsa paschali festivitate cunctis undecumque populis ad festum confluentibus cingitur tandemque cum multo Romanorum sanguine expugnatur.   Verum a templo, quod sacerdotum ac principum multitudo tuebatur, Titus arcetur.   Quod dum magno labore suorum caperet, tanquam ecclesia Dei germinante abolitum cum ipsa urbe funditus delevit ac iuxta prophetiam Domini lapidem super lapidem ibi non reliquit, transactis a prima conditione sui MC annis.   Sexcenta tunc milia Iudeorum interfecta fuisse referunt Cornelius et Suetonius.   Verum qui miserrimum omnium Iudeorum exitium ad plenum scire desiderat, ipsorum historiographum legat Iosephum, qui in ipsa paschali festivitate tamquam uno carcere conclusos tricies centena milia hominum in urbe fuisse commemorat.   Ex quibus tam fame quam ferro et igne undecies centena milia, exceptis illis qui urbibus ac castellis aliis perierant, in hac tantum perisse idem scriptor narrat.   Ait ergo inter cetera: Arbitror enim, quod, etiamsi adversus impios cives Romanorum paulisper arma cessassent, aut hiatu terrae aut aquae diluvio aut Sodomitanis ignibus et fulminibus caelitus tortis supplicium civitas dependisset, quae multo infaustiorem illis, qui haec perpessi sunt, et p. 158 | nequiorem virorum presentem hanc protulisset etatem, pro quibus et omnis gens pariter mereretur extingui.   Reliqui Iudeorum, qui usque ad D̅C̅C̅C̅C̅ fuisse dicuntur, per totum orbem usque in presentem diem sunt dispersi.   Titus post tam magnificum triumphum imperator ab exercitu appellatur.   Vespasianus dehinc cum Tito filio Urbem ingreditur, ubi cum maximo tripudio inauditoque triumpho uno curru cum filio sedens, actis ante se captis et bibliotheca Iudeorum, suscipitur.   Iusto id iudicio Dei factum creditur, ut, qui in patrem et filium peccaverant Deum, ab hominibus patre et filio plecterentur.   Itaque imperatores omnibus bellorum motibus sedatis sexto ab Urbe condita Iani portas clauserunt.   His diebus Romanorum res publica plurimum est aucta.   Achaia enim, Lycia, Rhodus, Bizantium, Samotracia, Cilicia, Comogena in provincias redactae Romanis legibus ac iudiciis paruere.   VIIIIº imperii eorum anno civitates Cypri terrae motu corruerunt, Urbsque pestilentia consumitur.   Eodem vel iuxta alios Xº anno Vespasianus profluvio ventris in villa propria iuxta Sabinos moritur.   Cui Titus filius suus segregatis a numero principum Othone et Vitellio VIIIus ab Augusto succedit, vir omnium ante se principum moderatissimus, in tantum, ut Deliciae hominum vocaretur.   Diem enim, in qua nil boni fecisset, perdidisse se dicere solebat.   Huius diebus bella non fuere, Roma vero in pluribus sui partibus per se conflagravit incendio.   Is amphiteatrum Romae edificans V milibus ferarum dedicavit.   Anno imperii eius secundo cum omnium planctu in eadem qua et pater villa moritur.   Eodem anno Linum XII annis in sacerdotio p. 159 | transactis urbis Romae episcopatum tradidisse Anacleto refert Eusebius.",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 300,
+        "value": "Chronica sive historia de duabus civitatibus ",
+        "order": "294.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 137,
+          "database_table_3499": 300
+        },
+        "value": "Otto, of Freising"
+      }
+    ],
     "source_passage": [],
     "mss_locus": [],
     "occurrence_ms": [],
@@ -58459,22 +58530,42 @@
   "934": {
     "id": 934,
     "order": "871.00000000000000000000",
-    "passage": "",
+    "passage": "quod Hierusalem a Tito et Vespasiano destructa",
     "jad_id": "jad_occurrence__934",
     "language": null,
-    "position_in_work": "",
-    "text_paragraph": "",
+    "position_in_work": "B3",
+    "text_paragraph": "Unde duae hae civitates, cum processu temporis ecclesia a primitivis patribus secundum distributionem gentium ordinaretur, tanquam post Romanam urbem dignissimae, ad ipsius instar urbis solae patriarchales sedes habere meruere.   Constantinopolitana siquidem et Hierosolimitana postmodum crescente ecclesia, altera ob imperii sedem, alter a ob sanctum sepulchrum et antiquum illud ac toti orbi venerabile Domini templum, patriarchales sedes permissione patrum sortitae sunt.   Unde de Hierosolimitana ecclesia in Nicea synodo legimus: Episcopus Heliae ab omnibus honoretur, salvo iure sui metropolitani.   Quod quidam ad Cesaream Palestinae interpretantur, eo quod Hierusalem a Tito et Vespasiano destructa metropolis Palestinae facta fuerit Cesarea sicque consequenter iure ecclesiastico eiusdem provinciae metropolis remanserit.   Ubi enim sub principibus gentium flamines erant, ibi postmodum a nostris locati sunt episcopi.   Ubi illi archiflamines, nos archiepiscopos; ubi illi protoflamines, nos primates seu patriarchas habere cepimus, omnes quidem unius ordinis, sed pro differentia civitatum diversae dignitatis.   Alii prefatum capitulum salvo iure metropolitani legunt et sic interpretantur: Postquam dictum fuit: episcopus Heliae, id est Hierusalem, ab omnibus honoretur, ne videretur ab omnibus tanquam summus, ido est Romanus, pontifex honorandus, adiunctum est: salvo iure metropolitani, p. 138 | hoc est: Sic dicimus eum honorandum, non sicut summum pontificem, sed sicut metropolitanum.",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 300,
+        "value": "Chronica sive historia de duabus civitatibus ",
+        "order": "294.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 137,
+          "database_table_3499": 300
+        },
+        "value": "Otto, of Freising"
+      }
+    ],
     "source_passage": [],
     "mss_locus": [],
     "occurrence_ms": [],
@@ -58486,22 +58577,42 @@
   "935": {
     "id": 935,
     "order": "872.00000000000000000000",
-    "passage": "",
+    "passage": "ob eius necem Iosephus civitatem a Romanis postmodum destructam esse velit",
     "jad_id": "jad_occurrence__935",
     "language": null,
-    "position_in_work": "",
-    "text_paragraph": "",
+    "position_in_work": "B3",
+    "text_paragraph": "Iudei vero postquam frustratas insidias, quas Paulo intenderant, vident, in Iacobum fratrem Domini, qui dicebatur Iustus, Hierosolimorum episcopum, immanitatem nequitiae suae vertunt eumque fidem Christi abnegare expetunt.   Statuunt itaque eum scribae et Pharisei supra pinnam templi et voce magna clamantes ad eum dicunt: 'Virorum iustissime, cui omnes obtemperare debemus, quoniam populus errat post Iesum, qui crucifixus est, enuntia nobis, quod sit ostium Iesu'.   At ille, dum libera voce intrepidaque mente Christum confitetur sedere in caelo a dextris summae virtutis, de pinna templi precipitatur illesusque manens fullonis vecte percussus martirio consummatur.   Is tantae sanctitatis ac iusticiae fuisse ab ipsis quoque Iudeis credebatur, ut ob eius necem Iosephus civitatem a Romanis postmodum destructam esse velit.   Hic civitatem Dei non solum factis informavit, sed et unam de VII epistolis, quae canonicae dicuntur, utilem valde et sale sapientiae conditam scripsit epistolam.   Aliorum enim apostolorum scripta preter Petri et Pauli, Iohannis p. 155 | et Iudae epistolas, Iohannis quoque et Mathei Evangelia in canone non habentur.   Iacobo successit Cleopae filius, qui in Evangelio memoratur Symeon.   Quem consobrinum Domini iuxta carnem fuisse Egesippus memorat.",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 300,
+        "value": "Chronica sive historia de duabus civitatibus ",
+        "order": "294.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 137,
+          "database_table_3499": 300
+        },
+        "value": "Otto, of Freising"
+      }
+    ],
     "source_passage": [],
     "mss_locus": [],
     "occurrence_ms": [],
@@ -58542,6 +58653,87 @@
     "order": "874.00000000000000000000",
     "passage": "",
     "jad_id": "jad_occurrence__937",
+    "language": null,
+    "position_in_work": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "incipit": "",
+    "manuscripts": [],
+    "ai_bibl_ref": []
+  },
+  "938": {
+    "id": 938,
+    "order": "875.00000000000000000000",
+    "passage": "",
+    "jad_id": "jad_occurrence__938",
+    "language": null,
+    "position_in_work": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "incipit": "",
+    "manuscripts": [],
+    "ai_bibl_ref": []
+  },
+  "939": {
+    "id": 939,
+    "order": "876.00000000000000000000",
+    "passage": "",
+    "jad_id": "jad_occurrence__939",
+    "language": null,
+    "position_in_work": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "incipit": "",
+    "manuscripts": [],
+    "ai_bibl_ref": []
+  },
+  "940": {
+    "id": 940,
+    "order": "877.00000000000000000000",
+    "passage": "",
+    "jad_id": "jad_occurrence__940",
     "language": null,
     "position_in_work": "",
     "text_paragraph": "",

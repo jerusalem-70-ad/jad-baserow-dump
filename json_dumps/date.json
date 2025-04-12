@@ -523,8 +523,8 @@
     "id": 66,
     "order": "65.00000000000000000000",
     "name": "late 4th cen.",
-    "not_before": null,
-    "not_after": null,
+    "not_before": "371",
+    "not_after": "400",
     "jad_id": "jad_date__66"
   },
   "67": {
@@ -542,5 +542,21 @@
     "not_before": "1001",
     "not_after": "1100",
     "jad_id": "jad_date__68"
+  },
+  "69": {
+    "id": 69,
+    "order": "68.00000000000000000000",
+    "name": "late 10th cen.",
+    "not_before": "971",
+    "not_after": "1000",
+    "jad_id": "jad_date__69"
+  },
+  "70": {
+    "id": 70,
+    "order": "69.00000000000000000000",
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__70"
   }
 }
