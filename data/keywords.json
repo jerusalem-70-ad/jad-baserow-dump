@@ -1339,10 +1339,6 @@
         "manuscripts": [],
         "ai_bibl_ref": [
           {
-            "id": 16,
-            "value": "John 19:15 (AI)"
-          },
-          {
             "id": 43,
             "value": "Psalm 78:49 (AI)"
           },
@@ -1357,10 +1353,6 @@
           {
             "id": 168,
             "value": "Psalms 34:7 (AI)"
-          },
-          {
-            "id": 169,
-            "value": "Psalms 78:49 (AI)"
           },
           {
             "id": 170,
@@ -3614,10 +3606,6 @@
         "manuscripts": [],
         "ai_bibl_ref": [
           {
-            "id": 16,
-            "value": "John 19:15 (AI)"
-          },
-          {
             "id": 43,
             "value": "Psalm 78:49 (AI)"
           },
@@ -3632,10 +3620,6 @@
           {
             "id": 168,
             "value": "Psalms 34:7 (AI)"
-          },
-          {
-            "id": 169,
-            "value": "Psalms 78:49 (AI)"
           },
           {
             "id": 170,
@@ -3939,10 +3923,6 @@
             "value": "Matthew 27:50-52 (AI)"
           },
           {
-            "id": 197,
-            "value": "Revelation 6:12 (AI)"
-          },
-          {
             "id": 198,
             "value": "Luke 21:22 (AI)"
           },
@@ -4076,14 +4056,6 @@
         "incipit": null,
         "manuscripts": [],
         "ai_bibl_ref": [
-          {
-            "id": 13,
-            "value": "Matthew 27:25 (AI)"
-          },
-          {
-            "id": 16,
-            "value": "John 19:15 (AI)"
-          },
           {
             "id": 147,
             "value": "Revelation 6:4 (AI)"
@@ -9484,10 +9456,6 @@
         "manuscripts": [],
         "ai_bibl_ref": [
           {
-            "id": 16,
-            "value": "John 19:15 (AI)"
-          },
-          {
             "id": 43,
             "value": "Psalm 78:49 (AI)"
           },
@@ -9502,10 +9470,6 @@
           {
             "id": 168,
             "value": "Psalms 34:7 (AI)"
-          },
-          {
-            "id": 169,
-            "value": "Psalms 78:49 (AI)"
           },
           {
             "id": 170,
@@ -12064,6 +12028,10 @@
           {
             "id": 180,
             "value": "Matthew 21:12-13 (AI)"
+          },
+          {
+            "id": 582,
+            "value": "Luke 21:20-24 (AI)"
           }
         ],
         "view_label": "destructio Hierosolymorum praedicitur, quia in hoc mense et prius a Nabuchodonosor et postmodum a Romanis in eodem mense facta legitur",
@@ -12336,7 +12304,12 @@
         "main_ms": [],
         "incipit": null,
         "manuscripts": [],
-        "ai_bibl_ref": [],
+        "ai_bibl_ref": [
+          {
+            "id": 79,
+            "value": "Luke 13:35 (AI)"
+          }
+        ],
         "view_label": "Venientibus Romanis et tollentibus ipsorum locum et gentem",
         "prev": {
           "id": "jad_occurrence__236",
@@ -14735,7 +14708,12 @@
             "value": "BNF, Latin 6755"
           }
         ],
-        "ai_bibl_ref": [],
+        "ai_bibl_ref": [
+          {
+            "id": 570,
+            "value": "Matthew 27:45-50 (AI)"
+          }
+        ],
         "view_label": "De Tyto et Vespasiano",
         "prev": {
           "id": "jad_occurrence__290",
@@ -15170,10 +15148,6 @@
         "incipit": null,
         "manuscripts": [],
         "ai_bibl_ref": [
-          {
-            "id": 26,
-            "value": "Luke 21:20 (AI)"
-          },
           {
             "id": 34,
             "value": "Acts 1:9 (AI)"
@@ -15676,20 +15650,12 @@
             "value": "Philippians 2:10 (AI)"
           },
           {
-            "id": 93,
-            "value": "Jeremiah 15:9 (AI)"
-          },
-          {
             "id": 94,
             "value": "John 19:32-33 (AI)"
           },
           {
             "id": 95,
             "value": "Exodus 12:46 (AI)"
-          },
-          {
-            "id": 96,
-            "value": "Isaiah 53:7 (AI)"
           },
           {
             "id": 101,
@@ -16945,7 +16911,12 @@
             "value": "BNF, Latin 6755"
           }
         ],
-        "ai_bibl_ref": [],
+        "ai_bibl_ref": [
+          {
+            "id": 570,
+            "value": "Matthew 27:45-50 (AI)"
+          }
+        ],
         "view_label": "De Tyto et Vespasiano",
         "prev": {
           "id": "jad_occurrence__290",
@@ -17076,6 +17047,14 @@
           {
             "id": 81,
             "value": "John 11:48 (AI)"
+          },
+          {
+            "id": 576,
+            "value": "Amos 8:8 (AI)"
+          },
+          {
+            "id": 577,
+            "value": "Amos 9:5 (AI)"
           }
         ],
         "view_label": "venturis Romanis ad obsidendum Hierusalem",
@@ -20938,7 +20917,24 @@
         "main_ms": [],
         "incipit": null,
         "manuscripts": [],
-        "ai_bibl_ref": [],
+        "ai_bibl_ref": [
+          {
+            "id": 564,
+            "value": "2 Kings (AI)"
+          },
+          {
+            "id": 565,
+            "value": "2 Chronicles (AI)"
+          },
+          {
+            "id": 566,
+            "value": "Isaiah 9:20-21 (AI)"
+          },
+          {
+            "id": 567,
+            "value": "Isaiah 9:19-20 (AI)"
+          }
+        ],
         "view_label": "legamus miserabile Hierosolymorum excidium, et inveniemus circumfuso Romano exercitu",
         "prev": {
           "id": "jad_occurrence__341",
@@ -22115,10 +22111,6 @@
             "value": "Revelation 19:15 (AI)"
           },
           {
-            "id": 217,
-            "value": "Isaiah 5:2, 4 (AI)"
-          },
-          {
             "id": 218,
             "value": "Deuteronomy 32:32 (AI)"
           },
@@ -23250,7 +23242,16 @@
         "main_ms": [],
         "incipit": null,
         "manuscripts": [],
-        "ai_bibl_ref": [],
+        "ai_bibl_ref": [
+          {
+            "id": 635,
+            "value": "John 19:24 (AI)"
+          },
+          {
+            "id": 636,
+            "value": "Isaiah 5:25 (AI)"
+          }
+        ],
         "view_label": "Hoc accidisse Judaeis post passionem Domini sub Vespasiano et Adriano",
         "prev": {
           "id": "jad_occurrence__445",
@@ -25323,10 +25324,6 @@
             "value": "Matthew 27:25 (AI)"
           },
           {
-            "id": 29,
-            "value": "Mark 13:2 (AI)"
-          },
-          {
             "id": 253,
             "value": "Isaiah 1:14 (AI)"
           }
@@ -26569,7 +26566,12 @@
             "value": "BNF, Latin 6755"
           }
         ],
-        "ai_bibl_ref": [],
+        "ai_bibl_ref": [
+          {
+            "id": 570,
+            "value": "Matthew 27:45-50 (AI)"
+          }
+        ],
         "view_label": "De Tyto et Vespasiano",
         "prev": {
           "id": "jad_occurrence__290",
@@ -26861,7 +26863,12 @@
             "value": "BNF, Latin 6755"
           }
         ],
-        "ai_bibl_ref": [],
+        "ai_bibl_ref": [
+          {
+            "id": 570,
+            "value": "Matthew 27:45-50 (AI)"
+          }
+        ],
         "view_label": "De Tyto et Vespasiano",
         "prev": {
           "id": "jad_occurrence__290",
@@ -27459,7 +27466,12 @@
             "value": "BNF, Latin 6755"
           }
         ],
-        "ai_bibl_ref": [],
+        "ai_bibl_ref": [
+          {
+            "id": 570,
+            "value": "Matthew 27:45-50 (AI)"
+          }
+        ],
         "view_label": "De Tyto et Vespasiano",
         "prev": {
           "id": "jad_occurrence__290",
