@@ -34,3 +34,4 @@ for x in tqdm(items, total=len(items)):
     except KeyError:
         pass
     update = br_client.patch_row(current_table, ent_id, payload)
+    print(update)
