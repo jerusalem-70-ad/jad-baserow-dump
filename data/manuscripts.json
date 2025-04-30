@@ -4,14 +4,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 14426"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 14426"
       }
     ],
     "jad_id": "jad_manuscript__2",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -21,6 +21,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -56,14 +62,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 14426",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 14426",
     "prev": {
       "id": "jad_manuscript__19",
-      "label": "BNF, Latin 3567"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3567"
     },
     "next": {
       "id": "jad_manuscript__20",
-      "label": "BNF, Latin 3570"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3570"
     }
   },
   "3": {
@@ -71,14 +77,14 @@
     "name": [
       {
         "id": 3,
-        "value": "San Isidoro, MS 11"
+        "value": "[{\"id\": 2, \"value\": \"León, San Isidoro\"}], MS 11"
       }
     ],
     "jad_id": "jad_manuscript__3",
     "library": [
       {
         "id": 3,
-        "name": "San Isidoro",
+        "name (From undo)": "San Isidoro",
         "jad_id": "jad_library__3",
         "gnd_url": "https://d-nb.info/gnd/4366218-3",
         "full_name": "San Isidoro (Kloster)",
@@ -88,6 +94,12 @@
             "name": "León",
             "geonames_url": "https://www.geonames.org/3118532/leon.html",
             "jad_id": "jad_places__2"
+          }
+        ],
+        "name": [
+          {
+            "id": 2,
+            "value": "León, San Isidoro"
           }
         ]
       }
@@ -123,14 +135,14 @@
         "value": "San Isidoro (Kloster)"
       }
     ],
-    "view_label": "San Isidoro, MS 11",
+    "view_label": "[{\"id\": 2, \"value\": \"León, San Isidoro\"}], MS 11",
     "prev": {
       "id": "jad_manuscript__29",
-      "label": "BNF, Latin 3728"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3728"
     },
     "next": {
       "id": "jad_manuscript__30",
-      "label": "BNF, Latin 14937"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 14937"
     }
   },
   "4": {
@@ -138,14 +150,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 8865"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 8865"
       }
     ],
     "jad_id": "jad_manuscript__4",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -155,6 +167,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -171,14 +189,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 8865",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 8865",
     "prev": {
       "id": "jad_manuscript__39",
-      "label": "Erlangen, UB, 63/1"
+      "label": "[], 63/1"
     },
     "next": {
       "id": "jad_manuscript__40",
-      "label": "Erlangen, UB, 63/2"
+      "label": "[], 63/2"
     }
   },
   "5": {
@@ -186,14 +204,14 @@
     "name": [
       {
         "id": 4,
-        "value": "St. Gen., MS 1423"
+        "value": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 1423"
       }
     ],
     "jad_id": "jad_manuscript__5",
     "library": [
       {
         "id": 4,
-        "name": "St. Gen.",
+        "name (From undo)": "St. Gen.",
         "jad_id": "jad_library__4",
         "gnd_url": "https://d-nb.info/gnd/1022123-2",
         "full_name": "Bibliothèque Sainte-Geneviève",
@@ -203,6 +221,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, St. Gen."
           }
         ]
       }
@@ -238,14 +262,14 @@
         "value": "Bibliothèque Sainte-Geneviève"
       }
     ],
-    "view_label": "St. Gen., MS 1423",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 1423",
     "prev": {
       "id": "jad_manuscript__49",
-      "label": "Trinity Coll., B.14.43"
+      "label": "[{\"id\": 7, \"value\": \"Cambridge, Trinity Coll.\"}], B.14.43"
     },
     "next": {
       "id": "jad_manuscript__50",
-      "label": "Lam., MS 71"
+      "label": "[{\"id\": 5, \"value\": \"London, Lam.\"}], MS 71"
     }
   },
   "6": {
@@ -253,14 +277,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 492"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 492"
       }
     ],
     "jad_id": "jad_manuscript__6",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -270,6 +294,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -305,14 +335,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 492",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 492",
     "prev": {
       "id": "jad_manuscript__59",
-      "label": "BNF, Latin 8919"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 8919"
     },
     "next": {
       "id": "jad_manuscript__60",
-      "label": "Lyon, MS 628"
+      "label": "[], MS 628"
     }
   },
   "7": {
@@ -320,14 +350,14 @@
     "name": [
       {
         "id": 5,
-        "value": "Maz., MS 177"
+        "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 177"
       }
     ],
     "jad_id": "jad_manuscript__7",
     "library": [
       {
         "id": 5,
-        "name": "Maz.",
+        "name (From undo)": "Maz.",
         "jad_id": "jad_library__5",
         "gnd_url": "https://d-nb.info/gnd/803245-2",
         "full_name": "Bibliothèque Mazarine",
@@ -337,6 +367,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, Maz."
           }
         ]
       }
@@ -372,14 +408,14 @@
         "value": "Bibliothèque Mazarine"
       }
     ],
-    "view_label": "Maz., MS 177",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 177",
     "prev": {
       "id": "jad_manuscript__69",
-      "label": "BNF, Latin 3338"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3338"
     },
     "next": {
       "id": "jad_manuscript__70",
-      "label": "BNF, Latin 6755"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 6755"
     }
   },
   "8": {
@@ -387,14 +423,14 @@
     "name": [
       {
         "id": 4,
-        "value": "St. Gen., MS 1422"
+        "value": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 1422"
       }
     ],
     "jad_id": "jad_manuscript__8",
     "library": [
       {
         "id": 4,
-        "name": "St. Gen.",
+        "name (From undo)": "St. Gen.",
         "jad_id": "jad_library__4",
         "gnd_url": "https://d-nb.info/gnd/1022123-2",
         "full_name": "Bibliothèque Sainte-Geneviève",
@@ -404,6 +440,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, St. Gen."
           }
         ]
       }
@@ -425,14 +467,14 @@
         "value": "Bibliothèque Sainte-Geneviève"
       }
     ],
-    "view_label": "St. Gen., MS 1422",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 1422",
     "prev": {
       "id": "jad_manuscript__79",
-      "label": "BSB, Clm 5531"
+      "label": "[{\"id\": 3, \"value\": \"Munich, BSB\"}], Clm 5531"
     },
     "next": {
       "id": "jad_manuscript__80",
-      "label": "Admont, Cod. 73"
+      "label": "[], Cod. 73"
     }
   },
   "9": {
@@ -440,14 +482,14 @@
     "name": [
       {
         "id": 6,
-        "value": "Lam., MS 144"
+        "value": "[{\"id\": 5, \"value\": \"London, Lam.\"}], MS 144"
       }
     ],
     "jad_id": "jad_manuscript__9",
     "library": [
       {
         "id": 6,
-        "name": "Lam.",
+        "name (From undo)": "Lam.",
         "jad_id": "jad_library__6",
         "gnd_url": "https://d-nb.info/gnd/16441-0",
         "full_name": "Lambeth Palace Library",
@@ -457,6 +499,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, Lam."
           }
         ]
       }
@@ -489,14 +537,14 @@
         "value": "Lambeth Palace Library"
       }
     ],
-    "view_label": "Lam., MS 144",
+    "view_label": "[{\"id\": 5, \"value\": \"London, Lam.\"}], MS 144",
     "prev": {
       "id": "jad_manuscript__85",
-      "label": "BL, Harley 3026"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Harley 3026"
     },
     "next": {
       "id": "jad_manuscript__10",
-      "label": "BNF, Latin 446"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 446"
     }
   },
   "10": {
@@ -504,14 +552,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 446"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 446"
       }
     ],
     "jad_id": "jad_manuscript__10",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -521,6 +569,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -542,14 +596,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 446",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 446",
     "prev": {
       "id": "jad_manuscript__9",
-      "label": "Lam., MS 144"
+      "label": "[{\"id\": 5, \"value\": \"London, Lam.\"}], MS 144"
     },
     "next": {
       "id": "jad_manuscript__11",
-      "label": "BNF, Latin 3737"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3737"
     }
   },
   "11": {
@@ -557,14 +611,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 3737"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3737"
       }
     ],
     "jad_id": "jad_manuscript__11",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -574,6 +628,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -595,14 +655,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 3737",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3737",
     "prev": {
       "id": "jad_manuscript__10",
-      "label": "BNF, Latin 446"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 446"
     },
     "next": {
       "id": "jad_manuscript__12",
-      "label": "St. Gen., MS 2787"
+      "label": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 2787"
     }
   },
   "12": {
@@ -610,14 +670,14 @@
     "name": [
       {
         "id": 4,
-        "value": "St. Gen., MS 2787"
+        "value": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 2787"
       }
     ],
     "jad_id": "jad_manuscript__12",
     "library": [
       {
         "id": 4,
-        "name": "St. Gen.",
+        "name (From undo)": "St. Gen.",
         "jad_id": "jad_library__4",
         "gnd_url": "https://d-nb.info/gnd/1022123-2",
         "full_name": "Bibliothèque Sainte-Geneviève",
@@ -627,6 +687,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, St. Gen."
           }
         ]
       }
@@ -662,14 +728,14 @@
         "value": "Bibliothèque Sainte-Geneviève"
       }
     ],
-    "view_label": "St. Gen., MS 2787",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 2787",
     "prev": {
       "id": "jad_manuscript__11",
-      "label": "BNF, Latin 3737"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3737"
     },
     "next": {
       "id": "jad_manuscript__13",
-      "label": "BL, Arundel 322"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 322"
     }
   },
   "13": {
@@ -677,14 +743,14 @@
     "name": [
       {
         "id": 7,
-        "value": "BL, Arundel 322"
+        "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 322"
       }
     ],
     "jad_id": "jad_manuscript__13",
     "library": [
       {
         "id": 7,
-        "name": "BL",
+        "name (From undo)": "BL",
         "jad_id": "jad_library__7",
         "gnd_url": "https://d-nb.info/gnd/1023420-2",
         "full_name": "British Library",
@@ -694,6 +760,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, BL"
           }
         ]
       }
@@ -710,14 +782,14 @@
         "value": "British Library"
       }
     ],
-    "view_label": "BL, Arundel 322",
+    "view_label": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 322",
     "prev": {
       "id": "jad_manuscript__12",
-      "label": "St. Gen., MS 2787"
+      "label": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 2787"
     },
     "next": {
       "id": "jad_manuscript__14",
-      "label": "BL, Royal 8 F XVII"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 8 F XVII"
     }
   },
   "14": {
@@ -725,14 +797,14 @@
     "name": [
       {
         "id": 7,
-        "value": "BL, Royal 8 F XVII"
+        "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 8 F XVII"
       }
     ],
     "jad_id": "jad_manuscript__14",
     "library": [
       {
         "id": 7,
-        "name": "BL",
+        "name (From undo)": "BL",
         "jad_id": "jad_library__7",
         "gnd_url": "https://d-nb.info/gnd/1023420-2",
         "full_name": "British Library",
@@ -742,6 +814,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, BL"
           }
         ]
       }
@@ -758,14 +836,14 @@
         "value": "British Library"
       }
     ],
-    "view_label": "BL, Royal 8 F XVII",
+    "view_label": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 8 F XVII",
     "prev": {
       "id": "jad_manuscript__13",
-      "label": "BL, Arundel 322"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 322"
     },
     "next": {
       "id": "jad_manuscript__15",
-      "label": "BNF, Latin 620"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 620"
     }
   },
   "15": {
@@ -773,14 +851,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 620"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 620"
       }
     ],
     "jad_id": "jad_manuscript__15",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -790,6 +868,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -825,14 +909,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 620",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 620",
     "prev": {
       "id": "jad_manuscript__14",
-      "label": "BL, Royal 8 F XVII"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 8 F XVII"
     },
     "next": {
       "id": "jad_manuscript__16",
-      "label": "ÖNB, Cod. 1014"
+      "label": "[{\"id\": 4, \"value\": \"Vienna, ÖNB\"}], Cod. 1014"
     }
   },
   "16": {
@@ -840,14 +924,14 @@
     "name": [
       {
         "id": 1,
-        "value": "ÖNB, Cod. 1014"
+        "value": "[{\"id\": 4, \"value\": \"Vienna, ÖNB\"}], Cod. 1014"
       }
     ],
     "jad_id": "jad_manuscript__16",
     "library": [
       {
         "id": 1,
-        "name": "ÖNB",
+        "name (From undo)": "ÖNB",
         "jad_id": "jad_library__1",
         "gnd_url": "https://d-nb.info/gnd/2020893-5",
         "full_name": "Österreichische Nationalbibliothek",
@@ -857,6 +941,12 @@
             "name": "Vienna",
             "geonames_url": "https://www.geonames.org/2761369/vienna.html",
             "jad_id": "jad_places__4"
+          }
+        ],
+        "name": [
+          {
+            "id": 4,
+            "value": "Vienna, ÖNB"
           }
         ]
       }
@@ -892,14 +982,14 @@
         "value": "Österreichische Nationalbibliothek"
       }
     ],
-    "view_label": "ÖNB, Cod. 1014",
+    "view_label": "[{\"id\": 4, \"value\": \"Vienna, ÖNB\"}], Cod. 1014",
     "prev": {
       "id": "jad_manuscript__15",
-      "label": "BNF, Latin 620"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 620"
     },
     "next": {
       "id": "jad_manuscript__17",
-      "label": "Cambr. St.John's Coll., MS 127"
+      "label": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. St.John's Coll.\"}], MS 127"
     }
   },
   "17": {
@@ -907,14 +997,14 @@
     "name": [
       {
         "id": 8,
-        "value": "Cambr. St.John's Coll., MS 127"
+        "value": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. St.John's Coll.\"}], MS 127"
       }
     ],
     "jad_id": "jad_manuscript__17",
     "library": [
       {
         "id": 8,
-        "name": "Cambr. St.John's Coll.",
+        "name (From undo)": "Cambr. St.John's Coll.",
         "jad_id": "jad_library__8",
         "gnd_url": "https://d-nb.info/gnd/18387-8",
         "full_name": "St John's College (Cambridge)",
@@ -924,6 +1014,12 @@
             "name": "Cambridge",
             "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
             "jad_id": "jad_places__7"
+          }
+        ],
+        "name": [
+          {
+            "id": 7,
+            "value": "Cambridge, Cambr. St.John's Coll."
           }
         ]
       }
@@ -945,14 +1041,14 @@
         "value": "St John's College (Cambridge)"
       }
     ],
-    "view_label": "Cambr. St.John's Coll., MS 127",
+    "view_label": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. St.John's Coll.\"}], MS 127",
     "prev": {
       "id": "jad_manuscript__16",
-      "label": "ÖNB, Cod. 1014"
+      "label": "[{\"id\": 4, \"value\": \"Vienna, ÖNB\"}], Cod. 1014"
     },
     "next": {
       "id": "jad_manuscript__18",
-      "label": "BNF, Latin 3829"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3829"
     }
   },
   "18": {
@@ -960,14 +1056,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 3829"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3829"
       }
     ],
     "jad_id": "jad_manuscript__18",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -977,6 +1073,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -998,14 +1100,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 3829",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3829",
     "prev": {
       "id": "jad_manuscript__17",
-      "label": "Cambr. St.John's Coll., MS 127"
+      "label": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. St.John's Coll.\"}], MS 127"
     },
     "next": {
       "id": "jad_manuscript__19",
-      "label": "BNF, Latin 3567"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3567"
     }
   },
   "19": {
@@ -1013,14 +1115,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 3567"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3567"
       }
     ],
     "jad_id": "jad_manuscript__19",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -1030,6 +1132,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -1046,14 +1154,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 3567",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3567",
     "prev": {
       "id": "jad_manuscript__18",
-      "label": "BNF, Latin 3829"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3829"
     },
     "next": {
       "id": "jad_manuscript__2",
-      "label": "BNF, Latin 14426"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 14426"
     }
   },
   "20": {
@@ -1061,14 +1169,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 3570"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3570"
       }
     ],
     "jad_id": "jad_manuscript__20",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -1078,6 +1186,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -1118,14 +1232,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 3570",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3570",
     "prev": {
       "id": "jad_manuscript__2",
-      "label": "BNF, Latin 14426"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 14426"
     },
     "next": {
       "id": "jad_manuscript__21",
-      "label": "BNF, Latin 3281"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3281"
     }
   },
   "21": {
@@ -1133,14 +1247,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 3281"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3281"
       }
     ],
     "jad_id": "jad_manuscript__21",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -1150,6 +1264,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -1185,14 +1305,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 3281",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3281",
     "prev": {
       "id": "jad_manuscript__20",
-      "label": "BNF, Latin 3570"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3570"
     },
     "next": {
       "id": "jad_manuscript__22",
-      "label": "Troyes, MS 653"
+      "label": "[{\"id\": 9, \"value\": \"Troyes, Troyes\"}], MS 653"
     }
   },
   "22": {
@@ -1200,14 +1320,14 @@
     "name": [
       {
         "id": 9,
-        "value": "Troyes, MS 653"
+        "value": "[{\"id\": 9, \"value\": \"Troyes, Troyes\"}], MS 653"
       }
     ],
     "jad_id": "jad_manuscript__22",
     "library": [
       {
         "id": 9,
-        "name": "Troyes",
+        "name (From undo)": "Troyes",
         "jad_id": "jad_library__9",
         "gnd_url": "https://d-nb.info/gnd/1026092-4",
         "full_name": "Bibliothèque municipale (Troyes)",
@@ -1217,6 +1337,12 @@
             "name": "Troyes",
             "geonames_url": "https://www.geonames.org/2971549/troyes.html",
             "jad_id": "jad_places__9"
+          }
+        ],
+        "name": [
+          {
+            "id": 9,
+            "value": "Troyes, Troyes"
           }
         ]
       }
@@ -1233,14 +1359,14 @@
         "value": "Bibliothèque municipale (Troyes)"
       }
     ],
-    "view_label": "Troyes, MS 653",
+    "view_label": "[{\"id\": 9, \"value\": \"Troyes, Troyes\"}], MS 653",
     "prev": {
       "id": "jad_manuscript__21",
-      "label": "BNF, Latin 3281"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3281"
     },
     "next": {
       "id": "jad_manuscript__23",
-      "label": "Maz., MS 178"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 178"
     }
   },
   "23": {
@@ -1248,14 +1374,14 @@
     "name": [
       {
         "id": 5,
-        "value": "Maz., MS 178"
+        "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 178"
       }
     ],
     "jad_id": "jad_manuscript__23",
     "library": [
       {
         "id": 5,
-        "name": "Maz.",
+        "name (From undo)": "Maz.",
         "jad_id": "jad_library__5",
         "gnd_url": "https://d-nb.info/gnd/803245-2",
         "full_name": "Bibliothèque Mazarine",
@@ -1265,6 +1391,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, Maz."
           }
         ]
       }
@@ -1300,14 +1432,14 @@
         "value": "Bibliothèque Mazarine"
       }
     ],
-    "view_label": "Maz., MS 178",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 178",
     "prev": {
       "id": "jad_manuscript__22",
-      "label": "Troyes, MS 653"
+      "label": "[{\"id\": 9, \"value\": \"Troyes, Troyes\"}], MS 653"
     },
     "next": {
       "id": "jad_manuscript__24",
-      "label": "Maz., MS 999"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 999"
     }
   },
   "24": {
@@ -1315,14 +1447,14 @@
     "name": [
       {
         "id": 5,
-        "value": "Maz., MS 999"
+        "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 999"
       }
     ],
     "jad_id": "jad_manuscript__24",
     "library": [
       {
         "id": 5,
-        "name": "Maz.",
+        "name (From undo)": "Maz.",
         "jad_id": "jad_library__5",
         "gnd_url": "https://d-nb.info/gnd/803245-2",
         "full_name": "Bibliothèque Mazarine",
@@ -1332,6 +1464,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, Maz."
           }
         ]
       }
@@ -1367,14 +1505,14 @@
         "value": "Bibliothèque Mazarine"
       }
     ],
-    "view_label": "Maz., MS 999",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 999",
     "prev": {
       "id": "jad_manuscript__23",
-      "label": "Maz., MS 178"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 178"
     },
     "next": {
       "id": "jad_manuscript__25",
-      "label": "BNF, Latin 3301C"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3301C"
     }
   },
   "25": {
@@ -1382,14 +1520,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 3301C"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3301C"
       }
     ],
     "jad_id": "jad_manuscript__25",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -1399,6 +1537,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -1434,14 +1578,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 3301C",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3301C",
     "prev": {
       "id": "jad_manuscript__24",
-      "label": "Maz., MS 999"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 999"
     },
     "next": {
       "id": "jad_manuscript__26",
-      "label": "BNF, Latin 3733"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3733"
     }
   },
   "26": {
@@ -1449,14 +1593,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 3733"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3733"
       }
     ],
     "jad_id": "jad_manuscript__26",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -1466,6 +1610,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -1487,14 +1637,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 3733",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3733",
     "prev": {
       "id": "jad_manuscript__25",
-      "label": "BNF, Latin 3301C"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3301C"
     },
     "next": {
       "id": "jad_manuscript__27",
-      "label": "Maz., MS 774"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 774"
     }
   },
   "27": {
@@ -1502,14 +1652,14 @@
     "name": [
       {
         "id": 5,
-        "value": "Maz., MS 774"
+        "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 774"
       }
     ],
     "jad_id": "jad_manuscript__27",
     "library": [
       {
         "id": 5,
-        "name": "Maz.",
+        "name (From undo)": "Maz.",
         "jad_id": "jad_library__5",
         "gnd_url": "https://d-nb.info/gnd/803245-2",
         "full_name": "Bibliothèque Mazarine",
@@ -1519,6 +1669,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, Maz."
           }
         ]
       }
@@ -1540,14 +1696,14 @@
         "value": "Bibliothèque Mazarine"
       }
     ],
-    "view_label": "Maz., MS 774",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 774",
     "prev": {
       "id": "jad_manuscript__26",
-      "label": "BNF, Latin 3733"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3733"
     },
     "next": {
       "id": "jad_manuscript__28",
-      "label": "Maz., Ms 1026"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], Ms 1026"
     }
   },
   "28": {
@@ -1555,14 +1711,14 @@
     "name": [
       {
         "id": 5,
-        "value": "Maz., Ms 1026"
+        "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], Ms 1026"
       }
     ],
     "jad_id": "jad_manuscript__28",
     "library": [
       {
         "id": 5,
-        "name": "Maz.",
+        "name (From undo)": "Maz.",
         "jad_id": "jad_library__5",
         "gnd_url": "https://d-nb.info/gnd/803245-2",
         "full_name": "Bibliothèque Mazarine",
@@ -1572,6 +1728,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, Maz."
           }
         ]
       }
@@ -1588,14 +1750,14 @@
         "value": "Bibliothèque Mazarine"
       }
     ],
-    "view_label": "Maz., Ms 1026",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], Ms 1026",
     "prev": {
       "id": "jad_manuscript__27",
-      "label": "Maz., MS 774"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 774"
     },
     "next": {
       "id": "jad_manuscript__29",
-      "label": "BNF, Latin 3728"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3728"
     }
   },
   "29": {
@@ -1603,14 +1765,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 3728"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3728"
       }
     ],
     "jad_id": "jad_manuscript__29",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -1620,6 +1782,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -1641,14 +1809,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 3728",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3728",
     "prev": {
       "id": "jad_manuscript__28",
-      "label": "Maz., Ms 1026"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], Ms 1026"
     },
     "next": {
       "id": "jad_manuscript__3",
-      "label": "San Isidoro, MS 11"
+      "label": "[{\"id\": 2, \"value\": \"León, San Isidoro\"}], MS 11"
     }
   },
   "30": {
@@ -1656,14 +1824,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 14937"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 14937"
       }
     ],
     "jad_id": "jad_manuscript__30",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -1673,6 +1841,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -1708,14 +1882,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 14937",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 14937",
     "prev": {
       "id": "jad_manuscript__3",
-      "label": "San Isidoro, MS 11"
+      "label": "[{\"id\": 2, \"value\": \"León, San Isidoro\"}], MS 11"
     },
     "next": {
       "id": "jad_manuscript__31",
-      "label": "BNF, Latin 2950"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2950"
     }
   },
   "31": {
@@ -1723,14 +1897,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 2950"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2950"
       }
     ],
     "jad_id": "jad_manuscript__31",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -1740,6 +1914,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -1770,14 +1950,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 2950",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2950",
     "prev": {
       "id": "jad_manuscript__30",
-      "label": "BNF, Latin 14937"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 14937"
     },
     "next": {
       "id": "jad_manuscript__32",
-      "label": "Arsenal, MS 44"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Arsenal\"}], MS 44"
     }
   },
   "32": {
@@ -1785,14 +1965,14 @@
     "name": [
       {
         "id": 13,
-        "value": "Arsenal, MS 44"
+        "value": "[{\"id\": 1, \"value\": \"Paris, Arsenal\"}], MS 44"
       }
     ],
     "jad_id": "jad_manuscript__32",
     "library": [
       {
         "id": 13,
-        "name": "Arsenal",
+        "name (From undo)": "Arsenal",
         "jad_id": "jad_library__13",
         "gnd_url": "https://d-nb.info/gnd/1056486-X",
         "full_name": "Bibliothèque de l'Arsenal",
@@ -1802,6 +1982,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, Arsenal"
           }
         ]
       }
@@ -1823,14 +2009,14 @@
         "value": "Bibliothèque de l'Arsenal"
       }
     ],
-    "view_label": "Arsenal, MS 44",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, Arsenal\"}], MS 44",
     "prev": {
       "id": "jad_manuscript__31",
-      "label": "BNF, Latin 2950"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2950"
     },
     "next": {
       "id": "jad_manuscript__33",
-      "label": "Arsenal, MS 400"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Arsenal\"}], MS 400"
     }
   },
   "33": {
@@ -1838,14 +2024,14 @@
     "name": [
       {
         "id": 13,
-        "value": "Arsenal, MS 400"
+        "value": "[{\"id\": 1, \"value\": \"Paris, Arsenal\"}], MS 400"
       }
     ],
     "jad_id": "jad_manuscript__33",
     "library": [
       {
         "id": 13,
-        "name": "Arsenal",
+        "name (From undo)": "Arsenal",
         "jad_id": "jad_library__13",
         "gnd_url": "https://d-nb.info/gnd/1056486-X",
         "full_name": "Bibliothèque de l'Arsenal",
@@ -1855,6 +2041,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, Arsenal"
           }
         ]
       }
@@ -1876,14 +2068,14 @@
         "value": "Bibliothèque de l'Arsenal"
       }
     ],
-    "view_label": "Arsenal, MS 400",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, Arsenal\"}], MS 400",
     "prev": {
       "id": "jad_manuscript__32",
-      "label": "Arsenal, MS 44"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Arsenal\"}], MS 44"
     },
     "next": {
       "id": "jad_manuscript__34",
-      "label": "Maz., MS 698"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 698"
     }
   },
   "34": {
@@ -1891,14 +2083,14 @@
     "name": [
       {
         "id": 5,
-        "value": "Maz., MS 698"
+        "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 698"
       }
     ],
     "jad_id": "jad_manuscript__34",
     "library": [
       {
         "id": 5,
-        "name": "Maz.",
+        "name (From undo)": "Maz.",
         "jad_id": "jad_library__5",
         "gnd_url": "https://d-nb.info/gnd/803245-2",
         "full_name": "Bibliothèque Mazarine",
@@ -1908,6 +2100,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, Maz."
           }
         ]
       }
@@ -1943,14 +2141,14 @@
         "value": "Bibliothèque Mazarine"
       }
     ],
-    "view_label": "Maz., MS 698",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 698",
     "prev": {
       "id": "jad_manuscript__33",
-      "label": "Arsenal, MS 400"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Arsenal\"}], MS 400"
     },
     "next": {
       "id": "jad_manuscript__35",
-      "label": "Maz., MS 1001"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 1001"
     }
   },
   "35": {
@@ -1958,14 +2156,14 @@
     "name": [
       {
         "id": 5,
-        "value": "Maz., MS 1001"
+        "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 1001"
       }
     ],
     "jad_id": "jad_manuscript__35",
     "library": [
       {
         "id": 5,
-        "name": "Maz.",
+        "name (From undo)": "Maz.",
         "jad_id": "jad_library__5",
         "gnd_url": "https://d-nb.info/gnd/803245-2",
         "full_name": "Bibliothèque Mazarine",
@@ -1975,6 +2173,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, Maz."
           }
         ]
       }
@@ -1996,14 +2200,14 @@
         "value": "Bibliothèque Mazarine"
       }
     ],
-    "view_label": "Maz., MS 1001",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 1001",
     "prev": {
       "id": "jad_manuscript__34",
-      "label": "Maz., MS 698"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 698"
     },
     "next": {
       "id": "jad_manuscript__36",
-      "label": "Valenciennes, MS 227"
+      "label": "[], MS 227"
     }
   },
   "36": {
@@ -2011,18 +2215,19 @@
     "name": [
       {
         "id": 15,
-        "value": "Valenciennes, MS 227"
+        "value": "[], MS 227"
       }
     ],
     "jad_id": "jad_manuscript__36",
     "library": [
       {
         "id": 15,
-        "name": "Valenciennes",
+        "name (From undo)": "Valenciennes",
         "jad_id": "jad_library__15",
         "gnd_url": "https://d-nb.info/gnd/1052474-5",
         "full_name": "Bibliothèque municipale (Valenciennes)",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "MS 227",
@@ -2042,14 +2247,14 @@
         "value": "Bibliothèque municipale (Valenciennes)"
       }
     ],
-    "view_label": "Valenciennes, MS 227",
+    "view_label": "[], MS 227",
     "prev": {
       "id": "jad_manuscript__35",
-      "label": "Maz., MS 1001"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 1001"
     },
     "next": {
       "id": "jad_manuscript__37",
-      "label": "BSB, Clm 3721"
+      "label": "[{\"id\": 3, \"value\": \"Munich, BSB\"}], Clm 3721"
     }
   },
   "37": {
@@ -2057,14 +2262,14 @@
     "name": [
       {
         "id": 12,
-        "value": "BSB, Clm 3721"
+        "value": "[{\"id\": 3, \"value\": \"Munich, BSB\"}], Clm 3721"
       }
     ],
     "jad_id": "jad_manuscript__37",
     "library": [
       {
         "id": 12,
-        "name": "BSB",
+        "name (From undo)": "BSB",
         "jad_id": "jad_library__12",
         "gnd_url": "https://d-nb.info/gnd/2031351-2",
         "full_name": "Bayrische Staatsbibliothek",
@@ -2074,6 +2279,12 @@
             "name": "Munich",
             "geonames_url": "https://www.geonames.org/2867714/munich.html",
             "jad_id": "jad_places__3"
+          }
+        ],
+        "name": [
+          {
+            "id": 3,
+            "value": "Munich, BSB"
           }
         ]
       }
@@ -2095,14 +2306,14 @@
         "value": "Bayrische Staatsbibliothek"
       }
     ],
-    "view_label": "BSB, Clm 3721",
+    "view_label": "[{\"id\": 3, \"value\": \"Munich, BSB\"}], Clm 3721",
     "prev": {
       "id": "jad_manuscript__36",
-      "label": "Valenciennes, MS 227"
+      "label": "[], MS 227"
     },
     "next": {
       "id": "jad_manuscript__38",
-      "label": "Jena, UB, El. f. 32"
+      "label": "[{\"id\": 10, \"value\": \"Jena, Jena, UB\"}], El. f. 32"
     }
   },
   "38": {
@@ -2110,14 +2321,14 @@
     "name": [
       {
         "id": 16,
-        "value": "Jena, UB, El. f. 32"
+        "value": "[{\"id\": 10, \"value\": \"Jena, Jena, UB\"}], El. f. 32"
       }
     ],
     "jad_id": "jad_manuscript__38",
     "library": [
       {
         "id": 16,
-        "name": "Jena, UB",
+        "name (From undo)": "Jena, UB",
         "jad_id": "jad_library__16",
         "gnd_url": "https://d-nb.info/gnd/38230-9",
         "full_name": "Thüringer Universitäts- und Landesbibliothek Jena",
@@ -2127,6 +2338,12 @@
             "name": "Jena",
             "geonames_url": "https://www.geonames.org/2895044/jena.html",
             "jad_id": "jad_places__10"
+          }
+        ],
+        "name": [
+          {
+            "id": 10,
+            "value": "Jena, Jena, UB"
           }
         ]
       }
@@ -2143,14 +2360,14 @@
         "value": "Thüringer Universitäts- und Landesbibliothek Jena"
       }
     ],
-    "view_label": "Jena, UB, El. f. 32",
+    "view_label": "[{\"id\": 10, \"value\": \"Jena, Jena, UB\"}], El. f. 32",
     "prev": {
       "id": "jad_manuscript__37",
-      "label": "BSB, Clm 3721"
+      "label": "[{\"id\": 3, \"value\": \"Munich, BSB\"}], Clm 3721"
     },
     "next": {
       "id": "jad_manuscript__39",
-      "label": "Erlangen, UB, 63/1"
+      "label": "[], 63/1"
     }
   },
   "39": {
@@ -2158,18 +2375,19 @@
     "name": [
       {
         "id": 17,
-        "value": "Erlangen, UB, 63/1"
+        "value": "[], 63/1"
       }
     ],
     "jad_id": "jad_manuscript__39",
     "library": [
       {
         "id": 17,
-        "name": "Erlangen, UB",
+        "name (From undo)": "Erlangen, UB",
         "jad_id": "jad_library__17",
         "gnd_url": "https://d-nb.info/gnd/2024993-7",
         "full_name": "Universitätsbibliothek Erlangen-Nürnberg",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "63/1",
@@ -2184,14 +2402,14 @@
         "value": "Universitätsbibliothek Erlangen-Nürnberg"
       }
     ],
-    "view_label": "Erlangen, UB, 63/1",
+    "view_label": "[], 63/1",
     "prev": {
       "id": "jad_manuscript__38",
-      "label": "Jena, UB, El. f. 32"
+      "label": "[{\"id\": 10, \"value\": \"Jena, Jena, UB\"}], El. f. 32"
     },
     "next": {
       "id": "jad_manuscript__4",
-      "label": "BNF, Latin 8865"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 8865"
     }
   },
   "40": {
@@ -2199,18 +2417,19 @@
     "name": [
       {
         "id": 17,
-        "value": "Erlangen, UB, 63/2"
+        "value": "[], 63/2"
       }
     ],
     "jad_id": "jad_manuscript__40",
     "library": [
       {
         "id": 17,
-        "name": "Erlangen, UB",
+        "name (From undo)": "Erlangen, UB",
         "jad_id": "jad_library__17",
         "gnd_url": "https://d-nb.info/gnd/2024993-7",
         "full_name": "Universitätsbibliothek Erlangen-Nürnberg",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "63/2",
@@ -2225,14 +2444,14 @@
         "value": "Universitätsbibliothek Erlangen-Nürnberg"
       }
     ],
-    "view_label": "Erlangen, UB, 63/2",
+    "view_label": "[], 63/2",
     "prev": {
       "id": "jad_manuscript__4",
-      "label": "BNF, Latin 8865"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 8865"
     },
     "next": {
       "id": "jad_manuscript__41",
-      "label": "Göttweig, MS 149"
+      "label": "[], MS 149"
     }
   },
   "41": {
@@ -2240,18 +2459,19 @@
     "name": [
       {
         "id": 18,
-        "value": "Göttweig, MS 149"
+        "value": "[], MS 149"
       }
     ],
     "jad_id": "jad_manuscript__41",
     "library": [
       {
         "id": 18,
-        "name": "Göttweig",
+        "name (From undo)": "Göttweig",
         "jad_id": "jad_library__18",
         "gnd_url": "https://d-nb.info/gnd/2103432-1",
         "full_name": "Stift Göttweig",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "MS 149",
@@ -2271,14 +2491,14 @@
         "value": "Stift Göttweig"
       }
     ],
-    "view_label": "Göttweig, MS 149",
+    "view_label": "[], MS 149",
     "prev": {
       "id": "jad_manuscript__40",
-      "label": "Erlangen, UB, 63/2"
+      "label": "[], 63/2"
     },
     "next": {
       "id": "jad_manuscript__42",
-      "label": "Bodl., Laud Misc. 88"
+      "label": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Laud Misc. 88"
     }
   },
   "42": {
@@ -2286,14 +2506,14 @@
     "name": [
       {
         "id": 10,
-        "value": "Bodl., Laud Misc. 88"
+        "value": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Laud Misc. 88"
       }
     ],
     "jad_id": "jad_manuscript__42",
     "library": [
       {
         "id": 10,
-        "name": "Bodl.",
+        "name (From undo)": "Bodl.",
         "jad_id": "jad_library__10",
         "gnd_url": "https://d-nb.info/gnd/38352-1",
         "full_name": "Bodleian Library",
@@ -2303,6 +2523,12 @@
             "name": "Oxford",
             "geonames_url": "https://www.geonames.org/2640729/oxford.html",
             "jad_id": "jad_places__6"
+          }
+        ],
+        "name": [
+          {
+            "id": 6,
+            "value": "Oxford, Bodl."
           }
         ]
       }
@@ -2331,14 +2557,14 @@
         "value": "Bodleian Library"
       }
     ],
-    "view_label": "Bodl., Laud Misc. 88",
+    "view_label": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Laud Misc. 88",
     "prev": {
       "id": "jad_manuscript__41",
-      "label": "Göttweig, MS 149"
+      "label": "[], MS 149"
     },
     "next": {
       "id": "jad_manuscript__43",
-      "label": "ÖNB, MS 363"
+      "label": "[{\"id\": 4, \"value\": \"Vienna, ÖNB\"}], MS 363"
     }
   },
   "43": {
@@ -2346,14 +2572,14 @@
     "name": [
       {
         "id": 1,
-        "value": "ÖNB, MS 363"
+        "value": "[{\"id\": 4, \"value\": \"Vienna, ÖNB\"}], MS 363"
       }
     ],
     "jad_id": "jad_manuscript__43",
     "library": [
       {
         "id": 1,
-        "name": "ÖNB",
+        "name (From undo)": "ÖNB",
         "jad_id": "jad_library__1",
         "gnd_url": "https://d-nb.info/gnd/2020893-5",
         "full_name": "Österreichische Nationalbibliothek",
@@ -2363,6 +2589,12 @@
             "name": "Vienna",
             "geonames_url": "https://www.geonames.org/2761369/vienna.html",
             "jad_id": "jad_places__4"
+          }
+        ],
+        "name": [
+          {
+            "id": 4,
+            "value": "Vienna, ÖNB"
           }
         ]
       }
@@ -2398,14 +2630,14 @@
         "value": "Österreichische Nationalbibliothek"
       }
     ],
-    "view_label": "ÖNB, MS 363",
+    "view_label": "[{\"id\": 4, \"value\": \"Vienna, ÖNB\"}], MS 363",
     "prev": {
       "id": "jad_manuscript__42",
-      "label": "Bodl., Laud Misc. 88"
+      "label": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Laud Misc. 88"
     },
     "next": {
       "id": "jad_manuscript__44",
-      "label": "Frankfurt, Barth. 56"
+      "label": "[], Barth. 56"
     }
   },
   "44": {
@@ -2413,18 +2645,19 @@
     "name": [
       {
         "id": 19,
-        "value": "Frankfurt, Barth. 56"
+        "value": "[], Barth. 56"
       }
     ],
     "jad_id": "jad_manuscript__44",
     "library": [
       {
         "id": 19,
-        "name": "Frankfurt",
+        "name (From undo)": "Frankfurt",
         "jad_id": "jad_library__19",
         "gnd_url": "https://d-nb.info/gnd/1086213467",
         "full_name": "Frankfurt, Universitatsbibliothek",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "Barth. 56",
@@ -2444,14 +2677,14 @@
         "value": "Frankfurt, Universitatsbibliothek"
       }
     ],
-    "view_label": "Frankfurt, Barth. 56",
+    "view_label": "[], Barth. 56",
     "prev": {
       "id": "jad_manuscript__43",
-      "label": "ÖNB, MS 363"
+      "label": "[{\"id\": 4, \"value\": \"Vienna, ÖNB\"}], MS 363"
     },
     "next": {
       "id": "jad_manuscript__45",
-      "label": "Sankt-Florian, MS XI 216"
+      "label": "[], MS XI 216"
     }
   },
   "45": {
@@ -2459,18 +2692,19 @@
     "name": [
       {
         "id": 20,
-        "value": "Sankt-Florian, MS XI 216"
+        "value": "[], MS XI 216"
       }
     ],
     "jad_id": "jad_manuscript__45",
     "library": [
       {
         "id": 20,
-        "name": "Sankt-Florian",
+        "name (From undo)": "Sankt-Florian",
         "jad_id": "jad_library__20",
         "gnd_url": "https://d-nb.info/gnd/2067369-3",
         "full_name": "Sankt-Florian, Stiftsbibliothek",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "MS XI 216",
@@ -2490,14 +2724,14 @@
         "value": "Sankt-Florian, Stiftsbibliothek"
       }
     ],
-    "view_label": "Sankt-Florian, MS XI 216",
+    "view_label": "[], MS XI 216",
     "prev": {
       "id": "jad_manuscript__44",
-      "label": "Frankfurt, Barth. 56"
+      "label": "[], Barth. 56"
     },
     "next": {
       "id": "jad_manuscript__46",
-      "label": "Linz, MS 488"
+      "label": "[], MS 488"
     }
   },
   "46": {
@@ -2505,18 +2739,19 @@
     "name": [
       {
         "id": 21,
-        "value": "Linz, MS 488"
+        "value": "[], MS 488"
       }
     ],
     "jad_id": "jad_manuscript__46",
     "library": [
       {
         "id": 21,
-        "name": "Linz",
+        "name (From undo)": "Linz",
         "jad_id": "jad_library__21",
         "gnd_url": "https://d-nb.info/gnd/4372903-4",
         "full_name": "Linz, Oberösterreichische Landesbibliothek",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "MS 488",
@@ -2536,14 +2771,14 @@
         "value": "Linz, Oberösterreichische Landesbibliothek"
       }
     ],
-    "view_label": "Linz, MS 488",
+    "view_label": "[], MS 488",
     "prev": {
       "id": "jad_manuscript__45",
-      "label": "Sankt-Florian, MS XI 216"
+      "label": "[], MS XI 216"
     },
     "next": {
       "id": "jad_manuscript__47",
-      "label": "Hamburg, Jacobi 21"
+      "label": "[], Jacobi 21"
     }
   },
   "47": {
@@ -2551,18 +2786,19 @@
     "name": [
       {
         "id": 22,
-        "value": "Hamburg, Jacobi 21"
+        "value": "[], Jacobi 21"
       }
     ],
     "jad_id": "jad_manuscript__47",
     "library": [
       {
         "id": 22,
-        "name": "Hamburg",
+        "name (From undo)": "Hamburg",
         "jad_id": "jad_library__22",
         "gnd_url": "https://d-nb.info/gnd/2022508-8",
         "full_name": "Hamburg, Stadt- und Universitatsbibliothek",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "Jacobi 21",
@@ -2582,14 +2818,14 @@
         "value": "Hamburg, Stadt- und Universitatsbibliothek"
       }
     ],
-    "view_label": "Hamburg, Jacobi 21",
+    "view_label": "[], Jacobi 21",
     "prev": {
       "id": "jad_manuscript__46",
-      "label": "Linz, MS 488"
+      "label": "[], MS 488"
     },
     "next": {
       "id": "jad_manuscript__48",
-      "label": "Bodl., Hatton 37"
+      "label": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Hatton 37"
     }
   },
   "48": {
@@ -2597,14 +2833,14 @@
     "name": [
       {
         "id": 10,
-        "value": "Bodl., Hatton 37"
+        "value": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Hatton 37"
       }
     ],
     "jad_id": "jad_manuscript__48",
     "library": [
       {
         "id": 10,
-        "name": "Bodl.",
+        "name (From undo)": "Bodl.",
         "jad_id": "jad_library__10",
         "gnd_url": "https://d-nb.info/gnd/38352-1",
         "full_name": "Bodleian Library",
@@ -2614,6 +2850,12 @@
             "name": "Oxford",
             "geonames_url": "https://www.geonames.org/2640729/oxford.html",
             "jad_id": "jad_places__6"
+          }
+        ],
+        "name": [
+          {
+            "id": 6,
+            "value": "Oxford, Bodl."
           }
         ]
       }
@@ -2635,14 +2877,14 @@
         "value": "Bodleian Library"
       }
     ],
-    "view_label": "Bodl., Hatton 37",
+    "view_label": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Hatton 37",
     "prev": {
       "id": "jad_manuscript__47",
-      "label": "Hamburg, Jacobi 21"
+      "label": "[], Jacobi 21"
     },
     "next": {
       "id": "jad_manuscript__49",
-      "label": "Trinity Coll., B.14.43"
+      "label": "[{\"id\": 7, \"value\": \"Cambridge, Trinity Coll.\"}], B.14.43"
     }
   },
   "49": {
@@ -2650,14 +2892,14 @@
     "name": [
       {
         "id": 23,
-        "value": "Trinity Coll., B.14.43"
+        "value": "[{\"id\": 7, \"value\": \"Cambridge, Trinity Coll.\"}], B.14.43"
       }
     ],
     "jad_id": "jad_manuscript__49",
     "library": [
       {
         "id": 23,
-        "name": "Trinity Coll.",
+        "name (From undo)": "Trinity Coll.",
         "jad_id": "jad_library__23",
         "gnd_url": "https://d-nb.info/gnd/5214151-2",
         "full_name": "Trinity College",
@@ -2667,6 +2909,12 @@
             "name": "Cambridge",
             "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
             "jad_id": "jad_places__7"
+          }
+        ],
+        "name": [
+          {
+            "id": 7,
+            "value": "Cambridge, Trinity Coll."
           }
         ]
       }
@@ -2688,14 +2936,14 @@
         "value": "Trinity College"
       }
     ],
-    "view_label": "Trinity Coll., B.14.43",
+    "view_label": "[{\"id\": 7, \"value\": \"Cambridge, Trinity Coll.\"}], B.14.43",
     "prev": {
       "id": "jad_manuscript__48",
-      "label": "Bodl., Hatton 37"
+      "label": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Hatton 37"
     },
     "next": {
       "id": "jad_manuscript__5",
-      "label": "St. Gen., MS 1423"
+      "label": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 1423"
     }
   },
   "50": {
@@ -2703,14 +2951,14 @@
     "name": [
       {
         "id": 6,
-        "value": "Lam., MS 71"
+        "value": "[{\"id\": 5, \"value\": \"London, Lam.\"}], MS 71"
       }
     ],
     "jad_id": "jad_manuscript__50",
     "library": [
       {
         "id": 6,
-        "name": "Lam.",
+        "name (From undo)": "Lam.",
         "jad_id": "jad_library__6",
         "gnd_url": "https://d-nb.info/gnd/16441-0",
         "full_name": "Lambeth Palace Library",
@@ -2720,6 +2968,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, Lam."
           }
         ]
       }
@@ -2741,14 +2995,14 @@
         "value": "Lambeth Palace Library"
       }
     ],
-    "view_label": "Lam., MS 71",
+    "view_label": "[{\"id\": 5, \"value\": \"London, Lam.\"}], MS 71",
     "prev": {
       "id": "jad_manuscript__5",
-      "label": "St. Gen., MS 1423"
+      "label": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 1423"
     },
     "next": {
       "id": "jad_manuscript__51",
-      "label": "BNF, Latin 494"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 494"
     }
   },
   "51": {
@@ -2756,14 +3010,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 494"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 494"
       }
     ],
     "jad_id": "jad_manuscript__51",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -2773,6 +3027,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -2808,14 +3068,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 494",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 494",
     "prev": {
       "id": "jad_manuscript__50",
-      "label": "Lam., MS 71"
+      "label": "[{\"id\": 5, \"value\": \"London, Lam.\"}], MS 71"
     },
     "next": {
       "id": "jad_manuscript__52",
-      "label": "BNF, Latin 2493"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2493"
     }
   },
   "52": {
@@ -2823,14 +3083,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 2493"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2493"
       }
     ],
     "jad_id": "jad_manuscript__52",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -2840,6 +3100,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -2861,14 +3127,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 2493",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2493",
     "prev": {
       "id": "jad_manuscript__51",
-      "label": "BNF, Latin 494"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 494"
     },
     "next": {
       "id": "jad_manuscript__53",
-      "label": "St. Gallen, Cod. Sang. 280"
+      "label": "[], Cod. Sang. 280"
     }
   },
   "53": {
@@ -2876,18 +3142,19 @@
     "name": [
       {
         "id": 25,
-        "value": "St. Gallen, Cod. Sang. 280"
+        "value": "[], Cod. Sang. 280"
       }
     ],
     "jad_id": "jad_manuscript__53",
     "library": [
       {
         "id": 25,
-        "name": "St. Gallen",
+        "name (From undo)": "St. Gallen",
         "jad_id": "jad_library__25",
         "gnd_url": "https://d-nb.info/gnd/2089619-0",
         "full_name": "Stiftsbibliothek St. Gallen",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "Cod. Sang. 280",
@@ -2907,14 +3174,14 @@
         "value": "Stiftsbibliothek St. Gallen"
       }
     ],
-    "view_label": "St. Gallen, Cod. Sang. 280",
+    "view_label": "[], Cod. Sang. 280",
     "prev": {
       "id": "jad_manuscript__52",
-      "label": "BNF, Latin 2493"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2493"
     },
     "next": {
       "id": "jad_manuscript__54",
-      "label": "Bern, Cod. 344"
+      "label": "[], Cod. 344"
     }
   },
   "54": {
@@ -2922,18 +3189,19 @@
     "name": [
       {
         "id": 26,
-        "value": "Bern, Cod. 344"
+        "value": "[], Cod. 344"
       }
     ],
     "jad_id": "jad_manuscript__54",
     "library": [
       {
         "id": 26,
-        "name": "Bern",
+        "name (From undo)": "Bern",
         "jad_id": "jad_library__26",
         "gnd_url": "https://d-nb.info/gnd/2006797-5",
         "full_name": "Bern, Burgerbibliothek",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "Cod. 344",
@@ -2953,14 +3221,14 @@
         "value": "Bern, Burgerbibliothek"
       }
     ],
-    "view_label": "Bern, Cod. 344",
+    "view_label": "[], Cod. 344",
     "prev": {
       "id": "jad_manuscript__53",
-      "label": "St. Gallen, Cod. Sang. 280"
+      "label": "[], Cod. Sang. 280"
     },
     "next": {
       "id": "jad_manuscript__55",
-      "label": "St. Gallen, Cod. Sang. 565"
+      "label": "[], Cod. Sang. 565"
     }
   },
   "55": {
@@ -2968,18 +3236,19 @@
     "name": [
       {
         "id": 25,
-        "value": "St. Gallen, Cod. Sang. 565"
+        "value": "[], Cod. Sang. 565"
       }
     ],
     "jad_id": "jad_manuscript__55",
     "library": [
       {
         "id": 25,
-        "name": "St. Gallen",
+        "name (From undo)": "St. Gallen",
         "jad_id": "jad_library__25",
         "gnd_url": "https://d-nb.info/gnd/2089619-0",
         "full_name": "Stiftsbibliothek St. Gallen",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "Cod. Sang. 565",
@@ -3013,14 +3282,14 @@
         "value": "Stiftsbibliothek St. Gallen"
       }
     ],
-    "view_label": "St. Gallen, Cod. Sang. 565",
+    "view_label": "[], Cod. Sang. 565",
     "prev": {
       "id": "jad_manuscript__54",
-      "label": "Bern, Cod. 344"
+      "label": "[], Cod. 344"
     },
     "next": {
       "id": "jad_manuscript__56",
-      "label": "Karlsruhe, Aug. perg. 208"
+      "label": "[], Aug. perg. 208"
     }
   },
   "56": {
@@ -3028,18 +3297,19 @@
     "name": [
       {
         "id": 27,
-        "value": "Karlsruhe, Aug. perg. 208"
+        "value": "[], Aug. perg. 208"
       }
     ],
     "jad_id": "jad_manuscript__56",
     "library": [
       {
         "id": 27,
-        "name": "Karlsruhe",
+        "name (From undo)": "Karlsruhe",
         "jad_id": "jad_library__27",
         "gnd_url": "https://d-nb.info/gnd/2005707-6",
         "full_name": "Karlsruhe, Badische Landesbibliothek",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "Aug. perg. 208",
@@ -3059,14 +3329,14 @@
         "value": "Karlsruhe, Badische Landesbibliothek"
       }
     ],
-    "view_label": "Karlsruhe, Aug. perg. 208",
+    "view_label": "[], Aug. perg. 208",
     "prev": {
       "id": "jad_manuscript__55",
-      "label": "St. Gallen, Cod. Sang. 565"
+      "label": "[], Cod. Sang. 565"
     },
     "next": {
       "id": "jad_manuscript__57",
-      "label": "Bern, Cod. 258"
+      "label": "[], Cod. 258"
     }
   },
   "57": {
@@ -3074,18 +3344,19 @@
     "name": [
       {
         "id": 26,
-        "value": "Bern, Cod. 258"
+        "value": "[], Cod. 258"
       }
     ],
     "jad_id": "jad_manuscript__57",
     "library": [
       {
         "id": 26,
-        "name": "Bern",
+        "name (From undo)": "Bern",
         "jad_id": "jad_library__26",
         "gnd_url": "https://d-nb.info/gnd/2006797-5",
         "full_name": "Bern, Burgerbibliothek",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "Cod. 258",
@@ -3105,14 +3376,14 @@
         "value": "Bern, Burgerbibliothek"
       }
     ],
-    "view_label": "Bern, Cod. 258",
+    "view_label": "[], Cod. 258",
     "prev": {
       "id": "jad_manuscript__56",
-      "label": "Karlsruhe, Aug. perg. 208"
+      "label": "[], Aug. perg. 208"
     },
     "next": {
       "id": "jad_manuscript__58",
-      "label": "BNF, Baluze 380"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Baluze 380"
     }
   },
   "58": {
@@ -3120,14 +3391,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Baluze 380"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Baluze 380"
       }
     ],
     "jad_id": "jad_manuscript__58",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -3137,6 +3408,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -3158,14 +3435,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Baluze 380",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Baluze 380",
     "prev": {
       "id": "jad_manuscript__57",
-      "label": "Bern, Cod. 258"
+      "label": "[], Cod. 258"
     },
     "next": {
       "id": "jad_manuscript__59",
-      "label": "BNF, Latin 8919"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 8919"
     }
   },
   "59": {
@@ -3173,14 +3450,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 8919"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 8919"
       }
     ],
     "jad_id": "jad_manuscript__59",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -3190,6 +3467,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -3211,14 +3494,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 8919",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 8919",
     "prev": {
       "id": "jad_manuscript__58",
-      "label": "BNF, Baluze 380"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Baluze 380"
     },
     "next": {
       "id": "jad_manuscript__6",
-      "label": "BNF, Latin 492"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 492"
     }
   },
   "60": {
@@ -3226,18 +3509,19 @@
     "name": [
       {
         "id": 28,
-        "value": "Lyon, MS 628"
+        "value": "[], MS 628"
       }
     ],
     "jad_id": "jad_manuscript__60",
     "library": [
       {
         "id": 28,
-        "name": "Lyon",
+        "name (From undo)": "Lyon",
         "jad_id": "jad_library__28",
         "gnd_url": "https://d-nb.info/gnd/671818-8",
         "full_name": "Lyon, Bibliothèque Municipale",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "MS 628",
@@ -3257,14 +3541,14 @@
         "value": "Lyon, Bibliothèque Municipale"
       }
     ],
-    "view_label": "Lyon, MS 628",
+    "view_label": "[], MS 628",
     "prev": {
       "id": "jad_manuscript__6",
-      "label": "BNF, Latin 492"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 492"
     },
     "next": {
       "id": "jad_manuscript__61",
-      "label": "Autun, MS 7"
+      "label": "[], MS 7"
     }
   },
   "61": {
@@ -3272,18 +3556,19 @@
     "name": [
       {
         "id": 29,
-        "value": "Autun, MS 7"
+        "value": "[], MS 7"
       }
     ],
     "jad_id": "jad_manuscript__61",
     "library": [
       {
         "id": 29,
-        "name": "Autun",
+        "name (From undo)": "Autun",
         "jad_id": "jad_library__29",
         "gnd_url": "https://d-nb.info/gnd/1084635-9",
         "full_name": "Autun, Bibliothèque Municipale",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "MS 7",
@@ -3303,14 +3588,14 @@
         "value": "Autun, Bibliothèque Municipale"
       }
     ],
-    "view_label": "Autun, MS 7",
+    "view_label": "[], MS 7",
     "prev": {
       "id": "jad_manuscript__60",
-      "label": "Lyon, MS 628"
+      "label": "[], MS 628"
     },
     "next": {
       "id": "jad_manuscript__62",
-      "label": "BNF, Latin 2451"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2451"
     }
   },
   "62": {
@@ -3318,14 +3603,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 2451"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2451"
       }
     ],
     "jad_id": "jad_manuscript__62",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -3335,6 +3620,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -3356,14 +3647,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 2451",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2451",
     "prev": {
       "id": "jad_manuscript__61",
-      "label": "Autun, MS 7"
+      "label": "[], MS 7"
     },
     "next": {
       "id": "jad_manuscript__63",
-      "label": "Pembroke Coll., MS 30"
+      "label": "[{\"id\": 7, \"value\": \"Cambridge, Pembroke Coll.\"}], MS 30"
     }
   },
   "63": {
@@ -3371,14 +3662,14 @@
     "name": [
       {
         "id": 30,
-        "value": "Pembroke Coll., MS 30"
+        "value": "[{\"id\": 7, \"value\": \"Cambridge, Pembroke Coll.\"}], MS 30"
       }
     ],
     "jad_id": "jad_manuscript__63",
     "library": [
       {
         "id": 30,
-        "name": "Pembroke Coll.",
+        "name (From undo)": "Pembroke Coll.",
         "jad_id": "jad_library__30",
         "gnd_url": "https://d-nb.info/gnd/1220253-8",
         "full_name": "Cambridge, Pembroke College",
@@ -3388,6 +3679,12 @@
             "name": "Cambridge",
             "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
             "jad_id": "jad_places__7"
+          }
+        ],
+        "name": [
+          {
+            "id": 7,
+            "value": "Cambridge, Pembroke Coll."
           }
         ]
       }
@@ -3409,14 +3706,14 @@
         "value": "Cambridge, Pembroke College"
       }
     ],
-    "view_label": "Pembroke Coll., MS 30",
+    "view_label": "[{\"id\": 7, \"value\": \"Cambridge, Pembroke Coll.\"}], MS 30",
     "prev": {
       "id": "jad_manuscript__62",
-      "label": "BNF, Latin 2451"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2451"
     },
     "next": {
       "id": "jad_manuscript__64",
-      "label": "BNF, Latin 5327"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 5327"
     }
   },
   "64": {
@@ -3424,14 +3721,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 5327"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 5327"
       }
     ],
     "jad_id": "jad_manuscript__64",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -3441,6 +3738,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -3462,14 +3765,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 5327",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 5327",
     "prev": {
       "id": "jad_manuscript__63",
-      "label": "Pembroke Coll., MS 30"
+      "label": "[{\"id\": 7, \"value\": \"Cambridge, Pembroke Coll.\"}], MS 30"
     },
     "next": {
       "id": "jad_manuscript__65",
-      "label": "Saint-Omer, MS 202"
+      "label": "[], MS 202"
     }
   },
   "65": {
@@ -3477,18 +3780,19 @@
     "name": [
       {
         "id": 31,
-        "value": "Saint-Omer, MS 202"
+        "value": "[], MS 202"
       }
     ],
     "jad_id": "jad_manuscript__65",
     "library": [
       {
         "id": 31,
-        "name": "Saint-Omer",
+        "name (From undo)": "Saint-Omer",
         "jad_id": "jad_library__31",
         "gnd_url": "https://d-nb.info/gnd/411822-4",
         "full_name": "Bibliothèque Municipale (Saint-Omer)",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "MS 202",
@@ -3508,14 +3812,14 @@
         "value": "Bibliothèque Municipale (Saint-Omer)"
       }
     ],
-    "view_label": "Saint-Omer, MS 202",
+    "view_label": "[], MS 202",
     "prev": {
       "id": "jad_manuscript__64",
-      "label": "BNF, Latin 5327"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 5327"
     },
     "next": {
       "id": "jad_manuscript__66",
-      "label": "Rouen, MS 1426"
+      "label": "[], MS 1426"
     }
   },
   "66": {
@@ -3523,18 +3827,19 @@
     "name": [
       {
         "id": 32,
-        "value": "Rouen, MS 1426"
+        "value": "[], MS 1426"
       }
     ],
     "jad_id": "jad_manuscript__66",
     "library": [
       {
         "id": 32,
-        "name": "Rouen",
+        "name (From undo)": "Rouen",
         "jad_id": "jad_library__32",
         "gnd_url": "https://d-nb.info/gnd/1032332-6",
         "full_name": "Bibliothèque Municipale (Rouen)",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "MS 1426",
@@ -3554,14 +3859,14 @@
         "value": "Bibliothèque Municipale (Rouen)"
       }
     ],
-    "view_label": "Rouen, MS 1426",
+    "view_label": "[], MS 1426",
     "prev": {
       "id": "jad_manuscript__65",
-      "label": "Saint-Omer, MS 202"
+      "label": "[], MS 202"
     },
     "next": {
       "id": "jad_manuscript__67",
-      "label": "BL, Royal 2 D VI"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 2 D VI"
     }
   },
   "67": {
@@ -3569,14 +3874,14 @@
     "name": [
       {
         "id": 7,
-        "value": "BL, Royal 2 D VI"
+        "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 2 D VI"
       }
     ],
     "jad_id": "jad_manuscript__67",
     "library": [
       {
         "id": 7,
-        "name": "BL",
+        "name (From undo)": "BL",
         "jad_id": "jad_library__7",
         "gnd_url": "https://d-nb.info/gnd/1023420-2",
         "full_name": "British Library",
@@ -3586,6 +3891,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, BL"
           }
         ]
       }
@@ -3607,14 +3918,14 @@
         "value": "British Library"
       }
     ],
-    "view_label": "BL, Royal 2 D VI",
+    "view_label": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 2 D VI",
     "prev": {
       "id": "jad_manuscript__66",
-      "label": "Rouen, MS 1426"
+      "label": "[], MS 1426"
     },
     "next": {
       "id": "jad_manuscript__68",
-      "label": "BL, Royal 10 C V"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 10 C V"
     }
   },
   "68": {
@@ -3622,14 +3933,14 @@
     "name": [
       {
         "id": 7,
-        "value": "BL, Royal 10 C V"
+        "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 10 C V"
       }
     ],
     "jad_id": "jad_manuscript__68",
     "library": [
       {
         "id": 7,
-        "name": "BL",
+        "name (From undo)": "BL",
         "jad_id": "jad_library__7",
         "gnd_url": "https://d-nb.info/gnd/1023420-2",
         "full_name": "British Library",
@@ -3639,6 +3950,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, BL"
           }
         ]
       }
@@ -3660,14 +3977,14 @@
         "value": "British Library"
       }
     ],
-    "view_label": "BL, Royal 10 C V",
+    "view_label": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 10 C V",
     "prev": {
       "id": "jad_manuscript__67",
-      "label": "BL, Royal 2 D VI"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 2 D VI"
     },
     "next": {
       "id": "jad_manuscript__69",
-      "label": "BNF, Latin 3338"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3338"
     }
   },
   "69": {
@@ -3675,14 +3992,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 3338"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3338"
       }
     ],
     "jad_id": "jad_manuscript__69",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -3692,6 +4009,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -3713,14 +4036,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 3338",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3338",
     "prev": {
       "id": "jad_manuscript__68",
-      "label": "BL, Royal 10 C V"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 10 C V"
     },
     "next": {
       "id": "jad_manuscript__7",
-      "label": "Maz., MS 177"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 177"
     }
   },
   "70": {
@@ -3728,14 +4051,14 @@
     "name": [
       {
         "id": 2,
-        "value": "BNF, Latin 6755"
+        "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 6755"
       }
     ],
     "jad_id": "jad_manuscript__70",
     "library": [
       {
         "id": 2,
-        "name": "BNF",
+        "name (From undo)": "BNF",
         "jad_id": "jad_library__2",
         "gnd_url": "https://d-nb.info/gnd/5156217-0",
         "full_name": "Bibliothèque Nationale de France",
@@ -3745,6 +4068,12 @@
             "name": "Paris",
             "geonames_url": "https://www.geonames.org/2988507/paris.html",
             "jad_id": "jad_places__1"
+          }
+        ],
+        "name": [
+          {
+            "id": 1,
+            "value": "Paris, BNF"
           }
         ]
       }
@@ -3766,14 +4095,14 @@
         "value": "Bibliothèque Nationale de France"
       }
     ],
-    "view_label": "BNF, Latin 6755",
+    "view_label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 6755",
     "prev": {
       "id": "jad_manuscript__7",
-      "label": "Maz., MS 177"
+      "label": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 177"
     },
     "next": {
       "id": "jad_manuscript__71",
-      "label": "Bodl., Rawlinson D 1236"
+      "label": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Rawlinson D 1236"
     }
   },
   "71": {
@@ -3781,14 +4110,14 @@
     "name": [
       {
         "id": 10,
-        "value": "Bodl., Rawlinson D 1236"
+        "value": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Rawlinson D 1236"
       }
     ],
     "jad_id": "jad_manuscript__71",
     "library": [
       {
         "id": 10,
-        "name": "Bodl.",
+        "name (From undo)": "Bodl.",
         "jad_id": "jad_library__10",
         "gnd_url": "https://d-nb.info/gnd/38352-1",
         "full_name": "Bodleian Library",
@@ -3798,6 +4127,12 @@
             "name": "Oxford",
             "geonames_url": "https://www.geonames.org/2640729/oxford.html",
             "jad_id": "jad_places__6"
+          }
+        ],
+        "name": [
+          {
+            "id": 6,
+            "value": "Oxford, Bodl."
           }
         ]
       }
@@ -3819,14 +4154,14 @@
         "value": "Bodleian Library"
       }
     ],
-    "view_label": "Bodl., Rawlinson D 1236",
+    "view_label": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Rawlinson D 1236",
     "prev": {
       "id": "jad_manuscript__70",
-      "label": "BNF, Latin 6755"
+      "label": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 6755"
     },
     "next": {
       "id": "jad_manuscript__72",
-      "label": "Cambr. Magd. Coll., F.4.15"
+      "label": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. Magd. Coll.\"}], F.4.15"
     }
   },
   "72": {
@@ -3834,14 +4169,14 @@
     "name": [
       {
         "id": 33,
-        "value": "Cambr. Magd. Coll., F.4.15"
+        "value": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. Magd. Coll.\"}], F.4.15"
       }
     ],
     "jad_id": "jad_manuscript__72",
     "library": [
       {
         "id": 33,
-        "name": "Cambr. Magd. Coll.",
+        "name (From undo)": "Cambr. Magd. Coll.",
         "jad_id": "jad_library__33",
         "gnd_url": "https://d-nb.info/gnd/1052776-X",
         "full_name": "Cambridge, Magdalene College",
@@ -3851,6 +4186,12 @@
             "name": "Cambridge",
             "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
             "jad_id": "jad_places__7"
+          }
+        ],
+        "name": [
+          {
+            "id": 7,
+            "value": "Cambridge, Cambr. Magd. Coll."
           }
         ]
       }
@@ -3872,14 +4213,14 @@
         "value": "Cambridge, Magdalene College"
       }
     ],
-    "view_label": "Cambr. Magd. Coll., F.4.15",
+    "view_label": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. Magd. Coll.\"}], F.4.15",
     "prev": {
       "id": "jad_manuscript__71",
-      "label": "Bodl., Rawlinson D 1236"
+      "label": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Rawlinson D 1236"
     },
     "next": {
       "id": "jad_manuscript__73",
-      "label": "Cambr. Univ. Libr., Ii.VI.44"
+      "label": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. Univ. Libr.\"}], Ii.VI.44"
     }
   },
   "73": {
@@ -3887,14 +4228,14 @@
     "name": [
       {
         "id": 34,
-        "value": "Cambr. Univ. Libr., Ii.VI.44"
+        "value": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. Univ. Libr.\"}], Ii.VI.44"
       }
     ],
     "jad_id": "jad_manuscript__73",
     "library": [
       {
         "id": 34,
-        "name": "Cambr. Univ. Libr.",
+        "name (From undo)": "Cambr. Univ. Libr.",
         "jad_id": "jad_library__34",
         "gnd_url": "https://d-nb.info/gnd/1010752-6",
         "full_name": "Cambridge University Library",
@@ -3904,6 +4245,12 @@
             "name": "Cambridge",
             "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
             "jad_id": "jad_places__7"
+          }
+        ],
+        "name": [
+          {
+            "id": 7,
+            "value": "Cambridge, Cambr. Univ. Libr."
           }
         ]
       }
@@ -3925,14 +4272,14 @@
         "value": "Cambridge University Library"
       }
     ],
-    "view_label": "Cambr. Univ. Libr., Ii.VI.44",
+    "view_label": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. Univ. Libr.\"}], Ii.VI.44",
     "prev": {
       "id": "jad_manuscript__72",
-      "label": "Cambr. Magd. Coll., F.4.15"
+      "label": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. Magd. Coll.\"}], F.4.15"
     },
     "next": {
       "id": "jad_manuscript__74",
-      "label": "Cambr. Univ. Libr., Dd.IV.27"
+      "label": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. Univ. Libr.\"}], Dd.IV.27"
     }
   },
   "74": {
@@ -3940,14 +4287,14 @@
     "name": [
       {
         "id": 34,
-        "value": "Cambr. Univ. Libr., Dd.IV.27"
+        "value": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. Univ. Libr.\"}], Dd.IV.27"
       }
     ],
     "jad_id": "jad_manuscript__74",
     "library": [
       {
         "id": 34,
-        "name": "Cambr. Univ. Libr.",
+        "name (From undo)": "Cambr. Univ. Libr.",
         "jad_id": "jad_library__34",
         "gnd_url": "https://d-nb.info/gnd/1010752-6",
         "full_name": "Cambridge University Library",
@@ -3957,6 +4304,12 @@
             "name": "Cambridge",
             "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
             "jad_id": "jad_places__7"
+          }
+        ],
+        "name": [
+          {
+            "id": 7,
+            "value": "Cambridge, Cambr. Univ. Libr."
           }
         ]
       }
@@ -3978,14 +4331,14 @@
         "value": "Cambridge University Library"
       }
     ],
-    "view_label": "Cambr. Univ. Libr., Dd.IV.27",
+    "view_label": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. Univ. Libr.\"}], Dd.IV.27",
     "prev": {
       "id": "jad_manuscript__73",
-      "label": "Cambr. Univ. Libr., Ii.VI.44"
+      "label": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. Univ. Libr.\"}], Ii.VI.44"
     },
     "next": {
       "id": "jad_manuscript__75",
-      "label": "Berlin Staatsbibl., theol. lat. fol. 595"
+      "label": "[], theol. lat. fol. 595"
     }
   },
   "75": {
@@ -3993,18 +4346,19 @@
     "name": [
       {
         "id": 35,
-        "value": "Berlin Staatsbibl., theol. lat. fol. 595"
+        "value": "[], theol. lat. fol. 595"
       }
     ],
     "jad_id": "jad_manuscript__75",
     "library": [
       {
         "id": 35,
-        "name": "Berlin Staatsbibl.",
+        "name (From undo)": "Berlin Staatsbibl.",
         "jad_id": "jad_library__35",
         "gnd_url": "https://d-nb.info/gnd/2118116-0",
         "full_name": "Staatsbibliothek zu Berlin. Handschriftenabteilung",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "theol. lat. fol. 595",
@@ -4024,14 +4378,14 @@
         "value": "Staatsbibliothek zu Berlin. Handschriftenabteilung"
       }
     ],
-    "view_label": "Berlin Staatsbibl., theol. lat. fol. 595",
+    "view_label": "[], theol. lat. fol. 595",
     "prev": {
       "id": "jad_manuscript__74",
-      "label": "Cambr. Univ. Libr., Dd.IV.27"
+      "label": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. Univ. Libr.\"}], Dd.IV.27"
     },
     "next": {
       "id": "jad_manuscript__76",
-      "label": "BL, Add 18335"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Add 18335"
     }
   },
   "76": {
@@ -4039,14 +4393,14 @@
     "name": [
       {
         "id": 7,
-        "value": "BL, Add 18335"
+        "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Add 18335"
       }
     ],
     "jad_id": "jad_manuscript__76",
     "library": [
       {
         "id": 7,
-        "name": "BL",
+        "name (From undo)": "BL",
         "jad_id": "jad_library__7",
         "gnd_url": "https://d-nb.info/gnd/1023420-2",
         "full_name": "British Library",
@@ -4056,6 +4410,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, BL"
           }
         ]
       }
@@ -4077,14 +4437,14 @@
         "value": "British Library"
       }
     ],
-    "view_label": "BL, Add 18335",
+    "view_label": "[{\"id\": 5, \"value\": \"London, BL\"}], Add 18335",
     "prev": {
       "id": "jad_manuscript__75",
-      "label": "Berlin Staatsbibl., theol. lat. fol. 595"
+      "label": "[], theol. lat. fol. 595"
     },
     "next": {
       "id": "jad_manuscript__77",
-      "label": "BL, Royal 2 C XI"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 2 C XI"
     }
   },
   "77": {
@@ -4092,14 +4452,14 @@
     "name": [
       {
         "id": 7,
-        "value": "BL, Royal 2 C XI"
+        "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 2 C XI"
       }
     ],
     "jad_id": "jad_manuscript__77",
     "library": [
       {
         "id": 7,
-        "name": "BL",
+        "name (From undo)": "BL",
         "jad_id": "jad_library__7",
         "gnd_url": "https://d-nb.info/gnd/1023420-2",
         "full_name": "British Library",
@@ -4109,6 +4469,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, BL"
           }
         ]
       }
@@ -4130,14 +4496,14 @@
         "value": "British Library"
       }
     ],
-    "view_label": "BL, Royal 2 C XI",
+    "view_label": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 2 C XI",
     "prev": {
       "id": "jad_manuscript__76",
-      "label": "BL, Add 18335"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Add 18335"
     },
     "next": {
       "id": "jad_manuscript__78",
-      "label": "BL, Arundel 231/2"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 231/2"
     }
   },
   "78": {
@@ -4145,14 +4511,14 @@
     "name": [
       {
         "id": 7,
-        "value": "BL, Arundel 231/2"
+        "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 231/2"
       }
     ],
     "jad_id": "jad_manuscript__78",
     "library": [
       {
         "id": 7,
-        "name": "BL",
+        "name (From undo)": "BL",
         "jad_id": "jad_library__7",
         "gnd_url": "https://d-nb.info/gnd/1023420-2",
         "full_name": "British Library",
@@ -4162,6 +4528,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, BL"
           }
         ]
       }
@@ -4183,14 +4555,14 @@
         "value": "British Library"
       }
     ],
-    "view_label": "BL, Arundel 231/2",
+    "view_label": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 231/2",
     "prev": {
       "id": "jad_manuscript__77",
-      "label": "BL, Royal 2 C XI"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 2 C XI"
     },
     "next": {
       "id": "jad_manuscript__79",
-      "label": "BSB, Clm 5531"
+      "label": "[{\"id\": 3, \"value\": \"Munich, BSB\"}], Clm 5531"
     }
   },
   "79": {
@@ -4198,14 +4570,14 @@
     "name": [
       {
         "id": 12,
-        "value": "BSB, Clm 5531"
+        "value": "[{\"id\": 3, \"value\": \"Munich, BSB\"}], Clm 5531"
       }
     ],
     "jad_id": "jad_manuscript__79",
     "library": [
       {
         "id": 12,
-        "name": "BSB",
+        "name (From undo)": "BSB",
         "jad_id": "jad_library__12",
         "gnd_url": "https://d-nb.info/gnd/2031351-2",
         "full_name": "Bayrische Staatsbibliothek",
@@ -4215,6 +4587,12 @@
             "name": "Munich",
             "geonames_url": "https://www.geonames.org/2867714/munich.html",
             "jad_id": "jad_places__3"
+          }
+        ],
+        "name": [
+          {
+            "id": 3,
+            "value": "Munich, BSB"
           }
         ]
       }
@@ -4236,14 +4614,14 @@
         "value": "Bayrische Staatsbibliothek"
       }
     ],
-    "view_label": "BSB, Clm 5531",
+    "view_label": "[{\"id\": 3, \"value\": \"Munich, BSB\"}], Clm 5531",
     "prev": {
       "id": "jad_manuscript__78",
-      "label": "BL, Arundel 231/2"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 231/2"
     },
     "next": {
       "id": "jad_manuscript__8",
-      "label": "St. Gen., MS 1422"
+      "label": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 1422"
     }
   },
   "80": {
@@ -4251,18 +4629,19 @@
     "name": [
       {
         "id": 36,
-        "value": "Admont, Cod. 73"
+        "value": "[], Cod. 73"
       }
     ],
     "jad_id": "jad_manuscript__80",
     "library": [
       {
         "id": 36,
-        "name": "Admont",
+        "name (From undo)": "Admont",
         "jad_id": "jad_library__36",
         "gnd_url": "https://d-nb.info/gnd/1237868-9",
         "full_name": "Stiftsbibliothek Admont",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "Cod. 73",
@@ -4282,14 +4661,14 @@
         "value": "Stiftsbibliothek Admont"
       }
     ],
-    "view_label": "Admont, Cod. 73",
+    "view_label": "[], Cod. 73",
     "prev": {
       "id": "jad_manuscript__8",
-      "label": "St. Gen., MS 1422"
+      "label": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 1422"
     },
     "next": {
       "id": "jad_manuscript__81",
-      "label": "Bibl. Laurenziana, Plut.19.17"
+      "label": "[], Plut.19.17"
     }
   },
   "81": {
@@ -4297,18 +4676,19 @@
     "name": [
       {
         "id": 37,
-        "value": "Bibl. Laurenziana, Plut.19.17"
+        "value": "[], Plut.19.17"
       }
     ],
     "jad_id": "jad_manuscript__81",
     "library": [
       {
         "id": 37,
-        "name": "Bibl. Laurenziana",
+        "name (From undo)": "Bibl. Laurenziana",
         "jad_id": "jad_library__37",
         "gnd_url": "https://d-nb.info/gnd/1019149-5",
         "full_name": "Biblioteca Medicea Laurenziana",
-        "place": []
+        "place": [],
+        "name": []
       }
     ],
     "idno": "Plut.19.17",
@@ -4328,14 +4708,14 @@
         "value": "Biblioteca Medicea Laurenziana"
       }
     ],
-    "view_label": "Bibl. Laurenziana, Plut.19.17",
+    "view_label": "[], Plut.19.17",
     "prev": {
       "id": "jad_manuscript__80",
-      "label": "Admont, Cod. 73"
+      "label": "[], Cod. 73"
     },
     "next": {
       "id": "jad_manuscript__82",
-      "label": "BL, Arundel 235"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 235"
     }
   },
   "82": {
@@ -4343,14 +4723,14 @@
     "name": [
       {
         "id": 7,
-        "value": "BL, Arundel 235"
+        "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 235"
       }
     ],
     "jad_id": "jad_manuscript__82",
     "library": [
       {
         "id": 7,
-        "name": "BL",
+        "name (From undo)": "BL",
         "jad_id": "jad_library__7",
         "gnd_url": "https://d-nb.info/gnd/1023420-2",
         "full_name": "British Library",
@@ -4360,6 +4740,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, BL"
           }
         ]
       }
@@ -4381,14 +4767,14 @@
         "value": "British Library"
       }
     ],
-    "view_label": "BL, Arundel 235",
+    "view_label": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 235",
     "prev": {
       "id": "jad_manuscript__81",
-      "label": "Bibl. Laurenziana, Plut.19.17"
+      "label": "[], Plut.19.17"
     },
     "next": {
       "id": "jad_manuscript__83",
-      "label": "BL, Add 22820"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Add 22820"
     }
   },
   "83": {
@@ -4396,14 +4782,14 @@
     "name": [
       {
         "id": 7,
-        "value": "BL, Add 22820"
+        "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Add 22820"
       }
     ],
     "jad_id": "jad_manuscript__83",
     "library": [
       {
         "id": 7,
-        "name": "BL",
+        "name (From undo)": "BL",
         "jad_id": "jad_library__7",
         "gnd_url": "https://d-nb.info/gnd/1023420-2",
         "full_name": "British Library",
@@ -4413,6 +4799,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, BL"
           }
         ]
       }
@@ -4434,14 +4826,14 @@
         "value": "British Library"
       }
     ],
-    "view_label": "BL, Add 22820",
+    "view_label": "[{\"id\": 5, \"value\": \"London, BL\"}], Add 22820",
     "prev": {
       "id": "jad_manuscript__82",
-      "label": "BL, Arundel 235"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 235"
     },
     "next": {
       "id": "jad_manuscript__84",
-      "label": "BL, Egerton 2782"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Egerton 2782"
     }
   },
   "84": {
@@ -4449,14 +4841,14 @@
     "name": [
       {
         "id": 7,
-        "value": "BL, Egerton 2782"
+        "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Egerton 2782"
       }
     ],
     "jad_id": "jad_manuscript__84",
     "library": [
       {
         "id": 7,
-        "name": "BL",
+        "name (From undo)": "BL",
         "jad_id": "jad_library__7",
         "gnd_url": "https://d-nb.info/gnd/1023420-2",
         "full_name": "British Library",
@@ -4466,6 +4858,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, BL"
           }
         ]
       }
@@ -4487,14 +4885,14 @@
         "value": "British Library"
       }
     ],
-    "view_label": "BL, Egerton 2782",
+    "view_label": "[{\"id\": 5, \"value\": \"London, BL\"}], Egerton 2782",
     "prev": {
       "id": "jad_manuscript__83",
-      "label": "BL, Add 22820"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Add 22820"
     },
     "next": {
       "id": "jad_manuscript__85",
-      "label": "BL, Harley 3026"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Harley 3026"
     }
   },
   "85": {
@@ -4502,14 +4900,14 @@
     "name": [
       {
         "id": 7,
-        "value": "BL, Harley 3026"
+        "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Harley 3026"
       }
     ],
     "jad_id": "jad_manuscript__85",
     "library": [
       {
         "id": 7,
-        "name": "BL",
+        "name (From undo)": "BL",
         "jad_id": "jad_library__7",
         "gnd_url": "https://d-nb.info/gnd/1023420-2",
         "full_name": "British Library",
@@ -4519,6 +4917,12 @@
             "name": "London",
             "geonames_url": "https://www.geonames.org/2643743/london.html",
             "jad_id": "jad_places__5"
+          }
+        ],
+        "name": [
+          {
+            "id": 5,
+            "value": "London, BL"
           }
         ]
       }
@@ -4540,14 +4944,14 @@
         "value": "British Library"
       }
     ],
-    "view_label": "BL, Harley 3026",
+    "view_label": "[{\"id\": 5, \"value\": \"London, BL\"}], Harley 3026",
     "prev": {
       "id": "jad_manuscript__84",
-      "label": "BL, Egerton 2782"
+      "label": "[{\"id\": 5, \"value\": \"London, BL\"}], Egerton 2782"
     },
     "next": {
       "id": "jad_manuscript__9",
-      "label": "Lam., MS 144"
+      "label": "[{\"id\": 5, \"value\": \"London, Lam.\"}], MS 144"
     }
   }
 }

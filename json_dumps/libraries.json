@@ -2,7 +2,7 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "name": "ÖNB",
+    "name (From undo)": "ÖNB",
     "jad_id": "jad_library__1",
     "gnd_url": "https://d-nb.info/gnd/2020893-5",
     "full_name": "Österreichische Nationalbibliothek",
@@ -12,12 +12,18 @@
         "value": "Vienna",
         "order": "4.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 4,
+        "value": "Vienna, ÖNB"
+      }
     ]
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "name": "BNF",
+    "name (From undo)": "BNF",
     "jad_id": "jad_library__2",
     "gnd_url": "https://d-nb.info/gnd/5156217-0",
     "full_name": "Bibliothèque Nationale de France",
@@ -27,12 +33,18 @@
         "value": "Paris",
         "order": "1.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 1,
+        "value": "Paris, BNF"
+      }
     ]
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "name": "San Isidoro",
+    "name (From undo)": "San Isidoro",
     "jad_id": "jad_library__3",
     "gnd_url": "https://d-nb.info/gnd/4366218-3",
     "full_name": "San Isidoro (Kloster)",
@@ -42,12 +54,18 @@
         "value": "León",
         "order": "2.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 2,
+        "value": "León, San Isidoro"
+      }
     ]
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "name": "St. Gen.",
+    "name (From undo)": "St. Gen.",
     "jad_id": "jad_library__4",
     "gnd_url": "https://d-nb.info/gnd/1022123-2",
     "full_name": "Bibliothèque Sainte-Geneviève",
@@ -57,12 +75,18 @@
         "value": "Paris",
         "order": "1.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 1,
+        "value": "Paris, St. Gen."
+      }
     ]
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "name": "Maz.",
+    "name (From undo)": "Maz.",
     "jad_id": "jad_library__5",
     "gnd_url": "https://d-nb.info/gnd/803245-2",
     "full_name": "Bibliothèque Mazarine",
@@ -72,12 +96,18 @@
         "value": "Paris",
         "order": "1.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 1,
+        "value": "Paris, Maz."
+      }
     ]
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "name": "Lam.",
+    "name (From undo)": "Lam.",
     "jad_id": "jad_library__6",
     "gnd_url": "https://d-nb.info/gnd/16441-0",
     "full_name": "Lambeth Palace Library",
@@ -87,12 +117,18 @@
         "value": "London",
         "order": "5.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 5,
+        "value": "London, Lam."
+      }
     ]
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "name": "BL",
+    "name (From undo)": "BL",
     "jad_id": "jad_library__7",
     "gnd_url": "https://d-nb.info/gnd/1023420-2",
     "full_name": "British Library",
@@ -102,12 +138,18 @@
         "value": "London",
         "order": "5.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 5,
+        "value": "London, BL"
+      }
     ]
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "name": "Cambr. St.John's Coll.",
+    "name (From undo)": "Cambr. St.John's Coll.",
     "jad_id": "jad_library__8",
     "gnd_url": "https://d-nb.info/gnd/18387-8",
     "full_name": "St John's College (Cambridge)",
@@ -117,12 +159,18 @@
         "value": "Cambridge",
         "order": "7.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 7,
+        "value": "Cambridge, Cambr. St.John's Coll."
+      }
     ]
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "name": "Troyes",
+    "name (From undo)": "Troyes",
     "jad_id": "jad_library__9",
     "gnd_url": "https://d-nb.info/gnd/1026092-4",
     "full_name": "Bibliothèque municipale (Troyes)",
@@ -132,12 +180,18 @@
         "value": "Troyes",
         "order": "9.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 9,
+        "value": "Troyes, Troyes"
+      }
     ]
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "name": "Bodl.",
+    "name (From undo)": "Bodl.",
     "jad_id": "jad_library__10",
     "gnd_url": "https://d-nb.info/gnd/38352-1",
     "full_name": "Bodleian Library",
@@ -147,12 +201,18 @@
         "value": "Oxford",
         "order": "6.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 6,
+        "value": "Oxford, Bodl."
+      }
     ]
   },
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "name": "Bibl. Roy.",
+    "name (From undo)": "Bibl. Roy.",
     "jad_id": "jad_library__11",
     "gnd_url": "https://d-nb.info/gnd/1023393-3",
     "full_name": "Bibliothèque royale de Belgique",
@@ -162,12 +222,18 @@
         "value": "Brussels",
         "order": "8.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 8,
+        "value": "Brussels, Bibl. Roy."
+      }
     ]
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "name": "BSB",
+    "name (From undo)": "BSB",
     "jad_id": "jad_library__12",
     "gnd_url": "https://d-nb.info/gnd/2031351-2",
     "full_name": "Bayrische Staatsbibliothek",
@@ -177,12 +243,18 @@
         "value": "Munich",
         "order": "3.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 3,
+        "value": "Munich, BSB"
+      }
     ]
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
-    "name": "Arsenal",
+    "name (From undo)": "Arsenal",
     "jad_id": "jad_library__13",
     "gnd_url": "https://d-nb.info/gnd/1056486-X",
     "full_name": "Bibliothèque de l'Arsenal",
@@ -192,12 +264,18 @@
         "value": "Paris",
         "order": "1.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 1,
+        "value": "Paris, Arsenal"
+      }
     ]
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
-    "name": "Oxford Magd. Coll.",
+    "name (From undo)": "Oxford Magd. Coll.",
     "jad_id": "jad_library__14",
     "gnd_url": "https://d-nb.info/gnd/5009498-1",
     "full_name": "Magdalen College (Oxford)",
@@ -207,21 +285,28 @@
         "value": "Oxford",
         "order": "6.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 6,
+        "value": "Oxford, Oxford Magd. Coll."
+      }
     ]
   },
   "15": {
     "id": 15,
     "order": "15.00000000000000000000",
-    "name": "Valenciennes",
+    "name (From undo)": "Valenciennes",
     "jad_id": "jad_library__15",
     "gnd_url": "https://d-nb.info/gnd/1052474-5",
     "full_name": "Bibliothèque municipale (Valenciennes)",
-    "place": []
+    "place": [],
+    "name": []
   },
   "16": {
     "id": 16,
     "order": "16.00000000000000000000",
-    "name": "Jena, UB",
+    "name (From undo)": "Jena, UB",
     "jad_id": "jad_library__16",
     "gnd_url": "https://d-nb.info/gnd/38230-9",
     "full_name": "Thüringer Universitäts- und Landesbibliothek Jena",
@@ -231,66 +316,78 @@
         "value": "Jena",
         "order": "10.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 10,
+        "value": "Jena, Jena, UB"
+      }
     ]
   },
   "17": {
     "id": 17,
     "order": "17.00000000000000000000",
-    "name": "Erlangen, UB",
+    "name (From undo)": "Erlangen, UB",
     "jad_id": "jad_library__17",
     "gnd_url": "https://d-nb.info/gnd/2024993-7",
     "full_name": "Universitätsbibliothek Erlangen-Nürnberg",
-    "place": []
+    "place": [],
+    "name": []
   },
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "name": "Göttweig",
+    "name (From undo)": "Göttweig",
     "jad_id": "jad_library__18",
     "gnd_url": "https://d-nb.info/gnd/2103432-1",
     "full_name": "Stift Göttweig",
-    "place": []
+    "place": [],
+    "name": []
   },
   "19": {
     "id": 19,
     "order": "19.00000000000000000000",
-    "name": "Frankfurt",
+    "name (From undo)": "Frankfurt",
     "jad_id": "jad_library__19",
     "gnd_url": "https://d-nb.info/gnd/1086213467",
     "full_name": "Frankfurt, Universitatsbibliothek",
-    "place": []
+    "place": [],
+    "name": []
   },
   "20": {
     "id": 20,
     "order": "20.00000000000000000000",
-    "name": "Sankt-Florian",
+    "name (From undo)": "Sankt-Florian",
     "jad_id": "jad_library__20",
     "gnd_url": "https://d-nb.info/gnd/2067369-3",
     "full_name": "Sankt-Florian, Stiftsbibliothek",
-    "place": []
+    "place": [],
+    "name": []
   },
   "21": {
     "id": 21,
     "order": "21.00000000000000000000",
-    "name": "Linz",
+    "name (From undo)": "Linz",
     "jad_id": "jad_library__21",
     "gnd_url": "https://d-nb.info/gnd/4372903-4",
     "full_name": "Linz, Oberösterreichische Landesbibliothek",
-    "place": []
+    "place": [],
+    "name": []
   },
   "22": {
     "id": 22,
     "order": "22.00000000000000000000",
-    "name": "Hamburg",
+    "name (From undo)": "Hamburg",
     "jad_id": "jad_library__22",
     "gnd_url": "https://d-nb.info/gnd/2022508-8",
     "full_name": "Hamburg, Stadt- und Universitatsbibliothek",
-    "place": []
+    "place": [],
+    "name": []
   },
   "23": {
     "id": 23,
     "order": "23.00000000000000000000",
-    "name": "Trinity Coll.",
+    "name (From undo)": "Trinity Coll.",
     "jad_id": "jad_library__23",
     "gnd_url": "https://d-nb.info/gnd/5214151-2",
     "full_name": "Trinity College",
@@ -300,57 +397,68 @@
         "value": "Cambridge",
         "order": "7.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 7,
+        "value": "Cambridge, Trinity Coll."
+      }
     ]
   },
   "25": {
     "id": 25,
     "order": "24.00000000000000000000",
-    "name": "St. Gallen",
+    "name (From undo)": "St. Gallen",
     "jad_id": "jad_library__25",
     "gnd_url": "https://d-nb.info/gnd/2089619-0",
     "full_name": "Stiftsbibliothek St. Gallen",
-    "place": []
+    "place": [],
+    "name": []
   },
   "26": {
     "id": 26,
     "order": "25.00000000000000000000",
-    "name": "Bern",
+    "name (From undo)": "Bern",
     "jad_id": "jad_library__26",
     "gnd_url": "https://d-nb.info/gnd/2006797-5",
     "full_name": "Bern, Burgerbibliothek",
-    "place": []
+    "place": [],
+    "name": []
   },
   "27": {
     "id": 27,
     "order": "26.00000000000000000000",
-    "name": "Karlsruhe",
+    "name (From undo)": "Karlsruhe",
     "jad_id": "jad_library__27",
     "gnd_url": "https://d-nb.info/gnd/2005707-6",
     "full_name": "Karlsruhe, Badische Landesbibliothek",
-    "place": []
+    "place": [],
+    "name": []
   },
   "28": {
     "id": 28,
     "order": "27.00000000000000000000",
-    "name": "Lyon",
+    "name (From undo)": "Lyon",
     "jad_id": "jad_library__28",
     "gnd_url": "https://d-nb.info/gnd/671818-8",
     "full_name": "Lyon, Bibliothèque Municipale",
-    "place": []
+    "place": [],
+    "name": []
   },
   "29": {
     "id": 29,
     "order": "28.00000000000000000000",
-    "name": "Autun",
+    "name (From undo)": "Autun",
     "jad_id": "jad_library__29",
     "gnd_url": "https://d-nb.info/gnd/1084635-9",
     "full_name": "Autun, Bibliothèque Municipale",
-    "place": []
+    "place": [],
+    "name": []
   },
   "30": {
     "id": 30,
     "order": "28.00000000000000000000",
-    "name": "Pembroke Coll.",
+    "name (From undo)": "Pembroke Coll.",
     "jad_id": "jad_library__30",
     "gnd_url": "https://d-nb.info/gnd/1220253-8",
     "full_name": "Cambridge, Pembroke College",
@@ -360,30 +468,38 @@
         "value": "Cambridge",
         "order": "7.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 7,
+        "value": "Cambridge, Pembroke Coll."
+      }
     ]
   },
   "31": {
     "id": 31,
     "order": "29.00000000000000000000",
-    "name": "Saint-Omer",
+    "name (From undo)": "Saint-Omer",
     "jad_id": "jad_library__31",
     "gnd_url": "https://d-nb.info/gnd/411822-4",
     "full_name": "Bibliothèque Municipale (Saint-Omer)",
-    "place": []
+    "place": [],
+    "name": []
   },
   "32": {
     "id": 32,
     "order": "30.00000000000000000000",
-    "name": "Rouen",
+    "name (From undo)": "Rouen",
     "jad_id": "jad_library__32",
     "gnd_url": "https://d-nb.info/gnd/1032332-6",
     "full_name": "Bibliothèque Municipale (Rouen)",
-    "place": []
+    "place": [],
+    "name": []
   },
   "33": {
     "id": 33,
     "order": "31.00000000000000000000",
-    "name": "Cambr. Magd. Coll.",
+    "name (From undo)": "Cambr. Magd. Coll.",
     "jad_id": "jad_library__33",
     "gnd_url": "https://d-nb.info/gnd/1052776-X",
     "full_name": "Cambridge, Magdalene College",
@@ -393,12 +509,18 @@
         "value": "Cambridge",
         "order": "7.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 7,
+        "value": "Cambridge, Cambr. Magd. Coll."
+      }
     ]
   },
   "34": {
     "id": 34,
     "order": "32.00000000000000000000",
-    "name": "Cambr. Univ. Libr.",
+    "name (From undo)": "Cambr. Univ. Libr.",
     "jad_id": "jad_library__34",
     "gnd_url": "https://d-nb.info/gnd/1010752-6",
     "full_name": "Cambridge University Library",
@@ -408,60 +530,72 @@
         "value": "Cambridge",
         "order": "7.00000000000000000000"
       }
+    ],
+    "name": [
+      {
+        "id": 7,
+        "value": "Cambridge, Cambr. Univ. Libr."
+      }
     ]
   },
   "35": {
     "id": 35,
     "order": "32.00000000000000000000",
-    "name": "Berlin Staatsbibl.",
+    "name (From undo)": "Berlin Staatsbibl.",
     "jad_id": "jad_library__35",
     "gnd_url": "https://d-nb.info/gnd/2118116-0",
     "full_name": "Staatsbibliothek zu Berlin. Handschriftenabteilung",
-    "place": []
+    "place": [],
+    "name": []
   },
   "36": {
     "id": 36,
     "order": "33.00000000000000000000",
-    "name": "Admont",
+    "name (From undo)": "Admont",
     "jad_id": "jad_library__36",
     "gnd_url": "https://d-nb.info/gnd/1237868-9",
     "full_name": "Stiftsbibliothek Admont",
-    "place": []
+    "place": [],
+    "name": []
   },
   "37": {
     "id": 37,
     "order": "34.00000000000000000000",
-    "name": "Bibl. Laurenziana",
+    "name (From undo)": "Bibl. Laurenziana",
     "jad_id": "jad_library__37",
     "gnd_url": "https://d-nb.info/gnd/1019149-5",
     "full_name": "Biblioteca Medicea Laurenziana",
-    "place": []
+    "place": [],
+    "name": []
   },
   "38": {
     "id": 38,
     "order": "34.00000000000000000000",
-    "name": "",
+    "name (From undo)": "",
     "jad_id": "jad_library__38",
     "gnd_url": "",
     "full_name": "",
-    "place": []
+    "place": [],
+    "name": []
   },
   "39": {
     "id": 39,
     "order": "34.00000000000000000000",
-    "name": "",
+    "name (From undo)": "",
     "jad_id": "jad_library__39",
     "gnd_url": "",
     "full_name": "",
-    "place": []
+    "place": [],
+    "name": []
   },
   "40": {
     "id": 40,
     "order": "34.00000000000000000000",
-    "name": "",
+    "name (From undo)": "",
     "jad_id": "jad_library__40",
     "gnd_url": "",
     "full_name": "",
-    "place": []
+    "place": [],
+    "name": []
   }
 }

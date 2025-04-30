@@ -39,15 +39,15 @@
         "manuscripts": [
           {
             "id": 12,
-            "value": "St. Gen., MS 2787"
+            "value": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 2787"
           },
           {
             "id": 13,
-            "value": "BL, Arundel 322"
+            "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 322"
           },
           {
             "id": 14,
-            "value": "BL, Royal 8 F XVII"
+            "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 8 F XVII"
           }
         ],
         "title": "Sermones",
@@ -248,7 +248,7 @@
         "manuscripts": [
           {
             "id": 3,
-            "value": "San Isidoro, MS 11"
+            "value": "[{\"id\": 2, \"value\": \"León, San Isidoro\"}], MS 11"
           }
         ],
         "title": "Liber Sermonum",
@@ -323,7 +323,7 @@
         "manuscripts": [
           {
             "id": 3,
-            "value": "San Isidoro, MS 11"
+            "value": "[{\"id\": 2, \"value\": \"León, San Isidoro\"}], MS 11"
           }
         ],
         "title": "Commentary Revelation",
@@ -503,7 +503,7 @@
         "manuscripts": [
           {
             "id": 9,
-            "value": "Lam., MS 144"
+            "value": "[{\"id\": 5, \"value\": \"London, Lam.\"}], MS 144"
           }
         ],
         "title": "Certa relatio de situ Jerusalem",
@@ -571,31 +571,31 @@
         "manuscripts": [
           {
             "id": 10,
-            "value": "BNF, Latin 446"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 446"
           },
           {
             "id": 42,
-            "value": "Bodl., Laud Misc. 88"
+            "value": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Laud Misc. 88"
           },
           {
             "id": 43,
-            "value": "ÖNB, MS 363"
+            "value": "[{\"id\": 4, \"value\": \"Vienna, ÖNB\"}], MS 363"
           },
           {
             "id": 44,
-            "value": "Frankfurt, Barth. 56"
+            "value": "[], Barth. 56"
           },
           {
             "id": 45,
-            "value": "Sankt-Florian, MS XI 216"
+            "value": "[], MS XI 216"
           },
           {
             "id": 46,
-            "value": "Linz, MS 488"
+            "value": "[], MS 488"
           },
           {
             "id": 47,
-            "value": "Hamburg, Jacobi 21"
+            "value": "[], Jacobi 21"
           }
         ],
         "title": "De destructione templi",
@@ -656,7 +656,7 @@
         "manuscripts": [
           {
             "id": 11,
-            "value": "BNF, Latin 3737"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3737"
           }
         ],
         "title": "Sermones",
@@ -717,7 +717,7 @@
         "manuscripts": [
           {
             "id": 16,
-            "value": "ÖNB, Cod. 1014"
+            "value": "[{\"id\": 4, \"value\": \"Vienna, ÖNB\"}], Cod. 1014"
           }
         ],
         "title": "Homiliarium Mondseense",
@@ -778,7 +778,7 @@
         "manuscripts": [
           {
             "id": 19,
-            "value": "BNF, Latin 3567"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3567"
           }
         ],
         "title": "Sermones de tempore",
@@ -941,7 +941,7 @@
         "manuscripts": [
           {
             "id": 20,
-            "value": "BNF, Latin 3570"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3570"
           }
         ],
         "title": "Sermones",
@@ -1021,7 +1021,7 @@
         "manuscripts": [
           {
             "id": 17,
-            "value": "Cambr. St.John's Coll., MS 127"
+            "value": "[{\"id\": 7, \"value\": \"Cambridge, Cambr. St.John's Coll.\"}], MS 127"
           }
         ],
         "title": "De Tyto et Vespasiano",
@@ -1082,7 +1082,7 @@
         "manuscripts": [
           {
             "id": 36,
-            "value": "Valenciennes, MS 227"
+            "value": "[], MS 227"
           }
         ],
         "title": "Sermones",
@@ -1143,7 +1143,7 @@
         "manuscripts": [
           {
             "id": 22,
-            "value": "Troyes, MS 653"
+            "value": "[{\"id\": 9, \"value\": \"Troyes, Troyes\"}], MS 653"
           }
         ],
         "title": "Sermones",
@@ -1367,11 +1367,11 @@
         "manuscripts": [
           {
             "id": 64,
-            "value": "BNF, Latin 5327"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 5327"
           },
           {
             "id": 65,
-            "value": "Saint-Omer, MS 202"
+            "value": "[], MS 202"
           }
         ],
         "title": "Vindicta Salvatoris",
@@ -1432,7 +1432,7 @@
         "manuscripts": [
           {
             "id": 67,
-            "value": "BL, Royal 2 D VI"
+            "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 2 D VI"
           }
         ],
         "title": "Sermones",
@@ -1622,11 +1622,11 @@
         "manuscripts": [
           {
             "id": 2,
-            "value": "BNF, Latin 14426"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 14426"
           },
           {
             "id": 68,
-            "value": "BL, Royal 10 C V"
+            "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 10 C V"
           }
         ],
         "title": "Commentary Psalms",
@@ -1701,7 +1701,7 @@
         "manuscripts": [
           {
             "id": 23,
-            "value": "Maz., MS 178"
+            "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 178"
           }
         ],
         "title": "Commentary Isaiah",
@@ -1776,7 +1776,7 @@
         "manuscripts": [
           {
             "id": 23,
-            "value": "Maz., MS 178"
+            "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 178"
           }
         ],
         "title": "Commentary Ezekiel",
@@ -1851,7 +1851,7 @@
         "manuscripts": [
           {
             "id": 23,
-            "value": "Maz., MS 178"
+            "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 178"
           }
         ],
         "title": "Commentary Lamentationes",
@@ -1926,7 +1926,7 @@
         "manuscripts": [
           {
             "id": 23,
-            "value": "Maz., MS 178"
+            "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 178"
           }
         ],
         "title": "Commentary Daniel",
@@ -2001,7 +2001,7 @@
         "manuscripts": [
           {
             "id": 68,
-            "value": "BL, Royal 10 C V"
+            "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Royal 10 C V"
           }
         ],
         "title": "Commentary Gospels (Unum ex quatuor)",
@@ -2536,7 +2536,7 @@
         "manuscripts": [
           {
             "id": 83,
-            "value": "BL, Add 22820"
+            "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Add 22820"
           }
         ],
         "title": "Commentary Jeremiah",
@@ -2877,7 +2877,7 @@
         "manuscripts": [
           {
             "id": 38,
-            "value": "Jena, UB, El. f. 32"
+            "value": "[{\"id\": 10, \"value\": \"Jena, Jena, UB\"}], El. f. 32"
           }
         ],
         "title": "Sermones",
@@ -2938,7 +2938,7 @@
         "manuscripts": [
           {
             "id": 39,
-            "value": "Erlangen, UB, 63/1"
+            "value": "[], 63/1"
           }
         ],
         "title": "Commentary Isaiah (I)",
@@ -2999,7 +2999,7 @@
         "manuscripts": [
           {
             "id": 40,
-            "value": "Erlangen, UB, 63/2"
+            "value": "[], 63/2"
           }
         ],
         "title": "Commentary Isaiah (II)",
@@ -3060,7 +3060,7 @@
         "manuscripts": [
           {
             "id": 56,
-            "value": "Karlsruhe, Aug. perg. 208"
+            "value": "[], Aug. perg. 208"
           }
         ],
         "title": "Commentary Daniel",
@@ -3893,7 +3893,7 @@
         "manuscripts": [
           {
             "id": 4,
-            "value": "BNF, Latin 8865"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 8865"
           }
         ],
         "title": "Liber Floridus",
@@ -3964,11 +3964,11 @@
         "manuscripts": [
           {
             "id": 28,
-            "value": "Maz., Ms 1026"
+            "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], Ms 1026"
           },
           {
             "id": 29,
-            "value": "BNF, Latin 3728"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3728"
           }
         ],
         "title": "Sermones",
@@ -4163,11 +4163,11 @@
         "manuscripts": [
           {
             "id": 5,
-            "value": "St. Gen., MS 1423"
+            "value": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 1423"
           },
           {
             "id": 25,
-            "value": "BNF, Latin 3301C"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3301C"
           }
         ],
         "title": "Sermones",
@@ -4242,7 +4242,7 @@
         "manuscripts": [
           {
             "id": 15,
-            "value": "BNF, Latin 620"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 620"
           }
         ],
         "title": "Postillae in Evangelia",
@@ -4409,11 +4409,11 @@
         "manuscripts": [
           {
             "id": 6,
-            "value": "BNF, Latin 492"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 492"
           },
           {
             "id": 7,
-            "value": "Maz., MS 177"
+            "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 177"
           }
         ],
         "title": "Commentary Isaiah",
@@ -4488,7 +4488,7 @@
         "manuscripts": [
           {
             "id": 8,
-            "value": "St. Gen., MS 1422"
+            "value": "[{\"id\": 1, \"value\": \"Paris, St. Gen.\"}], MS 1422"
           }
         ],
         "title": "Sermones",
@@ -4563,7 +4563,7 @@
         "manuscripts": [
           {
             "id": 7,
-            "value": "Maz., MS 177"
+            "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 177"
           }
         ],
         "title": "Commentary Ezekiel",
@@ -4638,7 +4638,7 @@
         "manuscripts": [
           {
             "id": 7,
-            "value": "Maz., MS 177"
+            "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 177"
           }
         ],
         "title": "Commentary Kings",
@@ -4713,7 +4713,7 @@
         "manuscripts": [
           {
             "id": 7,
-            "value": "Maz., MS 177"
+            "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 177"
           }
         ],
         "title": "Commentary Lamentations",
@@ -4810,7 +4810,7 @@
         "manuscripts": [
           {
             "id": 18,
-            "value": "BNF, Latin 3829"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3829"
           }
         ],
         "title": "Homiliae super evangelia",
@@ -4893,7 +4893,7 @@
         "manuscripts": [
           {
             "id": 21,
-            "value": "BNF, Latin 3281"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3281"
           }
         ],
         "title": "Sermones super evangelia",
@@ -4990,7 +4990,7 @@
         "manuscripts": [
           {
             "id": 24,
-            "value": "Maz., MS 999"
+            "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 999"
           }
         ],
         "title": "Sermones",
@@ -5087,11 +5087,11 @@
         "manuscripts": [
           {
             "id": 26,
-            "value": "BNF, Latin 3733"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 3733"
           },
           {
             "id": 27,
-            "value": "Maz., MS 774"
+            "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 774"
           }
         ],
         "title": "Sermones",
@@ -8141,7 +8141,7 @@
         "manuscripts": [
           {
             "id": 84,
-            "value": "BL, Egerton 2782"
+            "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Egerton 2782"
           }
         ],
         "title": "Commentary Isaiah",
@@ -8286,7 +8286,7 @@
         "manuscripts": [
           {
             "id": 85,
-            "value": "BL, Harley 3026"
+            "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Harley 3026"
           }
         ],
         "title": "Expositio in Apocalypsin",
@@ -12034,7 +12034,7 @@
         "manuscripts": [
           {
             "id": 37,
-            "value": "BSB, Clm 3721"
+            "value": "[{\"id\": 3, \"value\": \"Munich, BSB\"}], Clm 3721"
           }
         ],
         "title": "Sermones",
@@ -13857,7 +13857,7 @@
         "manuscripts": [
           {
             "id": 34,
-            "value": "Maz., MS 698"
+            "value": "[{\"id\": 1, \"value\": \"Paris, Maz.\"}], MS 698"
           }
         ],
         "title": "Sermones",
@@ -14250,7 +14250,7 @@
         "manuscripts": [
           {
             "id": 57,
-            "value": "Bern, Cod. 258"
+            "value": "[], Cod. 258"
           }
         ],
         "title": "Glossae biblicae",
@@ -14814,7 +14814,7 @@
         "manuscripts": [
           {
             "id": 80,
-            "value": "Admont, Cod. 73"
+            "value": "[], Cod. 73"
           }
         ],
         "title": "Commentary Kings",
@@ -16012,15 +16012,15 @@
         "manuscripts": [
           {
             "id": 48,
-            "value": "Bodl., Hatton 37"
+            "value": "[{\"id\": 6, \"value\": \"Oxford, Bodl.\"}], Hatton 37"
           },
           {
             "id": 49,
-            "value": "Trinity Coll., B.14.43"
+            "value": "[{\"id\": 7, \"value\": \"Cambridge, Trinity Coll.\"}], B.14.43"
           },
           {
             "id": 50,
-            "value": "Lam., MS 71"
+            "value": "[{\"id\": 5, \"value\": \"London, Lam.\"}], MS 71"
           }
         ],
         "title": "Sermones",
@@ -16197,7 +16197,7 @@
         "manuscripts": [
           {
             "id": 51,
-            "value": "BNF, Latin 494"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 494"
           }
         ],
         "title": "Commentary Isaiah",
@@ -16272,7 +16272,7 @@
         "manuscripts": [
           {
             "id": 52,
-            "value": "BNF, Latin 2493"
+            "value": "[{\"id\": 1, \"value\": \"Paris, BNF\"}], Latin 2493"
           }
         ],
         "title": "Commentary Pentateuch",
@@ -16433,7 +16433,7 @@
         "manuscripts": [
           {
             "id": 55,
-            "value": "St. Gallen, Cod. Sang. 565"
+            "value": "[], Cod. Sang. 565"
           }
         ],
         "title": "De subversione Jerusalem",
@@ -16678,7 +16678,7 @@
         "manuscripts": [
           {
             "id": 53,
-            "value": "St. Gallen, Cod. Sang. 280"
+            "value": "[], Cod. Sang. 280"
           }
         ],
         "title": "Collectanea ex Augustino in epistolas Pauli",
@@ -16739,7 +16739,7 @@
         "manuscripts": [
           {
             "id": 54,
-            "value": "Bern, Cod. 344"
+            "value": "[], Cod. 344"
           }
         ],
         "title": "Sententiae epistolarum beati Pauli apostoli a sancto Hieronimo presbitero",
@@ -23434,7 +23434,7 @@
         "manuscripts": [
           {
             "id": 82,
-            "value": "BL, Arundel 235"
+            "value": "[{\"id\": 5, \"value\": \"London, BL\"}], Arundel 235"
           }
         ],
         "title": "Commentary Psalms",
