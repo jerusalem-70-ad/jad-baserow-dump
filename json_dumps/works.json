@@ -4348,7 +4348,7 @@
   "93": {
     "id": 93,
     "order": "92.00000000000000000000",
-    "name": "Expositio in Apocalypsim ",
+    "name": "Expositio in Apocalypsim (PL 17) ",
     "jad_id": "jad_work__93",
     "author": [
       {
@@ -4358,7 +4358,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "Expositio in Apocalypsim",
+    "title": "Expositio in Apocalypsim (PL 17)",
     "genre": {
       "id": 14727,
       "value": "Commentary",
@@ -14773,28 +14773,1044 @@
   "346": {
     "id": 346,
     "order": "333.00000000000000000000",
-    "name": " ",
+    "name": "Commentaria in Paralipomena ",
     "jad_id": "jad_work__346",
-    "author": [],
+    "author": [
+      {
+        "id": 5,
+        "value": "Hrabanus, Maurus",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Commentaria in Paralipomena",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "347": {
     "id": 347,
     "order": "334.00000000000000000000",
-    "name": " ",
+    "name": "Allegoriae in universam sacram scripturam ",
     "jad_id": "jad_work__347",
+    "author": [
+      {
+        "id": 164,
+        "value": "Garnerius, of Clairvaux",
+        "order": "150.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Allegoriae in universam sacram scripturam",
+    "genre": {
+      "id": 18452,
+      "value": "Distinctiones",
+      "color": "light-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "348": {
+    "id": 348,
+    "order": "335.00000000000000000000",
+    "name": "Commentary Habacuc ",
+    "jad_id": "jad_work__348",
+    "author": [
+      {
+        "id": 5,
+        "value": "Hrabanus, Maurus",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Habacuc",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "349": {
+    "id": 349,
+    "order": "336.00000000000000000000",
+    "name": "Expositio in Proverbia Salomonis ",
+    "jad_id": "jad_work__349",
+    "author": [
+      {
+        "id": 5,
+        "value": "Hrabanus, Maurus",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio in Proverbia Salomonis",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "350": {
+    "id": 350,
+    "order": "337.00000000000000000000",
+    "name": "Expositio in librum Judith ",
+    "jad_id": "jad_work__350",
+    "author": [
+      {
+        "id": 5,
+        "value": "Hrabanus, Maurus",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio in librum Judith",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "351": {
+    "id": 351,
+    "order": "338.00000000000000000000",
+    "name": "Sententiae ",
+    "jad_id": "jad_work__351",
+    "author": [
+      {
+        "id": 165,
+        "value": "Robertus, Pullus",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sententiae",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 13,
+        "value": "12th cen., first half",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "352": {
+    "id": 352,
+    "order": "339.00000000000000000000",
+    "name": "Gesta abbatum Trudonis ",
+    "jad_id": "jad_work__352",
+    "author": [
+      {
+        "id": 166,
+        "value": "Rudolfus, Sancti Trudonis",
+        "order": "152.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Gesta abbatum Trudonis",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "353": {
+    "id": 353,
+    "order": "340.00000000000000000000",
+    "name": "Chronicon ",
+    "jad_id": "jad_work__353",
+    "author": [
+      {
+        "id": 160,
+        "value": "Sicardus, of Cremona",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronicon",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 9,
+        "value": "around 1200",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "354": {
+    "id": 354,
+    "order": "341.00000000000000000000",
+    "name": "Historia tripartita ",
+    "jad_id": "jad_work__354",
+    "author": [
+      {
+        "id": 167,
+        "value": "Sozomenus, Salaminius Hermias",
+        "order": "153.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Historia tripartita",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "355": {
+    "id": 355,
+    "order": "342.00000000000000000000",
+    "name": "Chronicon ",
+    "jad_id": "jad_work__355",
+    "author": [
+      {
+        "id": 168,
+        "value": "Sulpicius, Severus",
+        "order": "153.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronicon",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "356": {
+    "id": 356,
+    "order": "343.00000000000000000000",
+    "name": "Gesta regum Anglorum ",
+    "jad_id": "jad_work__356",
+    "author": [
+      {
+        "id": 169,
+        "value": "William, of Malmesbury",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Gesta regum Anglorum",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "357": {
+    "id": 357,
+    "order": "344.00000000000000000000",
+    "name": "Annales Hildesheimenses Quedlinburgenses et Lamberti ",
+    "jad_id": "jad_work__357",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Annales Hildesheimenses Quedlinburgenses et Lamberti",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "358": {
+    "id": 358,
+    "order": "345.00000000000000000000",
+    "name": "Dissertationes de historia Pelagiana ",
+    "jad_id": "jad_work__358",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Dissertationes de historia Pelagiana",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "359": {
+    "id": 359,
+    "order": "346.00000000000000000000",
+    "name": "Homiliae de tempore (PL 95) ",
+    "jad_id": "jad_work__359",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Homiliae de tempore (PL 95)",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "360": {
+    "id": 360,
+    "order": "347.00000000000000000000",
+    "name": "Natales aliquot Sanctorum ",
+    "jad_id": "jad_work__360",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Natales aliquot Sanctorum",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "361": {
+    "id": 361,
+    "order": "348.00000000000000000000",
+    "name": "Commentary Genesis (PL 50) ",
+    "jad_id": "jad_work__361",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Genesis (PL 50)",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "362": {
+    "id": 362,
+    "order": "349.00000000000000000000",
+    "name": "Commentary Kings (PL 50) ",
+    "jad_id": "jad_work__362",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Kings (PL 50)",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "363": {
+    "id": 363,
+    "order": "350.00000000000000000000",
+    "name": "Excerptiones allegoricae (PL 177) ",
+    "jad_id": "jad_work__363",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Excerptiones allegoricae (PL 177)",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "364": {
+    "id": 364,
+    "order": "351.00000000000000000000",
+    "name": "Tractatus adversus Judaeum (PL 213) ",
+    "jad_id": "jad_work__364",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Tractatus adversus Judaeum (PL 213)",
+    "genre": {
+      "id": 14728,
+      "value": "Anti-Jewish treatise",
+      "color": "darker-purple"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "365": {
+    "id": 365,
+    "order": "352.00000000000000000000",
+    "name": "Sermones (PL 83) ",
+    "jad_id": "jad_work__365",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones (PL 83)",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "366": {
+    "id": 366,
+    "order": "353.00000000000000000000",
+    "name": "Breviarium in Psalmos ",
+    "jad_id": "jad_work__366",
+    "author": [
+      {
+        "id": 170,
+        "value": "Pseudo-Augustine",
+        "order": "155.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Breviarium in Psalmos",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "367": {
+    "id": 367,
+    "order": "354.00000000000000000000",
+    "name": "Expositio in Apocalypsim Joannis ",
+    "jad_id": "jad_work__367",
+    "author": [
+      {
+        "id": 170,
+        "value": "Pseudo-Augustine",
+        "order": "155.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio in Apocalypsim Joannis",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "368": {
+    "id": 368,
+    "order": "355.00000000000000000000",
+    "name": "Quaestiones Veteris et Novi Testamenti ",
+    "jad_id": "jad_work__368",
+    "author": [
+      {
+        "id": 170,
+        "value": "Pseudo-Augustine",
+        "order": "155.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Quaestiones Veteris et Novi Testamenti",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "369": {
+    "id": 369,
+    "order": "356.00000000000000000000",
+    "name": "Sermones suppositii de Scripturis ",
+    "jad_id": "jad_work__369",
+    "author": [
+      {
+        "id": 170,
+        "value": "Pseudo-Augustine",
+        "order": "155.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones suppositii de Scripturis",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "370": {
+    "id": 370,
+    "order": "357.00000000000000000000",
+    "name": "Quaestiones super libros Regum ",
+    "jad_id": "jad_work__370",
+    "author": [
+      {
+        "id": 171,
+        "value": "Pseudo-Beda",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Quaestiones super libros Regum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "371": {
+    "id": 371,
+    "order": "358.00000000000000000000",
+    "name": "De libro Psalmorum ",
+    "jad_id": "jad_work__371",
+    "author": [
+      {
+        "id": 171,
+        "value": "Pseudo-Beda",
+        "order": "156.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De libro Psalmorum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "372": {
+    "id": 372,
+    "order": "359.00000000000000000000",
+    "name": "Computus de Pascha ",
+    "jad_id": "jad_work__372",
+    "author": [
+      {
+        "id": 172,
+        "value": "Cyprianus, of Carthage",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Computus de Pascha",
+    "genre": {
+      "id": 18449,
+      "value": "Computistic treatise",
+      "color": "darker-gray"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "373": {
+    "id": 373,
+    "order": "360.00000000000000000000",
+    "name": "In Lamentationes Jeremiae ",
+    "jad_id": "jad_work__373",
+    "author": [
+      {
+        "id": 173,
+        "value": "Pseudo-Jerome",
+        "order": "158.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "In Lamentationes Jeremiae",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "374": {
+    "id": 374,
+    "order": "361.00000000000000000000",
+    "name": "Expositio Evangeliorum ",
+    "jad_id": "jad_work__374",
+    "author": [
+      {
+        "id": 173,
+        "value": "Pseudo-Jerome",
+        "order": "158.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio Evangeliorum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "375": {
+    "id": 375,
+    "order": "362.00000000000000000000",
+    "name": "Posteriores excerptiones ",
+    "jad_id": "jad_work__375",
+    "author": [
+      {
+        "id": 133,
+        "value": "Hugh, of Saint Victor",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Posteriores excerptiones",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "376": {
+    "id": 376,
+    "order": "363.00000000000000000000",
+    "name": "Miscellanea ",
+    "jad_id": "jad_work__376",
+    "author": [
+      {
+        "id": 133,
+        "value": "Hugh, of Saint Victor",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Miscellanea",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "377": {
+    "id": 377,
+    "order": "364.00000000000000000000",
+    "name": "Commentary Psalms ",
+    "jad_id": "jad_work__377",
+    "author": [
+      {
+        "id": 174,
+        "value": "Rufinus, of Aquileia",
+        "order": "159.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Psalms",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "378": {
+    "id": 378,
+    "order": "365.00000000000000000000",
+    "name": "Expositio in quatuor Evangelia ",
+    "jad_id": "jad_work__378",
+    "author": [
+      {
+        "id": 82,
+        "value": "Walafrid, Strabo",
+        "order": "81.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio in quatuor Evangelia",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "379": {
+    "id": 379,
+    "order": "366.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__379",
     "author": [],
     "manuscripts": [],
     "title": "",
@@ -14810,11 +15826,11 @@
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
-  "348": {
-    "id": 348,
-    "order": "335.00000000000000000000",
+  "380": {
+    "id": 380,
+    "order": "367.00000000000000000000",
     "name": " ",
-    "jad_id": "jad_work__348",
+    "jad_id": "jad_work__380",
     "author": [],
     "manuscripts": [],
     "title": "",
