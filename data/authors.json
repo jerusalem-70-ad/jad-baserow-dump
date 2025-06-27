@@ -5018,7 +5018,7 @@
         },
         "next": {
           "id": "jad_work__381",
-          "label": " "
+          "label": "Compendium studii philosophiae "
         }
       }
     ]
@@ -7933,7 +7933,7 @@
     "date_of_death": "0636",
     "view_label": "Isidore, of Sevilla",
     "prev": {
-      "id": "jad_author__175",
+      "id": "jad_author__177",
       "label": ""
     },
     "next": {
@@ -12851,6 +12851,87 @@
           "id": "jad_work__380",
           "label": "Postillae in Bibliam "
         }
+      },
+      {
+        "id": 386,
+        "name": "Sermones in epistolas et euangelia dominicalia totius anni ",
+        "jad_id": "jad_work__386",
+        "author": [
+          {
+            "id": 35,
+            "name": "Jacques, de Vitry",
+            "jad_id": "jad_author__35",
+            "gnd_url": "https://d-nb.info/gnd/118711563",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Jacques, de Saint-Jean-d'Acre | Jacobus, de Vitreio, Kardinal | Jacobus, Tusculanus Ptolemaidis, Kardinal | Jacques, de Vitry | Jacobus, Acconensis | Iacobus, de Vitriaco, Kardinal | Vitriaco, Iacobus de | Jacobus, Achonensis | Jacobus, Acconensis, Kardinal | Giacomo, da Vitry | Jacobus, Vitriacensis | Jacobus, Vitriacus | Jacobus, de Vitreio | Jakob, von Vitry | Jacques, of Vitry | Jacobus, Vitriacus, Kardinal | Vitry, Jakob von | Jacques, de Vitry, Kardinal | Jacobus, Episcopus | Jacques, de Saint-Jean-d'Acre, Kardinal | Jacobus, Tusculanus Ptolemaidis | Jacobus, Achonensis, Kardinal | Jacobus, de Vitriaco | Jacobus, Vitriacensis, Kardinal | Vitry, Giacomo da | Jacobus, Cardinalis, Kardinal | Vitriaco, Jacobus de | Vitry, Jacob von | Vitry, Jacques de | Jacobus, Cardinalis | Jacobus, de Vitriaco, Kardinal | Jacobus, Episcopus, Kardinal",
+            "date_of_birth": "1165",
+            "date_of_death": "1240-05-01"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones in epistolas et euangelia dominicalia totius anni",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "Antwerpen 1575",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": [],
+                "gnd_url": "",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "https://d-nb.info/gnd/2025059-9",
+            "wikidata": "",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "link_digital_editions": "https://viewer.onb.ac.at/1082D6D5",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones in epistolas et euangelia dominicalia totius anni ",
+        "prev": {
+          "id": "jad_work__385",
+          "label": " "
+        },
+        "next": {
+          "id": "jad_work__39",
+          "label": "Chronicon Mundi "
+        }
       }
     ]
   },
@@ -12922,8 +13003,8 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Chronicon Mundi ",
         "prev": {
-          "id": "jad_work__385",
-          "label": " "
+          "id": "jad_work__386",
+          "label": "Sermones in epistolas et euangelia dominicalia totius anni "
         },
         "next": {
           "id": "jad_work__4",
@@ -26250,7 +26331,7 @@
     },
     "next": {
       "id": "jad_author__175",
-      "label": ""
+      "label": "Roger, Bacon"
     },
     "related__works": [
       {
@@ -26308,8 +26389,128 @@
   },
   "175": {
     "id": 175,
-    "name": "",
+    "name": "Roger, Bacon",
     "jad_id": "jad_author__175",
+    "gnd_url": "https://d-nb.info/gnd/118651595",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Bacone, Ruggero | Baccon, Rogerius | Rogerus, Bacon | Bacho, Rogerius | Bachonus, Rogerius | Bacon, Rogier | Baconus, Rogerius | Baconus, Rogerus | Baco, Rogerius | Bachus, Rogerius | Bacco, Roger | Bachon, Roger | Bacco, Rogerius | Rogerius, Bacho | Rogerius, Bachus | Baco, Roger | Bachon, Rogerus | Bakon | Bacon, Roger | Rogerus, Ilcestriensis | Bacco, Rogierus | Bacho, Roger | Bacon, Rogerus | Bacon, Rogerius | Doctor mirabilis",
+    "date_of_birth": "1214",
+    "date_of_death": "1292",
+    "view_label": "Roger, Bacon",
+    "prev": {
+      "id": "jad_author__174",
+      "label": "Rufinus, of Aquileia"
+    },
+    "next": {
+      "id": "jad_author__176",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 381,
+        "name": "Compendium studii philosophiae ",
+        "jad_id": "jad_work__381",
+        "author": [
+          {
+            "id": 175,
+            "name": "Roger, Bacon",
+            "jad_id": "jad_author__175",
+            "gnd_url": "https://d-nb.info/gnd/118651595",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Bacone, Ruggero | Baccon, Rogerius | Rogerus, Bacon | Bacho, Rogerius | Bachonus, Rogerius | Bacon, Rogier | Baconus, Rogerius | Baconus, Rogerus | Baco, Rogerius | Bachus, Rogerius | Bacco, Roger | Bachon, Roger | Bacco, Rogerius | Rogerius, Bacho | Rogerius, Bachus | Baco, Roger | Bachon, Rogerus | Bakon | Bacon, Roger | Rogerus, Ilcestriensis | Bacco, Rogierus | Bacho, Roger | Bacon, Rogerus | Bacon, Rogerius | Doctor mirabilis",
+            "date_of_birth": "1214",
+            "date_of_death": "1292"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Compendium studii philosophiae",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Compendium studii philosophiae ",
+        "prev": {
+          "id": "jad_work__380",
+          "label": "Postillae in Bibliam "
+        },
+        "next": {
+          "id": "jad_work__382",
+          "label": "Operis maioris pars VII (Moralis philosophia) "
+        }
+      },
+      {
+        "id": 382,
+        "name": "Operis maioris pars VII (Moralis philosophia) ",
+        "jad_id": "jad_work__382",
+        "author": [
+          {
+            "id": 175,
+            "name": "Roger, Bacon",
+            "jad_id": "jad_author__175",
+            "gnd_url": "https://d-nb.info/gnd/118651595",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Bacone, Ruggero | Baccon, Rogerius | Rogerus, Bacon | Bacho, Rogerius | Bachonus, Rogerius | Bacon, Rogier | Baconus, Rogerius | Baconus, Rogerus | Baco, Rogerius | Bachus, Rogerius | Bacco, Roger | Bachon, Roger | Bacco, Rogerius | Rogerius, Bacho | Rogerius, Bachus | Baco, Roger | Bachon, Rogerus | Bakon | Bacon, Roger | Rogerus, Ilcestriensis | Bacco, Rogierus | Bacho, Roger | Bacon, Rogerus | Bacon, Rogerius | Doctor mirabilis",
+            "date_of_birth": "1214",
+            "date_of_death": "1292"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Operis maioris pars VII (Moralis philosophia)",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Operis maioris pars VII (Moralis philosophia) ",
+        "prev": {
+          "id": "jad_work__381",
+          "label": "Compendium studii philosophiae "
+        },
+        "next": {
+          "id": "jad_work__383",
+          "label": " "
+        }
+      }
+    ]
+  },
+  "176": {
+    "id": 176,
+    "name": "",
+    "jad_id": "jad_author__176",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
@@ -26318,8 +26519,29 @@
     "date_of_death": "",
     "view_label": "",
     "prev": {
-      "id": "jad_author__174",
-      "label": "Rufinus, of Aquileia"
+      "id": "jad_author__175",
+      "label": "Roger, Bacon"
+    },
+    "next": {
+      "id": "jad_author__177",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "177": {
+    "id": 177,
+    "name": "",
+    "jad_id": "jad_author__177",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__176",
+      "label": ""
     },
     "next": {
       "id": "jad_author__18",

@@ -16193,40 +16193,72 @@
   "381": {
     "id": 381,
     "order": "368.00000000000000000000",
-    "name": " ",
+    "name": "Compendium studii philosophiae ",
     "jad_id": "jad_work__381",
-    "author": [],
+    "author": [
+      {
+        "id": 175,
+        "value": "Roger, Bacon",
+        "order": "160.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Compendium studii philosophiae",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "382": {
     "id": 382,
     "order": "369.00000000000000000000",
-    "name": " ",
+    "name": "Operis maioris pars VII (Moralis philosophia) ",
     "jad_id": "jad_work__382",
-    "author": [],
+    "author": [
+      {
+        "id": 175,
+        "value": "Roger, Bacon",
+        "order": "160.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Operis maioris pars VII (Moralis philosophia)",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
@@ -16287,6 +16319,54 @@
     "date": [],
     "link_digital_editions": "",
     "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "386": {
+    "id": 386,
+    "order": "373.00000000000000000000",
+    "name": "Sermones in epistolas et euangelia dominicalia totius anni ",
+    "jad_id": "jad_work__386",
+    "author": [
+      {
+        "id": 35,
+        "value": "Jacques, de Vitry",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones in epistolas et euangelia dominicalia totius anni",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "Antwerpen 1575",
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://viewer.onb.ac.at/1082D6D5",
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   }
