@@ -108,7 +108,7 @@
     },
     "next": {
       "id": "jad_date__70",
-      "label": ""
+      "label": "around 1400"
     }
   },
   "8": {
@@ -119,7 +119,7 @@
     "jad_id": "jad_date__8",
     "view_label": "late 9th cen.",
     "prev": {
-      "id": "jad_date__70",
+      "id": "jad_date__72",
       "label": ""
     },
     "next": {
@@ -1105,14 +1105,46 @@
   },
   "70": {
     "id": 70,
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "around 1400",
+    "not_before": "1390",
+    "not_after": "1410",
     "jad_id": "jad_date__70",
-    "view_label": "",
+    "view_label": "around 1400",
     "prev": {
       "id": "jad_date__7",
       "label": "mid 9th cen."
+    },
+    "next": {
+      "id": "jad_date__71",
+      "label": "1415"
+    }
+  },
+  "71": {
+    "id": 71,
+    "name": "1415",
+    "not_before": "1415",
+    "not_after": "1415",
+    "jad_id": "jad_date__71",
+    "view_label": "1415",
+    "prev": {
+      "id": "jad_date__70",
+      "label": "around 1400"
+    },
+    "next": {
+      "id": "jad_date__72",
+      "label": ""
+    }
+  },
+  "72": {
+    "id": 72,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__72",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__71",
+      "label": "1415"
     },
     "next": {
       "id": "jad_date__8",

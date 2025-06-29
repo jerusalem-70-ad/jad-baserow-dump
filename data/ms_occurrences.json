@@ -654,7 +654,7 @@
     },
     "next": {
       "id": "jad_occurence__140",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "cum appropinquaret Ihesus Ierusalem videns civitatem flevit super illam"
     }
   },
   "15": {
@@ -696,8 +696,8 @@
     ],
     "view_label": "Anno post passionem Domini quadragesimo secundo, Titus, quem pater Vespasianus romam reversus in obsidione Ierosolimorum iudeorum dilaniavit populum, in tantum ut Iosephus commemorat",
     "prev": {
-      "id": "jad_occurence__140",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "id": "jad_occurence__141",
+      "label": "Josephus scripsit undecies centena milia gladio et fame perisse"
     },
     "next": {
       "id": "jad_occurence__16",
@@ -6530,11 +6530,21 @@
   "140": {
     "id": 140,
     "jad_id": "jad_occurence__140",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1138,
+        "value": "cum appropinquaret Ihesus Ierusalem videns civitatem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 86,
+        "value": "Vat., Ott.lat.557"
+      }
+    ],
+    "position_in_ms": "147v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Ott.lat.557",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -6544,12 +6554,67 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-04-04",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-06-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 86,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Ott.lat.557, f. 147v"
+      }
+    ],
+    "view_label": "cum appropinquaret Ihesus Ierusalem videns civitatem flevit super illam",
     "prev": {
       "id": "jad_occurence__14",
       "label": "terrenam Ierusalem antonomasice significat, ubi ibi, videns dominus civitatem, flevit super illiam"
+    },
+    "next": {
+      "id": "jad_occurence__141",
+      "label": "Josephus scripsit undecies centena milia gladio et fame perisse"
+    }
+  },
+  "141": {
+    "id": 141,
+    "jad_id": "jad_occurence__141",
+    "occurrence": [
+      {
+        "id": 1139,
+        "value": "Josephus scripsit undecies centena milia gladio et fame perisse"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 87,
+        "value": "Assisi, MS 505"
+      }
+    ],
+    "position_in_ms": "204v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-06-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-06-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 87,
+          "database_table_3497": 39
+        },
+        "value": "Assisi, MS 505, f. 204v"
+      }
+    ],
+    "view_label": "Josephus scripsit undecies centena milia gladio et fame perisse",
+    "prev": {
+      "id": "jad_occurence__140",
+      "label": "cum appropinquaret Ihesus Ierusalem videns civitatem flevit super illam"
     },
     "next": {
       "id": "jad_occurence__15",

@@ -2535,8 +2535,8 @@
         ],
         "view_label": "Lam., MS 144",
         "prev": {
-          "id": "jad_manuscript__85",
-          "label": "BL, Harley 3026"
+          "id": "jad_manuscript__89",
+          "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
           "id": "jad_manuscript__10",
@@ -3191,8 +3191,8 @@
           "label": "BL, Egerton 2782"
         },
         "next": {
-          "id": "jad_manuscript__9",
-          "label": "Lam., MS 144"
+          "id": "jad_manuscript__86",
+          "label": "Vat., Ott.lat.557"
         }
       }
     ]
@@ -5683,10 +5683,10 @@
   },
   "38": {
     "id": 38,
-    "value": "",
+    "value": "Vat.",
     "jad_id": "jad_library__38",
-    "gnd_url": "",
-    "full_name": "",
+    "gnd_url": "https://d-nb.info/gnd/1003302-6",
+    "full_name": "Biblioteca Apostolica Vaticana",
     "place": [],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
@@ -5697,14 +5697,56 @@
       "id": "jad_library__39",
       "label": "NO MATCH FOR $.name"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 86,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., Ott.lat.557"
+          }
+        ],
+        "jad_id": "jad_manuscript__86",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": []
+          }
+        ],
+        "idno": "Ott.lat.557",
+        "catalog_url": "",
+        "digi_url": "https://digi.vatlib.it/view/MSS_Ott.lat.557",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., Ott.lat.557",
+        "prev": {
+          "id": "jad_manuscript__85",
+          "label": "BL, Harley 3026"
+        },
+        "next": {
+          "id": "jad_manuscript__87",
+          "label": "Assisi, MS 505"
+        }
+      }
+    ]
   },
   "39": {
     "id": 39,
-    "value": "",
+    "value": "Assisi",
     "jad_id": "jad_library__39",
-    "gnd_url": "",
-    "full_name": "",
+    "gnd_url": "https://d-nb.info/gnd/1084108-8",
+    "full_name": "Biblioteca Francescana (Assisi)",
     "place": [],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
@@ -5715,7 +5757,49 @@
       "id": "jad_library__4",
       "label": "NO MATCH FOR $.name"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 87,
+        "name": [
+          {
+            "id": 39,
+            "value": "Assisi, MS 505"
+          }
+        ],
+        "jad_id": "jad_manuscript__87",
+        "library": [
+          {
+            "id": 39,
+            "value": "Assisi",
+            "jad_id": "jad_library__39",
+            "gnd_url": "https://d-nb.info/gnd/1084108-8",
+            "full_name": "Biblioteca Francescana (Assisi)",
+            "place": []
+          }
+        ],
+        "idno": "MS 505",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 39,
+            "value": "Biblioteca Francescana (Assisi)"
+          }
+        ],
+        "view_label": "Assisi, MS 505",
+        "prev": {
+          "id": "jad_manuscript__86",
+          "label": "Vat., Ott.lat.557"
+        },
+        "next": {
+          "id": "jad_manuscript__88",
+          "label": "NO MATCH FOR $..name[0].value"
+        }
+      }
+    ]
   },
   "40": {
     "id": 40,

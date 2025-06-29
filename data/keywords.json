@@ -201,6 +201,124 @@
           "id": "jad_occurrence__327",
           "label": "adversus Hierusalem illam terrenam congregatae sunt in praelium omnes gentes, scilicet Romani omnium gentium principes, et capta est civita"
         }
+      },
+      {
+        "id": 613,
+        "passage": "Vespasianus et Titus, qui sanguinem Christi, Joannis Baptistae, et Jacobi utriusque vindicarent",
+        "jad_id": "jad_occurrence__613",
+        "language": {
+          "id": 14729,
+          "value": "Latin",
+          "color": "dark-yellow"
+        },
+        "position_in_work": "X Sunday",
+        "text_paragraph": "Anno quadragesimo post passionem Domini, (quod tempus iudaeis ad poenitentiam indultum fuit,) missi sunt contra induratos duo principes Romani a Nerone Caesare, Vespasianus et Titus, qui sanguinem Christi, Joannis Baptistae, et Jacobi utriusque vindicarent",
+        "note": "Hanska, Jussi: “Preachers as Historians. The Case of the Destruction of Jerusalem in 70 AD.” *Anuario de estudios medievales* 42/1 (2012), pp. 29-52.",
+        "explicit_contemp_ref": "Siege of Damietta (1218)",
+        "biblical_references": [],
+        "work": [
+          {
+            "id": 231,
+            "name": "Homiliae ",
+            "jad_id": "jad_work__231",
+            "author": [
+              {
+                "id": 92,
+                "name": "Caesarius, of Heisterbach",
+                "jad_id": "jad_author__92",
+                "gnd_url": "https://d-nb.info/gnd/118518283",
+                "notes": "",
+                "lebensdaten": null,
+                "alt_name": "Caesarius, of Heisterbach | Heisterbach, Caesarius von | Caesarius, de Heisterbach | Cesarius | Caesarius | Césaire, d'Heisterbach | Heisterbach, Césaire de | Caesarius, Cisterciensis | Caesarius, Heisterbacensis | Cesario, di Heisterbach | De Heisterbach, Césaire | Caesarius z Heisterbachu | Caesarius, Heisterbachcensus | Césaire, de Heisterbach | Caesarius, Heisterbachcensis | Caesarius, Monachus | Cäsarius, von Heisterbach | Heisterbacensis, Caesarius",
+                "date_of_birth": "1180",
+                "date_of_death": "1240"
+              }
+            ],
+            "manuscripts": [],
+            "title": "Homiliae",
+            "genre": {
+              "id": 14726,
+              "value": "Sermons",
+              "color": "darker-pink"
+            },
+            "notes": "",
+            "notes__author": "Köln 1615",
+            "institutional_context": [],
+            "published_edition": [
+              {
+                "id": 12,
+                "name": "Other edition",
+                "jad_id": "jad_sources_occurrences__12",
+                "digi_url": ""
+              }
+            ],
+            "date_certainty": true,
+            "date": [
+              {
+                "id": 20,
+                "value": "early 13th cen."
+              }
+            ],
+            "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb10990336?page=72,73",
+            "author_certainty": true,
+            "incipit": "",
+            "volume_edition_or_individual_editor": null
+          }
+        ],
+        "sources_used": [],
+        "keywords": [
+          {
+            "id": 1,
+            "name": "Crusades",
+            "short_description": "An occurrence appearing either in a crusade-specific source, or in a text by an author of whom we know that he was active in the crusades, or a text that we can otherwise relate to this phenomenon.",
+            "jad_id": "jad_keyword__1",
+            "part_of": []
+          }
+        ],
+        "part_of_cluster": [],
+        "authority_discourse": 0,
+        "liturgical_references": [
+          {
+            "id": 1,
+            "value": "X Sunday after Holy Trinity"
+          }
+        ],
+        "occurrence_found_in": [
+          {
+            "id": 10,
+            "value": "Secondary literature"
+          }
+        ],
+        "author_lookup": [
+          {
+            "ids": {
+              "database_table_3498": 92,
+              "database_table_3499": 231
+            },
+            "value": "Caesarius, of Heisterbach"
+          }
+        ],
+        "source_passage": [],
+        "mss_locus": [],
+        "occurrence_ms": [],
+        "main_ms": [],
+        "incipit": "",
+        "manuscripts": [],
+        "ai_bibl_ref": [
+          {
+            "id": 65,
+            "value": "Luke 19:41-44 (AI)"
+          }
+        ],
+        "view_label": "Vespasianus et Titus, qui sanguinem Christi, Joannis Baptistae, et Jacobi utriusque vindicarent",
+        "prev": {
+          "id": "jad_occurrence__612",
+          "label": "Hierusalem et persecutoribus Domini a Vespasiano et Tito principibus est irrogata"
+        },
+        "next": {
+          "id": "jad_occurrence__614",
+          "label": "Hierusalem funditus eversa est"
+        }
       }
     ]
   },

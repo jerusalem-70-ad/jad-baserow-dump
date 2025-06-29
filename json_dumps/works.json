@@ -16265,60 +16265,120 @@
   "383": {
     "id": 383,
     "order": "370.00000000000000000000",
-    "name": " ",
+    "name": "Rationale diuinorum officiorum ",
     "jad_id": "jad_work__383",
-    "author": [],
+    "author": [
+      {
+        "id": 176,
+        "value": "Durantis, Guilelmus",
+        "order": "161.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Rationale diuinorum officiorum",
+    "genre": {
+      "id": 15021,
+      "value": "Liturgical text",
+      "color": "dark-yellow"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "384": {
     "id": 384,
     "order": "371.00000000000000000000",
-    "name": " ",
+    "name": "Sermones de tempore ",
     "jad_id": "jad_work__384",
-    "author": [],
+    "author": [
+      {
+        "id": 177,
+        "value": "Vinzenz, Ferrer, Heiliger",
+        "order": "162.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
-    "notes__author": "",
+    "notes__author": "Nürnberg 1492",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
-    "link_digital_editions": "",
-    "author_certainty": false,
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 70,
+        "value": "around 1400",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb00045532?page=318,319",
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "385": {
     "id": 385,
     "order": "372.00000000000000000000",
-    "name": " ",
+    "name": "Letters ",
     "jad_id": "jad_work__385",
-    "author": [],
+    "author": [
+      {
+        "id": 178,
+        "value": "Benedikt XIII., Gegenpapst, Papst",
+        "order": "163.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Letters",
+    "genre": {
+      "id": 19676,
+      "value": "Papal letters",
+      "color": "darker-gray"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 71,
+        "value": "1415",
+        "order": "70.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
@@ -16367,6 +16427,194 @@
     ],
     "link_digital_editions": "https://viewer.onb.ac.at/1082D6D5",
     "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "387": {
+    "id": 387,
+    "order": "374.00000000000000000000",
+    "name": "Sermones de tempore ",
+    "jad_id": "jad_work__387",
+    "author": [
+      {
+        "id": 179,
+        "value": "Aldobrandinus, de Tuscanella",
+        "order": "164.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 86,
+        "value": "Vat., Ott.lat.557",
+        "order": "79.00000000000000000000"
+      }
+    ],
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 18,
+        "value": "Dominicans",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 17,
+        "value": "around 1300",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "388": {
+    "id": 388,
+    "order": "375.00000000000000000000",
+    "name": "Sermones dominicales ",
+    "jad_id": "jad_work__388",
+    "author": [
+      {
+        "id": 180,
+        "value": "Lucas, de Bitonto",
+        "order": "165.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 87,
+        "value": "Assisi, MS 505",
+        "order": "80.00000000000000000000"
+      }
+    ],
+    "title": "Sermones dominicales",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 17,
+        "value": "Franciscans",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "389": {
+    "id": 389,
+    "order": "376.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__389",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "390": {
+    "id": 390,
+    "order": "377.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__390",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "391": {
+    "id": 391,
+    "order": "378.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__391",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "392": {
+    "id": 392,
+    "order": "379.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__392",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   }
