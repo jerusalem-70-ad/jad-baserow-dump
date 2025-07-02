@@ -444,8 +444,8 @@
         ],
         "view_label": "BNF, Latin 446",
         "prev": {
-          "id": "jad_manuscript__9",
-          "label": "Lam., MS 144"
+          "id": "jad_manuscript__98",
+          "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
           "id": "jad_manuscript__11",
@@ -1628,6 +1628,59 @@
           "id": "jad_manuscript__71",
           "label": "Bodl., Rawlinson D 1236"
         }
+      },
+      {
+        "id": 89,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, lat. 2529"
+          }
+        ],
+        "jad_id": "jad_manuscript__89",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "lat. 2529",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc603403",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 72,
+            "value": "1230s"
+          }
+        ],
+        "format": "36 x 26, 247 ff.",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, lat. 2529",
+        "prev": {
+          "id": "jad_manuscript__88",
+          "label": "Bibl. Casanatense, MS 178"
+        },
+        "next": {
+          "id": "jad_manuscript__9",
+          "label": "Lam., MS 144"
+        }
       }
     ]
   },
@@ -1981,7 +2034,7 @@
     ],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
-      "id": "jad_library__40",
+      "id": "jad_library__45",
       "label": "NO MATCH FOR $.name"
     },
     "next": {
@@ -2536,11 +2589,11 @@
         "view_label": "Lam., MS 144",
         "prev": {
           "id": "jad_manuscript__89",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "BNF, lat. 2529"
         },
         "next": {
-          "id": "jad_manuscript__10",
-          "label": "BNF, Latin 446"
+          "id": "jad_manuscript__90",
+          "label": "Vat., lat. 8605"
         }
       },
       {
@@ -3347,6 +3400,59 @@
           "id": "jad_manuscript__23",
           "label": "Maz., MS 178"
         }
+      },
+      {
+        "id": 93,
+        "name": [
+          {
+            "id": 9,
+            "value": "Troyes, MS 715"
+          }
+        ],
+        "jad_id": "jad_manuscript__93",
+        "library": [
+          {
+            "id": 9,
+            "value": "Troyes",
+            "jad_id": "jad_library__9",
+            "gnd_url": "https://d-nb.info/gnd/1026092-4",
+            "full_name": "Bibliothèque municipale (Troyes)",
+            "place": [
+              {
+                "id": 9,
+                "name": "Troyes",
+                "geonames_url": "https://www.geonames.org/2971549/troyes.html",
+                "jad_id": "jad_places__9"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 715",
+        "catalog_url": "https://www.bibliotheque-virtuelle-clairvaux.com/manuscrits/",
+        "digi_url": "https://www.bibliotheque-virtuelle-clairvaux.com/manuscrits/",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 43,
+            "value": "14th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 9,
+            "value": "Bibliothèque municipale (Troyes)"
+          }
+        ],
+        "view_label": "Troyes, MS 715",
+        "prev": {
+          "id": "jad_manuscript__92",
+          "label": "Bodl., Bodley 412"
+        },
+        "next": {
+          "id": "jad_manuscript__94",
+          "label": "Vat., Ross. 147"
+        }
       }
     ]
   },
@@ -3542,6 +3648,59 @@
           "id": "jad_manuscript__72",
           "label": "Cambr. Magd. Coll., F.4.15"
         }
+      },
+      {
+        "id": 92,
+        "name": [
+          {
+            "id": 10,
+            "value": "Bodl., Bodley 412"
+          }
+        ],
+        "jad_id": "jad_manuscript__92",
+        "library": [
+          {
+            "id": 10,
+            "value": "Bodl.",
+            "jad_id": "jad_library__10",
+            "gnd_url": "https://d-nb.info/gnd/38352-1",
+            "full_name": "Bodleian Library",
+            "place": [
+              {
+                "id": 6,
+                "name": "Oxford",
+                "geonames_url": "https://www.geonames.org/2640729/oxford.html",
+                "jad_id": "jad_places__6"
+              }
+            ]
+          }
+        ],
+        "idno": "Bodley 412",
+        "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1444",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 10,
+            "value": "Bodleian Library"
+          }
+        ],
+        "view_label": "Bodl., Bodley 412",
+        "prev": {
+          "id": "jad_manuscript__91",
+          "label": "BSB, Clm 7942"
+        },
+        "next": {
+          "id": "jad_manuscript__93",
+          "label": "Troyes, MS 715"
+        }
       }
     ]
   },
@@ -3698,6 +3857,59 @@
         "next": {
           "id": "jad_manuscript__8",
           "label": "St. Gen., MS 1422"
+        }
+      },
+      {
+        "id": 91,
+        "name": [
+          {
+            "id": 12,
+            "value": "BSB, Clm 7942"
+          }
+        ],
+        "jad_id": "jad_manuscript__91",
+        "library": [
+          {
+            "id": 12,
+            "value": "BSB",
+            "jad_id": "jad_library__12",
+            "gnd_url": "https://d-nb.info/gnd/2031351-2",
+            "full_name": "Bayrische Staatsbibliothek",
+            "place": [
+              {
+                "id": 3,
+                "name": "Munich",
+                "geonames_url": "https://www.geonames.org/2867714/munich.html",
+                "jad_id": "jad_places__3"
+              }
+            ]
+          }
+        ],
+        "idno": "Clm 7942",
+        "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991140829399707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%207942&offset=0",
+        "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00016426?page=,1",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 43,
+            "value": "14th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 12,
+            "value": "Bayrische Staatsbibliothek"
+          }
+        ],
+        "view_label": "BSB, Clm 7942",
+        "prev": {
+          "id": "jad_manuscript__90",
+          "label": "Vat., lat. 8605"
+        },
+        "next": {
+          "id": "jad_manuscript__92",
+          "label": "Bodl., Bodley 412"
         }
       }
     ]
@@ -4544,7 +4756,14 @@
     "jad_id": "jad_library__25",
     "gnd_url": "https://d-nb.info/gnd/2089619-0",
     "full_name": "Stiftsbibliothek St. Gallen",
-    "place": [],
+    "place": [
+      {
+        "id": 20,
+        "name": "St.Gallen",
+        "geonames_url": "https://www.geonames.org/2658822/sankt-gallen.html",
+        "jad_id": "jad_places__20"
+      }
+    ],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
       "id": "jad_library__23",
@@ -4571,7 +4790,14 @@
             "jad_id": "jad_library__25",
             "gnd_url": "https://d-nb.info/gnd/2089619-0",
             "full_name": "Stiftsbibliothek St. Gallen",
-            "place": []
+            "place": [
+              {
+                "id": 20,
+                "name": "St.Gallen",
+                "geonames_url": "https://www.geonames.org/2658822/sankt-gallen.html",
+                "jad_id": "jad_places__20"
+              }
+            ]
           }
         ],
         "idno": "Cod. Sang. 280",
@@ -4617,7 +4843,14 @@
             "jad_id": "jad_library__25",
             "gnd_url": "https://d-nb.info/gnd/2089619-0",
             "full_name": "Stiftsbibliothek St. Gallen",
-            "place": []
+            "place": [
+              {
+                "id": 20,
+                "name": "St.Gallen",
+                "geonames_url": "https://www.geonames.org/2658822/sankt-gallen.html",
+                "jad_id": "jad_places__20"
+              }
+            ]
           }
         ],
         "idno": "Cod. Sang. 565",
@@ -5687,7 +5920,14 @@
     "jad_id": "jad_library__38",
     "gnd_url": "https://d-nb.info/gnd/1003302-6",
     "full_name": "Biblioteca Apostolica Vaticana",
-    "place": [],
+    "place": [
+      {
+        "id": 19,
+        "name": "Rome",
+        "geonames_url": "https://www.geonames.org/3169070/rome.html",
+        "jad_id": "jad_places__19"
+      }
+    ],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
       "id": "jad_library__37",
@@ -5714,7 +5954,14 @@
             "jad_id": "jad_library__38",
             "gnd_url": "https://d-nb.info/gnd/1003302-6",
             "full_name": "Biblioteca Apostolica Vaticana",
-            "place": []
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
           }
         ],
         "idno": "Ott.lat.557",
@@ -5737,6 +5984,102 @@
         "next": {
           "id": "jad_manuscript__87",
           "label": "Assisi, MS 505"
+        }
+      },
+      {
+        "id": 90,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., lat. 8605"
+          }
+        ],
+        "jad_id": "jad_manuscript__90",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
+          }
+        ],
+        "idno": "lat. 8605",
+        "catalog_url": "https://opac.vatlib.it/mss/detail/Vat.lat.8605",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., lat. 8605",
+        "prev": {
+          "id": "jad_manuscript__9",
+          "label": "Lam., MS 144"
+        },
+        "next": {
+          "id": "jad_manuscript__91",
+          "label": "BSB, Clm 7942"
+        }
+      },
+      {
+        "id": 94,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., Ross. 147"
+          }
+        ],
+        "jad_id": "jad_manuscript__94",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
+          }
+        ],
+        "idno": "Ross. 147",
+        "catalog_url": "https://opac.vatlib.it/mss/detail/Ross.147",
+        "digi_url": "https://digi.vatlib.it/view/MSS_Ross.147",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., Ross. 147",
+        "prev": {
+          "id": "jad_manuscript__93",
+          "label": "Troyes, MS 715"
+        },
+        "next": {
+          "id": "jad_manuscript__95",
+          "label": "Dominican Archive, XIV.34"
         }
       }
     ]
@@ -5796,21 +6139,243 @@
         },
         "next": {
           "id": "jad_manuscript__88",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Bibl. Casanatense, MS 178"
         }
       }
     ]
   },
   "40": {
     "id": 40,
-    "value": "",
+    "value": "Bibl. Casanatense",
     "jad_id": "jad_library__40",
+    "gnd_url": "https://d-nb.info/gnd/1023158-4",
+    "full_name": "Biblioteca Casanatense",
+    "place": [
+      {
+        "id": 19,
+        "name": "Rome",
+        "geonames_url": "https://www.geonames.org/3169070/rome.html",
+        "jad_id": "jad_places__19"
+      }
+    ],
+    "view_label": "NO MATCH FOR $.name",
+    "prev": {
+      "id": "jad_library__4",
+      "label": "NO MATCH FOR $.name"
+    },
+    "next": {
+      "id": "jad_library__41",
+      "label": "NO MATCH FOR $.name"
+    },
+    "related__manuscripts": [
+      {
+        "id": 88,
+        "name": [
+          {
+            "id": 40,
+            "value": "Bibl. Casanatense, MS 178"
+          }
+        ],
+        "jad_id": "jad_manuscript__88",
+        "library": [
+          {
+            "id": 40,
+            "value": "Bibl. Casanatense",
+            "jad_id": "jad_library__40",
+            "gnd_url": "https://d-nb.info/gnd/1023158-4",
+            "full_name": "Biblioteca Casanatense",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 178",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 40,
+            "value": "Biblioteca Casanatense"
+          }
+        ],
+        "view_label": "Bibl. Casanatense, MS 178",
+        "prev": {
+          "id": "jad_manuscript__87",
+          "label": "Assisi, MS 505"
+        },
+        "next": {
+          "id": "jad_manuscript__89",
+          "label": "BNF, lat. 2529"
+        }
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "value": "Dominican Archive",
+    "jad_id": "jad_library__41",
+    "gnd_url": "https://d-nb.info/gnd/4818347-7",
+    "full_name": "Archivium Generale Ordinis Praedicatorum",
+    "place": [
+      {
+        "id": 19,
+        "name": "Rome",
+        "geonames_url": "https://www.geonames.org/3169070/rome.html",
+        "jad_id": "jad_places__19"
+      }
+    ],
+    "view_label": "NO MATCH FOR $.name",
+    "prev": {
+      "id": "jad_library__40",
+      "label": "NO MATCH FOR $.name"
+    },
+    "next": {
+      "id": "jad_library__42",
+      "label": "NO MATCH FOR $.name"
+    },
+    "related__manuscripts": [
+      {
+        "id": 95,
+        "name": [
+          {
+            "id": 41,
+            "value": "Dominican Archive, XIV.34"
+          }
+        ],
+        "jad_id": "jad_manuscript__95",
+        "library": [
+          {
+            "id": 41,
+            "value": "Dominican Archive",
+            "jad_id": "jad_library__41",
+            "gnd_url": "https://d-nb.info/gnd/4818347-7",
+            "full_name": "Archivium Generale Ordinis Praedicatorum",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
+          }
+        ],
+        "idno": "XIV.34",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [
+          {
+            "id": 18,
+            "name": "Dominicans",
+            "jad_id": "jad_institutional_context__18",
+            "part_of": [
+              {
+                "id": 19,
+                "name": "Friars",
+                "jad_id": "jad_institutional_context__19",
+                "part_of": [],
+                "gnd_url": "",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 41,
+            "value": "Archivium Generale Ordinis Praedicatorum"
+          }
+        ],
+        "view_label": "Dominican Archive, XIV.34",
+        "prev": {
+          "id": "jad_manuscript__94",
+          "label": "Vat., Ross. 147"
+        },
+        "next": {
+          "id": "jad_manuscript__96",
+          "label": "NO MATCH FOR $..name[0].value"
+        }
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "value": "",
+    "jad_id": "jad_library__42",
     "gnd_url": "",
     "full_name": "",
     "place": [],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
-      "id": "jad_library__4",
+      "id": "jad_library__41",
+      "label": "NO MATCH FOR $.name"
+    },
+    "next": {
+      "id": "jad_library__43",
+      "label": "NO MATCH FOR $.name"
+    },
+    "related__manuscripts": []
+  },
+  "43": {
+    "id": 43,
+    "value": "",
+    "jad_id": "jad_library__43",
+    "gnd_url": "",
+    "full_name": "",
+    "place": [],
+    "view_label": "NO MATCH FOR $.name",
+    "prev": {
+      "id": "jad_library__42",
+      "label": "NO MATCH FOR $.name"
+    },
+    "next": {
+      "id": "jad_library__44",
+      "label": "NO MATCH FOR $.name"
+    },
+    "related__manuscripts": []
+  },
+  "44": {
+    "id": 44,
+    "value": "",
+    "jad_id": "jad_library__44",
+    "gnd_url": "",
+    "full_name": "",
+    "place": [],
+    "view_label": "NO MATCH FOR $.name",
+    "prev": {
+      "id": "jad_library__43",
+      "label": "NO MATCH FOR $.name"
+    },
+    "next": {
+      "id": "jad_library__45",
+      "label": "NO MATCH FOR $.name"
+    },
+    "related__manuscripts": []
+  },
+  "45": {
+    "id": 45,
+    "value": "",
+    "jad_id": "jad_library__45",
+    "gnd_url": "",
+    "full_name": "",
+    "place": [],
+    "view_label": "NO MATCH FOR $.name",
+    "prev": {
+      "id": "jad_library__44",
       "label": "NO MATCH FOR $.name"
     },
     "next": {

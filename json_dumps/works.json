@@ -10450,7 +10450,13 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 89,
+        "value": "BNF, lat. 2529",
+        "order": "82.00000000000000000000"
+      }
+    ],
     "title": "Postilla in Lucam",
     "genre": {
       "id": 14727,
@@ -10470,13 +10476,13 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 21,
-        "value": "mid 13th cen.",
-        "order": "21.00000000000000000000"
+        "id": 72,
+        "value": "1230s",
+        "order": "71.00000000000000000000"
       }
     ],
     "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb11403225?page=,1",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": null
   },
@@ -11020,9 +11026,9 @@
     "date_certainty": false,
     "date": [
       {
-        "id": 52,
-        "value": "around 700",
-        "order": "52.00000000000000000000"
+        "id": 61,
+        "value": "around 800",
+        "order": "61.00000000000000000000"
       }
     ],
     "link_digital_editions": "https://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ222436500",
@@ -16541,48 +16547,439 @@
   "389": {
     "id": 389,
     "order": "376.00000000000000000000",
-    "name": " ",
+    "name": "Sermones dominicales ",
     "jad_id": "jad_work__389",
-    "author": [],
+    "author": [
+      {
+        "id": 181,
+        "value": "Odo, of Cheriton",
+        "order": "166.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Sermones dominicales",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "390": {
     "id": 390,
     "order": "377.00000000000000000000",
-    "name": " ",
+    "name": "Sermones de evangeliis dominicalibus ",
     "jad_id": "jad_work__390",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 182,
+        "value": "Wilhelm, Peyraut, Lyon, Prior",
+        "order": "167.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 90,
+        "value": "Vat., lat. 8605",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "title": "Sermones de evangeliis dominicalibus",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "391": {
     "id": 391,
     "order": "378.00000000000000000000",
-    "name": " ",
+    "name": "Postilla in Lucam ",
     "jad_id": "jad_work__391",
+    "author": [
+      {
+        "id": 183,
+        "value": "Johannes, de Rupella",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 91,
+        "value": "BSB, Clm 7942",
+        "order": "84.00000000000000000000"
+      },
+      {
+        "id": 92,
+        "value": "Bodl., Bodley 412",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "title": "Postilla in Lucam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "392": {
+    "id": 392,
+    "order": "379.00000000000000000000",
+    "name": "Sermones de tempore ",
+    "jad_id": "jad_work__392",
+    "author": [
+      {
+        "id": 184,
+        "value": "Franciscus, de Abbatibus / d'Asti",
+        "order": "169.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 93,
+        "value": "Troyes, MS 715",
+        "order": "86.00000000000000000000"
+      }
+    ],
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "393": {
+    "id": 393,
+    "order": "380.00000000000000000000",
+    "name": "Commentary Luke ",
+    "jad_id": "jad_work__393",
+    "author": [
+      {
+        "id": 185,
+        "value": "Constantinus, de Urbe Vetere / Orvieto",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 94,
+        "value": "Vat., Ross. 147",
+        "order": "87.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Luke",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "394": {
+    "id": 394,
+    "order": "381.00000000000000000000",
+    "name": "Sermones dominicales ",
+    "jad_id": "jad_work__394",
+    "author": [
+      {
+        "id": 186,
+        "value": "Hugo, de Prato Florido",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones dominicales",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "Nürnberg 1483",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 17,
+        "value": "around 1300",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "395": {
+    "id": 395,
+    "order": "382.00000000000000000000",
+    "name": "In Lucam ",
+    "jad_id": "jad_work__395",
+    "author": [
+      {
+        "id": 187,
+        "value": "Albertus, Magnus, Heiliger",
+        "order": "172.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "In Lucam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "Paris 1895",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://archive.org/details/operaomniaexedit23albe/page/588/mode/2up?view=theater",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "396": {
+    "id": 396,
+    "order": "383.00000000000000000000",
+    "name": "Opus expositionis evangeliorum totius anni ",
+    "jad_id": "jad_work__396",
+    "author": [
+      {
+        "id": 188,
+        "value": "Albertus, Patavinus/ of Padua",
+        "order": "173.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Opus expositionis evangeliorum totius anni",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "Venice 1475",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 55,
+        "value": "early 14th cen.",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb00040694?page=502,503",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "397": {
+    "id": 397,
+    "order": "384.00000000000000000000",
+    "name": "Sermones de tempore ",
+    "jad_id": "jad_work__397",
+    "author": [
+      {
+        "id": 189,
+        "value": "Odo, of Chateauroux",
+        "order": "174.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "398": {
+    "id": 398,
+    "order": "385.00000000000000000000",
+    "name": "Sermones moralissimi de tempore ",
+    "jad_id": "jad_work__398",
+    "author": [
+      {
+        "id": 190,
+        "value": "Nicolaus, de Aquaevilla",
+        "order": "175.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones moralissimi de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 17,
+        "value": "around 1300",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "399": {
+    "id": 399,
+    "order": "386.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__399",
     "author": [],
     "manuscripts": [],
     "title": "",
@@ -16598,11 +16995,51 @@
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
-  "392": {
-    "id": 392,
-    "order": "379.00000000000000000000",
+  "400": {
+    "id": 400,
+    "order": "387.00000000000000000000",
     "name": " ",
-    "jad_id": "jad_work__392",
+    "jad_id": "jad_work__400",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "401": {
+    "id": 401,
+    "order": "388.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__401",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "402": {
+    "id": 402,
+    "order": "389.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__402",
     "author": [],
     "manuscripts": [],
     "title": "",

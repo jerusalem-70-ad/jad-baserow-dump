@@ -321,7 +321,13 @@
     "jad_id": "jad_library__25",
     "gnd_url": "https://d-nb.info/gnd/2089619-0",
     "full_name": "Stiftsbibliothek St. Gallen",
-    "place": []
+    "place": [
+      {
+        "id": 20,
+        "value": "St.Gallen",
+        "order": "20.00000000000000000000"
+      }
+    ]
   },
   "26": {
     "id": 26,
@@ -492,7 +498,13 @@
     "jad_id": "jad_library__38",
     "gnd_url": "https://d-nb.info/gnd/1003302-6",
     "full_name": "Biblioteca Apostolica Vaticana",
-    "place": []
+    "place": [
+      {
+        "id": 19,
+        "value": "Rome",
+        "order": "19.00000000000000000000"
+      }
+    ]
   },
   "39": {
     "id": 39,
@@ -506,8 +518,65 @@
   "40": {
     "id": 40,
     "order": "34.00000000000000000000",
-    "value": "",
+    "value": "Bibl. Casanatense",
     "jad_id": "jad_library__40",
+    "gnd_url": "https://d-nb.info/gnd/1023158-4",
+    "full_name": "Biblioteca Casanatense",
+    "place": [
+      {
+        "id": 19,
+        "value": "Rome",
+        "order": "19.00000000000000000000"
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "order": "35.00000000000000000000",
+    "value": "Dominican Archive",
+    "jad_id": "jad_library__41",
+    "gnd_url": "https://d-nb.info/gnd/4818347-7",
+    "full_name": "Archivium Generale Ordinis Praedicatorum",
+    "place": [
+      {
+        "id": 19,
+        "value": "Rome",
+        "order": "19.00000000000000000000"
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "order": "36.00000000000000000000",
+    "value": "",
+    "jad_id": "jad_library__42",
+    "gnd_url": "",
+    "full_name": "",
+    "place": []
+  },
+  "43": {
+    "id": 43,
+    "order": "37.00000000000000000000",
+    "value": "",
+    "jad_id": "jad_library__43",
+    "gnd_url": "",
+    "full_name": "",
+    "place": []
+  },
+  "44": {
+    "id": 44,
+    "order": "38.00000000000000000000",
+    "value": "",
+    "jad_id": "jad_library__44",
+    "gnd_url": "",
+    "full_name": "",
+    "place": []
+  },
+  "45": {
+    "id": 45,
+    "order": "39.00000000000000000000",
+    "value": "",
+    "jad_id": "jad_library__45",
     "gnd_url": "",
     "full_name": "",
     "place": []

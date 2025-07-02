@@ -248,8 +248,8 @@
     "date_of_death": "1203",
     "view_label": "Martin, of León",
     "prev": {
-      "id": "jad_author__19",
-      "label": "Petrus, Damiani"
+      "id": "jad_author__192",
+      "label": ""
     },
     "next": {
       "id": "jad_author__20",
@@ -824,8 +824,8 @@
           "label": "Commentary Psalms "
         },
         "next": {
-          "id": "jad_work__41",
-          "label": "Sermones de tempore "
+          "id": "jad_work__400",
+          "label": " "
         }
       },
       {
@@ -876,8 +876,8 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Sermones de tempore ",
         "prev": {
-          "id": "jad_work__40",
-          "label": "Homiliarium Mondseense "
+          "id": "jad_work__402",
+          "label": " "
         },
         "next": {
           "id": "jad_work__42",
@@ -1475,8 +1475,8 @@
         "date_certainty": false,
         "date": [
           {
-            "id": 52,
-            "value": "around 700"
+            "id": 61,
+            "value": "around 800"
           }
         ],
         "link_digital_editions": "https://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ222436500",
@@ -2220,7 +2220,7 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Commentary Psalms ",
         "prev": {
-          "id": "jad_work__392",
+          "id": "jad_work__399",
           "label": " "
         },
         "next": {
@@ -4926,7 +4926,12 @@
             "date_of_death": "1263-03-19"
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 89,
+            "value": "BNF, lat. 2529"
+          }
+        ],
         "title": "Postilla in Lucam",
         "genre": {
           "id": 14727,
@@ -4947,12 +4952,12 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 21,
-            "value": "mid 13th cen."
+            "id": 72,
+            "value": "1230s"
           }
         ],
         "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb11403225?page=,1",
-        "author_certainty": false,
+        "author_certainty": true,
         "incipit": "",
         "volume_edition_or_individual_editor": null,
         "view_label": "Postilla in Lucam ",
@@ -8347,12 +8352,12 @@
     "date_of_death": "1072",
     "view_label": "Petrus, Damiani",
     "prev": {
-      "id": "jad_author__182",
-      "label": ""
+      "id": "jad_author__189",
+      "label": "Odo, of Chateauroux"
     },
     "next": {
-      "id": "jad_author__2",
-      "label": "Martin, of León"
+      "id": "jad_author__190",
+      "label": "Nicolaus, de Aquaevilla"
     },
     "related__works": [
       {
@@ -13004,11 +13009,11 @@
         "view_label": "Chronicon Mundi ",
         "prev": {
           "id": "jad_work__389",
-          "label": " "
+          "label": "Sermones dominicales "
         },
         "next": {
           "id": "jad_work__390",
-          "label": " "
+          "label": "Sermones de evangeliis dominicalibus "
         }
       }
     ]
@@ -26854,7 +26859,7 @@
     },
     "next": {
       "id": "jad_author__181",
-      "label": ""
+      "label": "Odo, of Cheriton"
     },
     "related__works": [
       {
@@ -26935,36 +26940,800 @@
         },
         "next": {
           "id": "jad_work__389",
-          "label": " "
+          "label": "Sermones dominicales "
         }
       }
     ]
   },
   "181": {
     "id": 181,
-    "name": "",
+    "name": "Odo, of Cheriton",
     "jad_id": "jad_author__181",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/119357070",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "view_label": "",
+    "alt_name": "Odo, von Cheriton | Odone, di Sherrington | Odon, de Shirton | Odo, de Chichester | Odo, de Cheriton | Odo, Shirodunensis | Eudes de Cheriton | Cheriton, Eude de | Odon, de Chichester | Odo, de Chirton | Odo, de Cheritonia | Odo, de Sheritona | Odo, von Chichester | Odo, Cheritonius | Odon, de Sherston | Eude, de Cheriton | Odo, Shirtonius | Odo, Sheringtonensis | Ceritona, Odo de | Odo, de Critonia | Odo, de Cherington | Odon, de Cheriton | Odo, Sheringtoniensis | Oddone, di Cheriton | Odo, de Ceringtonia | Odo, Schirodunensis | Odo, de Cicestre | Odo, Cicestriensis | Eudes, de Cheriton | Odo, de Cincestre | Odo, Magister | Odo, of Cheriton",
+    "date_of_birth": "1185",
+    "date_of_death": "1246",
+    "view_label": "Odo, of Cheriton",
     "prev": {
       "id": "jad_author__180",
       "label": "Lucas, de Bitonto"
     },
     "next": {
       "id": "jad_author__182",
-      "label": ""
+      "label": "Wilhelm, Peyraut, Lyon, Prior"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 389,
+        "name": "Sermones dominicales ",
+        "jad_id": "jad_work__389",
+        "author": [
+          {
+            "id": 181,
+            "name": "Odo, of Cheriton",
+            "jad_id": "jad_author__181",
+            "gnd_url": "https://d-nb.info/gnd/119357070",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Odo, von Cheriton | Odone, di Sherrington | Odon, de Shirton | Odo, de Chichester | Odo, de Cheriton | Odo, Shirodunensis | Eudes de Cheriton | Cheriton, Eude de | Odon, de Chichester | Odo, de Chirton | Odo, de Cheritonia | Odo, de Sheritona | Odo, von Chichester | Odo, Cheritonius | Odon, de Sherston | Eude, de Cheriton | Odo, Shirtonius | Odo, Sheringtonensis | Ceritona, Odo de | Odo, de Critonia | Odo, de Cherington | Odon, de Cheriton | Odo, Sheringtoniensis | Oddone, di Cheriton | Odo, de Ceringtonia | Odo, Schirodunensis | Odo, de Cicestre | Odo, Cicestriensis | Eudes, de Cheriton | Odo, de Cincestre | Odo, Magister | Odo, of Cheriton",
+            "date_of_birth": "1185",
+            "date_of_death": "1246"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones dominicales",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones dominicales ",
+        "prev": {
+          "id": "jad_work__388",
+          "label": "Sermones dominicales "
+        },
+        "next": {
+          "id": "jad_work__39",
+          "label": "Chronicon Mundi "
+        }
+      }
+    ]
   },
   "182": {
     "id": 182,
-    "name": "",
+    "name": "Wilhelm, Peyraut, Lyon, Prior",
     "jad_id": "jad_author__182",
+    "gnd_url": "https://d-nb.info/gnd/118719351",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Guillaume, de Lyon | Guilelmus, Perauta | Peraldus, Gulielmus | Guillaume, de Peyraud | Guillaume, de Pérault | Guilelmus, Peyrauta | Guglielmo, Peraldo | Guilelmus, Lugdunensis | Guilelmus, Paraldus | Wilhelm, Peraldus | Gulhelmus, Peraldus | Guilelmus, de Petra Alta | Guillaume, Peyraut | Pérault, Guillaume | Guilelmus, de Peraldo | Guillaume, Pérault | Peyraut, Guillaume | Guillaume, Peraldus | Guilelmus, Peraudus | Peraldus, Guilelmus | Guilelmus, Peraldus | Guilelmus, Peraltus | Guilelmus, Pérault | Guilelmus, de Peyrauta | Peraldo, Guglielmo | Guilelmus, Peyraut | Guilelmus, Peraut | Guilielmus, Peraldus | Guilelmus, Parisiensis | Guillelmus, Peraldus | Paraldus, Guilelmus",
+    "date_of_birth": "1200",
+    "date_of_death": "1271",
+    "view_label": "Wilhelm, Peyraut, Lyon, Prior",
+    "prev": {
+      "id": "jad_author__181",
+      "label": "Odo, of Cheriton"
+    },
+    "next": {
+      "id": "jad_author__183",
+      "label": "Johannes, de Rupella"
+    },
+    "related__works": [
+      {
+        "id": 390,
+        "name": "Sermones de evangeliis dominicalibus ",
+        "jad_id": "jad_work__390",
+        "author": [
+          {
+            "id": 182,
+            "name": "Wilhelm, Peyraut, Lyon, Prior",
+            "jad_id": "jad_author__182",
+            "gnd_url": "https://d-nb.info/gnd/118719351",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Guillaume, de Lyon | Guilelmus, Perauta | Peraldus, Gulielmus | Guillaume, de Peyraud | Guillaume, de Pérault | Guilelmus, Peyrauta | Guglielmo, Peraldo | Guilelmus, Lugdunensis | Guilelmus, Paraldus | Wilhelm, Peraldus | Gulhelmus, Peraldus | Guilelmus, de Petra Alta | Guillaume, Peyraut | Pérault, Guillaume | Guilelmus, de Peraldo | Guillaume, Pérault | Peyraut, Guillaume | Guillaume, Peraldus | Guilelmus, Peraudus | Peraldus, Guilelmus | Guilelmus, Peraldus | Guilelmus, Peraltus | Guilelmus, Pérault | Guilelmus, de Peyrauta | Peraldo, Guglielmo | Guilelmus, Peyraut | Guilelmus, Peraut | Guilielmus, Peraldus | Guilelmus, Parisiensis | Guillelmus, Peraldus | Paraldus, Guilelmus",
+            "date_of_birth": "1200",
+            "date_of_death": "1271"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 90,
+            "value": "Vat., lat. 8605"
+          }
+        ],
+        "title": "Sermones de evangeliis dominicalibus",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de evangeliis dominicalibus ",
+        "prev": {
+          "id": "jad_work__39",
+          "label": "Chronicon Mundi "
+        },
+        "next": {
+          "id": "jad_work__391",
+          "label": "Postilla in Lucam "
+        }
+      }
+    ]
+  },
+  "183": {
+    "id": 183,
+    "name": "Johannes, de Rupella",
+    "jad_id": "jad_author__183",
+    "gnd_url": "https://lobid.org/gnd/100949274",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Johannes, de la Rochelle | John, de Rupella | Johannes, von LaRochelle | Rochelle, Giovanni della | Jean, de LaRochelle | Jean, de la Rochelle | John, de la Rochelle | Johannes, von la Rochelle | Rupella, Johannes de | Johannes, von La Rochelle | Jean, de la Rochelle, OFM | Rochelle, John de la | La Rochelle, John de | Johannes, de Rupella, OFM | LaRochelle, John de | Johannes, von Rupella | Johannes, Petragoricensis | La Rochelle, Jean de | LaRochelle, Jean de | Giovanni, della Rochelle",
+    "date_of_birth": "1200",
+    "date_of_death": "1245",
+    "view_label": "Johannes, de Rupella",
+    "prev": {
+      "id": "jad_author__182",
+      "label": "Wilhelm, Peyraut, Lyon, Prior"
+    },
+    "next": {
+      "id": "jad_author__184",
+      "label": "Franciscus, de Abbatibus / d'Asti"
+    },
+    "related__works": [
+      {
+        "id": 391,
+        "name": "Postilla in Lucam ",
+        "jad_id": "jad_work__391",
+        "author": [
+          {
+            "id": 183,
+            "name": "Johannes, de Rupella",
+            "jad_id": "jad_author__183",
+            "gnd_url": "https://lobid.org/gnd/100949274",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Johannes, de la Rochelle | John, de Rupella | Johannes, von LaRochelle | Rochelle, Giovanni della | Jean, de LaRochelle | Jean, de la Rochelle | John, de la Rochelle | Johannes, von la Rochelle | Rupella, Johannes de | Johannes, von La Rochelle | Jean, de la Rochelle, OFM | Rochelle, John de la | La Rochelle, John de | Johannes, de Rupella, OFM | LaRochelle, John de | Johannes, von Rupella | Johannes, Petragoricensis | La Rochelle, Jean de | LaRochelle, Jean de | Giovanni, della Rochelle",
+            "date_of_birth": "1200",
+            "date_of_death": "1245"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 91,
+            "value": "BSB, Clm 7942"
+          },
+          {
+            "id": 92,
+            "value": "Bodl., Bodley 412"
+          }
+        ],
+        "title": "Postilla in Lucam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Postilla in Lucam ",
+        "prev": {
+          "id": "jad_work__390",
+          "label": "Sermones de evangeliis dominicalibus "
+        },
+        "next": {
+          "id": "jad_work__392",
+          "label": "Sermones de tempore "
+        }
+      }
+    ]
+  },
+  "184": {
+    "id": 184,
+    "name": "Franciscus, de Abbatibus / d'Asti",
+    "jad_id": "jad_author__184",
+    "gnd_url": "https://d-nb.info/gnd/102467323",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "François, degli Abbati | Abbati, François degli | Francesco, Abbate | Franciscus, Alvatus | Abbatibus, Franciscus de | Franciscus, Ostensis | Franciscus, Astensis",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "Franciscus, de Abbatibus / d'Asti",
+    "prev": {
+      "id": "jad_author__183",
+      "label": "Johannes, de Rupella"
+    },
+    "next": {
+      "id": "jad_author__185",
+      "label": "Constantinus, de Urbe Vetere / Orvieto"
+    },
+    "related__works": [
+      {
+        "id": 392,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__392",
+        "author": [
+          {
+            "id": 184,
+            "name": "Franciscus, de Abbatibus / d'Asti",
+            "jad_id": "jad_author__184",
+            "gnd_url": "https://d-nb.info/gnd/102467323",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "François, degli Abbati | Abbati, François degli | Francesco, Abbate | Franciscus, Alvatus | Abbatibus, Franciscus de | Franciscus, Ostensis | Franciscus, Astensis",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 93,
+            "value": "Troyes, MS 715"
+          }
+        ],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": false,
+        "date": [],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__391",
+          "label": "Postilla in Lucam "
+        },
+        "next": {
+          "id": "jad_work__393",
+          "label": "Commentary Luke "
+        }
+      }
+    ]
+  },
+  "185": {
+    "id": 185,
+    "name": "Constantinus, de Urbe Vetere / Orvieto",
+    "jad_id": "jad_author__185",
+    "gnd_url": "https://d-nb.info/gnd/10404490X",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Medici, Constantin de' | Urbeveteri, Constantinus de | Constantinus, Medices | Urbe Vetere, Constantinus de | Constantino, de Orvieto | Constantin, d'Orvieto | Constantinus, de Urbeveteri | Constantinus, de Orvieto | Medices, Constantinus | Constantin, de'Medici | Constantinus, Urbevetanus | Constantinus, de Urbe Veteri | Constantinus, Urbevetanus Medices",
+    "date_of_birth": "",
+    "date_of_death": "1256",
+    "view_label": "Constantinus, de Urbe Vetere / Orvieto",
+    "prev": {
+      "id": "jad_author__184",
+      "label": "Franciscus, de Abbatibus / d'Asti"
+    },
+    "next": {
+      "id": "jad_author__186",
+      "label": "Hugo, de Prato Florido"
+    },
+    "related__works": [
+      {
+        "id": 393,
+        "name": "Commentary Luke ",
+        "jad_id": "jad_work__393",
+        "author": [
+          {
+            "id": 185,
+            "name": "Constantinus, de Urbe Vetere / Orvieto",
+            "jad_id": "jad_author__185",
+            "gnd_url": "https://d-nb.info/gnd/10404490X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Medici, Constantin de' | Urbeveteri, Constantinus de | Constantinus, Medices | Urbe Vetere, Constantinus de | Constantino, de Orvieto | Constantin, d'Orvieto | Constantinus, de Urbeveteri | Constantinus, de Orvieto | Medices, Constantinus | Constantin, de'Medici | Constantinus, Urbevetanus | Constantinus, de Urbe Veteri | Constantinus, Urbevetanus Medices",
+            "date_of_birth": "",
+            "date_of_death": "1256"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 94,
+            "value": "Vat., Ross. 147"
+          }
+        ],
+        "title": "Commentary Luke",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Commentary Luke ",
+        "prev": {
+          "id": "jad_work__392",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__394",
+          "label": "Sermones dominicales "
+        }
+      }
+    ]
+  },
+  "186": {
+    "id": 186,
+    "name": "Hugo, de Prato Florido",
+    "jad_id": "jad_author__186",
+    "gnd_url": "https://d-nb.info/gnd/100946488",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Hugo, de Prato de Vinacensibus | Pratoflorido, Hugo de | De Prato Florido, Hugo | Hugo, Pratensis | Hugo, de Vinacensibus | Hugo, de Vinac | Hugo, von der Blumenwiese | Vinac, Ugo di | Vinac, Hugo | Vinac, Ugo | Prato Florido, Hugo de | Ugo, de Prato | Prato Ugo de | Pseudo-Hugo, de Prato Florido | Prato Hugo de | Hugo, de Pratoflorido | Vinac, Hugo de | Hugo, de Prato",
+    "date_of_birth": "1262",
+    "date_of_death": "1322",
+    "view_label": "Hugo, de Prato Florido",
+    "prev": {
+      "id": "jad_author__185",
+      "label": "Constantinus, de Urbe Vetere / Orvieto"
+    },
+    "next": {
+      "id": "jad_author__187",
+      "label": "Albertus, Magnus, Heiliger"
+    },
+    "related__works": [
+      {
+        "id": 394,
+        "name": "Sermones dominicales ",
+        "jad_id": "jad_work__394",
+        "author": [
+          {
+            "id": 186,
+            "name": "Hugo, de Prato Florido",
+            "jad_id": "jad_author__186",
+            "gnd_url": "https://d-nb.info/gnd/100946488",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Hugo, de Prato de Vinacensibus | Pratoflorido, Hugo de | De Prato Florido, Hugo | Hugo, Pratensis | Hugo, de Vinacensibus | Hugo, de Vinac | Hugo, von der Blumenwiese | Vinac, Ugo di | Vinac, Hugo | Vinac, Ugo | Prato Florido, Hugo de | Ugo, de Prato | Prato Ugo de | Pseudo-Hugo, de Prato Florido | Prato Hugo de | Hugo, de Pratoflorido | Vinac, Hugo de | Hugo, de Prato",
+            "date_of_birth": "1262",
+            "date_of_death": "1322"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones dominicales",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "Nürnberg 1483",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 17,
+            "value": "around 1300"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones dominicales ",
+        "prev": {
+          "id": "jad_work__393",
+          "label": "Commentary Luke "
+        },
+        "next": {
+          "id": "jad_work__395",
+          "label": "In Lucam "
+        }
+      }
+    ]
+  },
+  "187": {
+    "id": 187,
+    "name": "Albertus, Magnus, Heiliger",
+    "jad_id": "jad_author__187",
+    "gnd_url": "https://d-nb.info/gnd/118637649",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Albertus, de Colonia | Albert, the Great | Alberto, San | Alberto, Magno | Albertus, Alemannus | Albertus, Parvus Lucius | Albertus Magnus | Albertus, de Lauging | Albertus, Magnus, Heiliger | Ps.-Albertus, Magnus, Heiliger | Albert II., Regensburg, Bischof, Heiliger | Albertus, Heiliger | Albert, der Große, Heiliger | Albert, der Grosse, Heiliger | Albertus, Grotus | Albertus, Teutonicus | Albertus, Bolstadius | Alberto, di Bollstädt | Pseudo-Albertus Magnus | Velikii Albert | Albertus, Colonus | Albertus, Magnus, Saint | Albertus, Magnus | Albertus, de Bollstadt | Alberto, di Lauingen | Albert, Velikii | Albert, der Große | Albert, von Bollstädt | Magnus, Albertus | Albertus, the German | Albertus, de Bollstad | Petrus, Theoctonicus | Albertus, Magnus, Regensburg, Bischof, Heiliger | Petrus, Teutonicus | Pseudo-Albertus, Magnus | Albertus, Regensburg, Bischof, Heiliger | Ps.-Albertus, Magnus | Magnus, Albertus, Heiliger | Bollstaedt, Albert Graf von | Bolstadius, Albertus | Albert, le Grand | Albert, Heiliger | Albertus, Lauingensis | Pseudo-Albertus, Magnus, Heiliger | Bollstädt, Albert Graf von",
+    "date_of_birth": "1193",
+    "date_of_death": "1280-11-15",
+    "view_label": "Albertus, Magnus, Heiliger",
+    "prev": {
+      "id": "jad_author__186",
+      "label": "Hugo, de Prato Florido"
+    },
+    "next": {
+      "id": "jad_author__188",
+      "label": "Albertus, Patavinus/ of Padua"
+    },
+    "related__works": [
+      {
+        "id": 395,
+        "name": "In Lucam ",
+        "jad_id": "jad_work__395",
+        "author": [
+          {
+            "id": 187,
+            "name": "Albertus, Magnus, Heiliger",
+            "jad_id": "jad_author__187",
+            "gnd_url": "https://d-nb.info/gnd/118637649",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Albertus, de Colonia | Albert, the Great | Alberto, San | Alberto, Magno | Albertus, Alemannus | Albertus, Parvus Lucius | Albertus Magnus | Albertus, de Lauging | Albertus, Magnus, Heiliger | Ps.-Albertus, Magnus, Heiliger | Albert II., Regensburg, Bischof, Heiliger | Albertus, Heiliger | Albert, der Große, Heiliger | Albert, der Grosse, Heiliger | Albertus, Grotus | Albertus, Teutonicus | Albertus, Bolstadius | Alberto, di Bollstädt | Pseudo-Albertus Magnus | Velikii Albert | Albertus, Colonus | Albertus, Magnus, Saint | Albertus, Magnus | Albertus, de Bollstadt | Alberto, di Lauingen | Albert, Velikii | Albert, der Große | Albert, von Bollstädt | Magnus, Albertus | Albertus, the German | Albertus, de Bollstad | Petrus, Theoctonicus | Albertus, Magnus, Regensburg, Bischof, Heiliger | Petrus, Teutonicus | Pseudo-Albertus, Magnus | Albertus, Regensburg, Bischof, Heiliger | Ps.-Albertus, Magnus | Magnus, Albertus, Heiliger | Bollstaedt, Albert Graf von | Bolstadius, Albertus | Albert, le Grand | Albert, Heiliger | Albertus, Lauingensis | Pseudo-Albertus, Magnus, Heiliger | Bollstädt, Albert Graf von",
+            "date_of_birth": "1193",
+            "date_of_death": "1280-11-15"
+          }
+        ],
+        "manuscripts": [],
+        "title": "In Lucam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "Paris 1895",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "https://archive.org/details/operaomniaexedit23albe/page/588/mode/2up?view=theater",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "In Lucam ",
+        "prev": {
+          "id": "jad_work__394",
+          "label": "Sermones dominicales "
+        },
+        "next": {
+          "id": "jad_work__396",
+          "label": "Opus expositionis evangeliorum totius anni "
+        }
+      }
+    ]
+  },
+  "188": {
+    "id": 188,
+    "name": "Albertus, Patavinus/ of Padua",
+    "jad_id": "jad_author__188",
+    "gnd_url": "https://d-nb.info/gnd/1051960975",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Albertus Patavinus | Albert, de Padoue | Patavinus, Albertus | Albertus de Padua | Albertus, de Padua | Padua, Albertus de | Alberto, da Padova",
+    "date_of_birth": "1283",
+    "date_of_death": "1328",
+    "view_label": "Albertus, Patavinus/ of Padua",
+    "prev": {
+      "id": "jad_author__187",
+      "label": "Albertus, Magnus, Heiliger"
+    },
+    "next": {
+      "id": "jad_author__189",
+      "label": "Odo, of Chateauroux"
+    },
+    "related__works": [
+      {
+        "id": 396,
+        "name": "Opus expositionis evangeliorum totius anni ",
+        "jad_id": "jad_work__396",
+        "author": [
+          {
+            "id": 188,
+            "name": "Albertus, Patavinus/ of Padua",
+            "jad_id": "jad_author__188",
+            "gnd_url": "https://d-nb.info/gnd/1051960975",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Albertus Patavinus | Albert, de Padoue | Patavinus, Albertus | Albertus de Padua | Albertus, de Padua | Padua, Albertus de | Alberto, da Padova",
+            "date_of_birth": "1283",
+            "date_of_death": "1328"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Opus expositionis evangeliorum totius anni",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "Venice 1475",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 55,
+            "value": "early 14th cen."
+          }
+        ],
+        "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb00040694?page=502,503",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Opus expositionis evangeliorum totius anni ",
+        "prev": {
+          "id": "jad_work__395",
+          "label": "In Lucam "
+        },
+        "next": {
+          "id": "jad_work__397",
+          "label": "Sermones de tempore "
+        }
+      }
+    ]
+  },
+  "189": {
+    "id": 189,
+    "name": "Odo, of Chateauroux",
+    "jad_id": "jad_author__189",
+    "gnd_url": "https://d-nb.info/gnd/119453568",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Odo, Episcopus | Odo, Episcopus Tusculanus | Otho, Castilioneus | Otto, de Castro Radulfi | Eudes, de Châteauroux | Odo, Gallus | Odo, von Châteauroux | Odon, de Châteauroux | Odo, Tusculaneus | Odo, da Châteauroux | Odo, de Castro Radulphi | Ato, Castilioneus | Odo, Castillioneus | Odo, Castroradulpho | Castro Radulfi, Odo de | Odo, Tusculanus | Odo, Castilioneus | Odo, de Castro Rodulphi",
+    "date_of_birth": "1208",
+    "date_of_death": "1273",
+    "view_label": "Odo, of Chateauroux",
+    "prev": {
+      "id": "jad_author__188",
+      "label": "Albertus, Patavinus/ of Padua"
+    },
+    "next": {
+      "id": "jad_author__19",
+      "label": "Petrus, Damiani"
+    },
+    "related__works": [
+      {
+        "id": 397,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__397",
+        "author": [
+          {
+            "id": 189,
+            "name": "Odo, of Chateauroux",
+            "jad_id": "jad_author__189",
+            "gnd_url": "https://d-nb.info/gnd/119453568",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Odo, Episcopus | Odo, Episcopus Tusculanus | Otho, Castilioneus | Otto, de Castro Radulfi | Eudes, de Châteauroux | Odo, Gallus | Odo, von Châteauroux | Odon, de Châteauroux | Odo, Tusculaneus | Odo, da Châteauroux | Odo, de Castro Radulphi | Ato, Castilioneus | Odo, Castillioneus | Odo, Castroradulpho | Castro Radulfi, Odo de | Odo, Tusculanus | Odo, Castilioneus | Odo, de Castro Rodulphi",
+            "date_of_birth": "1208",
+            "date_of_death": "1273"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__396",
+          "label": "Opus expositionis evangeliorum totius anni "
+        },
+        "next": {
+          "id": "jad_work__398",
+          "label": "Sermones moralissimi de tempore "
+        }
+      }
+    ]
+  },
+  "190": {
+    "id": 190,
+    "name": "Nicolaus, de Aquaevilla",
+    "jad_id": "jad_author__190",
+    "gnd_url": "https://d-nb.info/gnd/102551200",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Nicolai, de Aquaevilla | Nicolaus, de Aquavilla | Aquae Villa, Nicolaus de | Nicolaus, de Haqueville | Nicolaus, de Aquae Villa | Aquaevilla, Nicolaus de | Nicolaus, Aquaevillanus | Nicolaus, ab Aquavilla | Nicolaus, de Waterton | Nicolaus, de Hanquevilla | Nicolas, d'Hacqueville",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "Nicolaus, de Aquaevilla",
+    "prev": {
+      "id": "jad_author__19",
+      "label": "Petrus, Damiani"
+    },
+    "next": {
+      "id": "jad_author__191",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 398,
+        "name": "Sermones moralissimi de tempore ",
+        "jad_id": "jad_work__398",
+        "author": [
+          {
+            "id": 190,
+            "name": "Nicolaus, de Aquaevilla",
+            "jad_id": "jad_author__190",
+            "gnd_url": "https://d-nb.info/gnd/102551200",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Nicolai, de Aquaevilla | Nicolaus, de Aquavilla | Aquae Villa, Nicolaus de | Nicolaus, de Haqueville | Nicolaus, de Aquae Villa | Aquaevilla, Nicolaus de | Nicolaus, Aquaevillanus | Nicolaus, ab Aquavilla | Nicolaus, de Waterton | Nicolaus, de Hanquevilla | Nicolas, d'Hacqueville",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones moralissimi de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 17,
+            "value": "around 1300"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones moralissimi de tempore ",
+        "prev": {
+          "id": "jad_work__397",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__399",
+          "label": " "
+        }
+      }
+    ]
+  },
+  "191": {
+    "id": 191,
+    "name": "",
+    "jad_id": "jad_author__191",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
@@ -26973,12 +27742,33 @@
     "date_of_death": "",
     "view_label": "",
     "prev": {
-      "id": "jad_author__181",
+      "id": "jad_author__190",
+      "label": "Nicolaus, de Aquaevilla"
+    },
+    "next": {
+      "id": "jad_author__192",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "192": {
+    "id": 192,
+    "name": "",
+    "jad_id": "jad_author__192",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__191",
       "label": ""
     },
     "next": {
-      "id": "jad_author__19",
-      "label": "Petrus, Damiani"
+      "id": "jad_author__2",
+      "label": "Martin, of León"
     },
     "related__works": []
   }

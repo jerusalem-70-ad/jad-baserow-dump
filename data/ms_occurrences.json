@@ -696,12 +696,12 @@
     ],
     "view_label": "Anno post passionem Domini quadragesimo secundo, Titus, quem pater Vespasianus romam reversus in obsidione Ierosolimorum iudeorum dilaniavit populum, in tantum ut Iosephus commemorat",
     "prev": {
-      "id": "jad_occurence__141",
-      "label": "Josephus scripsit undecies centena milia gladio et fame perisse"
+      "id": "jad_occurence__149",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__16",
-      "label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est"
+      "id": "jad_occurence__150",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "16": {
@@ -743,8 +743,8 @@
     ],
     "view_label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est",
     "prev": {
-      "id": "jad_occurence__15",
-      "label": "Anno post passionem Domini quadragesimo secundo, Titus, quem pater Vespasianus romam reversus in obsidione Ierosolimorum iudeorum dilaniavit populum, in tantum ut Iosephus commemorat"
+      "id": "jad_occurence__152",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__17",
@@ -6617,8 +6617,435 @@
       "label": "cum appropinquaret Ihesus Ierusalem videns civitatem flevit super illam"
     },
     "next": {
+      "id": "jad_occurence__142",
+      "label": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu"
+    }
+  },
+  "142": {
+    "id": 142,
+    "jad_id": "jad_occurence__142",
+    "occurrence": [
+      {
+        "id": 1140,
+        "value": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 88,
+        "value": "Bibl. Casanatense, MS 178"
+      }
+    ],
+    "position_in_ms": "132r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-06-30",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-06-30",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 88,
+          "database_table_3497": 40
+        },
+        "value": "Bibl. Casanatense, MS 178, f. 132r"
+      }
+    ],
+    "view_label": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu",
+    "prev": {
+      "id": "jad_occurence__141",
+      "label": "Josephus scripsit undecies centena milia gladio et fame perisse"
+    },
+    "next": {
+      "id": "jad_occurence__143",
+      "label": "postquam redierunt romani ipsa eversa iudei"
+    }
+  },
+  "143": {
+    "id": 143,
+    "jad_id": "jad_occurence__143",
+    "occurrence": [
+      {
+        "id": 1142,
+        "value": "postquam redierunt romani ipsa eversa iudei"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 90,
+        "value": "Vat., lat. 8605"
+      }
+    ],
+    "position_in_ms": "233v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-06-30",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-06-30",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 90,
+          "database_table_3497": 38
+        },
+        "value": "Vat., lat. 8605, f. 233v"
+      }
+    ],
+    "view_label": "postquam redierunt romani ipsa eversa iudei",
+    "prev": {
+      "id": "jad_occurence__142",
+      "label": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu"
+    },
+    "next": {
+      "id": "jad_occurence__144",
+      "label": "??"
+    }
+  },
+  "144": {
+    "id": 144,
+    "jad_id": "jad_occurence__144",
+    "occurrence": [
+      {
+        "id": 1143,
+        "value": "??"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 91,
+        "value": "BSB, Clm 7942"
+      }
+    ],
+    "position_in_ms": "60r",
+    "main_ms": false,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00016426?page=120,121",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-06-30",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-06-30",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 91,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 7942, f. 60r"
+      }
+    ],
+    "view_label": "??",
+    "prev": {
+      "id": "jad_occurence__143",
+      "label": "postquam redierunt romani ipsa eversa iudei"
+    },
+    "next": {
+      "id": "jad_occurence__145",
+      "label": "secundo ponitur civitatis subversio dolorosa"
+    }
+  },
+  "145": {
+    "id": 145,
+    "jad_id": "jad_occurence__145",
+    "occurrence": [
+      {
+        "id": 1144,
+        "value": "secundo ponitur civitatis subversio dolorosa"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 93,
+        "value": "Troyes, MS 715"
+      }
+    ],
+    "position_in_ms": "74v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-06-30",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-06-30",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 93,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 715, f. 74v"
+      }
+    ],
+    "view_label": "secundo ponitur civitatis subversio dolorosa",
+    "prev": {
+      "id": "jad_occurence__144",
+      "label": "??"
+    },
+    "next": {
+      "id": "jad_occurence__146",
+      "label": "circumdabunt te inimici, romani principes, vallo"
+    }
+  },
+  "146": {
+    "id": 146,
+    "jad_id": "jad_occurence__146",
+    "occurrence": [
+      {
+        "id": 1145,
+        "value": "circumdabunt te inimici, romani principes, vallo"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 94,
+        "value": "Vat., Ross. 147"
+      }
+    ],
+    "position_in_ms": "110r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-06-30",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-06-30",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 94,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Ross. 147, f. 110r"
+      }
+    ],
+    "view_label": "circumdabunt te inimici, romani principes, vallo",
+    "prev": {
+      "id": "jad_occurence__145",
+      "label": "secundo ponitur civitatis subversio dolorosa"
+    },
+    "next": {
+      "id": "jad_occurence__147",
+      "label": "exemplo ergo suo dominus nos docuit flere de dampnis inimicorum nostrorum"
+    }
+  },
+  "147": {
+    "id": 147,
+    "jad_id": "jad_occurence__147",
+    "occurrence": [
+      {
+        "id": 1150,
+        "value": "exemplo ergo suo dominus nos docuit flere de dampnis inimicorum nostrorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 95,
+        "value": "Dominican Archive, XIV.34"
+      }
+    ],
+    "position_in_ms": "99v-100r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-06-30",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-07-01",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 95,
+          "database_table_3497": 41
+        },
+        "value": "Dominican Archive, XIV.34, f. 99v-100r"
+      }
+    ],
+    "view_label": "exemplo ergo suo dominus nos docuit flere de dampnis inimicorum nostrorum",
+    "prev": {
+      "id": "jad_occurence__146",
+      "label": "circumdabunt te inimici, romani principes, vallo"
+    },
+    "next": {
+      "id": "jad_occurence__148",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "148": {
+    "id": 148,
+    "jad_id": "jad_occurence__148",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-06-30",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-06-30",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__147",
+      "label": "exemplo ergo suo dominus nos docuit flere de dampnis inimicorum nostrorum"
+    },
+    "next": {
+      "id": "jad_occurence__149",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "149": {
+    "id": 149,
+    "jad_id": "jad_occurence__149",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-07-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-07-01",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__148",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
       "id": "jad_occurence__15",
       "label": "Anno post passionem Domini quadragesimo secundo, Titus, quem pater Vespasianus romam reversus in obsidione Ierosolimorum iudeorum dilaniavit populum, in tantum ut Iosephus commemorat"
+    }
+  },
+  "150": {
+    "id": 150,
+    "jad_id": "jad_occurence__150",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-07-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-07-01",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__15",
+      "label": "Anno post passionem Domini quadragesimo secundo, Titus, quem pater Vespasianus romam reversus in obsidione Ierosolimorum iudeorum dilaniavit populum, in tantum ut Iosephus commemorat"
+    },
+    "next": {
+      "id": "jad_occurence__151",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "151": {
+    "id": 151,
+    "jad_id": "jad_occurence__151",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-07-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-07-01",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__150",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__152",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "152": {
+    "id": 152,
+    "jad_id": "jad_occurence__152",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-07-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-07-01",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__151",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__16",
+      "label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est"
     }
   }
 }

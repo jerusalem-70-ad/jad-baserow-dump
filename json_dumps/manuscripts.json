@@ -3157,8 +3157,278 @@
   "88": {
     "id": 88,
     "order": "81.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 40,
+        "value": "Bibl. Casanatense, MS 178"
+      }
+    ],
     "jad_id": "jad_manuscript__88",
+    "library": [
+      {
+        "id": 40,
+        "value": "Bibl. Casanatense",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "MS 178",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 40,
+        "value": "Biblioteca Casanatense"
+      }
+    ]
+  },
+  "89": {
+    "id": 89,
+    "order": "82.00000000000000000000",
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, lat. 2529"
+      }
+    ],
+    "jad_id": "jad_manuscript__89",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "lat. 2529",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc603403",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 72,
+        "value": "1230s",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "format": "36 x 26, 247 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
+  },
+  "90": {
+    "id": 90,
+    "order": "83.00000000000000000000",
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., lat. 8605"
+      }
+    ],
+    "jad_id": "jad_manuscript__90",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "lat. 8605",
+    "catalog_url": "https://opac.vatlib.it/mss/detail/Vat.lat.8605",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
+  },
+  "91": {
+    "id": 91,
+    "order": "84.00000000000000000000",
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 7942"
+      }
+    ],
+    "jad_id": "jad_manuscript__91",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "idno": "Clm 7942",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991140829399707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%207942&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00016426?page=,1",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 43,
+        "value": "14th cen.",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ]
+  },
+  "92": {
+    "id": 92,
+    "order": "85.00000000000000000000",
+    "name": [
+      {
+        "id": 10,
+        "value": "Bodl., Bodley 412"
+      }
+    ],
+    "jad_id": "jad_manuscript__92",
+    "library": [
+      {
+        "id": 10,
+        "value": "Bodl.",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "idno": "Bodley 412",
+    "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1444",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 10,
+        "value": "Bodleian Library"
+      }
+    ]
+  },
+  "93": {
+    "id": 93,
+    "order": "86.00000000000000000000",
+    "name": [
+      {
+        "id": 9,
+        "value": "Troyes, MS 715"
+      }
+    ],
+    "jad_id": "jad_manuscript__93",
+    "library": [
+      {
+        "id": 9,
+        "value": "Troyes",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "idno": "MS 715",
+    "catalog_url": "https://www.bibliotheque-virtuelle-clairvaux.com/manuscrits/",
+    "digi_url": "https://www.bibliotheque-virtuelle-clairvaux.com/manuscrits/",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 43,
+        "value": "14th cen.",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 9,
+        "value": "Bibliothèque municipale (Troyes)"
+      }
+    ]
+  },
+  "94": {
+    "id": 94,
+    "order": "87.00000000000000000000",
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Ross. 147"
+      }
+    ],
+    "jad_id": "jad_manuscript__94",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Ross. 147",
+    "catalog_url": "https://opac.vatlib.it/mss/detail/Ross.147",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Ross.147",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
+  },
+  "95": {
+    "id": 95,
+    "order": "88.00000000000000000000",
+    "name": [
+      {
+        "id": 41,
+        "value": "Dominican Archive, XIV.34"
+      }
+    ],
+    "jad_id": "jad_manuscript__95",
+    "library": [
+      {
+        "id": 41,
+        "value": "Dominican Archive",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "idno": "XIV.34",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [
+      {
+        "id": 18,
+        "value": "Dominicans",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 41,
+        "value": "Archivium Generale Ordinis Praedicatorum"
+      }
+    ]
+  },
+  "96": {
+    "id": 96,
+    "order": "89.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__96",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -3168,11 +3438,25 @@
     "format": "",
     "library_full": []
   },
-  "89": {
-    "id": 89,
-    "order": "82.00000000000000000000",
+  "97": {
+    "id": 97,
+    "order": "90.00000000000000000000",
     "name": [],
-    "jad_id": "jad_manuscript__89",
+    "jad_id": "jad_manuscript__97",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "98": {
+    "id": 98,
+    "order": "91.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__98",
     "library": [],
     "idno": "",
     "catalog_url": "",
