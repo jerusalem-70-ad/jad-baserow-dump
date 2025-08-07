@@ -16978,22 +16978,50 @@
   "399": {
     "id": 399,
     "order": "386.00000000000000000000",
-    "name": " ",
+    "name": "Descriptio Lateranensis Ecclesiae ",
     "jad_id": "jad_work__399",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 96,
+        "value": "Vat., Reg. lat. 712",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "title": "Descriptio Lateranensis Ecclesiae",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 10,
+        "value": "around 1100",
+        "order": "10.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": ""
+    "volume_edition_or_individual_editor": "Oftestad"
   },
   "400": {
     "id": 400,

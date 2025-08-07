@@ -3427,16 +3427,32 @@
   "96": {
     "id": 96,
     "order": "89.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Reg. lat. 712"
+      }
+    ],
     "jad_id": "jad_manuscript__96",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Reg. lat. 712",
+    "catalog_url": "https://digi.vatlib.it/view/MSS_Reg.lat.712",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Reg.lat.712",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
   },
   "97": {
     "id": 97,

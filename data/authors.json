@@ -2115,6 +2115,67 @@
           "id": "jad_work__366",
           "label": "Breviarium in Psalmos "
         }
+      },
+      {
+        "id": 399,
+        "name": "Descriptio Lateranensis Ecclesiae ",
+        "jad_id": "jad_work__399",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 96,
+            "value": "Vat., Reg. lat. 712"
+          }
+        ],
+        "title": "Descriptio Lateranensis Ecclesiae",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 10,
+            "value": "around 1100"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Oftestad",
+        "view_label": "Descriptio Lateranensis Ecclesiae ",
+        "prev": {
+          "id": "jad_work__398",
+          "label": "Sermones moralissimi de tempore "
+        },
+        "next": {
+          "id": "jad_work__4",
+          "label": "Commentary Psalms "
+        }
       }
     ]
   },
@@ -2221,7 +2282,7 @@
         "view_label": "Commentary Psalms ",
         "prev": {
           "id": "jad_work__399",
-          "label": " "
+          "label": "Descriptio Lateranensis Ecclesiae "
         },
         "next": {
           "id": "jad_work__40",
@@ -27725,7 +27786,7 @@
         },
         "next": {
           "id": "jad_work__399",
-          "label": " "
+          "label": "Descriptio Lateranensis Ecclesiae "
         }
       }
     ]
