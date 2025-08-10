@@ -1156,8 +1156,8 @@
     "place": [],
     "view_label": "Benedictines",
     "prev": {
-      "id": "jad_institutional_context__21",
-      "label": "Benedictines Reichenau"
+      "id": "jad_institutional_context__22",
+      "label": "Benedictines Monte Cassino"
     },
     "next": {
       "id": "jad_institutional_context__4",
@@ -2098,8 +2098,8 @@
       "label": "Benedictines Mondsee"
     },
     "next": {
-      "id": "jad_institutional_context__3",
-      "label": "Benedictines"
+      "id": "jad_institutional_context__22",
+      "label": "Benedictines Monte Cassino"
     },
     "related__manuscripts": [
       {
@@ -2176,5 +2176,34 @@
         }
       }
     ]
+  },
+  "22": {
+    "id": 22,
+    "name": "Benedictines Monte Cassino",
+    "jad_id": "jad_institutional_context__22",
+    "part_of": [
+      {
+        "id": 3,
+        "name": "Benedictines",
+        "jad_id": "jad_institutional_context__3",
+        "part_of": [],
+        "gnd_url": "https://d-nb.info/gnd/25880-5",
+        "wikidata": "",
+        "place": []
+      }
+    ],
+    "gnd_url": "",
+    "wikidata": "",
+    "place": [],
+    "view_label": "Benedictines Monte Cassino",
+    "prev": {
+      "id": "jad_institutional_context__21",
+      "label": "Benedictines Reichenau"
+    },
+    "next": {
+      "id": "jad_institutional_context__3",
+      "label": "Benedictines"
+    },
+    "related__manuscripts": []
   }
 }

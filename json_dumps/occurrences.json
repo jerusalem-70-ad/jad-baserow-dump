@@ -72115,7 +72115,13 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 1,
+        "value": "Crusades",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
@@ -72146,22 +72152,48 @@
   "1153": {
     "id": 1153,
     "order": "1090.00000000000000000000",
-    "passage": "",
+    "passage": "Tytus autem et Vespasianus delata urbe",
     "jad_id": "jad_occurrence__1153",
     "language": null,
     "position_in_work": "",
-    "text_paragraph": "",
-    "note": "",
+    "text_paragraph": "Tytus autem et Vespasianus delata urbe non tantum ab incolis, sed et ab archa federis et que in ea erant eam privaverunt, et secum Rome detulerunt, ut inter Palladium et montem Palatium juxta Ecclesiam sancte Marie Nove in arcubus triumphalibus sculptum apparet",
+    "note": "Eivor Andersen Oftestad, *The Lateran Church in Rome and the Ark of the Covenant: housing the Holy Relics of Jerusalem: with an edition and translation of the Descriptio lateranensis ecclesiae (BAV Reg. Lat. 712)* (Woodbridge 2019).",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 400,
+        "value": "Descriptio locorum circa Hierusalem adjacentum ",
+        "order": "387.00000000000000000000"
+      }
+    ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 1,
+        "value": "Crusades",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 10,
+        "value": "Secondary literature",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 3,
+          "database_table_3499": 400
+        },
+        "value": "anonymous"
+      }
+    ],
     "source_passage": [],
     "mss_locus": [],
     "occurrence_ms": [],
@@ -72173,22 +72205,42 @@
   "1154": {
     "id": 1154,
     "order": "1091.00000000000000000000",
-    "passage": "",
+    "passage": "A Vespasiano patre atque Tito filio / Perdiderunt locum suum",
     "jad_id": "jad_occurrence__1154",
     "language": null,
     "position_in_work": "",
-    "text_paragraph": "",
-    "note": "",
+    "text_paragraph": "Sed per iustum occultumque domini iudicium, / Qui negarunt deum patrem atque simul filium, A Vespasiano patre atque Tito filio / Perdiderunt locum suum pariter cum populo",
+    "note": "Eivor Andersen Oftestad, *The Lateran Church in Rome and the Ark of the Covenant: housing the Holy Relics of Jerusalem: with an edition and translation of the Descriptio lateranensis ecclesiae (BAV Reg. Lat. 712)* (Woodbridge 2019).",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 403,
+        "value": "Super templo Salomonis ",
+        "order": "390.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 10,
+        "value": "Secondary literature",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 131,
+          "database_table_3499": 403
+        },
+        "value": "Geoffrey, prior of the templum domini"
+      }
+    ],
     "source_passage": [],
     "mss_locus": [],
     "occurrence_ms": [],
@@ -72200,22 +72252,42 @@
   "1155": {
     "id": 1155,
     "order": "1092.00000000000000000000",
-    "passage": "",
+    "passage": "Titus et Vespasianus, Romanorum principes / superveniunt",
     "jad_id": "jad_occurrence__1155",
     "language": null,
     "position_in_work": "",
-    "text_paragraph": "",
-    "note": "",
+    "text_paragraph": "Evolutis a diebus passionis domini / quadraginta et duorum annorum curriculis /\nTitus et Vespasianus, Romanorum principes / superveniunt tantorum peccatorum\nvindices",
+    "note": "Eivor Andersen Oftestad, *The Lateran Church in Rome and the Ark of the Covenant: housing the Holy Relics of Jerusalem: with an edition and translation of the Descriptio lateranensis ecclesiae (BAV Reg. Lat. 712)* (Woodbridge 2019).",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 403,
+        "value": "Super templo Salomonis ",
+        "order": "390.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 10,
+        "value": "Secondary literature",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 131,
+          "database_table_3499": 403
+        },
+        "value": "Geoffrey, prior of the templum domini"
+      }
+    ],
     "source_passage": [],
     "mss_locus": [],
     "occurrence_ms": [],

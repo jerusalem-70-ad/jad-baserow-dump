@@ -6905,14 +6905,14 @@
     "notes__author": "",
     "institutional_context": [
       {
-        "id": 3,
-        "value": "Benedictines",
-        "order": "3.00000000000000000000"
-      },
-      {
         "id": 14,
         "value": "Carolingian court",
         "order": "14.00000000000000000000"
+      },
+      {
+        "id": 22,
+        "value": "Benedictines Monte Cassino",
+        "order": "22.00000000000000000000"
       }
     ],
     "published_edition": [
@@ -8002,7 +8002,18 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 14,
+        "value": "Carolingian court",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 22,
+        "value": "Benedictines Monte Cassino",
+        "order": "22.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 2,
@@ -14467,14 +14478,26 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
+    "institutional_context": [
+      {
+        "id": 22,
+        "value": "Benedictines Monte Cassino",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
-        "id": 13,
-        "value": "12th cen., first half",
-        "order": "13.00000000000000000000"
+        "id": 73,
+        "value": "1130s",
+        "order": "72.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -17026,22 +17049,44 @@
   "400": {
     "id": 400,
     "order": "387.00000000000000000000",
-    "name": " ",
+    "name": "Descriptio locorum circa Hierusalem adjacentum ",
     "jad_id": "jad_work__400",
-    "author": [],
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Descriptio locorum circa Hierusalem adjacentum",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 73,
+        "value": "1130s",
+        "order": "72.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": ""
+    "volume_edition_or_individual_editor": "M. de Vogüé, ed., Les Églises de la Terre Sainte (Paris 1860)."
   },
   "401": {
     "id": 401,
@@ -17082,5 +17127,59 @@
     "author_certainty": false,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
+  },
+  "403": {
+    "id": 403,
+    "order": "390.00000000000000000000",
+    "name": "Super templo Salomonis ",
+    "jad_id": "jad_work__403",
+    "author": [
+      {
+        "id": 131,
+        "value": "Geoffrey, prior of the templum domini",
+        "order": "127.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 97,
+        "value": "Vat., Reg. lat. 150",
+        "order": "90.00000000000000000000"
+      }
+    ],
+    "title": "Super templo Salomonis",
+    "genre": {
+      "id": 18451,
+      "value": "Poetry",
+      "color": "orange"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 4,
+        "value": "Kingdom of Jerusalem",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Lehmann, Paul, ‘Die mittellateinischen Dichtungen der Prioren des Tempels von Jerusalem Acardus und Gaufridus’, in Corona Quernea. Festgabe Karl Strecker zum 80. Geburtstage dargebracht (Leipzig 1941), pp. 296–330."
   }
 }

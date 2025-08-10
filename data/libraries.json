@@ -6127,6 +6127,54 @@
         },
         "next": {
           "id": "jad_manuscript__97",
+          "label": "Vat., Reg. lat. 150"
+        }
+      },
+      {
+        "id": 97,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., Reg. lat. 150"
+          }
+        ],
+        "jad_id": "jad_manuscript__97",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
+          }
+        ],
+        "idno": "Reg. lat. 150",
+        "catalog_url": "https://digi.vatlib.it/view/MSS_Reg.lat.150",
+        "digi_url": "https://digi.vatlib.it/view/MSS_Reg.lat.150",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., Reg. lat. 150",
+        "prev": {
+          "id": "jad_manuscript__96",
+          "label": "Vat., Reg. lat. 712"
+        },
+        "next": {
+          "id": "jad_manuscript__98",
           "label": "NO MATCH FOR $..name[0].value"
         }
       }

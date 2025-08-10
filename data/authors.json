@@ -825,7 +825,7 @@
         },
         "next": {
           "id": "jad_work__400",
-          "label": " "
+          "label": "Descriptio locorum circa Hierusalem adjacentum "
         }
       },
       {
@@ -876,8 +876,8 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Sermones de tempore ",
         "prev": {
-          "id": "jad_work__402",
-          "label": " "
+          "id": "jad_work__403",
+          "label": "Super templo Salomonis "
         },
         "next": {
           "id": "jad_work__42",
@@ -2175,6 +2175,62 @@
         "next": {
           "id": "jad_work__4",
           "label": "Commentary Psalms "
+        }
+      },
+      {
+        "id": 400,
+        "name": "Descriptio locorum circa Hierusalem adjacentum ",
+        "jad_id": "jad_work__400",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Descriptio locorum circa Hierusalem adjacentum",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 73,
+            "value": "1130s"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "M. de Vogüé, ed., Les Églises de la Terre Sainte (Paris 1860).",
+        "view_label": "Descriptio locorum circa Hierusalem adjacentum ",
+        "prev": {
+          "id": "jad_work__40",
+          "label": "Homiliarium Mondseense "
+        },
+        "next": {
+          "id": "jad_work__401",
+          "label": " "
         }
       }
     ]
@@ -16584,19 +16640,29 @@
         "notes__author": "",
         "institutional_context": [
           {
-            "id": 3,
-            "name": "Benedictines",
-            "jad_id": "jad_institutional_context__3",
-            "part_of": [],
-            "gnd_url": "https://d-nb.info/gnd/25880-5",
-            "wikidata": "",
-            "place": []
-          },
-          {
             "id": 14,
             "name": "Carolingian court",
             "jad_id": "jad_institutional_context__14",
             "part_of": [],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          },
+          {
+            "id": 22,
+            "name": "Benedictines Monte Cassino",
+            "jad_id": "jad_institutional_context__22",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": [],
+                "gnd_url": "https://d-nb.info/gnd/25880-5",
+                "wikidata": "",
+                "place": []
+              }
+            ],
             "gnd_url": "",
             "wikidata": "",
             "place": []
@@ -16657,7 +16723,36 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 14,
+            "name": "Carolingian court",
+            "jad_id": "jad_institutional_context__14",
+            "part_of": [],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          },
+          {
+            "id": 22,
+            "name": "Benedictines Monte Cassino",
+            "jad_id": "jad_institutional_context__22",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": [],
+                "gnd_url": "https://d-nb.info/gnd/25880-5",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
         "published_edition": [
           {
             "id": 2,
@@ -22253,6 +22348,77 @@
           "id": "jad_work__291",
           "label": "Excerpta ex Historia ecclesiastica "
         }
+      },
+      {
+        "id": 403,
+        "name": "Super templo Salomonis ",
+        "jad_id": "jad_work__403",
+        "author": [
+          {
+            "id": 131,
+            "name": "Geoffrey, prior of the templum domini",
+            "jad_id": "jad_author__131",
+            "gnd_url": "",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 97,
+            "value": "Vat., Reg. lat. 150"
+          }
+        ],
+        "title": "Super templo Salomonis",
+        "genre": {
+          "id": 18451,
+          "value": "Poetry",
+          "color": "orange"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 4,
+            "name": "Kingdom of Jerusalem",
+            "jad_id": "jad_institutional_context__4",
+            "part_of": [],
+            "gnd_url": "https://d-nb.info/gnd/4028588-1",
+            "wikidata": "https://www.wikidata.org/wiki/Q55502",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Lehmann, Paul, ‘Die mittellateinischen Dichtungen der Prioren des Tempels von Jerusalem Acardus und Gaufridus’, in Corona Quernea. Festgabe Karl Strecker zum 80. Geburtstage dargebracht (Leipzig 1941), pp. 296–330.",
+        "view_label": "Super templo Salomonis ",
+        "prev": {
+          "id": "jad_work__402",
+          "label": " "
+        },
+        "next": {
+          "id": "jad_work__41",
+          "label": "Sermones de tempore "
+        }
       }
     ]
   },
@@ -24588,13 +24754,40 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
-        "published_edition": [],
+        "institutional_context": [
+          {
+            "id": 22,
+            "name": "Benedictines Monte Cassino",
+            "jad_id": "jad_institutional_context__22",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": [],
+                "gnd_url": "https://d-nb.info/gnd/25880-5",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
-            "id": 13,
-            "value": "12th cen., first half"
+            "id": 73,
+            "value": "1130s"
           }
         ],
         "link_digital_editions": "",
