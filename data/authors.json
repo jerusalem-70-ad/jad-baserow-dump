@@ -249,7 +249,7 @@
     "view_label": "Martin, of León",
     "prev": {
       "id": "jad_author__192",
-      "label": ""
+      "label": "Verecundus Iuncensis"
     },
     "next": {
       "id": "jad_author__20",
@@ -876,8 +876,8 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Sermones de tempore ",
         "prev": {
-          "id": "jad_work__403",
-          "label": "Super templo Salomonis "
+          "id": "jad_work__405",
+          "label": "Commentarii super cantica ecclesiastica "
         },
         "next": {
           "id": "jad_work__42",
@@ -2230,7 +2230,124 @@
         },
         "next": {
           "id": "jad_work__401",
-          "label": " "
+          "label": "Passionarium Hispanicum saeculi undecimi "
+        }
+      },
+      {
+        "id": 401,
+        "name": "Passionarium Hispanicum saeculi undecimi ",
+        "jad_id": "jad_work__401",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Passionarium Hispanicum saeculi undecimi",
+        "genre": {
+          "id": 15028,
+          "value": "Hagiography",
+          "color": "darker-blue"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 68,
+            "value": "11th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Passionarium Hispanicum saeculi undecimi ",
+        "prev": {
+          "id": "jad_work__400",
+          "label": "Descriptio locorum circa Hierusalem adjacentum "
+        },
+        "next": {
+          "id": "jad_work__402",
+          "label": "In librum primum Regum expositionum libri VI "
+        }
+      },
+      {
+        "id": 404,
+        "name": "Psalterium Suthantoniense (Southampton) ",
+        "jad_id": "jad_work__404",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 98,
+            "value": "Cambr. St.John's Coll., C. 9"
+          }
+        ],
+        "title": "Psalterium Suthantoniense (Southampton)",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 18,
+            "value": "around 1000"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Psalterium Suthantoniense (Southampton) ",
+        "prev": {
+          "id": "jad_work__403",
+          "label": "Super templo Salomonis "
+        },
+        "next": {
+          "id": "jad_work__405",
+          "label": "Commentarii super cantica ecclesiastica "
         }
       }
     ]
@@ -19687,7 +19804,7 @@
         "link_digital_editions": "https://fedora.phaidra.univie.ac.at/fedora/objects/o:72111/methods/bdef:Book/view#",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "Voisin",
+        "volume_edition_or_individual_editor": "Raymundi Martini Ordinis Praedicatorum Pugio Fidei Adversus Mauros Et Judaeos, Joseph de Voisin (Lipsiae 1687).",
         "view_label": "Pugio fidei ",
         "prev": {
           "id": "jad_work__242",
@@ -22413,11 +22530,11 @@
         "view_label": "Super templo Salomonis ",
         "prev": {
           "id": "jad_work__402",
-          "label": " "
+          "label": "In librum primum Regum expositionum libri VI "
         },
         "next": {
-          "id": "jad_work__41",
-          "label": "Sermones de tempore "
+          "id": "jad_work__404",
+          "label": "Psalterium Suthantoniense (Southampton) "
         }
       }
     ]
@@ -27923,7 +28040,7 @@
     },
     "next": {
       "id": "jad_author__191",
-      "label": ""
+      "label": "Petrus de Cava"
     },
     "related__works": [
       {
@@ -27986,44 +28103,158 @@
   },
   "191": {
     "id": 191,
-    "name": "",
+    "name": "Petrus de Cava",
     "jad_id": "jad_author__191",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/115467688",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Pierre, de Salerne | Pietro, Salernitano | Pierre, Saint | Pietro, de Cava | Pierre, de Pappacarbone | Pietro, de Policastro | Salerno, Petrus | Pierre, de la Cava | Pierre, de Cava | Salerno, Petrus de",
     "date_of_birth": "",
     "date_of_death": "",
-    "view_label": "",
+    "view_label": "Petrus de Cava",
     "prev": {
       "id": "jad_author__190",
       "label": "Nicolaus, de Aquaevilla"
     },
     "next": {
       "id": "jad_author__192",
-      "label": ""
+      "label": "Verecundus Iuncensis"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 402,
+        "name": "In librum primum Regum expositionum libri VI ",
+        "jad_id": "jad_work__402",
+        "author": [
+          {
+            "id": 191,
+            "name": "Petrus de Cava",
+            "jad_id": "jad_author__191",
+            "gnd_url": "https://d-nb.info/gnd/115467688",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Pierre, de Salerne | Pietro, Salernitano | Pierre, Saint | Pietro, de Cava | Pierre, de Pappacarbone | Pietro, de Policastro | Salerno, Petrus | Pierre, de la Cava | Pierre, de Cava | Salerno, Petrus de",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "In librum primum Regum expositionum libri VI",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "In librum primum Regum expositionum libri VI ",
+        "prev": {
+          "id": "jad_work__401",
+          "label": "Passionarium Hispanicum saeculi undecimi "
+        },
+        "next": {
+          "id": "jad_work__403",
+          "label": "Super templo Salomonis "
+        }
+      }
+    ]
   },
   "192": {
     "id": 192,
-    "name": "",
+    "name": "Verecundus Iuncensis",
     "jad_id": "jad_author__192",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100963781",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Verecundus, Africanus | Verecundus, Episcopus | Verecundus, de Junca",
     "date_of_birth": "",
-    "date_of_death": "",
-    "view_label": "",
+    "date_of_death": "0552",
+    "view_label": "Verecundus Iuncensis",
     "prev": {
       "id": "jad_author__191",
-      "label": ""
+      "label": "Petrus de Cava"
     },
     "next": {
       "id": "jad_author__2",
       "label": "Martin, of León"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 405,
+        "name": "Commentarii super cantica ecclesiastica ",
+        "jad_id": "jad_work__405",
+        "author": [
+          {
+            "id": 192,
+            "name": "Verecundus Iuncensis",
+            "jad_id": "jad_author__192",
+            "gnd_url": "https://d-nb.info/gnd/100963781",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Verecundus, Africanus | Verecundus, Episcopus | Verecundus, de Junca",
+            "date_of_birth": "",
+            "date_of_death": "0552"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentarii super cantica ecclesiastica",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 40,
+            "value": "6th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Commentarii super cantica ecclesiastica ",
+        "prev": {
+          "id": "jad_work__404",
+          "label": "Psalterium Suthantoniense (Southampton) "
+        },
+        "next": {
+          "id": "jad_work__41",
+          "label": "Sermones de tempore "
+        }
+      }
+    ]
   }
 }

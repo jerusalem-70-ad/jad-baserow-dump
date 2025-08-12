@@ -3487,15 +3487,37 @@
   "98": {
     "id": 98,
     "order": "91.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 8,
+        "value": "Cambr. St.John's Coll., C. 9"
+      }
+    ],
     "jad_id": "jad_manuscript__98",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 8,
+        "value": "Cambr. St.John's Coll.",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "idno": "C. 9",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 18,
+        "value": "around 1000",
+        "order": "18.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 8,
+        "value": "St John's College (Cambridge)"
+      }
+    ]
   }
 }

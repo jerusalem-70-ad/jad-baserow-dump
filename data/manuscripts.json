@@ -598,7 +598,7 @@
     "view_label": "BNF, Latin 446",
     "prev": {
       "id": "jad_manuscript__98",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Cambr. St.John's Coll., C. 9"
     },
     "next": {
       "id": "jad_manuscript__11",
@@ -5430,22 +5430,53 @@
     },
     "next": {
       "id": "jad_manuscript__98",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Cambr. St.John's Coll., C. 9"
     }
   },
   "98": {
     "id": 98,
-    "name": [],
+    "name": [
+      {
+        "id": 8,
+        "value": "Cambr. St.John's Coll., C. 9"
+      }
+    ],
     "jad_id": "jad_manuscript__98",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 8,
+        "value": "Cambr. St.John's Coll.",
+        "jad_id": "jad_library__8",
+        "gnd_url": "https://d-nb.info/gnd/18387-8",
+        "full_name": "St John's College (Cambridge)",
+        "place": [
+          {
+            "id": 7,
+            "name": "Cambridge",
+            "geonames_url": "https://www.geonames.org/2653941/cambridge.html",
+            "jad_id": "jad_places__7"
+          }
+        ]
+      }
+    ],
+    "idno": "C. 9",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 18,
+        "value": "around 1000"
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 8,
+        "value": "St John's College (Cambridge)"
+      }
+    ],
+    "view_label": "Cambr. St.John's Coll., C. 9",
     "prev": {
       "id": "jad_manuscript__97",
       "label": "Vat., Reg. lat. 150"
