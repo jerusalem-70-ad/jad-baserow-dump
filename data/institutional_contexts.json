@@ -414,8 +414,8 @@
         ],
         "view_label": "St. Gen., MS 2787",
         "prev": {
-          "id": "jad_manuscript__11",
-          "label": "BNF, Latin 3737"
+          "id": "jad_manuscript__110",
+          "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
           "id": "jad_manuscript__13",
@@ -1163,7 +1163,71 @@
       "id": "jad_institutional_context__4",
       "label": "Kingdom of Jerusalem"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 99,
+        "name": [
+          {
+            "id": 10,
+            "value": "Bodl., Bodley 868"
+          }
+        ],
+        "jad_id": "jad_manuscript__99",
+        "library": [
+          {
+            "id": 10,
+            "value": "Bodl.",
+            "jad_id": "jad_library__10",
+            "gnd_url": "https://d-nb.info/gnd/38352-1",
+            "full_name": "Bodleian Library",
+            "place": [
+              {
+                "id": 6,
+                "name": "Oxford",
+                "geonames_url": "https://www.geonames.org/2640729/oxford.html",
+                "jad_id": "jad_places__6"
+              }
+            ]
+          }
+        ],
+        "idno": "Bodley 868",
+        "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1859",
+        "digi_url": "",
+        "institutional_context": [
+          {
+            "id": 3,
+            "name": "Benedictines",
+            "jad_id": "jad_institutional_context__3",
+            "part_of": [],
+            "gnd_url": "https://d-nb.info/gnd/25880-5",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "date_written": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 10,
+            "value": "Bodleian Library"
+          }
+        ],
+        "view_label": "Bodl., Bodley 868",
+        "prev": {
+          "id": "jad_manuscript__98",
+          "label": "Cambr. St.John's Coll., C. 9"
+        },
+        "next": {
+          "id": "jad_manuscript__10",
+          "label": "BNF, Latin 446"
+        }
+      }
+    ]
   },
   "4": {
     "id": 4,

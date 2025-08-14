@@ -876,12 +876,12 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Sermones de tempore ",
         "prev": {
-          "id": "jad_work__405",
-          "label": "Commentarii super cantica ecclesiastica "
+          "id": "jad_work__409",
+          "label": " "
         },
         "next": {
-          "id": "jad_work__42",
-          "label": "Historia Scholastica "
+          "id": "jad_work__410",
+          "label": " "
         }
       },
       {
@@ -5531,8 +5531,8 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Historia Scholastica ",
         "prev": {
-          "id": "jad_work__41",
-          "label": "Sermones de tempore "
+          "id": "jad_work__412",
+          "label": " "
         },
         "next": {
           "id": "jad_work__43",
@@ -26140,6 +26140,67 @@
           "id": "jad_work__357",
           "label": "Annales Hildesheimenses Quedlinburgenses et Lamberti "
         }
+      },
+      {
+        "id": 406,
+        "name": "Liber super explanationem Lamentationum Ieremiae prophetae ",
+        "jad_id": "jad_work__406",
+        "author": [
+          {
+            "id": 169,
+            "name": "William, of Malmesbury",
+            "jad_id": "jad_author__169",
+            "gnd_url": "https://d-nb.info/gnd/118643363",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Guilelmus, Malmesburiensis | Guilelmus, Meldunensis | William, von Malmesbury | Willielmus, Malmesbiriensis | William, Malmesbury | Guillelmus Malmesburiensis | Guillelmus Bibliothecarius | Guilelmus, Bibliothecarius | Wilhelmus, Somersetensis | Wilhelmus, Sommersetensis | Guilelmus Meldunensis | Willelmus, Malmesbiriensis | Guilelmus, de Malmesbury | Willelmus, Meldunensis | Guilelmus, Somerset | Guilelmus, Malmesbiriensis | Guillaume, de Malmesbury | Guilelmus Bibliothecarius | Guilelmus, Somersetensis | Guglielmo, di Malmesbury | Wilhelmus Malmesburiensis | Wilhelm, Somersetensis | William, of Malmesbury | Guilelmus, Wigorniensis | Guillaume de Malmesbury | Malmesbury, William | Guilelmus, Malmesbirensis | Wilhelmus, Malmesburiensis | Guilelmus Malmesburiensis | Malmesbury, William of | Guglielmo di Malmesbury | Guillermo, de Malmesbury",
+            "date_of_birth": "1080",
+            "date_of_death": "1142"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 99,
+            "value": "Bodl., Bodley 868"
+          }
+        ],
+        "title": "Liber super explanationem Lamentationum Ieremiae prophetae",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 73,
+            "value": "1130s"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Liber super explanationem Lamentationum Ieremiae prophetae ",
+        "prev": {
+          "id": "jad_work__405",
+          "label": "Commentarii super cantica ecclesiastica "
+        },
+        "next": {
+          "id": "jad_work__407",
+          "label": " "
+        }
       }
     ]
   },
@@ -28251,8 +28312,8 @@
           "label": "Psalterium Suthantoniense (Southampton) "
         },
         "next": {
-          "id": "jad_work__41",
-          "label": "Sermones de tempore "
+          "id": "jad_work__406",
+          "label": "Liber super explanationem Lamentationum Ieremiae prophetae "
         }
       }
     ]

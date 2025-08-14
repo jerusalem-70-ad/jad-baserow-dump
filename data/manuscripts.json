@@ -597,12 +597,12 @@
     ],
     "view_label": "BNF, Latin 446",
     "prev": {
-      "id": "jad_manuscript__98",
-      "label": "Cambr. St.John's Coll., C. 9"
+      "id": "jad_manuscript__99",
+      "label": "Bodl., Bodley 868"
     },
     "next": {
-      "id": "jad_manuscript__11",
-      "label": "BNF, Latin 3737"
+      "id": "jad_manuscript__100",
+      "label": "NO MATCH FOR $..name[0].value"
     }
   },
   "11": {
@@ -650,12 +650,12 @@
     ],
     "view_label": "BNF, Latin 3737",
     "prev": {
-      "id": "jad_manuscript__10",
-      "label": "BNF, Latin 446"
+      "id": "jad_manuscript__109",
+      "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
-      "id": "jad_manuscript__12",
-      "label": "St. Gen., MS 2787"
+      "id": "jad_manuscript__110",
+      "label": "NO MATCH FOR $..name[0].value"
     }
   },
   "12": {
@@ -728,8 +728,8 @@
     ],
     "view_label": "St. Gen., MS 2787",
     "prev": {
-      "id": "jad_manuscript__11",
-      "label": "BNF, Latin 3737"
+      "id": "jad_manuscript__110",
+      "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
       "id": "jad_manuscript__13",
@@ -5482,8 +5482,313 @@
       "label": "Vat., Reg. lat. 150"
     },
     "next": {
+      "id": "jad_manuscript__99",
+      "label": "Bodl., Bodley 868"
+    }
+  },
+  "99": {
+    "id": 99,
+    "name": [
+      {
+        "id": 10,
+        "value": "Bodl., Bodley 868"
+      }
+    ],
+    "jad_id": "jad_manuscript__99",
+    "library": [
+      {
+        "id": 10,
+        "value": "Bodl.",
+        "jad_id": "jad_library__10",
+        "gnd_url": "https://d-nb.info/gnd/38352-1",
+        "full_name": "Bodleian Library",
+        "place": [
+          {
+            "id": 6,
+            "name": "Oxford",
+            "geonames_url": "https://www.geonames.org/2640729/oxford.html",
+            "jad_id": "jad_places__6"
+          }
+        ]
+      }
+    ],
+    "idno": "Bodley 868",
+    "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1859",
+    "digi_url": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "name": "Benedictines",
+        "jad_id": "jad_institutional_context__3",
+        "part_of": [],
+        "gnd_url": "https://d-nb.info/gnd/25880-5",
+        "wikidata": "",
+        "place": []
+      }
+    ],
+    "date_written": [
+      {
+        "id": 4,
+        "value": "mid 12th cen."
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 10,
+        "value": "Bodleian Library"
+      }
+    ],
+    "view_label": "Bodl., Bodley 868",
+    "prev": {
+      "id": "jad_manuscript__98",
+      "label": "Cambr. St.John's Coll., C. 9"
+    },
+    "next": {
       "id": "jad_manuscript__10",
       "label": "BNF, Latin 446"
+    }
+  },
+  "100": {
+    "id": 100,
+    "name": [],
+    "jad_id": "jad_manuscript__100",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__10",
+      "label": "BNF, Latin 446"
+    },
+    "next": {
+      "id": "jad_manuscript__101",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "101": {
+    "id": 101,
+    "name": [],
+    "jad_id": "jad_manuscript__101",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__100",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__102",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "102": {
+    "id": 102,
+    "name": [],
+    "jad_id": "jad_manuscript__102",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__101",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__103",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "103": {
+    "id": 103,
+    "name": [],
+    "jad_id": "jad_manuscript__103",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__102",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__104",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "104": {
+    "id": 104,
+    "name": [],
+    "jad_id": "jad_manuscript__104",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__103",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__105",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "105": {
+    "id": 105,
+    "name": [],
+    "jad_id": "jad_manuscript__105",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__104",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__106",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "106": {
+    "id": 106,
+    "name": [],
+    "jad_id": "jad_manuscript__106",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__105",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__107",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "107": {
+    "id": 107,
+    "name": [],
+    "jad_id": "jad_manuscript__107",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__106",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__108",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "108": {
+    "id": 108,
+    "name": [],
+    "jad_id": "jad_manuscript__108",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__107",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__109",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "109": {
+    "id": 109,
+    "name": [],
+    "jad_id": "jad_manuscript__109",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__108",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__11",
+      "label": "BNF, Latin 3737"
+    }
+  },
+  "110": {
+    "id": 110,
+    "name": [],
+    "jad_id": "jad_manuscript__110",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__11",
+      "label": "BNF, Latin 3737"
+    },
+    "next": {
+      "id": "jad_manuscript__12",
+      "label": "St. Gen., MS 2787"
     }
   }
 }
