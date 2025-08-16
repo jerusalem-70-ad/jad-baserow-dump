@@ -403,8 +403,8 @@
       "label": "Soph. 1,8"
     },
     "next": {
-      "id": "jad_biblical_reference__25",
-      "label": "Lam. 3,11"
+      "id": "jad_biblical_reference__240",
+      "label": "Job 12,4"
     }
   },
   "25": {
@@ -416,8 +416,8 @@
     "description": null,
     "view_label": "Lam. 3,11",
     "prev": {
-      "id": "jad_biblical_reference__24",
-      "label": "Lam. 3,12"
+      "id": "jad_biblical_reference__244",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__26",
@@ -3991,37 +3991,37 @@
     },
     "next": {
       "id": "jad_biblical_reference__237",
-      "label": ""
+      "label": "Lk. 1,78"
     }
   },
   "237": {
     "id": 237,
-    "name": "",
+    "name": "Lk. 1,78",
     "jad_id": "jad_biblical_reference__237",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
-    "view_label": "",
+    "view_label": "Lk. 1,78",
     "prev": {
       "id": "jad_biblical_reference__236",
       "label": "Rev. 6,10"
     },
     "next": {
       "id": "jad_biblical_reference__238",
-      "label": ""
+      "label": "Zach. 13,6"
     }
   },
   "238": {
     "id": 238,
-    "name": "",
+    "name": "Zach. 13,6",
     "jad_id": "jad_biblical_reference__238",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
-    "view_label": "",
+    "view_label": "Zach. 13,6",
     "prev": {
       "id": "jad_biblical_reference__237",
-      "label": ""
+      "label": "Lk. 1,78"
     },
     "next": {
       "id": "jad_biblical_reference__239",
@@ -4038,11 +4038,96 @@
     "view_label": "Soph. 1,8",
     "prev": {
       "id": "jad_biblical_reference__238",
-      "label": ""
+      "label": "Zach. 13,6"
     },
     "next": {
       "id": "jad_biblical_reference__24",
       "label": "Lam. 3,12"
+    }
+  },
+  "240": {
+    "id": 240,
+    "name": "Job 12,4",
+    "jad_id": "jad_biblical_reference__240",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Job 12,4",
+    "prev": {
+      "id": "jad_biblical_reference__24",
+      "label": "Lam. 3,12"
+    },
+    "next": {
+      "id": "jad_biblical_reference__241",
+      "label": "Mt. 21,38"
+    }
+  },
+  "241": {
+    "id": 241,
+    "name": "Mt. 21,38",
+    "jad_id": "jad_biblical_reference__241",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Mt. 21,38",
+    "prev": {
+      "id": "jad_biblical_reference__240",
+      "label": "Job 12,4"
+    },
+    "next": {
+      "id": "jad_biblical_reference__242",
+      "label": "Mich. 5,1"
+    }
+  },
+  "242": {
+    "id": 242,
+    "name": "Mich. 5,1",
+    "jad_id": "jad_biblical_reference__242",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Mich. 5,1",
+    "prev": {
+      "id": "jad_biblical_reference__241",
+      "label": "Mt. 21,38"
+    },
+    "next": {
+      "id": "jad_biblical_reference__243",
+      "label": ""
+    }
+  },
+  "243": {
+    "id": 243,
+    "name": "",
+    "jad_id": "jad_biblical_reference__243",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__242",
+      "label": "Mich. 5,1"
+    },
+    "next": {
+      "id": "jad_biblical_reference__244",
+      "label": ""
+    }
+  },
+  "244": {
+    "id": 244,
+    "name": "",
+    "jad_id": "jad_biblical_reference__244",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__243",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__25",
+      "label": "Lam. 3,11"
     }
   }
 }

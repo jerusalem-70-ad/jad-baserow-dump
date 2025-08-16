@@ -697,11 +697,11 @@
     "view_label": "Anno post passionem Domini quadragesimo secundo, Titus, quem pater Vespasianus romam reversus in obsidione Ierosolimorum iudeorum dilaniavit populum, in tantum ut Iosephus commemorat",
     "prev": {
       "id": "jad_occurence__149",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "quarto causam cladis huius eversionis ibi eo quod non cognovisti tempus visitationis tue, immo quod peius est litteraliter Ierusalem interfecit visitatorem suum, Mt. 21, hic est heres, venite occidamus eum"
     },
     "next": {
       "id": "jad_occurence__150",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     }
   },
   "16": {
@@ -6900,16 +6900,26 @@
     },
     "next": {
       "id": "jad_occurence__148",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "deinde causam eversionis assignat"
     }
   },
   "148": {
     "id": 148,
     "jad_id": "jad_occurence__148",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1182,
+        "value": "deinde causam eversionis assignat"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 87,
+        "value": "Assisi, MS 505"
+      }
+    ],
+    "position_in_ms": "203v-204r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -6920,25 +6930,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-11",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 87,
+          "database_table_3497": 39
+        },
+        "value": "Assisi, MS 505, f. 203v-204r"
+      }
+    ],
+    "view_label": "deinde causam eversionis assignat",
     "prev": {
       "id": "jad_occurence__147",
       "label": "exemplo ergo suo dominus nos docuit flere de dampnis inimicorum nostrorum"
     },
     "next": {
       "id": "jad_occurence__149",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "quarto causam cladis huius eversionis ibi eo quod non cognovisti tempus visitationis tue, immo quod peius est litteraliter Ierusalem interfecit visitatorem suum, Mt. 21, hic est heres, venite occidamus eum"
     }
   },
   "149": {
     "id": 149,
     "jad_id": "jad_occurence__149",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1174,
+        "value": "quarto causam cladis huius eversionis ibi eo quod non cognovisti tempus visitationis tue, immo quod peius est litteraliter Ierusalem interfecit visitatorem suum, Mt. 21, hic est heres, venite occidamus eum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 100,
+        "value": "Univ.bibl. Freiburg, MS 111"
+      }
+    ],
+    "position_in_ms": "164r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -6949,12 +6977,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-07-01",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 100,
+          "database_table_3497": 42
+        },
+        "value": "Univ.bibl. Freiburg, MS 111, f. 164r"
+      }
+    ],
+    "view_label": "quarto causam cladis huius eversionis ibi eo quod non cognovisti tempus visitationis tue, immo quod peius est litteraliter Ierusalem interfecit visitatorem suum, Mt. 21, hic est heres, venite occidamus eum",
     "prev": {
       "id": "jad_occurence__148",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "deinde causam eversionis assignat"
     },
     "next": {
       "id": "jad_occurence__15",
@@ -6964,10 +7000,20 @@
   "150": {
     "id": 150,
     "jad_id": "jad_occurence__150",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1175,
+        "value": "??"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 101,
+        "value": "Vat., Vat. lat. 1249"
+      }
+    ],
+    "position_in_ms": "83v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -6978,9 +7024,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-07-01",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 101,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat. lat. 1249, f. 83v"
+      }
+    ],
+    "view_label": "??",
     "prev": {
       "id": "jad_occurence__15",
       "label": "Anno post passionem Domini quadragesimo secundo, Titus, quem pater Vespasianus romam reversus in obsidione Ierosolimorum iudeorum dilaniavit populum, in tantum ut Iosephus commemorat"
@@ -7012,7 +7066,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__150",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     },
     "next": {
       "id": "jad_occurence__152",

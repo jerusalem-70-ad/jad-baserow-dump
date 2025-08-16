@@ -2265,8 +2265,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -17367,40 +17373,108 @@
   "407": {
     "id": 407,
     "order": "394.00000000000000000000",
-    "name": " ",
+    "name": "Sermones de tempore ",
     "jad_id": "jad_work__407",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 193,
+        "value": "Aldobrandinus, de Cavalcanti",
+        "order": "178.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 100,
+        "value": "Univ.bibl. Freiburg, MS 111",
+        "order": "93.00000000000000000000"
+      }
+    ],
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "institutional_context": [
+      {
+        "id": 18,
+        "value": "Dominicans",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "408": {
     "id": 408,
     "order": "395.00000000000000000000",
-    "name": " ",
+    "name": "Sermones de tempore ",
     "jad_id": "jad_work__408",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 194,
+        "value": "Konrad, of Waldhausen",
+        "order": "179.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 101,
+        "value": "Vat., Vat. lat. 1249",
+        "order": "94.00000000000000000000"
+      }
+    ],
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "institutional_context": [
+      {
+        "id": 8,
+        "value": "Augustinian canons",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 74,
+        "value": "mid 14th cen.",
+        "order": "73.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },

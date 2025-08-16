@@ -26216,7 +26216,13 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "sources_used": [],
+    "sources_used": [
+      {
+        "id": 37,
+        "value": "Honorius, Augustodunensis",
+        "order": "37.00000000000000000000"
+      }
+    ],
     "keywords": [
       {
         "id": 16,
@@ -26249,7 +26255,18 @@
         "value": "Werner, of Sankt Blasien"
       }
     ],
-    "source_passage": [],
+    "source_passage": [
+      {
+        "id": 60,
+        "value": "Vespasianus et filius Titus hoc vindicaverunt; Vespasianus et Titus duces Romanorum, cum magno exercitu Judaeam intrans",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "Romani et locum et gentem illorum tulerunt",
+        "order": "61.00000000000000000000"
+      }
+    ],
     "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
@@ -29703,7 +29720,7 @@
   "402": {
     "id": 402,
     "order": "394.00000000000000000000",
-    "passage": "exstinctisque Judaeis, Titus, qui p. 1066A | ad vindicandum Domini nostri Jesu Christi sanguinem judicio Dei fuerat ordinatus",
+    "passage": "exstinctisque Judaeis, Titus, qui ad vindicandum Domini nostri Jesu Christi sanguinem judicio Dei fuerat ordinatus",
     "jad_id": "jad_occurrence__402",
     "language": {
       "id": 14729,
@@ -34090,7 +34107,13 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 41,
+        "value": "Chronological issues",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
@@ -41864,7 +41887,7 @@
     "position_in_work": "",
     "text_paragraph": "Imminente itaque tempore illo quo ab Hispaniae finibus ebulliens crudelissima Sarracenorum ingens multitudo per iter navale ad terminos usque Italiae atque Provinciae pervenit et in utroque regno utriusque ordinis sexus aetatis hominum strages dedit; deinde monasteria destruens, urbes, vicos villasque depopulans et sic p. 0960A | per Alpes Julias usque ad juga Penninarum Alpium rapido cursu pervenit, ibique impietatis suae frena relaxans, per multorum temporum spatia Christiani nominis populos diversis infestationibus et calamitatibus afflixit, alios occidendo, alios capiendo, alios bonis suis omnibus exspoliando, impietatis suae vota taliter tyrannica exercitatione complevit; inter caetera mala quae populus ille nefandissimus gessit, beatissimum Patrem Maiolum, a liminibus apostolorum redeuntem, fraude et insidiis cepit, rebus omnibus exspoliatum, vinculis alligavit, fame et siti afflixit.   Ille vero divinitus absolutus, ad postremum pecuniis monasterii sui redemptus, de manibus illorum Domino protegente evasit illaesus, et ejus injusta captio expulsionis illorum et perpetuae perditionis p. 0960B | fuit occasio.   Sicut vero, post passionem Christi, Judaei sunt a suis exsulati, ita, post captionem servi illius et fidelissimi ejus famuli Maioli, Sarraceni a finibus Christianorum sunt expulsi.   Et sicut per Titum et Vespasianum, Romanorum principes, Dominus a Judaeis vindictam exercuit, ita per Willelmum illustrissimum virum et Christianissimum principem, meritis beati Maioli jugum Sarracenorum ab humeris Christianorum deposuit.   Et multa terrarum spatia, ab eis injuste possessa, ab eorum tyrannica dominatione potenti virtute eripuit.   Sed, his dictis, necesse est ut ad proposita redeamus.\n\n¶\n    Quae sunt quae proposuimus?   Praesagium quoddam memorabile, favens accidentiis temporibus beati Maioli supervenientibus.   Quae sunt illa accidentia?   p. 0960C | Sarracenorum improvisus adventus, Christianorum afflictio, monasteriorum et urbium destructio, ipsius beati Maioli captio, redemptio, et liberatio, et ejusdem ferocissimae gentis a Christianorum finibus, Christo auxiliante, dejectio.   Quod vel quale est illud praesagium memorabile?   Praecessit enim crudelissimam infestationem Sarracenorum rabies inaudita luporum in illis maxime partibus, in quibus post transitum maris totus Sarracenorum efferbuit impetus.   Diximus pro modulo qualiter liberata est fidelium multitudo a Sarracenorum persecutione, dicamus pro posse quo ordine liberata est patria a luporum infestatione.",
     "note": "",
-    "explicit_contemp_ref": "Expulsion Saracens from Provence (late 10th cen.)",
+    "explicit_contemp_ref": "Expulsion Saracens from Provence (late 10th cen.); contemporary saint (Maiolus)",
     "biblical_references": [],
     "work": [
       {
@@ -42555,7 +42578,18 @@
     "text_paragraph": "Anno quadragesimo post passionem Domini, (quod tempus iudaeis ad poenitentiam indultum fuit,) missi sunt contra induratos duo principes Romani a Nerone Caesare, Vespasianus et Titus, qui sanguinem Christi, Joannis Baptistae, et Jacobi utriusque vindicarent",
     "note": "Hanska, Jussi: “Preachers as Historians. The Case of the Destruction of Jerusalem in 70 AD.” *Anuario de estudios medievales* 42/1 (2012), pp. 29-52.",
     "explicit_contemp_ref": "Siege of Damietta (1218)",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 6,
+        "value": "4 Reg. 2,23",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 7,
+        "value": "4 Reg. 2,24",
+        "order": "7.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 231,
@@ -42569,6 +42603,11 @@
         "id": 1,
         "value": "Crusades",
         "order": "1.00000000000000000000"
+      },
+      {
+        "id": 29,
+        "value": "42 years of penance",
+        "order": "29.00000000000000000000"
       }
     ],
     "part_of_cluster": [],
@@ -42843,7 +42882,13 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 32,
+        "value": "Christian emperors",
+        "order": "32.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
@@ -60082,7 +60127,13 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 41,
+        "value": "Chronological issues",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [
@@ -65746,7 +65797,7 @@
       "color": "dark-yellow"
     },
     "position_in_work": "X Sunday, Sermo 2",
-    "text_paragraph": "",
+    "text_paragraph": "sicut legitur in libro qui dicitur Mitralis, istud evangelium ideo in mense Augusti decantatur quia civitas Hierusalem in illo mense primo a Nabuchodonosor, deinde a romanis destructa fuisse invenitur",
     "note": "Hanska, Jussi: “Preachers as Historians. The Case of the Destruction of Jerusalem in 70 AD.” *Anuario de estudios medievales* 42/1 (2012), pp. 29-52.",
     "explicit_contemp_ref": "",
     "biblical_references": [],
@@ -65757,8 +65808,25 @@
         "order": "366.00000000000000000000"
       }
     ],
-    "sources_used": [],
-    "keywords": [],
+    "sources_used": [
+      {
+        "id": 8,
+        "value": "Hugh, of Saint-Cher",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 160,
+        "value": "Sicardus, of Cremona",
+        "order": "147.00000000000000000000"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 41,
+        "value": "Chronological issues",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [
@@ -65789,6 +65857,11 @@
         "id": 614,
         "value": "Hierusalem funditus eversa est",
         "order": "603.00000000000000000000"
+      },
+      {
+        "id": 918,
+        "value": "Hierosolymorum destructio praedicatur, legitur in Augusto; quia prius a Nabuchodonosor, postmodum a Romanis",
+        "order": "862.00000000000000000000"
       }
     ],
     "mss_locus": [],
@@ -70709,12 +70782,22 @@
     "order": "1066.00000000000000000000",
     "passage": "suscitavit adversus eos dominus duos principes, Vespasianum et Titum",
     "jad_id": "jad_occurrence__1129",
-    "language": null,
+    "language": {
+      "id": 14729,
+      "value": "Latin",
+      "color": "dark-yellow"
+    },
     "position_in_work": "X Sunday",
     "text_paragraph": "",
     "note": "Jussi Hanska, *The Destruction of Jerusalem and Anti-Jewish Commonplaces in Model Sermon Collections (1100–1350)* (Turnhout 2025).",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 150,
+        "value": "Ez. 5,1",
+        "order": "149.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 386,
@@ -70723,7 +70806,13 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 16,
+        "value": "Concurrence Easter",
+        "order": "16.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
@@ -71226,7 +71315,13 @@
     "text_paragraph": "",
     "note": "Jussi Hanska, *The Destruction of Jerusalem and Anti-Jewish Commonplaces in Model Sermon Collections (1100–1350)* (Turnhout 2025).",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 150,
+        "value": "Ez. 5,1",
+        "order": "149.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 388,
@@ -71239,12 +71334,29 @@
         "id": 70,
         "value": "Orosius, Paulus",
         "order": "69.00000000000000000000"
+      },
+      {
+        "id": 82,
+        "value": "Walafrid, Strabo",
+        "order": "81.00000000000000000000"
       }
     ],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
-    "liturgical_references": [],
+    "liturgical_references": [
+      {
+        "id": 1,
+        "value": "X Sunday after Holy Trinity",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "occurrence_found_in": [
       {
         "id": 10,
@@ -71264,8 +71376,13 @@
     "source_passage": [
       {
         "id": 402,
-        "value": "exstinctisque Judaeis, Titus, qui p. 1066A | ad vindicandum Domini nostri Jesu Christi sanguinem judicio Dei fuerat ordinatus",
+        "value": "exstinctisque Judaeis, Titus, qui ad vindicandum Domini nostri Jesu Christi sanguinem judicio Dei fuerat ordinatus",
         "order": "394.00000000000000000000"
+      },
+      {
+        "id": 550,
+        "value": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis",
+        "order": "539.00000000000000000000"
       }
     ],
     "mss_locus": [
@@ -71306,10 +71423,21 @@
     "jad_id": "jad_occurrence__1140",
     "language": null,
     "position_in_work": "X Sunday",
-    "text_paragraph": "",
+    "text_paragraph": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu suo alios gladio interemit, alios igne exussit, iuvenes eorum pulcriores in captivitate destinavit, civitates autem ita funditus eversa est, ut factum quod veritas dixit lapis super lapidem non relinquntur, et tunc adimpletum est illum Ezechiel: et tu fili hominis sume tibi gladium acutum radentem pilos et duces cum per caput tuum et barbam, scilicet per iudeos maiores et minores",
     "note": "Jussi Hanska, *The Destruction of Jerusalem and Anti-Jewish Commonplaces in Model Sermon Collections (1100–1350)* (Turnhout 2025).",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 33,
+        "value": "Lk. 21,6",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 150,
+        "value": "Ez. 5,1",
+        "order": "149.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 389,
@@ -71770,7 +71898,7 @@
   "1146": {
     "id": 1146,
     "order": "1083.00000000000000000000",
-    "passage": "similiter circumdabunt te per exercitum bellatorum",
+    "passage": "ex quo patet quod romani, sicut et Nabuchodor fuerunt flagella et virga dei contra iudeos",
     "jad_id": "jad_occurrence__1146",
     "language": null,
     "position_in_work": "X Sunday",
@@ -71786,7 +71914,13 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 41,
+        "value": "Chronological issues",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [
@@ -72892,8 +73026,8 @@
     "language": null,
     "position_in_work": "B1, Ch1",
     "text_paragraph": "Nec parcunt illi accumulando peccatorum glomeri, donec in longum extensum durescat in iugum, quod eorum collo impositum nodosam ceruicositatem frangat et in humum deitiat.\nHi enim mores populum Dei paganis gentibus iugo miserae seruitutis addicunt.\nHi mores armatos eneruant populos et munitas subruunt ciuitates.\nHi Iudeos quondam Deo dilectos primo Babiloniis, mox Macedonibus, postremo Romanis fecerunt bello impares, obsequio clientes, captiuos in uictoria, tributarios in pecunia.\nIuste. Qui fuerant ingrati Dei clementiae, pro superbia uictorum raptabantur libidine.\nHi mores sepe Christianos exercitus gentilibus fecerunt cedere, ut etiam abhinc plus ducentis annis Turchi et Saraceni dominatione sua illa premerent loca quae fuerant Dei natiuitatis et passionis conscia.\nHi mores ad quantulos nos redegerunt, qui eramus quondam gens etsi non multa, at certe multis eruditione et affabilitate preferenda!\nProfecto illud in nobis uidetur impletum quo psalmista Iudeos | denotauit, dicens: Disperge illos in uirtute tua, et destrue eos, protector meus, Domine.",
-    "note": "",
-    "explicit_contemp_ref": "",
+    "note": "Jason Stubblefield, “William of Malmesbury’s Exegesis Against Conquest,” *Journal of Ecclesiastical History* (2025).",
+    "explicit_contemp_ref": "Norman conquest England",
     "biblical_references": [],
     "work": [
       {
@@ -72903,15 +73037,21 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 40,
+        "value": "Norman conquest England",
+        "order": "40.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
     "occurrence_found_in": [
       {
-        "id": 4,
-        "value": "Library of Latin Texts (Brepols)",
-        "order": "3.00000000000000000000"
+        "id": 10,
+        "value": "Secondary literature",
+        "order": "9.00000000000000000000"
       }
     ],
     "author_lookup": [
@@ -72940,7 +73080,7 @@
     "position_in_work": "B2, Ch2",
     "text_paragraph": "2, 7. REPVLIT DOMINVS ALTARE SVVM, MALEDIXIT SANCTIFICATIONI SVAE; TRADIDIT IN MANVS INIMICI MVROS TVRRIVM EIVS; VOCEM DEDERVNT IN DOMO DOMINI SICVT IN DIE SOLLEMNI.\nRepulit primo Dominus altare quod a Moise compactum in heremo diuturnam sedem habuerat in Silo.\nRepulit postremo altare a Salomone in Ierosolimitano templo constitutum, offensus uidelicet contumaci et indomabili nequitia Ierosolimitarum.\nMaledixit sanctificationi suae quia, qui soli omnium gentium erant fide credulitatis eius sanctificati, nunc sunt omnibus populis execrationi et horrori: infidelibus propter sceuitatem morum, fidelibus propter Christi pertinax odium.\nTradidit in manus inimici muros turrium Ierusalem, Chaldei scilicet uel Romani.\nNam Macedonum regum series quanuis per Antiochos et Ptolomeos multa Iudeis inflixissent discrimina, numquam tamen nisi in suis urbibus, numquam nisi in patria propria lugebant incommoda.\nAt uero Chaldei et Romani occupatis muris et turribus, combusto etiam templo, nichil eis dimiserunt reliqui.Quapropter ad plausum uictoriae magnis ibi perstrepebant uocibus, ubi quondam sacerdotes ad diuina sollemnia modulatis gaudebant clamoribus. \nQuantum sane ad allegoriam, altare Domini est aecclesia, quia extra eam Deo placiti sacrifitii numquam | offertur hostia.\nSed + a sensu uersus isti abhorrent, + quod eam Dominus uel repulit uel maledixit: nisi forte tunc eam secundum opinionem perfidorum repulit quando et persecutionibus affligi et maledicis uerbis lacerari permisit.",
     "note": "",
-    "explicit_contemp_ref": "",
+    "explicit_contemp_ref": "Norman conquest England",
     "biblical_references": [],
     "work": [
       {
@@ -72950,7 +73090,13 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 40,
+        "value": "Norman conquest England",
+        "order": "40.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
@@ -73169,55 +73315,155 @@
   "1174": {
     "id": 1174,
     "order": "1111.00000000000000000000",
-    "passage": "",
+    "passage": "quarto causam cladis huius eversionis ibi eo quod non cognovisti tempus visitationis tue, immo quod peius est litteraliter Ierusalem interfecit visitatorem suum, Mt. 21, hic est heres, venite occidamus eum",
     "jad_id": "jad_occurrence__1174",
     "language": null,
-    "position_in_work": "",
-    "text_paragraph": "",
-    "note": "",
+    "position_in_work": "X Sunday",
+    "text_paragraph": "quarto causam cladis huius eversionis ibi eo quod non cognovisti tempus visitationis tue, immo quod peius est litteraliter Ierusalem interfecit visitatorem suum, Mt. 21, hic est heres, venite occidamus eum",
+    "note": "Jussi Hanska, *The Destruction of Jerusalem and Anti-Jewish Commonplaces in Model Sermon Collections (1100–1350)* (Turnhout 2025).",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
+    "work": [
+      {
+        "id": 407,
+        "value": "Sermones de tempore ",
+        "order": "394.00000000000000000000"
+      }
+    ],
     "sources_used": [],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
+    "occurrence_found_in": [
+      {
+        "id": 10,
+        "value": "Secondary literature",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 193,
+          "database_table_3499": 407
+        },
+        "value": "Aldobrandinus, de Cavalcanti"
+      }
+    ],
     "source_passage": [],
-    "mss_locus": [],
-    "occurrence_ms": [],
-    "main_ms": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 100,
+          "database_table_3497": 42
+        },
+        "value": "Univ.bibl. Freiburg, MS 111, f. 164r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 149,
+        "value": "jad_occurence__149",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 149,
+        "value": true
+      }
+    ],
     "incipit": "",
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 42,
+        "value": "Univ.bibl. Freiburg, MS 111"
+      }
+    ],
     "ai_bibl_ref": []
   },
   "1175": {
     "id": 1175,
     "order": "1112.00000000000000000000",
-    "passage": "",
+    "passage": "??",
     "jad_id": "jad_occurrence__1175",
     "language": null,
-    "position_in_work": "",
+    "position_in_work": "X Sunday",
     "text_paragraph": "",
-    "note": "",
+    "note": "Jussi Hanska, *The Destruction of Jerusalem and Anti-Jewish Commonplaces in Model Sermon Collections (1100–1350)* (Turnhout 2025).",
     "explicit_contemp_ref": "",
     "biblical_references": [],
-    "work": [],
-    "sources_used": [],
+    "work": [
+      {
+        "id": 408,
+        "value": "Sermones de tempore ",
+        "order": "395.00000000000000000000"
+      }
+    ],
+    "sources_used": [
+      {
+        "id": 180,
+        "value": "Lucas, de Bitonto",
+        "order": "165.00000000000000000000"
+      }
+    ],
     "keywords": [],
     "part_of_cluster": [],
     "authority_discourse": 0,
     "liturgical_references": [],
-    "occurrence_found_in": [],
-    "author_lookup": [],
-    "source_passage": [],
-    "mss_locus": [],
-    "occurrence_ms": [],
-    "main_ms": [],
+    "occurrence_found_in": [
+      {
+        "id": 10,
+        "value": "Secondary literature",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 194,
+          "database_table_3499": 408
+        },
+        "value": "Konrad, of Waldhausen"
+      }
+    ],
+    "source_passage": [
+      {
+        "id": 1182,
+        "value": "deinde causam eversionis assignat",
+        "order": "1119.00000000000000000000"
+      }
+    ],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 101,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat. lat. 1249, f. 83v"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 150,
+        "value": "jad_occurence__150",
+        "order": "143.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 150,
+        "value": true
+      }
+    ],
     "incipit": "",
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 38,
+        "value": "Vat., Vat. lat. 1249"
+      }
+    ],
     "ai_bibl_ref": []
   },
   "1176": {
@@ -73333,6 +73579,233 @@
     "order": "1117.00000000000000000000",
     "passage": "",
     "jad_id": "jad_occurrence__1180",
+    "language": null,
+    "position_in_work": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "incipit": "",
+    "manuscripts": [],
+    "ai_bibl_ref": []
+  },
+  "1181": {
+    "id": 1181,
+    "order": "1118.00000000000000000000",
+    "passage": "",
+    "jad_id": "jad_occurrence__1181",
+    "language": null,
+    "position_in_work": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "incipit": "",
+    "manuscripts": [],
+    "ai_bibl_ref": []
+  },
+  "1182": {
+    "id": 1182,
+    "order": "1119.00000000000000000000",
+    "passage": "deinde causam eversionis assignat",
+    "jad_id": "jad_occurrence__1182",
+    "language": null,
+    "position_in_work": "X Sunday",
+    "text_paragraph": "",
+    "note": "Jussi Hanska, *The Destruction of Jerusalem and Anti-Jewish Commonplaces in Model Sermon Collections (1100–1350)* (Turnhout 2025).",
+    "explicit_contemp_ref": "",
+    "biblical_references": [
+      {
+        "id": 4,
+        "value": "Lk. 19,44",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 131,
+        "value": "Jer. 12,8",
+        "order": "130.00000000000000000000"
+      },
+      {
+        "id": 237,
+        "value": "Lk. 1,78",
+        "order": "235.00000000000000000000"
+      },
+      {
+        "id": 238,
+        "value": "Zach. 13,6",
+        "order": "236.00000000000000000000"
+      },
+      {
+        "id": 240,
+        "value": "Job 12,4",
+        "order": "238.00000000000000000000"
+      },
+      {
+        "id": 241,
+        "value": "Mt. 21,38",
+        "order": "239.00000000000000000000"
+      },
+      {
+        "id": 242,
+        "value": "Mich. 5,1",
+        "order": "240.00000000000000000000"
+      }
+    ],
+    "work": [
+      {
+        "id": 388,
+        "value": "Sermones dominicales ",
+        "order": "375.00000000000000000000"
+      }
+    ],
+    "sources_used": [],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [
+      {
+        "id": 1,
+        "value": "X Sunday after Holy Trinity",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "occurrence_found_in": [
+      {
+        "id": 10,
+        "value": "Secondary literature",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "author_lookup": [
+      {
+        "ids": {
+          "database_table_3498": 180,
+          "database_table_3499": 388
+        },
+        "value": "Lucas, de Bitonto"
+      }
+    ],
+    "source_passage": [],
+    "mss_locus": [
+      {
+        "ids": {
+          "database_table_3496": 87,
+          "database_table_3497": 39
+        },
+        "value": "Assisi, MS 505, f. 203v-204r"
+      }
+    ],
+    "occurrence_ms": [
+      {
+        "id": 148,
+        "value": "jad_occurence__148",
+        "order": "141.00000000000000000000"
+      }
+    ],
+    "main_ms": [
+      {
+        "id": 148,
+        "value": true
+      }
+    ],
+    "incipit": "",
+    "manuscripts": [
+      {
+        "id": 39,
+        "value": "Assisi, MS 505"
+      }
+    ],
+    "ai_bibl_ref": []
+  },
+  "1183": {
+    "id": 1183,
+    "order": "1120.00000000000000000000",
+    "passage": "",
+    "jad_id": "jad_occurrence__1183",
+    "language": null,
+    "position_in_work": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "incipit": "",
+    "manuscripts": [],
+    "ai_bibl_ref": []
+  },
+  "1184": {
+    "id": 1184,
+    "order": "1121.00000000000000000000",
+    "passage": "",
+    "jad_id": "jad_occurrence__1184",
+    "language": null,
+    "position_in_work": "",
+    "text_paragraph": "",
+    "note": "",
+    "explicit_contemp_ref": "",
+    "biblical_references": [],
+    "work": [],
+    "sources_used": [],
+    "keywords": [],
+    "part_of_cluster": [],
+    "authority_discourse": 0,
+    "liturgical_references": [],
+    "occurrence_found_in": [],
+    "author_lookup": [],
+    "source_passage": [],
+    "mss_locus": [],
+    "occurrence_ms": [],
+    "main_ms": [],
+    "incipit": "",
+    "manuscripts": [],
+    "ai_bibl_ref": []
+  },
+  "1185": {
+    "id": 1185,
+    "order": "1122.00000000000000000000",
+    "passage": "",
+    "jad_id": "jad_occurrence__1185",
     "language": null,
     "position_in_work": "",
     "text_paragraph": "",

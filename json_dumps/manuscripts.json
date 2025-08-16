@@ -3565,30 +3565,62 @@
   "100": {
     "id": 100,
     "order": "93.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 42,
+        "value": "Univ.bibl. Freiburg, MS 111"
+      }
+    ],
     "jad_id": "jad_manuscript__100",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 42,
+        "value": "Univ.bibl. Freiburg",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "idno": "MS 111",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 42,
+        "value": "Universitätsbibliothek Freiburg"
+      }
+    ]
   },
   "101": {
     "id": 101,
     "order": "94.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Vat. lat. 1249"
+      }
+    ],
     "jad_id": "jad_manuscript__101",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Vat. lat. 1249",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Vat.lat.1249",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
   },
   "102": {
     "id": 102,
@@ -3707,6 +3739,20 @@
     "order": "103.00000000000000000000",
     "name": [],
     "jad_id": "jad_manuscript__110",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "111": {
+    "id": 111,
+    "order": "104.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__111",
     "library": [],
     "idno": "",
     "catalog_url": "",

@@ -602,7 +602,7 @@
     },
     "next": {
       "id": "jad_manuscript__100",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Univ.bibl. Freiburg, MS 111"
     }
   },
   "11": {
@@ -728,7 +728,7 @@
     ],
     "view_label": "St. Gen., MS 2787",
     "prev": {
-      "id": "jad_manuscript__110",
+      "id": "jad_manuscript__111",
       "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
@@ -5551,42 +5551,87 @@
   },
   "100": {
     "id": 100,
-    "name": [],
+    "name": [
+      {
+        "id": 42,
+        "value": "Univ.bibl. Freiburg, MS 111"
+      }
+    ],
     "jad_id": "jad_manuscript__100",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 42,
+        "value": "Univ.bibl. Freiburg",
+        "jad_id": "jad_library__42",
+        "gnd_url": "https://d-nb.info/gnd/31816-4",
+        "full_name": "Universitätsbibliothek Freiburg",
+        "place": []
+      }
+    ],
+    "idno": "MS 111",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 42,
+        "value": "Universitätsbibliothek Freiburg"
+      }
+    ],
+    "view_label": "Univ.bibl. Freiburg, MS 111",
     "prev": {
       "id": "jad_manuscript__10",
       "label": "BNF, Latin 446"
     },
     "next": {
       "id": "jad_manuscript__101",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Vat., Vat. lat. 1249"
     }
   },
   "101": {
     "id": 101,
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Vat. lat. 1249"
+      }
+    ],
     "jad_id": "jad_manuscript__101",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "jad_id": "jad_library__38",
+        "gnd_url": "https://d-nb.info/gnd/1003302-6",
+        "full_name": "Biblioteca Apostolica Vaticana",
+        "place": [
+          {
+            "id": 19,
+            "name": "Rome",
+            "geonames_url": "https://www.geonames.org/3169070/rome.html",
+            "jad_id": "jad_places__19"
+          }
+        ]
+      }
+    ],
+    "idno": "Vat. lat. 1249",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Vat.lat.1249",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ],
+    "view_label": "Vat., Vat. lat. 1249",
     "prev": {
       "id": "jad_manuscript__100",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Univ.bibl. Freiburg, MS 111"
     },
     "next": {
       "id": "jad_manuscript__102",
@@ -5608,7 +5653,7 @@
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
       "id": "jad_manuscript__101",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Vat., Vat. lat. 1249"
     },
     "next": {
       "id": "jad_manuscript__103",
@@ -5785,6 +5830,28 @@
     "prev": {
       "id": "jad_manuscript__11",
       "label": "BNF, Latin 3737"
+    },
+    "next": {
+      "id": "jad_manuscript__111",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "111": {
+    "id": 111,
+    "name": [],
+    "jad_id": "jad_manuscript__111",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__110",
+      "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
       "id": "jad_manuscript__12",

@@ -119,8 +119,8 @@
     "jad_id": "jad_date__8",
     "view_label": "late 9th cen.",
     "prev": {
-      "id": "jad_date__73",
-      "label": "1130s"
+      "id": "jad_date__75",
+      "label": ""
     },
     "next": {
       "id": "jad_date__9",
@@ -1161,6 +1161,38 @@
     "prev": {
       "id": "jad_date__72",
       "label": "1230s"
+    },
+    "next": {
+      "id": "jad_date__74",
+      "label": "mid 14th cen."
+    }
+  },
+  "74": {
+    "id": 74,
+    "name": "mid 14th cen.",
+    "not_before": "1331",
+    "not_after": "1370",
+    "jad_id": "jad_date__74",
+    "view_label": "mid 14th cen.",
+    "prev": {
+      "id": "jad_date__73",
+      "label": "1130s"
+    },
+    "next": {
+      "id": "jad_date__75",
+      "label": ""
+    }
+  },
+  "75": {
+    "id": 75,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__75",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__74",
+      "label": "mid 14th cen."
     },
     "next": {
       "id": "jad_date__8",
