@@ -3625,44 +3625,98 @@
   "102": {
     "id": 102,
     "order": "95.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 11,
+        "value": "Bibl. Royal, MS 1958"
+      }
+    ],
     "jad_id": "jad_manuscript__102",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 11,
+        "value": "Bibl. Royal",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "idno": "MS 1958",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 11,
+        "value": "Bibliothèque royale de Belgique"
+      }
+    ]
   },
   "103": {
     "id": 103,
     "order": "96.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 39,
+        "value": "Assisi, MS 538"
+      }
+    ],
     "jad_id": "jad_manuscript__103",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 39,
+        "value": "Assisi",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "MS 538",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 39,
+        "value": "Biblioteca Francescana (Assisi)"
+      }
+    ]
   },
   "104": {
     "id": 104,
     "order": "97.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 14562"
+      }
+    ],
     "jad_id": "jad_manuscript__104",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "idno": "Clm 14562",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991134940829707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%2014562&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00109350?page=,1",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 76,
+        "value": "15th cen.",
+        "order": "75.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ]
   },
   "105": {
     "id": 105,
@@ -3761,5 +3815,65 @@
     "date_written": [],
     "format": "",
     "library_full": []
+  },
+  "112": {
+    "id": 112,
+    "order": "105.00000000000000000000",
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Ott.lat. 94"
+      }
+    ],
+    "jad_id": "jad_manuscript__112",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Ott.lat. 94",
+    "catalog_url": "",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Ott.lat.94",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
+  },
+  "113": {
+    "id": 113,
+    "order": "106.00000000000000000000",
+    "name": [
+      {
+        "id": 40,
+        "value": "Bibl. Casanatense, MS 1184"
+      }
+    ],
+    "jad_id": "jad_manuscript__113",
+    "library": [
+      {
+        "id": 40,
+        "value": "Bibl. Casanatense",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "MS 1184",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 40,
+        "value": "Biblioteca Casanatense"
+      }
+    ]
   }
 }

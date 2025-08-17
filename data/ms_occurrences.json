@@ -743,12 +743,12 @@
     ],
     "view_label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est",
     "prev": {
-      "id": "jad_occurence__152",
+      "id": "jad_occurence__159",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__17",
-      "label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est"
+      "id": "jad_occurence__160",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "17": {
@@ -790,8 +790,8 @@
     ],
     "view_label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est",
     "prev": {
-      "id": "jad_occurence__16",
-      "label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est"
+      "id": "jad_occurence__165",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__18",
@@ -7041,16 +7041,26 @@
     },
     "next": {
       "id": "jad_occurence__151",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "et assignat huius destructionis causam dicens eo quod non cognoveris tempus visitationis tue"
     }
   },
   "151": {
     "id": 151,
     "jad_id": "jad_occurence__151",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1191,
+        "value": "et assignat huius destructionis causam dicens eo quod non cognoveris tempus visitationis tue"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 102,
+        "value": "Bibl. Royal, MS 1958"
+      }
+    ],
+    "position_in_ms": "153v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -7061,24 +7071,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-07-01",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 102,
+          "database_table_3497": 11
+        },
+        "value": "Bibl. Royal, MS 1958, f. 153v"
+      }
+    ],
+    "view_label": "et assignat huius destructionis causam dicens eo quod non cognoveris tempus visitationis tue",
     "prev": {
       "id": "jad_occurence__150",
       "label": "??"
     },
     "next": {
       "id": "jad_occurence__152",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "inimici tui vallo tytus et vaspasianus"
     }
   },
   "152": {
     "id": 152,
     "jad_id": "jad_occurence__152",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 650,
+        "value": "inimici tui vallo tytus et vaspasianus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 112,
+        "value": "Vat., Ott.lat. 94"
+      }
+    ],
+    "position_in_ms": "183v",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -7090,15 +7118,436 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-07-01",
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 112,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Ott.lat. 94, f. 183v"
+      }
+    ],
+    "view_label": "inimici tui vallo tytus et vaspasianus",
+    "prev": {
+      "id": "jad_occurence__151",
+      "label": "et assignat huius destructionis causam dicens eo quod non cognoveris tempus visitationis tue"
+    },
+    "next": {
+      "id": "jad_occurence__153",
+      "label": "quod totum fuit adimpletum quando romani priusquam ceperunt Jerusalem, iudeos aliquos occiderunt"
+    }
+  },
+  "153": {
+    "id": 153,
+    "jad_id": "jad_occurence__153",
+    "occurrence": [
+      {
+        "id": 1206,
+        "value": "quod totum fuit adimpletum quando romani priusquam ceperunt Jerusalem, iudeos aliquos occiderunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 113,
+        "value": "Bibl. Casanatense, MS 1184"
+      }
+    ],
+    "position_in_ms": "143v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 113,
+          "database_table_3497": 40
+        },
+        "value": "Bibl. Casanatense, MS 1184, f. 143v"
+      }
+    ],
+    "view_label": "quod totum fuit adimpletum quando romani priusquam ceperunt Jerusalem, iudeos aliquos occiderunt",
+    "prev": {
+      "id": "jad_occurence__152",
+      "label": "inimici tui vallo tytus et vaspasianus"
+    },
+    "next": {
+      "id": "jad_occurence__154",
+      "label": "adimpletum fuit quando romani postquam ceperunt Ierusalem"
+    }
+  },
+  "154": {
+    "id": 154,
+    "jad_id": "jad_occurence__154",
+    "occurrence": [
+      {
+        "id": 1196,
+        "value": "adimpletum fuit quando romani postquam ceperunt Ierusalem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 103,
+        "value": "Assisi, MS 538"
+      }
+    ],
+    "position_in_ms": "66v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 103,
+          "database_table_3497": 39
+        },
+        "value": "Assisi, MS 538, f. 66v"
+      }
+    ],
+    "view_label": "adimpletum fuit quando romani postquam ceperunt Ierusalem",
+    "prev": {
+      "id": "jad_occurence__153",
+      "label": "quod totum fuit adimpletum quando romani priusquam ceperunt Jerusalem, iudeos aliquos occiderunt"
+    },
+    "next": {
+      "id": "jad_occurence__155",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "155": {
+    "id": 155,
+    "jad_id": "jad_occurence__155",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
     "ms_locus": [],
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
-      "id": "jad_occurence__151",
+      "id": "jad_occurence__154",
+      "label": "adimpletum fuit quando romani postquam ceperunt Ierusalem"
+    },
+    "next": {
+      "id": "jad_occurence__156",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "156": {
+    "id": 156,
+    "jad_id": "jad_occurence__156",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__155",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__157",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "157": {
+    "id": 157,
+    "jad_id": "jad_occurence__157",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__156",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__158",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "158": {
+    "id": 158,
+    "jad_id": "jad_occurence__158",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__157",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__159",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "159": {
+    "id": 159,
+    "jad_id": "jad_occurence__159",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__158",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__16",
+      "label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est"
+    }
+  },
+  "160": {
+    "id": 160,
+    "jad_id": "jad_occurence__160",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__16",
+      "label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est"
+    },
+    "next": {
+      "id": "jad_occurence__161",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "161": {
+    "id": 161,
+    "jad_id": "jad_occurence__161",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__160",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__162",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "162": {
+    "id": 162,
+    "jad_id": "jad_occurence__162",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__161",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__163",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "163": {
+    "id": 163,
+    "jad_id": "jad_occurence__163",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__162",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__164",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "164": {
+    "id": 164,
+    "jad_id": "jad_occurence__164",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__163",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__165",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "165": {
+    "id": 165,
+    "jad_id": "jad_occurence__165",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__164",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__17",
       "label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est"
     }
   }

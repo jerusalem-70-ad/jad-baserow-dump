@@ -416,12 +416,12 @@
     "description": null,
     "view_label": "Lam. 3,11",
     "prev": {
-      "id": "jad_biblical_reference__244",
-      "label": ""
+      "id": "jad_biblical_reference__249",
+      "label": "Deut. 28,52"
     },
     "next": {
-      "id": "jad_biblical_reference__26",
-      "label": "Zach. 6"
+      "id": "jad_biblical_reference__250",
+      "label": "Deut. 28,68"
     }
   },
   "26": {
@@ -433,8 +433,8 @@
     "description": null,
     "view_label": "Zach. 6",
     "prev": {
-      "id": "jad_biblical_reference__25",
-      "label": "Lam. 3,11"
+      "id": "jad_biblical_reference__251",
+      "label": "Deut. 28,53"
     },
     "next": {
       "id": "jad_biblical_reference__27",
@@ -4093,41 +4093,160 @@
     },
     "next": {
       "id": "jad_biblical_reference__243",
-      "label": ""
+      "label": "Ez. 22,3"
     }
   },
   "243": {
     "id": 243,
-    "name": "",
+    "name": "Ez. 22,3",
     "jad_id": "jad_biblical_reference__243",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
-    "view_label": "",
+    "view_label": "Ez. 22,3",
     "prev": {
       "id": "jad_biblical_reference__242",
       "label": "Mich. 5,1"
     },
     "next": {
       "id": "jad_biblical_reference__244",
-      "label": ""
+      "label": "Ez. 22,4"
     }
   },
   "244": {
     "id": 244,
-    "name": "",
+    "name": "Ez. 22,4",
     "jad_id": "jad_biblical_reference__244",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
-    "view_label": "",
+    "view_label": "Ez. 22,4",
     "prev": {
       "id": "jad_biblical_reference__243",
-      "label": ""
+      "label": "Ez. 22,3"
+    },
+    "next": {
+      "id": "jad_biblical_reference__245",
+      "label": "Num. 24,24"
+    }
+  },
+  "245": {
+    "id": 245,
+    "name": "Num. 24,24",
+    "jad_id": "jad_biblical_reference__245",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Num. 24,24",
+    "prev": {
+      "id": "jad_biblical_reference__244",
+      "label": "Ez. 22,4"
+    },
+    "next": {
+      "id": "jad_biblical_reference__246",
+      "label": "Lam. 2,9"
+    }
+  },
+  "246": {
+    "id": 246,
+    "name": "Lam. 2,9",
+    "jad_id": "jad_biblical_reference__246",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Lam. 2,9",
+    "prev": {
+      "id": "jad_biblical_reference__245",
+      "label": "Num. 24,24"
+    },
+    "next": {
+      "id": "jad_biblical_reference__247",
+      "label": "Ps. 54,24"
+    }
+  },
+  "247": {
+    "id": 247,
+    "name": "Ps. 54,24",
+    "jad_id": "jad_biblical_reference__247",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Ps. 54,24",
+    "prev": {
+      "id": "jad_biblical_reference__246",
+      "label": "Lam. 2,9"
+    },
+    "next": {
+      "id": "jad_biblical_reference__248",
+      "label": "Prov. 10,27"
+    }
+  },
+  "248": {
+    "id": 248,
+    "name": "Prov. 10,27",
+    "jad_id": "jad_biblical_reference__248",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Prov. 10,27",
+    "prev": {
+      "id": "jad_biblical_reference__247",
+      "label": "Ps. 54,24"
+    },
+    "next": {
+      "id": "jad_biblical_reference__249",
+      "label": "Deut. 28,52"
+    }
+  },
+  "249": {
+    "id": 249,
+    "name": "Deut. 28,52",
+    "jad_id": "jad_biblical_reference__249",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Deut. 28,52",
+    "prev": {
+      "id": "jad_biblical_reference__248",
+      "label": "Prov. 10,27"
     },
     "next": {
       "id": "jad_biblical_reference__25",
       "label": "Lam. 3,11"
+    }
+  },
+  "250": {
+    "id": 250,
+    "name": "Deut. 28,68",
+    "jad_id": "jad_biblical_reference__250",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Deut. 28,68",
+    "prev": {
+      "id": "jad_biblical_reference__25",
+      "label": "Lam. 3,11"
+    },
+    "next": {
+      "id": "jad_biblical_reference__251",
+      "label": "Deut. 28,53"
+    }
+  },
+  "251": {
+    "id": 251,
+    "name": "Deut. 28,53",
+    "jad_id": "jad_biblical_reference__251",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Deut. 28,53",
+    "prev": {
+      "id": "jad_biblical_reference__250",
+      "label": "Deut. 28,68"
+    },
+    "next": {
+      "id": "jad_biblical_reference__26",
+      "label": "Zach. 6"
     }
   }
 }

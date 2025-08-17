@@ -21,8 +21,8 @@
     "digi_url": "https://mlat.uzh.ch/browser?path=/38",
     "view_label": "Patrologia Latina",
     "prev": {
-      "id": "jad_sources_occurrences__16",
-      "label": "CSEL"
+      "id": "jad_sources_occurrences__18",
+      "label": ""
     },
     "next": {
       "id": "jad_sources_occurrences__4",
@@ -218,6 +218,36 @@
     "prev": {
       "id": "jad_sources_occurrences__15",
       "label": "Glossa Ordinaria (ed. Venice 1603)"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__17",
+      "label": "Rolls Series"
+    }
+  },
+  "17": {
+    "id": 17,
+    "name": "Rolls Series",
+    "jad_id": "jad_sources_occurrences__17",
+    "digi_url": "",
+    "view_label": "Rolls Series",
+    "prev": {
+      "id": "jad_sources_occurrences__16",
+      "label": "CSEL"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__18",
+      "label": ""
+    }
+  },
+  "18": {
+    "id": 18,
+    "name": "",
+    "jad_id": "jad_sources_occurrences__18",
+    "digi_url": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_sources_occurrences__17",
+      "label": "Rolls Series"
     },
     "next": {
       "id": "jad_sources_occurrences__2",

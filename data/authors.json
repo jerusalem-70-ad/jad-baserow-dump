@@ -248,8 +248,8 @@
     "date_of_death": "1203",
     "view_label": "Martin, of León",
     "prev": {
-      "id": "jad_author__195",
-      "label": ""
+      "id": "jad_author__199",
+      "label": "Jacobus, de Rodo (of Rhodes)"
     },
     "next": {
       "id": "jad_author__20",
@@ -877,11 +877,11 @@
         "view_label": "Sermones de tempore ",
         "prev": {
           "id": "jad_work__409",
-          "label": " "
+          "label": "Catena aurea in Iohannem "
         },
         "next": {
           "id": "jad_work__410",
-          "label": " "
+          "label": "Catena aurea in Lucam "
         }
       },
       {
@@ -2348,6 +2348,67 @@
         "next": {
           "id": "jad_work__405",
           "label": "Commentarii super cantica ecclesiastica "
+        }
+      },
+      {
+        "id": 421,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__421",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 104,
+            "value": "BSB, Clm 14562"
+          }
+        ],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 76,
+            "value": "15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__420",
+          "label": "Sermones dominicales "
+        },
+        "next": {
+          "id": "jad_work__422",
+          "label": " "
         }
       }
     ]
@@ -5531,12 +5592,12 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Historia Scholastica ",
         "prev": {
-          "id": "jad_work__412",
-          "label": " "
+          "id": "jad_work__419",
+          "label": "Sermones de tempore "
         },
         "next": {
-          "id": "jad_work__43",
-          "label": "Speculum Ecclesiae "
+          "id": "jad_work__420",
+          "label": "Sermones dominicales "
         }
       }
     ]
@@ -8874,8 +8935,8 @@
       "label": "Martin, of León"
     },
     "next": {
-      "id": "jad_author__21",
-      "label": "Aelred, of Rievaulx"
+      "id": "jad_author__200",
+      "label": "Jacobus, de Paradiso"
     },
     "related__works": [
       {
@@ -9058,8 +9119,8 @@
     "date_of_death": "1167",
     "view_label": "Aelred, of Rievaulx",
     "prev": {
-      "id": "jad_author__20",
-      "label": "Baldwin, of Canterbury"
+      "id": "jad_author__205",
+      "label": ""
     },
     "next": {
       "id": "jad_author__22",
@@ -13320,8 +13381,8 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Speculum Ecclesiae ",
         "prev": {
-          "id": "jad_work__42",
-          "label": "Historia Scholastica "
+          "id": "jad_work__422",
+          "label": " "
         },
         "next": {
           "id": "jad_work__44",
@@ -16925,7 +16986,344 @@
       "id": "jad_author__69",
       "label": "Claudius, of Turin"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 409,
+        "name": "Catena aurea in Iohannem ",
+        "jad_id": "jad_work__409",
+        "author": [
+          {
+            "id": 68,
+            "name": "Thomas, of Aquin",
+            "jad_id": "jad_author__68",
+            "gnd_url": "https://d-nb.info/gnd/118622110",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Aquin, Thomas von | Aquino, Tommaso, d', Heiliger | Thomas, Daqui, Heiliger | 阿奎那, 聖托馬斯 | Aquin, Thomas, von, Heiliger | T'ovma, Ak'uinats'i Saint | Tommaso, d'Aquino, Heiliger | Toma, ot Akvino, Saint | Thomas, 'o Akinatos, Saint | Tomas, de Aquino, Saint | Thomas, de Aquinas, Heiliger | Doctor Angelicus | Aquino, Thomas, de, Heiliger | Thomas, de Aquino, Heiliger | Pתומאס אקווינאס | Thomas, von Aquin, Saint | Tomás, de Aquino, Heiliger | اكويني ، توما | Aquinas, Thomas, de, Heiliger | Tomas, Akvinietis, Saint | Thomas, Aquinatis, Heiliger | Aquinas | Tomás, de Aquino, Santo | Akvinietis, Tomas, Saint | Aquinas, Heiliger | Tomasu, Akwinasu, Saint | Thomas, ho Akinatas, Heiliger | Tomasz, z Akwinu, Heiliger | Tommaso, d'Aquino, Saint | Aquino, Thomas von | Akvinskij, Foma, Heiliger | Thomas, von Aquino, Heiliger | Aquinas, Thomas, Heiliger | Foma, Akvinskij, Heiliger | Tomás, de Aquino, Saint | Pתומס אקווינס | Thomas, Aquinatus, Heiliger | Thomas, de Aquino | Thomas, Akinatos, Heiliger | Thomas, ab Aquino | T'oma, Ak'vineli, Saint | Thomas, ab Aquino, Heiliger | Toma, Akvinski, Saint | Thomas, Akuinatos, Heiliger | Ak'vineli, T'oma, Saint | Thomas, Camisensis, Heiliger | Toma, Akvins'kyi, Saint | Akwīnī, Tūmā, al-, Heiliger | Aquinatus, Thomas, Heiliger | Tommaso, d'Aquino, San | Foma, Akvinskiĭ, Saint | Tūmā al-Akwīnī, Heiliger | Thomas, d'Aquin, Heiliger | Aquino, Tommaso Niccolò, d', Heiliger | Thomas, Beatus | Akvinskii, Foma, Saint | Tomasz, Akwinu, Saint | Thomas, Aquinas, Heiliger | Dottore angelico | Aquino, Tommaso N., d', Heiliger | Tommaso, d'Aquino | Thomas, von Aquin | Thomas, Aquinas, Saint | Тома, Аквінський, Saint | Pseudo-Thomas, von Aquin | Thomas, Aquinus, Heiliger | Aquino, Thomas, von, Heiliger | Pseudo-Thomas, de Aquino | Thomas, 'o Akuinatos, Saint | Tomasu, Akuinasu, Saint | Pseudo-Thomas, Aquinas | Daqui, Thomas, Seut | Thomas, von Aquino | Thomas, Aquinatus, Sanctus | Thōmas, Akinatos, Heiliger | Thomas, 'o Akinates, Saint | Toma, Akvinskii, Saint | Aquinas, Thomas, Saint | Thomas, d'Aquin, Saint | Aquino, Tomás, de, Heiliger | Thomas, 'o Akuinates, Saint | Thomas, av Aquino, Saint",
+            "date_of_birth": "1225",
+            "date_of_death": "1274-03-07"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Catena aurea in Iohannem",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "S. Thomae Aquinatis Catena aurea in quatuor Evangelia, ed. Angelico Guarienti (Torino–Roma 1955).",
+        "view_label": "Catena aurea in Iohannem ",
+        "prev": {
+          "id": "jad_work__408",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__41",
+          "label": "Sermones de tempore "
+        }
+      },
+      {
+        "id": 410,
+        "name": "Catena aurea in Lucam ",
+        "jad_id": "jad_work__410",
+        "author": [
+          {
+            "id": 68,
+            "name": "Thomas, of Aquin",
+            "jad_id": "jad_author__68",
+            "gnd_url": "https://d-nb.info/gnd/118622110",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Aquin, Thomas von | Aquino, Tommaso, d', Heiliger | Thomas, Daqui, Heiliger | 阿奎那, 聖托馬斯 | Aquin, Thomas, von, Heiliger | T'ovma, Ak'uinats'i Saint | Tommaso, d'Aquino, Heiliger | Toma, ot Akvino, Saint | Thomas, 'o Akinatos, Saint | Tomas, de Aquino, Saint | Thomas, de Aquinas, Heiliger | Doctor Angelicus | Aquino, Thomas, de, Heiliger | Thomas, de Aquino, Heiliger | Pתומאס אקווינאס | Thomas, von Aquin, Saint | Tomás, de Aquino, Heiliger | اكويني ، توما | Aquinas, Thomas, de, Heiliger | Tomas, Akvinietis, Saint | Thomas, Aquinatis, Heiliger | Aquinas | Tomás, de Aquino, Santo | Akvinietis, Tomas, Saint | Aquinas, Heiliger | Tomasu, Akwinasu, Saint | Thomas, ho Akinatas, Heiliger | Tomasz, z Akwinu, Heiliger | Tommaso, d'Aquino, Saint | Aquino, Thomas von | Akvinskij, Foma, Heiliger | Thomas, von Aquino, Heiliger | Aquinas, Thomas, Heiliger | Foma, Akvinskij, Heiliger | Tomás, de Aquino, Saint | Pתומס אקווינס | Thomas, Aquinatus, Heiliger | Thomas, de Aquino | Thomas, Akinatos, Heiliger | Thomas, ab Aquino | T'oma, Ak'vineli, Saint | Thomas, ab Aquino, Heiliger | Toma, Akvinski, Saint | Thomas, Akuinatos, Heiliger | Ak'vineli, T'oma, Saint | Thomas, Camisensis, Heiliger | Toma, Akvins'kyi, Saint | Akwīnī, Tūmā, al-, Heiliger | Aquinatus, Thomas, Heiliger | Tommaso, d'Aquino, San | Foma, Akvinskiĭ, Saint | Tūmā al-Akwīnī, Heiliger | Thomas, d'Aquin, Heiliger | Aquino, Tommaso Niccolò, d', Heiliger | Thomas, Beatus | Akvinskii, Foma, Saint | Tomasz, Akwinu, Saint | Thomas, Aquinas, Heiliger | Dottore angelico | Aquino, Tommaso N., d', Heiliger | Tommaso, d'Aquino | Thomas, von Aquin | Thomas, Aquinas, Saint | Тома, Аквінський, Saint | Pseudo-Thomas, von Aquin | Thomas, Aquinus, Heiliger | Aquino, Thomas, von, Heiliger | Pseudo-Thomas, de Aquino | Thomas, 'o Akuinatos, Saint | Tomasu, Akuinasu, Saint | Pseudo-Thomas, Aquinas | Daqui, Thomas, Seut | Thomas, von Aquino | Thomas, Aquinatus, Sanctus | Thōmas, Akinatos, Heiliger | Thomas, 'o Akinates, Saint | Toma, Akvinskii, Saint | Aquinas, Thomas, Saint | Thomas, d'Aquin, Saint | Aquino, Tomás, de, Heiliger | Thomas, 'o Akuinates, Saint | Thomas, av Aquino, Saint",
+            "date_of_birth": "1225",
+            "date_of_death": "1274-03-07"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Catena aurea in Lucam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "S. Thomae Aquinatis Catena aurea in quatuor Evangelia, ed. Angelico Guarienti (Torino–Roma 1955).",
+        "view_label": "Catena aurea in Lucam ",
+        "prev": {
+          "id": "jad_work__41",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__411",
+          "label": "Catena aurea in Matthaeum "
+        }
+      },
+      {
+        "id": 411,
+        "name": "Catena aurea in Matthaeum ",
+        "jad_id": "jad_work__411",
+        "author": [
+          {
+            "id": 68,
+            "name": "Thomas, of Aquin",
+            "jad_id": "jad_author__68",
+            "gnd_url": "https://d-nb.info/gnd/118622110",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Aquin, Thomas von | Aquino, Tommaso, d', Heiliger | Thomas, Daqui, Heiliger | 阿奎那, 聖托馬斯 | Aquin, Thomas, von, Heiliger | T'ovma, Ak'uinats'i Saint | Tommaso, d'Aquino, Heiliger | Toma, ot Akvino, Saint | Thomas, 'o Akinatos, Saint | Tomas, de Aquino, Saint | Thomas, de Aquinas, Heiliger | Doctor Angelicus | Aquino, Thomas, de, Heiliger | Thomas, de Aquino, Heiliger | Pתומאס אקווינאס | Thomas, von Aquin, Saint | Tomás, de Aquino, Heiliger | اكويني ، توما | Aquinas, Thomas, de, Heiliger | Tomas, Akvinietis, Saint | Thomas, Aquinatis, Heiliger | Aquinas | Tomás, de Aquino, Santo | Akvinietis, Tomas, Saint | Aquinas, Heiliger | Tomasu, Akwinasu, Saint | Thomas, ho Akinatas, Heiliger | Tomasz, z Akwinu, Heiliger | Tommaso, d'Aquino, Saint | Aquino, Thomas von | Akvinskij, Foma, Heiliger | Thomas, von Aquino, Heiliger | Aquinas, Thomas, Heiliger | Foma, Akvinskij, Heiliger | Tomás, de Aquino, Saint | Pתומס אקווינס | Thomas, Aquinatus, Heiliger | Thomas, de Aquino | Thomas, Akinatos, Heiliger | Thomas, ab Aquino | T'oma, Ak'vineli, Saint | Thomas, ab Aquino, Heiliger | Toma, Akvinski, Saint | Thomas, Akuinatos, Heiliger | Ak'vineli, T'oma, Saint | Thomas, Camisensis, Heiliger | Toma, Akvins'kyi, Saint | Akwīnī, Tūmā, al-, Heiliger | Aquinatus, Thomas, Heiliger | Tommaso, d'Aquino, San | Foma, Akvinskiĭ, Saint | Tūmā al-Akwīnī, Heiliger | Thomas, d'Aquin, Heiliger | Aquino, Tommaso Niccolò, d', Heiliger | Thomas, Beatus | Akvinskii, Foma, Saint | Tomasz, Akwinu, Saint | Thomas, Aquinas, Heiliger | Dottore angelico | Aquino, Tommaso N., d', Heiliger | Tommaso, d'Aquino | Thomas, von Aquin | Thomas, Aquinas, Saint | Тома, Аквінський, Saint | Pseudo-Thomas, von Aquin | Thomas, Aquinus, Heiliger | Aquino, Thomas, von, Heiliger | Pseudo-Thomas, de Aquino | Thomas, 'o Akuinatos, Saint | Tomasu, Akuinasu, Saint | Pseudo-Thomas, Aquinas | Daqui, Thomas, Seut | Thomas, von Aquino | Thomas, Aquinatus, Sanctus | Thōmas, Akinatos, Heiliger | Thomas, 'o Akinates, Saint | Toma, Akvinskii, Saint | Aquinas, Thomas, Saint | Thomas, d'Aquin, Saint | Aquino, Tomás, de, Heiliger | Thomas, 'o Akuinates, Saint | Thomas, av Aquino, Saint",
+            "date_of_birth": "1225",
+            "date_of_death": "1274-03-07"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Catena aurea in Matthaeum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "S. Thomae Aquinatis Catena aurea in quatuor Evangelia, ed. Angelico Guarienti (Torino–Roma 1955).",
+        "view_label": "Catena aurea in Matthaeum ",
+        "prev": {
+          "id": "jad_work__410",
+          "label": "Catena aurea in Lucam "
+        },
+        "next": {
+          "id": "jad_work__412",
+          "label": "In Psalmos reportatio "
+        }
+      },
+      {
+        "id": 412,
+        "name": "In Psalmos reportatio ",
+        "jad_id": "jad_work__412",
+        "author": [
+          {
+            "id": 68,
+            "name": "Thomas, of Aquin",
+            "jad_id": "jad_author__68",
+            "gnd_url": "https://d-nb.info/gnd/118622110",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Aquin, Thomas von | Aquino, Tommaso, d', Heiliger | Thomas, Daqui, Heiliger | 阿奎那, 聖托馬斯 | Aquin, Thomas, von, Heiliger | T'ovma, Ak'uinats'i Saint | Tommaso, d'Aquino, Heiliger | Toma, ot Akvino, Saint | Thomas, 'o Akinatos, Saint | Tomas, de Aquino, Saint | Thomas, de Aquinas, Heiliger | Doctor Angelicus | Aquino, Thomas, de, Heiliger | Thomas, de Aquino, Heiliger | Pתומאס אקווינאס | Thomas, von Aquin, Saint | Tomás, de Aquino, Heiliger | اكويني ، توما | Aquinas, Thomas, de, Heiliger | Tomas, Akvinietis, Saint | Thomas, Aquinatis, Heiliger | Aquinas | Tomás, de Aquino, Santo | Akvinietis, Tomas, Saint | Aquinas, Heiliger | Tomasu, Akwinasu, Saint | Thomas, ho Akinatas, Heiliger | Tomasz, z Akwinu, Heiliger | Tommaso, d'Aquino, Saint | Aquino, Thomas von | Akvinskij, Foma, Heiliger | Thomas, von Aquino, Heiliger | Aquinas, Thomas, Heiliger | Foma, Akvinskij, Heiliger | Tomás, de Aquino, Saint | Pתומס אקווינס | Thomas, Aquinatus, Heiliger | Thomas, de Aquino | Thomas, Akinatos, Heiliger | Thomas, ab Aquino | T'oma, Ak'vineli, Saint | Thomas, ab Aquino, Heiliger | Toma, Akvinski, Saint | Thomas, Akuinatos, Heiliger | Ak'vineli, T'oma, Saint | Thomas, Camisensis, Heiliger | Toma, Akvins'kyi, Saint | Akwīnī, Tūmā, al-, Heiliger | Aquinatus, Thomas, Heiliger | Tommaso, d'Aquino, San | Foma, Akvinskiĭ, Saint | Tūmā al-Akwīnī, Heiliger | Thomas, d'Aquin, Heiliger | Aquino, Tommaso Niccolò, d', Heiliger | Thomas, Beatus | Akvinskii, Foma, Saint | Tomasz, Akwinu, Saint | Thomas, Aquinas, Heiliger | Dottore angelico | Aquino, Tommaso N., d', Heiliger | Tommaso, d'Aquino | Thomas, von Aquin | Thomas, Aquinas, Saint | Тома, Аквінський, Saint | Pseudo-Thomas, von Aquin | Thomas, Aquinus, Heiliger | Aquino, Thomas, von, Heiliger | Pseudo-Thomas, de Aquino | Thomas, 'o Akuinatos, Saint | Tomasu, Akuinasu, Saint | Pseudo-Thomas, Aquinas | Daqui, Thomas, Seut | Thomas, von Aquino | Thomas, Aquinatus, Sanctus | Thōmas, Akinatos, Heiliger | Thomas, 'o Akinates, Saint | Toma, Akvinskii, Saint | Aquinas, Thomas, Saint | Thomas, d'Aquin, Saint | Aquino, Tomás, de, Heiliger | Thomas, 'o Akuinates, Saint | Thomas, av Aquino, Saint",
+            "date_of_birth": "1225",
+            "date_of_death": "1274-03-07"
+          }
+        ],
+        "manuscripts": [],
+        "title": "In Psalmos reportatio",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Sancti Thomae doctoris angelici ordinis Praedicatorum opera omnia, vol. 14 (Parma 1863).",
+        "view_label": "In Psalmos reportatio ",
+        "prev": {
+          "id": "jad_work__411",
+          "label": "Catena aurea in Matthaeum "
+        },
+        "next": {
+          "id": "jad_work__413",
+          "label": "Super Euangelium Iohannis reportatio "
+        }
+      },
+      {
+        "id": 413,
+        "name": "Super Euangelium Iohannis reportatio ",
+        "jad_id": "jad_work__413",
+        "author": [
+          {
+            "id": 68,
+            "name": "Thomas, of Aquin",
+            "jad_id": "jad_author__68",
+            "gnd_url": "https://d-nb.info/gnd/118622110",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Aquin, Thomas von | Aquino, Tommaso, d', Heiliger | Thomas, Daqui, Heiliger | 阿奎那, 聖托馬斯 | Aquin, Thomas, von, Heiliger | T'ovma, Ak'uinats'i Saint | Tommaso, d'Aquino, Heiliger | Toma, ot Akvino, Saint | Thomas, 'o Akinatos, Saint | Tomas, de Aquino, Saint | Thomas, de Aquinas, Heiliger | Doctor Angelicus | Aquino, Thomas, de, Heiliger | Thomas, de Aquino, Heiliger | Pתומאס אקווינאס | Thomas, von Aquin, Saint | Tomás, de Aquino, Heiliger | اكويني ، توما | Aquinas, Thomas, de, Heiliger | Tomas, Akvinietis, Saint | Thomas, Aquinatis, Heiliger | Aquinas | Tomás, de Aquino, Santo | Akvinietis, Tomas, Saint | Aquinas, Heiliger | Tomasu, Akwinasu, Saint | Thomas, ho Akinatas, Heiliger | Tomasz, z Akwinu, Heiliger | Tommaso, d'Aquino, Saint | Aquino, Thomas von | Akvinskij, Foma, Heiliger | Thomas, von Aquino, Heiliger | Aquinas, Thomas, Heiliger | Foma, Akvinskij, Heiliger | Tomás, de Aquino, Saint | Pתומס אקווינס | Thomas, Aquinatus, Heiliger | Thomas, de Aquino | Thomas, Akinatos, Heiliger | Thomas, ab Aquino | T'oma, Ak'vineli, Saint | Thomas, ab Aquino, Heiliger | Toma, Akvinski, Saint | Thomas, Akuinatos, Heiliger | Ak'vineli, T'oma, Saint | Thomas, Camisensis, Heiliger | Toma, Akvins'kyi, Saint | Akwīnī, Tūmā, al-, Heiliger | Aquinatus, Thomas, Heiliger | Tommaso, d'Aquino, San | Foma, Akvinskiĭ, Saint | Tūmā al-Akwīnī, Heiliger | Thomas, d'Aquin, Heiliger | Aquino, Tommaso Niccolò, d', Heiliger | Thomas, Beatus | Akvinskii, Foma, Saint | Tomasz, Akwinu, Saint | Thomas, Aquinas, Heiliger | Dottore angelico | Aquino, Tommaso N., d', Heiliger | Tommaso, d'Aquino | Thomas, von Aquin | Thomas, Aquinas, Saint | Тома, Аквінський, Saint | Pseudo-Thomas, von Aquin | Thomas, Aquinus, Heiliger | Aquino, Thomas, von, Heiliger | Pseudo-Thomas, de Aquino | Thomas, 'o Akuinatos, Saint | Tomasu, Akuinasu, Saint | Pseudo-Thomas, Aquinas | Daqui, Thomas, Seut | Thomas, von Aquino | Thomas, Aquinatus, Sanctus | Thōmas, Akinatos, Heiliger | Thomas, 'o Akinates, Saint | Toma, Akvinskii, Saint | Aquinas, Thomas, Saint | Thomas, d'Aquin, Saint | Aquino, Tomás, de, Heiliger | Thomas, 'o Akuinates, Saint | Thomas, av Aquino, Saint",
+            "date_of_birth": "1225",
+            "date_of_death": "1274-03-07"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Super Euangelium Iohannis reportatio",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Marietti 1952",
+        "view_label": "Super Euangelium Iohannis reportatio ",
+        "prev": {
+          "id": "jad_work__412",
+          "label": "In Psalmos reportatio "
+        },
+        "next": {
+          "id": "jad_work__414",
+          "label": "Super Euangelium Matthaei reportatio "
+        }
+      },
+      {
+        "id": 414,
+        "name": "Super Euangelium Matthaei reportatio ",
+        "jad_id": "jad_work__414",
+        "author": [
+          {
+            "id": 68,
+            "name": "Thomas, of Aquin",
+            "jad_id": "jad_author__68",
+            "gnd_url": "https://d-nb.info/gnd/118622110",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Aquin, Thomas von | Aquino, Tommaso, d', Heiliger | Thomas, Daqui, Heiliger | 阿奎那, 聖托馬斯 | Aquin, Thomas, von, Heiliger | T'ovma, Ak'uinats'i Saint | Tommaso, d'Aquino, Heiliger | Toma, ot Akvino, Saint | Thomas, 'o Akinatos, Saint | Tomas, de Aquino, Saint | Thomas, de Aquinas, Heiliger | Doctor Angelicus | Aquino, Thomas, de, Heiliger | Thomas, de Aquino, Heiliger | Pתומאס אקווינאס | Thomas, von Aquin, Saint | Tomás, de Aquino, Heiliger | اكويني ، توما | Aquinas, Thomas, de, Heiliger | Tomas, Akvinietis, Saint | Thomas, Aquinatis, Heiliger | Aquinas | Tomás, de Aquino, Santo | Akvinietis, Tomas, Saint | Aquinas, Heiliger | Tomasu, Akwinasu, Saint | Thomas, ho Akinatas, Heiliger | Tomasz, z Akwinu, Heiliger | Tommaso, d'Aquino, Saint | Aquino, Thomas von | Akvinskij, Foma, Heiliger | Thomas, von Aquino, Heiliger | Aquinas, Thomas, Heiliger | Foma, Akvinskij, Heiliger | Tomás, de Aquino, Saint | Pתומס אקווינס | Thomas, Aquinatus, Heiliger | Thomas, de Aquino | Thomas, Akinatos, Heiliger | Thomas, ab Aquino | T'oma, Ak'vineli, Saint | Thomas, ab Aquino, Heiliger | Toma, Akvinski, Saint | Thomas, Akuinatos, Heiliger | Ak'vineli, T'oma, Saint | Thomas, Camisensis, Heiliger | Toma, Akvins'kyi, Saint | Akwīnī, Tūmā, al-, Heiliger | Aquinatus, Thomas, Heiliger | Tommaso, d'Aquino, San | Foma, Akvinskiĭ, Saint | Tūmā al-Akwīnī, Heiliger | Thomas, d'Aquin, Heiliger | Aquino, Tommaso Niccolò, d', Heiliger | Thomas, Beatus | Akvinskii, Foma, Saint | Tomasz, Akwinu, Saint | Thomas, Aquinas, Heiliger | Dottore angelico | Aquino, Tommaso N., d', Heiliger | Tommaso, d'Aquino | Thomas, von Aquin | Thomas, Aquinas, Saint | Тома, Аквінський, Saint | Pseudo-Thomas, von Aquin | Thomas, Aquinus, Heiliger | Aquino, Thomas, von, Heiliger | Pseudo-Thomas, de Aquino | Thomas, 'o Akuinatos, Saint | Tomasu, Akuinasu, Saint | Pseudo-Thomas, Aquinas | Daqui, Thomas, Seut | Thomas, von Aquino | Thomas, Aquinatus, Sanctus | Thōmas, Akinatos, Heiliger | Thomas, 'o Akinates, Saint | Toma, Akvinskii, Saint | Aquinas, Thomas, Saint | Thomas, d'Aquin, Saint | Aquino, Tomás, de, Heiliger | Thomas, 'o Akuinates, Saint | Thomas, av Aquino, Saint",
+            "date_of_birth": "1225",
+            "date_of_death": "1274-03-07"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Super Euangelium Matthaei reportatio",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "S. Thomae Aquinatis Super evangelium S. Matthaei lectura, ed. Raffaele Cai (Torino–Roma 1951).",
+        "view_label": "Super Euangelium Matthaei reportatio ",
+        "prev": {
+          "id": "jad_work__413",
+          "label": "Super Euangelium Iohannis reportatio "
+        },
+        "next": {
+          "id": "jad_work__415",
+          "label": "Sermones de tempore "
+        }
+      }
+    ]
   },
   "69": {
     "id": 69,
@@ -28443,7 +28841,7 @@
     },
     "next": {
       "id": "jad_author__195",
-      "label": ""
+      "label": "Antonius, de Parma"
     },
     "related__works": [
       {
@@ -28514,15 +28912,528 @@
         },
         "next": {
           "id": "jad_work__409",
-          "label": " "
+          "label": "Catena aurea in Iohannem "
         }
       }
     ]
   },
   "195": {
     "id": 195,
-    "name": "",
+    "name": "Antonius, de Parma",
     "jad_id": "jad_author__195",
+    "gnd_url": "https://d-nb.info/gnd/102422125",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Antonius, Permensis | Antoine, d'Azaro | Parma, Antonius de | Anthony, of Parma | Antoine, de Parme | Azarus, Parmensis | Antonius, Azaro de Parma | Antonius, Parmensis | Antonio, Azaro | Antonius, Azarus | Antonius, de Azaro | Antonio, Azaro Parmense | Antoine, d'Azario",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "Antonius, de Parma",
+    "prev": {
+      "id": "jad_author__194",
+      "label": "Konrad, of Waldhausen"
+    },
+    "next": {
+      "id": "jad_author__196",
+      "label": "Nikolaus IV, Pope"
+    },
+    "related__works": [
+      {
+        "id": 415,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__415",
+        "author": [
+          {
+            "id": 195,
+            "name": "Antonius, de Parma",
+            "jad_id": "jad_author__195",
+            "gnd_url": "https://d-nb.info/gnd/102422125",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Antonius, Permensis | Antoine, d'Azaro | Parma, Antonius de | Anthony, of Parma | Antoine, de Parme | Azarus, Parmensis | Antonius, Azaro de Parma | Antonius, Parmensis | Antonio, Azaro | Antonius, Azarus | Antonius, de Azaro | Antonio, Azaro Parmense | Antoine, d'Azario",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 102,
+            "value": "Bibl. Royal, MS 1958"
+          }
+        ],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 17,
+            "value": "around 1300"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__414",
+          "label": "Super Euangelium Matthaei reportatio "
+        },
+        "next": {
+          "id": "jad_work__416",
+          "label": "Sermones dominicales "
+        }
+      }
+    ]
+  },
+  "196": {
+    "id": 196,
+    "name": "Nikolaus IV, Pope",
+    "jad_id": "jad_author__196",
+    "gnd_url": "https://d-nb.info/gnd/11878627X",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Nicolas IV., Papa | Jérôme, d'Ascoli | Girolamo, Masci, Franziskanerorden, Generalminister | Hieronymus, von Ascoli | Girolamo, Masci | Jérôme, Masci | Nicolas IV., Pape | Nicholas IV., Pope | D'Ascoli, Girolamo | Niccolò IV., Papa | Ascoli, Girolamo d' | Hieronymus, Asculanus | Masci, Girolamo | Girolamo, d'Ascoli | Nicolaus IV., Papa | Hieronymus, Masci | Girolamo, Masci d'Ascoli | Hieronymus IV., Nicolaus | Hieronymus, Picenus | Hieronymus, de Ascoli",
+    "date_of_birth": "1227-09-30",
+    "date_of_death": "1292-04-04",
+    "view_label": "Nikolaus IV, Pope",
+    "prev": {
+      "id": "jad_author__195",
+      "label": "Antonius, de Parma"
+    },
+    "next": {
+      "id": "jad_author__197",
+      "label": "Peregrinus, de Oppeln"
+    },
+    "related__works": [
+      {
+        "id": 416,
+        "name": "Sermones dominicales ",
+        "jad_id": "jad_work__416",
+        "author": [
+          {
+            "id": 196,
+            "name": "Nikolaus IV, Pope",
+            "jad_id": "jad_author__196",
+            "gnd_url": "https://d-nb.info/gnd/11878627X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Nicolas IV., Papa | Jérôme, d'Ascoli | Girolamo, Masci, Franziskanerorden, Generalminister | Hieronymus, von Ascoli | Girolamo, Masci | Jérôme, Masci | Nicolas IV., Pape | Nicholas IV., Pope | D'Ascoli, Girolamo | Niccolò IV., Papa | Ascoli, Girolamo d' | Hieronymus, Asculanus | Masci, Girolamo | Girolamo, d'Ascoli | Nicolaus IV., Papa | Hieronymus, Masci | Girolamo, Masci d'Ascoli | Hieronymus IV., Nicolaus | Hieronymus, Picenus | Hieronymus, de Ascoli",
+            "date_of_birth": "1227-09-30",
+            "date_of_death": "1292-04-04"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 113,
+            "value": "Bibl. Casanatense, MS 1184"
+          }
+        ],
+        "title": "Sermones dominicales",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones dominicales ",
+        "prev": {
+          "id": "jad_work__415",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__417",
+          "label": "Sermones de tempore "
+        }
+      }
+    ]
+  },
+  "197": {
+    "id": 197,
+    "name": "Peregrinus, de Oppeln",
+    "jad_id": "jad_author__197",
+    "gnd_url": "https://d-nb.info/gnd/100380824",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Peregrinus, d'Opole | Peregrinus, von Oppeln | Peregrinus, Vratislaviensis | Peregrinus, Oppoliensis | Pilgrim, OP | Peregrinus, Prior Rathiboriensis | Pérégrin, Prieur de Ratibor | Peregrinus, Inquisitor Cracoviensis | Peregrinus, in Oppeln | Peregrinus, de Opole | Peregrinus, Provincial of the Dominicans in Poland | Pérégrin, Prieur de Breslau | Peregrinus, Oppoliensis Polonus | Peregrinus, OP | Oppeln, Peregrinus de | Pilgrim, von Ratibor | Peregrinus | Pérégrin, d' Opole | Peregryn, de Opole | Pérégrin, Dominicain | Pérégrin, de Pologne | Peregrinus, Oppolienis",
+    "date_of_birth": "1260",
+    "date_of_death": "1335",
+    "view_label": "Peregrinus, de Oppeln",
+    "prev": {
+      "id": "jad_author__196",
+      "label": "Nikolaus IV, Pope"
+    },
+    "next": {
+      "id": "jad_author__198",
+      "label": "Matthew Paris"
+    },
+    "related__works": [
+      {
+        "id": 417,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__417",
+        "author": [
+          {
+            "id": 197,
+            "name": "Peregrinus, de Oppeln",
+            "jad_id": "jad_author__197",
+            "gnd_url": "https://d-nb.info/gnd/100380824",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Peregrinus, d'Opole | Peregrinus, von Oppeln | Peregrinus, Vratislaviensis | Peregrinus, Oppoliensis | Pilgrim, OP | Peregrinus, Prior Rathiboriensis | Pérégrin, Prieur de Ratibor | Peregrinus, Inquisitor Cracoviensis | Peregrinus, in Oppeln | Peregrinus, de Opole | Peregrinus, Provincial of the Dominicans in Poland | Pérégrin, Prieur de Breslau | Peregrinus, Oppoliensis Polonus | Peregrinus, OP | Oppeln, Peregrinus de | Pilgrim, von Ratibor | Peregrinus | Pérégrin, d' Opole | Peregryn, de Opole | Pérégrin, Dominicain | Pérégrin, de Pologne | Peregrinus, Oppolienis",
+            "date_of_birth": "1260",
+            "date_of_death": "1335"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 55,
+            "value": "early 14th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Peregrini de Opole Sermones de tempore et de sanctis : e codicis manu scriptis, ed. Ryszard Tatarzyński (Warszawa 1997).",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__416",
+          "label": "Sermones dominicales "
+        },
+        "next": {
+          "id": "jad_work__418",
+          "label": "Chronica majora "
+        }
+      }
+    ]
+  },
+  "198": {
+    "id": 198,
+    "name": "Matthew Paris",
+    "jad_id": "jad_author__198",
+    "gnd_url": "https://d-nb.info/gnd/118578987",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Matthaeus, Albanensis | Matthaeus, Paris | Matteo, di Parigi | Paris, Matthew | Paris, Matthaeus | Matthaeus, de Sancto Albano | Matthaeus, de Parisiis | Matthaei, Parisiensis | Matthaeus, Sancti Albani | Matthaeus, de Paris | Matthaeus, Parisius | Paris, Matthäus | Parigi, Matteo di | Mathieu, Paris | Matthieu, Paris | Matthaeus, Westmonasteriensis | Paris, Mathieu | Parisiis, Matthaeus de | Matthäus, von Paris | Paris, Matthieu | Matthew, Paris",
+    "date_of_birth": "1200",
+    "date_of_death": "1259",
+    "view_label": "Matthew Paris",
+    "prev": {
+      "id": "jad_author__197",
+      "label": "Peregrinus, de Oppeln"
+    },
+    "next": {
+      "id": "jad_author__199",
+      "label": "Jacobus, de Rodo (of Rhodes)"
+    },
+    "related__works": [
+      {
+        "id": 418,
+        "name": "Chronica majora ",
+        "jad_id": "jad_work__418",
+        "author": [
+          {
+            "id": 198,
+            "name": "Matthew Paris",
+            "jad_id": "jad_author__198",
+            "gnd_url": "https://d-nb.info/gnd/118578987",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Matthaeus, Albanensis | Matthaeus, Paris | Matteo, di Parigi | Paris, Matthew | Paris, Matthaeus | Matthaeus, de Sancto Albano | Matthaeus, de Parisiis | Matthaei, Parisiensis | Matthaeus, Sancti Albani | Matthaeus, de Paris | Matthaeus, Parisius | Paris, Matthäus | Parigi, Matteo di | Mathieu, Paris | Matthieu, Paris | Matthaeus, Westmonasteriensis | Paris, Mathieu | Parisiis, Matthaeus de | Matthäus, von Paris | Paris, Matthieu | Matthew, Paris",
+            "date_of_birth": "1200",
+            "date_of_death": "1259"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronica majora",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 17,
+            "name": "Rolls Series",
+            "jad_id": "jad_sources_occurrences__17",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Chronica majora ",
+        "prev": {
+          "id": "jad_work__417",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__419",
+          "label": "Sermones de tempore "
+        }
+      }
+    ]
+  },
+  "199": {
+    "id": 199,
+    "name": "Jacobus, de Rodo (of Rhodes)",
+    "jad_id": "jad_author__199",
+    "gnd_url": "https://d-nb.info/gnd/10250654X",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Jacques, de Rodo | Rodo, Jacobus de | Jacques, de Rhodes",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "Jacobus, de Rodo (of Rhodes)",
+    "prev": {
+      "id": "jad_author__198",
+      "label": "Matthew Paris"
+    },
+    "next": {
+      "id": "jad_author__2",
+      "label": "Martin, of León"
+    },
+    "related__works": [
+      {
+        "id": 419,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__419",
+        "author": [
+          {
+            "id": 199,
+            "name": "Jacobus, de Rodo (of Rhodes)",
+            "jad_id": "jad_author__199",
+            "gnd_url": "https://d-nb.info/gnd/10250654X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Jacques, de Rodo | Rodo, Jacobus de | Jacques, de Rhodes",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 103,
+            "value": "Assisi, MS 538"
+          }
+        ],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 17,
+            "name": "Franciscans",
+            "jad_id": "jad_institutional_context__17",
+            "part_of": [
+              {
+                "id": 19,
+                "name": "Friars",
+                "jad_id": "jad_institutional_context__19",
+                "part_of": [],
+                "gnd_url": "",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 75,
+            "value": "late 14th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__418",
+          "label": "Chronica majora "
+        },
+        "next": {
+          "id": "jad_work__42",
+          "label": "Historia Scholastica "
+        }
+      }
+    ]
+  },
+  "200": {
+    "id": 200,
+    "name": "Jacobus, de Paradiso",
+    "jad_id": "jad_author__200",
+    "gnd_url": "https://d-nb.info/gnd/118556754",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Jacobus de Jutirboc | Jacobus, de Clusa | Jüterbogk, Jacobus de | Jacobus, de Jüterbog | Jakob, von Jüterbog | Paradiso, Jacobus de | Jacobus, de Claratumba | Jacobus Junterburgiensis | Jacobus, de Polonia | Jacobus, de Erfordia | Iacobus Carthusiensis | Jakob von Paradies | Jacobus von Erfurt | Paradiso, Iacobus de | Jacobus | Jacobus aus Jüterbog | Jakob, de Juterbog | Jakob, der Kartäuser | Jacobus, de Junterborck | Jakob, von Paradies | Jacobus, Junterbuck | Jacobus, Cartusiensis | Jakób, z Paradyz̀a | Jüterbog, Jacobus de | Jakub, z Paradyża | Jacobus, Iunterburgius | Jakub | Clusa, Jacobus de | Jakob, der Karthäuser | Jacobus, Carthusiensis | Jakob, Kuniken | Jacobus, Iunterbuck | Iunterburgius, Jacobus | Jakob | Iacobus | Jacobus, of Jüterbogk | Jakob, Kunike | Jacobus Erffordiensis | Jacobus, de Jüterbogk | Jacobus, Cisterciensis | Jacobus, de Cracovia | Iacobus, de Paradiso | Jakob, Coneken | Jacobus, de Jutirbock | Jüterbog, Jakob von | Jacob, von Jüterbog | Jakób | Jacobus, Junterburgius | Junterburgius, Jacobus | Jakob, Carthuser zu Erdfurt",
+    "date_of_birth": "1381",
+    "date_of_death": "1465",
+    "view_label": "Jacobus, de Paradiso",
+    "prev": {
+      "id": "jad_author__20",
+      "label": "Baldwin, of Canterbury"
+    },
+    "next": {
+      "id": "jad_author__201",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 420,
+        "name": "Sermones dominicales ",
+        "jad_id": "jad_work__420",
+        "author": [
+          {
+            "id": 200,
+            "name": "Jacobus, de Paradiso",
+            "jad_id": "jad_author__200",
+            "gnd_url": "https://d-nb.info/gnd/118556754",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Jacobus de Jutirboc | Jacobus, de Clusa | Jüterbogk, Jacobus de | Jacobus, de Jüterbog | Jakob, von Jüterbog | Paradiso, Jacobus de | Jacobus, de Claratumba | Jacobus Junterburgiensis | Jacobus, de Polonia | Jacobus, de Erfordia | Iacobus Carthusiensis | Jakob von Paradies | Jacobus von Erfurt | Paradiso, Iacobus de | Jacobus | Jacobus aus Jüterbog | Jakob, de Juterbog | Jakob, der Kartäuser | Jacobus, de Junterborck | Jakob, von Paradies | Jacobus, Junterbuck | Jacobus, Cartusiensis | Jakób, z Paradyz̀a | Jüterbog, Jacobus de | Jakub, z Paradyża | Jacobus, Iunterburgius | Jakub | Clusa, Jacobus de | Jakob, der Karthäuser | Jacobus, Carthusiensis | Jakob, Kuniken | Jacobus, Iunterbuck | Iunterburgius, Jacobus | Jakob | Iacobus | Jacobus, of Jüterbogk | Jakob, Kunike | Jacobus Erffordiensis | Jacobus, de Jüterbogk | Jacobus, Cisterciensis | Jacobus, de Cracovia | Iacobus, de Paradiso | Jakob, Coneken | Jacobus, de Jutirbock | Jüterbog, Jakob von | Jacob, von Jüterbog | Jakób | Jacobus, Junterburgius | Junterburgius, Jacobus | Jakob, Carthuser zu Erdfurt",
+            "date_of_birth": "1381",
+            "date_of_death": "1465"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones dominicales",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "Erfurt 1475",
+        "institutional_context": [
+          {
+            "id": 9,
+            "name": "Cistercians",
+            "jad_id": "jad_institutional_context__9",
+            "part_of": [],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 57,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones dominicales ",
+        "prev": {
+          "id": "jad_work__42",
+          "label": "Historia Scholastica "
+        },
+        "next": {
+          "id": "jad_work__421",
+          "label": "Sermones de tempore "
+        }
+      }
+    ]
+  },
+  "201": {
+    "id": 201,
+    "name": "",
+    "jad_id": "jad_author__201",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
@@ -28531,12 +29442,96 @@
     "date_of_death": "",
     "view_label": "",
     "prev": {
-      "id": "jad_author__194",
-      "label": "Konrad, of Waldhausen"
+      "id": "jad_author__200",
+      "label": "Jacobus, de Paradiso"
     },
     "next": {
-      "id": "jad_author__2",
-      "label": "Martin, of León"
+      "id": "jad_author__202",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "202": {
+    "id": 202,
+    "name": "",
+    "jad_id": "jad_author__202",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__201",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__203",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "203": {
+    "id": 203,
+    "name": "",
+    "jad_id": "jad_author__203",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__202",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__204",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "204": {
+    "id": 204,
+    "name": "",
+    "jad_id": "jad_author__204",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__203",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__205",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "205": {
+    "id": 205,
+    "name": "",
+    "jad_id": "jad_author__205",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__204",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__21",
+      "label": "Aelred, of Rievaulx"
     },
     "related__works": []
   }
