@@ -119,12 +119,12 @@
     "jad_id": "jad_date__8",
     "view_label": "late 9th cen.",
     "prev": {
-      "id": "jad_date__78",
-      "label": ""
+      "id": "jad_date__79",
+      "label": "14th cen., first half"
     },
     "next": {
-      "id": "jad_date__9",
-      "label": "around 1200"
+      "id": "jad_date__80",
+      "label": ""
     }
   },
   "9": {
@@ -135,8 +135,8 @@
     "jad_id": "jad_date__9",
     "view_label": "around 1200",
     "prev": {
-      "id": "jad_date__8",
-      "label": "late 9th cen."
+      "id": "jad_date__80",
+      "label": ""
     },
     "next": {
       "id": "jad_date__1",
@@ -163,7 +163,7 @@
     "id": 11,
     "name": "after 1187",
     "not_before": "1187",
-    "not_after": null,
+    "not_after": "1230",
     "jad_id": "jad_date__11",
     "view_label": "after 1187",
     "prev": {
@@ -466,7 +466,7 @@
   "30": {
     "id": 30,
     "name": "before 1186",
-    "not_before": null,
+    "not_before": "1150",
     "not_after": "1186",
     "jad_id": "jad_date__30",
     "view_label": "before 1186",
@@ -498,7 +498,7 @@
   "32": {
     "id": 32,
     "name": "before 1190",
-    "not_before": null,
+    "not_before": "1150",
     "not_after": "1190",
     "jad_id": "jad_date__32",
     "view_label": "before 1190",
@@ -834,7 +834,7 @@
   "53": {
     "id": 53,
     "name": "before 1291",
-    "not_before": null,
+    "not_before": "1250",
     "not_after": "1291",
     "jad_id": "jad_date__53",
     "view_label": "before 1291",
@@ -1212,39 +1212,71 @@
     },
     "next": {
       "id": "jad_date__77",
-      "label": ""
+      "label": "early 15th cen."
     }
   },
   "77": {
     "id": 77,
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "early 15th cen.",
+    "not_before": "1401",
+    "not_after": "1430",
     "jad_id": "jad_date__77",
-    "view_label": "",
+    "view_label": "early 15th cen.",
     "prev": {
       "id": "jad_date__76",
       "label": "15th cen."
     },
     "next": {
       "id": "jad_date__78",
-      "label": ""
+      "label": "late 15th cen."
     }
   },
   "78": {
     "id": 78,
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "late 15th cen.",
+    "not_before": "1471",
+    "not_after": "1500",
     "jad_id": "jad_date__78",
-    "view_label": "",
+    "view_label": "late 15th cen.",
     "prev": {
       "id": "jad_date__77",
-      "label": ""
+      "label": "early 15th cen."
+    },
+    "next": {
+      "id": "jad_date__79",
+      "label": "14th cen., first half"
+    }
+  },
+  "79": {
+    "id": 79,
+    "name": "14th cen., first half",
+    "not_before": "1301",
+    "not_after": "1350",
+    "jad_id": "jad_date__79",
+    "view_label": "14th cen., first half",
+    "prev": {
+      "id": "jad_date__78",
+      "label": "late 15th cen."
     },
     "next": {
       "id": "jad_date__8",
       "label": "late 9th cen."
+    }
+  },
+  "80": {
+    "id": 80,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__80",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__8",
+      "label": "late 9th cen."
+    },
+    "next": {
+      "id": "jad_date__9",
+      "label": "around 1200"
     }
   }
 }

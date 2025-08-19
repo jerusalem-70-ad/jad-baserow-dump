@@ -2408,7 +2408,129 @@
         },
         "next": {
           "id": "jad_work__422",
-          "label": " "
+          "label": "Sermones dominicales "
+        }
+      },
+      {
+        "id": 426,
+        "name": "Sermones ",
+        "jad_id": "jad_work__426",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 105,
+            "value": "Frankfurt, Carm. 26"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__425",
+          "label": "De miseria humane conditionis "
+        },
+        "next": {
+          "id": "jad_work__427",
+          "label": "Ad Heinricum IV imperatorem libri VII "
+        }
+      },
+      {
+        "id": 434,
+        "name": "Sermones ",
+        "jad_id": "jad_work__434",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 114,
+            "value": "Lam., MS 352"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 76,
+            "value": "15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__433",
+          "label": "In VII epistulas canonicas "
+        },
+        "next": {
+          "id": "jad_work__435",
+          "label": "Enarrationes in Psalmos "
         }
       }
     ]
@@ -9119,12 +9241,12 @@
     "date_of_death": "1167",
     "view_label": "Aelred, of Rievaulx",
     "prev": {
-      "id": "jad_author__205",
-      "label": ""
+      "id": "jad_author__209",
+      "label": "Nicolaus, de Lyra"
     },
     "next": {
-      "id": "jad_author__22",
-      "label": "Alkuin"
+      "id": "jad_author__210",
+      "label": "Magister Mathias"
     },
     "related__works": [
       {
@@ -9213,8 +9335,8 @@
     "date_of_death": "0804",
     "view_label": "Alkuin",
     "prev": {
-      "id": "jad_author__21",
-      "label": "Aelred, of Rievaulx"
+      "id": "jad_author__215",
+      "label": ""
     },
     "next": {
       "id": "jad_author__23",
@@ -13381,12 +13503,12 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Speculum Ecclesiae ",
         "prev": {
-          "id": "jad_work__422",
-          "label": " "
+          "id": "jad_work__429",
+          "label": "Gesta Chuonradi II imperatoris "
         },
         "next": {
-          "id": "jad_work__44",
-          "label": "Commentary Matthew "
+          "id": "jad_work__430",
+          "label": "Sermones de tempore "
         }
       },
       {
@@ -13795,12 +13917,12 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Commentary Matthew ",
         "prev": {
-          "id": "jad_work__43",
-          "label": "Speculum Ecclesiae "
+          "id": "jad_work__439",
+          "label": " "
         },
         "next": {
-          "id": "jad_work__45",
-          "label": "Libri deflorationum "
+          "id": "jad_work__440",
+          "label": " "
         }
       }
     ]
@@ -13883,8 +14005,8 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Libri deflorationum ",
         "prev": {
-          "id": "jad_work__44",
-          "label": "Commentary Matthew "
+          "id": "jad_work__440",
+          "label": " "
         },
         "next": {
           "id": "jad_work__46",
@@ -17801,6 +17923,62 @@
         "next": {
           "id": "jad_work__19",
           "label": "Commentary Isaiah "
+        }
+      },
+      {
+        "id": 435,
+        "name": "Enarrationes in Psalmos ",
+        "jad_id": "jad_work__435",
+        "author": [
+          {
+            "id": 72,
+            "name": "Augustinus, Aurelius",
+            "jad_id": "jad_author__72",
+            "gnd_url": "https://d-nb.info/gnd/118505114",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Agostino, Aurelio | Augustine, of Hippo | Augustinus, Aurel | Aurelius Augustinus | Agustin | Augustine, St. | Augustijn, Sinte | Agustin, San | Augustinus, Hyppon, Bischof | Augustin, Sfîntul | Augustin, Sankt | Augustinos, Hieros | Augustyn, Świe̜ty | Augustinus, von Thagaste | Augustin, z Hippo | Heiliger Augustinus | Augustin | Augustinus, Beatus | Saint Augustin | St. Augustine | Agustin, de Hipona | Agostino, San | Augustinus, Divus | Augustinus, Episcopus | Aurelius Augustinus, Hipponensis | Augustus, Aurelius | Augustijus | Augustinus, Christian Writer | Augustin, San | Augustine, Aurelius | Augustinus, Hippon, Bischof, Heiliger | Hippone, Augustin d' | Agostino, d'Ippona | Auġusṭīn | Pseudo-Augustinus | Augustine | Aġusṭīnūs | Augustin, Heiliger | Augustinus, Aurelius | Pseudo-Aurelius-Augustinus | Augustinus, Kirchenschriftsteller | Sancti Aurelii Augustini | Ôgostinos | Augustinus, von Hippo | Augustine, Saint | Aurelius, Augustinus | Sant'Agostino | Agustín de Hipona, San | Agostinho, Santo | Augustin, Kirchenvater | Augustýn | Augostino, San | Augustinus, S. Aurelius | Agostino | Ôgûsṭînûs | Augustinus, Sanctus | Augustinus, Hippo, Bischof, Heiliger | Augustinus, Hipponensis | Avgustin, Avrelij | Pseudo-Augustinus, Aurelius | Avgustinvs, Avrelivs | Ágoston, Szent | Saint Augustine | Augustinus, Heiliger | Augustin, Saint | Augustine, Saint, Bishop of Hippo | Augustine, d'Hippone | San Agustín | Agustín, San | Augustinus, Sankt | San Augustín | Agostino, di Ippona | Agostino, Santo | Augustin, d'Hippone | Augustinus, Hippo Regius, Bischof, Heiliger | Pseudo-Agostino | Augustinus | Aurelius Augustinus, Sanctus | Szent Ágoston",
+            "date_of_birth": "0354",
+            "date_of_death": "0430"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarrationes in Psalmos",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 26,
+            "value": "around 400"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Enarrationes in Psalmos ",
+        "prev": {
+          "id": "jad_work__434",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__436",
+          "label": " "
         }
       }
     ]
@@ -29359,7 +29537,7 @@
     },
     "next": {
       "id": "jad_author__201",
-      "label": ""
+      "label": "Johannes, von Werden"
     },
     "related__works": [
       {
@@ -29432,106 +29610,963 @@
   },
   "201": {
     "id": 201,
-    "name": "",
+    "name": "Johannes, von Werden",
     "jad_id": "jad_author__201",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100363806",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Verdena, Johannes de | Johannes de Verdena | Werdena, Johannes de | Johannes Deverdena | Johannes, de Verdena | Johannes, Müschelburg | Johannes, Müschelburg von Oberbach | Johannes, von Verden | Johannes, de Werden | De Verdena, Johannes | Werden, Johann von | Johannes, von Werden | Johannes, de Verdenna | Johann, von Werden | Deverdena, Johannes",
     "date_of_birth": "",
-    "date_of_death": "",
-    "view_label": "",
+    "date_of_death": "1437",
+    "view_label": "Johannes, von Werden",
     "prev": {
       "id": "jad_author__200",
       "label": "Jacobus, de Paradiso"
     },
     "next": {
       "id": "jad_author__202",
-      "label": ""
+      "label": "Johannes Herolt"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 422,
+        "name": "Sermones dominicales ",
+        "jad_id": "jad_work__422",
+        "author": [
+          {
+            "id": 201,
+            "name": "Johannes, von Werden",
+            "jad_id": "jad_author__201",
+            "gnd_url": "https://d-nb.info/gnd/100363806",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Verdena, Johannes de | Johannes de Verdena | Werdena, Johannes de | Johannes Deverdena | Johannes, de Verdena | Johannes, Müschelburg | Johannes, Müschelburg von Oberbach | Johannes, von Verden | Johannes, de Werden | De Verdena, Johannes | Werden, Johann von | Johannes, von Werden | Johannes, de Verdenna | Johann, von Werden | Deverdena, Johannes",
+            "date_of_birth": "",
+            "date_of_death": "1437"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones dominicales",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "Hagenau 1509",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 77,
+            "value": "early 15th cen."
+          }
+        ],
+        "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb00004180?page=,1",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones dominicales ",
+        "prev": {
+          "id": "jad_work__421",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__423",
+          "label": "Sermones discipuli de tempore et de sanctis "
+        }
+      }
+    ]
   },
   "202": {
     "id": 202,
-    "name": "",
+    "name": "Johannes Herolt",
     "jad_id": "jad_author__202",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100162495",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Herolt, Joannes | Johannes, Herold | Johann, Herolt | Johannes, Berolis | Heroldt, Johannes | Johann, Herold | Herold, Johann | Guilelmus, Verfasser der Postillen | Johannes, Herolt de Nuremberg | Discipulus | Herold, Johannes | Herolt, Jean | Johannes, Heroldus | Johannes, Discipulus | Heroldt, Johann | Herolt, Ioannis | Johannes, Herolt | Guilelmus aus Paris, Verfasser der Postillen",
     "date_of_birth": "",
-    "date_of_death": "",
-    "view_label": "",
+    "date_of_death": "1468",
+    "view_label": "Johannes Herolt",
     "prev": {
       "id": "jad_author__201",
-      "label": ""
+      "label": "Johannes, von Werden"
     },
     "next": {
       "id": "jad_author__203",
-      "label": ""
+      "label": "Pelbartus, de Themeswar"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 423,
+        "name": "Sermones discipuli de tempore et de sanctis ",
+        "jad_id": "jad_work__423",
+        "author": [
+          {
+            "id": 202,
+            "name": "Johannes Herolt",
+            "jad_id": "jad_author__202",
+            "gnd_url": "https://d-nb.info/gnd/100162495",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Herolt, Joannes | Johannes, Herold | Johann, Herolt | Johannes, Berolis | Heroldt, Johannes | Johann, Herold | Herold, Johann | Guilelmus, Verfasser der Postillen | Johannes, Herolt de Nuremberg | Discipulus | Herold, Johannes | Herolt, Jean | Johannes, Heroldus | Johannes, Discipulus | Heroldt, Johann | Herolt, Ioannis | Johannes, Herolt | Guilelmus aus Paris, Verfasser der Postillen",
+            "date_of_birth": "",
+            "date_of_death": "1468"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones discipuli de tempore et de sanctis",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "Augsburg 1514",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb10943207?page=238,239",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones discipuli de tempore et de sanctis ",
+        "prev": {
+          "id": "jad_work__422",
+          "label": "Sermones dominicales "
+        },
+        "next": {
+          "id": "jad_work__424",
+          "label": "Pomerium sermonum de tempore "
+        }
+      }
+    ]
   },
   "203": {
     "id": 203,
-    "name": "",
+    "name": "Pelbartus, de Themeswar",
     "jad_id": "jad_author__203",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100246915",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "view_label": "",
+    "alt_name": "Pelbart, Oszvald | Timişoara, Pelbart din | Pelbárt, Temesvári | Pelbart, Ladislai de Temesvar | Ladislaus Pelbartus, de Temesvar | Pelbartus, aus Temesvár | Pelbartus, Ladislai von Temesvár | Pelbertus, de Themeswar | Pelbart, de Temesvar | Pelbartus, de Temesvar | Oswald, Ladislai de Temesvar | Pelbartus, von Temesvár | Pelbart, Oswald | Pelbárt, von Temesvár | Temesvari, Pelbart | Temesvar, Pelbartus de | Pelbárt, Oszváld | Pelbartus de Themeswar, Oswaldus | Pelbart, Temesvari | Themesvar, Pelbartus de | Pelbartus de Themeswar, Ladislaus",
+    "date_of_birth": "1435",
+    "date_of_death": "1504",
+    "view_label": "Pelbartus, de Themeswar",
     "prev": {
       "id": "jad_author__202",
-      "label": ""
+      "label": "Johannes Herolt"
     },
     "next": {
       "id": "jad_author__204",
-      "label": ""
+      "label": "Innocent III, pope"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 424,
+        "name": "Pomerium sermonum de tempore ",
+        "jad_id": "jad_work__424",
+        "author": [
+          {
+            "id": 203,
+            "name": "Pelbartus, de Themeswar",
+            "jad_id": "jad_author__203",
+            "gnd_url": "https://d-nb.info/gnd/100246915",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Pelbart, Oszvald | Timişoara, Pelbart din | Pelbárt, Temesvári | Pelbart, Ladislai de Temesvar | Ladislaus Pelbartus, de Temesvar | Pelbartus, aus Temesvár | Pelbartus, Ladislai von Temesvár | Pelbertus, de Themeswar | Pelbart, de Temesvar | Pelbartus, de Temesvar | Oswald, Ladislai de Temesvar | Pelbartus, von Temesvár | Pelbart, Oswald | Pelbárt, von Temesvár | Temesvari, Pelbart | Temesvar, Pelbartus de | Pelbárt, Oszváld | Pelbartus de Themeswar, Oswaldus | Pelbart, Temesvari | Themesvar, Pelbartus de | Pelbartus de Themeswar, Ladislaus",
+            "date_of_birth": "1435",
+            "date_of_death": "1504"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Pomerium sermonum de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "Nürnberg 1509",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 78,
+            "value": "late 15th cen."
+          }
+        ],
+        "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb00018314?page=346,347",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Pomerium sermonum de tempore ",
+        "prev": {
+          "id": "jad_work__423",
+          "label": "Sermones discipuli de tempore et de sanctis "
+        },
+        "next": {
+          "id": "jad_work__425",
+          "label": "De miseria humane conditionis "
+        }
+      }
+    ]
   },
   "204": {
     "id": 204,
-    "name": "",
+    "name": "Innocent III, pope",
     "jad_id": "jad_author__204",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118555642",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "view_label": "",
+    "alt_name": "Lotario, de Segni | Papa Innocenzo III. | Innocentius III., Papst | De Segni, Lotario, Papst | Innocentius III, Pope | Pape Innocent III. | Inocencio III, Papst | Innocentius III., Romanus Pontifex | Innocentius, Papa 3 | Papst Innozenz III. | Innocenz III., Papst | Lotharius, Anagninus | Innozenz III, Papst | Diacon Lotharius | Lotharius, Johannes | Conti, Lotario | Innocenz III., Papa | De Conti, Lothaire | Conti, Lothaire de | Segni, Lotario di | Lothaire, de'Conti | Conti, Lothaire de' | Innocentius III., Papa | Innocentius III, Papa | Johannes, Lotharius | Lotharius | Lotario, di Segni | Lotharius, de Conti | Lotharius, Diacon | Segni, Lothar von | Di Segni, Lotario, Papst | DeConti, Lothaire | Lothario, Conti | Segni, Lotario de, Papst | Innocenzo III, Papst | Innocenzo III, Pope | Di Segni, Lotario | Innocent III, Pape | Innocentus III., Papa | Innocentius, Papst 3 | Segni, Lothair of | DiSegni, Lotario | Romanus Pontifex Innocentius III. | De Segni, Lotario | Innozenz III., Papst | Lothar, von Segni | Segni, Lotario dei Conti di | Innocent III, Papst | Lotharius, cardinalis | Lotharius, de Segni | De'Conti, Lothaire | Anagninus, Lotharius | Innocenz III, Pope | Inokentij III., Papa | Innozenz III, Pope | Lotharius, di Segni | Innocentius, Papa, III. | Innozenz III. | Papa Innocentius III. | Innocenzo III., Papa | Innocenz III, Papst | Innocent III., Pape | Innocentius III, Papst | Innocenzo III, Papa | Innocent, III",
+    "date_of_birth": "1160",
+    "date_of_death": "1216",
+    "view_label": "Innocent III, pope",
     "prev": {
       "id": "jad_author__203",
-      "label": ""
+      "label": "Pelbartus, de Themeswar"
     },
     "next": {
       "id": "jad_author__205",
-      "label": ""
+      "label": "Benzo, of Alba"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 425,
+        "name": "De miseria humane conditionis ",
+        "jad_id": "jad_work__425",
+        "author": [
+          {
+            "id": 204,
+            "name": "Innocent III, pope",
+            "jad_id": "jad_author__204",
+            "gnd_url": "https://d-nb.info/gnd/118555642",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Lotario, de Segni | Papa Innocenzo III. | Innocentius III., Papst | De Segni, Lotario, Papst | Innocentius III, Pope | Pape Innocent III. | Inocencio III, Papst | Innocentius III., Romanus Pontifex | Innocentius, Papa 3 | Papst Innozenz III. | Innocenz III., Papst | Lotharius, Anagninus | Innozenz III, Papst | Diacon Lotharius | Lotharius, Johannes | Conti, Lotario | Innocenz III., Papa | De Conti, Lothaire | Conti, Lothaire de | Segni, Lotario di | Lothaire, de'Conti | Conti, Lothaire de' | Innocentius III., Papa | Innocentius III, Papa | Johannes, Lotharius | Lotharius | Lotario, di Segni | Lotharius, de Conti | Lotharius, Diacon | Segni, Lothar von | Di Segni, Lotario, Papst | DeConti, Lothaire | Lothario, Conti | Segni, Lotario de, Papst | Innocenzo III, Papst | Innocenzo III, Pope | Di Segni, Lotario | Innocent III, Pape | Innocentus III., Papa | Innocentius, Papst 3 | Segni, Lothair of | DiSegni, Lotario | Romanus Pontifex Innocentius III. | De Segni, Lotario | Innozenz III., Papst | Lothar, von Segni | Segni, Lotario dei Conti di | Innocent III, Papst | Lotharius, cardinalis | Lotharius, de Segni | De'Conti, Lothaire | Anagninus, Lotharius | Innocenz III, Pope | Inokentij III., Papa | Innozenz III, Pope | Lotharius, di Segni | Innocentius, Papa, III. | Innozenz III. | Papa Innocentius III. | Innocenzo III., Papa | Innocenz III, Papst | Innocent III., Pape | Innocentius III, Papst | Innocenzo III, Papa | Innocent, III",
+            "date_of_birth": "1160",
+            "date_of_death": "1216"
+          }
+        ],
+        "manuscripts": [],
+        "title": "De miseria humane conditionis",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "De miseria humane conditionis ",
+        "prev": {
+          "id": "jad_work__424",
+          "label": "Pomerium sermonum de tempore "
+        },
+        "next": {
+          "id": "jad_work__426",
+          "label": "Sermones "
+        }
+      }
+    ]
   },
   "205": {
     "id": 205,
-    "name": "",
+    "name": "Benzo, of Alba",
     "jad_id": "jad_author__205",
+    "gnd_url": "https://d-nb.info/gnd/119433559",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Benzo, von Alba | Benzo, Alba, Bischof | Benzo, of Alba",
+    "date_of_birth": "",
+    "date_of_death": "1090",
+    "view_label": "Benzo, of Alba",
+    "prev": {
+      "id": "jad_author__204",
+      "label": "Innocent III, pope"
+    },
+    "next": {
+      "id": "jad_author__206",
+      "label": "Moses, Bergamensis"
+    },
+    "related__works": [
+      {
+        "id": 427,
+        "name": "Ad Heinricum IV imperatorem libri VII ",
+        "jad_id": "jad_work__427",
+        "author": [
+          {
+            "id": 205,
+            "name": "Benzo, of Alba",
+            "jad_id": "jad_author__205",
+            "gnd_url": "https://d-nb.info/gnd/119433559",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Benzo, von Alba | Benzo, Alba, Bischof | Benzo, of Alba",
+            "date_of_birth": "",
+            "date_of_death": "1090"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Ad Heinricum IV imperatorem libri VII",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 65,
+            "value": "11th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Ad Heinricum IV imperatorem libri VII ",
+        "prev": {
+          "id": "jad_work__426",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__428",
+          "label": "Exceptio compendiosa de divinitus inspirata Scriptura "
+        }
+      }
+    ]
+  },
+  "206": {
+    "id": 206,
+    "name": "Moses, Bergamensis",
+    "jad_id": "jad_author__206",
+    "gnd_url": "https://d-nb.info/gnd/10095412X",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Moses, del Brolo | Moses, de Bergamo | Moyse, de Bergame | Moses, Pergamenus | Moses, Armenus | Moses, Bergomas | Mosè, del Brolo | Moses, Magister | Moses, von Bergamo | Brolo, Moses del | Mosè, de Brolo | Moyses, Bergomas | Moses, Graecus | Bergomas, Moyses",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "Moses, Bergamensis",
+    "prev": {
+      "id": "jad_author__205",
+      "label": "Benzo, of Alba"
+    },
+    "next": {
+      "id": "jad_author__207",
+      "label": "Wipo, presbyter"
+    },
+    "related__works": [
+      {
+        "id": 428,
+        "name": "Exceptio compendiosa de divinitus inspirata Scriptura ",
+        "jad_id": "jad_work__428",
+        "author": [
+          {
+            "id": 206,
+            "name": "Moses, Bergamensis",
+            "jad_id": "jad_author__206",
+            "gnd_url": "https://d-nb.info/gnd/10095412X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Moses, del Brolo | Moses, de Bergamo | Moyse, de Bergame | Moses, Pergamenus | Moses, Armenus | Moses, Bergomas | Mosè, del Brolo | Moses, Magister | Moses, von Bergamo | Brolo, Moses del | Mosè, de Brolo | Moyses, Bergomas | Moses, Graecus | Bergomas, Moyses",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Exceptio compendiosa de divinitus inspirata Scriptura",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 18,
+            "name": "Mirabile Digital Library",
+            "jad_id": "jad_sources_occurrences__18",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/14012"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 14,
+            "value": "12th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Exceptio compendiosa de divinitus inspirata Scriptura ",
+        "prev": {
+          "id": "jad_work__427",
+          "label": "Ad Heinricum IV imperatorem libri VII "
+        },
+        "next": {
+          "id": "jad_work__429",
+          "label": "Gesta Chuonradi II imperatoris "
+        }
+      }
+    ]
+  },
+  "207": {
+    "id": 207,
+    "name": "Wipo, presbyter",
+    "jad_id": "jad_author__207",
+    "gnd_url": "https://d-nb.info/gnd/118807633",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Presbyter, Wipo | Wigbert | Wipo, Capellanus Regius | Wipo, Presbyter | Wippo, Presbyter | Guippo, Presbyter | Wipo, Wigbert | Guipo, Presbyter | Wipo, aus Burgund | Wigbert von Solothurn",
+    "date_of_birth": "1000",
+    "date_of_death": "1046",
+    "view_label": "Wipo, presbyter",
+    "prev": {
+      "id": "jad_author__206",
+      "label": "Moses, Bergamensis"
+    },
+    "next": {
+      "id": "jad_author__208",
+      "label": "Nicolas de Wormuth"
+    },
+    "related__works": [
+      {
+        "id": 429,
+        "name": "Gesta Chuonradi II imperatoris ",
+        "jad_id": "jad_work__429",
+        "author": [
+          {
+            "id": 207,
+            "name": "Wipo, presbyter",
+            "jad_id": "jad_author__207",
+            "gnd_url": "https://d-nb.info/gnd/118807633",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Presbyter, Wipo | Wigbert | Wipo, Capellanus Regius | Wipo, Presbyter | Wippo, Presbyter | Guippo, Presbyter | Wipo, Wigbert | Guipo, Presbyter | Wipo, aus Burgund | Wigbert von Solothurn",
+            "date_of_birth": "1000",
+            "date_of_death": "1046"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Gesta Chuonradi II imperatoris",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 49,
+            "value": "11th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Gesta Chuonradi II imperatoris ",
+        "prev": {
+          "id": "jad_work__428",
+          "label": "Exceptio compendiosa de divinitus inspirata Scriptura "
+        },
+        "next": {
+          "id": "jad_work__43",
+          "label": "Speculum Ecclesiae "
+        }
+      }
+    ]
+  },
+  "208": {
+    "id": 208,
+    "name": "Nicolas de Wormuth",
+    "jad_id": "jad_author__208",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
     "alt_name": "",
     "date_of_birth": "",
     "date_of_death": "",
-    "view_label": "",
+    "view_label": "Nicolas de Wormuth",
     "prev": {
-      "id": "jad_author__204",
-      "label": ""
+      "id": "jad_author__207",
+      "label": "Wipo, presbyter"
+    },
+    "next": {
+      "id": "jad_author__209",
+      "label": "Nicolaus, de Lyra"
+    },
+    "related__works": [
+      {
+        "id": 430,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__430",
+        "author": [
+          {
+            "id": 208,
+            "name": "Nicolas de Wormuth",
+            "jad_id": "jad_author__208",
+            "gnd_url": "",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 17,
+            "name": "Franciscans",
+            "jad_id": "jad_institutional_context__17",
+            "part_of": [
+              {
+                "id": 19,
+                "name": "Friars",
+                "jad_id": "jad_institutional_context__19",
+                "part_of": [],
+                "gnd_url": "",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 55,
+            "value": "early 14th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__43",
+          "label": "Speculum Ecclesiae "
+        },
+        "next": {
+          "id": "jad_work__431",
+          "label": "Postilla seu expositio litteralis et moralis super epistolas et evangelia quadragesimalia "
+        }
+      }
+    ]
+  },
+  "209": {
+    "id": 209,
+    "name": "Nicolaus, de Lyra",
+    "jad_id": "jad_author__209",
+    "gnd_url": "https://d-nb.info/gnd/119238683",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Nicolas, de Lyre | Nicolaus, de Lira | Liranus, Nicolaus | Lyra, Nicolaus de | Nicolaus, Minor | Nicolaus, Lyranus | Lyranus, Nicolaus | Nikolaus, von Lyra | Nicolai, de Lyra | Nycolaus, de Lyra | Nicolaus de Lyra | Nicolaus, Liranus | Nicolaus, von Lyra | Nicolao, de Lyra | Nicholas, of Lyra | Nicholas of Lyra | Nicolaus, aus Lyre | Nicolaus aus Lyre | Lira, Nicolaus de | Nicholas de Lyra | Nikolaus, de Lyra | Nicholas, de Lyra",
+    "date_of_birth": "1270",
+    "date_of_death": "1349",
+    "view_label": "Nicolaus, de Lyra",
+    "prev": {
+      "id": "jad_author__208",
+      "label": "Nicolas de Wormuth"
     },
     "next": {
       "id": "jad_author__21",
       "label": "Aelred, of Rievaulx"
+    },
+    "related__works": [
+      {
+        "id": 431,
+        "name": "Postilla seu expositio litteralis et moralis super epistolas et evangelia quadragesimalia ",
+        "jad_id": "jad_work__431",
+        "author": [
+          {
+            "id": 209,
+            "name": "Nicolaus, de Lyra",
+            "jad_id": "jad_author__209",
+            "gnd_url": "https://d-nb.info/gnd/119238683",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Nicolas, de Lyre | Nicolaus, de Lira | Liranus, Nicolaus | Lyra, Nicolaus de | Nicolaus, Minor | Nicolaus, Lyranus | Lyranus, Nicolaus | Nikolaus, von Lyra | Nicolai, de Lyra | Nycolaus, de Lyra | Nicolaus de Lyra | Nicolaus, Liranus | Nicolaus, von Lyra | Nicolao, de Lyra | Nicholas, of Lyra | Nicholas of Lyra | Nicolaus, aus Lyre | Nicolaus aus Lyre | Lira, Nicolaus de | Nicholas de Lyra | Nikolaus, de Lyra | Nicholas, de Lyra",
+            "date_of_birth": "1270",
+            "date_of_death": "1349"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Postilla seu expositio litteralis et moralis super epistolas et evangelia quadragesimalia",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "Lyon 1496",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 79,
+            "value": "14th cen., first half"
+          }
+        ],
+        "link_digital_editions": "https://gallica.bnf.fr/ark:/12148/bpt6k91168370.r=nicoloas%20de%20lyra%2C%20expositio?rk=21459;2",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Postilla seu expositio litteralis et moralis super epistolas et evangelia quadragesimalia ",
+        "prev": {
+          "id": "jad_work__430",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__432",
+          "label": "Sermones de festis dominicalibus "
+        }
+      }
+    ]
+  },
+  "210": {
+    "id": 210,
+    "name": "Magister Mathias",
+    "jad_id": "jad_author__210",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "Magister Mathias",
+    "prev": {
+      "id": "jad_author__21",
+      "label": "Aelred, of Rievaulx"
+    },
+    "next": {
+      "id": "jad_author__211",
+      "label": "Nicolaus, de Gorran"
+    },
+    "related__works": [
+      {
+        "id": 432,
+        "name": "Sermones de festis dominicalibus ",
+        "jad_id": "jad_work__432",
+        "author": [
+          {
+            "id": 210,
+            "name": "Magister Mathias",
+            "jad_id": "jad_author__210",
+            "gnd_url": "",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones de festis dominicalibus",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 75,
+            "value": "late 14th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de festis dominicalibus ",
+        "prev": {
+          "id": "jad_work__431",
+          "label": "Postilla seu expositio litteralis et moralis super epistolas et evangelia quadragesimalia "
+        },
+        "next": {
+          "id": "jad_work__433",
+          "label": "In VII epistulas canonicas "
+        }
+      }
+    ]
+  },
+  "211": {
+    "id": 211,
+    "name": "Nicolaus, de Gorran",
+    "jad_id": "jad_author__211",
+    "gnd_url": "https://d-nb.info/gnd/100954812",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Nicolas, de Gorran | Nicolaus, de Gorgant | Nicolaus, de Gorham | Nicolaus, Gorranus | Gorra, Nicolaus de | Gorranus, Nicolaus | Nicolaus aus Gorran | Nicolas, de Tournai | Nicolaus, Cenomanensis | Nicolaus, de Gorrant | Nicolaus, de Gorram | Nicolaus, Gorraeus | Gorrain, Nicolaus de | Nicolaus, Gorraus | Nicolaus, Tornacensis | Nicolaus, Gorhamus | Nicolaus, Gallus | Nicolaus, Gorrenc | Nicolaus, Sanderus | Nicolaus, de Gorran | Nicolaus, du Mans | Nicolas, de Mans | Nikolaus, von Gorran | Nicolaus, de Gorron | Nicolaus, de Gorena | Nicolaus, de Marinis",
+    "date_of_birth": "1210",
+    "date_of_death": "1295",
+    "view_label": "Nicolaus, de Gorran",
+    "prev": {
+      "id": "jad_author__210",
+      "label": "Magister Mathias"
+    },
+    "next": {
+      "id": "jad_author__212",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 433,
+        "name": "In VII epistulas canonicas ",
+        "jad_id": "jad_work__433",
+        "author": [
+          {
+            "id": 211,
+            "name": "Nicolaus, de Gorran",
+            "jad_id": "jad_author__211",
+            "gnd_url": "https://d-nb.info/gnd/100954812",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Nicolas, de Gorran | Nicolaus, de Gorgant | Nicolaus, de Gorham | Nicolaus, Gorranus | Gorra, Nicolaus de | Gorranus, Nicolaus | Nicolaus aus Gorran | Nicolas, de Tournai | Nicolaus, Cenomanensis | Nicolaus, de Gorrant | Nicolaus, de Gorram | Nicolaus, Gorraeus | Gorrain, Nicolaus de | Nicolaus, Gorraus | Nicolaus, Tornacensis | Nicolaus, Gorhamus | Nicolaus, Gallus | Nicolaus, Gorrenc | Nicolaus, Sanderus | Nicolaus, de Gorran | Nicolaus, du Mans | Nicolas, de Mans | Nikolaus, von Gorran | Nicolaus, de Gorron | Nicolaus, de Gorena | Nicolaus, de Marinis",
+            "date_of_birth": "1210",
+            "date_of_death": "1295"
+          }
+        ],
+        "manuscripts": [],
+        "title": "In VII epistulas canonicas",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Sancti Thomae doctoris angelici ordinis Praedicatorum opera omnia, vol. 23 (Parma 1869), p. 230-324",
+        "view_label": "In VII epistulas canonicas ",
+        "prev": {
+          "id": "jad_work__432",
+          "label": "Sermones de festis dominicalibus "
+        },
+        "next": {
+          "id": "jad_work__434",
+          "label": "Sermones "
+        }
+      }
+    ]
+  },
+  "212": {
+    "id": 212,
+    "name": "",
+    "jad_id": "jad_author__212",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__211",
+      "label": "Nicolaus, de Gorran"
+    },
+    "next": {
+      "id": "jad_author__213",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "213": {
+    "id": 213,
+    "name": "",
+    "jad_id": "jad_author__213",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__212",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__214",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "214": {
+    "id": 214,
+    "name": "",
+    "jad_id": "jad_author__214",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__213",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__215",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "215": {
+    "id": 215,
+    "name": "",
+    "jad_id": "jad_author__215",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__214",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__22",
+      "label": "Alkuin"
     },
     "related__works": []
   }

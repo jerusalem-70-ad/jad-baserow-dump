@@ -21,12 +21,12 @@
     "digi_url": "https://mlat.uzh.ch/browser?path=/38",
     "view_label": "Patrologia Latina",
     "prev": {
-      "id": "jad_sources_occurrences__18",
+      "id": "jad_sources_occurrences__19",
       "label": ""
     },
     "next": {
-      "id": "jad_sources_occurrences__4",
-      "label": "Library of Latin Texts (Brepols)"
+      "id": "jad_sources_occurrences__20",
+      "label": ""
     }
   },
   "4": {
@@ -36,8 +36,8 @@
     "digi_url": "",
     "view_label": "Library of Latin Texts (Brepols)",
     "prev": {
-      "id": "jad_sources_occurrences__2",
-      "label": "Patrologia Latina"
+      "id": "jad_sources_occurrences__22",
+      "label": ""
     },
     "next": {
       "id": "jad_sources_occurrences__5",
@@ -236,22 +236,82 @@
     },
     "next": {
       "id": "jad_sources_occurrences__18",
-      "label": ""
+      "label": "Mirabile Digital Library"
     }
   },
   "18": {
     "id": 18,
-    "name": "",
+    "name": "Mirabile Digital Library",
     "jad_id": "jad_sources_occurrences__18",
-    "digi_url": "",
-    "view_label": "",
+    "digi_url": "https://mlat.uzh.ch/browser?path=/14012",
+    "view_label": "Mirabile Digital Library",
     "prev": {
       "id": "jad_sources_occurrences__17",
       "label": "Rolls Series"
     },
     "next": {
+      "id": "jad_sources_occurrences__19",
+      "label": ""
+    }
+  },
+  "19": {
+    "id": 19,
+    "name": "",
+    "jad_id": "jad_sources_occurrences__19",
+    "digi_url": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_sources_occurrences__18",
+      "label": "Mirabile Digital Library"
+    },
+    "next": {
       "id": "jad_sources_occurrences__2",
       "label": "Patrologia Latina"
+    }
+  },
+  "20": {
+    "id": 20,
+    "name": "",
+    "jad_id": "jad_sources_occurrences__20",
+    "digi_url": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_sources_occurrences__2",
+      "label": "Patrologia Latina"
+    },
+    "next": {
+      "id": "jad_sources_occurrences__21",
+      "label": ""
+    }
+  },
+  "21": {
+    "id": 21,
+    "name": "",
+    "jad_id": "jad_sources_occurrences__21",
+    "digi_url": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_sources_occurrences__20",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_sources_occurrences__22",
+      "label": ""
+    }
+  },
+  "22": {
+    "id": 22,
+    "name": "",
+    "jad_id": "jad_sources_occurrences__22",
+    "digi_url": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_sources_occurrences__21",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_sources_occurrences__4",
+      "label": "Library of Latin Texts (Brepols)"
     }
   }
 }

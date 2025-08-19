@@ -3721,72 +3721,164 @@
   "105": {
     "id": 105,
     "order": "98.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 19,
+        "value": "Frankfurt, Carm. 26"
+      }
+    ],
     "jad_id": "jad_manuscript__105",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 19,
+        "value": "Frankfurt",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "idno": "Carm. 26",
+    "catalog_url": "https://sammlungen.ub.uni-frankfurt.de/kataloge/purn/urn:nbn:de:hebis:30:2-269-p0473-6",
+    "digi_url": "https://sammlungen.ub.uni-frankfurt.de/msma/content/titleinfo/1982285",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 19,
+        "value": "Frankfurt, Universitatsbibliothek"
+      }
+    ]
   },
   "106": {
     "id": 106,
     "order": "99.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Pal. lat. 440"
+      }
+    ],
     "jad_id": "jad_manuscript__106",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Pal. lat. 440",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Pal.lat.440",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
   },
   "107": {
     "id": 107,
     "order": "100.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 13446"
+      }
+    ],
     "jad_id": "jad_manuscript__107",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "idno": "Clm 13446",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991140778159707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%2013446&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00016068?page=,1",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 75,
+        "value": "late 14th cen.",
+        "order": "74.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ]
   },
   "108": {
     "id": 108,
     "order": "101.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, lat. 2949"
+      }
+    ],
     "jad_id": "jad_manuscript__108",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "lat. 2949",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc607684",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b9078139x",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
   },
   "109": {
     "id": 109,
     "order": "102.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 9,
+        "value": "Troyes, MS 1100"
+      }
+    ],
     "jad_id": "jad_manuscript__109",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 9,
+        "value": "Troyes",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "idno": "MS 1100",
+    "catalog_url": "https://www.bibliotheque-virtuelle-clairvaux.com/manuscrits/",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 9,
+        "value": "Bibliothèque municipale (Troyes)"
+      }
+    ]
   },
   "110": {
     "id": 110,
@@ -3873,6 +3965,42 @@
       {
         "id": 40,
         "value": "Biblioteca Casanatense"
+      }
+    ]
+  },
+  "114": {
+    "id": 114,
+    "order": "107.00000000000000000000",
+    "name": [
+      {
+        "id": 6,
+        "value": "Lam., MS 352"
+      }
+    ],
+    "jad_id": "jad_manuscript__114",
+    "library": [
+      {
+        "id": 6,
+        "value": "Lam.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "idno": "MS 352",
+    "catalog_url": "https://archives.lambethpalacelibrary.org.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=MSS%2f352&pos=1",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 76,
+        "value": "15th cen.",
+        "order": "75.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 6,
+        "value": "Lambeth Palace Library"
       }
     ]
   }

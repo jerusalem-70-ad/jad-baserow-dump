@@ -84,7 +84,7 @@
     "order": "11.00000000000000000000",
     "name": "after 1187",
     "not_before": "1187",
-    "not_after": null,
+    "not_after": "1230",
     "jad_id": "jad_date__11"
   },
   "12": {
@@ -235,7 +235,7 @@
     "id": 30,
     "order": "30.00000000000000000000",
     "name": "before 1186",
-    "not_before": null,
+    "not_before": "1150",
     "not_after": "1186",
     "jad_id": "jad_date__30"
   },
@@ -251,7 +251,7 @@
     "id": 32,
     "order": "32.00000000000000000000",
     "name": "before 1190",
-    "not_before": null,
+    "not_before": "1150",
     "not_after": "1190",
     "jad_id": "jad_date__32"
   },
@@ -419,7 +419,7 @@
     "id": 53,
     "order": "53.00000000000000000000",
     "name": "before 1291",
-    "not_before": null,
+    "not_before": "1250",
     "not_after": "1291",
     "jad_id": "jad_date__53"
   },
@@ -610,17 +610,33 @@
   "77": {
     "id": 77,
     "order": "76.00000000000000000000",
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "early 15th cen.",
+    "not_before": "1401",
+    "not_after": "1430",
     "jad_id": "jad_date__77"
   },
   "78": {
     "id": 78,
     "order": "77.00000000000000000000",
+    "name": "late 15th cen.",
+    "not_before": "1471",
+    "not_after": "1500",
+    "jad_id": "jad_date__78"
+  },
+  "79": {
+    "id": 79,
+    "order": "78.00000000000000000000",
+    "name": "14th cen., first half",
+    "not_before": "1301",
+    "not_after": "1350",
+    "jad_id": "jad_date__79"
+  },
+  "80": {
+    "id": 80,
+    "order": "79.00000000000000000000",
     "name": "",
     "not_before": null,
     "not_after": null,
-    "jad_id": "jad_date__78"
+    "jad_id": "jad_date__80"
   }
 }

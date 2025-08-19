@@ -651,7 +651,7 @@
     "view_label": "BNF, Latin 3737",
     "prev": {
       "id": "jad_manuscript__109",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Troyes, MS 1100"
     },
     "next": {
       "id": "jad_manuscript__110",
@@ -728,8 +728,8 @@
     ],
     "view_label": "St. Gen., MS 2787",
     "prev": {
-      "id": "jad_manuscript__113",
-      "label": "Bibl. Casanatense, MS 1184"
+      "id": "jad_manuscript__114",
+      "label": "Lam., MS 352"
     },
     "next": {
       "id": "jad_manuscript__13",
@@ -5777,113 +5777,246 @@
     },
     "next": {
       "id": "jad_manuscript__105",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Frankfurt, Carm. 26"
     }
   },
   "105": {
     "id": 105,
-    "name": [],
+    "name": [
+      {
+        "id": 19,
+        "value": "Frankfurt, Carm. 26"
+      }
+    ],
     "jad_id": "jad_manuscript__105",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 19,
+        "value": "Frankfurt",
+        "jad_id": "jad_library__19",
+        "gnd_url": "https://d-nb.info/gnd/1086213467",
+        "full_name": "Frankfurt, Universitatsbibliothek",
+        "place": []
+      }
+    ],
+    "idno": "Carm. 26",
+    "catalog_url": "https://sammlungen.ub.uni-frankfurt.de/kataloge/purn/urn:nbn:de:hebis:30:2-269-p0473-6",
+    "digi_url": "https://sammlungen.ub.uni-frankfurt.de/msma/content/titleinfo/1982285",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 22,
+        "value": "late 13th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 19,
+        "value": "Frankfurt, Universitatsbibliothek"
+      }
+    ],
+    "view_label": "Frankfurt, Carm. 26",
     "prev": {
       "id": "jad_manuscript__104",
       "label": "BSB, Clm 14562"
     },
     "next": {
       "id": "jad_manuscript__106",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Vat., Pal. lat. 440"
     }
   },
   "106": {
     "id": 106,
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Pal. lat. 440"
+      }
+    ],
     "jad_id": "jad_manuscript__106",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "jad_id": "jad_library__38",
+        "gnd_url": "https://d-nb.info/gnd/1003302-6",
+        "full_name": "Biblioteca Apostolica Vaticana",
+        "place": [
+          {
+            "id": 19,
+            "name": "Rome",
+            "geonames_url": "https://www.geonames.org/3169070/rome.html",
+            "jad_id": "jad_places__19"
+          }
+        ]
+      }
+    ],
+    "idno": "Pal. lat. 440",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Pal.lat.440",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ],
+    "view_label": "Vat., Pal. lat. 440",
     "prev": {
       "id": "jad_manuscript__105",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Frankfurt, Carm. 26"
     },
     "next": {
       "id": "jad_manuscript__107",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BSB, Clm 13446"
     }
   },
   "107": {
     "id": 107,
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 13446"
+      }
+    ],
     "jad_id": "jad_manuscript__107",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "jad_id": "jad_library__12",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "full_name": "Bayrische Staatsbibliothek",
+        "place": [
+          {
+            "id": 3,
+            "name": "Munich",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "jad_id": "jad_places__3"
+          }
+        ]
+      }
+    ],
+    "idno": "Clm 13446",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991140778159707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%2013446&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00016068?page=,1",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 75,
+        "value": "late 14th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ],
+    "view_label": "BSB, Clm 13446",
     "prev": {
       "id": "jad_manuscript__106",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Vat., Pal. lat. 440"
     },
     "next": {
       "id": "jad_manuscript__108",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, lat. 2949"
     }
   },
   "108": {
     "id": 108,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, lat. 2949"
+      }
+    ],
     "jad_id": "jad_manuscript__108",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1"
+          }
+        ]
+      }
+    ],
+    "idno": "lat. 2949",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc607684",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b9078139x",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, lat. 2949",
     "prev": {
       "id": "jad_manuscript__107",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BSB, Clm 13446"
     },
     "next": {
       "id": "jad_manuscript__109",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Troyes, MS 1100"
     }
   },
   "109": {
     "id": 109,
-    "name": [],
+    "name": [
+      {
+        "id": 9,
+        "value": "Troyes, MS 1100"
+      }
+    ],
     "jad_id": "jad_manuscript__109",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 9,
+        "value": "Troyes",
+        "jad_id": "jad_library__9",
+        "gnd_url": "https://d-nb.info/gnd/1026092-4",
+        "full_name": "Bibliothèque municipale (Troyes)",
+        "place": [
+          {
+            "id": 9,
+            "name": "Troyes",
+            "geonames_url": "https://www.geonames.org/2971549/troyes.html",
+            "jad_id": "jad_places__9"
+          }
+        ]
+      }
+    ],
+    "idno": "MS 1100",
+    "catalog_url": "https://www.bibliotheque-virtuelle-clairvaux.com/manuscrits/",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 9,
+        "value": "Bibliothèque municipale (Troyes)"
+      }
+    ],
+    "view_label": "Troyes, MS 1100",
     "prev": {
       "id": "jad_manuscript__108",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, lat. 2949"
     },
     "next": {
       "id": "jad_manuscript__11",
@@ -6024,6 +6157,59 @@
     "prev": {
       "id": "jad_manuscript__112",
       "label": "Vat., Ott.lat. 94"
+    },
+    "next": {
+      "id": "jad_manuscript__114",
+      "label": "Lam., MS 352"
+    }
+  },
+  "114": {
+    "id": 114,
+    "name": [
+      {
+        "id": 6,
+        "value": "Lam., MS 352"
+      }
+    ],
+    "jad_id": "jad_manuscript__114",
+    "library": [
+      {
+        "id": 6,
+        "value": "Lam.",
+        "jad_id": "jad_library__6",
+        "gnd_url": "https://d-nb.info/gnd/16441-0",
+        "full_name": "Lambeth Palace Library",
+        "place": [
+          {
+            "id": 5,
+            "name": "London",
+            "geonames_url": "https://www.geonames.org/2643743/london.html",
+            "jad_id": "jad_places__5"
+          }
+        ]
+      }
+    ],
+    "idno": "MS 352",
+    "catalog_url": "https://archives.lambethpalacelibrary.org.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=MSS%2f352&pos=1",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 76,
+        "value": "15th cen."
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 6,
+        "value": "Lambeth Palace Library"
+      }
+    ],
+    "view_label": "Lam., MS 352",
+    "prev": {
+      "id": "jad_manuscript__113",
+      "label": "Bibl. Casanatense, MS 1184"
     },
     "next": {
       "id": "jad_manuscript__12",
