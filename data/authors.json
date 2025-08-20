@@ -9335,7 +9335,7 @@
     "date_of_death": "0804",
     "view_label": "Alkuin",
     "prev": {
-      "id": "jad_author__215",
+      "id": "jad_author__218",
       "label": ""
     },
     "next": {
@@ -13918,11 +13918,11 @@
         "view_label": "Commentary Matthew ",
         "prev": {
           "id": "jad_work__439",
-          "label": " "
+          "label": "Sermones de tempore "
         },
         "next": {
           "id": "jad_work__440",
-          "label": " "
+          "label": "Sermones de tempore "
         }
       }
     ]
@@ -14006,7 +14006,7 @@
         "view_label": "Libri deflorationum ",
         "prev": {
           "id": "jad_work__440",
-          "label": " "
+          "label": "Sermones de tempore "
         },
         "next": {
           "id": "jad_work__46",
@@ -17954,6 +17954,12 @@
         "institutional_context": [],
         "published_edition": [
           {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          },
+          {
             "id": 7,
             "name": "Corpus Christianorum",
             "jad_id": "jad_sources_occurrences__7",
@@ -17978,7 +17984,7 @@
         },
         "next": {
           "id": "jad_work__436",
-          "label": " "
+          "label": "Sermones de tempore "
         }
       }
     ]
@@ -28053,7 +28059,7 @@
     },
     "next": {
       "id": "jad_author__183",
-      "label": "Johannes, de Rupella"
+      "label": "Johannes, de Rupella (de la Rochelle)"
     },
     "related__works": [
       {
@@ -28121,7 +28127,7 @@
   },
   "183": {
     "id": 183,
-    "name": "Johannes, de Rupella",
+    "name": "Johannes, de Rupella (de la Rochelle)",
     "jad_id": "jad_author__183",
     "gnd_url": "https://lobid.org/gnd/100949274",
     "notes": "",
@@ -28129,7 +28135,7 @@
     "alt_name": "Johannes, de la Rochelle | John, de Rupella | Johannes, von LaRochelle | Rochelle, Giovanni della | Jean, de LaRochelle | Jean, de la Rochelle | John, de la Rochelle | Johannes, von la Rochelle | Rupella, Johannes de | Johannes, von La Rochelle | Jean, de la Rochelle, OFM | Rochelle, John de la | La Rochelle, John de | Johannes, de Rupella, OFM | LaRochelle, John de | Johannes, von Rupella | Johannes, Petragoricensis | La Rochelle, Jean de | LaRochelle, Jean de | Giovanni, della Rochelle",
     "date_of_birth": "1200",
     "date_of_death": "1245",
-    "view_label": "Johannes, de Rupella",
+    "view_label": "Johannes, de Rupella (de la Rochelle)",
     "prev": {
       "id": "jad_author__182",
       "label": "Wilhelm, Peyraut, Lyon, Prior"
@@ -28146,7 +28152,7 @@
         "author": [
           {
             "id": 183,
-            "name": "Johannes, de Rupella",
+            "name": "Johannes, de Rupella (de la Rochelle)",
             "jad_id": "jad_author__183",
             "gnd_url": "https://lobid.org/gnd/100949274",
             "notes": "",
@@ -28219,7 +28225,7 @@
     "view_label": "Franciscus, de Abbatibus / d'Asti",
     "prev": {
       "id": "jad_author__183",
-      "label": "Johannes, de Rupella"
+      "label": "Johannes, de Rupella (de la Rochelle)"
     },
     "next": {
       "id": "jad_author__185",
@@ -28415,7 +28421,7 @@
             "value": "around 1300"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb00043098?page=,1",
         "author_certainty": false,
         "incipit": "",
         "volume_edition_or_individual_editor": "",
@@ -30425,7 +30431,7 @@
     },
     "next": {
       "id": "jad_author__212",
-      "label": ""
+      "label": "Petrus, de Sancto Benedicto (Saint-Benoit)"
     },
     "related__works": [
       {
@@ -30488,50 +30494,398 @@
   },
   "212": {
     "id": 212,
-    "name": "",
+    "name": "Petrus, de Sancto Benedicto (Saint-Benoit)",
     "jad_id": "jad_author__212",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102514933",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Pierre, de Saint-Benoît | Sancto Benedicto, Petrus de",
     "date_of_birth": "",
     "date_of_death": "",
-    "view_label": "",
+    "view_label": "Petrus, de Sancto Benedicto (Saint-Benoit)",
     "prev": {
       "id": "jad_author__211",
       "label": "Nicolaus, de Gorran"
     },
     "next": {
       "id": "jad_author__213",
-      "label": ""
+      "label": "John, of Wales"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 436,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__436",
+        "author": [
+          {
+            "id": 212,
+            "name": "Petrus, de Sancto Benedicto (Saint-Benoit)",
+            "jad_id": "jad_author__212",
+            "gnd_url": "https://d-nb.info/gnd/102514933",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Pierre, de Saint-Benoît | Sancto Benedicto, Petrus de",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__435",
+          "label": "Enarrationes in Psalmos "
+        },
+        "next": {
+          "id": "jad_work__437",
+          "label": "Sermones de tempore "
+        }
+      }
+    ]
   },
   "213": {
     "id": 213,
-    "name": "",
+    "name": "John, of Wales",
     "jad_id": "jad_author__213",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118884867",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Johannes, Gallensis | Johannes, von Wells | Johannes, Arbor Vitae | Waleys, John of | Waleys, John | Johannes, de Waleys | Johannes, von Wales | Gallensis, Johannes | Johannes, Wales | Johannes, Vallensis | Johannes, Wallensis | Johannes, de Galles | Johannes, Galensis | Johannes, von Waleys | Gualensis, Johannes | John, of Wales | Vallensis, Johannes | Guallensis, Johannes | Johannes, Valensis | Giovanni, Gallese | Johannes Gualensis | John, Waleys | Gaule, Johannes de | Galensis, Johannes | Ioannes, Valensis | Johannes, de Gaule | Johannes, de Wales | John, of Waleys | Johannes, von Galles | Johannes, de Wells | Johannes, de Walleis | Johannes, Walensis | Johannes, de Gales | Jean, de Galles",
     "date_of_birth": "",
-    "date_of_death": "",
-    "view_label": "",
+    "date_of_death": "1285",
+    "view_label": "John, of Wales",
     "prev": {
       "id": "jad_author__212",
-      "label": ""
+      "label": "Petrus, de Sancto Benedicto (Saint-Benoit)"
     },
     "next": {
       "id": "jad_author__214",
-      "label": ""
+      "label": "Jacobus, of Lausanne"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 437,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__437",
+        "author": [
+          {
+            "id": 213,
+            "name": "John, of Wales",
+            "jad_id": "jad_author__213",
+            "gnd_url": "https://d-nb.info/gnd/118884867",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Johannes, Gallensis | Johannes, von Wells | Johannes, Arbor Vitae | Waleys, John of | Waleys, John | Johannes, de Waleys | Johannes, von Wales | Gallensis, Johannes | Johannes, Wales | Johannes, Vallensis | Johannes, Wallensis | Johannes, de Galles | Johannes, Galensis | Johannes, von Waleys | Gualensis, Johannes | John, of Wales | Vallensis, Johannes | Guallensis, Johannes | Johannes, Valensis | Giovanni, Gallese | Johannes Gualensis | John, Waleys | Gaule, Johannes de | Galensis, Johannes | Ioannes, Valensis | Johannes, de Gaule | Johannes, de Wales | John, of Waleys | Johannes, von Galles | Johannes, de Wells | Johannes, de Walleis | Johannes, Walensis | Johannes, de Gales | Jean, de Galles",
+            "date_of_birth": "",
+            "date_of_death": "1285"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__436",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__438",
+          "label": "Sermones de tempore "
+        }
+      }
+    ]
   },
   "214": {
     "id": 214,
-    "name": "",
+    "name": "Jacobus, of Lausanne",
     "jad_id": "jad_author__214",
+    "gnd_url": "https://d-nb.info/gnd/102477132",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Jacobus, de Osanna | Lausanna, Jacobus de | Jacques, de Lausanne | Pseudo-Jacobus, de Lausanne | Giacomo, di Losanna | Didace, de Lausanne | Pseudo-Jacobus, de Lausanna | Jakob, von Lausanne | Jacobus, de Lausanna | Jacobus, de Losanna | Didacus, de Lausanna | Jacobus, de Lausana | Didacus, Lausanensis",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "Jacobus, of Lausanne",
+    "prev": {
+      "id": "jad_author__213",
+      "label": "John, of Wales"
+    },
+    "next": {
+      "id": "jad_author__215",
+      "label": "Bertrandus, de Turre"
+    },
+    "related__works": [
+      {
+        "id": 438,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__438",
+        "author": [
+          {
+            "id": 214,
+            "name": "Jacobus, of Lausanne",
+            "jad_id": "jad_author__214",
+            "gnd_url": "https://d-nb.info/gnd/102477132",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Jacobus, de Osanna | Lausanna, Jacobus de | Jacques, de Lausanne | Pseudo-Jacobus, de Lausanne | Giacomo, di Losanna | Didace, de Lausanne | Pseudo-Jacobus, de Lausanna | Jakob, von Lausanne | Jacobus, de Lausanna | Jacobus, de Losanna | Didacus, de Lausanna | Jacobus, de Lausana | Didacus, Lausanensis",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 55,
+            "value": "early 14th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__437",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__439",
+          "label": "Sermones de tempore "
+        }
+      }
+    ]
+  },
+  "215": {
+    "id": 215,
+    "name": "Bertrandus, de Turre",
+    "jad_id": "jad_author__215",
+    "gnd_url": "https://d-nb.info/gnd/100969151",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Bertrandus, de Turre Nobili | Bertrandus, aus Camboulit | La Tour, Bertrand de | Turre, Bertrandus de | Bertrand, de Turre | Cura, Bertrandus de | Bertrandus, de Cura | Bertrando, de Turre | Bertrando, della Torre | Bertrandus, Doctor Famosus | Bernardinus, de Turre | Bertrandus, Salernitanus | Bertrandus | Bertrando, di La Tour | Bertrand, de la Tour | Bertrandus, de Turre Cura | Tour, Bertrand de la | LaTour, Bertrand de",
+    "date_of_birth": "1295",
+    "date_of_death": "1334",
+    "view_label": "Bertrandus, de Turre",
+    "prev": {
+      "id": "jad_author__214",
+      "label": "Jacobus, of Lausanne"
+    },
+    "next": {
+      "id": "jad_author__216",
+      "label": "John, Algrinus, of Abbeville"
+    },
+    "related__works": [
+      {
+        "id": 439,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__439",
+        "author": [
+          {
+            "id": 215,
+            "name": "Bertrandus, de Turre",
+            "jad_id": "jad_author__215",
+            "gnd_url": "https://d-nb.info/gnd/100969151",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Bertrandus, de Turre Nobili | Bertrandus, aus Camboulit | La Tour, Bertrand de | Turre, Bertrandus de | Bertrand, de Turre | Cura, Bertrandus de | Bertrandus, de Cura | Bertrando, de Turre | Bertrando, della Torre | Bertrandus, Doctor Famosus | Bernardinus, de Turre | Bertrandus, Salernitanus | Bertrandus | Bertrando, di La Tour | Bertrand, de la Tour | Bertrandus, de Turre Cura | Tour, Bertrand de la | LaTour, Bertrand de",
+            "date_of_birth": "1295",
+            "date_of_death": "1334"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 55,
+            "value": "early 14th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__438",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__44",
+          "label": "Commentary Matthew "
+        }
+      }
+    ]
+  },
+  "216": {
+    "id": 216,
+    "name": "John, Algrinus, of Abbeville",
+    "jad_id": "jad_author__216",
+    "gnd_url": "https://d-nb.info/gnd/100948316",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Johannes, Ambianensis | Algrinus, ab Abbatisvilla | Johannes, Ambiliatus | Johannes, Halgrinus | Johannes, Malgrinus | Johannes, Bisuntinus | Algrin, Jean | Jean, Algrin | Jean, d'Abbeville | Halgrinus, ab Abbatisvilla | Jean, Halgrin | Algrinus, Johannes | Johannes, de Abbevilla | Alegrinus, Johannes | Halgrinus, Johannes | Johannes, de Abbatisvilla | Johannes, Abbaevillanus | Jean, Malgrin",
+    "date_of_birth": "",
+    "date_of_death": "1237",
+    "view_label": "John, Algrinus, of Abbeville",
+    "prev": {
+      "id": "jad_author__215",
+      "label": "Bertrandus, de Turre"
+    },
+    "next": {
+      "id": "jad_author__217",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 440,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__440",
+        "author": [
+          {
+            "id": 216,
+            "name": "John, Algrinus, of Abbeville",
+            "jad_id": "jad_author__216",
+            "gnd_url": "https://d-nb.info/gnd/100948316",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Johannes, Ambianensis | Algrinus, ab Abbatisvilla | Johannes, Ambiliatus | Johannes, Halgrinus | Johannes, Malgrinus | Johannes, Bisuntinus | Algrin, Jean | Jean, Algrin | Jean, d'Abbeville | Halgrinus, ab Abbatisvilla | Jean, Halgrin | Algrinus, Johannes | Johannes, de Abbevilla | Alegrinus, Johannes | Halgrinus, Johannes | Johannes, de Abbatisvilla | Johannes, Abbaevillanus | Jean, Malgrin",
+            "date_of_birth": "",
+            "date_of_death": "1237"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__44",
+          "label": "Commentary Matthew "
+        },
+        "next": {
+          "id": "jad_work__45",
+          "label": "Libri deflorationum "
+        }
+      }
+    ]
+  },
+  "217": {
+    "id": 217,
+    "name": "",
+    "jad_id": "jad_author__217",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
@@ -30540,19 +30894,19 @@
     "date_of_death": "",
     "view_label": "",
     "prev": {
-      "id": "jad_author__213",
-      "label": ""
+      "id": "jad_author__216",
+      "label": "John, Algrinus, of Abbeville"
     },
     "next": {
-      "id": "jad_author__215",
+      "id": "jad_author__218",
       "label": ""
     },
     "related__works": []
   },
-  "215": {
-    "id": 215,
+  "218": {
+    "id": 218,
     "name": "",
-    "jad_id": "jad_author__215",
+    "jad_id": "jad_author__218",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
@@ -30561,7 +30915,7 @@
     "date_of_death": "",
     "view_label": "",
     "prev": {
-      "id": "jad_author__214",
+      "id": "jad_author__217",
       "label": ""
     },
     "next": {

@@ -790,12 +790,12 @@
     ],
     "view_label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est",
     "prev": {
-      "id": "jad_occurence__165",
+      "id": "jad_occurence__169",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__18",
-      "label": "plenius complentur in Christo, urbe subversa Romano gladio; adduces super eos latronem repente, Nabuchodonosor, vel exercitum Romanorum"
+      "id": "jad_occurence__170",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "18": {
@@ -837,8 +837,8 @@
     ],
     "view_label": "plenius complentur in Christo, urbe subversa Romano gladio; adduces super eos latronem repente, Nabuchodonosor, vel exercitum Romanorum",
     "prev": {
-      "id": "jad_occurence__17",
-      "label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est"
+      "id": "jad_occurence__170",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__19",
@@ -6712,7 +6712,7 @@
     },
     "next": {
       "id": "jad_occurence__144",
-      "label": "??"
+      "label": "secundo flevit iudeorum culpam"
     }
   },
   "144": {
@@ -6721,7 +6721,7 @@
     "occurrence": [
       {
         "id": 1143,
-        "value": "??"
+        "value": "secundo flevit iudeorum culpam"
       }
     ],
     "manuscript": [
@@ -6752,7 +6752,7 @@
         "value": "BSB, Clm 7942, f. 60r"
       }
     ],
-    "view_label": "??",
+    "view_label": "secundo flevit iudeorum culpam",
     "prev": {
       "id": "jad_occurence__143",
       "label": "postquam redierunt romani ipsa eversa iudei"
@@ -6802,7 +6802,7 @@
     "view_label": "secundo ponitur civitatis subversio dolorosa",
     "prev": {
       "id": "jad_occurence__144",
-      "label": "??"
+      "label": "secundo flevit iudeorum culpam"
     },
     "next": {
       "id": "jad_occurence__146",
@@ -7511,17 +7511,27 @@
     },
     "next": {
       "id": "jad_occurence__161",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns Ihesus civitatem flevit super illam"
     }
   },
   "161": {
     "id": 161,
     "jad_id": "jad_occurence__161",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1230,
+        "value": "videns Ihesus civitatem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 110,
+        "value": "Vat., Vat. lat. 1253"
+      }
+    ],
+    "position_in_ms": "211v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.1253",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7531,26 +7541,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 110,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat. lat. 1253, f. 211v"
+      }
+    ],
+    "view_label": "videns Ihesus civitatem flevit super illam",
     "prev": {
       "id": "jad_occurence__160",
       "label": "hec destructio ab imperatoribus romanis a tyto et vaspasiano ob perfidiam Iudeorum"
     },
     "next": {
       "id": "jad_occurence__162",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns Ihesus civitatem flevit super illam"
     }
   },
   "162": {
     "id": 162,
     "jad_id": "jad_occurence__162",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1231,
+        "value": "videns Ihesus civitatem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 110,
+        "value": "Vat., Vat. lat. 1253"
+      }
+    ],
+    "position_in_ms": "212r-v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.1253",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7560,25 +7588,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 110,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat. lat. 1253, f. 212r-v"
+      }
+    ],
+    "view_label": "videns Ihesus civitatem flevit super illam",
     "prev": {
       "id": "jad_occurence__161",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns Ihesus civitatem flevit super illam"
     },
     "next": {
       "id": "jad_occurence__163",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "illam Ierusalem propter habitatorum scelera fuisse destructa"
     }
   },
   "163": {
     "id": 163,
     "jad_id": "jad_occurence__163",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1232,
+        "value": "illam Ierusalem propter habitatorum scelera fuisse destructa"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 115,
+        "value": "Assisi, MS 462"
+      }
+    ],
+    "position_in_ms": "81v-82r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -7589,26 +7635,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 115,
+          "database_table_3497": 39
+        },
+        "value": "Assisi, MS 462, f. 81v-82r"
+      }
+    ],
+    "view_label": "illam Ierusalem propter habitatorum scelera fuisse destructa",
     "prev": {
       "id": "jad_occurence__162",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns Ihesus civitatem flevit super illam"
     },
     "next": {
       "id": "jad_occurence__164",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns civitatem flevit super illiam"
     }
   },
   "164": {
     "id": 164,
     "jad_id": "jad_occurence__164",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1233,
+        "value": "videns civitatem flevit super illiam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 111,
+        "value": "Vat., Borgh. 215"
+      }
+    ],
+    "position_in_ms": "238v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Borgh.215",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7618,26 +7682,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 111,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Borgh. 215, f. 238v"
+      }
+    ],
+    "view_label": "videns civitatem flevit super illiam",
     "prev": {
       "id": "jad_occurence__163",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "illam Ierusalem propter habitatorum scelera fuisse destructa"
     },
     "next": {
       "id": "jad_occurence__165",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns Ihesus civitatem flevit super illam"
     }
   },
   "165": {
     "id": 165,
     "jad_id": "jad_occurence__165",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1234,
+        "value": "videns Ihesus civitatem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 116,
+        "value": "Vat., Borgh. 153"
+      }
+    ],
+    "position_in_ms": "299v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Borgh.153",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7647,16 +7729,210 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-16",
+    "last_modified_on": "2025-08-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 116,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Borgh. 153, f. 299v"
+      }
+    ],
+    "view_label": "videns Ihesus civitatem flevit super illam",
+    "prev": {
+      "id": "jad_occurence__164",
+      "label": "videns civitatem flevit super illiam"
+    },
+    "next": {
+      "id": "jad_occurence__166",
+      "label": "??"
+    }
+  },
+  "166": {
+    "id": 166,
+    "jad_id": "jad_occurence__166",
+    "occurrence": [
+      {
+        "id": 1235,
+        "value": "??"
+      }
+    ],
+    "manuscript": [],
+    "position_in_ms": "?? Paris Hs.",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-19",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-19",
+    "ms_locus": [],
+    "view_label": "??",
+    "prev": {
+      "id": "jad_occurence__165",
+      "label": "videns Ihesus civitatem flevit super illam"
+    },
+    "next": {
+      "id": "jad_occurence__167",
+      "label": "??"
+    }
+  },
+  "167": {
+    "id": 167,
+    "jad_id": "jad_occurence__167",
+    "occurrence": [
+      {
+        "id": 1235,
+        "value": "??"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 117,
+        "value": "Vat., Borgh. 6"
+      }
+    ],
+    "position_in_ms": "97r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-19",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 117,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Borgh. 6, f. 97r"
+      }
+    ],
+    "view_label": "??",
+    "prev": {
+      "id": "jad_occurence__166",
+      "label": "??"
+    },
+    "next": {
+      "id": "jad_occurence__168",
+      "label": "??"
+    }
+  },
+  "168": {
+    "id": 168,
+    "jad_id": "jad_occurence__168",
+    "occurrence": [
+      {
+        "id": 1235,
+        "value": "??"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 118,
+        "value": "BL, Arundel 132"
+      }
+    ],
+    "position_in_ms": "106r-107r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-19",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 118,
+          "database_table_3497": 7
+        },
+        "value": "BL, Arundel 132, f. 106r-107r"
+      }
+    ],
+    "view_label": "??",
+    "prev": {
+      "id": "jad_occurence__167",
+      "label": "??"
+    },
+    "next": {
+      "id": "jad_occurence__169",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "169": {
+    "id": 169,
+    "jad_id": "jad_occurence__169",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-19",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-19",
     "ms_locus": [],
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
-      "id": "jad_occurence__164",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "id": "jad_occurence__168",
+      "label": "??"
     },
     "next": {
       "id": "jad_occurence__17",
       "label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est"
+    }
+  },
+  "170": {
+    "id": 170,
+    "jad_id": "jad_occurence__170",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-19",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-19",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__17",
+      "label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est"
+    },
+    "next": {
+      "id": "jad_occurence__18",
+      "label": "plenius complentur in Christo, urbe subversa Romano gladio; adduces super eos latronem repente, Nabuchodonosor, vel exercitum Romanorum"
     }
   }
 }

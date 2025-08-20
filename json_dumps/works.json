@@ -16671,7 +16671,7 @@
     "author": [
       {
         "id": 183,
-        "value": "Johannes, de Rupella",
+        "value": "Johannes, de Rupella (de la Rochelle)",
         "order": "168.00000000000000000000"
       }
     ],
@@ -16831,7 +16831,7 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "link_digital_editions": "",
+    "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb00043098?page=,1",
     "author_certainty": false,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
@@ -18648,6 +18648,11 @@
     "institutional_context": [],
     "published_edition": [
       {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      },
+      {
         "id": 7,
         "value": "Corpus Christianorum",
         "order": "6.00000000000000000000"
@@ -18669,100 +18674,210 @@
   "436": {
     "id": 436,
     "order": "423.00000000000000000000",
-    "name": " ",
+    "name": "Sermones de tempore ",
     "jad_id": "jad_work__436",
-    "author": [],
+    "author": [
+      {
+        "id": 212,
+        "value": "Petrus, de Sancto Benedicto (Saint-Benoit)",
+        "order": "197.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "437": {
     "id": 437,
     "order": "424.00000000000000000000",
-    "name": " ",
+    "name": "Sermones de tempore ",
     "jad_id": "jad_work__437",
-    "author": [],
+    "author": [
+      {
+        "id": 213,
+        "value": "John, of Wales",
+        "order": "198.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "438": {
     "id": 438,
     "order": "425.00000000000000000000",
-    "name": " ",
+    "name": "Sermones de tempore ",
     "jad_id": "jad_work__438",
-    "author": [],
+    "author": [
+      {
+        "id": 214,
+        "value": "Jacobus, of Lausanne",
+        "order": "199.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 55,
+        "value": "early 14th cen.",
+        "order": "55.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "439": {
     "id": 439,
     "order": "426.00000000000000000000",
-    "name": " ",
+    "name": "Sermones de tempore ",
     "jad_id": "jad_work__439",
-    "author": [],
+    "author": [
+      {
+        "id": 215,
+        "value": "Bertrandus, de Turre",
+        "order": "200.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 55,
+        "value": "early 14th cen.",
+        "order": "55.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "440": {
     "id": 440,
     "order": "427.00000000000000000000",
-    "name": " ",
+    "name": "Sermones de tempore ",
     "jad_id": "jad_work__440",
-    "author": [],
+    "author": [
+      {
+        "id": 216,
+        "value": "John, Algrinus, of Abbeville",
+        "order": "201.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   }

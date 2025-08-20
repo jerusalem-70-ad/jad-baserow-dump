@@ -3883,30 +3883,62 @@
   "110": {
     "id": 110,
     "order": "103.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Vat. lat. 1253"
+      }
+    ],
     "jad_id": "jad_manuscript__110",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Vat. lat. 1253",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Vat.lat.1253",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
   },
   "111": {
     "id": 111,
     "order": "104.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Borgh. 215"
+      }
+    ],
     "jad_id": "jad_manuscript__111",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Borgh. 215",
     "catalog_url": "",
-    "digi_url": "",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Borgh.215",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
   },
   "112": {
     "id": 112,
@@ -4003,5 +4035,181 @@
         "value": "Lambeth Palace Library"
       }
     ]
+  },
+  "115": {
+    "id": 115,
+    "order": "108.00000000000000000000",
+    "name": [
+      {
+        "id": 39,
+        "value": "Assisi, MS 462"
+      }
+    ],
+    "jad_id": "jad_manuscript__115",
+    "library": [
+      {
+        "id": 39,
+        "value": "Assisi",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "MS 462",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 39,
+        "value": "Biblioteca Francescana (Assisi)"
+      }
+    ]
+  },
+  "116": {
+    "id": 116,
+    "order": "109.00000000000000000000",
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Borgh. 153"
+      }
+    ],
+    "jad_id": "jad_manuscript__116",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Borgh. 153",
+    "catalog_url": "",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Borgh.153",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
+  },
+  "117": {
+    "id": 117,
+    "order": "110.00000000000000000000",
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Borgh. 6"
+      }
+    ],
+    "jad_id": "jad_manuscript__117",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Borgh. 6",
+    "catalog_url": "",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Borgh.6",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
+  },
+  "118": {
+    "id": 118,
+    "order": "111.00000000000000000000",
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Arundel 132"
+      }
+    ],
+    "jad_id": "jad_manuscript__118",
+    "library": [
+      {
+        "id": 7,
+        "value": "BL",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "idno": "Arundel 132",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ]
+  },
+  "119": {
+    "id": 119,
+    "order": "112.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__119",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "120": {
+    "id": 120,
+    "order": "113.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__120",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "121": {
+    "id": 121,
+    "order": "114.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__121",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "122": {
+    "id": 122,
+    "order": "115.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__122",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
   }
 }
