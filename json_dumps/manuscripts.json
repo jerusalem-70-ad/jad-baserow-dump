@@ -4159,36 +4159,134 @@
   "119": {
     "id": 119,
     "order": "112.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Borgh. 96"
+      }
+    ],
     "jad_id": "jad_manuscript__119",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Borgh. 96",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
   },
   "120": {
     "id": 120,
     "order": "113.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, lat. 3573"
+      }
+    ],
     "jad_id": "jad_manuscript__120",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "lat. 3573",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc615066",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b90661020",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
   },
   "121": {
     "id": 121,
     "order": "114.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Borgh. 180"
+      }
+    ],
     "jad_id": "jad_manuscript__121",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Borgh. 180",
+    "catalog_url": "",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Borgh.180",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
+  },
+  "122": {
+    "id": 122,
+    "order": "115.00000000000000000000",
+    "name": [
+      {
+        "id": 39,
+        "value": "Assisi, MS 456"
+      }
+    ],
+    "jad_id": "jad_manuscript__122",
+    "library": [
+      {
+        "id": 39,
+        "value": "Assisi",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "MS 456",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 39,
+        "value": "Biblioteca Francescana (Assisi)"
+      }
+    ]
+  },
+  "123": {
+    "id": 123,
+    "order": "116.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__123",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -4198,11 +4296,25 @@
     "format": "",
     "library_full": []
   },
-  "122": {
-    "id": 122,
-    "order": "115.00000000000000000000",
+  "124": {
+    "id": 124,
+    "order": "117.00000000000000000000",
     "name": [],
-    "jad_id": "jad_manuscript__122",
+    "jad_id": "jad_manuscript__124",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "125": {
+    "id": 125,
+    "order": "118.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__125",
     "library": [],
     "idno": "",
     "catalog_url": "",

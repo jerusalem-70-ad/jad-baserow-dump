@@ -1729,6 +1729,59 @@
           "id": "jad_manuscript__109",
           "label": "Troyes, MS 1100"
         }
+      },
+      {
+        "id": 120,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, lat. 3573"
+          }
+        ],
+        "jad_id": "jad_manuscript__120",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "lat. 3573",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc615066",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b90661020",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, lat. 3573",
+        "prev": {
+          "id": "jad_manuscript__12",
+          "label": "St. Gen., MS 2787"
+        },
+        "next": {
+          "id": "jad_manuscript__121",
+          "label": "Vat., Borgh. 180"
+        }
       }
     ]
   },
@@ -2057,11 +2110,11 @@
         "view_label": "St. Gen., MS 2787",
         "prev": {
           "id": "jad_manuscript__119",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Vat., Borgh. 96"
         },
         "next": {
           "id": "jad_manuscript__120",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "BNF, lat. 3573"
         }
       }
     ]
@@ -2816,7 +2869,7 @@
         ],
         "view_label": "BL, Arundel 322",
         "prev": {
-          "id": "jad_manuscript__122",
+          "id": "jad_manuscript__125",
           "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
@@ -3394,7 +3447,7 @@
         },
         "next": {
           "id": "jad_manuscript__119",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Vat., Borgh. 96"
         }
       }
     ]
@@ -7027,6 +7080,102 @@
           "id": "jad_manuscript__118",
           "label": "BL, Arundel 132"
         }
+      },
+      {
+        "id": 119,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., Borgh. 96"
+          }
+        ],
+        "jad_id": "jad_manuscript__119",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
+          }
+        ],
+        "idno": "Borgh. 96",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., Borgh. 96",
+        "prev": {
+          "id": "jad_manuscript__118",
+          "label": "BL, Arundel 132"
+        },
+        "next": {
+          "id": "jad_manuscript__12",
+          "label": "St. Gen., MS 2787"
+        }
+      },
+      {
+        "id": 121,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., Borgh. 180"
+          }
+        ],
+        "jad_id": "jad_manuscript__121",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
+          }
+        ],
+        "idno": "Borgh. 180",
+        "catalog_url": "",
+        "digi_url": "https://digi.vatlib.it/view/MSS_Borgh.180",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., Borgh. 180",
+        "prev": {
+          "id": "jad_manuscript__120",
+          "label": "BNF, lat. 3573"
+        },
+        "next": {
+          "id": "jad_manuscript__122",
+          "label": "Assisi, MS 456"
+        }
       }
     ]
   },
@@ -7168,6 +7317,47 @@
         "next": {
           "id": "jad_manuscript__116",
           "label": "Vat., Borgh. 153"
+        }
+      },
+      {
+        "id": 122,
+        "name": [
+          {
+            "id": 39,
+            "value": "Assisi, MS 456"
+          }
+        ],
+        "jad_id": "jad_manuscript__122",
+        "library": [
+          {
+            "id": 39,
+            "value": "Assisi",
+            "jad_id": "jad_library__39",
+            "gnd_url": "https://d-nb.info/gnd/1084108-8",
+            "full_name": "Biblioteca Francescana (Assisi)",
+            "place": []
+          }
+        ],
+        "idno": "MS 456",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 39,
+            "value": "Biblioteca Francescana (Assisi)"
+          }
+        ],
+        "view_label": "Assisi, MS 456",
+        "prev": {
+          "id": "jad_manuscript__121",
+          "label": "Vat., Borgh. 180"
+        },
+        "next": {
+          "id": "jad_manuscript__123",
+          "label": "NO MATCH FOR $..name[0].value"
         }
       }
     ]

@@ -791,11 +791,11 @@
     "view_label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est",
     "prev": {
       "id": "jad_occurence__169",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "deus civitati Ierusalem super ventura mala previdens enim flebat"
     },
     "next": {
       "id": "jad_occurence__170",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "cum appropinquasset Ihesus Ierusalem, flevit, videns civitatem flevit"
     }
   },
   "18": {
@@ -837,12 +837,12 @@
     ],
     "view_label": "plenius complentur in Christo, urbe subversa Romano gladio; adduces super eos latronem repente, Nabuchodonosor, vel exercitum Romanorum",
     "prev": {
-      "id": "jad_occurence__170",
+      "id": "jad_occurence__179",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__19",
-      "label": "Christus, postquam ascendit coelos, quadragesimo secundo anno immisit duos ursos de silvis gentium, Vespasianum scilicet et Titum, qui Judaeos crudelissime dejecerunt"
+      "id": "jad_occurence__180",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "19": {
@@ -884,8 +884,8 @@
     ],
     "view_label": "Christus, postquam ascendit coelos, quadragesimo secundo anno immisit duos ursos de silvis gentium, Vespasianum scilicet et Titum, qui Judaeos crudelissime dejecerunt",
     "prev": {
-      "id": "jad_occurence__18",
-      "label": "plenius complentur in Christo, urbe subversa Romano gladio; adduces super eos latronem repente, Nabuchodonosor, vel exercitum Romanorum"
+      "id": "jad_occurence__180",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__2",
@@ -7874,17 +7874,27 @@
     },
     "next": {
       "id": "jad_occurence__169",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "deus civitati Ierusalem super ventura mala previdens enim flebat"
     }
   },
   "169": {
     "id": 169,
     "jad_id": "jad_occurence__169",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1236,
+        "value": "deus civitati Ierusalem super ventura mala previdens enim flebat"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 119,
+        "value": "Vat., Borgh. 96"
+      }
+    ],
+    "position_in_ms": "270v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Borgh.96",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7894,9 +7904,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-19",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 119,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Borgh. 96, f. 270v"
+      }
+    ],
+    "view_label": "deus civitati Ierusalem super ventura mala previdens enim flebat",
     "prev": {
       "id": "jad_occurence__168",
       "label": "??"
@@ -7909,11 +7927,21 @@
   "170": {
     "id": 170,
     "jad_id": "jad_occurence__170",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1238,
+        "value": "cum appropinquasset Ihesus Ierusalem, flevit, videns civitatem flevit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 120,
+        "value": "BNF, lat. 3573"
+      }
+    ],
+    "position_in_ms": "194v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b90661020/f199.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7923,16 +7951,404 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-19",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 120,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 3573, f. 194v"
+      }
+    ],
+    "view_label": "cum appropinquasset Ihesus Ierusalem, flevit, videns civitatem flevit",
     "prev": {
       "id": "jad_occurence__17",
       "label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est"
     },
     "next": {
+      "id": "jad_occurence__171",
+      "label": "ecce dies veniunt et circumdabit te inimici tui vallo etc, Luc XIX, de civitate Ierusalem deus illa in lamentatione predixit"
+    }
+  },
+  "171": {
+    "id": 171,
+    "jad_id": "jad_occurence__171",
+    "occurrence": [
+      {
+        "id": 1239,
+        "value": "ecce dies veniunt et circumdabit te inimici tui vallo etc, Luc XIX, de civitate Ierusalem deus illa in lamentatione predixit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 120,
+        "value": "BNF, lat. 3573"
+      }
+    ],
+    "position_in_ms": "195v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b90661020/f200.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 120,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 3573, f. 195v"
+      }
+    ],
+    "view_label": "ecce dies veniunt et circumdabit te inimici tui vallo etc, Luc XIX, de civitate Ierusalem deus illa in lamentatione predixit",
+    "prev": {
+      "id": "jad_occurence__170",
+      "label": "cum appropinquasset Ihesus Ierusalem, flevit, videns civitatem flevit"
+    },
+    "next": {
+      "id": "jad_occurence__172",
+      "label": "videns civitatem flevit super illiam"
+    }
+  },
+  "172": {
+    "id": 172,
+    "jad_id": "jad_occurence__172",
+    "occurrence": [
+      {
+        "id": 1240,
+        "value": "videns civitatem flevit super illiam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 121,
+        "value": "Vat., Borgh. 180"
+      }
+    ],
+    "position_in_ms": "121v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Borgh.180/0246",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 121,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Borgh. 180, f. 121v"
+      }
+    ],
+    "view_label": "videns civitatem flevit super illiam",
+    "prev": {
+      "id": "jad_occurence__171",
+      "label": "ecce dies veniunt et circumdabit te inimici tui vallo etc, Luc XIX, de civitate Ierusalem deus illa in lamentatione predixit"
+    },
+    "next": {
+      "id": "jad_occurence__173",
+      "label": "si cognovisses et tu"
+    }
+  },
+  "173": {
+    "id": 173,
+    "jad_id": "jad_occurence__173",
+    "occurrence": [
+      {
+        "id": 1241,
+        "value": "si cognovisses et tu"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 121,
+        "value": "Vat., Borgh. 180"
+      }
+    ],
+    "position_in_ms": "122r",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Borgh.180/0246",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 121,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Borgh. 180, f. 122r"
+      }
+    ],
+    "view_label": "si cognovisses et tu",
+    "prev": {
+      "id": "jad_occurence__172",
+      "label": "videns civitatem flevit super illiam"
+    },
+    "next": {
+      "id": "jad_occurence__174",
+      "label": "circumdabunt te et angustabunt te undique"
+    }
+  },
+  "174": {
+    "id": 174,
+    "jad_id": "jad_occurence__174",
+    "occurrence": [
+      {
+        "id": 1242,
+        "value": "circumdabunt te et angustabunt te undique"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 121,
+        "value": "Vat., Borgh. 180"
+      }
+    ],
+    "position_in_ms": "122v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Borgh.180/0248",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 121,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Borgh. 180, f. 122v"
+      }
+    ],
+    "view_label": "circumdabunt te et angustabunt te undique",
+    "prev": {
+      "id": "jad_occurence__173",
+      "label": "si cognovisses et tu"
+    },
+    "next": {
+      "id": "jad_occurence__175",
+      "label": "??"
+    }
+  },
+  "175": {
+    "id": 175,
+    "jad_id": "jad_occurence__175",
+    "occurrence": [
+      {
+        "id": 1243,
+        "value": "??"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 122,
+        "value": "Assisi, MS 456"
+      }
+    ],
+    "position_in_ms": "138v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 122,
+          "database_table_3497": 39
+        },
+        "value": "Assisi, MS 456, f. 138v"
+      }
+    ],
+    "view_label": "??",
+    "prev": {
+      "id": "jad_occurence__174",
+      "label": "circumdabunt te et angustabunt te undique"
+    },
+    "next": {
+      "id": "jad_occurence__176",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "176": {
+    "id": 176,
+    "jad_id": "jad_occurence__176",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-20",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__175",
+      "label": "??"
+    },
+    "next": {
+      "id": "jad_occurence__177",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "177": {
+    "id": 177,
+    "jad_id": "jad_occurence__177",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-20",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__176",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__178",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "178": {
+    "id": 178,
+    "jad_id": "jad_occurence__178",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-20",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__177",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__179",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "179": {
+    "id": 179,
+    "jad_id": "jad_occurence__179",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-20",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__178",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
       "id": "jad_occurence__18",
       "label": "plenius complentur in Christo, urbe subversa Romano gladio; adduces super eos latronem repente, Nabuchodonosor, vel exercitum Romanorum"
+    }
+  },
+  "180": {
+    "id": 180,
+    "jad_id": "jad_occurence__180",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-20",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__18",
+      "label": "plenius complentur in Christo, urbe subversa Romano gladio; adduces super eos latronem repente, Nabuchodonosor, vel exercitum Romanorum"
+    },
+    "next": {
+      "id": "jad_occurence__19",
+      "label": "Christus, postquam ascendit coelos, quadragesimo secundo anno immisit duos ursos de silvis gentium, Vespasianum scilicet et Titum, qui Judaeos crudelissime dejecerunt"
     }
   }
 }

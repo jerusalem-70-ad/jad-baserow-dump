@@ -9335,12 +9335,12 @@
     "date_of_death": "0804",
     "view_label": "Alkuin",
     "prev": {
-      "id": "jad_author__218",
-      "label": ""
+      "id": "jad_author__219",
+      "label": "Guibert, of Tournai"
     },
     "next": {
-      "id": "jad_author__23",
-      "label": "Fulcher, of Chartres"
+      "id": "jad_author__220",
+      "label": ""
     },
     "related__works": [
       {
@@ -9489,8 +9489,8 @@
     "date_of_death": "1127",
     "view_label": "Fulcher, of Chartres",
     "prev": {
-      "id": "jad_author__22",
-      "label": "Alkuin"
+      "id": "jad_author__225",
+      "label": ""
     },
     "next": {
       "id": "jad_author__24",
@@ -14005,8 +14005,8 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Libri deflorationum ",
         "prev": {
-          "id": "jad_work__440",
-          "label": "Sermones de tempore "
+          "id": "jad_work__445",
+          "label": " "
         },
         "next": {
           "id": "jad_work__46",
@@ -27944,8 +27944,8 @@
         "date_certainty": false,
         "date": [
           {
-            "id": 41,
-            "value": "13th cen."
+            "id": 21,
+            "value": "mid 13th cen."
           }
         ],
         "link_digital_editions": "",
@@ -28207,6 +28207,67 @@
         },
         "next": {
           "id": "jad_work__392",
+          "label": "Sermones de tempore "
+        }
+      },
+      {
+        "id": 442,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__442",
+        "author": [
+          {
+            "id": 183,
+            "name": "Johannes, de Rupella (de la Rochelle)",
+            "jad_id": "jad_author__183",
+            "gnd_url": "https://lobid.org/gnd/100949274",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Johannes, de la Rochelle | John, de Rupella | Johannes, von LaRochelle | Rochelle, Giovanni della | Jean, de LaRochelle | Jean, de la Rochelle | John, de la Rochelle | Johannes, von la Rochelle | Rupella, Johannes de | Johannes, von La Rochelle | Jean, de la Rochelle, OFM | Rochelle, John de la | La Rochelle, John de | Johannes, de Rupella, OFM | LaRochelle, John de | Johannes, von Rupella | Johannes, Petragoricensis | La Rochelle, Jean de | LaRochelle, Jean de | Giovanni, della Rochelle",
+            "date_of_birth": "1200",
+            "date_of_death": "1245"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 120,
+            "value": "BNF, lat. 3573"
+          }
+        ],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__441",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__443",
           "label": "Sermones de tempore "
         }
       }
@@ -30821,7 +30882,7 @@
     },
     "next": {
       "id": "jad_author__217",
-      "label": ""
+      "label": "Gerardus, de Malliaco"
     },
     "related__works": [
       {
@@ -30876,37 +30937,260 @@
           "label": "Commentary Matthew "
         },
         "next": {
-          "id": "jad_work__45",
-          "label": "Libri deflorationum "
+          "id": "jad_work__441",
+          "label": "Sermones de tempore "
         }
       }
     ]
   },
   "217": {
     "id": 217,
-    "name": "",
+    "name": "Gerardus, de Malliaco",
     "jad_id": "jad_author__217",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/104068590",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Malliaco, Gerardus de | Gérard, de Mailly",
     "date_of_birth": "",
     "date_of_death": "",
-    "view_label": "",
+    "view_label": "Gerardus, de Malliaco",
     "prev": {
       "id": "jad_author__216",
       "label": "John, Algrinus, of Abbeville"
     },
     "next": {
       "id": "jad_author__218",
-      "label": ""
+      "label": "Conradus, de Saxonia / Holtnicker"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 441,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__441",
+        "author": [
+          {
+            "id": 217,
+            "name": "Gerardus, de Malliaco",
+            "jad_id": "jad_author__217",
+            "gnd_url": "https://d-nb.info/gnd/104068590",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Malliaco, Gerardus de | Gérard, de Mailly",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__440",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__442",
+          "label": "Sermones de tempore "
+        }
+      }
+    ]
   },
   "218": {
     "id": 218,
-    "name": "",
+    "name": "Conradus, de Saxonia / Holtnicker",
     "jad_id": "jad_author__218",
+    "gnd_url": "https://d-nb.info/gnd/118840738",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Conradus, Holzinger | Conradus, Minorit | Conrad, de Saxe | Conrad, von Sachsen | Conradus, Holtnicker | Conrado, di Sassonia | Holtnicker, Conradus | Konrad, Holtnicker | Corrado, di Sassonia | Conradus, de Brunswig | Saxonia, Conradus de | Saxe, Conradus de | Conradus, de Brunopoli | Conradus, Provincial | Holtnicker, Konrad | Conradus, Holzingarius | Konrad, von Braunschweig | Konrad, von Sachsen | Conradus, Saxo",
+    "date_of_birth": "",
+    "date_of_death": "1279",
+    "view_label": "Conradus, de Saxonia / Holtnicker",
+    "prev": {
+      "id": "jad_author__217",
+      "label": "Gerardus, de Malliaco"
+    },
+    "next": {
+      "id": "jad_author__219",
+      "label": "Guibert, of Tournai"
+    },
+    "related__works": [
+      {
+        "id": 443,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__443",
+        "author": [
+          {
+            "id": 218,
+            "name": "Conradus, de Saxonia / Holtnicker",
+            "jad_id": "jad_author__218",
+            "gnd_url": "https://d-nb.info/gnd/118840738",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Conradus, Holzinger | Conradus, Minorit | Conrad, de Saxe | Conrad, von Sachsen | Conradus, Holtnicker | Conrado, di Sassonia | Holtnicker, Conradus | Konrad, Holtnicker | Corrado, di Sassonia | Conradus, de Brunswig | Saxonia, Conradus de | Saxe, Conradus de | Conradus, de Brunopoli | Conradus, Provincial | Holtnicker, Konrad | Conradus, Holzingarius | Konrad, von Braunschweig | Konrad, von Sachsen | Conradus, Saxo",
+            "date_of_birth": "",
+            "date_of_death": "1279"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 121,
+            "value": "Vat., Borgh. 180"
+          }
+        ],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__442",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__444",
+          "label": "Sermones de tempore "
+        }
+      }
+    ]
+  },
+  "219": {
+    "id": 219,
+    "name": "Guibert, of Tournai",
+    "jad_id": "jad_author__219",
+    "gnd_url": "https://d-nb.info/gnd/100944043",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Guibertus, de Tornaco | Morielporte, Gilbertus de | Gilberto, de Tornaco | Guibert, de Tournay | Gilberto, da Tournai | Guibertus, d'As-Pies | Gilbert, de Tournay | Guillibertus, Tornacensis | Guibertus, de Torreno | Wilibertus, Tornacensis | Gilbertus, de Morielporte | Gilbertus, von Tournai | Guibertus, Tornacensis | Guibertus, de Moriel Porte | Guibert, Aspiès de Murielporte | Guibertus, de Torrenno | Gilbertus, Tornacensis | Guibertus, de Tornadia | Wibertus, Tornacensis | Guibert, de Tournai",
+    "date_of_birth": "",
+    "date_of_death": "1284",
+    "view_label": "Guibert, of Tournai",
+    "prev": {
+      "id": "jad_author__218",
+      "label": "Conradus, de Saxonia / Holtnicker"
+    },
+    "next": {
+      "id": "jad_author__22",
+      "label": "Alkuin"
+    },
+    "related__works": [
+      {
+        "id": 444,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__444",
+        "author": [
+          {
+            "id": 219,
+            "name": "Guibert, of Tournai",
+            "jad_id": "jad_author__219",
+            "gnd_url": "https://d-nb.info/gnd/100944043",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Guibertus, de Tornaco | Morielporte, Gilbertus de | Gilberto, de Tornaco | Guibert, de Tournay | Gilberto, da Tournai | Guibertus, d'As-Pies | Gilbert, de Tournay | Guillibertus, Tornacensis | Guibertus, de Torreno | Wilibertus, Tornacensis | Gilbertus, de Morielporte | Gilbertus, von Tournai | Guibertus, Tornacensis | Guibertus, de Moriel Porte | Guibert, Aspiès de Murielporte | Guibertus, de Torrenno | Gilbertus, Tornacensis | Guibertus, de Tornadia | Wibertus, Tornacensis | Guibert, de Tournai",
+            "date_of_birth": "",
+            "date_of_death": "1284"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 122,
+            "value": "Assisi, MS 456"
+          }
+        ],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__443",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__445",
+          "label": " "
+        }
+      }
+    ]
+  },
+  "220": {
+    "id": 220,
+    "name": "",
+    "jad_id": "jad_author__220",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
@@ -30915,12 +31199,117 @@
     "date_of_death": "",
     "view_label": "",
     "prev": {
-      "id": "jad_author__217",
+      "id": "jad_author__22",
+      "label": "Alkuin"
+    },
+    "next": {
+      "id": "jad_author__221",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "221": {
+    "id": 221,
+    "name": "",
+    "jad_id": "jad_author__221",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__220",
       "label": ""
     },
     "next": {
-      "id": "jad_author__22",
-      "label": "Alkuin"
+      "id": "jad_author__222",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "222": {
+    "id": 222,
+    "name": "",
+    "jad_id": "jad_author__222",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__221",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__223",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "223": {
+    "id": 223,
+    "name": "",
+    "jad_id": "jad_author__223",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__222",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__224",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "224": {
+    "id": 224,
+    "name": "",
+    "jad_id": "jad_author__224",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__223",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__225",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "225": {
+    "id": 225,
+    "name": "",
+    "jad_id": "jad_author__225",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__224",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__23",
+      "label": "Fulcher, of Chartres"
     },
     "related__works": []
   }
