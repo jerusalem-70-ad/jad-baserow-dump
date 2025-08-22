@@ -575,8 +575,8 @@
         ],
         "view_label": "BNF, Latin 620",
         "prev": {
-          "id": "jad_manuscript__14",
-          "label": "BL, Royal 8 F XVII"
+          "id": "jad_manuscript__140",
+          "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
           "id": "jad_manuscript__16",
@@ -1782,6 +1782,102 @@
           "id": "jad_manuscript__121",
           "label": "Vat., Borgh. 180"
         }
+      },
+      {
+        "id": 130,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, lat. 14280"
+          }
+        ],
+        "jad_id": "jad_manuscript__130",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "lat. 14280",
+        "catalog_url": "",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10033823t/f274.item.zoom#",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, lat. 14280",
+        "prev": {
+          "id": "jad_manuscript__13",
+          "label": "BL, Arundel 322"
+        },
+        "next": {
+          "id": "jad_manuscript__131",
+          "label": "St. Gallen, Cod. Sang. 432"
+        }
+      },
+      {
+        "id": 133,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, lat. 3785"
+          }
+        ],
+        "jad_id": "jad_manuscript__133",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "lat. 3785",
+        "catalog_url": "",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b85524102/f401.item.zoom#",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, lat. 3785",
+        "prev": {
+          "id": "jad_manuscript__132",
+          "label": "St. Gallen, Cod. Sang. 434"
+        },
+        "next": {
+          "id": "jad_manuscript__134",
+          "label": "NO MATCH FOR $..name[0].value"
+        }
       }
     ]
   },
@@ -2869,12 +2965,12 @@
         ],
         "view_label": "BL, Arundel 322",
         "prev": {
-          "id": "jad_manuscript__125",
-          "label": "NO MATCH FOR $..name[0].value"
+          "id": "jad_manuscript__129",
+          "label": "Toulouse, MS 331"
         },
         "next": {
-          "id": "jad_manuscript__14",
-          "label": "BL, Royal 8 F XVII"
+          "id": "jad_manuscript__130",
+          "label": "BNF, lat. 14280"
         }
       },
       {
@@ -2917,12 +3013,12 @@
         ],
         "view_label": "BL, Royal 8 F XVII",
         "prev": {
-          "id": "jad_manuscript__13",
-          "label": "BL, Arundel 322"
+          "id": "jad_manuscript__139",
+          "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
-          "id": "jad_manuscript__15",
-          "label": "BNF, Latin 620"
+          "id": "jad_manuscript__140",
+          "label": "NO MATCH FOR $..name[0].value"
         }
       },
       {
@@ -3755,6 +3851,160 @@
         "next": {
           "id": "jad_manuscript__11",
           "label": "BNF, Latin 3737"
+        }
+      },
+      {
+        "id": 123,
+        "name": [
+          {
+            "id": 9,
+            "value": "Troyes, MS 1729"
+          }
+        ],
+        "jad_id": "jad_manuscript__123",
+        "library": [
+          {
+            "id": 9,
+            "value": "Troyes",
+            "jad_id": "jad_library__9",
+            "gnd_url": "https://d-nb.info/gnd/1026092-4",
+            "full_name": "Bibliothèque municipale (Troyes)",
+            "place": [
+              {
+                "id": 9,
+                "name": "Troyes",
+                "geonames_url": "https://www.geonames.org/2971549/troyes.html",
+                "jad_id": "jad_places__9"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 1729",
+        "catalog_url": "https://www.bibliotheque-virtuelle-clairvaux.com/manuscrits/",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 9,
+            "value": "Bibliothèque municipale (Troyes)"
+          }
+        ],
+        "view_label": "Troyes, MS 1729",
+        "prev": {
+          "id": "jad_manuscript__122",
+          "label": "Assisi, MS 456"
+        },
+        "next": {
+          "id": "jad_manuscript__124",
+          "label": "Troyes, MS 448"
+        }
+      },
+      {
+        "id": 124,
+        "name": [
+          {
+            "id": 9,
+            "value": "Troyes, MS 448"
+          }
+        ],
+        "jad_id": "jad_manuscript__124",
+        "library": [
+          {
+            "id": 9,
+            "value": "Troyes",
+            "jad_id": "jad_library__9",
+            "gnd_url": "https://d-nb.info/gnd/1026092-4",
+            "full_name": "Bibliothèque municipale (Troyes)",
+            "place": [
+              {
+                "id": 9,
+                "name": "Troyes",
+                "geonames_url": "https://www.geonames.org/2971549/troyes.html",
+                "jad_id": "jad_places__9"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 448",
+        "catalog_url": "https://www.bibliotheque-virtuelle-clairvaux.com/manuscrits/",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 2,
+            "value": "12th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 9,
+            "value": "Bibliothèque municipale (Troyes)"
+          }
+        ],
+        "view_label": "Troyes, MS 448",
+        "prev": {
+          "id": "jad_manuscript__123",
+          "label": "Troyes, MS 1729"
+        },
+        "next": {
+          "id": "jad_manuscript__125",
+          "label": "Troyes, MS 865"
+        }
+      },
+      {
+        "id": 125,
+        "name": [
+          {
+            "id": 9,
+            "value": "Troyes, MS 865"
+          }
+        ],
+        "jad_id": "jad_manuscript__125",
+        "library": [
+          {
+            "id": 9,
+            "value": "Troyes",
+            "jad_id": "jad_library__9",
+            "gnd_url": "https://d-nb.info/gnd/1026092-4",
+            "full_name": "Bibliothèque municipale (Troyes)",
+            "place": [
+              {
+                "id": 9,
+                "name": "Troyes",
+                "geonames_url": "https://www.geonames.org/2971549/troyes.html",
+                "jad_id": "jad_places__9"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 865",
+        "catalog_url": "https://www.bibliotheque-virtuelle-clairvaux.com/manuscrits/",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 9,
+            "value": "around 1200"
+          }
+        ],
+        "format": "31 x 23, 140 ff.",
+        "library_full": [
+          {
+            "id": 9,
+            "value": "Bibliothèque municipale (Troyes)"
+          }
+        ],
+        "view_label": "Troyes, MS 865",
+        "prev": {
+          "id": "jad_manuscript__124",
+          "label": "Troyes, MS 448"
+        },
+        "next": {
+          "id": "jad_manuscript__126",
+          "label": "Vat., Vat. lat. 1246"
         }
       }
     ]
@@ -5466,6 +5716,102 @@
           "id": "jad_manuscript__56",
           "label": "Karlsruhe, Aug. perg. 208"
         }
+      },
+      {
+        "id": 131,
+        "name": [
+          {
+            "id": 25,
+            "value": "St. Gallen, Cod. Sang. 432"
+          }
+        ],
+        "jad_id": "jad_manuscript__131",
+        "library": [
+          {
+            "id": 25,
+            "value": "St. Gallen",
+            "jad_id": "jad_library__25",
+            "gnd_url": "https://d-nb.info/gnd/2089619-0",
+            "full_name": "Stiftsbibliothek St. Gallen",
+            "place": [
+              {
+                "id": 20,
+                "name": "St.Gallen",
+                "geonames_url": "https://www.geonames.org/2658822/sankt-gallen.html",
+                "jad_id": "jad_places__20"
+              }
+            ]
+          }
+        ],
+        "idno": "Cod. Sang. 432",
+        "catalog_url": "https://www.e-codices.unifr.ch/en/list/one/csg/0432/",
+        "digi_url": "https://www.e-codices.unifr.ch/en/csg/0432/504/0/",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 25,
+            "value": "Stiftsbibliothek St. Gallen"
+          }
+        ],
+        "view_label": "St. Gallen, Cod. Sang. 432",
+        "prev": {
+          "id": "jad_manuscript__130",
+          "label": "BNF, lat. 14280"
+        },
+        "next": {
+          "id": "jad_manuscript__132",
+          "label": "St. Gallen, Cod. Sang. 434"
+        }
+      },
+      {
+        "id": 132,
+        "name": [
+          {
+            "id": 25,
+            "value": "St. Gallen, Cod. Sang. 434"
+          }
+        ],
+        "jad_id": "jad_manuscript__132",
+        "library": [
+          {
+            "id": 25,
+            "value": "St. Gallen",
+            "jad_id": "jad_library__25",
+            "gnd_url": "https://d-nb.info/gnd/2089619-0",
+            "full_name": "Stiftsbibliothek St. Gallen",
+            "place": [
+              {
+                "id": 20,
+                "name": "St.Gallen",
+                "geonames_url": "https://www.geonames.org/2658822/sankt-gallen.html",
+                "jad_id": "jad_places__20"
+              }
+            ]
+          }
+        ],
+        "idno": "Cod. Sang. 434",
+        "catalog_url": "",
+        "digi_url": "https://www.e-codices.unifr.ch/en/csg/0434/170/0/",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 25,
+            "value": "Stiftsbibliothek St. Gallen"
+          }
+        ],
+        "view_label": "St. Gallen, Cod. Sang. 434",
+        "prev": {
+          "id": "jad_manuscript__131",
+          "label": "St. Gallen, Cod. Sang. 432"
+        },
+        "next": {
+          "id": "jad_manuscript__133",
+          "label": "BNF, lat. 3785"
+        }
       }
     ]
   },
@@ -7176,6 +7522,54 @@
           "id": "jad_manuscript__122",
           "label": "Assisi, MS 456"
         }
+      },
+      {
+        "id": 126,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., Vat. lat. 1246"
+          }
+        ],
+        "jad_id": "jad_manuscript__126",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
+          }
+        ],
+        "idno": "Vat. lat. 1246",
+        "catalog_url": "",
+        "digi_url": "https://digi.vatlib.it/view/MSS_Vat.lat.1246",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., Vat. lat. 1246",
+        "prev": {
+          "id": "jad_manuscript__125",
+          "label": "Troyes, MS 865"
+        },
+        "next": {
+          "id": "jad_manuscript__127",
+          "label": "Univ.bibl. Freiburg, MS 152"
+        }
       }
     ]
   },
@@ -7357,7 +7751,48 @@
         },
         "next": {
           "id": "jad_manuscript__123",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Troyes, MS 1729"
+        }
+      },
+      {
+        "id": 128,
+        "name": [
+          {
+            "id": 39,
+            "value": "Assisi, MS 430"
+          }
+        ],
+        "jad_id": "jad_manuscript__128",
+        "library": [
+          {
+            "id": 39,
+            "value": "Assisi",
+            "jad_id": "jad_library__39",
+            "gnd_url": "https://d-nb.info/gnd/1084108-8",
+            "full_name": "Biblioteca Francescana (Assisi)",
+            "place": []
+          }
+        ],
+        "idno": "MS 430",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 39,
+            "value": "Biblioteca Francescana (Assisi)"
+          }
+        ],
+        "view_label": "Assisi, MS 430",
+        "prev": {
+          "id": "jad_manuscript__127",
+          "label": "Univ.bibl. Freiburg, MS 152"
+        },
+        "next": {
+          "id": "jad_manuscript__129",
+          "label": "Toulouse, MS 331"
         }
       }
     ]
@@ -7635,15 +8070,56 @@
           "id": "jad_manuscript__101",
           "label": "Vat., Vat. lat. 1249"
         }
+      },
+      {
+        "id": 127,
+        "name": [
+          {
+            "id": 42,
+            "value": "Univ.bibl. Freiburg, MS 152"
+          }
+        ],
+        "jad_id": "jad_manuscript__127",
+        "library": [
+          {
+            "id": 42,
+            "value": "Univ.bibl. Freiburg",
+            "jad_id": "jad_library__42",
+            "gnd_url": "https://d-nb.info/gnd/31816-4",
+            "full_name": "Universitätsbibliothek Freiburg",
+            "place": []
+          }
+        ],
+        "idno": "MS 152",
+        "catalog_url": "https://dl.ub.uni-freiburg.de/diglit/hs152/0001/thumbs?sid=94f4c7e6ea3ee118a361481af68643bf#current_page",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 42,
+            "value": "Universitätsbibliothek Freiburg"
+          }
+        ],
+        "view_label": "Univ.bibl. Freiburg, MS 152",
+        "prev": {
+          "id": "jad_manuscript__126",
+          "label": "Vat., Vat. lat. 1246"
+        },
+        "next": {
+          "id": "jad_manuscript__128",
+          "label": "Assisi, MS 430"
+        }
       }
     ]
   },
   "43": {
     "id": 43,
-    "value": "",
+    "value": "Toulouse",
     "jad_id": "jad_library__43",
     "gnd_url": "",
-    "full_name": "",
+    "full_name": "Toulouse, Bibliothèque Municipale",
     "place": [],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
@@ -7654,7 +8130,49 @@
       "id": "jad_library__44",
       "label": "NO MATCH FOR $.name"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 129,
+        "name": [
+          {
+            "id": 43,
+            "value": "Toulouse, MS 331"
+          }
+        ],
+        "jad_id": "jad_manuscript__129",
+        "library": [
+          {
+            "id": 43,
+            "value": "Toulouse",
+            "jad_id": "jad_library__43",
+            "gnd_url": "",
+            "full_name": "Toulouse, Bibliothèque Municipale",
+            "place": []
+          }
+        ],
+        "idno": "MS 331",
+        "catalog_url": "https://arca.irht.cnrs.fr/ark:/63955/md375t34vd4w",
+        "digi_url": "https://arca.irht.cnrs.fr/ark:/63955/md375t34vd4w",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 43,
+            "value": "Toulouse, Bibliothèque Municipale"
+          }
+        ],
+        "view_label": "Toulouse, MS 331",
+        "prev": {
+          "id": "jad_manuscript__128",
+          "label": "Assisi, MS 430"
+        },
+        "next": {
+          "id": "jad_manuscript__13",
+          "label": "BL, Arundel 322"
+        }
+      }
+    ]
   },
   "44": {
     "id": 44,

@@ -3266,7 +3266,13 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 124,
+        "value": "Troyes, MS 448",
+        "order": "117.00000000000000000000"
+      }
+    ],
     "title": "Commentary Lamentationes",
     "genre": {
       "id": 14727,
@@ -19070,8 +19076,232 @@
   "445": {
     "id": 445,
     "order": "432.00000000000000000000",
-    "name": " ",
+    "name": "Sermones de tempore ",
     "jad_id": "jad_work__445",
+    "author": [
+      {
+        "id": 220,
+        "value": "John, of Opreno",
+        "order": "205.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 123,
+        "value": "Troyes, MS 1729",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "446": {
+    "id": 446,
+    "order": "433.00000000000000000000",
+    "name": "Homiliae ",
+    "jad_id": "jad_work__446",
+    "author": [
+      {
+        "id": 221,
+        "value": "Guilelmus, de Merula (Merlerault)",
+        "order": "206.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 125,
+        "value": "Troyes, MS 865",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "title": "Homiliae",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 33,
+        "value": "mid 11th cen.",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "447": {
+    "id": 447,
+    "order": "434.00000000000000000000",
+    "name": "Sermones dominicales de epistolis ",
+    "jad_id": "jad_work__447",
+    "author": [
+      {
+        "id": 215,
+        "value": "Bertrandus, de Turre",
+        "order": "200.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 128,
+        "value": "Assisi, MS 430",
+        "order": "121.00000000000000000000"
+      }
+    ],
+    "title": "Sermones dominicales de epistolis",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 55,
+        "value": "early 14th cen.",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "448": {
+    "id": 448,
+    "order": "435.00000000000000000000",
+    "name": "Sermones de tempore ",
+    "jad_id": "jad_work__448",
+    "author": [
+      {
+        "id": 222,
+        "value": "Petrus, Salinerii (Saugnier)",
+        "order": "207.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 129,
+        "value": "Toulouse, MS 331",
+        "order": "122.00000000000000000000"
+      }
+    ],
+    "title": "Sermones de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 17,
+        "value": "Franciscans",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 17,
+        "value": "around 1300",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "449": {
+    "id": 449,
+    "order": "436.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__449",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "450": {
+    "id": 450,
+    "order": "437.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__450",
     "author": [],
     "manuscripts": [],
     "title": "",

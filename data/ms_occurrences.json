@@ -85,8 +85,8 @@
     ],
     "view_label": "quatuor regna, scilicet assyriorum, babiloniorum, grecorum, et romanorum, qui destruxerunt Iudeos",
     "prev": {
-      "id": "jad_occurence__19",
-      "label": "Christus, postquam ascendit coelos, quadragesimo secundo anno immisit duos ursos de silvis gentium, Vespasianum scilicet et Titum, qui Judaeos crudelissime dejecerunt"
+      "id": "jad_occurence__195",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__20",
@@ -838,11 +838,11 @@
     "view_label": "plenius complentur in Christo, urbe subversa Romano gladio; adduces super eos latronem repente, Nabuchodonosor, vel exercitum Romanorum",
     "prev": {
       "id": "jad_occurence__179",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ideo propter quoddam genus peccati destructa sive desolata fuit Babylon civitas magna, propter quodom Ninive civitas maxima, propter quodam Ierusalem civitas regia, ut hodie dicitur ewangelio, veniunt dies in te et circumdabunt te etc"
     },
     "next": {
       "id": "jad_occurence__180",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "civitas ista ruinam meruit propter peccata que commiserunt iudei"
     }
   },
   "19": {
@@ -884,12 +884,12 @@
     ],
     "view_label": "Christus, postquam ascendit coelos, quadragesimo secundo anno immisit duos ursos de silvis gentium, Vespasianum scilicet et Titum, qui Judaeos crudelissime dejecerunt",
     "prev": {
-      "id": "jad_occurence__180",
+      "id": "jad_occurence__189",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__2",
-      "label": "quatuor regna, scilicet assyriorum, babiloniorum, grecorum, et romanorum, qui destruxerunt Iudeos"
+      "id": "jad_occurence__190",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "20": {
@@ -6242,7 +6242,7 @@
     },
     "next": {
       "id": "jad_occurence__134",
-      "label": "non enim flevit lapides Ierusalem, sed peccata eius"
+      "label": "ideo propter quoddam genus peccati destructa sive desolata fuit Babylon civitas magna, propter quodom Ninive civitas maxima, propter quodam Ierusalem civitas regia, ut hodie dicitur ewangelio, veniunt dies in te et circumdabunt te etc"
     }
   },
   "134": {
@@ -6251,7 +6251,7 @@
     "occurrence": [
       {
         "id": 733,
-        "value": "non enim flevit lapides Ierusalem, sed peccata eius"
+        "value": "ideo propter quoddam genus peccati destructa sive desolata fuit Babylon civitas magna, propter quodom Ninive civitas maxima, propter quodam Ierusalem civitas regia, ut hodie dicitur ewangelio, veniunt dies in te et circumdabunt te etc"
       }
     ],
     "manuscript": [
@@ -6282,7 +6282,7 @@
         "value": "BSB, Clm 5531, f. 61v"
       }
     ],
-    "view_label": "non enim flevit lapides Ierusalem, sed peccata eius",
+    "view_label": "ideo propter quoddam genus peccati destructa sive desolata fuit Babylon civitas magna, propter quodom Ninive civitas maxima, propter quodam Ierusalem civitas regia, ut hodie dicitur ewangelio, veniunt dies in te et circumdabunt te etc",
     "prev": {
       "id": "jad_occurence__133",
       "label": "si referamus tempora Nabuchodonosor, tempora Seva cherub, Titi quoque et Vespasiani, non dubitamus quia terrena Sion multoties capta et destructa et reaedificata est"
@@ -6332,7 +6332,7 @@
     "view_label": "subversio et destructio civitatis Jerusalem describitur",
     "prev": {
       "id": "jad_occurence__134",
-      "label": "non enim flevit lapides Ierusalem, sed peccata eius"
+      "label": "ideo propter quoddam genus peccati destructa sive desolata fuit Babylon civitas magna, propter quodom Ninive civitas maxima, propter quodam Ierusalem civitas regia, ut hodie dicitur ewangelio, veniunt dies in te et circumdabunt te etc"
     },
     "next": {
       "id": "jad_occurence__136",
@@ -8203,16 +8203,26 @@
     },
     "next": {
       "id": "jad_occurence__176",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "circumdabunt te inimici tui, glossa, romani principes"
     }
   },
   "176": {
     "id": 176,
     "jad_id": "jad_occurence__176",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1245,
+        "value": "circumdabunt te inimici tui, glossa, romani principes"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 123,
+        "value": "Troyes, MS 1729"
+      }
+    ],
+    "position_in_ms": "116v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -8223,25 +8233,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 123,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 1729, f. 116v"
+      }
+    ],
+    "view_label": "circumdabunt te inimici tui, glossa, romani principes",
     "prev": {
       "id": "jad_occurence__175",
       "label": "??"
     },
     "next": {
       "id": "jad_occurence__177",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns civitatem flevit super illiam"
     }
   },
   "177": {
     "id": 177,
     "jad_id": "jad_occurence__177",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1246,
+        "value": "videns civitatem flevit super illiam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 125,
+        "value": "Troyes, MS 865"
+      }
+    ],
+    "position_in_ms": "70v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -8252,26 +8280,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 125,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 865, f. 70v"
+      }
+    ],
+    "view_label": "videns civitatem flevit super illiam",
     "prev": {
       "id": "jad_occurence__176",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "circumdabunt te inimici tui, glossa, romani principes"
     },
     "next": {
       "id": "jad_occurence__178",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum"
     }
   },
   "178": {
     "id": 178,
     "jad_id": "jad_occurence__178",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 11,
+        "value": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 126,
+        "value": "Vat., Vat. lat. 1246"
+      }
+    ],
+    "position_in_ms": "150r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.1246/0307",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -8281,26 +8327,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 126,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat. lat. 1246, f. 150r"
+      }
+    ],
+    "view_label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
     "prev": {
       "id": "jad_occurence__177",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns civitatem flevit super illiam"
     },
     "next": {
       "id": "jad_occurence__179",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ideo propter quoddam genus peccati destructa sive desolata fuit Babylon civitas magna, propter quodom Ninive civitas maxima, propter quodam Ierusalem civitas regia, ut hodie dicitur ewangelio, veniunt dies in te et circumdabunt te etc"
     }
   },
   "179": {
     "id": 179,
     "jad_id": "jad_occurence__179",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 733,
+        "value": "ideo propter quoddam genus peccati destructa sive desolata fuit Babylon civitas magna, propter quodom Ninive civitas maxima, propter quodam Ierusalem civitas regia, ut hodie dicitur ewangelio, veniunt dies in te et circumdabunt te etc"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 127,
+        "value": "Univ.bibl. Freiburg, MS 152"
+      }
+    ],
+    "position_in_ms": "99r-v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://dl.ub.uni-freiburg.de/diglit/hs152/0199?sid=94f4c7e6ea3ee118a361481af68643bf",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -8310,12 +8374,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 127,
+          "database_table_3497": 42
+        },
+        "value": "Univ.bibl. Freiburg, MS 152, f. 99r-v"
+      }
+    ],
+    "view_label": "ideo propter quoddam genus peccati destructa sive desolata fuit Babylon civitas magna, propter quodom Ninive civitas maxima, propter quodam Ierusalem civitas regia, ut hodie dicitur ewangelio, veniunt dies in te et circumdabunt te etc",
     "prev": {
       "id": "jad_occurence__178",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum"
     },
     "next": {
       "id": "jad_occurence__18",
@@ -8325,10 +8397,20 @@
   "180": {
     "id": 180,
     "jad_id": "jad_occurence__180",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1247,
+        "value": "civitas ista ruinam meruit propter peccata que commiserunt iudei"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 128,
+        "value": "Assisi, MS 430"
+      }
+    ],
+    "position_in_ms": "222r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -8339,16 +8421,549 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 128,
+          "database_table_3497": 39
+        },
+        "value": "Assisi, MS 430, f. 222r"
+      }
+    ],
+    "view_label": "civitas ista ruinam meruit propter peccata que commiserunt iudei",
     "prev": {
       "id": "jad_occurence__18",
       "label": "plenius complentur in Christo, urbe subversa Romano gladio; adduces super eos latronem repente, Nabuchodonosor, vel exercitum Romanorum"
     },
     "next": {
+      "id": "jad_occurence__181",
+      "label": "in exemplum punitiones quas fecit iudeos per quas voluit informari"
+    }
+  },
+  "181": {
+    "id": 181,
+    "jad_id": "jad_occurence__181",
+    "occurrence": [
+      {
+        "id": 1248,
+        "value": "in exemplum punitiones quas fecit iudeos per quas voluit informari"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 129,
+        "value": "Toulouse, MS 331"
+      }
+    ],
+    "position_in_ms": "317v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 129,
+          "database_table_3497": 43
+        },
+        "value": "Toulouse, MS 331, f. 317v"
+      }
+    ],
+    "view_label": "in exemplum punitiones quas fecit iudeos per quas voluit informari",
+    "prev": {
+      "id": "jad_occurence__180",
+      "label": "civitas ista ruinam meruit propter peccata que commiserunt iudei"
+    },
+    "next": {
+      "id": "jad_occurence__182",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    }
+  },
+  "182": {
+    "id": 182,
+    "jad_id": "jad_occurence__182",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 130,
+        "value": "BNF, lat. 14280"
+      }
+    ],
+    "position_in_ms": "134v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 130,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 14280, f. 134v"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+    "prev": {
+      "id": "jad_occurence__181",
+      "label": "in exemplum punitiones quas fecit iudeos per quas voluit informari"
+    },
+    "next": {
+      "id": "jad_occurence__183",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    }
+  },
+  "183": {
+    "id": 183,
+    "jad_id": "jad_occurence__183",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 131,
+        "value": "St. Gallen, Cod. Sang. 432"
+      }
+    ],
+    "position_in_ms": "504",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 131,
+          "database_table_3497": 25
+        },
+        "value": "St. Gallen, Cod. Sang. 432, f. 504"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+    "prev": {
+      "id": "jad_occurence__182",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    },
+    "next": {
+      "id": "jad_occurence__184",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    }
+  },
+  "184": {
+    "id": 184,
+    "jad_id": "jad_occurence__184",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 132,
+        "value": "St. Gallen, Cod. Sang. 434"
+      }
+    ],
+    "position_in_ms": "170",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 132,
+          "database_table_3497": 25
+        },
+        "value": "St. Gallen, Cod. Sang. 434, f. 170"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+    "prev": {
+      "id": "jad_occurence__183",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    },
+    "next": {
+      "id": "jad_occurence__185",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    }
+  },
+  "185": {
+    "id": 185,
+    "jad_id": "jad_occurence__185",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 133,
+        "value": "BNF, lat. 3785"
+      }
+    ],
+    "position_in_ms": "197r",
+    "main_ms": false,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b85524102/f401.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 133,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 3785, f. 197r"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+    "prev": {
+      "id": "jad_occurence__184",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    },
+    "next": {
+      "id": "jad_occurence__186",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "186": {
+    "id": 186,
+    "jad_id": "jad_occurence__186",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__185",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    },
+    "next": {
+      "id": "jad_occurence__187",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "187": {
+    "id": 187,
+    "jad_id": "jad_occurence__187",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__186",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__188",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "188": {
+    "id": 188,
+    "jad_id": "jad_occurence__188",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__187",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__189",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "189": {
+    "id": 189,
+    "jad_id": "jad_occurence__189",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__188",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
       "id": "jad_occurence__19",
       "label": "Christus, postquam ascendit coelos, quadragesimo secundo anno immisit duos ursos de silvis gentium, Vespasianum scilicet et Titum, qui Judaeos crudelissime dejecerunt"
+    }
+  },
+  "190": {
+    "id": 190,
+    "jad_id": "jad_occurence__190",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__19",
+      "label": "Christus, postquam ascendit coelos, quadragesimo secundo anno immisit duos ursos de silvis gentium, Vespasianum scilicet et Titum, qui Judaeos crudelissime dejecerunt"
+    },
+    "next": {
+      "id": "jad_occurence__191",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "191": {
+    "id": 191,
+    "jad_id": "jad_occurence__191",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__190",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__192",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "192": {
+    "id": 192,
+    "jad_id": "jad_occurence__192",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__191",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__193",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "193": {
+    "id": 193,
+    "jad_id": "jad_occurence__193",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__192",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__194",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "194": {
+    "id": 194,
+    "jad_id": "jad_occurence__194",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__193",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__195",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "195": {
+    "id": 195,
+    "jad_id": "jad_occurence__195",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__194",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__2",
+      "label": "quatuor regna, scilicet assyriorum, babiloniorum, grecorum, et romanorum, qui destruxerunt Iudeos"
     }
   }
 }

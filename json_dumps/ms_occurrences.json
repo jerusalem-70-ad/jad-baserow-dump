@@ -5453,7 +5453,7 @@
     "occurrence": [
       {
         "id": 733,
-        "value": "non enim flevit lapides Ierusalem, sed peccata eius",
+        "value": "ideo propter quoddam genus peccati destructa sive desolata fuit Babylon civitas magna, propter quodom Ninive civitas maxima, propter quodam Ierusalem civitas regia, ut hodie dicitur ewangelio, veniunt dies in te et circumdabunt te etc",
         "order": "711.00000000000000000000"
       }
     ],
@@ -7158,10 +7158,22 @@
     "id": 176,
     "order": "169.00000000000000000000",
     "jad_id": "jad_occurence__176",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1245,
+        "value": "circumdabunt te inimici tui, glossa, romani principes",
+        "order": "1182.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 123,
+        "value": "Troyes, MS 1729",
+        "order": "116.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "116v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -7172,17 +7184,37 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-20",
-    "ms_locus": []
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 123,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 1729, f. 116v"
+      }
+    ]
   },
   "177": {
     "id": 177,
     "order": "170.00000000000000000000",
     "jad_id": "jad_occurence__177",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1246,
+        "value": "videns civitatem flevit super illiam",
+        "order": "1183.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 125,
+        "value": "Troyes, MS 865",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "70v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -7193,18 +7225,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-20",
-    "ms_locus": []
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 125,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 865, f. 70v"
+      }
+    ]
   },
   "178": {
     "id": 178,
     "order": "171.00000000000000000000",
     "jad_id": "jad_occurence__178",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 11,
+        "value": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 126,
+        "value": "Vat., Vat. lat. 1246",
+        "order": "119.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "150r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.1246/0307",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7214,18 +7266,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-20",
-    "ms_locus": []
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 126,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat. lat. 1246, f. 150r"
+      }
+    ]
   },
   "179": {
     "id": 179,
     "order": "172.00000000000000000000",
     "jad_id": "jad_occurence__179",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 733,
+        "value": "ideo propter quoddam genus peccati destructa sive desolata fuit Babylon civitas magna, propter quodom Ninive civitas maxima, propter quodam Ierusalem civitas regia, ut hodie dicitur ewangelio, veniunt dies in te et circumdabunt te etc",
+        "order": "711.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 127,
+        "value": "Univ.bibl. Freiburg, MS 152",
+        "order": "120.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "99r-v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://dl.ub.uni-freiburg.de/diglit/hs152/0199?sid=94f4c7e6ea3ee118a361481af68643bf",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7235,17 +7307,37 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-20",
-    "ms_locus": []
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 127,
+          "database_table_3497": 42
+        },
+        "value": "Univ.bibl. Freiburg, MS 152, f. 99r-v"
+      }
+    ]
   },
   "180": {
     "id": 180,
     "order": "173.00000000000000000000",
     "jad_id": "jad_occurence__180",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1247,
+        "value": "civitas ista ruinam meruit propter peccata que commiserunt iudei",
+        "order": "1184.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 128,
+        "value": "Assisi, MS 430",
+        "order": "121.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "222r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -7256,7 +7348,430 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-20",
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 128,
+          "database_table_3497": 39
+        },
+        "value": "Assisi, MS 430, f. 222r"
+      }
+    ]
+  },
+  "181": {
+    "id": 181,
+    "order": "174.00000000000000000000",
+    "jad_id": "jad_occurence__181",
+    "occurrence": [
+      {
+        "id": 1248,
+        "value": "in exemplum punitiones quas fecit iudeos per quas voluit informari",
+        "order": "1185.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 129,
+        "value": "Toulouse, MS 331",
+        "order": "122.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "317v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 129,
+          "database_table_3497": 43
+        },
+        "value": "Toulouse, MS 331, f. 317v"
+      }
+    ]
+  },
+  "182": {
+    "id": 182,
+    "order": "175.00000000000000000000",
+    "jad_id": "jad_occurence__182",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 130,
+        "value": "BNF, lat. 14280",
+        "order": "123.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "134v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 130,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 14280, f. 134v"
+      }
+    ]
+  },
+  "183": {
+    "id": 183,
+    "order": "176.00000000000000000000",
+    "jad_id": "jad_occurence__183",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 131,
+        "value": "St. Gallen, Cod. Sang. 432",
+        "order": "124.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "504",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 131,
+          "database_table_3497": 25
+        },
+        "value": "St. Gallen, Cod. Sang. 432, f. 504"
+      }
+    ]
+  },
+  "184": {
+    "id": 184,
+    "order": "177.00000000000000000000",
+    "jad_id": "jad_occurence__184",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 132,
+        "value": "St. Gallen, Cod. Sang. 434",
+        "order": "125.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "170",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 132,
+          "database_table_3497": 25
+        },
+        "value": "St. Gallen, Cod. Sang. 434, f. 170"
+      }
+    ]
+  },
+  "185": {
+    "id": 185,
+    "order": "178.00000000000000000000",
+    "jad_id": "jad_occurence__185",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 133,
+        "value": "BNF, lat. 3785",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "197r",
+    "main_ms": false,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b85524102/f401.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 133,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 3785, f. 197r"
+      }
+    ]
+  },
+  "186": {
+    "id": 186,
+    "order": "179.00000000000000000000",
+    "jad_id": "jad_occurence__186",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": []
+  },
+  "187": {
+    "id": 187,
+    "order": "180.00000000000000000000",
+    "jad_id": "jad_occurence__187",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": []
+  },
+  "188": {
+    "id": 188,
+    "order": "181.00000000000000000000",
+    "jad_id": "jad_occurence__188",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": []
+  },
+  "189": {
+    "id": 189,
+    "order": "182.00000000000000000000",
+    "jad_id": "jad_occurence__189",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": []
+  },
+  "190": {
+    "id": 190,
+    "order": "183.00000000000000000000",
+    "jad_id": "jad_occurence__190",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": []
+  },
+  "191": {
+    "id": 191,
+    "order": "184.00000000000000000000",
+    "jad_id": "jad_occurence__191",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": []
+  },
+  "192": {
+    "id": 192,
+    "order": "185.00000000000000000000",
+    "jad_id": "jad_occurence__192",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": []
+  },
+  "193": {
+    "id": 193,
+    "order": "186.00000000000000000000",
+    "jad_id": "jad_occurence__193",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": []
+  },
+  "194": {
+    "id": 194,
+    "order": "187.00000000000000000000",
+    "jad_id": "jad_occurence__194",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
+    "ms_locus": []
+  },
+  "195": {
+    "id": 195,
+    "order": "188.00000000000000000000",
+    "jad_id": "jad_occurence__195",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-21",
     "ms_locus": []
   }
 }

@@ -433,12 +433,12 @@
     "description": null,
     "view_label": "Zach. 6",
     "prev": {
-      "id": "jad_biblical_reference__255",
+      "id": "jad_biblical_reference__259",
       "label": ""
     },
     "next": {
-      "id": "jad_biblical_reference__27",
-      "label": "Zach. 11,1"
+      "id": "jad_biblical_reference__260",
+      "label": ""
     }
   },
   "27": {
@@ -450,8 +450,8 @@
     "description": null,
     "view_label": "Zach. 11,1",
     "prev": {
-      "id": "jad_biblical_reference__26",
-      "label": "Zach. 6"
+      "id": "jad_biblical_reference__265",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__28",
@@ -3600,17 +3600,17 @@
     },
     "next": {
       "id": "jad_biblical_reference__214",
-      "label": "Osee 10,8"
+      "label": "Hos. 10,8"
     }
   },
   "214": {
     "id": 214,
-    "name": "Osee 10,8",
+    "name": "Hos. 10,8",
     "jad_id": "jad_biblical_reference__214",
     "nova_vulgata_url": "https://www.die-bibel.de/bibel/VUL/HOS.10.8",
     "text": "Et disperdentur excelsa impietatis,\npeccatum Israel;\nspina et tribulus ascendet\nsuper aras eorum,\net dicent montibus: “ Operite nos! ”\net collibus: “ Cadite super nos! ”.",
     "description": null,
-    "view_label": "Osee 10,8",
+    "view_label": "Hos. 10,8",
     "prev": {
       "id": "jad_biblical_reference__213",
       "label": "Ps. 56,5"
@@ -3630,7 +3630,7 @@
     "view_label": "Lk. 21,23",
     "prev": {
       "id": "jad_biblical_reference__214",
-      "label": "Osee 10,8"
+      "label": "Hos. 10,8"
     },
     "next": {
       "id": "jad_biblical_reference__216",
@@ -4263,58 +4263,228 @@
     },
     "next": {
       "id": "jad_biblical_reference__253",
-      "label": ""
+      "label": "Hos. 6,8"
     }
   },
   "253": {
     "id": 253,
-    "name": "",
+    "name": "Hos. 6,8",
     "jad_id": "jad_biblical_reference__253",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
-    "view_label": "",
+    "view_label": "Hos. 6,8",
     "prev": {
       "id": "jad_biblical_reference__252",
       "label": "Ex. 33,5"
     },
     "next": {
       "id": "jad_biblical_reference__254",
-      "label": ""
+      "label": "Hos. 6,9"
     }
   },
   "254": {
     "id": 254,
-    "name": "",
+    "name": "Hos. 6,9",
     "jad_id": "jad_biblical_reference__254",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
-    "view_label": "",
+    "view_label": "Hos. 6,9",
     "prev": {
       "id": "jad_biblical_reference__253",
-      "label": ""
+      "label": "Hos. 6,8"
     },
     "next": {
       "id": "jad_biblical_reference__255",
-      "label": ""
+      "label": "Ez. 3,18"
     }
   },
   "255": {
     "id": 255,
-    "name": "",
+    "name": "Ez. 3,18",
     "jad_id": "jad_biblical_reference__255",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Ez. 3,18",
+    "prev": {
+      "id": "jad_biblical_reference__254",
+      "label": "Hos. 6,9"
+    },
+    "next": {
+      "id": "jad_biblical_reference__256",
+      "label": "Ez. 33,8"
+    }
+  },
+  "256": {
+    "id": 256,
+    "name": "Ez. 33,8",
+    "jad_id": "jad_biblical_reference__256",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Ez. 33,8",
+    "prev": {
+      "id": "jad_biblical_reference__255",
+      "label": "Ez. 3,18"
+    },
+    "next": {
+      "id": "jad_biblical_reference__257",
+      "label": "Jer. 48,10"
+    }
+  },
+  "257": {
+    "id": 257,
+    "name": "Jer. 48,10",
+    "jad_id": "jad_biblical_reference__257",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Jer. 48,10",
+    "prev": {
+      "id": "jad_biblical_reference__256",
+      "label": "Ez. 33,8"
+    },
+    "next": {
+      "id": "jad_biblical_reference__258",
+      "label": ""
+    }
+  },
+  "258": {
+    "id": 258,
+    "name": "",
+    "jad_id": "jad_biblical_reference__258",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
     "view_label": "",
     "prev": {
-      "id": "jad_biblical_reference__254",
+      "id": "jad_biblical_reference__257",
+      "label": "Jer. 48,10"
+    },
+    "next": {
+      "id": "jad_biblical_reference__259",
+      "label": ""
+    }
+  },
+  "259": {
+    "id": 259,
+    "name": "",
+    "jad_id": "jad_biblical_reference__259",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__258",
       "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__26",
       "label": "Zach. 6"
+    }
+  },
+  "260": {
+    "id": 260,
+    "name": "",
+    "jad_id": "jad_biblical_reference__260",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__26",
+      "label": "Zach. 6"
+    },
+    "next": {
+      "id": "jad_biblical_reference__261",
+      "label": ""
+    }
+  },
+  "261": {
+    "id": 261,
+    "name": "",
+    "jad_id": "jad_biblical_reference__261",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__260",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__262",
+      "label": ""
+    }
+  },
+  "262": {
+    "id": 262,
+    "name": "",
+    "jad_id": "jad_biblical_reference__262",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__261",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__263",
+      "label": ""
+    }
+  },
+  "263": {
+    "id": 263,
+    "name": "",
+    "jad_id": "jad_biblical_reference__263",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__262",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__264",
+      "label": ""
+    }
+  },
+  "264": {
+    "id": 264,
+    "name": "",
+    "jad_id": "jad_biblical_reference__264",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__263",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__265",
+      "label": ""
+    }
+  },
+  "265": {
+    "id": 265,
+    "name": "",
+    "jad_id": "jad_biblical_reference__265",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__264",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__27",
+      "label": "Zach. 11,1"
     }
   }
 }

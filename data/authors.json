@@ -6084,8 +6084,8 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Commentary Kings ",
         "prev": {
-          "id": "jad_work__45",
-          "label": "Libri deflorationum "
+          "id": "jad_work__450",
+          "label": " "
         },
         "next": {
           "id": "jad_work__47",
@@ -8206,7 +8206,12 @@
             "date_of_death": "0865"
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 124,
+            "value": "Troyes, MS 448"
+          }
+        ],
         "title": "Commentary Lamentationes",
         "genre": {
           "id": 14727,
@@ -9340,7 +9345,7 @@
     },
     "next": {
       "id": "jad_author__220",
-      "label": ""
+      "label": "John, of Opreno"
     },
     "related__works": [
       {
@@ -14005,12 +14010,12 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Libri deflorationum ",
         "prev": {
-          "id": "jad_work__445",
+          "id": "jad_work__449",
           "label": " "
         },
         "next": {
-          "id": "jad_work__46",
-          "label": "Commentary Kings "
+          "id": "jad_work__450",
+          "label": " "
         }
       }
     ]
@@ -30862,6 +30867,67 @@
           "id": "jad_work__44",
           "label": "Commentary Matthew "
         }
+      },
+      {
+        "id": 447,
+        "name": "Sermones dominicales de epistolis ",
+        "jad_id": "jad_work__447",
+        "author": [
+          {
+            "id": 215,
+            "name": "Bertrandus, de Turre",
+            "jad_id": "jad_author__215",
+            "gnd_url": "https://d-nb.info/gnd/100969151",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Bertrandus, de Turre Nobili | Bertrandus, aus Camboulit | La Tour, Bertrand de | Turre, Bertrandus de | Bertrand, de Turre | Cura, Bertrandus de | Bertrandus, de Cura | Bertrando, de Turre | Bertrando, della Torre | Bertrandus, Doctor Famosus | Bernardinus, de Turre | Bertrandus, Salernitanus | Bertrandus | Bertrando, di La Tour | Bertrand, de la Tour | Bertrandus, de Turre Cura | Tour, Bertrand de la | LaTour, Bertrand de",
+            "date_of_birth": "1295",
+            "date_of_death": "1334"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 128,
+            "value": "Assisi, MS 430"
+          }
+        ],
+        "title": "Sermones dominicales de epistolis",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 55,
+            "value": "early 14th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones dominicales de epistolis ",
+        "prev": {
+          "id": "jad_work__446",
+          "label": "Homiliae "
+        },
+        "next": {
+          "id": "jad_work__448",
+          "label": "Sermones de tempore "
+        }
       }
     ]
   },
@@ -31182,73 +31248,289 @@
         },
         "next": {
           "id": "jad_work__445",
-          "label": " "
+          "label": "Sermones de tempore "
         }
       }
     ]
   },
   "220": {
     "id": 220,
-    "name": "",
+    "name": "John, of Opreno",
     "jad_id": "jad_author__220",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/1147215693",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Giovanni, d'Opreno | Johannes, d'Opreno",
     "date_of_birth": "",
     "date_of_death": "",
-    "view_label": "",
+    "view_label": "John, of Opreno",
     "prev": {
       "id": "jad_author__22",
       "label": "Alkuin"
     },
     "next": {
       "id": "jad_author__221",
-      "label": ""
+      "label": "Guilelmus, de Merula (Merlerault)"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 445,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__445",
+        "author": [
+          {
+            "id": 220,
+            "name": "John, of Opreno",
+            "jad_id": "jad_author__220",
+            "gnd_url": "https://d-nb.info/gnd/1147215693",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Giovanni, d'Opreno | Johannes, d'Opreno",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 123,
+            "value": "Troyes, MS 1729"
+          }
+        ],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__444",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__446",
+          "label": "Homiliae "
+        }
+      }
+    ]
   },
   "221": {
     "id": 221,
-    "name": "",
+    "name": "Guilelmus, de Merula (Merlerault)",
     "jad_id": "jad_author__221",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102483302",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Merula, Guilelmus de | Guillaume, du Merle | Guilelmus, de Merlerault | Guillaume, de Merlerault",
     "date_of_birth": "",
     "date_of_death": "",
-    "view_label": "",
+    "view_label": "Guilelmus, de Merula (Merlerault)",
     "prev": {
       "id": "jad_author__220",
-      "label": ""
+      "label": "John, of Opreno"
     },
     "next": {
       "id": "jad_author__222",
-      "label": ""
+      "label": "Petrus, Salinerii (Saugnier)"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 446,
+        "name": "Homiliae ",
+        "jad_id": "jad_work__446",
+        "author": [
+          {
+            "id": 221,
+            "name": "Guilelmus, de Merula (Merlerault)",
+            "jad_id": "jad_author__221",
+            "gnd_url": "https://d-nb.info/gnd/102483302",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Merula, Guilelmus de | Guillaume, du Merle | Guilelmus, de Merlerault | Guillaume, de Merlerault",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 125,
+            "value": "Troyes, MS 865"
+          }
+        ],
+        "title": "Homiliae",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 3,
+            "name": "Benedictines",
+            "jad_id": "jad_institutional_context__3",
+            "part_of": [],
+            "gnd_url": "https://d-nb.info/gnd/25880-5",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 33,
+            "value": "mid 11th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Homiliae ",
+        "prev": {
+          "id": "jad_work__445",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__447",
+          "label": "Sermones dominicales de epistolis "
+        }
+      }
+    ]
   },
   "222": {
     "id": 222,
-    "name": "",
+    "name": "Petrus, Salinerii (Saugnier)",
     "jad_id": "jad_author__222",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102519226",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Petrus, Salmerius | Saugnier, Petrus | Salmerius, Petrus | Petrus, Saugnier | Salinerii, Petrus",
     "date_of_birth": "",
     "date_of_death": "",
-    "view_label": "",
+    "view_label": "Petrus, Salinerii (Saugnier)",
     "prev": {
       "id": "jad_author__221",
-      "label": ""
+      "label": "Guilelmus, de Merula (Merlerault)"
     },
     "next": {
       "id": "jad_author__223",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 448,
+        "name": "Sermones de tempore ",
+        "jad_id": "jad_work__448",
+        "author": [
+          {
+            "id": 222,
+            "name": "Petrus, Salinerii (Saugnier)",
+            "jad_id": "jad_author__222",
+            "gnd_url": "https://d-nb.info/gnd/102519226",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Petrus, Salmerius | Saugnier, Petrus | Salmerius, Petrus | Petrus, Saugnier | Salinerii, Petrus",
+            "date_of_birth": "",
+            "date_of_death": ""
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 129,
+            "value": "Toulouse, MS 331"
+          }
+        ],
+        "title": "Sermones de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 17,
+            "name": "Franciscans",
+            "jad_id": "jad_institutional_context__17",
+            "part_of": [
+              {
+                "id": 19,
+                "name": "Friars",
+                "jad_id": "jad_institutional_context__19",
+                "part_of": [],
+                "gnd_url": "",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 17,
+            "value": "around 1300"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Sermones de tempore ",
+        "prev": {
+          "id": "jad_work__447",
+          "label": "Sermones dominicales de epistolis "
+        },
+        "next": {
+          "id": "jad_work__449",
+          "label": " "
+        }
+      }
+    ]
   },
   "223": {
     "id": 223,
@@ -31263,7 +31545,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__222",
-      "label": ""
+      "label": "Petrus, Salinerii (Saugnier)"
     },
     "next": {
       "id": "jad_author__224",
