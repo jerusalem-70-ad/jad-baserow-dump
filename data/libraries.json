@@ -88,12 +88,12 @@
         ],
         "view_label": "ÖNB, Cod. 1014",
         "prev": {
-          "id": "jad_manuscript__15",
-          "label": "BNF, Latin 620"
+          "id": "jad_manuscript__159",
+          "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
-          "id": "jad_manuscript__17",
-          "label": "Cambr. St.John's Coll., MS 127"
+          "id": "jad_manuscript__160",
+          "label": "NO MATCH FOR $..name[0].value"
         }
       },
       {
@@ -575,12 +575,12 @@
         ],
         "view_label": "BNF, Latin 620",
         "prev": {
-          "id": "jad_manuscript__140",
-          "label": "NO MATCH FOR $..name[0].value"
+          "id": "jad_manuscript__149",
+          "label": "Merton Coll., MS 169"
         },
         "next": {
-          "id": "jad_manuscript__16",
-          "label": "ÖNB, Cod. 1014"
+          "id": "jad_manuscript__150",
+          "label": "NO MATCH FOR $..name[0].value"
         }
       },
       {
@@ -1876,7 +1876,431 @@
         },
         "next": {
           "id": "jad_manuscript__134",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "BNF, lat. 3797"
+        }
+      },
+      {
+        "id": 134,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, lat. 3797"
+          }
+        ],
+        "jad_id": "jad_manuscript__134",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "lat. 3797",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc617582",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, lat. 3797",
+        "prev": {
+          "id": "jad_manuscript__133",
+          "label": "BNF, lat. 3785"
+        },
+        "next": {
+          "id": "jad_manuscript__135",
+          "label": "BNF, lat. 3279"
+        }
+      },
+      {
+        "id": 135,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, lat. 3279"
+          }
+        ],
+        "jad_id": "jad_manuscript__135",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "lat. 3279",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61153t",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b90778413/f114.item.zoom",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, lat. 3279",
+        "prev": {
+          "id": "jad_manuscript__134",
+          "label": "BNF, lat. 3797"
+        },
+        "next": {
+          "id": "jad_manuscript__136",
+          "label": "Vat., Vat. lat. 1270"
+        }
+      },
+      {
+        "id": 138,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, lat.  3804"
+          }
+        ],
+        "jad_id": "jad_manuscript__138",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "lat.  3804",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc617671",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10464097v/f208.item.zoom",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 2,
+            "value": "12th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, lat.  3804",
+        "prev": {
+          "id": "jad_manuscript__137",
+          "label": "Vat., Pal.lat.430"
+        },
+        "next": {
+          "id": "jad_manuscript__139",
+          "label": "BNF, lat. 3576"
+        }
+      },
+      {
+        "id": 139,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, lat. 3576"
+          }
+        ],
+        "jad_id": "jad_manuscript__139",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "lat. 3576",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61509x",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b100365870/f79.item.zoom",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 9,
+            "value": "around 1200"
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, lat. 3576",
+        "prev": {
+          "id": "jad_manuscript__138",
+          "label": "BNF, lat.  3804"
+        },
+        "next": {
+          "id": "jad_manuscript__14",
+          "label": "BL, Royal 8 F XVII"
+        }
+      },
+      {
+        "id": 140,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, lat.  3816"
+          }
+        ],
+        "jad_id": "jad_manuscript__140",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "lat.  3816",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc617810",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10036994k/f30.item.zoom",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, lat.  3816",
+        "prev": {
+          "id": "jad_manuscript__14",
+          "label": "BL, Royal 8 F XVII"
+        },
+        "next": {
+          "id": "jad_manuscript__141",
+          "label": "BNF, lat.  3790"
+        }
+      },
+      {
+        "id": 141,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, lat.  3790"
+          }
+        ],
+        "jad_id": "jad_manuscript__141",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "lat.  3790",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61751c",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b9067828z/f34.item.zoom",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, lat.  3790",
+        "prev": {
+          "id": "jad_manuscript__140",
+          "label": "BNF, lat.  3816"
+        },
+        "next": {
+          "id": "jad_manuscript__142",
+          "label": "Vat., S.Maria.Magg.104"
+        }
+      },
+      {
+        "id": 143,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, lat. 3782"
+          }
+        ],
+        "jad_id": "jad_manuscript__143",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "lat. 3782",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61743n",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 18,
+            "value": "around 1000"
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, lat. 3782",
+        "prev": {
+          "id": "jad_manuscript__142",
+          "label": "Vat., S.Maria.Magg.104"
+        },
+        "next": {
+          "id": "jad_manuscript__144",
+          "label": "BNF, lat. 3792"
+        }
+      },
+      {
+        "id": 144,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, lat. 3792"
+          }
+        ],
+        "jad_id": "jad_manuscript__144",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1"
+              }
+            ]
+          }
+        ],
+        "idno": "lat. 3792",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61753v",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 68,
+            "value": "11th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, lat. 3792",
+        "prev": {
+          "id": "jad_manuscript__143",
+          "label": "BNF, lat. 3782"
+        },
+        "next": {
+          "id": "jad_manuscript__145",
+          "label": "Vat., S.Maria.Magg.3"
         }
       }
     ]
@@ -2231,11 +2655,11 @@
     ],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
-      "id": "jad_library__45",
+      "id": "jad_library__49",
       "label": "NO MATCH FOR $.name"
     },
     "next": {
-      "id": "jad_library__6",
+      "id": "jad_library__50",
       "label": "NO MATCH FOR $.name"
     },
     "related__manuscripts": [
@@ -2718,7 +3142,7 @@
     ],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
-      "id": "jad_library__5",
+      "id": "jad_library__50",
       "label": "NO MATCH FOR $.name"
     },
     "next": {
@@ -3014,11 +3438,11 @@
         "view_label": "BL, Royal 8 F XVII",
         "prev": {
           "id": "jad_manuscript__139",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "BNF, lat. 3576"
         },
         "next": {
           "id": "jad_manuscript__140",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "BNF, lat.  3816"
         }
       },
       {
@@ -3617,8 +4041,8 @@
         ],
         "view_label": "Cambr. St.John's Coll., MS 127",
         "prev": {
-          "id": "jad_manuscript__16",
-          "label": "ÖNB, Cod. 1014"
+          "id": "jad_manuscript__164",
+          "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
           "id": "jad_manuscript__18",
@@ -4317,6 +4741,112 @@
           "id": "jad_manuscript__10",
           "label": "BNF, Latin 446"
         }
+      },
+      {
+        "id": 146,
+        "name": [
+          {
+            "id": 10,
+            "value": "Bodl., Bodley 482"
+          }
+        ],
+        "jad_id": "jad_manuscript__146",
+        "library": [
+          {
+            "id": 10,
+            "value": "Bodl.",
+            "jad_id": "jad_library__10",
+            "gnd_url": "https://d-nb.info/gnd/38352-1",
+            "full_name": "Bodleian Library",
+            "place": [
+              {
+                "id": 6,
+                "name": "Oxford",
+                "geonames_url": "https://www.geonames.org/2640729/oxford.html",
+                "jad_id": "jad_places__6"
+              }
+            ]
+          }
+        ],
+        "idno": "Bodley 482",
+        "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1515",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 10,
+            "value": "Bodleian Library"
+          }
+        ],
+        "view_label": "Bodl., Bodley 482",
+        "prev": {
+          "id": "jad_manuscript__145",
+          "label": "Vat., S.Maria.Magg.3"
+        },
+        "next": {
+          "id": "jad_manuscript__147",
+          "label": "Oxford Magd. Coll., MS 207"
+        }
+      },
+      {
+        "id": 148,
+        "name": [
+          {
+            "id": 10,
+            "value": "Bodl., Laud Misc. 434"
+          }
+        ],
+        "jad_id": "jad_manuscript__148",
+        "library": [
+          {
+            "id": 10,
+            "value": "Bodl.",
+            "jad_id": "jad_library__10",
+            "gnd_url": "https://d-nb.info/gnd/38352-1",
+            "full_name": "Bodleian Library",
+            "place": [
+              {
+                "id": 6,
+                "name": "Oxford",
+                "geonames_url": "https://www.geonames.org/2640729/oxford.html",
+                "jad_id": "jad_places__6"
+              }
+            ]
+          }
+        ],
+        "idno": "Laud Misc. 434",
+        "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_7235",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 43,
+            "value": "14th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 10,
+            "value": "Bodleian Library"
+          }
+        ],
+        "view_label": "Bodl., Laud Misc. 434",
+        "prev": {
+          "id": "jad_manuscript__147",
+          "label": "Oxford Magd. Coll., MS 207"
+        },
+        "next": {
+          "id": "jad_manuscript__149",
+          "label": "Merton Coll., MS 169"
+        }
       }
     ]
   },
@@ -4840,7 +5370,56 @@
       "id": "jad_library__15",
       "label": "NO MATCH FOR $.name"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 147,
+        "name": [
+          {
+            "id": 14,
+            "value": "Oxford Magd. Coll., MS 207"
+          }
+        ],
+        "jad_id": "jad_manuscript__147",
+        "library": [
+          {
+            "id": 14,
+            "value": "Oxford Magd. Coll.",
+            "jad_id": "jad_library__14",
+            "gnd_url": "https://d-nb.info/gnd/5009498-1",
+            "full_name": "Magdalen College (Oxford)",
+            "place": [
+              {
+                "id": 6,
+                "name": "Oxford",
+                "geonames_url": "https://www.geonames.org/2640729/oxford.html",
+                "jad_id": "jad_places__6"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 207",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 14,
+            "value": "Magdalen College (Oxford)"
+          }
+        ],
+        "view_label": "Oxford Magd. Coll., MS 207",
+        "prev": {
+          "id": "jad_manuscript__146",
+          "label": "Bodl., Bodley 482"
+        },
+        "next": {
+          "id": "jad_manuscript__148",
+          "label": "Bodl., Laud Misc. 434"
+        }
+      }
+    ]
   },
   "15": {
     "id": 15,
@@ -7570,6 +8149,208 @@
           "id": "jad_manuscript__127",
           "label": "Univ.bibl. Freiburg, MS 152"
         }
+      },
+      {
+        "id": 136,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., Vat. lat. 1270"
+          }
+        ],
+        "jad_id": "jad_manuscript__136",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
+          }
+        ],
+        "idno": "Vat. lat. 1270",
+        "catalog_url": "https://opac.vatlib.it/mss/detail/Vat.lat.1270",
+        "digi_url": "https://digi.vatlib.it/view/MSS_Vat.lat.1270",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 68,
+            "value": "11th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., Vat. lat. 1270",
+        "prev": {
+          "id": "jad_manuscript__135",
+          "label": "BNF, lat. 3279"
+        },
+        "next": {
+          "id": "jad_manuscript__137",
+          "label": "Vat., Pal.lat.430"
+        }
+      },
+      {
+        "id": 137,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., Pal.lat.430"
+          }
+        ],
+        "jad_id": "jad_manuscript__137",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
+          }
+        ],
+        "idno": "Pal.lat.430",
+        "catalog_url": "https://opac.vatlib.it/mss/detail/Pal.lat.430",
+        "digi_url": "https://digi.vatlib.it/view/MSS_Pal.lat.430",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 1,
+            "value": "9th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., Pal.lat.430",
+        "prev": {
+          "id": "jad_manuscript__136",
+          "label": "Vat., Vat. lat. 1270"
+        },
+        "next": {
+          "id": "jad_manuscript__138",
+          "label": "BNF, lat.  3804"
+        }
+      },
+      {
+        "id": 142,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., S.Maria.Magg.104"
+          }
+        ],
+        "jad_id": "jad_manuscript__142",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
+          }
+        ],
+        "idno": "S.Maria.Magg.104",
+        "catalog_url": "https://opac.vatlib.it/mss/detail/S.Maria.Magg.104",
+        "digi_url": "https://digi.vatlib.it/view/MSS_S.Maria.Magg.104",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., S.Maria.Magg.104",
+        "prev": {
+          "id": "jad_manuscript__141",
+          "label": "BNF, lat.  3790"
+        },
+        "next": {
+          "id": "jad_manuscript__143",
+          "label": "BNF, lat. 3782"
+        }
+      },
+      {
+        "id": 145,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., S.Maria.Magg.3"
+          }
+        ],
+        "jad_id": "jad_manuscript__145",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19"
+              }
+            ]
+          }
+        ],
+        "idno": "S.Maria.Magg.3",
+        "catalog_url": "https://opac.vatlib.it/mss/detail/S.Maria.Magg.3",
+        "digi_url": "https://digi.vatlib.it/view/MSS_S.Maria.Magg.3",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., S.Maria.Magg.3",
+        "prev": {
+          "id": "jad_manuscript__144",
+          "label": "BNF, lat. 3792"
+        },
+        "next": {
+          "id": "jad_manuscript__146",
+          "label": "Bodl., Bodley 482"
+        }
       }
     ]
   },
@@ -8176,10 +8957,10 @@
   },
   "44": {
     "id": 44,
-    "value": "",
+    "value": "Merton Coll.",
     "jad_id": "jad_library__44",
     "gnd_url": "",
-    "full_name": "",
+    "full_name": "Merton College (Oxford)",
     "place": [],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
@@ -8190,7 +8971,54 @@
       "id": "jad_library__45",
       "label": "NO MATCH FOR $.name"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 149,
+        "name": [
+          {
+            "id": 44,
+            "value": "Merton Coll., MS 169"
+          }
+        ],
+        "jad_id": "jad_manuscript__149",
+        "library": [
+          {
+            "id": 44,
+            "value": "Merton Coll.",
+            "jad_id": "jad_library__44",
+            "gnd_url": "",
+            "full_name": "Merton College (Oxford)",
+            "place": []
+          }
+        ],
+        "idno": "MS 169",
+        "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_10267",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 43,
+            "value": "14th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 44,
+            "value": "Merton College (Oxford)"
+          }
+        ],
+        "view_label": "Merton Coll., MS 169",
+        "prev": {
+          "id": "jad_manuscript__148",
+          "label": "Bodl., Laud Misc. 434"
+        },
+        "next": {
+          "id": "jad_manuscript__15",
+          "label": "BNF, Latin 620"
+        }
+      }
+    ]
   },
   "45": {
     "id": 45,
@@ -8205,7 +9033,97 @@
       "label": "NO MATCH FOR $.name"
     },
     "next": {
+      "id": "jad_library__46",
+      "label": "NO MATCH FOR $.name"
+    },
+    "related__manuscripts": []
+  },
+  "46": {
+    "id": 46,
+    "value": "",
+    "jad_id": "jad_library__46",
+    "gnd_url": "",
+    "full_name": "",
+    "place": [],
+    "view_label": "NO MATCH FOR $.name",
+    "prev": {
+      "id": "jad_library__45",
+      "label": "NO MATCH FOR $.name"
+    },
+    "next": {
+      "id": "jad_library__47",
+      "label": "NO MATCH FOR $.name"
+    },
+    "related__manuscripts": []
+  },
+  "47": {
+    "id": 47,
+    "value": "",
+    "jad_id": "jad_library__47",
+    "gnd_url": "",
+    "full_name": "",
+    "place": [],
+    "view_label": "NO MATCH FOR $.name",
+    "prev": {
+      "id": "jad_library__46",
+      "label": "NO MATCH FOR $.name"
+    },
+    "next": {
+      "id": "jad_library__48",
+      "label": "NO MATCH FOR $.name"
+    },
+    "related__manuscripts": []
+  },
+  "48": {
+    "id": 48,
+    "value": "",
+    "jad_id": "jad_library__48",
+    "gnd_url": "",
+    "full_name": "",
+    "place": [],
+    "view_label": "NO MATCH FOR $.name",
+    "prev": {
+      "id": "jad_library__47",
+      "label": "NO MATCH FOR $.name"
+    },
+    "next": {
+      "id": "jad_library__49",
+      "label": "NO MATCH FOR $.name"
+    },
+    "related__manuscripts": []
+  },
+  "49": {
+    "id": 49,
+    "value": "",
+    "jad_id": "jad_library__49",
+    "gnd_url": "",
+    "full_name": "",
+    "place": [],
+    "view_label": "NO MATCH FOR $.name",
+    "prev": {
+      "id": "jad_library__48",
+      "label": "NO MATCH FOR $.name"
+    },
+    "next": {
       "id": "jad_library__5",
+      "label": "NO MATCH FOR $.name"
+    },
+    "related__manuscripts": []
+  },
+  "50": {
+    "id": 50,
+    "value": "",
+    "jad_id": "jad_library__50",
+    "gnd_url": "",
+    "full_name": "",
+    "place": [],
+    "view_label": "NO MATCH FOR $.name",
+    "prev": {
+      "id": "jad_library__5",
+      "label": "NO MATCH FOR $.name"
+    },
+    "next": {
+      "id": "jad_library__6",
       "label": "NO MATCH FOR $.name"
     },
     "related__manuscripts": []

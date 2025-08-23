@@ -4562,7 +4562,7 @@
         "order": "66.00000000000000000000"
       }
     ],
-    "position_in_ms": "",
+    "position_in_ms": "50v-60r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -4574,14 +4574,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-03-27",
+    "last_modified_on": "2025-08-22",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 71,
           "database_table_3497": 10
         },
-        "value": "Bodl., Rawlinson D 1236, f. "
+        "value": "Bodl., Rawlinson D 1236, f. 50v-60r"
       }
     ]
   },
@@ -7568,9 +7568,21 @@
     "id": 186,
     "order": "179.00000000000000000000",
     "jad_id": "jad_occurence__186",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1246,
+        "value": "videns civitatem flevit super illiam",
+        "order": "1183.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 134,
+        "value": "BNF, lat. 3797",
+        "order": "127.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "104r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -7582,18 +7594,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-21",
-    "ms_locus": []
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 134,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 3797, f. 104r"
+      }
+    ]
   },
   "187": {
     "id": 187,
     "order": "180.00000000000000000000",
     "jad_id": "jad_occurence__187",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1246,
+        "value": "videns civitatem flevit super illiam",
+        "order": "1183.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 135,
+        "value": "BNF, lat. 3279",
+        "order": "128.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "107r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b90778413/f114.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7603,18 +7635,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-21",
-    "ms_locus": []
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 135,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 3279, f. 107r"
+      }
+    ]
   },
   "188": {
     "id": 188,
     "order": "181.00000000000000000000",
     "jad_id": "jad_occurence__188",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 136,
+        "value": "Vat., Vat. lat. 1270",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "130v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.1270/0271",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7624,18 +7676,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-21",
-    "ms_locus": []
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 136,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat. lat. 1270, f. 130v"
+      }
+    ]
   },
   "189": {
     "id": 189,
     "order": "182.00000000000000000000",
     "jad_id": "jad_occurence__189",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 137,
+        "value": "Vat., Pal.lat.430",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "114v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Pal.lat.430/0232",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7645,18 +7717,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-21",
-    "ms_locus": []
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 137,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Pal.lat.430, f. 114v"
+      }
+    ]
   },
   "190": {
     "id": 190,
     "order": "183.00000000000000000000",
     "jad_id": "jad_occurence__190",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1251,
+        "value": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum",
+        "order": "1188.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 138,
+        "value": "BNF, lat.  3804",
+        "order": "131.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "100v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10464097v/f208.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7666,18 +7758,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-21",
-    "ms_locus": []
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 138,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat.  3804, f. 100v"
+      }
+    ]
   },
   "191": {
     "id": 191,
     "order": "184.00000000000000000000",
     "jad_id": "jad_occurence__191",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1251,
+        "value": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum",
+        "order": "1188.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 139,
+        "value": "BNF, lat. 3576",
+        "order": "132.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "73v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b100365870/f79.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7687,18 +7799,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-21",
-    "ms_locus": []
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 139,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 3576, f. 73v"
+      }
+    ]
   },
   "192": {
     "id": 192,
     "order": "185.00000000000000000000",
     "jad_id": "jad_occurence__192",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1252,
+        "value": "non flevit noster dominus destructionem murorum Iherusalem quos postea destruxerunt romani simul cum templo salomonis",
+        "order": "1189.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 139,
+        "value": "BNF, lat. 3576",
+        "order": "132.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "111v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b100365870/f117.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7708,18 +7840,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-21",
-    "ms_locus": []
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 139,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 3576, f. 111v"
+      }
+    ]
   },
   "193": {
     "id": 193,
     "order": "186.00000000000000000000",
     "jad_id": "jad_occurence__193",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 140,
+        "value": "BNF, lat.  3816",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "28v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10036994k/f30.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7729,18 +7881,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-21",
-    "ms_locus": []
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 140,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat.  3816, f. 28v"
+      }
+    ]
   },
   "194": {
     "id": 194,
     "order": "187.00000000000000000000",
     "jad_id": "jad_occurence__194",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1253,
+        "value": "videns dominus Ihesus civitatem Iherusalem, flevit super illam dicens, quia si cognovises et tu, hoc semel egit cum perituram civitatem esse nunciabat",
+        "order": "1190.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 140,
+        "value": "BNF, lat.  3816",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "27r",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10036994k/f28.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7750,18 +7922,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-21",
-    "ms_locus": []
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 140,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat.  3816, f. 27r"
+      }
+    ]
   },
   "195": {
     "id": 195,
     "order": "188.00000000000000000000",
     "jad_id": "jad_occurence__195",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 141,
+        "value": "BNF, lat.  3790",
+        "order": "134.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "32v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b9067828z/f37.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -7771,7 +7963,1970 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-21",
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 141,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat.  3790, f. 32v"
+      }
+    ]
+  },
+  "196": {
+    "id": 196,
+    "order": "189.00000000000000000000",
+    "jad_id": "jad_occurence__196",
+    "occurrence": [
+      {
+        "id": 550,
+        "value": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis",
+        "order": "539.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 142,
+        "value": "Vat., S.Maria.Magg.104",
+        "order": "135.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "223v-229v",
+    "main_ms": false,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_S.Maria.Magg.104/0451",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 142,
+          "database_table_3497": 38
+        },
+        "value": "Vat., S.Maria.Magg.104, f. 223v-229v"
+      }
+    ]
+  },
+  "197": {
+    "id": 197,
+    "order": "190.00000000000000000000",
+    "jad_id": "jad_occurence__197",
+    "occurrence": [
+      {
+        "id": 1254,
+        "value": "Dominus ac redemptor noster venit in mundo, carnem ex populo Judaeorum suscepit",
+        "order": "1191.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 144,
+        "value": "BNF, lat. 3792",
+        "order": "137.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "226v-228r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 144,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 3792, f. 226v-228r"
+      }
+    ]
+  },
+  "198": {
+    "id": 198,
+    "order": "191.00000000000000000000",
+    "jad_id": "jad_occurence__198",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 145,
+        "value": "Vat., S.Maria.Magg.3",
+        "order": "138.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "254r",
+    "main_ms": false,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_S.Maria.Magg.3/0511",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 145,
+          "database_table_3497": 38
+        },
+        "value": "Vat., S.Maria.Magg.3, f. 254r"
+      }
+    ]
+  },
+  "199": {
+    "id": 199,
+    "order": "192.00000000000000000000",
+    "jad_id": "jad_occurence__199",
+    "occurrence": [
+      {
+        "id": 1255,
+        "value": "civitatem et sanctuarium dissipabit populus cum duce venturo",
+        "order": "1192.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 146,
+        "value": "Bodl., Bodley 482",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "20v-21r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 146,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 482, f. 20v-21r"
+      }
+    ]
+  },
+  "200": {
+    "id": 200,
+    "order": "193.00000000000000000000",
+    "jad_id": "jad_occurence__200",
+    "occurrence": [
+      {
+        "id": 1256,
+        "value": "usque ad destructionem Ierusalem et templi, que a tito romanorum imperatore facta fuit",
+        "order": "1193.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 146,
+        "value": "Bodl., Bodley 482",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "22r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 146,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 482, f. 22r"
+      }
+    ]
+  },
+  "201": {
+    "id": 201,
+    "order": "194.00000000000000000000",
+    "jad_id": "jad_occurence__201",
+    "occurrence": [
+      {
+        "id": 1257,
+        "value": "vespasianus vel potius titus civitatem et templum subverteret",
+        "order": "1194.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 146,
+        "value": "Bodl., Bodley 482",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "22v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 146,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 482, f. 22v"
+      }
+    ]
+  },
+  "202": {
+    "id": 202,
+    "order": "195.00000000000000000000",
+    "jad_id": "jad_occurence__202",
+    "occurrence": [
+      {
+        "id": 1258,
+        "value": "hic romani veniens VII libros Iudaice captivitatis imperatoribus patri filioque optulit",
+        "order": "1195.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 146,
+        "value": "Bodl., Bodley 482",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "41r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 146,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 482, f. 41r"
+      }
+    ]
+  },
+  "203": {
+    "id": 203,
+    "order": "196.00000000000000000000",
+    "jad_id": "jad_occurence__203",
+    "occurrence": [
+      {
+        "id": 1259,
+        "value": "ultimo exiciabile malum temporibus vespasiane eos obsidionis inclusit",
+        "order": "1196.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 146,
+        "value": "Bodl., Bodley 482",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "42r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 146,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 482, f. 42r"
+      }
+    ]
+  },
+  "204": {
+    "id": 204,
+    "order": "197.00000000000000000000",
+    "jad_id": "jad_occurence__204",
+    "occurrence": [
+      {
+        "id": 1260,
+        "value": "hee et his similes divine vindicte post passionem Christi",
+        "order": "1197.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 146,
+        "value": "Bodl., Bodley 482",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "42v-43r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 146,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 482, f. 42v-43r"
+      }
+    ]
+  },
+  "205": {
+    "id": 205,
+    "order": "198.00000000000000000000",
+    "jad_id": "jad_occurence__205",
+    "occurrence": [
+      {
+        "id": 1261,
+        "value": "donec civitates Iudee a vespasiano titoque pugnantibus penitus subvertuntur",
+        "order": "1198.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 146,
+        "value": "Bodl., Bodley 482",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "49r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 146,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 482, f. 49r"
+      }
+    ]
+  },
+  "206": {
+    "id": 206,
+    "order": "199.00000000000000000000",
+    "jad_id": "jad_occurence__206",
+    "occurrence": [
+      {
+        "id": 1262,
+        "value": "quando a vespasiano et tito et adriano civitas obsessa",
+        "order": "1199.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 146,
+        "value": "Bodl., Bodley 482",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "51r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 146,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 482, f. 51r"
+      }
+    ]
+  },
+  "207": {
+    "id": 207,
+    "order": "200.00000000000000000000",
+    "jad_id": "jad_occurence__207",
+    "occurrence": [
+      {
+        "id": 1263,
+        "value": "??",
+        "order": "1200.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 146,
+        "value": "Bodl., Bodley 482",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "59r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 146,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 482, f. 59r"
+      }
+    ]
+  },
+  "208": {
+    "id": 208,
+    "order": "201.00000000000000000000",
+    "jad_id": "jad_occurence__208",
+    "occurrence": [
+      {
+        "id": 1264,
+        "value": "??",
+        "order": "1201.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 146,
+        "value": "Bodl., Bodley 482",
+        "order": "139.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "60v-61r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 146,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 482, f. 60v-61r"
+      }
+    ]
+  },
+  "209": {
+    "id": 209,
+    "order": "202.00000000000000000000",
+    "jad_id": "jad_occurence__209",
+    "occurrence": [
+      {
+        "id": 636,
+        "value": "Vindicta Salvatoris",
+        "order": "625.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 71,
+        "value": "Bodl., Rawlinson D 1236",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "72r-74v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 71,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Rawlinson D 1236, f. 72r-74v"
+      }
+    ]
+  },
+  "210": {
+    "id": 210,
+    "order": "203.00000000000000000000",
+    "jad_id": "jad_occurence__210",
+    "occurrence": [
+      {
+        "id": 1265,
+        "value": "",
+        "order": "1202.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 147,
+        "value": "Oxford Magd. Coll., MS 207",
+        "order": "140.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "52v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 147,
+          "database_table_3497": 14
+        },
+        "value": "Oxford Magd. Coll., MS 207, f. 52v"
+      }
+    ]
+  },
+  "211": {
+    "id": 211,
+    "order": "204.00000000000000000000",
+    "jad_id": "jad_occurence__211",
+    "occurrence": [
+      {
+        "id": 1266,
+        "value": "",
+        "order": "1203.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 147,
+        "value": "Oxford Magd. Coll., MS 207",
+        "order": "140.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "53v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 147,
+          "database_table_3497": 14
+        },
+        "value": "Oxford Magd. Coll., MS 207, f. 53v"
+      }
+    ]
+  },
+  "212": {
+    "id": 212,
+    "order": "205.00000000000000000000",
+    "jad_id": "jad_occurence__212",
+    "occurrence": [
+      {
+        "id": 1267,
+        "value": "",
+        "order": "1204.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 147,
+        "value": "Oxford Magd. Coll., MS 207",
+        "order": "140.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "83v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 147,
+          "database_table_3497": 14
+        },
+        "value": "Oxford Magd. Coll., MS 207, f. 83v"
+      }
+    ]
+  },
+  "213": {
+    "id": 213,
+    "order": "206.00000000000000000000",
+    "jad_id": "jad_occurence__213",
+    "occurrence": [
+      {
+        "id": 1268,
+        "value": "",
+        "order": "1205.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 147,
+        "value": "Oxford Magd. Coll., MS 207",
+        "order": "140.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "89v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 147,
+          "database_table_3497": 14
+        },
+        "value": "Oxford Magd. Coll., MS 207, f. 89v"
+      }
+    ]
+  },
+  "214": {
+    "id": 214,
+    "order": "207.00000000000000000000",
+    "jad_id": "jad_occurence__214",
+    "occurrence": [
+      {
+        "id": 1269,
+        "value": "",
+        "order": "1206.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 147,
+        "value": "Oxford Magd. Coll., MS 207",
+        "order": "140.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "129r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 147,
+          "database_table_3497": 14
+        },
+        "value": "Oxford Magd. Coll., MS 207, f. 129r"
+      }
+    ]
+  },
+  "215": {
+    "id": 215,
+    "order": "208.00000000000000000000",
+    "jad_id": "jad_occurence__215",
+    "occurrence": [
+      {
+        "id": 1270,
+        "value": "",
+        "order": "1207.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 148,
+        "value": "Bodl., Laud Misc. 434",
+        "order": "141.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "179v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 148,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Laud Misc. 434, f. 179v"
+      }
+    ]
+  },
+  "216": {
+    "id": 216,
+    "order": "209.00000000000000000000",
+    "jad_id": "jad_occurence__216",
+    "occurrence": [
+      {
+        "id": 1271,
+        "value": "",
+        "order": "1208.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 148,
+        "value": "Bodl., Laud Misc. 434",
+        "order": "141.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "184v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 148,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Laud Misc. 434, f. 184v"
+      }
+    ]
+  },
+  "217": {
+    "id": 217,
+    "order": "210.00000000000000000000",
+    "jad_id": "jad_occurence__217",
+    "occurrence": [
+      {
+        "id": 1272,
+        "value": "",
+        "order": "1209.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 148,
+        "value": "Bodl., Laud Misc. 434",
+        "order": "141.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "192v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 148,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Laud Misc. 434, f. 192v"
+      }
+    ]
+  },
+  "218": {
+    "id": 218,
+    "order": "211.00000000000000000000",
+    "jad_id": "jad_occurence__218",
+    "occurrence": [
+      {
+        "id": 1273,
+        "value": "",
+        "order": "1210.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 148,
+        "value": "Bodl., Laud Misc. 434",
+        "order": "141.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "194r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 148,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Laud Misc. 434, f. 194r"
+      }
+    ]
+  },
+  "219": {
+    "id": 219,
+    "order": "212.00000000000000000000",
+    "jad_id": "jad_occurence__219",
+    "occurrence": [
+      {
+        "id": 1274,
+        "value": "",
+        "order": "1211.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 148,
+        "value": "Bodl., Laud Misc. 434",
+        "order": "141.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "219r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 148,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Laud Misc. 434, f. 219r"
+      }
+    ]
+  },
+  "220": {
+    "id": 220,
+    "order": "213.00000000000000000000",
+    "jad_id": "jad_occurence__220",
+    "occurrence": [
+      {
+        "id": 1275,
+        "value": "",
+        "order": "1212.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "34r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 34r"
+      }
+    ]
+  },
+  "221": {
+    "id": 221,
+    "order": "214.00000000000000000000",
+    "jad_id": "jad_occurence__221",
+    "occurrence": [
+      {
+        "id": 1276,
+        "value": "",
+        "order": "1213.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "110v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 110v"
+      }
+    ]
+  },
+  "222": {
+    "id": 222,
+    "order": "215.00000000000000000000",
+    "jad_id": "jad_occurence__222",
+    "occurrence": [
+      {
+        "id": 1277,
+        "value": "",
+        "order": "1214.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "111v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 111v"
+      }
+    ]
+  },
+  "223": {
+    "id": 223,
+    "order": "216.00000000000000000000",
+    "jad_id": "jad_occurence__223",
+    "occurrence": [
+      {
+        "id": 1278,
+        "value": "",
+        "order": "1215.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "159r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 159r"
+      }
+    ]
+  },
+  "224": {
+    "id": 224,
+    "order": "217.00000000000000000000",
+    "jad_id": "jad_occurence__224",
+    "occurrence": [
+      {
+        "id": 1279,
+        "value": "",
+        "order": "1216.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "269v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 269v"
+      }
+    ]
+  },
+  "225": {
+    "id": 225,
+    "order": "218.00000000000000000000",
+    "jad_id": "jad_occurence__225",
+    "occurrence": [
+      {
+        "id": 1280,
+        "value": "",
+        "order": "1217.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "270v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 270v"
+      }
+    ]
+  },
+  "226": {
+    "id": 226,
+    "order": "219.00000000000000000000",
+    "jad_id": "jad_occurence__226",
+    "occurrence": [
+      {
+        "id": 1281,
+        "value": "",
+        "order": "1218.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "271v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 271v"
+      }
+    ]
+  },
+  "227": {
+    "id": 227,
+    "order": "220.00000000000000000000",
+    "jad_id": "jad_occurence__227",
+    "occurrence": [
+      {
+        "id": 1282,
+        "value": "",
+        "order": "1219.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "273v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 273v"
+      }
+    ]
+  },
+  "228": {
+    "id": 228,
+    "order": "221.00000000000000000000",
+    "jad_id": "jad_occurence__228",
+    "occurrence": [
+      {
+        "id": 1283,
+        "value": "",
+        "order": "1220.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "300v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 300v"
+      }
+    ]
+  },
+  "229": {
+    "id": 229,
+    "order": "222.00000000000000000000",
+    "jad_id": "jad_occurence__229",
+    "occurrence": [
+      {
+        "id": 1284,
+        "value": "",
+        "order": "1221.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "337v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 337v"
+      }
+    ]
+  },
+  "230": {
+    "id": 230,
+    "order": "223.00000000000000000000",
+    "jad_id": "jad_occurence__230",
+    "occurrence": [
+      {
+        "id": 1285,
+        "value": "",
+        "order": "1222.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "339r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 339r"
+      }
+    ]
+  },
+  "231": {
+    "id": 231,
+    "order": "224.00000000000000000000",
+    "jad_id": "jad_occurence__231",
+    "occurrence": [
+      {
+        "id": 1286,
+        "value": "",
+        "order": "1223.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "346r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 346r"
+      }
+    ]
+  },
+  "232": {
+    "id": 232,
+    "order": "225.00000000000000000000",
+    "jad_id": "jad_occurence__232",
+    "occurrence": [
+      {
+        "id": 1287,
+        "value": "",
+        "order": "1224.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "347v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 347v"
+      }
+    ]
+  },
+  "233": {
+    "id": 233,
+    "order": "226.00000000000000000000",
+    "jad_id": "jad_occurence__233",
+    "occurrence": [
+      {
+        "id": 1288,
+        "value": "",
+        "order": "1225.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "348v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 348v"
+      }
+    ]
+  },
+  "234": {
+    "id": 234,
+    "order": "227.00000000000000000000",
+    "jad_id": "jad_occurence__234",
+    "occurrence": [
+      {
+        "id": 1289,
+        "value": "",
+        "order": "1226.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "352v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 352v"
+      }
+    ]
+  },
+  "235": {
+    "id": 235,
+    "order": "228.00000000000000000000",
+    "jad_id": "jad_occurence__235",
+    "occurrence": [
+      {
+        "id": 1290,
+        "value": "",
+        "order": "1227.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 149,
+        "value": "Merton Coll., MS 169",
+        "order": "142.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "353v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 149,
+          "database_table_3497": 44
+        },
+        "value": "Merton Coll., MS 169, f. 353v"
+      }
+    ]
+  },
+  "236": {
+    "id": 236,
+    "order": "229.00000000000000000000",
+    "jad_id": "jad_occurence__236",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "237": {
+    "id": 237,
+    "order": "230.00000000000000000000",
+    "jad_id": "jad_occurence__237",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "238": {
+    "id": 238,
+    "order": "231.00000000000000000000",
+    "jad_id": "jad_occurence__238",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "239": {
+    "id": 239,
+    "order": "232.00000000000000000000",
+    "jad_id": "jad_occurence__239",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "240": {
+    "id": 240,
+    "order": "233.00000000000000000000",
+    "jad_id": "jad_occurence__240",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "241": {
+    "id": 241,
+    "order": "234.00000000000000000000",
+    "jad_id": "jad_occurence__241",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "242": {
+    "id": 242,
+    "order": "235.00000000000000000000",
+    "jad_id": "jad_occurence__242",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "243": {
+    "id": 243,
+    "order": "236.00000000000000000000",
+    "jad_id": "jad_occurence__243",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "244": {
+    "id": 244,
+    "order": "237.00000000000000000000",
+    "jad_id": "jad_occurence__244",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "245": {
+    "id": 245,
+    "order": "238.00000000000000000000",
+    "jad_id": "jad_occurence__245",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "246": {
+    "id": 246,
+    "order": "239.00000000000000000000",
+    "jad_id": "jad_occurence__246",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "247": {
+    "id": 247,
+    "order": "240.00000000000000000000",
+    "jad_id": "jad_occurence__247",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "248": {
+    "id": 248,
+    "order": "241.00000000000000000000",
+    "jad_id": "jad_occurence__248",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "249": {
+    "id": 249,
+    "order": "242.00000000000000000000",
+    "jad_id": "jad_occurence__249",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
+    "ms_locus": []
+  },
+  "250": {
+    "id": 250,
+    "order": "243.00000000000000000000",
+    "jad_id": "jad_occurence__250",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-22",
     "ms_locus": []
   }
 }

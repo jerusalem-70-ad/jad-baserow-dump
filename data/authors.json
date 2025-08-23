@@ -2532,6 +2532,67 @@
           "id": "jad_work__435",
           "label": "Enarrationes in Psalmos "
         }
+      },
+      {
+        "id": 450,
+        "name": "Homiliae ",
+        "jad_id": "jad_work__450",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 138,
+            "value": "BNF, lat.  3804"
+          }
+        ],
+        "title": "Homiliae",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 2,
+            "value": "12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Homiliae ",
+        "prev": {
+          "id": "jad_work__45",
+          "label": "Libri deflorationum "
+        },
+        "next": {
+          "id": "jad_work__451",
+          "label": "Homiliarium Narbonae "
+        }
       }
     ]
   },
@@ -6084,12 +6145,12 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Commentary Kings ",
         "prev": {
-          "id": "jad_work__450",
+          "id": "jad_work__459",
           "label": " "
         },
         "next": {
-          "id": "jad_work__47",
-          "label": "Sermones "
+          "id": "jad_work__460",
+          "label": " "
         }
       },
       {
@@ -8840,8 +8901,8 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Sermones ",
         "prev": {
-          "id": "jad_work__46",
-          "label": "Commentary Kings "
+          "id": "jad_work__460",
+          "label": " "
         },
         "next": {
           "id": "jad_work__49",
@@ -11649,6 +11710,62 @@
           "id": "jad_work__296",
           "label": "Sermones "
         }
+      },
+      {
+        "id": 449,
+        "name": "Tractatus LIX in psalmos ",
+        "jad_id": "jad_work__449",
+        "author": [
+          {
+            "id": 27,
+            "name": "Hieronymus, Sophronius Eusebius",
+            "jad_id": "jad_author__27",
+            "gnd_url": "https://d-nb.info/gnd/118550853",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Hieronymus | Girolamo, di Stridone | Hieronymus, Abbas | Hieronymus, Cardinalis | Jérôme, Sanctus | Saint Jérôme | Jeroným, svatý | Girolamo, Santo | Pseudo-Hieronymus | Hieronymus, Presbyterus | Sophronius Eusebius, Hieronymus | Hieronymus, Eusebius S. | Girolamo, San | Hieronymus, Kirchenvater | Hieronimus, Sanctus | Hieronymus, Sanctus | Gerolamo | Hieronymus, Eusebius | Hieronimus, Presbyter | Hieronymus, Stridoniensis | Stridone, Girolamo di | Pseudo-Jerome | Hieronymus, Scriptor Ecclesiasticus | Ieronymus, Stridonius | Hieronymus, Saint | Pseudo-Hieronymus, Sophronius Eusebius | Hieronymus, Praesbiter | Hieronymus, Divus | Hieronim, św. | Hieronymus, Presbyterius | Iheronimus | Girolamo, Sofronio Eusebio | Gerolamo, San | Hieronymus, Stridon. | Hieronim | Ieronim | Hieronim, Świe̜ty | Hieronymvs | Hieronymus Sophronius, Eusebius | Hieronymus, B. | Eusebius, Hieronymus | Hieronymus, Sophronius E. | Jérôme, Saint | Jeronim, B. lagoslovljen Stridonskij | Jeronimus, Presbite | Jerome | Girolamo | Hieronymos | Jérôme | Hieronymus, Presbyter | Hieronymus, Stridonensis | Eusebius Hieronymus Sophronius | Hieronymus, Romanus | Hieronymus, Bethlehemiticus | Hiero, Sant | Hieronymus, Stridonius | Eusebius Sophronius, Hieronymus | Hieronymus, Interpres | Di Stridone, Girolamo | Hieronymus, von Stridon | Jéronimo, San | Eusebius Hieronymus, Sanctus | Pseudo-Girolamo | Eusebius Hieronymus, Sophronius | Hieronymus, Heiliger | Hieronymus, Eusebius Sophronius",
+            "date_of_birth": "0345",
+            "date_of_death": "0420"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Tractatus LIX in psalmos",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 26,
+            "value": "around 400"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Tractatus LIX in psalmos ",
+        "prev": {
+          "id": "jad_work__448",
+          "label": "Sermones de tempore "
+        },
+        "next": {
+          "id": "jad_work__45",
+          "label": "Libri deflorationum "
+        }
       }
     ]
   },
@@ -14011,11 +14128,11 @@
         "view_label": "Libri deflorationum ",
         "prev": {
           "id": "jad_work__449",
-          "label": " "
+          "label": "Tractatus LIX in psalmos "
         },
         "next": {
           "id": "jad_work__450",
-          "label": " "
+          "label": "Homiliae "
         }
       }
     ]
@@ -18446,7 +18563,118 @@
       "id": "jad_author__79",
       "label": "Josephus Latinus / Rufinus"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 451,
+        "name": "Homiliarium Narbonae ",
+        "jad_id": "jad_work__451",
+        "author": [
+          {
+            "id": 78,
+            "name": "polygraphical",
+            "jad_id": "jad_author__78",
+            "gnd_url": "",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Homiliarium Narbonae",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Homiliarium Narbonae ",
+        "prev": {
+          "id": "jad_work__450",
+          "label": "Homiliae "
+        },
+        "next": {
+          "id": "jad_work__452",
+          "label": "Homiliae "
+        }
+      },
+      {
+        "id": 452,
+        "name": "Homiliae ",
+        "jad_id": "jad_work__452",
+        "author": [
+          {
+            "id": 78,
+            "name": "polygraphical",
+            "jad_id": "jad_author__78",
+            "gnd_url": "",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 144,
+            "value": "BNF, lat. 3792"
+          }
+        ],
+        "title": "Homiliae",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 68,
+            "value": "11th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Homiliae ",
+        "prev": {
+          "id": "jad_work__451",
+          "label": "Homiliarium Narbonae "
+        },
+        "next": {
+          "id": "jad_work__453",
+          "label": "Dialogus contra Iudaeos "
+        }
+      }
+    ]
   },
   "79": {
     "id": 79,
@@ -26437,6 +26665,67 @@
           "id": "jad_work__352",
           "label": "Gesta abbatum Trudonis "
         }
+      },
+      {
+        "id": 454,
+        "name": "Commentary Psalms ",
+        "jad_id": "jad_work__454",
+        "author": [
+          {
+            "id": 165,
+            "name": "Robertus, Pullus",
+            "jad_id": "jad_author__165",
+            "gnd_url": "https://d-nb.info/gnd/118790706",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Robertus, Roffensis | Pullus, Robertus | Robertus, Pullanus | Robert, Pullen | Robertus, Pulleyen | Robertus, Polenius | Robertus, Polonus | Robertus, Pulleyn | Robert, Pulleyn | Robert, Pullus | Robertus, Foffensis | Robertus, Paululus | Robertus, Cardinalis | Robertus, Pulleinius | Polenius, Robertus | Robert, le Poule | Paululus, Robertus | Polleyn, Robert | Robertus, Polenus",
+            "date_of_birth": "1080",
+            "date_of_death": "1146"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 147,
+            "value": "Oxford Magd. Coll., MS 207"
+          }
+        ],
+        "title": "Commentary Psalms",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 14,
+            "value": "12th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Commentary Psalms ",
+        "prev": {
+          "id": "jad_work__453",
+          "label": "Dialogus contra Iudaeos "
+        },
+        "next": {
+          "id": "jad_work__455",
+          "label": "Commentary Matthew "
+        }
       }
     ]
   },
@@ -30555,6 +30844,250 @@
           "id": "jad_work__434",
           "label": "Sermones "
         }
+      },
+      {
+        "id": 455,
+        "name": "Commentary Matthew ",
+        "jad_id": "jad_work__455",
+        "author": [
+          {
+            "id": 211,
+            "name": "Nicolaus, de Gorran",
+            "jad_id": "jad_author__211",
+            "gnd_url": "https://d-nb.info/gnd/100954812",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Nicolas, de Gorran | Nicolaus, de Gorgant | Nicolaus, de Gorham | Nicolaus, Gorranus | Gorra, Nicolaus de | Gorranus, Nicolaus | Nicolaus aus Gorran | Nicolas, de Tournai | Nicolaus, Cenomanensis | Nicolaus, de Gorrant | Nicolaus, de Gorram | Nicolaus, Gorraeus | Gorrain, Nicolaus de | Nicolaus, Gorraus | Nicolaus, Tornacensis | Nicolaus, Gorhamus | Nicolaus, Gallus | Nicolaus, Gorrenc | Nicolaus, Sanderus | Nicolaus, de Gorran | Nicolaus, du Mans | Nicolas, de Mans | Nikolaus, von Gorran | Nicolaus, de Gorron | Nicolaus, de Gorena | Nicolaus, de Marinis",
+            "date_of_birth": "1210",
+            "date_of_death": "1295"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 148,
+            "value": "Bodl., Laud Misc. 434"
+          }
+        ],
+        "title": "Commentary Matthew",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Commentary Matthew ",
+        "prev": {
+          "id": "jad_work__454",
+          "label": "Commentary Psalms "
+        },
+        "next": {
+          "id": "jad_work__456",
+          "label": "Commentary Ezekiel "
+        }
+      },
+      {
+        "id": 456,
+        "name": "Commentary Ezekiel ",
+        "jad_id": "jad_work__456",
+        "author": [
+          {
+            "id": 211,
+            "name": "Nicolaus, de Gorran",
+            "jad_id": "jad_author__211",
+            "gnd_url": "https://d-nb.info/gnd/100954812",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Nicolas, de Gorran | Nicolaus, de Gorgant | Nicolaus, de Gorham | Nicolaus, Gorranus | Gorra, Nicolaus de | Gorranus, Nicolaus | Nicolaus aus Gorran | Nicolas, de Tournai | Nicolaus, Cenomanensis | Nicolaus, de Gorrant | Nicolaus, de Gorram | Nicolaus, Gorraeus | Gorrain, Nicolaus de | Nicolaus, Gorraus | Nicolaus, Tornacensis | Nicolaus, Gorhamus | Nicolaus, Gallus | Nicolaus, Gorrenc | Nicolaus, Sanderus | Nicolaus, de Gorran | Nicolaus, du Mans | Nicolas, de Mans | Nikolaus, von Gorran | Nicolaus, de Gorron | Nicolaus, de Gorena | Nicolaus, de Marinis",
+            "date_of_birth": "1210",
+            "date_of_death": "1295"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 149,
+            "value": "Merton Coll., MS 169"
+          }
+        ],
+        "title": "Commentary Ezekiel",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Commentary Ezekiel ",
+        "prev": {
+          "id": "jad_work__455",
+          "label": "Commentary Matthew "
+        },
+        "next": {
+          "id": "jad_work__457",
+          "label": "Commentary Daniel "
+        }
+      },
+      {
+        "id": 457,
+        "name": "Commentary Daniel ",
+        "jad_id": "jad_work__457",
+        "author": [
+          {
+            "id": 211,
+            "name": "Nicolaus, de Gorran",
+            "jad_id": "jad_author__211",
+            "gnd_url": "https://d-nb.info/gnd/100954812",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Nicolas, de Gorran | Nicolaus, de Gorgant | Nicolaus, de Gorham | Nicolaus, Gorranus | Gorra, Nicolaus de | Gorranus, Nicolaus | Nicolaus aus Gorran | Nicolas, de Tournai | Nicolaus, Cenomanensis | Nicolaus, de Gorrant | Nicolaus, de Gorram | Nicolaus, Gorraeus | Gorrain, Nicolaus de | Nicolaus, Gorraus | Nicolaus, Tornacensis | Nicolaus, Gorhamus | Nicolaus, Gallus | Nicolaus, Gorrenc | Nicolaus, Sanderus | Nicolaus, de Gorran | Nicolaus, du Mans | Nicolas, de Mans | Nikolaus, von Gorran | Nicolaus, de Gorron | Nicolaus, de Gorena | Nicolaus, de Marinis",
+            "date_of_birth": "1210",
+            "date_of_death": "1295"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 149,
+            "value": "Merton Coll., MS 169"
+          }
+        ],
+        "title": "Commentary Daniel",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Commentary Daniel ",
+        "prev": {
+          "id": "jad_work__456",
+          "label": "Commentary Ezekiel "
+        },
+        "next": {
+          "id": "jad_work__458",
+          "label": "Commentary Twelve Minor Prophets "
+        }
+      },
+      {
+        "id": 458,
+        "name": "Commentary Twelve Minor Prophets ",
+        "jad_id": "jad_work__458",
+        "author": [
+          {
+            "id": 211,
+            "name": "Nicolaus, de Gorran",
+            "jad_id": "jad_author__211",
+            "gnd_url": "https://d-nb.info/gnd/100954812",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Nicolas, de Gorran | Nicolaus, de Gorgant | Nicolaus, de Gorham | Nicolaus, Gorranus | Gorra, Nicolaus de | Gorranus, Nicolaus | Nicolaus aus Gorran | Nicolas, de Tournai | Nicolaus, Cenomanensis | Nicolaus, de Gorrant | Nicolaus, de Gorram | Nicolaus, Gorraeus | Gorrain, Nicolaus de | Nicolaus, Gorraus | Nicolaus, Tornacensis | Nicolaus, Gorhamus | Nicolaus, Gallus | Nicolaus, Gorrenc | Nicolaus, Sanderus | Nicolaus, de Gorran | Nicolaus, du Mans | Nicolas, de Mans | Nikolaus, von Gorran | Nicolaus, de Gorron | Nicolaus, de Gorena | Nicolaus, de Marinis",
+            "date_of_birth": "1210",
+            "date_of_death": "1295"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 149,
+            "value": "Merton Coll., MS 169"
+          }
+        ],
+        "title": "Commentary Twelve Minor Prophets",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Commentary Twelve Minor Prophets ",
+        "prev": {
+          "id": "jad_work__457",
+          "label": "Commentary Daniel "
+        },
+        "next": {
+          "id": "jad_work__459",
+          "label": " "
+        }
       }
     ]
   },
@@ -31446,7 +31979,7 @@
     },
     "next": {
       "id": "jad_author__223",
-      "label": ""
+      "label": "Bartholomew, Exoniensis (of Exeter)"
     },
     "related__works": [
       {
@@ -31527,22 +32060,22 @@
         },
         "next": {
           "id": "jad_work__449",
-          "label": " "
+          "label": "Tractatus LIX in psalmos "
         }
       }
     ]
   },
   "223": {
     "id": 223,
-    "name": "",
+    "name": "Bartholomew, Exoniensis (of Exeter)",
     "jad_id": "jad_author__223",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/119559692",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "view_label": "",
+    "alt_name": "Bartholomew, of Exeter | Bartholomaeus, Iscanus | Bartholomew, Canonis | Bartholomaeus von Exeter, Bischof, England | Bartholomaeus, Episcopus | Bartholomaeus, von Exeter | Bartholomaeus Exoniensis, Bischof, England | Bartholomew, Bishop | Bartholomew of Exeter, Bischof, England | Barthélemy, du Mont-Saint-Michel | Barthélemy, d'Exeter",
+    "date_of_birth": "1110",
+    "date_of_death": "1184",
+    "view_label": "Bartholomew, Exoniensis (of Exeter)",
     "prev": {
       "id": "jad_author__222",
       "label": "Petrus, Salinerii (Saugnier)"
@@ -31551,7 +32084,69 @@
       "id": "jad_author__224",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 453,
+        "name": "Dialogus contra Iudaeos ",
+        "jad_id": "jad_work__453",
+        "author": [
+          {
+            "id": 223,
+            "name": "Bartholomew, Exoniensis (of Exeter)",
+            "jad_id": "jad_author__223",
+            "gnd_url": "https://d-nb.info/gnd/119559692",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Bartholomew, of Exeter | Bartholomaeus, Iscanus | Bartholomew, Canonis | Bartholomaeus von Exeter, Bischof, England | Bartholomaeus, Episcopus | Bartholomaeus, von Exeter | Bartholomaeus Exoniensis, Bischof, England | Bartholomew, Bishop | Bartholomew of Exeter, Bischof, England | Barthélemy, du Mont-Saint-Michel | Barthélemy, d'Exeter",
+            "date_of_birth": "1110",
+            "date_of_death": "1184"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 146,
+            "value": "Bodl., Bodley 482"
+          }
+        ],
+        "title": "Dialogus contra Iudaeos",
+        "genre": {
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 14,
+            "value": "12th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "Quamvis fides catholica prima sit et omnino gratuita divine vocationis gratia, nec merito comperari, nec humana valeat ratione probari, non nullis tamen adiumentis, et suscipienda prevenitur, et suscepta roboratur, quorum primum est mundane fabrice machina, cuius creatio et gubernatio si intellectorem habeant opificis sui omnipotentia summamque sapientiam et benignitatem fideliter et mirabiliter eloquuntur",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Dialogus contra Iudaeos ",
+        "prev": {
+          "id": "jad_work__452",
+          "label": "Homiliae "
+        },
+        "next": {
+          "id": "jad_work__454",
+          "label": "Commentary Psalms "
+        }
+      }
+    ]
   },
   "224": {
     "id": 224,
@@ -31566,7 +32161,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__223",
-      "label": ""
+      "label": "Bartholomew, Exoniensis (of Exeter)"
     },
     "next": {
       "id": "jad_author__225",
