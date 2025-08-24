@@ -216,7 +216,13 @@
     "jad_id": "jad_library__15",
     "gnd_url": "https://d-nb.info/gnd/1052474-5",
     "full_name": "Bibliothèque municipale (Valenciennes)",
-    "place": []
+    "place": [
+      {
+        "id": 21,
+        "value": "Valenciennes",
+        "order": "21.00000000000000000000"
+      }
+    ]
   },
   "16": {
     "id": 16,
@@ -270,7 +276,13 @@
     "jad_id": "jad_library__19",
     "gnd_url": "https://d-nb.info/gnd/1086213467",
     "full_name": "Frankfurt, Universitatsbibliothek",
-    "place": []
+    "place": [
+      {
+        "id": 22,
+        "value": "Frankfurt am Main",
+        "order": "22.00000000000000000000"
+      }
+    ]
   },
   "20": {
     "id": 20,
@@ -279,7 +291,13 @@
     "jad_id": "jad_library__20",
     "gnd_url": "https://d-nb.info/gnd/2067369-3",
     "full_name": "Sankt-Florian, Stiftsbibliothek",
-    "place": []
+    "place": [
+      {
+        "id": 23,
+        "value": "Sankt Florian",
+        "order": "23.00000000000000000000"
+      }
+    ]
   },
   "21": {
     "id": 21,
@@ -288,7 +306,13 @@
     "jad_id": "jad_library__21",
     "gnd_url": "https://d-nb.info/gnd/4372903-4",
     "full_name": "Linz, Oberösterreichische Landesbibliothek",
-    "place": []
+    "place": [
+      {
+        "id": 24,
+        "value": "Linz",
+        "order": "24.00000000000000000000"
+      }
+    ]
   },
   "22": {
     "id": 22,
@@ -297,7 +321,13 @@
     "jad_id": "jad_library__22",
     "gnd_url": "https://d-nb.info/gnd/2022508-8",
     "full_name": "Hamburg, Stadt- und Universitatsbibliothek",
-    "place": []
+    "place": [
+      {
+        "id": 25,
+        "value": "Hamburg",
+        "order": "25.00000000000000000000"
+      }
+    ]
   },
   "23": {
     "id": 23,
@@ -351,7 +381,13 @@
     "jad_id": "jad_library__27",
     "gnd_url": "https://d-nb.info/gnd/2005707-6",
     "full_name": "Karlsruhe, Badische Landesbibliothek",
-    "place": []
+    "place": [
+      {
+        "id": 26,
+        "value": "Karlsruhe",
+        "order": "26.00000000000000000000"
+      }
+    ]
   },
   "28": {
     "id": 28,
@@ -360,7 +396,13 @@
     "jad_id": "jad_library__28",
     "gnd_url": "https://d-nb.info/gnd/671818-8",
     "full_name": "Lyon, Bibliothèque Municipale",
-    "place": []
+    "place": [
+      {
+        "id": 27,
+        "value": "Lyon",
+        "order": "27.00000000000000000000"
+      }
+    ]
   },
   "29": {
     "id": 29,
@@ -399,7 +441,13 @@
     "jad_id": "jad_library__31",
     "gnd_url": "https://d-nb.info/gnd/411822-4",
     "full_name": "Bibliothèque Municipale (Saint-Omer)",
-    "place": []
+    "place": [
+      {
+        "id": 28,
+        "value": "Saint Omer",
+        "order": "28.00000000000000000000"
+      }
+    ]
   },
   "32": {
     "id": 32,
@@ -513,7 +561,13 @@
     "jad_id": "jad_library__39",
     "gnd_url": "https://d-nb.info/gnd/1084108-8",
     "full_name": "Biblioteca Francescana (Assisi)",
-    "place": []
+    "place": [
+      {
+        "id": 29,
+        "value": "Assisi",
+        "order": "29.00000000000000000000"
+      }
+    ]
   },
   "40": {
     "id": 40,
@@ -548,38 +602,62 @@
   "42": {
     "id": 42,
     "order": "36.00000000000000000000",
-    "value": "Univ.bibl. Freiburg",
+    "value": "Freiburg",
     "jad_id": "jad_library__42",
     "gnd_url": "https://d-nb.info/gnd/31816-4",
     "full_name": "Universitätsbibliothek Freiburg",
-    "place": []
+    "place": [
+      {
+        "id": 30,
+        "value": "Freiburg im Breisgau",
+        "order": "30.00000000000000000000"
+      }
+    ]
   },
   "43": {
     "id": 43,
     "order": "37.00000000000000000000",
     "value": "Toulouse",
     "jad_id": "jad_library__43",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/1045001-4",
     "full_name": "Toulouse, Bibliothèque Municipale",
-    "place": []
+    "place": [
+      {
+        "id": 31,
+        "value": "Toulouse",
+        "order": "31.00000000000000000000"
+      }
+    ]
   },
   "44": {
     "id": 44,
     "order": "38.00000000000000000000",
     "value": "Merton Coll.",
     "jad_id": "jad_library__44",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/811050-5",
     "full_name": "Merton College (Oxford)",
-    "place": []
+    "place": [
+      {
+        "id": 6,
+        "value": "Oxford",
+        "order": "6.00000000000000000000"
+      }
+    ]
   },
   "45": {
     "id": 45,
     "order": "39.00000000000000000000",
-    "value": "",
+    "value": "Schaffhausen",
     "jad_id": "jad_library__45",
-    "gnd_url": "",
-    "full_name": "",
-    "place": []
+    "gnd_url": "https://d-nb.info/gnd/2022810-7",
+    "full_name": "Schaffhausen, Stadtbibliothek",
+    "place": [
+      {
+        "id": 32,
+        "value": "Schaffhausen",
+        "order": "32.00000000000000000000"
+      }
+    ]
   },
   "46": {
     "id": 46,

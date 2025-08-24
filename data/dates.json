@@ -124,7 +124,7 @@
     },
     "next": {
       "id": "jad_date__80",
-      "label": ""
+      "label": "6th cen."
     }
   },
   "9": {
@@ -135,7 +135,7 @@
     "jad_id": "jad_date__9",
     "view_label": "around 1200",
     "prev": {
-      "id": "jad_date__80",
+      "id": "jad_date__85",
       "label": ""
     },
     "next": {
@@ -1265,14 +1265,94 @@
   },
   "80": {
     "id": 80,
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "6th cen.",
+    "not_before": "501",
+    "not_after": "600",
     "jad_id": "jad_date__80",
-    "view_label": "",
+    "view_label": "6th cen.",
     "prev": {
       "id": "jad_date__8",
       "label": "late 9th cen."
+    },
+    "next": {
+      "id": "jad_date__81",
+      "label": "mid 3rd cen."
+    }
+  },
+  "81": {
+    "id": 81,
+    "name": "mid 3rd cen.",
+    "not_before": "231",
+    "not_after": "270",
+    "jad_id": "jad_date__81",
+    "view_label": "mid 3rd cen.",
+    "prev": {
+      "id": "jad_date__80",
+      "label": "6th cen."
+    },
+    "next": {
+      "id": "jad_date__82",
+      "label": "4th cen"
+    }
+  },
+  "82": {
+    "id": 82,
+    "name": "4th cen",
+    "not_before": "301",
+    "not_after": "400",
+    "jad_id": "jad_date__82",
+    "view_label": "4th cen",
+    "prev": {
+      "id": "jad_date__81",
+      "label": "mid 3rd cen."
+    },
+    "next": {
+      "id": "jad_date__83",
+      "label": ""
+    }
+  },
+  "83": {
+    "id": 83,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__83",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__82",
+      "label": "4th cen"
+    },
+    "next": {
+      "id": "jad_date__84",
+      "label": ""
+    }
+  },
+  "84": {
+    "id": 84,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__84",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__83",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_date__85",
+      "label": ""
+    }
+  },
+  "85": {
+    "id": 85,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__85",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__84",
+      "label": ""
     },
     "next": {
       "id": "jad_date__9",

@@ -19,8 +19,8 @@
     "jad_id": "jad_cluster__2",
     "view_label": "Third Crusade",
     "prev": {
-      "id": "jad_cluster__10",
-      "label": "Capture of Acre (1291)"
+      "id": "jad_cluster__12",
+      "label": ""
     },
     "next": {
       "id": "jad_cluster__3",
@@ -133,6 +133,34 @@
     "prev": {
       "id": "jad_cluster__1",
       "label": "First Crusade"
+    },
+    "next": {
+      "id": "jad_cluster__11",
+      "label": ""
+    }
+  },
+  "11": {
+    "id": 11,
+    "name": "",
+    "jad_id": "jad_cluster__11",
+    "view_label": "",
+    "prev": {
+      "id": "jad_cluster__10",
+      "label": "Capture of Acre (1291)"
+    },
+    "next": {
+      "id": "jad_cluster__12",
+      "label": ""
+    }
+  },
+  "12": {
+    "id": 12,
+    "name": "",
+    "jad_id": "jad_cluster__12",
+    "view_label": "",
+    "prev": {
+      "id": "jad_cluster__11",
+      "label": ""
     },
     "next": {
       "id": "jad_cluster__2",

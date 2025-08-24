@@ -497,7 +497,7 @@
         },
         "next": {
           "id": "jad_manuscript__150",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Schaffhausen, Min. 70"
         }
       },
       {
@@ -945,7 +945,12 @@
             ]
           }
         ],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
         "format": null,
         "library_full": [
           {
@@ -2018,7 +2023,7 @@
         ],
         "idno": "Cod. 1014",
         "catalog_url": "https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma21302484910003338&context=L&vid=ONB&lang=de_DE&search_scope=ONB_gesamtbestand&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,cod.%201014&mode=basic",
-        "digi_url": "https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8518292&order=1&view=SINGLE",
+        "digi_url": "https://viewer.onb.ac.at/1131D51A/",
         "institutional_context": [
           {
             "id": 20,

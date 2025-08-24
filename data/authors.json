@@ -869,7 +869,12 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -970,7 +975,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 5,
@@ -980,7 +985,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "Duparc-Quioc (Paris 1977)",
         "view_label": "Chanson d'Antioche ",
         "prev": {
           "id": "jad_work__106",
@@ -1351,7 +1356,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 3,
@@ -1566,7 +1571,12 @@
             "date_of_death": null
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 78,
+            "value": "BL, Arundel 231/2"
+          }
+        ],
         "title": "Sermones",
         "genre": {
           "id": 14726,
@@ -1986,7 +1996,11 @@
         ],
         "manuscripts": [],
         "title": "Excerptiones allegoricae (PL 177)",
-        "genre": null,
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
@@ -2593,6 +2607,67 @@
           "id": "jad_work__451",
           "label": "Homiliarium Narbonae "
         }
+      },
+      {
+        "id": 460,
+        "name": "Lectionarius de tempore ",
+        "jad_id": "jad_work__460",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 152,
+            "value": "Karlsruhe, Aug. perg. 13"
+          }
+        ],
+        "title": "Lectionarius de tempore",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Lectionarius de tempore ",
+        "prev": {
+          "id": "jad_work__46",
+          "label": "Commentary Kings "
+        },
+        "next": {
+          "id": "jad_work__461",
+          "label": "Postilla in Lucam "
+        }
       }
     ]
   },
@@ -3167,7 +3242,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -3272,7 +3354,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -3361,7 +3450,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "110",
         "view_label": "Sermones ",
         "prev": {
           "id": "jad_work__49",
@@ -3417,7 +3506,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "109",
         "view_label": "Commentary Maccabees ",
         "prev": {
           "id": "jad_work__1",
@@ -3473,7 +3562,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "109",
         "view_label": "Commentary Kings ",
         "prev": {
           "id": "jad_work__279",
@@ -4472,7 +4561,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "92",
         "view_label": "Commentary Luke ",
         "prev": {
           "id": "jad_work__59",
@@ -5209,9 +5298,21 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
-        "date_certainty": false,
-        "date": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -5605,7 +5706,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "198",
         "view_label": "Sermones ",
         "prev": {
           "id": "jad_work__89",
@@ -6146,11 +6247,11 @@
         "view_label": "Commentary Kings ",
         "prev": {
           "id": "jad_work__459",
-          "label": " "
+          "label": "Expositio super Psalmos "
         },
         "next": {
           "id": "jad_work__460",
-          "label": " "
+          "label": "Lectionarius de tempore "
         }
       },
       {
@@ -8239,7 +8340,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "120",
         "view_label": "Commentary Matthew ",
         "prev": {
           "id": "jad_work__289",
@@ -8901,12 +9002,12 @@
         "volume_edition_or_individual_editor": null,
         "view_label": "Sermones ",
         "prev": {
-          "id": "jad_work__460",
+          "id": "jad_work__469",
           "label": " "
         },
         "next": {
-          "id": "jad_work__49",
-          "label": "Fragmenta ex aurora "
+          "id": "jad_work__470",
+          "label": " "
         }
       },
       {
@@ -8936,7 +9037,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -9624,7 +9732,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "155",
         "view_label": "Historia Hierosolymitana ",
         "prev": {
           "id": "jad_work__249",
@@ -9811,7 +9919,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "116",
         "view_label": "Commentary Isaiah ",
         "prev": {
           "id": "jad_work__259",
@@ -9887,7 +9995,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "118",
         "view_label": "Sermones ",
         "prev": {
           "id": "jad_work__269",
@@ -11629,7 +11737,11 @@
         ],
         "manuscripts": [],
         "title": "De situ locorum",
-        "genre": null,
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
@@ -11972,7 +12084,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 25,
@@ -12091,7 +12203,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 19,
@@ -12167,7 +12279,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 19,
@@ -12379,7 +12491,14 @@
             "place": []
           }
         ],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -12438,7 +12557,14 @@
             "place": []
           }
         ],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -12585,7 +12711,14 @@
             "place": []
           }
         ],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -12762,8 +12895,13 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -12805,9 +12943,21 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
-        "date_certainty": false,
-        "date": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -13272,7 +13422,7 @@
         "notes__author": "",
         "institutional_context": [],
         "published_edition": [],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 21,
@@ -13668,7 +13818,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 3,
@@ -13724,7 +13874,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 3,
@@ -13780,7 +13930,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 3,
@@ -13836,7 +13986,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 3,
@@ -13892,7 +14042,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 3,
@@ -13953,7 +14103,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 3,
@@ -14032,7 +14182,12 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 16,
+            "value": "9th cen., second half"
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -14192,16 +14347,21 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": null,
         "view_label": "Fragmenta ex aurora ",
         "prev": {
-          "id": "jad_work__47",
-          "label": "Sermones "
+          "id": "jad_work__472",
+          "label": " "
         },
         "next": {
           "id": "jad_work__5",
@@ -14516,7 +14676,12 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 82,
+            "value": "4th cen"
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -14803,10 +14968,10 @@
         ],
         "published_edition": [
           {
-            "id": 12,
-            "name": "Other edition",
-            "jad_id": "jad_sources_occurrences__12",
-            "digi_url": ""
+            "id": 13,
+            "name": "Glossa Ordinaria (online)",
+            "jad_id": "jad_sources_occurrences__13",
+            "digi_url": "https://gloss-e.irht.cnrs.fr/php/livres-liste.php?id=glo"
           }
         ],
         "date_certainty": true,
@@ -14887,8 +15052,13 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 7,
+            "value": "mid 9th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -15038,8 +15208,13 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 15,
+            "value": "9th cen., first half"
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -15111,8 +15286,13 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 60,
+            "value": "mid 10th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -15314,7 +15494,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 27,
@@ -15380,7 +15560,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 27,
@@ -15458,7 +15638,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 10,
@@ -15536,7 +15716,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 7,
@@ -15592,7 +15772,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 7,
@@ -16638,7 +16818,12 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 7,
+            "value": "mid 9th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -16702,7 +16887,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -16759,8 +16951,13 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -16885,9 +17082,21 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
-        "date_certainty": false,
-        "date": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 7,
+            "value": "mid 9th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -16951,7 +17160,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -17001,8 +17217,13 @@
         "notes__author": "",
         "institutional_context": [],
         "published_edition": [],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -17188,7 +17409,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 39,
@@ -17690,7 +17911,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "Marschner",
         "view_label": "De sex aetatibus mundi ",
         "prev": {
           "id": "jad_work__19",
@@ -18159,7 +18380,7 @@
         "notes__author": "",
         "institutional_context": [],
         "published_edition": [],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 44,
@@ -18229,9 +18450,21 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
-        "date_certainty": false,
-        "date": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 25,
+            "value": "late 6th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -18303,7 +18536,7 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 5,
@@ -18581,7 +18814,12 @@
             "date_of_death": null
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 140,
+            "value": "BNF, lat.  3816"
+          }
+        ],
         "title": "Homiliarium Narbonae",
         "genre": {
           "id": 14726,
@@ -18591,7 +18829,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -18732,7 +18977,12 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 66,
+            "value": "late 4th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
@@ -18834,7 +19084,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 3,
@@ -18895,7 +19145,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 3,
@@ -19209,7 +19459,12 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 6,
+            "value": "early 9th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": false,
         "incipit": "",
@@ -19222,6 +19477,67 @@
         "next": {
           "id": "jad_work__379",
           "label": "Sermones de tempore "
+        }
+      },
+      {
+        "id": 459,
+        "name": "Expositio super Psalmos ",
+        "jad_id": "jad_work__459",
+        "author": [
+          {
+            "id": 82,
+            "name": "Walafrid, Strabo",
+            "jad_id": "jad_author__82",
+            "gnd_url": "https://d-nb.info/gnd/118628550",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Strabus, Gallus | Strabus, Walahfrid | Walafrid, Strabus | Strabus, Walafridus | Valafrido, Strabone | Strabo, Walafridus | Gualafridus, Strabus Fuldensis | Strabus, Fuldensis | Strabo, Walafrid | Walahfridus, Strabo | Walafried, Strabo | Strabo, Walahfridus | Walafridus, Strabus | Walahfrid, von der Reichenau | Strabus, Fulgensis | Walafridus, Strabo | Strabo, Gallus | Walahfrid, Strabo | Galfredus, Reichnauvensis | Walafried, von Reichenau | Walafridus Strabo | Strabo, Walahfrid | Strabus von Fulda | Walahfriedus, Strabo | Walafrid, Strabon",
+            "date_of_birth": "0808",
+            "date_of_death": "0849"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 151,
+            "value": "Karlsruhe, Aug. perg. 192"
+          }
+        ],
+        "title": "Expositio super Psalmos",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 6,
+            "value": "early 9th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Expositio super Psalmos ",
+        "prev": {
+          "id": "jad_work__458",
+          "label": "Commentary Twelve Minor Prophets "
+        },
+        "next": {
+          "id": "jad_work__46",
+          "label": "Commentary Kings "
         }
       }
     ]
@@ -19487,7 +19803,11 @@
         ],
         "manuscripts": [],
         "title": "De institutione clericorum",
-        "genre": null,
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
@@ -19499,8 +19819,13 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 14,
+            "value": "12th cen., second half"
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -20778,7 +21103,12 @@
             "date_of_death": "1291"
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 73,
+            "value": "Cambr. Univ. Libr., Ii.VI.44"
+          }
+        ],
         "title": "Sermones",
         "genre": {
           "id": 14726,
@@ -20860,7 +21190,12 @@
             "date_of_death": "1213"
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 74,
+            "value": "Cambr. Univ. Libr., Dd.IV.27"
+          }
+        ],
         "title": "Sermones",
         "genre": {
           "id": 14726,
@@ -21237,7 +21572,12 @@
         "institutional_context": [],
         "published_edition": [],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 80,
+            "value": "6th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": false,
         "incipit": "",
@@ -21733,7 +22073,7 @@
             "digi_url": "https://www.dmgh.de/"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 3,
@@ -22252,7 +22592,16 @@
             "date_of_death": "1272-12-14"
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 79,
+            "value": "BSB, Clm 5531"
+          },
+          {
+            "id": 127,
+            "value": "Freiburg, MS 152"
+          }
+        ],
         "title": "Sermones rusticani de dominicis",
         "genre": {
           "id": 14726,
@@ -23040,8 +23389,13 @@
         "notes__author": "",
         "institutional_context": [],
         "published_edition": [],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 59,
+            "value": "mid 4th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -23793,7 +24147,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -24155,7 +24516,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -24166,7 +24534,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 5, 1897",
         "view_label": "Commentaria in psalmos ",
         "prev": {
           "id": "jad_work__301",
@@ -24204,7 +24572,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -24215,7 +24590,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 18 (1899",
         "view_label": "Dialogion de fide catholica ",
         "prev": {
           "id": "jad_work__302",
@@ -24253,7 +24628,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -24264,7 +24646,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 14, 1901",
         "view_label": "Enarratio in Actus Apostolorum ",
         "prev": {
           "id": "jad_work__303",
@@ -24302,7 +24684,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -24313,7 +24702,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 9, 1900",
         "view_label": "Enarratio in Baruch prophetam ",
         "prev": {
           "id": "jad_work__304",
@@ -24351,7 +24740,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -24362,7 +24758,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 10, 1900",
         "view_label": "Enarratio in Danielem prophetam ",
         "prev": {
           "id": "jad_work__305",
@@ -24400,7 +24796,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -24411,7 +24814,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 11, 1900",
         "view_label": "Enarratio in evangelium secundum Lucam ",
         "prev": {
           "id": "jad_work__306",
@@ -24783,7 +25186,7 @@
         "notes__author": "",
         "institutional_context": [],
         "published_edition": [],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 18,
@@ -25479,7 +25882,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -25550,7 +25960,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -26412,7 +26829,20 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          },
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -26488,7 +26918,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -26709,8 +27146,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 14,
-            "value": "12th cen., second half"
+            "id": 13,
+            "value": "12th cen., first half"
           }
         ],
         "link_digital_editions": "",
@@ -26863,7 +27300,12 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 58,
+            "value": "5th cen., first half"
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -26935,8 +27377,13 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 26,
+            "value": "around 400"
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -27000,7 +27447,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -27491,7 +27945,12 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 81,
+            "value": "mid 3rd cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": false,
         "incipit": "",
@@ -27687,8 +28146,13 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
-        "date": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 66,
+            "value": "late 4th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": false,
         "incipit": "",
@@ -27752,8 +28216,15 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
-        "date_certainty": false,
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
         "date": [
           {
             "id": 47,
@@ -27763,7 +28234,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "ed. John Sherren Brewer, 1859",
         "view_label": "Compendium studii philosophiae ",
         "prev": {
           "id": "jad_work__380",
@@ -27801,8 +28272,15 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
-        "date_certainty": false,
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
         "date": [
           {
             "id": 47,
@@ -27812,7 +28290,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "ed. E. Massa, 1953",
         "view_label": "Operis maioris pars VII (Moralis philosophia) ",
         "prev": {
           "id": "jad_work__381",
@@ -28029,7 +28507,7 @@
         "notes__author": "",
         "institutional_context": [],
         "published_edition": [],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 71,
@@ -28235,7 +28713,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 21,
@@ -28295,7 +28773,12 @@
             "date_of_death": "1246"
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 88,
+            "value": "Bibl. Casanatense, MS 178"
+          }
+        ],
         "title": "Sermones dominicales",
         "genre": {
           "id": 14726,
@@ -28313,7 +28796,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 20,
@@ -28564,6 +29047,67 @@
           "id": "jad_work__443",
           "label": "Sermones de tempore "
         }
+      },
+      {
+        "id": 461,
+        "name": "Postilla in Lucam ",
+        "jad_id": "jad_work__461",
+        "author": [
+          {
+            "id": 183,
+            "name": "Johannes, de Rupella (de la Rochelle)",
+            "jad_id": "jad_author__183",
+            "gnd_url": "https://lobid.org/gnd/100949274",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Johannes, de la Rochelle | John, de Rupella | Johannes, von LaRochelle | Rochelle, Giovanni della | Jean, de LaRochelle | Jean, de la Rochelle | John, de la Rochelle | Johannes, von la Rochelle | Rupella, Johannes de | Johannes, von La Rochelle | Jean, de la Rochelle, OFM | Rochelle, John de la | La Rochelle, John de | Johannes, de Rupella, OFM | LaRochelle, John de | Johannes, von Rupella | Johannes, Petragoricensis | La Rochelle, Jean de | LaRochelle, Jean de | Giovanni, della Rochelle",
+            "date_of_birth": "1200",
+            "date_of_death": "1245"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 92,
+            "value": "Bodl., Bodley 412"
+          }
+        ],
+        "title": "Postilla in Lucam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Postilla in Lucam ",
+        "prev": {
+          "id": "jad_work__460",
+          "label": "Lectionarius de tempore "
+        },
+        "next": {
+          "id": "jad_work__462",
+          "label": " "
+        }
       }
     ]
   },
@@ -28619,9 +29163,21 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
-        "date_certainty": false,
-        "date": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 43,
+            "value": "14th cen."
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -28690,7 +29246,14 @@
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
-        "published_edition": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
         "date_certainty": true,
         "date": [
           {
@@ -28985,7 +29548,12 @@
             "date_of_death": "1273"
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 95,
+            "value": "Dominican Archive, XIV.34"
+          }
+        ],
         "title": "Sermones de tempore",
         "genre": {
           "id": 14726,
@@ -29081,7 +29649,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
             "id": 17,
@@ -29300,7 +29868,7 @@
         "manuscripts": [
           {
             "id": 100,
-            "value": "Univ.bibl. Freiburg, MS 111"
+            "value": "Freiburg, MS 111"
           }
         ],
         "title": "Sermones de tempore",
@@ -30552,7 +31120,12 @@
             "date_of_death": ""
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 106,
+            "value": "Vat., Pal. lat. 440"
+          }
+        ],
         "title": "Sermones de tempore",
         "genre": {
           "id": 14726,
@@ -30728,7 +31301,12 @@
             "date_of_death": ""
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 107,
+            "value": "BSB, Clm 13446"
+          }
+        ],
         "title": "Sermones de festis dominicalibus",
         "genre": {
           "id": 14726,
@@ -31086,7 +31664,7 @@
         },
         "next": {
           "id": "jad_work__459",
-          "label": " "
+          "label": "Expositio super Psalmos "
         }
       }
     ]
@@ -31128,7 +31706,12 @@
             "date_of_death": ""
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 110,
+            "value": "Vat., Vat. lat. 1253"
+          }
+        ],
         "title": "Sermones de tempore",
         "genre": {
           "id": 14726,
@@ -31206,7 +31789,12 @@
             "date_of_death": "1285"
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 115,
+            "value": "Assisi, MS 462"
+          }
+        ],
         "title": "Sermones de tempore",
         "genre": {
           "id": 14726,
@@ -31284,7 +31872,12 @@
             "date_of_death": ""
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 111,
+            "value": "Vat., Borgh. 215"
+          }
+        ],
         "title": "Sermones de tempore",
         "genre": {
           "id": 14726,
@@ -31362,7 +31955,12 @@
             "date_of_death": "1334"
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 116,
+            "value": "Vat., Borgh. 153"
+          }
+        ],
         "title": "Sermones de tempore",
         "genre": {
           "id": 14726,
@@ -31579,7 +32177,12 @@
             "date_of_death": ""
           }
         ],
-        "manuscripts": [],
+        "manuscripts": [
+          {
+            "id": 119,
+            "value": "Vat., Borgh. 96"
+          }
+        ],
         "title": "Sermones de tempore",
         "genre": {
           "id": 14726,

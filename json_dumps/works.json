@@ -275,7 +275,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": null
+    "volume_edition_or_individual_editor": "110"
   },
   "6": {
     "id": 6,
@@ -317,7 +317,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": null
+    "volume_edition_or_individual_editor": "92"
   },
   "7": {
     "id": 7,
@@ -347,9 +347,21 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -471,7 +483,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": null
+    "volume_edition_or_individual_editor": "198"
   },
   "10": {
     "id": 10,
@@ -513,7 +525,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": null
+    "volume_edition_or_individual_editor": "109"
   },
   "11": {
     "id": 11,
@@ -1344,7 +1356,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": null
+    "volume_edition_or_individual_editor": "155"
   },
   "26": {
     "id": 26,
@@ -1398,7 +1410,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": null
+    "volume_edition_or_individual_editor": "116"
   },
   "27": {
     "id": 27,
@@ -1446,7 +1458,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": null
+    "volume_edition_or_individual_editor": "118"
   },
   "28": {
     "id": 28,
@@ -1488,7 +1500,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": null
+    "volume_edition_or_individual_editor": "109"
   },
   "29": {
     "id": 29,
@@ -1541,7 +1553,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": null
+    "volume_edition_or_individual_editor": "120"
   },
   "30": {
     "id": 30,
@@ -1578,7 +1590,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 19,
@@ -1716,8 +1728,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -2098,7 +2116,13 @@
       }
     ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -2224,7 +2248,13 @@
       }
     ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 16,
+        "value": "9th cen., second half",
+        "order": "16.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -2409,8 +2439,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -2690,9 +2726,9 @@
     ],
     "published_edition": [
       {
-        "id": 12,
-        "value": "Other edition",
-        "order": "11.00000000000000000000"
+        "id": 13,
+        "value": "Glossa Ordinaria (online)",
+        "order": "12.00000000000000000000"
       }
     ],
     "date_certainty": true,
@@ -2821,8 +2857,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -2899,8 +2941,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -2977,8 +3025,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 60,
+        "value": "mid 10th cen.",
+        "order": "60.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -3475,7 +3529,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 27,
@@ -3523,7 +3577,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 27,
@@ -3565,7 +3619,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 10,
@@ -3607,7 +3661,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 7,
@@ -3649,7 +3703,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -3691,7 +3745,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -3733,7 +3787,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -3775,7 +3829,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -3817,7 +3871,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -5057,7 +5111,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -5068,7 +5122,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": null
+    "volume_edition_or_individual_editor": "Duparc-Quioc (Paris 1977)"
   },
   "108": {
     "id": 108,
@@ -5188,9 +5242,21 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -5314,7 +5380,13 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -5356,7 +5428,13 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -5817,7 +5895,13 @@
       }
     ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -5903,7 +5987,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -5945,7 +6035,13 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -6124,9 +6220,21 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -6154,7 +6262,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -7018,7 +7132,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 7,
@@ -7066,7 +7180,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 19,
@@ -7368,7 +7482,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 25,
@@ -7836,7 +7950,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -8033,7 +8147,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 39,
@@ -8716,7 +8830,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": null
+    "volume_edition_or_individual_editor": "Marschner"
   },
   "191": {
     "id": 191,
@@ -8741,7 +8855,7 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 44,
@@ -8813,7 +8927,7 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 21,
@@ -8848,9 +8962,21 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 25,
+        "value": "late 6th cen.",
+        "order": "25.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -8885,7 +9011,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 5,
@@ -9232,7 +9358,13 @@
       }
     ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 82,
+        "value": "4th cen",
+        "order": "81.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -9268,7 +9400,13 @@
       }
     ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 66,
+        "value": "late 4th cen.",
+        "order": "65.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
@@ -9556,7 +9694,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -9604,7 +9742,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -9955,7 +10093,11 @@
     ],
     "manuscripts": [],
     "title": "De institutione clericorum",
-    "genre": null,
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -9966,8 +10108,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 14,
+        "value": "12th cen., second half",
+        "order": "14.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
@@ -10029,7 +10177,11 @@
     ],
     "manuscripts": [],
     "title": "De situ locorum",
-    "genre": null,
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -10082,8 +10234,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
@@ -10357,7 +10515,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -10591,7 +10755,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -11113,7 +11277,13 @@
         "order": "101.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 73,
+        "value": "Cambr. Univ. Libr., Ii.VI.44",
+        "order": "68.00000000000000000000"
+      }
+    ],
     "title": "Sermones",
     "genre": {
       "id": 14726,
@@ -11160,7 +11330,13 @@
         "order": "102.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 74,
+        "value": "Cambr. Univ. Libr., Dd.IV.27",
+        "order": "69.00000000000000000000"
+      }
+    ],
     "title": "Sermones",
     "genre": {
       "id": 14726,
@@ -11369,7 +11545,13 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 78,
+        "value": "BL, Arundel 231/2",
+        "order": "72.00000000000000000000"
+      }
+    ],
     "title": "Sermones",
     "genre": {
       "id": 14726,
@@ -11531,7 +11713,13 @@
     "institutional_context": [],
     "published_edition": [],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 80,
+        "value": "6th cen.",
+        "order": "79.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": false,
     "incipit": "",
@@ -11841,7 +12029,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 3,
@@ -12184,7 +12372,18 @@
         "order": "117.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 79,
+        "value": "BSB, Clm 5531",
+        "order": "73.00000000000000000000"
+      },
+      {
+        "id": 127,
+        "value": "Freiburg, MS 152",
+        "order": "120.00000000000000000000"
+      }
+    ],
     "title": "Sermones rusticani de dominicis",
     "genre": {
       "id": 14726,
@@ -12698,8 +12897,14 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 59,
+        "value": "mid 4th cen.",
+        "order": "59.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
@@ -12764,8 +12969,14 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
@@ -13279,7 +13490,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -13291,7 +13508,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": ""
+    "volume_edition_or_individual_editor": "opera omnia, vol. 5, 1897"
   },
   "303": {
     "id": 303,
@@ -13315,7 +13532,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -13327,7 +13550,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": ""
+    "volume_edition_or_individual_editor": "opera omnia, vol. 18 (1899"
   },
   "304": {
     "id": 304,
@@ -13351,7 +13574,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -13363,7 +13592,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": ""
+    "volume_edition_or_individual_editor": "opera omnia, vol. 14, 1901"
   },
   "305": {
     "id": 305,
@@ -13387,7 +13616,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -13399,7 +13634,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": ""
+    "volume_edition_or_individual_editor": "opera omnia, vol. 9, 1900"
   },
   "306": {
     "id": 306,
@@ -13423,7 +13658,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -13435,7 +13676,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": ""
+    "volume_edition_or_individual_editor": "opera omnia, vol. 10, 1900"
   },
   "307": {
     "id": 307,
@@ -13459,7 +13700,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -13471,7 +13718,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": ""
+    "volume_edition_or_individual_editor": "opera omnia, vol. 11, 1900"
   },
   "308": {
     "id": 308,
@@ -13676,7 +13923,7 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 18,
@@ -14005,7 +14252,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -14125,7 +14378,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -14203,7 +14462,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -14275,7 +14540,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -14311,7 +14582,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -14863,7 +15140,18 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -14905,7 +15193,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -15285,7 +15579,13 @@
       }
     ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 58,
+        "value": "5th cen., first half",
+        "order": "58.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
@@ -15320,8 +15620,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
@@ -15349,7 +15655,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -15593,7 +15905,11 @@
     ],
     "manuscripts": [],
     "title": "Excerptiones allegoricae (PL 177)",
-    "genre": null,
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
@@ -15929,7 +16245,13 @@
       }
     ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 81,
+        "value": "mid 3rd cen.",
+        "order": "80.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": false,
     "incipit": "",
@@ -16104,8 +16426,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 66,
+        "value": "late 4th cen.",
+        "order": "65.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": false,
     "incipit": "",
@@ -16141,7 +16469,13 @@
       }
     ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 6,
+        "value": "early 9th cen.",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": false,
     "incipit": "",
@@ -16253,8 +16587,14 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
     "date": [
       {
         "id": 47,
@@ -16265,7 +16605,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": ""
+    "volume_edition_or_individual_editor": "ed. John Sherren Brewer, 1859"
   },
   "382": {
     "id": 382,
@@ -16289,8 +16629,14 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
     "date": [
       {
         "id": 47,
@@ -16301,7 +16647,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": ""
+    "volume_edition_or_individual_editor": "ed. E. Massa, 1953"
   },
   "383": {
     "id": 383,
@@ -16410,7 +16756,7 @@
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 71,
@@ -16566,7 +16912,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 21,
@@ -16591,7 +16937,13 @@
         "order": "166.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 88,
+        "value": "Bibl. Casanatense, MS 178",
+        "order": "81.00000000000000000000"
+      }
+    ],
     "title": "Sermones dominicales",
     "genre": {
       "id": 14726,
@@ -16608,7 +16960,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 20,
@@ -16750,9 +17102,21 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 43,
+        "value": "14th cen.",
+        "order": "43.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
@@ -16786,7 +17150,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -16938,7 +17308,13 @@
         "order": "174.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 95,
+        "value": "Dominican Archive, XIV.34",
+        "order": "88.00000000000000000000"
+      }
+    ],
     "title": "Sermones de tempore",
     "genre": {
       "id": 14726,
@@ -16997,7 +17373,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
         "id": 17,
@@ -17391,7 +17767,7 @@
     "manuscripts": [
       {
         "id": 100,
-        "value": "Univ.bibl. Freiburg, MS 111",
+        "value": "Freiburg, MS 111",
         "order": "93.00000000000000000000"
       }
     ],
@@ -18420,7 +18796,13 @@
         "order": "193.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 106,
+        "value": "Vat., Pal. lat. 440",
+        "order": "99.00000000000000000000"
+      }
+    ],
     "title": "Sermones de tempore",
     "genre": {
       "id": 14726,
@@ -18510,7 +18892,13 @@
         "order": "195.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 107,
+        "value": "BSB, Clm 13446",
+        "order": "100.00000000000000000000"
+      }
+    ],
     "title": "Sermones de festis dominicalibus",
     "genre": {
       "id": 14726,
@@ -18689,7 +19077,13 @@
         "order": "197.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 110,
+        "value": "Vat., Vat. lat. 1253",
+        "order": "103.00000000000000000000"
+      }
+    ],
     "title": "Sermones de tempore",
     "genre": {
       "id": 14726,
@@ -18731,7 +19125,13 @@
         "order": "198.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 115,
+        "value": "Assisi, MS 462",
+        "order": "108.00000000000000000000"
+      }
+    ],
     "title": "Sermones de tempore",
     "genre": {
       "id": 14726,
@@ -18773,7 +19173,13 @@
         "order": "199.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 111,
+        "value": "Vat., Borgh. 215",
+        "order": "104.00000000000000000000"
+      }
+    ],
     "title": "Sermones de tempore",
     "genre": {
       "id": 14726,
@@ -18815,7 +19221,13 @@
         "order": "200.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 116,
+        "value": "Vat., Borgh. 153",
+        "order": "109.00000000000000000000"
+      }
+    ],
     "title": "Sermones de tempore",
     "genre": {
       "id": 14726,
@@ -18899,7 +19311,13 @@
         "order": "202.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 119,
+        "value": "Vat., Borgh. 96",
+        "order": "112.00000000000000000000"
+      }
+    ],
     "title": "Sermones de tempore",
     "genre": {
       "id": 14726,
@@ -19379,7 +19797,13 @@
         "order": "77.00000000000000000000"
       }
     ],
-    "manuscripts": [],
+    "manuscripts": [
+      {
+        "id": 140,
+        "value": "BNF, lat.  3816",
+        "order": "133.00000000000000000000"
+      }
+    ],
     "title": "Homiliarium Narbonae",
     "genre": {
       "id": 14726,
@@ -19389,7 +19813,13 @@
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
@@ -19537,9 +19967,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 14,
-        "value": "12th cen., second half",
-        "order": "14.00000000000000000000"
+        "id": 13,
+        "value": "12th cen., first half",
+        "order": "13.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -19742,8 +20172,152 @@
   "459": {
     "id": 459,
     "order": "446.00000000000000000000",
-    "name": " ",
+    "name": "Expositio super Psalmos ",
     "jad_id": "jad_work__459",
+    "author": [
+      {
+        "id": 82,
+        "value": "Walafrid, Strabo",
+        "order": "81.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 151,
+        "value": "Karlsruhe, Aug. perg. 192",
+        "order": "144.00000000000000000000"
+      }
+    ],
+    "title": "Expositio super Psalmos",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 6,
+        "value": "early 9th cen.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "460": {
+    "id": 460,
+    "order": "447.00000000000000000000",
+    "name": "Lectionarius de tempore ",
+    "jad_id": "jad_work__460",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 152,
+        "value": "Karlsruhe, Aug. perg. 13",
+        "order": "145.00000000000000000000"
+      }
+    ],
+    "title": "Lectionarius de tempore",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "461": {
+    "id": 461,
+    "order": "448.00000000000000000000",
+    "name": "Postilla in Lucam ",
+    "jad_id": "jad_work__461",
+    "author": [
+      {
+        "id": 183,
+        "value": "Johannes, de Rupella (de la Rochelle)",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 92,
+        "value": "Bodl., Bodley 412",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "title": "Postilla in Lucam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "462": {
+    "id": 462,
+    "order": "449.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__462",
     "author": [],
     "manuscripts": [],
     "title": "",
@@ -19759,11 +20333,191 @@
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
-  "460": {
-    "id": 460,
-    "order": "447.00000000000000000000",
+  "463": {
+    "id": 463,
+    "order": "450.00000000000000000000",
     "name": " ",
-    "jad_id": "jad_work__460",
+    "jad_id": "jad_work__463",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "464": {
+    "id": 464,
+    "order": "451.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__464",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "465": {
+    "id": 465,
+    "order": "452.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__465",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "466": {
+    "id": 466,
+    "order": "453.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__466",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "467": {
+    "id": 467,
+    "order": "454.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__467",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "468": {
+    "id": 468,
+    "order": "455.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__468",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "469": {
+    "id": 469,
+    "order": "456.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__469",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "470": {
+    "id": 470,
+    "order": "457.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__470",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "471": {
+    "id": 471,
+    "order": "458.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__471",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": ""
+  },
+  "472": {
+    "id": 472,
+    "order": "459.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__472",
     "author": [],
     "manuscripts": [],
     "title": "",
