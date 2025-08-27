@@ -9845,8 +9845,8 @@
       "label": "Albert, of Aachen"
     },
     "next": {
-      "id": "jad_author__26",
-      "label": "Josephus, Flavius"
+      "id": "jad_author__252",
+      "label": ""
     },
     "related__works": [
       {
@@ -10737,8 +10737,8 @@
     "date_of_death": "0100",
     "view_label": "Josephus, Flavius",
     "prev": {
-      "id": "jad_author__25",
-      "label": "Haimo, of Auxerre"
+      "id": "jad_author__257",
+      "label": ""
     },
     "next": {
       "id": "jad_author__27",
@@ -29106,7 +29106,7 @@
         },
         "next": {
           "id": "jad_work__462",
-          "label": " "
+          "label": "Commentary Isaiah "
         }
       }
     ]
@@ -32685,7 +32685,7 @@
     },
     "next": {
       "id": "jad_author__224",
-      "label": ""
+      "label": "Guerricus, de Sancto Quintino (Saint-Quentin)"
     },
     "related__works": [
       {
@@ -32753,15 +32753,15 @@
   },
   "224": {
     "id": 224,
-    "name": "",
+    "name": "Guerricus, de Sancto Quintino (Saint-Quentin)",
     "jad_id": "jad_author__224",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102474141",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Guerricus, von Sankt Quentin | Gauricus, Magister | Guerricus, de Sancto Quentino | Pseudo-Guerricus, de Sancto Quentino | Guerric, de Saint-Quentin | Werricus, Flandrensis | Guernerus, de Sancto Quentino | Guerricus, Dominicanus | Guaricus, Flandrensis | Garricus, de Sancto Quentino | Garricus, Flandrensis | Gauricus, de Sancto Quentino | Guerwicus, de Sancto Quentino | Pseudo-Guerricus, de Sancto Quintino | Guerric, Provincial de France | Guerricus, de Saint-Quentin | Guernerus, Flandrensis | Sancto Quintino, Guerricus de | Gerricus, de Sancto Quentino | Guerricus, Flandrensis | Werricus, de Sancto Quentino | Gauricus, Flandrensis | Guerric, Dominicain | Gerricus, Flandrensis | Guaricus, de Sancto Quentino | Guerric, of Saint-Quentin",
     "date_of_birth": "",
-    "date_of_death": "",
-    "view_label": "",
+    "date_of_death": "1245",
+    "view_label": "Guerricus, de Sancto Quintino (Saint-Quentin)",
     "prev": {
       "id": "jad_author__223",
       "label": "Bartholomew, Exoniensis (of Exeter)"
@@ -32770,7 +32770,130 @@
       "id": "jad_author__225",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 462,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__462",
+        "author": [
+          {
+            "id": 224,
+            "name": "Guerricus, de Sancto Quintino (Saint-Quentin)",
+            "jad_id": "jad_author__224",
+            "gnd_url": "https://d-nb.info/gnd/102474141",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Guerricus, von Sankt Quentin | Gauricus, Magister | Guerricus, de Sancto Quentino | Pseudo-Guerricus, de Sancto Quentino | Guerric, de Saint-Quentin | Werricus, Flandrensis | Guernerus, de Sancto Quentino | Guerricus, Dominicanus | Guaricus, Flandrensis | Garricus, de Sancto Quentino | Garricus, Flandrensis | Gauricus, de Sancto Quentino | Guerwicus, de Sancto Quentino | Pseudo-Guerricus, de Sancto Quintino | Guerric, Provincial de France | Guerricus, de Saint-Quentin | Guernerus, Flandrensis | Sancto Quintino, Guerricus de | Gerricus, de Sancto Quentino | Guerricus, Flandrensis | Werricus, de Sancto Quentino | Gauricus, Flandrensis | Guerric, Dominicain | Gerricus, Flandrensis | Guaricus, de Sancto Quentino | Guerric, of Saint-Quentin",
+            "date_of_birth": "",
+            "date_of_death": "1245"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 158,
+            "value": "New Coll., MS 40"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Commentary Isaiah ",
+        "prev": {
+          "id": "jad_work__461",
+          "label": "Postilla in Lucam "
+        },
+        "next": {
+          "id": "jad_work__463",
+          "label": "Commentary Lamentations "
+        }
+      },
+      {
+        "id": 463,
+        "name": "Commentary Lamentations ",
+        "jad_id": "jad_work__463",
+        "author": [
+          {
+            "id": 224,
+            "name": "Guerricus, de Sancto Quintino (Saint-Quentin)",
+            "jad_id": "jad_author__224",
+            "gnd_url": "https://d-nb.info/gnd/102474141",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Guerricus, von Sankt Quentin | Gauricus, Magister | Guerricus, de Sancto Quentino | Pseudo-Guerricus, de Sancto Quentino | Guerric, de Saint-Quentin | Werricus, Flandrensis | Guernerus, de Sancto Quentino | Guerricus, Dominicanus | Guaricus, Flandrensis | Garricus, de Sancto Quentino | Garricus, Flandrensis | Gauricus, de Sancto Quentino | Guerwicus, de Sancto Quentino | Pseudo-Guerricus, de Sancto Quintino | Guerric, Provincial de France | Guerricus, de Saint-Quentin | Guernerus, Flandrensis | Sancto Quintino, Guerricus de | Gerricus, de Sancto Quentino | Guerricus, Flandrensis | Werricus, de Sancto Quentino | Gauricus, Flandrensis | Guerric, Dominicain | Gerricus, Flandrensis | Guaricus, de Sancto Quentino | Guerric, of Saint-Quentin",
+            "date_of_birth": "",
+            "date_of_death": "1245"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 158,
+            "value": "New Coll., MS 40"
+          }
+        ],
+        "title": "Commentary Lamentations",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "view_label": "Commentary Lamentations ",
+        "prev": {
+          "id": "jad_work__462",
+          "label": "Commentary Isaiah "
+        },
+        "next": {
+          "id": "jad_work__464",
+          "label": " "
+        }
+      }
+    ]
   },
   "225": {
     "id": 225,
@@ -32785,11 +32908,137 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__224",
-      "label": ""
+      "label": "Guerricus, de Sancto Quintino (Saint-Quentin)"
     },
     "next": {
       "id": "jad_author__23",
       "label": "Fulcher, of Chartres"
+    },
+    "related__works": []
+  },
+  "252": {
+    "id": 252,
+    "name": "",
+    "jad_id": "jad_author__252",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__25",
+      "label": "Haimo, of Auxerre"
+    },
+    "next": {
+      "id": "jad_author__253",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "253": {
+    "id": 253,
+    "name": "",
+    "jad_id": "jad_author__253",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__252",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__254",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "254": {
+    "id": 254,
+    "name": "",
+    "jad_id": "jad_author__254",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__253",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__255",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "255": {
+    "id": 255,
+    "name": "",
+    "jad_id": "jad_author__255",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__254",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__256",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "256": {
+    "id": 256,
+    "name": "",
+    "jad_id": "jad_author__256",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__255",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__257",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "257": {
+    "id": 257,
+    "name": "",
+    "jad_id": "jad_author__257",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__256",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__26",
+      "label": "Josephus, Flavius"
     },
     "related__works": []
   }

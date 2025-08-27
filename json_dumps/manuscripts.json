@@ -5659,16 +5659,32 @@
   "158": {
     "id": 158,
     "order": "151.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 46,
+        "value": "New Coll., MS 40"
+      }
+    ],
     "jad_id": "jad_manuscript__158",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 46,
+        "value": "New Coll.",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "idno": "MS 40",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 46,
+        "value": "New College (Oxford)"
+      }
+    ]
   },
   "159": {
     "id": 159,

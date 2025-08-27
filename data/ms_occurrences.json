@@ -1311,8 +1311,8 @@
       "label": "In Nabuchodonosor, et in Vespasiano, et Tito"
     },
     "next": {
-      "id": "jad_occurence__29",
-      "label": "conculcavi populos, Judaeos scilicet, in furore meo, et inebriavi eos, id est replevi afflictione, et miseria per Romanos"
+      "id": "jad_occurence__284",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "29": {
@@ -1354,8 +1354,8 @@
     ],
     "view_label": "conculcavi populos, Judaeos scilicet, in furore meo, et inebriavi eos, id est replevi afflictione, et miseria per Romanos",
     "prev": {
-      "id": "jad_occurence__28",
-      "label": "conculcavi eos in ira mea, auferens daemonibus mundi principatum, Judaeis locum et gentem, sacerdotium, templum, et omnem dignitatem per Romanos"
+      "id": "jad_occurence__288",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__3",
@@ -11648,6 +11648,151 @@
     "next": {
       "id": "jad_occurence__26",
       "label": "captivati sunt et interfecti a Tito et Vespasiano"
+    }
+  },
+  "284": {
+    "id": 284,
+    "jad_id": "jad_occurence__284",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-26",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-26",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__28",
+      "label": "conculcavi eos in ira mea, auferens daemonibus mundi principatum, Judaeis locum et gentem, sacerdotium, templum, et omnem dignitatem per Romanos"
+    },
+    "next": {
+      "id": "jad_occurence__285",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "285": {
+    "id": 285,
+    "jad_id": "jad_occurence__285",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-26",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-26",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__284",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__286",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "286": {
+    "id": 286,
+    "jad_id": "jad_occurence__286",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-26",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-26",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__285",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__287",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "287": {
+    "id": 287,
+    "jad_id": "jad_occurence__287",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-26",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-26",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__286",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__288",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "288": {
+    "id": 288,
+    "jad_id": "jad_occurence__288",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-08-26",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-08-26",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__287",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__29",
+      "label": "conculcavi populos, Judaeos scilicet, in furore meo, et inebriavi eos, id est replevi afflictione, et miseria per Romanos"
     }
   }
 }

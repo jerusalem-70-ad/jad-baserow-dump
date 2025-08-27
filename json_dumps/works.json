@@ -20316,40 +20316,96 @@
   "462": {
     "id": 462,
     "order": "449.00000000000000000000",
-    "name": " ",
+    "name": "Commentary Isaiah ",
     "jad_id": "jad_work__462",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 224,
+        "value": "Guerricus, de Sancto Quintino (Saint-Quentin)",
+        "order": "209.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 158,
+        "value": "New Coll., MS 40",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Isaiah",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },
   "463": {
     "id": 463,
     "order": "450.00000000000000000000",
-    "name": " ",
+    "name": "Commentary Lamentations ",
     "jad_id": "jad_work__463",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 224,
+        "value": "Guerricus, de Sancto Quintino (Saint-Quentin)",
+        "order": "209.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 158,
+        "value": "New Coll., MS 40",
+        "order": "151.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Lamentations",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": ""
   },

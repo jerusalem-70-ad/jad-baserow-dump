@@ -7981,7 +7981,7 @@
         },
         "next": {
           "id": "jad_manuscript__158",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "New Coll., MS 40"
         }
       }
     ]
@@ -9837,11 +9837,18 @@
   },
   "46": {
     "id": 46,
-    "value": "",
+    "value": "New Coll.",
     "jad_id": "jad_library__46",
     "gnd_url": "",
-    "full_name": "",
-    "place": [],
+    "full_name": "New College (Oxford)",
+    "place": [
+      {
+        "id": 6,
+        "name": "Oxford",
+        "geonames_url": "https://www.geonames.org/2640729/oxford.html",
+        "jad_id": "jad_places__6"
+      }
+    ],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
       "id": "jad_library__45",
@@ -9851,7 +9858,56 @@
       "id": "jad_library__47",
       "label": "NO MATCH FOR $.name"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 158,
+        "name": [
+          {
+            "id": 46,
+            "value": "New Coll., MS 40"
+          }
+        ],
+        "jad_id": "jad_manuscript__158",
+        "library": [
+          {
+            "id": 46,
+            "value": "New Coll.",
+            "jad_id": "jad_library__46",
+            "gnd_url": "",
+            "full_name": "New College (Oxford)",
+            "place": [
+              {
+                "id": 6,
+                "name": "Oxford",
+                "geonames_url": "https://www.geonames.org/2640729/oxford.html",
+                "jad_id": "jad_places__6"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 40",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [],
+        "format": "",
+        "library_full": [
+          {
+            "id": 46,
+            "value": "New College (Oxford)"
+          }
+        ],
+        "view_label": "New Coll., MS 40",
+        "prev": {
+          "id": "jad_manuscript__157",
+          "label": "Bibl. Laurenziana, Plut.18.24"
+        },
+        "next": {
+          "id": "jad_manuscript__159",
+          "label": "NO MATCH FOR $..name[0].value"
+        }
+      }
+    ]
   },
   "47": {
     "id": 47,
