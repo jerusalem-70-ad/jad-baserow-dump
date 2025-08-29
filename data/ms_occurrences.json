@@ -11386,16 +11386,26 @@
     },
     "next": {
       "id": "jad_occurence__244",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     }
   },
   "244": {
     "id": 244,
     "jad_id": "jad_occurence__244",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1349,
+        "value": "??"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 143,
+        "value": "BNF, lat. 3782"
+      }
+    ],
+    "position_in_ms": "51v-52r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -11406,9 +11416,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-22",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-08-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 143,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 3782, f. 51v-52r"
+      }
+    ],
+    "view_label": "??",
     "prev": {
       "id": "jad_occurence__243",
       "label": "videns civitatem flevit super eam etc, omnis Christi actio nostra est instructio"
@@ -11440,7 +11458,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__244",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     },
     "next": {
       "id": "jad_occurence__246",
