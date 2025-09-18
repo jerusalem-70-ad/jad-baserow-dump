@@ -22,8 +22,10 @@ jobs:
           python-version: "3.12"
       - name: Install Python Packages
         run: pip install -r requirements.txt
-      - name: enrich the data
+      - name: enrich the data (persons)
         run: python enrich.py
+      - name: enrich the data (places)
+        run: python enrich_places.py
       - name: dump the data
         run: |
           python dump_data.py
