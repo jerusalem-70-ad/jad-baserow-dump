@@ -93,7 +93,7 @@
         "view_label": "ÖNB, Cod. 1014",
         "prev": {
           "id": "jad_manuscript__159",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "BNF, NAL 464"
         },
         "next": {
           "id": "jad_manuscript__160",
@@ -2411,6 +2411,61 @@
         "next": {
           "id": "jad_manuscript__145",
           "label": "Vat., S.Maria.Magg.3"
+        }
+      },
+      {
+        "id": 159,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, NAL 464"
+          }
+        ],
+        "jad_id": "jad_manuscript__159",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1",
+                "lat": "48.85341",
+                "long": "2.34880"
+              }
+            ]
+          }
+        ],
+        "idno": "NAL 464",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc71188r",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10034551c/f98.item.zoom",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 2,
+            "value": "12th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, NAL 464",
+        "prev": {
+          "id": "jad_manuscript__158",
+          "label": "New Coll., MS 40"
+        },
+        "next": {
+          "id": "jad_manuscript__16",
+          "label": "ÖNB, Cod. 1014"
         }
       }
     ]
@@ -9274,7 +9329,12 @@
         "catalog_url": "https://opac.vatlib.it/mss/detail/S.Maria.Magg.104",
         "digi_url": "https://digi.vatlib.it/view/MSS_S.Maria.Magg.104",
         "institutional_context": [],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 48,
+            "value": "10th cen., first half"
+          }
+        ],
         "format": "",
         "library_full": [
           {
@@ -10293,7 +10353,12 @@
         "catalog_url": "",
         "digi_url": "",
         "institutional_context": [],
-        "date_written": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
         "format": "",
         "library_full": [
           {
@@ -10308,7 +10373,7 @@
         },
         "next": {
           "id": "jad_manuscript__159",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "BNF, NAL 464"
         }
       }
     ]

@@ -12843,17 +12843,27 @@
     },
     "next": {
       "id": "jad_occurence__334",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ruinam illius qua a principibus romanis complananda erat"
     }
   },
   "334": {
     "id": 334,
     "jad_id": "jad_occurence__334",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 516,
+        "value": "ruinam illius qua a principibus romanis complananda erat"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 159,
+        "value": "BNF, NAL 464"
+      }
+    ],
+    "position_in_ms": "94v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10034551c/f98.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -12863,9 +12873,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-09-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-09-23",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 159,
+          "database_table_3497": 2
+        },
+        "value": "BNF, NAL 464, f. 94v"
+      }
+    ],
+    "view_label": "ruinam illius qua a principibus romanis complananda erat",
     "prev": {
       "id": "jad_occurence__333",
       "label": "vel hoc refertur ad captivitatem romanam in qua usque in finem mundi qui obliti a deo permanebunt"
@@ -12897,7 +12915,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__334",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ruinam illius qua a principibus romanis complananda erat"
     },
     "next": {
       "id": "jad_occurence__336",
