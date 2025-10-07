@@ -231,21 +231,230 @@
     "id": 5,
     "order": "5.00000000000000000000",
     "interpretation": 5,
-    "depiction_romans": [],
-    "temporal_dimensions": null,
-    "audience_jews": null,
-    "dating_conquest": null,
-    "sources_explicit": null,
-    "analogous_elements": null,
-    "nature_occurrence": [],
-    "purpose_occurrence": null,
-    "occurrence": [],
+    "depiction_romans": [
+      {
+        "id": 21646,
+        "value": "God's avengers, but pagans",
+        "color": "red"
+      }
+    ],
+    "temporal_dimensions": {
+      "id": 21651,
+      "value": "RC-APO",
+      "color": "light-orange"
+    },
+    "audience_jews": {
+      "id": 21677,
+      "value": "Audience = Romans = Endtime agents",
+      "color": "light-pink"
+    },
+    "dating_conquest": {
+      "id": 21681,
+      "value": "Not addressed",
+      "color": "dark-orange"
+    },
+    "sources_explicit": {
+      "id": 21664,
+      "value": "No",
+      "color": "dark-pink"
+    },
+    "analogous_elements": {
+      "id": 21682,
+      "value": "None",
+      "color": "darker-blue"
+    },
+    "nature_occurrence": [
+      {
+        "id": 21670,
+        "value": "Elaborate and original",
+        "color": "dark-pink"
+      }
+    ],
+    "purpose_occurrence": {
+      "id": 21673,
+      "value": "Providential",
+      "color": "light-pink"
+    },
+    "occurrence": [
+      {
+        "id": 514,
+        "value": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani",
+        "order": "503.00000000000000000000"
+      }
+    ],
     "jad_id": "jad_interpretation__5"
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
     "interpretation": 6,
+    "depiction_romans": [
+      {
+        "id": 21648,
+        "value": "God's avengers, with unclear identity",
+        "color": "darker-pink"
+      }
+    ],
+    "temporal_dimensions": {
+      "id": 21649,
+      "value": "AT-RC",
+      "color": "dark-cyan"
+    },
+    "audience_jews": {
+      "id": 21679,
+      "value": "unclear",
+      "color": "darker-cyan"
+    },
+    "dating_conquest": {
+      "id": 21681,
+      "value": "Not addressed",
+      "color": "dark-orange"
+    },
+    "sources_explicit": {
+      "id": 21661,
+      "value": "Yes, Flavius Josephus",
+      "color": "darker-gray"
+    },
+    "analogous_elements": {
+      "id": 21665,
+      "value": "Babylonian conquest",
+      "color": "cyan"
+    },
+    "nature_occurrence": [
+      {
+        "id": 21667,
+        "value": "Brief and reproductive",
+        "color": "blue"
+      }
+    ],
+    "purpose_occurrence": {
+      "id": 21672,
+      "value": "Spiritual/Monastic",
+      "color": "orange"
+    },
+    "occurrence": [
+      {
+        "id": 13,
+        "value": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "jad_id": "jad_interpretation__6"
+  },
+  "38": {
+    "id": 38,
+    "order": "7.00000000000000000000",
+    "interpretation": 38,
+    "depiction_romans": [
+      {
+        "id": 21646,
+        "value": "God's avengers, but pagans",
+        "color": "red"
+      }
+    ],
+    "temporal_dimensions": {
+      "id": 21680,
+      "value": "AT-RC-PRE",
+      "color": "darker-cyan"
+    },
+    "audience_jews": {
+      "id": 21675,
+      "value": "Audience = Romans",
+      "color": "red"
+    },
+    "dating_conquest": {
+      "id": 21659,
+      "value": "42 years after Passion",
+      "color": "dark-red"
+    },
+    "sources_explicit": {
+      "id": 21664,
+      "value": "No",
+      "color": "dark-pink"
+    },
+    "analogous_elements": {
+      "id": 21682,
+      "value": "None",
+      "color": "darker-blue"
+    },
+    "nature_occurrence": [
+      {
+        "id": 21668,
+        "value": "Elaborate and reproductive",
+        "color": "darker-blue"
+      }
+    ],
+    "purpose_occurrence": {
+      "id": 21674,
+      "value": "Action/popular",
+      "color": "deep-dark-green"
+    },
+    "occurrence": [
+      {
+        "id": 651,
+        "value": "duo ursi tytum et vespasianum de gentilitate venientes",
+        "order": "639.00000000000000000000"
+      }
+    ],
+    "jad_id": "jad_interpretation__38"
+  },
+  "39": {
+    "id": 39,
+    "order": "8.00000000000000000000",
+    "interpretation": 39,
+    "depiction_romans": [
+      {
+        "id": 21648,
+        "value": "God's avengers, with unclear identity",
+        "color": "darker-pink"
+      }
+    ],
+    "temporal_dimensions": {
+      "id": 21650,
+      "value": "RC-PRE",
+      "color": "pink"
+    },
+    "audience_jews": {
+      "id": 21675,
+      "value": "Audience = Romans",
+      "color": "red"
+    },
+    "dating_conquest": {
+      "id": 21656,
+      "value": "Summer",
+      "color": "darker-cyan"
+    },
+    "sources_explicit": {
+      "id": 21663,
+      "value": "Yes, other source",
+      "color": "light-blue"
+    },
+    "analogous_elements": null,
+    "nature_occurrence": [
+      {
+        "id": 21670,
+        "value": "Elaborate and original",
+        "color": "dark-pink"
+      }
+    ],
+    "purpose_occurrence": {
+      "id": 21671,
+      "value": "Textual/Intellectual",
+      "color": "darker-gray"
+    },
+    "occurrence": [
+      {
+        "id": 1032,
+        "value": "deinde a romanis destructa",
+        "order": "969.00000000000000000000"
+      }
+    ],
+    "jad_id": "jad_interpretation__39"
+  },
+  "40": {
+    "id": 40,
+    "order": "9.00000000000000000000",
+    "interpretation": 40,
     "depiction_romans": [],
     "temporal_dimensions": null,
     "audience_jews": null,
@@ -255,6 +464,51 @@
     "nature_occurrence": [],
     "purpose_occurrence": null,
     "occurrence": [],
-    "jad_id": "jad_interpretation__6"
+    "jad_id": "jad_interpretation__40"
+  },
+  "41": {
+    "id": 41,
+    "order": "10.00000000000000000000",
+    "interpretation": 41,
+    "depiction_romans": [],
+    "temporal_dimensions": null,
+    "audience_jews": null,
+    "dating_conquest": null,
+    "sources_explicit": null,
+    "analogous_elements": null,
+    "nature_occurrence": [],
+    "purpose_occurrence": null,
+    "occurrence": [],
+    "jad_id": "jad_interpretation__41"
+  },
+  "42": {
+    "id": 42,
+    "order": "11.00000000000000000000",
+    "interpretation": 42,
+    "depiction_romans": [],
+    "temporal_dimensions": null,
+    "audience_jews": null,
+    "dating_conquest": null,
+    "sources_explicit": null,
+    "analogous_elements": null,
+    "nature_occurrence": [],
+    "purpose_occurrence": null,
+    "occurrence": [],
+    "jad_id": "jad_interpretation__42"
+  },
+  "43": {
+    "id": 43,
+    "order": "12.00000000000000000000",
+    "interpretation": 43,
+    "depiction_romans": [],
+    "temporal_dimensions": null,
+    "audience_jews": null,
+    "dating_conquest": null,
+    "sources_explicit": null,
+    "analogous_elements": null,
+    "nature_occurrence": [],
+    "purpose_occurrence": null,
+    "occurrence": [],
+    "jad_id": "jad_interpretation__43"
   }
 }
