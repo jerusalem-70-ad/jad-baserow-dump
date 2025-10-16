@@ -2871,7 +2871,7 @@
         },
         "next": {
           "id": "jad_work__465",
-          "label": " "
+          "label": "Historia sive Chronica rerum Anglicarum "
         }
       }
     ]
@@ -10693,7 +10693,7 @@
     "view_label": "Fulcher of Chartres",
     "prev": {
       "id": "jad_author__225",
-      "label": ""
+      "label": "William of Newburgh"
     },
     "next": {
       "id": "jad_author__24",
@@ -36604,7 +36604,7 @@
     },
     "next": {
       "id": "jad_author__225",
-      "label": ""
+      "label": "William of Newburgh"
     },
     "related__works": [
       {
@@ -36747,16 +36747,16 @@
   },
   "225": {
     "id": 225,
-    "name": "",
+    "name": "William of Newburgh",
     "jad_id": "jad_author__225",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100944779",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
+    "alt_name": "Newburgh, Wilhelmus Parvus de | Guilelmus, Petitus | Newburgh, Wilhelm von | Willelmus, Parvus | Newburgh, Wilhelm P. de | William, Litle | Guilelmus, de Novoburgo | Guilielmus, Neubrigensis | William, le Petit | Guilelmus, Little | Guilelmus, Neobrigensis | Newburgh, Wilhelmus P. de | William, of Newbury | Guilelmus, de Neuburg | Guillaume, Little | Petit, Guilelmus | Guilelmus, Neoburgensis | Guillaume, de Newburgh | Guilelmus, de Newburgh | Wilhelm dictus Parvus | Guilelmus, Petit Neubrigensis | Guilelmus, Lidle | Guilelmus, Novoburgensis | Guilelmus, Neubrigensis | Wilhelmus, de Newburgh | Newburg, William of | Wilhelm, Parvus | Guilelmus, de Newbourgh | Guillaume, de Neubridge | William, of Newburgh | Wilhelm, von Newbourgh | Willelmus, Neubrigensis | Guilelmus, Parvus | Wilhelmus, Parvus | Litle, William | William, of Newbridge | Guillaume, le Petit | Neubrigensis, Guilelmus",
+    "date_of_birth": "1136",
+    "date_of_death": "1198",
     "place": [],
-    "view_label": "",
+    "view_label": "William of Newburgh",
     "prev": {
       "id": "jad_author__224",
       "label": "Guerricus de Sancto Quintino (Saint-Quentin)"
@@ -36765,7 +36765,66 @@
       "id": "jad_author__23",
       "label": "Fulcher of Chartres"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 465,
+        "name": "Historia sive Chronica rerum Anglicarum ",
+        "jad_id": "jad_work__465",
+        "author": [
+          {
+            "id": 225,
+            "name": "William of Newburgh",
+            "jad_id": "jad_author__225",
+            "gnd_url": "https://d-nb.info/gnd/100944779",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Newburgh, Wilhelmus Parvus de | Guilelmus, Petitus | Newburgh, Wilhelm von | Willelmus, Parvus | Newburgh, Wilhelm P. de | William, Litle | Guilelmus, de Novoburgo | Guilielmus, Neubrigensis | William, le Petit | Guilelmus, Little | Guilelmus, Neobrigensis | Newburgh, Wilhelmus P. de | William, of Newbury | Guilelmus, de Neuburg | Guillaume, Little | Petit, Guilelmus | Guilelmus, Neoburgensis | Guillaume, de Newburgh | Guilelmus, de Newburgh | Wilhelm dictus Parvus | Guilelmus, Petit Neubrigensis | Guilelmus, Lidle | Guilelmus, Novoburgensis | Guilelmus, Neubrigensis | Wilhelmus, de Newburgh | Newburg, William of | Wilhelm, Parvus | Guilelmus, de Newbourgh | Guillaume, de Neubridge | William, of Newburgh | Wilhelm, von Newbourgh | Willelmus, Neubrigensis | Guilelmus, Parvus | Wilhelmus, Parvus | Litle, William | William, of Newbridge | Guillaume, le Petit | Neubrigensis, Guilelmus",
+            "date_of_birth": "1136",
+            "date_of_death": "1198",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Historia sive Chronica rerum Anglicarum",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 17,
+            "name": "Rolls Series",
+            "jad_id": "jad_sources_occurrences__17",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": null,
+        "view_label": "Historia sive Chronica rerum Anglicarum ",
+        "prev": {
+          "id": "jad_work__464",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__466",
+          "label": " "
+        }
+      }
+    ]
   },
   "252": {
     "id": 252,

@@ -21264,20 +21264,42 @@
   "465": {
     "id": 465,
     "order": "452.00000000000000000000",
-    "name": " ",
+    "name": "Historia sive Chronica rerum Anglicarum ",
     "jad_id": "jad_work__465",
-    "author": [],
+    "author": [
+      {
+        "id": 225,
+        "value": "William of Newburgh",
+        "order": "210.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Historia sive Chronica rerum Anglicarum",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 17,
+        "value": "Rolls Series",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": null
