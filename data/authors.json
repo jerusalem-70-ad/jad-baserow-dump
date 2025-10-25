@@ -13178,6 +13178,74 @@
           "id": "jad_work__45",
           "label": "Libri deflorationum "
         }
+      },
+      {
+        "id": 473,
+        "name": "Commentary Kings ",
+        "jad_id": "jad_work__473",
+        "author": [
+          {
+            "id": 27,
+            "name": "Hieronymus Sophronius Eusebius",
+            "jad_id": "jad_author__27",
+            "gnd_url": "https://d-nb.info/gnd/118550853",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Hieronymus | Girolamo, di Stridone | Hieronymus, Abbas | Hieronymus, Cardinalis | Jérôme, Sanctus | Saint Jérôme | Jeroným, svatý | Girolamo, Santo | Pseudo-Hieronymus | Hieronymus, Presbyterus | Sophronius Eusebius, Hieronymus | Hieronymus, Eusebius S. | Girolamo, San | Hieronymus, Kirchenvater | Hieronimus, Sanctus | Hieronymus, Sanctus | Gerolamo | Hieronymus, Eusebius | Hieronimus, Presbyter | Hieronymus, Stridoniensis | Stridone, Girolamo di | Pseudo-Jerome | Hieronymus, Scriptor Ecclesiasticus | Ieronymus, Stridonius | Hieronymus, Saint | Pseudo-Hieronymus, Sophronius Eusebius | Hieronymus, Praesbiter | Hieronymus, Divus | Hieronim, św. | Hieronymus, Presbyterius | Iheronimus | Girolamo, Sofronio Eusebio | Gerolamo, San | Hieronymus, Stridon. | Hieronim | Ieronim | Hieronim, Świe̜ty | Hieronymvs | Hieronymus Sophronius, Eusebius | Hieronymus, B. | Eusebius, Hieronymus | Hieronymus, Sophronius E. | Jérôme, Saint | Jeronim, B. lagoslovljen Stridonskij | Jeronimus, Presbite | Jerome | Girolamo | Hieronymos | Jérôme | Hieronymus, Presbyter | Hieronymus, Stridonensis | Eusebius Hieronymus Sophronius | Hieronymus, Romanus | Hieronymus, Bethlehemiticus | Hiero, Sant | Hieronymus, Stridonius | Eusebius Sophronius, Hieronymus | Hieronymus, Interpres | Di Stridone, Girolamo | Hieronymus, von Stridon | Jéronimo, San | Eusebius Hieronymus, Sanctus | Pseudo-Girolamo | Eusebius Hieronymus, Sophronius | Hieronymus, Heiliger | Hieronymus, Eusebius Sophronius",
+            "date_of_birth": "0345",
+            "date_of_death": "0420",
+            "place": [
+              {
+                "id": 43,
+                "value": "Jerusalem"
+              }
+            ]
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 160,
+            "value": "BNF, NAL 762"
+          }
+        ],
+        "title": "Commentary Kings",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 26,
+            "value": "around 400"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Kings ",
+        "prev": {
+          "id": "jad_work__472",
+          "label": " "
+        },
+        "next": {
+          "id": "jad_work__49",
+          "label": "Fragmenta ex aurora "
+        }
       }
     ]
   },
@@ -15969,8 +16037,8 @@
         "other_editions": null,
         "view_label": "Fragmenta ex aurora ",
         "prev": {
-          "id": "jad_work__472",
-          "label": " "
+          "id": "jad_work__473",
+          "label": "Commentary Kings "
         },
         "next": {
           "id": "jad_work__5",

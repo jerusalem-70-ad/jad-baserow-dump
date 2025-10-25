@@ -12890,17 +12890,27 @@
     },
     "next": {
       "id": "jad_occurence__335",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "post quadragesimum secundum annum suae ascensionis, venerunt duo ursi, id est titus et vespasianus pater eius de imperio romanorum et laceraverunt eos"
     }
   },
   "335": {
     "id": 335,
     "jad_id": "jad_occurence__335",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1625,
+        "value": "post quadragesimum secundum annum suae ascensionis, venerunt duo ursi, id est titus et vespasianus pater eius de imperio romanorum et laceraverunt eos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 160,
+        "value": "BNF, NAL 762"
+      }
+    ],
+    "position_in_ms": "122v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10034419x/f124.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -12910,9 +12920,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-09-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-10-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 160,
+          "database_table_3497": 2
+        },
+        "value": "BNF, NAL 762, f. 122v"
+      }
+    ],
+    "view_label": "post quadragesimum secundum annum suae ascensionis, venerunt duo ursi, id est titus et vespasianus pater eius de imperio romanorum et laceraverunt eos",
     "prev": {
       "id": "jad_occurence__334",
       "label": "ruinam illius qua a principibus romanis complananda erat"
@@ -12944,7 +12962,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__335",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "post quadragesimum secundum annum suae ascensionis, venerunt duo ursi, id est titus et vespasianus pater eius de imperio romanorum et laceraverunt eos"
     },
     "next": {
       "id": "jad_occurence__337",

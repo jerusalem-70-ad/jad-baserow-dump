@@ -5737,16 +5737,38 @@
   "160": {
     "id": 160,
     "order": "153.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, NAL 762"
+      }
+    ],
     "jad_id": "jad_manuscript__160",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "NAL 762",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc71460x",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10034419x/f108.item.zoom",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 50,
+        "value": "10th cen.",
+        "order": "50.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
   },
   "161": {
     "id": 161,

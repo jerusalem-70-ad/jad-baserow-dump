@@ -1025,7 +1025,7 @@
     },
     "next": {
       "id": "jad_manuscript__160",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, NAL 762"
     }
   },
   "17": {
@@ -9120,17 +9120,50 @@
   },
   "160": {
     "id": 160,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, NAL 762"
+      }
+    ],
     "jad_id": "jad_manuscript__160",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "NAL 762",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc71460x",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10034419x/f108.item.zoom",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 50,
+        "value": "10th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, NAL 762",
     "prev": {
       "id": "jad_manuscript__16",
       "label": "ÖNB, Cod. 1014"
@@ -9155,7 +9188,7 @@
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
       "id": "jad_manuscript__160",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, NAL 762"
     },
     "next": {
       "id": "jad_manuscript__162",
