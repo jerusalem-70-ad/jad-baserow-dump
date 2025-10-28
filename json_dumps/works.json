@@ -21307,20 +21307,36 @@
   "466": {
     "id": 466,
     "order": "453.00000000000000000000",
-    "name": " ",
+    "name": "Quaestiones in Danielem ",
     "jad_id": "jad_work__466",
-    "author": [],
+    "author": [
+      {
+        "id": 252,
+        "value": "Petrus archidiaconus",
+        "order": "211.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Quaestiones in Danielem",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 83,
+        "value": "799",
+        "order": "82.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": null

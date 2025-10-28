@@ -10889,7 +10889,7 @@
     },
     "next": {
       "id": "jad_author__252",
-      "label": ""
+      "label": "Petrus archidiaconus"
     },
     "related__works": [
       {
@@ -36889,23 +36889,23 @@
         },
         "next": {
           "id": "jad_work__466",
-          "label": " "
+          "label": "Quaestiones in Danielem "
         }
       }
     ]
   },
   "252": {
     "id": 252,
-    "name": "",
+    "name": "Petrus archidiaconus",
     "jad_id": "jad_author__252",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102477213",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Archidiaconus, Petrus | Pierre, Archidiacre",
     "date_of_birth": "",
     "date_of_death": "",
     "place": [],
-    "view_label": "",
+    "view_label": "Petrus archidiaconus",
     "prev": {
       "id": "jad_author__25",
       "label": "Haimo of Auxerre"
@@ -36914,7 +36914,59 @@
       "id": "jad_author__253",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 466,
+        "name": "Quaestiones in Danielem ",
+        "jad_id": "jad_work__466",
+        "author": [
+          {
+            "id": 252,
+            "name": "Petrus archidiaconus",
+            "jad_id": "jad_author__252",
+            "gnd_url": "https://d-nb.info/gnd/102477213",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Archidiaconus, Petrus | Pierre, Archidiacre",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Quaestiones in Danielem",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 83,
+            "value": "799"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": null,
+        "view_label": "Quaestiones in Danielem ",
+        "prev": {
+          "id": "jad_work__465",
+          "label": "Historia sive Chronica rerum Anglicarum "
+        },
+        "next": {
+          "id": "jad_work__467",
+          "label": " "
+        }
+      }
+    ]
   },
   "253": {
     "id": 253,
@@ -36930,7 +36982,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__252",
-      "label": ""
+      "label": "Petrus archidiaconus"
     },
     "next": {
       "id": "jad_author__254",
