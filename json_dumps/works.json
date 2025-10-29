@@ -21319,14 +21319,20 @@
     "manuscripts": [],
     "title": "Quaestiones in Danielem",
     "genre": {
-      "id": 14732,
-      "value": "Idiosyncratic work",
-      "color": "dark-red"
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
     },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "date_certainty": true,
     "date": [
       {
