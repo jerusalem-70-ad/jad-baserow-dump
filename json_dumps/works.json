@@ -21350,20 +21350,54 @@
   "467": {
     "id": 467,
     "order": "454.00000000000000000000",
-    "name": " ",
+    "name": "Annotatio libri ezechielis imperfecta ",
     "jad_id": "jad_work__467",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 25,
+        "value": "Haimo of Auxerre",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 161,
+        "value": "BNF, lat. 12302",
+        "order": "154.00000000000000000000"
+      }
+    ],
+    "title": "Annotatio libri ezechielis imperfecta",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "institutional_context": [
+      {
+        "id": 2,
+        "value": "Benedictines Auxerre",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": null

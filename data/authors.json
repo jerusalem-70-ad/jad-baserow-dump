@@ -11863,6 +11863,94 @@
           "id": "jad_work__203",
           "label": "De excidio urbis Hierosolymitanae "
         }
+      },
+      {
+        "id": 467,
+        "name": "Annotatio libri ezechielis imperfecta ",
+        "jad_id": "jad_work__467",
+        "author": [
+          {
+            "id": 25,
+            "name": "Haimo of Auxerre",
+            "jad_id": "jad_author__25",
+            "gnd_url": "https://d-nb.info/gnd/100945260",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Haimo, Altissiodorensis | Auxerre, Haimo von | Haimo, Monachus | Aimone, de Auxerre | Haimo, of Auxerre | Haimo, d' Auxerre | Haimo, de Saint-Germain d'Auxerre | Haymonis, Avtissiodorensis | Haimo, de Auxerre | Aimon, d'Auxerre | Haymo, Altissiodorensis | Haimon, d'Auxerre | Haimo v. Auxerre, v. Auxerre | Haimo, Autissiodorensis | Aimo, of Auxerre | Haymon, d'Auxerre | Haymon, Autissiodorensis",
+            "date_of_birth": null,
+            "date_of_death": "0855",
+            "place": [
+              {
+                "id": 41,
+                "value": "Auxerre"
+              }
+            ]
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 161,
+            "value": "BNF, lat. 12302"
+          }
+        ],
+        "title": "Annotatio libri ezechielis imperfecta",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 2,
+            "name": "Benedictines Auxerre",
+            "jad_id": "jad_institutional_context__2",
+            "part_of": [
+              {
+                "id": 3,
+                "name": "Benedictines",
+                "jad_id": "jad_institutional_context__3",
+                "part_of": [],
+                "gnd_url": "https://d-nb.info/gnd/25880-5",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "https://d-nb.info/gnd/16294030-0",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 7,
+            "value": "mid 9th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": null,
+        "view_label": "Annotatio libri ezechielis imperfecta ",
+        "prev": {
+          "id": "jad_work__466",
+          "label": "Quaestiones in Danielem "
+        },
+        "next": {
+          "id": "jad_work__468",
+          "label": " "
+        }
       }
     ]
   },
@@ -36970,7 +37058,7 @@
         },
         "next": {
           "id": "jad_work__467",
-          "label": " "
+          "label": "Annotatio libri ezechielis imperfecta "
         }
       }
     ]
