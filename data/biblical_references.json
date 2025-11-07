@@ -450,12 +450,12 @@
     "description": null,
     "view_label": "Zach. 11,1",
     "prev": {
-      "id": "jad_biblical_reference__265",
+      "id": "jad_biblical_reference__269",
       "label": ""
     },
     "next": {
-      "id": "jad_biblical_reference__28",
-      "label": "Mt. 22,7"
+      "id": "jad_biblical_reference__270",
+      "label": ""
     }
   },
   "28": {
@@ -467,8 +467,8 @@
     "description": null,
     "view_label": "Mt. 22,7",
     "prev": {
-      "id": "jad_biblical_reference__27",
-      "label": "Zach. 11,1"
+      "id": "jad_biblical_reference__270",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__29",
@@ -4416,75 +4416,160 @@
     },
     "next": {
       "id": "jad_biblical_reference__262",
-      "label": ""
+      "label": "Lam. 4,10"
     }
   },
   "262": {
     "id": 262,
-    "name": "",
+    "name": "Lam. 4,10",
     "jad_id": "jad_biblical_reference__262",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
-    "view_label": "",
+    "view_label": "Lam. 4,10",
     "prev": {
       "id": "jad_biblical_reference__261",
       "label": "2 Cor. 5,6"
     },
     "next": {
       "id": "jad_biblical_reference__263",
-      "label": ""
+      "label": "Lam. 4,11"
     }
   },
   "263": {
     "id": 263,
-    "name": "",
+    "name": "Lam. 4,11",
     "jad_id": "jad_biblical_reference__263",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
-    "view_label": "",
+    "view_label": "Lam. 4,11",
     "prev": {
       "id": "jad_biblical_reference__262",
-      "label": ""
+      "label": "Lam. 4,10"
     },
     "next": {
       "id": "jad_biblical_reference__264",
-      "label": ""
+      "label": "Hos. 4,2"
     }
   },
   "264": {
     "id": 264,
-    "name": "",
+    "name": "Hos. 4,2",
     "jad_id": "jad_biblical_reference__264",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
-    "view_label": "",
+    "view_label": "Hos. 4,2",
     "prev": {
       "id": "jad_biblical_reference__263",
-      "label": ""
+      "label": "Lam. 4,11"
     },
     "next": {
       "id": "jad_biblical_reference__265",
-      "label": ""
+      "label": "Hos. 4,1"
     }
   },
   "265": {
     "id": 265,
-    "name": "",
+    "name": "Hos. 4,1",
     "jad_id": "jad_biblical_reference__265",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Hos. 4,1",
+    "prev": {
+      "id": "jad_biblical_reference__264",
+      "label": "Hos. 4,2"
+    },
+    "next": {
+      "id": "jad_biblical_reference__266",
+      "label": ""
+    }
+  },
+  "266": {
+    "id": 266,
+    "name": "",
+    "jad_id": "jad_biblical_reference__266",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
     "view_label": "",
     "prev": {
-      "id": "jad_biblical_reference__264",
+      "id": "jad_biblical_reference__265",
+      "label": "Hos. 4,1"
+    },
+    "next": {
+      "id": "jad_biblical_reference__267",
+      "label": ""
+    }
+  },
+  "267": {
+    "id": 267,
+    "name": "",
+    "jad_id": "jad_biblical_reference__267",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__266",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__268",
+      "label": ""
+    }
+  },
+  "268": {
+    "id": 268,
+    "name": "",
+    "jad_id": "jad_biblical_reference__268",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__267",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__269",
+      "label": ""
+    }
+  },
+  "269": {
+    "id": 269,
+    "name": "",
+    "jad_id": "jad_biblical_reference__269",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__268",
       "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__27",
       "label": "Zach. 11,1"
+    }
+  },
+  "270": {
+    "id": 270,
+    "name": "",
+    "jad_id": "jad_biblical_reference__270",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__27",
+      "label": "Zach. 11,1"
+    },
+    "next": {
+      "id": "jad_biblical_reference__28",
+      "label": "Mt. 22,7"
     }
   }
 }
