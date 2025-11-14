@@ -1189,8 +1189,8 @@
     "place": [],
     "view_label": "Benedictines",
     "prev": {
-      "id": "jad_institutional_context__22",
-      "label": "Benedictines Monte Cassino"
+      "id": "jad_institutional_context__25",
+      "label": ""
     },
     "next": {
       "id": "jad_institutional_context__4",
@@ -2314,6 +2314,63 @@
     "prev": {
       "id": "jad_institutional_context__21",
       "label": "Benedictines Reichenau"
+    },
+    "next": {
+      "id": "jad_institutional_context__23",
+      "label": "Carmelites"
+    },
+    "related__manuscripts": []
+  },
+  "23": {
+    "id": 23,
+    "name": "Carmelites",
+    "jad_id": "jad_institutional_context__23",
+    "part_of": [],
+    "gnd_url": "",
+    "wikidata": "",
+    "place": [],
+    "view_label": "Carmelites",
+    "prev": {
+      "id": "jad_institutional_context__22",
+      "label": "Benedictines Monte Cassino"
+    },
+    "next": {
+      "id": "jad_institutional_context__24",
+      "label": ""
+    },
+    "related__manuscripts": []
+  },
+  "24": {
+    "id": 24,
+    "name": "",
+    "jad_id": "jad_institutional_context__24",
+    "part_of": [],
+    "gnd_url": "",
+    "wikidata": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_institutional_context__23",
+      "label": "Carmelites"
+    },
+    "next": {
+      "id": "jad_institutional_context__25",
+      "label": ""
+    },
+    "related__manuscripts": []
+  },
+  "25": {
+    "id": 25,
+    "name": "",
+    "jad_id": "jad_institutional_context__25",
+    "part_of": [],
+    "gnd_url": "",
+    "wikidata": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_institutional_context__24",
+      "label": ""
     },
     "next": {
       "id": "jad_institutional_context__3",

@@ -2873,6 +2873,74 @@
           "id": "jad_work__465",
           "label": "Historia sive Chronica rerum Anglicarum "
         }
+      },
+      {
+        "id": 468,
+        "name": "Universis Christi fidelibus ",
+        "jad_id": "jad_work__468",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Universis Christi fidelibus",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 23,
+            "name": "Carmelites",
+            "jad_id": "jad_institutional_context__23",
+            "part_of": [],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 17,
+            "value": "around 1300"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Medieval Carmelite Heritage. Early reflections on the nature of the Order, ed. Adrianus Staring (Rome 1989).",
+        "other_editions": null,
+        "view_label": "Universis Christi fidelibus ",
+        "prev": {
+          "id": "jad_work__467",
+          "label": "Annotatio libri ezechielis imperfecta "
+        },
+        "next": {
+          "id": "jad_work__469",
+          "label": "Chronica "
+        }
       }
     ]
   },
@@ -9942,11 +10010,11 @@
         "view_label": "Sermones ",
         "prev": {
           "id": "jad_work__469",
-          "label": " "
+          "label": "Chronica "
         },
         "next": {
           "id": "jad_work__470",
-          "label": " "
+          "label": "Speculum fratrum ordinis de monte Carmeli "
         }
       },
       {
@@ -11949,7 +12017,7 @@
         },
         "next": {
           "id": "jad_work__468",
-          "label": " "
+          "label": "Universis Christi fidelibus "
         }
       }
     ]
@@ -36937,7 +37005,7 @@
     },
     "next": {
       "id": "jad_author__253",
-      "label": ""
+      "label": "John of Cheminot"
     },
     "related__works": [
       {
@@ -37002,47 +37070,185 @@
   },
   "253": {
     "id": 253,
-    "name": "",
+    "name": "John of Cheminot",
     "jad_id": "jad_author__253",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/1020581085",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Jean, de Cheminot | Joannes, e Chiniveto | Jean, de Cheminet | Cheminot, Jean de | Johannes, e Chiniveto | Joannes, e Ciminetho | Iohannes, de Cheminot | Ioannes, de Ciminetho",
     "date_of_birth": "",
     "date_of_death": "",
     "place": [],
-    "view_label": "",
+    "view_label": "John of Cheminot",
     "prev": {
       "id": "jad_author__252",
       "label": "Petrus archidiaconus"
     },
     "next": {
       "id": "jad_author__254",
-      "label": ""
+      "label": "John of Veneta"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 470,
+        "name": "Speculum fratrum ordinis de monte Carmeli ",
+        "jad_id": "jad_work__470",
+        "author": [
+          {
+            "id": 253,
+            "name": "John of Cheminot",
+            "jad_id": "jad_author__253",
+            "gnd_url": "https://d-nb.info/gnd/1020581085",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Jean, de Cheminot | Joannes, e Chiniveto | Jean, de Cheminet | Cheminot, Jean de | Johannes, e Chiniveto | Joannes, e Ciminetho | Iohannes, de Cheminot | Ioannes, de Ciminetho",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Speculum fratrum ordinis de monte Carmeli",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 23,
+            "name": "Carmelites",
+            "jad_id": "jad_institutional_context__23",
+            "part_of": [],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 79,
+            "value": "14th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Medieval Carmelite Heritage. Early reflections on the nature of the Order, ed. Adrianus Staring (Rome 1989).",
+        "other_editions": null,
+        "view_label": "Speculum fratrum ordinis de monte Carmeli ",
+        "prev": {
+          "id": "jad_work__47",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__471",
+          "label": " "
+        }
+      }
+    ]
   },
   "254": {
     "id": 254,
-    "name": "",
+    "name": "John of Veneta",
     "jad_id": "jad_author__254",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102550654",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Pseudo-Johannes, de Veneta | Jean, de Venette | Johannes, Gallus Compendiensis | Veneta, Johannes de | Johannes, de Vineta",
     "date_of_birth": "",
     "date_of_death": "",
     "place": [],
-    "view_label": "",
+    "view_label": "John of Veneta",
     "prev": {
       "id": "jad_author__253",
-      "label": ""
+      "label": "John of Cheminot"
     },
     "next": {
       "id": "jad_author__255",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 469,
+        "name": "Chronica ",
+        "jad_id": "jad_work__469",
+        "author": [
+          {
+            "id": 254,
+            "name": "John of Veneta",
+            "jad_id": "jad_author__254",
+            "gnd_url": "https://d-nb.info/gnd/102550654",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Pseudo-Johannes, de Veneta | Jean, de Venette | Johannes, Gallus Compendiensis | Veneta, Johannes de | Johannes, de Vineta",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronica",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 23,
+            "name": "Carmelites",
+            "jad_id": "jad_institutional_context__23",
+            "part_of": [],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 54,
+            "value": "14th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Medieval Carmelite Heritage. Early reflections on the nature of the Order, ed. Adrianus Staring (Rome 1989).",
+        "other_editions": null,
+        "view_label": "Chronica ",
+        "prev": {
+          "id": "jad_work__468",
+          "label": "Universis Christi fidelibus "
+        },
+        "next": {
+          "id": "jad_work__47",
+          "label": "Sermones "
+        }
+      }
+    ]
   },
   "255": {
     "id": 255,
@@ -37058,7 +37264,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__254",
-      "label": ""
+      "label": "John of Veneta"
     },
     "next": {
       "id": "jad_author__256",
