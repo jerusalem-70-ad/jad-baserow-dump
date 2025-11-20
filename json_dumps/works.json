@@ -21503,43 +21503,99 @@
   "471": {
     "id": 471,
     "order": "458.00000000000000000000",
-    "name": " ",
+    "name": "Chronica brevis ",
     "jad_id": "jad_work__471",
-    "author": [],
+    "author": [
+      {
+        "id": 255,
+        "value": "William of Coventry",
+        "order": "214.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Chronica brevis",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "institutional_context": [
+      {
+        "id": 23,
+        "value": "Carmelites",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 74,
+        "value": "mid 14th cen.",
+        "order": "73.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "Medieval Carmelite Heritage. Early reflections on the nature of the Order, ed. Adrianus Staring (Rome 1989).",
     "other_editions": null
   },
   "472": {
     "id": 472,
     "order": "459.00000000000000000000",
-    "name": " ",
+    "name": "Liber de institutione primorum monachorum ",
     "jad_id": "jad_work__472",
-    "author": [],
+    "author": [
+      {
+        "id": 256,
+        "value": "Philippus Ribot",
+        "order": "215.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Liber de institutione primorum monachorum",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "institutional_context": [
+      {
+        "id": 23,
+        "value": "Carmelites",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 54,
+        "value": "14th cen., second half",
+        "order": "54.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "Paul Chandler, The \"Liber de institucione et peculiaribus gestis religiosorum Carmelitarum in lege veteri exortorum et in nova perseverancium ad caprasium monachum\" by Felip Ribot, O. Carm.: A critical edition with an introduction (PhD thesis, University of Toronto 1991).",
     "other_editions": null
   },
   "473": {
@@ -21585,6 +21641,97 @@
         "order": "26.00000000000000000000"
       }
     ],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "474": {
+    "id": 474,
+    "order": "461.00000000000000000000",
+    "name": "Expositio de tabernaculo ",
+    "jad_id": "jad_work__474",
+    "author": [
+      {
+        "id": 257,
+        "value": "Richard of Saint Victor",
+        "order": "216.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio de tabernaculo",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 12,
+        "value": "St. Victor Paris",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "475": {
+    "id": 475,
+    "order": "462.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__475",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "476": {
+    "id": 476,
+    "order": "463.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__476",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
     "link_digital_editions": "",
     "author_certainty": false,
     "incipit": "",

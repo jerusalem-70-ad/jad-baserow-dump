@@ -12041,7 +12041,7 @@
     "view_label": "Flavius Josephus",
     "prev": {
       "id": "jad_author__257",
-      "label": ""
+      "label": "Richard of Saint Victor"
     },
     "next": {
       "id": "jad_author__27",
@@ -13396,11 +13396,11 @@
         "view_label": "Commentary Kings ",
         "prev": {
           "id": "jad_work__472",
-          "label": " "
+          "label": "Liber de institutione primorum monachorum "
         },
         "next": {
-          "id": "jad_work__49",
-          "label": "Fragmenta ex aurora "
+          "id": "jad_work__474",
+          "label": "Expositio de tabernaculo "
         }
       }
     ]
@@ -16193,8 +16193,8 @@
         "other_editions": null,
         "view_label": "Fragmenta ex aurora ",
         "prev": {
-          "id": "jad_work__473",
-          "label": "Commentary Kings "
+          "id": "jad_work__476",
+          "label": " "
         },
         "next": {
           "id": "jad_work__5",
@@ -37154,7 +37154,7 @@
         },
         "next": {
           "id": "jad_work__471",
-          "label": " "
+          "label": "Chronica brevis "
         }
       }
     ]
@@ -37177,7 +37177,7 @@
     },
     "next": {
       "id": "jad_author__255",
-      "label": ""
+      "label": "William of Coventry"
     },
     "related__works": [
       {
@@ -37252,69 +37252,296 @@
   },
   "255": {
     "id": 255,
-    "name": "",
+    "name": "William of Coventry",
     "jad_id": "jad_author__255",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/101716505X",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Guillaume, de Coventry | Claudius, Conversus | Guillelmus, Coventriensis | Guilelmus, Coventriensis | Guillelmus, Conventriensis | Guillelmus, de Conventria | Coventry, William | William, of Coventry | Guilelmus, Coventuensis | William, Coventry | Guillaume, le Boiteux",
     "date_of_birth": "",
     "date_of_death": "",
     "place": [],
-    "view_label": "",
+    "view_label": "William of Coventry",
     "prev": {
       "id": "jad_author__254",
       "label": "John of Veneta"
     },
     "next": {
       "id": "jad_author__256",
-      "label": ""
+      "label": "Philippus Ribot"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 471,
+        "name": "Chronica brevis ",
+        "jad_id": "jad_work__471",
+        "author": [
+          {
+            "id": 255,
+            "name": "William of Coventry",
+            "jad_id": "jad_author__255",
+            "gnd_url": "https://d-nb.info/gnd/101716505X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Guillaume, de Coventry | Claudius, Conversus | Guillelmus, Coventriensis | Guilelmus, Coventriensis | Guillelmus, Conventriensis | Guillelmus, de Conventria | Coventry, William | William, of Coventry | Guilelmus, Coventuensis | William, Coventry | Guillaume, le Boiteux",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronica brevis",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 23,
+            "name": "Carmelites",
+            "jad_id": "jad_institutional_context__23",
+            "part_of": [],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 74,
+            "value": "mid 14th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Medieval Carmelite Heritage. Early reflections on the nature of the Order, ed. Adrianus Staring (Rome 1989).",
+        "other_editions": null,
+        "view_label": "Chronica brevis ",
+        "prev": {
+          "id": "jad_work__470",
+          "label": "Speculum fratrum ordinis de monte Carmeli "
+        },
+        "next": {
+          "id": "jad_work__472",
+          "label": "Liber de institutione primorum monachorum "
+        }
+      }
+    ]
   },
   "256": {
     "id": 256,
-    "name": "",
+    "name": "Philippus Ribot",
     "jad_id": "jad_author__256",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102520038",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Philippus, Gerundensis | Philippus, Ribotus | Philippus, Ribot de Girone | Ribot, Felip | Felipe, de Gerona | Riboti, Philippe | Ribot, Filippo | Philippe, de Girone | Philippus, Riboti | Philippus, Provincialis Cataloniae | Ribot, Philippe | Philippus, Ribbetius | Felip, Ribot | Ribot, Philippus | Philippus, Ribotius | Philippe, Riboti",
     "date_of_birth": "",
-    "date_of_death": "",
+    "date_of_death": "1391",
     "place": [],
-    "view_label": "",
+    "view_label": "Philippus Ribot",
     "prev": {
       "id": "jad_author__255",
-      "label": ""
+      "label": "William of Coventry"
     },
     "next": {
       "id": "jad_author__257",
-      "label": ""
+      "label": "Richard of Saint Victor"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 472,
+        "name": "Liber de institutione primorum monachorum ",
+        "jad_id": "jad_work__472",
+        "author": [
+          {
+            "id": 256,
+            "name": "Philippus Ribot",
+            "jad_id": "jad_author__256",
+            "gnd_url": "https://d-nb.info/gnd/102520038",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Philippus, Gerundensis | Philippus, Ribotus | Philippus, Ribot de Girone | Ribot, Felip | Felipe, de Gerona | Riboti, Philippe | Ribot, Filippo | Philippe, de Girone | Philippus, Riboti | Philippus, Provincialis Cataloniae | Ribot, Philippe | Philippus, Ribbetius | Felip, Ribot | Ribot, Philippus | Philippus, Ribotius | Philippe, Riboti",
+            "date_of_birth": "",
+            "date_of_death": "1391",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Liber de institutione primorum monachorum",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 23,
+            "name": "Carmelites",
+            "jad_id": "jad_institutional_context__23",
+            "part_of": [],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 54,
+            "value": "14th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Paul Chandler, The \"Liber de institucione et peculiaribus gestis religiosorum Carmelitarum in lege veteri exortorum et in nova perseverancium ad caprasium monachum\" by Felip Ribot, O. Carm.: A critical edition with an introduction (PhD thesis, University of Toronto 1991).",
+        "other_editions": null,
+        "view_label": "Liber de institutione primorum monachorum ",
+        "prev": {
+          "id": "jad_work__471",
+          "label": "Chronica brevis "
+        },
+        "next": {
+          "id": "jad_work__473",
+          "label": "Commentary Kings "
+        }
+      }
+    ]
   },
   "257": {
     "id": 257,
-    "name": "",
+    "name": "Richard of Saint Victor",
     "jad_id": "jad_author__257",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118744917",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
+    "alt_name": "Riccardo, da San Vittore | Victorinus, Richardus | Sancto Victore, Richardus de | Richardus, Parisiensis | Richard, of Saint-Victor | Richard, von Sankt Victor | Richardus, Prior | Ricardus, a Sancto Victore | Sankt-Victor, Richard von | Richardus, a Sancto Victore | Ricardo, de San Víctor | Ricardus, von Saint-Victor | Richardus, Sancti Victoris | Ricardus, de Sancto Victore | Richardus, Victorinus | Richard, of Saint Victor | Richard, von Sankt-Victor | Riccardo, di San Vittore | Richardus, Theologus | Richard, de Saint-Victor | Richard, de Saint Victor | Richard, von Sankt Viktor",
+    "date_of_birth": "1110",
+    "date_of_death": "1173",
     "place": [],
-    "view_label": "",
+    "view_label": "Richard of Saint Victor",
     "prev": {
       "id": "jad_author__256",
-      "label": ""
+      "label": "Philippus Ribot"
     },
     "next": {
       "id": "jad_author__26",
       "label": "Flavius Josephus"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 474,
+        "name": "Expositio de tabernaculo ",
+        "jad_id": "jad_work__474",
+        "author": [
+          {
+            "id": 257,
+            "name": "Richard of Saint Victor",
+            "jad_id": "jad_author__257",
+            "gnd_url": "https://d-nb.info/gnd/118744917",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Riccardo, da San Vittore | Victorinus, Richardus | Sancto Victore, Richardus de | Richardus, Parisiensis | Richard, of Saint-Victor | Richard, von Sankt Victor | Richardus, Prior | Ricardus, a Sancto Victore | Sankt-Victor, Richard von | Richardus, a Sancto Victore | Ricardo, de San Víctor | Ricardus, von Saint-Victor | Richardus, Sancti Victoris | Ricardus, de Sancto Victore | Richardus, Victorinus | Richard, of Saint Victor | Richard, von Sankt-Victor | Riccardo, di San Vittore | Richardus, Theologus | Richard, de Saint-Victor | Richard, de Saint Victor | Richard, von Sankt Viktor",
+            "date_of_birth": "1110",
+            "date_of_death": "1173",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Expositio de tabernaculo",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 12,
+            "name": "St. Victor Paris",
+            "jad_id": "jad_institutional_context__12",
+            "part_of": [
+              {
+                "id": 1,
+                "name": "University of Paris",
+                "jad_id": "jad_institutional_context__1",
+                "part_of": [
+                  {
+                    "id": 16,
+                    "value": "French schools"
+                  }
+                ],
+                "gnd_url": "https://d-nb.info/gnd/2025059-9",
+                "wikidata": "",
+                "place": [
+                  {
+                    "id": 1,
+                    "value": "Paris"
+                  }
+                ]
+              }
+            ],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Expositio de tabernaculo ",
+        "prev": {
+          "id": "jad_work__473",
+          "label": "Commentary Kings "
+        },
+        "next": {
+          "id": "jad_work__475",
+          "label": " "
+        }
+      }
+    ]
   },
   "285": {
     "id": 285,
