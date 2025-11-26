@@ -9225,22 +9225,55 @@
     },
     "next": {
       "id": "jad_manuscript__162",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Beinecke, Marston MS 220"
     }
   },
   "162": {
     "id": 162,
-    "name": [],
+    "name": [
+      {
+        "id": 47,
+        "value": "Beinecke, Marston MS 220"
+      }
+    ],
     "jad_id": "jad_manuscript__162",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 47,
+        "value": "Beinecke",
+        "jad_id": "jad_library__47",
+        "gnd_url": "https://d-nb.info/gnd/1097100-2",
+        "full_name": "Beinecke Rare Book and Manuscript Library",
+        "place": [
+          {
+            "id": 89,
+            "name": "New Haven, Conn.",
+            "geonames_url": "https://www.geonames.org/4839366/new-haven.html",
+            "jad_id": "jad_places__89",
+            "lat": "41.30815",
+            "long": "-72.92816"
+          }
+        ]
+      }
+    ],
+    "idno": "Marston MS 220",
+    "catalog_url": "https://pre1600ms.beinecke.library.yale.edu/docs/pre1600.mars220.htm",
+    "digi_url": "https://collections.library.yale.edu/catalog/10269864",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 20,
+        "value": "early 13th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 47,
+        "value": "Beinecke Rare Book and Manuscript Library"
+      }
+    ],
+    "view_label": "Beinecke, Marston MS 220",
     "prev": {
       "id": "jad_manuscript__161",
       "label": "BNF, lat. 12302"
@@ -9265,7 +9298,7 @@
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
       "id": "jad_manuscript__162",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Beinecke, Marston MS 220"
     },
     "next": {
       "id": "jad_manuscript__164",

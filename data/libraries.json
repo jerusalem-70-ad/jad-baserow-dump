@@ -2575,7 +2575,7 @@
         },
         "next": {
           "id": "jad_manuscript__162",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Beinecke, Marston MS 220"
         }
       }
     ]
@@ -10490,11 +10490,20 @@
   },
   "47": {
     "id": 47,
-    "value": "",
+    "value": "Beinecke",
     "jad_id": "jad_library__47",
-    "gnd_url": "",
-    "full_name": "",
-    "place": [],
+    "gnd_url": "https://d-nb.info/gnd/1097100-2",
+    "full_name": "Beinecke Rare Book and Manuscript Library",
+    "place": [
+      {
+        "id": 89,
+        "name": "New Haven, Conn.",
+        "geonames_url": "https://www.geonames.org/4839366/new-haven.html",
+        "jad_id": "jad_places__89",
+        "lat": "41.30815",
+        "long": "-72.92816"
+      }
+    ],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
       "id": "jad_library__46",
@@ -10504,7 +10513,63 @@
       "id": "jad_library__48",
       "label": "NO MATCH FOR $.name"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 162,
+        "name": [
+          {
+            "id": 47,
+            "value": "Beinecke, Marston MS 220"
+          }
+        ],
+        "jad_id": "jad_manuscript__162",
+        "library": [
+          {
+            "id": 47,
+            "value": "Beinecke",
+            "jad_id": "jad_library__47",
+            "gnd_url": "https://d-nb.info/gnd/1097100-2",
+            "full_name": "Beinecke Rare Book and Manuscript Library",
+            "place": [
+              {
+                "id": 89,
+                "name": "New Haven, Conn.",
+                "geonames_url": "https://www.geonames.org/4839366/new-haven.html",
+                "jad_id": "jad_places__89",
+                "lat": "41.30815",
+                "long": "-72.92816"
+              }
+            ]
+          }
+        ],
+        "idno": "Marston MS 220",
+        "catalog_url": "https://pre1600ms.beinecke.library.yale.edu/docs/pre1600.mars220.htm",
+        "digi_url": "https://collections.library.yale.edu/catalog/10269864",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 47,
+            "value": "Beinecke Rare Book and Manuscript Library"
+          }
+        ],
+        "view_label": "Beinecke, Marston MS 220",
+        "prev": {
+          "id": "jad_manuscript__161",
+          "label": "BNF, lat. 12302"
+        },
+        "next": {
+          "id": "jad_manuscript__163",
+          "label": "NO MATCH FOR $..name[0].value"
+        }
+      }
+    ]
   },
   "48": {
     "id": 48,

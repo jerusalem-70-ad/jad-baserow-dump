@@ -5809,16 +5809,38 @@
   "162": {
     "id": 162,
     "order": "155.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 47,
+        "value": "Beinecke, Marston MS 220"
+      }
+    ],
     "jad_id": "jad_manuscript__162",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 47,
+        "value": "Beinecke",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "idno": "Marston MS 220",
+    "catalog_url": "https://pre1600ms.beinecke.library.yale.edu/docs/pre1600.mars220.htm",
+    "digi_url": "https://collections.library.yale.edu/catalog/10269864",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 47,
+        "value": "Beinecke Rare Book and Manuscript Library"
+      }
+    ]
   },
   "163": {
     "id": 163,
