@@ -1513,7 +1513,138 @@
       "id": "jad_institutional_context__9",
       "label": "Cistercians"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 163,
+        "name": [
+          {
+            "id": 21,
+            "value": "Linz, MS 402"
+          }
+        ],
+        "jad_id": "jad_manuscript__163",
+        "library": [
+          {
+            "id": 21,
+            "value": "Linz",
+            "jad_id": "jad_library__21",
+            "gnd_url": "https://d-nb.info/gnd/4372903-4",
+            "full_name": "Linz, Oberösterreichische Landesbibliothek",
+            "place": [
+              {
+                "id": 24,
+                "name": "Linz",
+                "geonames_url": "https://www.geonames.org/2772400/linz.html",
+                "jad_id": "jad_places__24",
+                "lat": "48.30639",
+                "long": "14.28611"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 402",
+        "catalog_url": "https://search.obvsg.at/primo-explore/fulldisplay?docid=OBV_alma71376422930003331&context=L&adaptor=Local%20Search%20Engine&vid=OBV&lang=de_DE&search_scope=OBV_alma_NLH&tab=nlh&query=addsrcrid,exact,AC13676401",
+        "digi_url": "https://digi.landesbibliothek.at/viewer/image/402/309/",
+        "institutional_context": [
+          {
+            "id": 8,
+            "name": "Augustinian canons",
+            "jad_id": "jad_institutional_context__8",
+            "part_of": [],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "date_written": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "format": "29 x 20, 162 ff.",
+        "library_full": [
+          {
+            "id": 21,
+            "value": "Linz, Oberösterreichische Landesbibliothek"
+          }
+        ],
+        "view_label": "Linz, MS 402",
+        "prev": {
+          "id": "jad_manuscript__162",
+          "label": "Beinecke, Marston MS 220"
+        },
+        "next": {
+          "id": "jad_manuscript__164",
+          "label": "Reichersberg, MS 5"
+        }
+      },
+      {
+        "id": 164,
+        "name": [
+          {
+            "id": 48,
+            "value": "Reichersberg, MS 5"
+          }
+        ],
+        "jad_id": "jad_manuscript__164",
+        "library": [
+          {
+            "id": 48,
+            "value": "Reichersberg",
+            "jad_id": "jad_library__48",
+            "gnd_url": "https://d-nb.info/gnd/5049419-3",
+            "full_name": "Reichersberg, Stiftsbibliothek",
+            "place": [
+              {
+                "id": 54,
+                "name": "Reichersberg",
+                "geonames_url": "https://www.geonames.org/2767754/reichersberg.html",
+                "jad_id": "jad_places__54",
+                "lat": "48.33617",
+                "long": "13.35963"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 5",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [
+          {
+            "id": 8,
+            "name": "Augustinian canons",
+            "jad_id": "jad_institutional_context__8",
+            "part_of": [],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "date_written": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 48,
+            "value": "Reichersberg, Stiftsbibliothek"
+          }
+        ],
+        "view_label": "Reichersberg, MS 5",
+        "prev": {
+          "id": "jad_manuscript__163",
+          "label": "Linz, MS 402"
+        },
+        "next": {
+          "id": "jad_manuscript__165",
+          "label": "ÖNB, Cod. Slav. 125"
+        }
+      }
+    ]
   },
   "9": {
     "id": 9,

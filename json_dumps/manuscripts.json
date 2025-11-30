@@ -5845,8 +5845,128 @@
   "163": {
     "id": 163,
     "order": "156.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 21,
+        "value": "Linz, MS 402"
+      }
+    ],
     "jad_id": "jad_manuscript__163",
+    "library": [
+      {
+        "id": 21,
+        "value": "Linz",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "idno": "MS 402",
+    "catalog_url": "https://search.obvsg.at/primo-explore/fulldisplay?docid=OBV_alma71376422930003331&context=L&adaptor=Local%20Search%20Engine&vid=OBV&lang=de_DE&search_scope=OBV_alma_NLH&tab=nlh&query=addsrcrid,exact,AC13676401",
+    "digi_url": "https://digi.landesbibliothek.at/viewer/image/402/309/",
+    "institutional_context": [
+      {
+        "id": 8,
+        "value": "Augustinian canons",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "date_written": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "format": "29 x 20, 162 ff.",
+    "library_full": [
+      {
+        "id": 21,
+        "value": "Linz, Oberösterreichische Landesbibliothek"
+      }
+    ]
+  },
+  "164": {
+    "id": 164,
+    "order": "157.00000000000000000000",
+    "name": [
+      {
+        "id": 48,
+        "value": "Reichersberg, MS 5"
+      }
+    ],
+    "jad_id": "jad_manuscript__164",
+    "library": [
+      {
+        "id": 48,
+        "value": "Reichersberg",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "idno": "MS 5",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [
+      {
+        "id": 8,
+        "value": "Augustinian canons",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "date_written": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 48,
+        "value": "Reichersberg, Stiftsbibliothek"
+      }
+    ]
+  },
+  "165": {
+    "id": 165,
+    "order": "158.00000000000000000000",
+    "name": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. Slav. 125"
+      }
+    ],
+    "jad_id": "jad_manuscript__165",
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "idno": "Cod. Slav. 125",
+    "catalog_url": "https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma71311389400003338&context=L&vid=ONB&lang=de_DE&search_scope=ONB_gesamtbestand&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Zerst%C3%B6rung%20Jerusalems&facet=rtype,include,Handschrift&mode=basic&offset=0",
+    "digi_url": "https://viewer.onb.ac.at/1322BFC2",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 84,
+        "value": "16th cen",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 1,
+        "value": "Österreichische Nationalbibliothek"
+      }
+    ]
+  },
+  "166": {
+    "id": 166,
+    "order": "159.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__166",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -5856,11 +5976,81 @@
     "format": "",
     "library_full": []
   },
-  "164": {
-    "id": 164,
-    "order": "157.00000000000000000000",
+  "167": {
+    "id": 167,
+    "order": "160.00000000000000000000",
     "name": [],
-    "jad_id": "jad_manuscript__164",
+    "jad_id": "jad_manuscript__167",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "168": {
+    "id": 168,
+    "order": "161.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__168",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "169": {
+    "id": 169,
+    "order": "162.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__169",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "170": {
+    "id": 170,
+    "order": "163.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__170",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "171": {
+    "id": 171,
+    "order": "164.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__171",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "172": {
+    "id": 172,
+    "order": "165.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__172",
     "library": [],
     "idno": "",
     "catalog_url": "",

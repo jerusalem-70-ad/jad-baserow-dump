@@ -1075,12 +1075,12 @@
     ],
     "view_label": "Cambr. St.John's Coll., MS 127",
     "prev": {
-      "id": "jad_manuscript__164",
+      "id": "jad_manuscript__169",
       "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
-      "id": "jad_manuscript__18",
-      "label": "BNF, Latin 3829"
+      "id": "jad_manuscript__170",
+      "label": "NO MATCH FOR $..name[0].value"
     }
   },
   "18": {
@@ -1130,8 +1130,8 @@
     ],
     "view_label": "BNF, Latin 3829",
     "prev": {
-      "id": "jad_manuscript__17",
-      "label": "Cambr. St.John's Coll., MS 127"
+      "id": "jad_manuscript__172",
+      "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
       "id": "jad_manuscript__19",
@@ -9280,35 +9280,198 @@
     },
     "next": {
       "id": "jad_manuscript__163",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Linz, MS 402"
     }
   },
   "163": {
     "id": 163,
-    "name": [],
+    "name": [
+      {
+        "id": 21,
+        "value": "Linz, MS 402"
+      }
+    ],
     "jad_id": "jad_manuscript__163",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
-    "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library": [
+      {
+        "id": 21,
+        "value": "Linz",
+        "jad_id": "jad_library__21",
+        "gnd_url": "https://d-nb.info/gnd/4372903-4",
+        "full_name": "Linz, Oberösterreichische Landesbibliothek",
+        "place": [
+          {
+            "id": 24,
+            "name": "Linz",
+            "geonames_url": "https://www.geonames.org/2772400/linz.html",
+            "jad_id": "jad_places__24",
+            "lat": "48.30639",
+            "long": "14.28611"
+          }
+        ]
+      }
+    ],
+    "idno": "MS 402",
+    "catalog_url": "https://search.obvsg.at/primo-explore/fulldisplay?docid=OBV_alma71376422930003331&context=L&adaptor=Local%20Search%20Engine&vid=OBV&lang=de_DE&search_scope=OBV_alma_NLH&tab=nlh&query=addsrcrid,exact,AC13676401",
+    "digi_url": "https://digi.landesbibliothek.at/viewer/image/402/309/",
+    "institutional_context": [
+      {
+        "id": 8,
+        "name": "Augustinian canons",
+        "jad_id": "jad_institutional_context__8",
+        "part_of": [],
+        "gnd_url": "",
+        "wikidata": "",
+        "place": []
+      }
+    ],
+    "date_written": [
+      {
+        "id": 46,
+        "value": "13th cen., first half"
+      }
+    ],
+    "format": "29 x 20, 162 ff.",
+    "library_full": [
+      {
+        "id": 21,
+        "value": "Linz, Oberösterreichische Landesbibliothek"
+      }
+    ],
+    "view_label": "Linz, MS 402",
     "prev": {
       "id": "jad_manuscript__162",
       "label": "Beinecke, Marston MS 220"
     },
     "next": {
       "id": "jad_manuscript__164",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Reichersberg, MS 5"
     }
   },
   "164": {
     "id": 164,
-    "name": [],
+    "name": [
+      {
+        "id": 48,
+        "value": "Reichersberg, MS 5"
+      }
+    ],
     "jad_id": "jad_manuscript__164",
+    "library": [
+      {
+        "id": 48,
+        "value": "Reichersberg",
+        "jad_id": "jad_library__48",
+        "gnd_url": "https://d-nb.info/gnd/5049419-3",
+        "full_name": "Reichersberg, Stiftsbibliothek",
+        "place": [
+          {
+            "id": 54,
+            "name": "Reichersberg",
+            "geonames_url": "https://www.geonames.org/2767754/reichersberg.html",
+            "jad_id": "jad_places__54",
+            "lat": "48.33617",
+            "long": "13.35963"
+          }
+        ]
+      }
+    ],
+    "idno": "MS 5",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [
+      {
+        "id": 8,
+        "name": "Augustinian canons",
+        "jad_id": "jad_institutional_context__8",
+        "part_of": [],
+        "gnd_url": "",
+        "wikidata": "",
+        "place": []
+      }
+    ],
+    "date_written": [
+      {
+        "id": 5,
+        "value": "late 12th cen."
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 48,
+        "value": "Reichersberg, Stiftsbibliothek"
+      }
+    ],
+    "view_label": "Reichersberg, MS 5",
+    "prev": {
+      "id": "jad_manuscript__163",
+      "label": "Linz, MS 402"
+    },
+    "next": {
+      "id": "jad_manuscript__165",
+      "label": "ÖNB, Cod. Slav. 125"
+    }
+  },
+  "165": {
+    "id": 165,
+    "name": [
+      {
+        "id": 1,
+        "value": "ÖNB, Cod. Slav. 125"
+      }
+    ],
+    "jad_id": "jad_manuscript__165",
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB",
+        "jad_id": "jad_library__1",
+        "gnd_url": "https://d-nb.info/gnd/2020893-5",
+        "full_name": "Österreichische Nationalbibliothek",
+        "place": [
+          {
+            "id": 4,
+            "name": "Vienna",
+            "geonames_url": "https://www.geonames.org/2761369/vienna.html",
+            "jad_id": "jad_places__4",
+            "lat": "48.20849",
+            "long": "16.37208"
+          }
+        ]
+      }
+    ],
+    "idno": "Cod. Slav. 125",
+    "catalog_url": "https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma71311389400003338&context=L&vid=ONB&lang=de_DE&search_scope=ONB_gesamtbestand&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Zerst%C3%B6rung%20Jerusalems&facet=rtype,include,Handschrift&mode=basic&offset=0",
+    "digi_url": "https://viewer.onb.ac.at/1322BFC2",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 84,
+        "value": "16th cen"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 1,
+        "value": "Österreichische Nationalbibliothek"
+      }
+    ],
+    "view_label": "ÖNB, Cod. Slav. 125",
+    "prev": {
+      "id": "jad_manuscript__164",
+      "label": "Reichersberg, MS 5"
+    },
+    "next": {
+      "id": "jad_manuscript__166",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "166": {
+    "id": 166,
+    "name": [],
+    "jad_id": "jad_manuscript__166",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -9319,12 +9482,144 @@
     "library_full": [],
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
-      "id": "jad_manuscript__163",
+      "id": "jad_manuscript__165",
+      "label": "ÖNB, Cod. Slav. 125"
+    },
+    "next": {
+      "id": "jad_manuscript__167",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "167": {
+    "id": 167,
+    "name": [],
+    "jad_id": "jad_manuscript__167",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__166",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__168",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "168": {
+    "id": 168,
+    "name": [],
+    "jad_id": "jad_manuscript__168",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__167",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__169",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "169": {
+    "id": 169,
+    "name": [],
+    "jad_id": "jad_manuscript__169",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__168",
       "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
       "id": "jad_manuscript__17",
       "label": "Cambr. St.John's Coll., MS 127"
+    }
+  },
+  "170": {
+    "id": 170,
+    "name": [],
+    "jad_id": "jad_manuscript__170",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__17",
+      "label": "Cambr. St.John's Coll., MS 127"
+    },
+    "next": {
+      "id": "jad_manuscript__171",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "171": {
+    "id": 171,
+    "name": [],
+    "jad_id": "jad_manuscript__171",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__170",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__172",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "172": {
+    "id": 172,
+    "name": [],
+    "jad_id": "jad_manuscript__172",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__171",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__18",
+      "label": "BNF, Latin 3829"
     }
   }
 }

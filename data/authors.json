@@ -598,7 +598,7 @@
     "view_label": "anonymous",
     "prev": {
       "id": "jad_author__290",
-      "label": ""
+      "label": "Lampert of Hersfeld"
     },
     "next": {
       "id": "jad_author__30",
@@ -728,6 +728,10 @@
           {
             "id": 162,
             "value": "Beinecke, Marston MS 220"
+          },
+          {
+            "id": 163,
+            "value": "Linz, MS 402"
           }
         ],
         "title": "De destructione templi",
@@ -1778,7 +1782,7 @@
       },
       {
         "id": 357,
-        "name": "Annales Hildesheimenses Quedlinburgenses et Lamberti ",
+        "name": "Annales Quedlinburgenses ",
         "jad_id": "jad_work__357",
         "author": [
           {
@@ -1795,7 +1799,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Annales Hildesheimenses Quedlinburgenses et Lamberti",
+        "title": "Annales Quedlinburgenses",
         "genre": {
           "id": 14731,
           "value": "Chronicle",
@@ -1824,7 +1828,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "",
         "other_editions": null,
-        "view_label": "Annales Hildesheimenses Quedlinburgenses et Lamberti ",
+        "view_label": "Annales Quedlinburgenses ",
         "prev": {
           "id": "jad_work__356",
           "label": "Gesta regum Anglorum "
@@ -1880,7 +1884,7 @@
         "view_label": "Dissertationes de historia Pelagiana ",
         "prev": {
           "id": "jad_work__357",
-          "label": "Annales Hildesheimenses Quedlinburgenses et Lamberti "
+          "label": "Annales Quedlinburgenses "
         },
         "next": {
           "id": "jad_work__359",
@@ -2945,6 +2949,185 @@
           "id": "jad_work__469",
           "label": "Chronica "
         }
+      },
+      {
+        "id": 475,
+        "name": "Annales Hildesheimenses ",
+        "jad_id": "jad_work__475",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Annales Hildesheimenses",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_germ_8/index.htm#page/(III)/mode/1up",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS rer. Germ. 8",
+        "other_editions": "",
+        "view_label": "Annales Hildesheimenses ",
+        "prev": {
+          "id": "jad_work__474",
+          "label": "Expositio de tabernaculo "
+        },
+        "next": {
+          "id": "jad_work__476",
+          "label": "Gesta episcoporum Neapolitanorum "
+        }
+      },
+      {
+        "id": 508,
+        "name": "Anonymus Rapularius ",
+        "jad_id": "jad_work__508",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Anonymus Rapularius",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 62,
+            "value": "15th cen., first half"
+          }
+        ],
+        "link_digital_editions": "https://www.dmgh.de/mgh_qq_zur_geistesgesch_17/index.htm#page/(III)/mode/1up",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "QQ zur Geistesgesch. 17",
+        "other_editions": "",
+        "view_label": "Anonymus Rapularius ",
+        "prev": {
+          "id": "jad_work__507",
+          "label": "Vita Athanasii episcopi Neapolitani "
+        },
+        "next": {
+          "id": "jad_work__509",
+          "label": "Chronica "
+        }
+      },
+      {
+        "id": 514,
+        "name": "Prophecies about the destruction of Jerusalem ",
+        "jad_id": "jad_work__514",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": []
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 165,
+            "value": "ÖNB, Cod. Slav. 125"
+          }
+        ],
+        "title": "Prophecies about the destruction of Jerusalem",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 84,
+            "value": "16th cen"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Prophecies about the destruction of Jerusalem ",
+        "prev": {
+          "id": "jad_work__513",
+          "label": "Annales "
+        },
+        "next": {
+          "id": "jad_work__515",
+          "label": " "
+        }
       }
     ]
   },
@@ -4005,8 +4188,8 @@
           "label": "Sermones "
         },
         "next": {
-          "id": "jad_work__51",
-          "label": "Commentary Psalms "
+          "id": "jad_work__507",
+          "label": "Vita Athanasii episcopi Neapolitani "
         }
       },
       {
@@ -5126,7 +5309,7 @@
         "view_label": "Sermones ",
         "prev": {
           "id": "jad_work__114",
-          "label": "Libelli selecti "
+          "label": "De investigatione Antichristi "
         },
         "next": {
           "id": "jad_work__116",
@@ -13432,7 +13615,7 @@
     },
     "next": {
       "id": "jad_author__285",
-      "label": ""
+      "label": "Johannes Diaconus"
     },
     "related__works": [
       {
@@ -13670,11 +13853,11 @@
     "view_label": "non detectable",
     "prev": {
       "id": "jad_author__289",
-      "label": ""
+      "label": "Iordanes Gotus"
     },
     "next": {
       "id": "jad_author__290",
-      "label": ""
+      "label": "Lampert of Hersfeld"
     },
     "related__works": []
   },
@@ -13894,8 +14077,8 @@
       "label": "Remigius of Auxerre"
     },
     "next": {
-      "id": "jad_author__32",
-      "label": "Anselm of Laon"
+      "id": "jad_author__318",
+      "label": ""
     },
     "related__works": [
       {
@@ -14114,12 +14297,12 @@
         },
         "next": {
           "id": "jad_work__114",
-          "label": "Libelli selecti "
+          "label": "De investigatione Antichristi "
         }
       },
       {
         "id": 114,
-        "name": "Libelli selecti ",
+        "name": "De investigatione Antichristi ",
         "jad_id": "jad_work__114",
         "author": [
           {
@@ -14140,8 +14323,13 @@
             ]
           }
         ],
-        "manuscripts": [],
-        "title": "Libelli selecti",
+        "manuscripts": [
+          {
+            "id": 164,
+            "value": "Reichersberg, MS 5"
+          }
+        ],
+        "title": "De investigatione Antichristi",
         "genre": {
           "id": 14732,
           "value": "Idiosyncratic work",
@@ -14162,10 +14350,10 @@
         ],
         "published_edition": [
           {
-            "id": 2,
-            "name": "Patrologia Latina",
-            "jad_id": "jad_sources_occurrences__2",
-            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
           }
         ],
         "date_certainty": true,
@@ -14180,7 +14368,7 @@
         "incipit": null,
         "volume_edition_or_individual_editor": null,
         "other_editions": null,
-        "view_label": "Libelli selecti ",
+        "view_label": "De investigatione Antichristi ",
         "prev": {
           "id": "jad_work__113",
           "label": "Expositio in canticum Moysis "
@@ -14210,12 +14398,12 @@
     ],
     "view_label": "Anselm of Laon",
     "prev": {
-      "id": "jad_author__31",
-      "label": "Gerhoch of Reichersberg"
+      "id": "jad_author__319",
+      "label": ""
     },
     "next": {
-      "id": "jad_author__33",
-      "label": "Angelomus Luxovensis"
+      "id": "jad_author__320",
+      "label": ""
     },
     "related__works": [
       {
@@ -14510,8 +14698,8 @@
     ],
     "view_label": "Angelomus Luxovensis",
     "prev": {
-      "id": "jad_author__32",
-      "label": "Anselm of Laon"
+      "id": "jad_author__322",
+      "label": ""
     },
     "next": {
       "id": "jad_author__34",
@@ -16198,7 +16386,7 @@
         "view_label": "Fragmenta ex aurora ",
         "prev": {
           "id": "jad_work__476",
-          "label": " "
+          "label": "Gesta episcoporum Neapolitanorum "
         },
         "next": {
           "id": "jad_work__5",
@@ -16313,12 +16501,12 @@
         "other_editions": null,
         "view_label": "Commentary Psalms ",
         "prev": {
-          "id": "jad_work__50",
-          "label": "Commentary Sirach "
+          "id": "jad_work__509",
+          "label": "Chronica "
         },
         "next": {
-          "id": "jad_work__52",
-          "label": "Historia "
+          "id": "jad_work__510",
+          "label": "Adversus Symonianos "
         }
       },
       {
@@ -16481,8 +16669,8 @@
         "other_editions": "Corpus Christianorum",
         "view_label": "Historia ",
         "prev": {
-          "id": "jad_work__51",
-          "label": "Commentary Psalms "
+          "id": "jad_work__518",
+          "label": " "
         },
         "next": {
           "id": "jad_work__53",
@@ -31169,7 +31357,7 @@
         },
         "next": {
           "id": "jad_work__357",
-          "label": "Annales Hildesheimenses Quedlinburgenses et Lamberti "
+          "label": "Annales Quedlinburgenses "
         }
       },
       {
@@ -37542,133 +37730,496 @@
         },
         "next": {
           "id": "jad_work__475",
-          "label": " "
+          "label": "Annales Hildesheimenses "
         }
       }
     ]
   },
   "285": {
     "id": 285,
-    "name": "",
+    "name": "Johannes Diaconus",
     "jad_id": "jad_author__285",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/1089617305",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Hymmonides, Johannes | Immonide, Giovanni | Hymmonides, Iohannes, Diaconus Romanus | Iohannes, Diaconus",
     "date_of_birth": "",
     "date_of_death": "",
     "place": [],
-    "view_label": "",
+    "view_label": "Johannes Diaconus",
     "prev": {
       "id": "jad_author__28",
       "label": "Gregory the Great"
     },
     "next": {
       "id": "jad_author__286",
-      "label": ""
+      "label": "Fredegarius"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 476,
+        "name": "Gesta episcoporum Neapolitanorum ",
+        "jad_id": "jad_work__476",
+        "author": [
+          {
+            "id": 285,
+            "name": "Johannes Diaconus",
+            "jad_id": "jad_author__285",
+            "gnd_url": "https://d-nb.info/gnd/1089617305",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Hymmonides, Johannes | Immonide, Giovanni | Hymmonides, Iohannes, Diaconus Romanus | Iohannes, Diaconus",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Gesta episcoporum Neapolitanorum",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 19,
+            "value": "around 900"
+          }
+        ],
+        "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_lang_1/index.htm#page/(III)/mode/1up",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS rer. Lang. 1",
+        "other_editions": "",
+        "view_label": "Gesta episcoporum Neapolitanorum ",
+        "prev": {
+          "id": "jad_work__475",
+          "label": "Annales Hildesheimenses "
+        },
+        "next": {
+          "id": "jad_work__49",
+          "label": "Fragmenta ex aurora "
+        }
+      },
+      {
+        "id": 507,
+        "name": "Vita Athanasii episcopi Neapolitani ",
+        "jad_id": "jad_work__507",
+        "author": [
+          {
+            "id": 285,
+            "name": "Johannes Diaconus",
+            "jad_id": "jad_author__285",
+            "gnd_url": "https://d-nb.info/gnd/1089617305",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Hymmonides, Johannes | Immonide, Giovanni | Hymmonides, Iohannes, Diaconus Romanus | Iohannes, Diaconus",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Vita Athanasii episcopi Neapolitani",
+        "genre": {
+          "id": 15028,
+          "value": "Hagiography",
+          "color": "darker-blue"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 19,
+            "value": "around 900"
+          }
+        ],
+        "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_lang_1/index.htm#page/(III)/mode/1up",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS rer. Lang. 1",
+        "other_editions": "",
+        "view_label": "Vita Athanasii episcopi Neapolitani ",
+        "prev": {
+          "id": "jad_work__50",
+          "label": "Commentary Sirach "
+        },
+        "next": {
+          "id": "jad_work__508",
+          "label": "Anonymus Rapularius "
+        }
+      }
+    ]
   },
   "286": {
     "id": 286,
-    "name": "",
+    "name": "Fredegarius",
     "jad_id": "jad_author__286",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118873512",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Frédégaire, le Scolastique | Frédégaire | Fredegar | Pseudo-Fredegarius, Scholasticus | Fredegar, Scholasticus | Scholasticus, Fredegarius",
     "date_of_birth": "",
     "date_of_death": "",
     "place": [],
-    "view_label": "",
+    "view_label": "Fredegarius",
     "prev": {
       "id": "jad_author__285",
-      "label": ""
+      "label": "Johannes Diaconus"
     },
     "next": {
       "id": "jad_author__287",
-      "label": ""
+      "label": "Humbert of Silva Candida, Cardinal"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 509,
+        "name": "Chronica ",
+        "jad_id": "jad_work__509",
+        "author": [
+          {
+            "id": 286,
+            "name": "Fredegarius",
+            "jad_id": "jad_author__286",
+            "gnd_url": "https://d-nb.info/gnd/118873512",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Frédégaire, le Scolastique | Frédégaire | Fredegar | Pseudo-Fredegarius, Scholasticus | Fredegar, Scholasticus | Scholasticus, Fredegarius",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronica",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 27,
+            "value": "late 7th cen."
+          }
+        ],
+        "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_merov_2/index.htm#page/(III)/mode/1up",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS rer. Merov. 2",
+        "other_editions": "",
+        "view_label": "Chronica ",
+        "prev": {
+          "id": "jad_work__508",
+          "label": "Anonymus Rapularius "
+        },
+        "next": {
+          "id": "jad_work__51",
+          "label": "Commentary Psalms "
+        }
+      }
+    ]
   },
   "287": {
     "id": 287,
-    "name": "",
+    "name": "Humbert of Silva Candida, Cardinal",
     "jad_id": "jad_author__287",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118554697",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Humbertus, Silvae Candidae | Hubert, de Moyenmoutier | Silvae Candidae, Humbertus | Silva Candida, Humbertus de | Humbert, a Silva Candida | Humbertus, Cardinalis | Humbertus, Siciliae | Humbertus, de Silva Candida | Humbertus, Sylvae Candidae | Humbert, von Moyenmoutier | Humbert, de Moyenmoutier",
     "date_of_birth": "",
-    "date_of_death": "",
+    "date_of_death": "1061-05-05",
     "place": [],
-    "view_label": "",
+    "view_label": "Humbert of Silva Candida, Cardinal",
     "prev": {
       "id": "jad_author__286",
-      "label": ""
+      "label": "Fredegarius"
     },
     "next": {
       "id": "jad_author__288",
-      "label": ""
+      "label": "John of Victring"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 510,
+        "name": "Adversus Symonianos ",
+        "jad_id": "jad_work__510",
+        "author": [
+          {
+            "id": 287,
+            "name": "Humbert of Silva Candida, Cardinal",
+            "jad_id": "jad_author__287",
+            "gnd_url": "https://d-nb.info/gnd/118554697",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Humbertus, Silvae Candidae | Hubert, de Moyenmoutier | Silvae Candidae, Humbertus | Silva Candida, Humbertus de | Humbert, a Silva Candida | Humbertus, Cardinalis | Humbertus, Siciliae | Humbertus, de Silva Candida | Humbertus, Sylvae Candidae | Humbert, von Moyenmoutier | Humbert, de Moyenmoutier",
+            "date_of_birth": "",
+            "date_of_death": "1061-05-05",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Adversus Symonianos",
+        "genre": {
+          "id": 15026,
+          "value": "Polemics",
+          "color": "light-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 5,
+            "name": "Papal Curia",
+            "jad_id": "jad_institutional_context__5",
+            "part_of": [],
+            "gnd_url": "https://d-nb.info/gnd/2034643-8",
+            "wikidata": "https://www.wikidata.org/wiki/Q108169",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 33,
+            "value": "mid 11th cen."
+          }
+        ],
+        "link_digital_editions": "https://www.dmgh.de/mgh_ldl_1/index.htm#page/(III)/mode/1up",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Ldl 1",
+        "other_editions": "",
+        "view_label": "Adversus Symonianos ",
+        "prev": {
+          "id": "jad_work__51",
+          "label": "Commentary Psalms "
+        },
+        "next": {
+          "id": "jad_work__511",
+          "label": "Liber certarum historiarum "
+        }
+      }
+    ]
   },
   "288": {
     "id": 288,
-    "name": "",
+    "name": "John of Victring",
     "jad_id": "jad_author__288",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/119559552",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Victring, Johannes de | Johann von Viktring, Abbot | Johannes de Victoria, Abt | Johannes Victoriensis, Abbot | Johannes, de Viktring | Johannes de Viktring, Abbot | Johannes von Viktring, Abbot | Johannes de Victring, Abbé | Johannes de Victoria, Abbé | Johannes, de Victoria | Johannes de Victoria, Abbot | Viktring, Johannes von, Abbé | Victring, Johannes de, Abt | Johannes, von Viktring | Johannes de Victring, Abbot | Johannes von Viktring, Abt | Johannes de Viktring, Abbé | Jean de Victring, Abbot | Viktring, Johannes von, Abbot | Johann von Viktring, Abt | Johannes Victoriensis, Abt | Jean de Victring, Abt | Johannes, Victoriensis | Jean de Victring, Abbé | Johann von Viktring, Abbé | Johannes, Victringensis | Johannes Victringensis, Abbot | Johannes Victringensis, Abt | Johannes von Viktring, Abbé | Johann, von Viktring | Victring, Johannes de, Abbé | Johannes de Viktring, Abt | Viktring, Johannes von | Johannes Victringensis, Abbé | Viktring, Johannes von, Abt | Johannes, Abbas | Victring, Johannes de, Abbot | Johannes Victoriensis, Abbé | Jean, de Victring",
     "date_of_birth": "",
-    "date_of_death": "",
+    "date_of_death": "1345",
     "place": [],
-    "view_label": "",
+    "view_label": "John of Victring",
     "prev": {
       "id": "jad_author__287",
-      "label": ""
+      "label": "Humbert of Silva Candida, Cardinal"
     },
     "next": {
       "id": "jad_author__289",
-      "label": ""
+      "label": "Iordanes Gotus"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 511,
+        "name": "Liber certarum historiarum ",
+        "jad_id": "jad_work__511",
+        "author": [
+          {
+            "id": 288,
+            "name": "John of Victring",
+            "jad_id": "jad_author__288",
+            "gnd_url": "https://d-nb.info/gnd/119559552",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Victring, Johannes de | Johann von Viktring, Abbot | Johannes de Victoria, Abt | Johannes Victoriensis, Abbot | Johannes, de Viktring | Johannes de Viktring, Abbot | Johannes von Viktring, Abbot | Johannes de Victring, Abbé | Johannes de Victoria, Abbé | Johannes, de Victoria | Johannes de Victoria, Abbot | Viktring, Johannes von, Abbé | Victring, Johannes de, Abt | Johannes, von Viktring | Johannes de Victring, Abbot | Johannes von Viktring, Abt | Johannes de Viktring, Abbé | Jean de Victring, Abbot | Viktring, Johannes von, Abbot | Johann von Viktring, Abt | Johannes Victoriensis, Abt | Jean de Victring, Abt | Johannes, Victoriensis | Jean de Victring, Abbé | Johann von Viktring, Abbé | Johannes, Victringensis | Johannes Victringensis, Abbot | Johannes Victringensis, Abt | Johannes von Viktring, Abbé | Johann, von Viktring | Victring, Johannes de, Abbé | Johannes de Viktring, Abt | Viktring, Johannes von | Johannes Victringensis, Abbé | Viktring, Johannes von, Abt | Johannes, Abbas | Victring, Johannes de, Abbot | Johannes Victoriensis, Abbé | Jean, de Victring",
+            "date_of_birth": "",
+            "date_of_death": "1345",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Liber certarum historiarum",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 79,
+            "value": "14th cen., first half"
+          }
+        ],
+        "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_germ_36_1/index.htm#page/(III)/mode/1up",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS rer. Germ. 36",
+        "other_editions": "",
+        "view_label": "Liber certarum historiarum ",
+        "prev": {
+          "id": "jad_work__510",
+          "label": "Adversus Symonianos "
+        },
+        "next": {
+          "id": "jad_work__512",
+          "label": "De summa temporum "
+        }
+      }
+    ]
   },
   "289": {
     "id": 289,
-    "name": "",
+    "name": "Iordanes Gotus",
     "jad_id": "jad_author__289",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118891472",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Jornandes | Jordanus, de Ravenna | Iordan | Jordanes, de Ravenne | Iordanes, Alanus | Jordanis, Episcopus | Iordanes | Jordan | Iornandes, Ravenna, Episcopus | Gotus, Iordanes | Jordanus, Ravennas | Iornandes, Alanus | Jordanus, Ravenna, Episcopus | Iornandes | Jorandes | Iordanus, Gotus | Jordanes, Historien des Goths | Jordanes, Evêque de Ravenne | Iordanus | Iordanes, Episcopus | Jordanus | Jordanes | Jordanes, Gotus | Iordanes, de Ravenna | Jornandes, Gotus | Jordanis | Jordanis, de Ravenne",
     "date_of_birth": "",
     "date_of_death": "",
     "place": [],
-    "view_label": "",
+    "view_label": "Iordanes Gotus",
     "prev": {
       "id": "jad_author__288",
-      "label": ""
+      "label": "John of Victring"
     },
     "next": {
       "id": "jad_author__29",
       "label": "non detectable"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 512,
+        "name": "De summa temporum ",
+        "jad_id": "jad_work__512",
+        "author": [
+          {
+            "id": 289,
+            "name": "Iordanes Gotus",
+            "jad_id": "jad_author__289",
+            "gnd_url": "https://d-nb.info/gnd/118891472",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Jornandes | Jordanus, de Ravenna | Iordan | Jordanes, de Ravenne | Iordanes, Alanus | Jordanis, Episcopus | Iordanes | Jordan | Iornandes, Ravenna, Episcopus | Gotus, Iordanes | Jordanus, Ravennas | Iornandes, Alanus | Jordanus, Ravenna, Episcopus | Iornandes | Jorandes | Iordanus, Gotus | Jordanes, Historien des Goths | Jordanes, Evêque de Ravenne | Iordanus | Iordanes, Episcopus | Jordanus | Jordanes | Jordanes, Gotus | Iordanes, de Ravenna | Jornandes, Gotus | Jordanis | Jordanis, de Ravenne",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "De summa temporum",
+        "genre": {
+          "id": 18449,
+          "value": "Computistic treatise",
+          "color": "darker-gray"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 24,
+            "value": "around 600"
+          }
+        ],
+        "link_digital_editions": "https://www.dmgh.de/mgh_auct_ant_5_1/index.htm#page/(1)/mode/1up",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Auct. ant. 5,1",
+        "other_editions": "",
+        "view_label": "De summa temporum ",
+        "prev": {
+          "id": "jad_work__511",
+          "label": "Liber certarum historiarum "
+        },
+        "next": {
+          "id": "jad_work__513",
+          "label": "Annales "
+        }
+      }
+    ]
   },
   "290": {
     "id": 290,
-    "name": "",
+    "name": "Lampert of Hersfeld",
     "jad_id": "jad_author__290",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/10095135X",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
+    "alt_name": "Lambertus, Schaffnaburgensis | Landebertus, Schafnaburgensis | Lambertus, Aschaffenburgensis | Lampert, von Hersfeld, Hasungen, Abt | Lampert von Hersfeld | Lambertus, Haserensis | Lantpertus, Schafnaburgensis | Lambert von Hersfeld | Lambert, a Hersfeld | Lampertus, Hersfeldensis | Lambertus, Schafnaburgensis | Lambert, Hersfeldensis | Lambertus, Aschafnaburgensis | Lambert, von Aschaffenburg | Lambertus, Hersfeldensis | Lambert, von Hersfeld | Lampertus, Monachus Hersfeldensis | Lambertus, von Hersfeld",
+    "date_of_birth": "1025",
+    "date_of_death": "1081",
     "place": [],
-    "view_label": "",
+    "view_label": "Lampert of Hersfeld",
     "prev": {
       "id": "jad_author__29",
       "label": "non detectable"
@@ -37676,6 +38227,175 @@
     "next": {
       "id": "jad_author__3",
       "label": "anonymous"
+    },
+    "related__works": [
+      {
+        "id": 513,
+        "name": "Annales ",
+        "jad_id": "jad_work__513",
+        "author": [
+          {
+            "id": 290,
+            "name": "Lampert of Hersfeld",
+            "jad_id": "jad_author__290",
+            "gnd_url": "https://d-nb.info/gnd/10095135X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Lambertus, Schaffnaburgensis | Landebertus, Schafnaburgensis | Lambertus, Aschaffenburgensis | Lampert, von Hersfeld, Hasungen, Abt | Lampert von Hersfeld | Lambertus, Haserensis | Lantpertus, Schafnaburgensis | Lambert von Hersfeld | Lambert, a Hersfeld | Lampertus, Hersfeldensis | Lambertus, Schafnaburgensis | Lambert, Hersfeldensis | Lambertus, Aschafnaburgensis | Lambert, von Aschaffenburg | Lambertus, Hersfeldensis | Lambert, von Hersfeld | Lampertus, Monachus Hersfeldensis | Lambertus, von Hersfeld",
+            "date_of_birth": "1025",
+            "date_of_death": "1081",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Annales",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 14,
+            "value": "12th cen., second half"
+          }
+        ],
+        "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_germ_38/index.htm#page/(III)/mode/1up",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS rer. Germ. 38",
+        "other_editions": "",
+        "view_label": "Annales ",
+        "prev": {
+          "id": "jad_work__512",
+          "label": "De summa temporum "
+        },
+        "next": {
+          "id": "jad_work__514",
+          "label": "Prophecies about the destruction of Jerusalem "
+        }
+      }
+    ]
+  },
+  "318": {
+    "id": 318,
+    "name": "",
+    "jad_id": "jad_author__318",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__31",
+      "label": "Gerhoch of Reichersberg"
+    },
+    "next": {
+      "id": "jad_author__319",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "319": {
+    "id": 319,
+    "name": "",
+    "jad_id": "jad_author__319",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__318",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__32",
+      "label": "Anselm of Laon"
+    },
+    "related__works": []
+  },
+  "320": {
+    "id": 320,
+    "name": "",
+    "jad_id": "jad_author__320",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__32",
+      "label": "Anselm of Laon"
+    },
+    "next": {
+      "id": "jad_author__321",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "321": {
+    "id": 321,
+    "name": "",
+    "jad_id": "jad_author__321",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__320",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__322",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "322": {
+    "id": 322,
+    "name": "",
+    "jad_id": "jad_author__322",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__321",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__33",
+      "label": "Angelomus Luxovensis"
     },
     "related__works": []
   }

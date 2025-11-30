@@ -759,6 +759,11 @@
         "id": 162,
         "value": "Beinecke, Marston MS 220",
         "order": "155.00000000000000000000"
+      },
+      {
+        "id": 163,
+        "value": "Linz, MS 402",
+        "order": "156.00000000000000000000"
       }
     ],
     "title": "De destructione templi",
@@ -5490,7 +5495,7 @@
   "114": {
     "id": 114,
     "order": "113.00000000000000000000",
-    "name": "Libelli selecti ",
+    "name": "De investigatione Antichristi ",
     "jad_id": "jad_work__114",
     "author": [
       {
@@ -5499,8 +5504,14 @@
         "order": "31.00000000000000000000"
       }
     ],
-    "manuscripts": [],
-    "title": "Libelli selecti",
+    "manuscripts": [
+      {
+        "id": 164,
+        "value": "Reichersberg, MS 5",
+        "order": "157.00000000000000000000"
+      }
+    ],
+    "title": "De investigatione Antichristi",
     "genre": {
       "id": 14732,
       "value": "Idiosyncratic work",
@@ -5517,9 +5528,9 @@
     ],
     "published_edition": [
       {
-        "id": 2,
-        "value": "Patrologia Latina",
-        "order": "2.00000000000000000000"
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
       }
     ],
     "date_certainty": true,
@@ -16360,7 +16371,7 @@
   "357": {
     "id": 357,
     "order": "344.00000000000000000000",
-    "name": "Annales Hildesheimenses Quedlinburgenses et Lamberti ",
+    "name": "Annales Quedlinburgenses ",
     "jad_id": "jad_work__357",
     "author": [
       {
@@ -16370,7 +16381,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "Annales Hildesheimenses Quedlinburgenses et Lamberti",
+    "title": "Annales Quedlinburgenses",
     "genre": {
       "id": 14731,
       "value": "Chronicle",
@@ -21704,8 +21715,450 @@
   "475": {
     "id": 475,
     "order": "462.00000000000000000000",
-    "name": " ",
+    "name": "Annales Hildesheimenses ",
     "jad_id": "jad_work__475",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Annales Hildesheimenses",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_germ_8/index.htm#page/(III)/mode/1up",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS rer. Germ. 8",
+    "other_editions": ""
+  },
+  "476": {
+    "id": 476,
+    "order": "463.00000000000000000000",
+    "name": "Gesta episcoporum Neapolitanorum ",
+    "jad_id": "jad_work__476",
+    "author": [
+      {
+        "id": 285,
+        "value": "Johannes Diaconus",
+        "order": "217.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Gesta episcoporum Neapolitanorum",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 19,
+        "value": "around 900",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_lang_1/index.htm#page/(III)/mode/1up",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS rer. Lang. 1",
+    "other_editions": ""
+  },
+  "507": {
+    "id": 507,
+    "order": "464.00000000000000000000",
+    "name": "Vita Athanasii episcopi Neapolitani ",
+    "jad_id": "jad_work__507",
+    "author": [
+      {
+        "id": 285,
+        "value": "Johannes Diaconus",
+        "order": "217.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Vita Athanasii episcopi Neapolitani",
+    "genre": {
+      "id": 15028,
+      "value": "Hagiography",
+      "color": "darker-blue"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 19,
+        "value": "around 900",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_lang_1/index.htm#page/(III)/mode/1up",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS rer. Lang. 1",
+    "other_editions": ""
+  },
+  "508": {
+    "id": 508,
+    "order": "465.00000000000000000000",
+    "name": "Anonymus Rapularius ",
+    "jad_id": "jad_work__508",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Anonymus Rapularius",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 62,
+        "value": "15th cen., first half",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.dmgh.de/mgh_qq_zur_geistesgesch_17/index.htm#page/(III)/mode/1up",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "QQ zur Geistesgesch. 17",
+    "other_editions": ""
+  },
+  "509": {
+    "id": 509,
+    "order": "466.00000000000000000000",
+    "name": "Chronica ",
+    "jad_id": "jad_work__509",
+    "author": [
+      {
+        "id": 286,
+        "value": "Fredegarius",
+        "order": "218.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronica",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 27,
+        "value": "late 7th cen.",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_merov_2/index.htm#page/(III)/mode/1up",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS rer. Merov. 2",
+    "other_editions": ""
+  },
+  "510": {
+    "id": 510,
+    "order": "467.00000000000000000000",
+    "name": "Adversus Symonianos ",
+    "jad_id": "jad_work__510",
+    "author": [
+      {
+        "id": 287,
+        "value": "Humbert of Silva Candida, Cardinal",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Adversus Symonianos",
+    "genre": {
+      "id": 15026,
+      "value": "Polemics",
+      "color": "light-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 5,
+        "value": "Papal Curia",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 33,
+        "value": "mid 11th cen.",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.dmgh.de/mgh_ldl_1/index.htm#page/(III)/mode/1up",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Ldl 1",
+    "other_editions": ""
+  },
+  "511": {
+    "id": 511,
+    "order": "468.00000000000000000000",
+    "name": "Liber certarum historiarum ",
+    "jad_id": "jad_work__511",
+    "author": [
+      {
+        "id": 288,
+        "value": "John of Victring",
+        "order": "220.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Liber certarum historiarum",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 79,
+        "value": "14th cen., first half",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_germ_36_1/index.htm#page/(III)/mode/1up",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS rer. Germ. 36",
+    "other_editions": ""
+  },
+  "512": {
+    "id": 512,
+    "order": "469.00000000000000000000",
+    "name": "De summa temporum ",
+    "jad_id": "jad_work__512",
+    "author": [
+      {
+        "id": 289,
+        "value": "Iordanes Gotus",
+        "order": "221.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De summa temporum",
+    "genre": {
+      "id": 18449,
+      "value": "Computistic treatise",
+      "color": "darker-gray"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 24,
+        "value": "around 600",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.dmgh.de/mgh_auct_ant_5_1/index.htm#page/(1)/mode/1up",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Auct. ant. 5,1",
+    "other_editions": ""
+  },
+  "513": {
+    "id": 513,
+    "order": "470.00000000000000000000",
+    "name": "Annales ",
+    "jad_id": "jad_work__513",
+    "author": [
+      {
+        "id": 290,
+        "value": "Lampert of Hersfeld",
+        "order": "222.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Annales",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 14,
+        "value": "12th cen., second half",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_germ_38/index.htm#page/(III)/mode/1up",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS rer. Germ. 38",
+    "other_editions": ""
+  },
+  "514": {
+    "id": 514,
+    "order": "471.00000000000000000000",
+    "name": "Prophecies about the destruction of Jerusalem ",
+    "jad_id": "jad_work__514",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 165,
+        "value": "ÖNB, Cod. Slav. 125",
+        "order": "158.00000000000000000000"
+      }
+    ],
+    "title": "Prophecies about the destruction of Jerusalem",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 84,
+        "value": "16th cen",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "515": {
+    "id": 515,
+    "order": "472.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__515",
     "author": [],
     "manuscripts": [],
     "title": "",
@@ -21722,11 +22175,53 @@
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
   },
-  "476": {
-    "id": 476,
-    "order": "463.00000000000000000000",
+  "516": {
+    "id": 516,
+    "order": "473.00000000000000000000",
     "name": " ",
-    "jad_id": "jad_work__476",
+    "jad_id": "jad_work__516",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "517": {
+    "id": 517,
+    "order": "474.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__517",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "518": {
+    "id": 518,
+    "order": "475.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__518",
     "author": [],
     "manuscripts": [],
     "title": "",

@@ -12937,17 +12937,27 @@
     },
     "next": {
       "id": "jad_occurence__336",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     }
   },
   "336": {
     "id": 336,
     "jad_id": "jad_occurence__336",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1647,
+        "value": "??"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 165,
+        "value": "ÖNB, Cod. Slav. 125"
+      }
+    ],
+    "position_in_ms": "163r-244v",
+    "main_ms": true,
+    "facsimile_position": "https://viewer.onb.ac.at/1322BFC2",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -12957,9 +12967,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-09-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-11-29",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 165,
+          "database_table_3497": 1
+        },
+        "value": "ÖNB, Cod. Slav. 125, f. 163r-244v"
+      }
+    ],
+    "view_label": "??",
     "prev": {
       "id": "jad_occurence__335",
       "label": "post quadragesimum secundum annum suae ascensionis, venerunt duo ursi, id est titus et vespasianus pater eius de imperio romanorum et laceraverunt eos"
@@ -12991,7 +13009,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__336",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     },
     "next": {
       "id": "jad_occurence__338",

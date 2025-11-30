@@ -19,7 +19,7 @@
     "jad_id": "jad_cluster__2",
     "view_label": "Third Crusade",
     "prev": {
-      "id": "jad_cluster__12",
+      "id": "jad_cluster__15",
       "label": ""
     },
     "next": {
@@ -136,30 +136,72 @@
     },
     "next": {
       "id": "jad_cluster__11",
-      "label": ""
+      "label": "Second Crusade"
     }
   },
   "11": {
     "id": 11,
-    "name": "",
+    "name": "Second Crusade",
     "jad_id": "jad_cluster__11",
-    "view_label": "",
+    "view_label": "Second Crusade",
     "prev": {
       "id": "jad_cluster__10",
       "label": "Capture of Acre (1291)"
     },
     "next": {
       "id": "jad_cluster__12",
-      "label": ""
+      "label": "Sergius IV"
     }
   },
   "12": {
     "id": 12,
-    "name": "",
+    "name": "Sergius IV",
     "jad_id": "jad_cluster__12",
-    "view_label": "",
+    "view_label": "Sergius IV",
     "prev": {
       "id": "jad_cluster__11",
+      "label": "Second Crusade"
+    },
+    "next": {
+      "id": "jad_cluster__13",
+      "label": ""
+    }
+  },
+  "13": {
+    "id": 13,
+    "name": "",
+    "jad_id": "jad_cluster__13",
+    "view_label": "",
+    "prev": {
+      "id": "jad_cluster__12",
+      "label": "Sergius IV"
+    },
+    "next": {
+      "id": "jad_cluster__14",
+      "label": ""
+    }
+  },
+  "14": {
+    "id": 14,
+    "name": "",
+    "jad_id": "jad_cluster__14",
+    "view_label": "",
+    "prev": {
+      "id": "jad_cluster__13",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_cluster__15",
+      "label": ""
+    }
+  },
+  "15": {
+    "id": 15,
+    "name": "",
+    "jad_id": "jad_cluster__15",
+    "view_label": "",
+    "prev": {
+      "id": "jad_cluster__14",
       "label": ""
     },
     "next": {
