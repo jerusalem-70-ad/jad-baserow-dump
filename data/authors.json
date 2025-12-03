@@ -3126,7 +3126,7 @@
         },
         "next": {
           "id": "jad_work__515",
-          "label": " "
+          "label": "Sermones "
         }
       }
     ]
@@ -14078,7 +14078,7 @@
     },
     "next": {
       "id": "jad_author__318",
-      "label": ""
+      "label": "Sextus Amarcius"
     },
     "related__works": [
       {
@@ -16976,8 +16976,8 @@
           "label": "Adversus Iudaeos "
         },
         "next": {
-          "id": "jad_work__55",
-          "label": "Glossa Ordinaria "
+          "id": "jad_work__546",
+          "label": " "
         }
       }
     ]
@@ -17088,8 +17088,8 @@
         "other_editions": null,
         "view_label": "Glossa Ordinaria ",
         "prev": {
-          "id": "jad_work__54",
-          "label": "Commentary Isaiah "
+          "id": "jad_work__548",
+          "label": " "
         },
         "next": {
           "id": "jad_work__56",
@@ -30846,7 +30846,27 @@
         },
         "notes": "",
         "notes__author": "",
-        "institutional_context": [],
+        "institutional_context": [
+          {
+            "id": 10,
+            "name": "Cistercians Clairvaux",
+            "jad_id": "jad_institutional_context__10",
+            "part_of": [
+              {
+                "id": 9,
+                "name": "Cistercians",
+                "jad_id": "jad_institutional_context__9",
+                "part_of": [],
+                "gnd_url": "",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
         "published_edition": [
           {
             "id": 2,
@@ -30875,6 +30895,89 @@
         "next": {
           "id": "jad_work__348",
           "label": "Commentary Habacuc "
+        }
+      },
+      {
+        "id": 516,
+        "name": "Sermones ",
+        "jad_id": "jad_work__516",
+        "author": [
+          {
+            "id": 164,
+            "name": "Garnerius of Clairvaux",
+            "jad_id": "jad_author__164",
+            "gnd_url": "https://d-nb.info/gnd/102470316",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Rupeforti, Garnerius de | Garnier, d'Auberive | Garnerius, Bishop | Walter, von Rochefort | Garnier, de Longuay | Guarnerus, de Rupeforti | Garnerius, de Rochefort | Warnerius, de Rupeforti | Garnier, Evêque | Garnerius, von Rochefort | Garnier, Moine | Garnier, de Rochefort | Garnerius, Episcopus | Garnerius, de Langres | Garnerius, Lingonensis | Garnerius, of Rochefort | Garnerius, Cisterciensis | Garnerius, of Lingon | Garnerius, de Rvpeforti | Garnerius, de Rupe Forti | Garnier, Abbé | Garnier, Prieur | Garnier, de Langres | Garnier, de Clairvaux",
+            "date_of_birth": "1140",
+            "date_of_death": "1225",
+            "place": [
+              {
+                "id": 50,
+                "value": "Clairvaux"
+              }
+            ]
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 10,
+            "name": "Cistercians Clairvaux",
+            "jad_id": "jad_institutional_context__10",
+            "part_of": [
+              {
+                "id": 9,
+                "name": "Cistercians",
+                "jad_id": "jad_institutional_context__9",
+                "part_of": [],
+                "gnd_url": "",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "205",
+        "other_editions": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__515",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__517",
+          "label": " "
         }
       }
     ]
@@ -38291,16 +38394,16 @@
   },
   "318": {
     "id": 318,
-    "name": "",
+    "name": "Sextus Amarcius",
     "jad_id": "jad_author__318",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118644963",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Piosistratus, Sextus A. | Sextus Amarcius | Amarcius, Gallus Piosistratus | Gallus Piosistratus, Sextus Amarcius | Amarcius Gallus Piosistratus, Sextus | Gallus Piosistratus, Sextus A. | Piosistratus, Sextus Amarcius Gallus | Amarcius, Sextus",
     "date_of_birth": "",
     "date_of_death": "",
     "place": [],
-    "view_label": "",
+    "view_label": "Sextus Amarcius",
     "prev": {
       "id": "jad_author__31",
       "label": "Gerhoch of Reichersberg"
@@ -38309,7 +38412,66 @@
       "id": "jad_author__319",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 515,
+        "name": "Sermones ",
+        "jad_id": "jad_work__515",
+        "author": [
+          {
+            "id": 318,
+            "name": "Sextus Amarcius",
+            "jad_id": "jad_author__318",
+            "gnd_url": "https://d-nb.info/gnd/118644963",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Piosistratus, Sextus A. | Sextus Amarcius | Amarcius, Gallus Piosistratus | Gallus Piosistratus, Sextus Amarcius | Amarcius Gallus Piosistratus, Sextus | Gallus Piosistratus, Sextus A. | Piosistratus, Sextus Amarcius Gallus | Amarcius, Sextus",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 65,
+            "value": "11th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__514",
+          "label": "Prophecies about the destruction of Jerusalem "
+        },
+        "next": {
+          "id": "jad_work__516",
+          "label": "Sermones "
+        }
+      }
+    ]
   },
   "319": {
     "id": 319,
@@ -38325,7 +38487,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__318",
-      "label": ""
+      "label": "Sextus Amarcius"
     },
     "next": {
       "id": "jad_author__32",

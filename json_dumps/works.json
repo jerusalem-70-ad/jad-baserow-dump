@@ -15959,7 +15959,13 @@
     },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 10,
+        "value": "Cistercians Clairvaux",
+        "order": "10.00000000000000000000"
+      }
+    ],
     "published_edition": [
       {
         "id": 2,
@@ -22157,20 +22163,42 @@
   "515": {
     "id": 515,
     "order": "472.00000000000000000000",
-    "name": " ",
+    "name": "Sermones ",
     "jad_id": "jad_work__515",
-    "author": [],
+    "author": [
+      {
+        "id": 318,
+        "value": "Sextus Amarcius",
+        "order": "223.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 65,
+        "value": "11th cen., second half",
+        "order": "64.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -22178,22 +22206,50 @@
   "516": {
     "id": 516,
     "order": "473.00000000000000000000",
-    "name": " ",
+    "name": "Sermones ",
     "jad_id": "jad_work__516",
-    "author": [],
+    "author": [
+      {
+        "id": 164,
+        "value": "Garnerius of Clairvaux",
+        "order": "150.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "institutional_context": [
+      {
+        "id": 10,
+        "value": "Cistercians Clairvaux",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "205",
     "other_editions": ""
   },
   "517": {
@@ -22222,6 +22278,69 @@
     "order": "475.00000000000000000000",
     "name": " ",
     "jad_id": "jad_work__518",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "546": {
+    "id": 546,
+    "order": "476.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__546",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "547": {
+    "id": 547,
+    "order": "477.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__547",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "548": {
+    "id": 548,
+    "order": "478.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__548",
     "author": [],
     "manuscripts": [],
     "title": "",
