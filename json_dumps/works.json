@@ -16742,8 +16742,14 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
-    "date": [],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 119,
+        "value": "8th cen",
+        "order": "87.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
@@ -21356,9 +21362,9 @@
     ],
     "published_edition": [
       {
-        "id": 1,
-        "value": "None",
-        "order": "1.00000000000000000000"
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
       }
     ],
     "date_certainty": true,
@@ -22255,20 +22261,48 @@
   "517": {
     "id": 517,
     "order": "474.00000000000000000000",
-    "name": " ",
+    "name": "Sermones ",
     "jad_id": "jad_work__517",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 166,
+        "value": "BSB, Clm 4552",
+        "order": "159.00000000000000000000"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 68,
+        "value": "11th cen.",
+        "order": "67.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -22276,50 +22310,1826 @@
   "518": {
     "id": 518,
     "order": "475.00000000000000000000",
-    "name": " ",
+    "name": "Petri Rigae carmen Aurora emendatum et continuatum ",
     "jad_id": "jad_work__518",
-    "author": [],
+    "author": [
+      {
+        "id": 319,
+        "value": "Aegidius Parisiensis",
+        "order": "224.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Petri Rigae carmen Aurora emendatum et continuatum",
+    "genre": {
+      "id": 18451,
+      "value": "Poetry",
+      "color": "orange"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "ed. Paul E. Beichner",
     "other_editions": ""
   },
   "546": {
     "id": 546,
     "order": "476.00000000000000000000",
-    "name": " ",
+    "name": "Quoniam homines ",
     "jad_id": "jad_work__546",
-    "author": [],
+    "author": [
+      {
+        "id": 75,
+        "value": "Alan of Lille",
+        "order": "74.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Quoniam homines",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "ed. Palémon Glorieux",
     "other_editions": ""
   },
   "547": {
     "id": 547,
     "order": "477.00000000000000000000",
-    "name": " ",
+    "name": "Quaestiones Veteris et Noui testamenti ",
     "jad_id": "jad_work__547",
+    "author": [
+      {
+        "id": 320,
+        "value": "Ambrosiaster",
+        "order": "225.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Quaestiones Veteris et Noui testamenti",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 16,
+        "value": "CSEL",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 59,
+        "value": "mid 4th cen.",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "50",
+    "other_editions": ""
+  },
+  "548": {
+    "id": 548,
+    "order": "478.00000000000000000000",
+    "name": "Rerum gestarum libri qui supersunt ",
+    "jad_id": "jad_work__548",
+    "author": [
+      {
+        "id": 321,
+        "value": "Ammianus Marcellinus",
+        "order": "226.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Rerum gestarum libri qui supersunt",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 66,
+        "value": "late 4th cen.",
+        "order": "65.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Teubner 1978",
+    "other_editions": ""
+  },
+  "549": {
+    "id": 549,
+    "order": "479.00000000000000000000",
+    "name": "Chronographia tripertita ",
+    "jad_id": "jad_work__549",
+    "author": [
+      {
+        "id": 322,
+        "value": "Anastasius Bibliothecarius",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronographia tripertita",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. C. de Boor 1885",
+    "other_editions": ""
+  },
+  "550": {
+    "id": 550,
+    "order": "480.00000000000000000000",
+    "name": "Commentary Daniel ",
+    "jad_id": "jad_work__550",
+    "author": [
+      {
+        "id": 45,
+        "value": "Andrew of Saint Victor",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Daniel",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "551": {
+    "id": 551,
+    "order": "481.00000000000000000000",
+    "name": "Super duodecim prophetas ",
+    "jad_id": "jad_work__551",
+    "author": [
+      {
+        "id": 45,
+        "value": "Andrew of Saint Victor",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Super duodecim prophetas",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "552": {
+    "id": 552,
+    "order": "482.00000000000000000000",
+    "name": "De ueritate sacrae scripturae ",
+    "jad_id": "jad_work__552",
+    "author": [
+      {
+        "id": 351,
+        "value": "John Wyclif",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De ueritate sacrae scripturae",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 54,
+        "value": "14th cen., second half",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Rudolf Buddensieg, 1905-1907",
+    "other_editions": ""
+  },
+  "553": {
+    "id": 553,
+    "order": "483.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__553",
+    "author": [
+      {
+        "id": 351,
+        "value": "John Wyclif",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 54,
+        "value": "14th cen., second half",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Johannes Loserth, 1887-1890",
+    "other_editions": ""
+  },
+  "554": {
+    "id": 554,
+    "order": "484.00000000000000000000",
+    "name": "Sermones dominicales et mariani ",
+    "jad_id": "jad_work__554",
+    "author": [
+      {
+        "id": 352,
+        "value": "Antonius of Padua, saint",
+        "order": "229.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones dominicales et mariani",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Beniamino Costa, Leonardo Frasson, Giovanni Luisetto, Paolo Marangon (Padua 1979)",
+    "other_editions": ""
+  },
+  "555": {
+    "id": 555,
+    "order": "485.00000000000000000000",
+    "name": "Aduersus Elipandum libri duo ",
+    "jad_id": "jad_work__555",
+    "author": [
+      {
+        "id": 353,
+        "value": "Beatus Liebanus",
+        "order": "230.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Aduersus Elipandum libri duo",
+    "genre": {
+      "id": 15026,
+      "value": "Polemics",
+      "color": "light-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 37,
+        "value": "late 8th cen.",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "556": {
+    "id": 556,
+    "order": "486.00000000000000000000",
+    "name": "Historiae abbreuiatae ",
+    "jad_id": "jad_work__556",
+    "author": [
+      {
+        "id": 354,
+        "value": "Aurelius Victor Sextus",
+        "order": "231.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Historiae abbreuiatae",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 85,
+        "value": "4th cen., second half",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Teubner 1911",
+    "other_editions": ""
+  },
+  "557": {
+    "id": 557,
+    "order": "487.00000000000000000000",
+    "name": "Libellus de uita et moribus imperatorum breuiatus ",
+    "jad_id": "jad_work__557",
+    "author": [
+      {
+        "id": 354,
+        "value": "Aurelius Victor Sextus",
+        "order": "231.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Libellus de uita et moribus imperatorum breuiatus",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 85,
+        "value": "4th cen., second half",
+        "order": "84.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Teubner 1911",
+    "other_editions": ""
+  },
+  "558": {
+    "id": 558,
+    "order": "488.00000000000000000000",
+    "name": "Milleloquium ueritatis Augustini ",
+    "jad_id": "jad_work__558",
+    "author": [
+      {
+        "id": 355,
+        "value": "Bartholomaeus de Urbino",
+        "order": "232.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Milleloquium ueritatis Augustini",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 79,
+        "value": "14th cen., first half",
+        "order": "78.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Lukas J. Dorfbauer, Wiener Studien 123 (2010)",
+    "other_editions": ""
+  },
+  "559": {
+    "id": 559,
+    "order": "489.00000000000000000000",
+    "name": "Fabularius ",
+    "jad_id": "jad_work__559",
+    "author": [
+      {
+        "id": 356,
+        "value": "Conrad of Mure",
+        "order": "233.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Fabularius",
+    "genre": {
+      "id": 18451,
+      "value": "Poetry",
+      "color": "orange"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "560": {
+    "id": 560,
+    "order": "490.00000000000000000000",
+    "name": "Sermones quattuor in dormitionem Dominae nostrae Dei genetricis semperque uirginis ",
+    "jad_id": "jad_work__560",
+    "author": [
+      {
+        "id": 357,
+        "value": "Cosmas Vestitor",
+        "order": "234.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones quattuor in dormitionem Dominae nostrae Dei genetricis semperque uirginis",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 15,
+        "value": "9th cen., first half",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "561": {
+    "id": 561,
+    "order": "491.00000000000000000000",
+    "name": "De subversione Jerusalem ",
+    "jad_id": "jad_work__561",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 168,
+        "value": "BL, Arundel 201",
+        "order": "161.00000000000000000000"
+      }
+    ],
+    "title": "De subversione Jerusalem",
+    "genre": {
+      "id": 18451,
+      "value": "Poetry",
+      "color": "orange"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "562": {
+    "id": 562,
+    "order": "492.00000000000000000000",
+    "name": "De principis instructione ",
+    "jad_id": "jad_work__562",
+    "author": [
+      {
+        "id": 358,
+        "value": "Gerald of Wales",
+        "order": "235.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De principis instructione",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 17,
+        "value": "Rolls Series",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 9,
+        "value": "around 1200",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "563": {
+    "id": 563,
+    "order": "493.00000000000000000000",
+    "name": "Liber de XII gemmis rationalis summi sacerdotis Hebraeorum ",
+    "jad_id": "jad_work__563",
+    "author": [
+      {
+        "id": 359,
+        "value": "Epiphanius Constantiensis",
+        "order": "236.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Liber de XII gemmis rationalis summi sacerdotis Hebraeorum",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 16,
+        "value": "CSEL",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 80,
+        "value": "6th cen.",
+        "order": "79.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "35",
+    "other_editions": ""
+  },
+  "564": {
+    "id": 564,
+    "order": "494.00000000000000000000",
+    "name": "Expositio in libros Regum ",
+    "jad_id": "jad_work__564",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 169,
+        "value": "Karlsruhe, Aug. perg. 135",
+        "order": "162.00000000000000000000"
+      }
+    ],
+    "title": "Expositio in libros Regum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 18,
+        "value": "Mirabile Digital Library",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 1,
+        "value": "9th cen.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "565": {
+    "id": 565,
+    "order": "495.00000000000000000000",
+    "name": "Hystoria Atile dicti flagellum Dei ",
+    "jad_id": "jad_work__565",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Hystoria Atile dicti flagellum Dei",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 43,
+        "value": "14th cen.",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Elena Necchi, Hystoria Atile dicti flagellum Dei: il libro della nascita di Venezia: dal manoscritto 1308 della Biblioteca Civica di Verona, con a fronte il testo dell'incunabolo G. 230 della Biblioteca del Museo Correr di Venezia (Florence 2016).",
+    "other_editions": ""
+  },
+  "566": {
+    "id": 566,
+    "order": "496.00000000000000000000",
+    "name": "De terraemotu ",
+    "jad_id": "jad_work__566",
+    "author": [
+      {
+        "id": 360,
+        "value": "Manettus Iannotius",
+        "order": "237.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De terraemotu",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 57,
+        "value": "mid 15th cen.",
+        "order": "57.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Giannozzo Manetti, De terremotu, ed. Daniela Pagliara (Florence 2013).",
+    "other_editions": ""
+  },
+  "567": {
+    "id": 567,
+    "order": "497.00000000000000000000",
+    "name": "Elegia ",
+    "jad_id": "jad_work__567",
+    "author": [
+      {
+        "id": 361,
+        "value": "Henry of Settimello",
+        "order": "238.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Elegia",
+    "genre": {
+      "id": 18451,
+      "value": "Poetry",
+      "color": "orange"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 9,
+        "value": "around 1200",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Henricus Septimellensis, Elegia, ed. Clara Fossati (Florence 2011).",
+    "other_editions": ""
+  },
+  "568": {
+    "id": 568,
+    "order": "498.00000000000000000000",
+    "name": "Abbreuiatio in gestis et miraculis sanctorum - Supplementum hagiographicum ",
+    "jad_id": "jad_work__568",
+    "author": [
+      {
+        "id": 362,
+        "value": "John of Malliaco",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Abbreuiatio in gestis et miraculis sanctorum - Supplementum hagiographicum",
+    "genre": {
+      "id": 15028,
+      "value": "Hagiography",
+      "color": "darker-blue"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Johannes de Malliaco, Abbreviatio in gestis et miraculis sanctorum: supplementum hagiographicum: editio princeps, ed. Maggioni Giovanni Paolo (Florence 2013).",
+    "other_editions": ""
+  },
+  "569": {
+    "id": 569,
+    "order": "499.00000000000000000000",
+    "name": "De veritate prophetica dialogus ",
+    "jad_id": "jad_work__569",
+    "author": [
+      {
+        "id": 363,
+        "value": "Savonarola Girolamo",
+        "order": "240.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De veritate prophetica dialogus",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 18,
+        "value": "Mirabile Digital Library",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 78,
+        "value": "late 15th cen.",
+        "order": "77.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "570": {
+    "id": 570,
+    "order": "500.00000000000000000000",
+    "name": "Breuiarium ab urbe condita ",
+    "jad_id": "jad_work__570",
+    "author": [
+      {
+        "id": 364,
+        "value": "Eutropius",
+        "order": "241.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Breuiarium ab urbe condita",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 59,
+        "value": "mid 4th cen.",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Teubner 1979",
+    "other_editions": ""
+  },
+  "571": {
+    "id": 571,
+    "order": "501.00000000000000000000",
+    "name": "Commentarii in euangelia ",
+    "jad_id": "jad_work__571",
+    "author": [
+      {
+        "id": 365,
+        "value": "Fortunatianus Aquileiensis",
+        "order": "242.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentarii in euangelia",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 16,
+        "value": "CSEL",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 59,
+        "value": "mid 4th cen.",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "103",
+    "other_editions": ""
+  },
+  "572": {
+    "id": 572,
+    "order": "502.00000000000000000000",
+    "name": "De aetatibus mundi et hominis ",
+    "jad_id": "jad_work__572",
+    "author": [
+      {
+        "id": 366,
+        "value": "Fulgentius Fabius Planciades",
+        "order": "243.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De aetatibus mundi et hominis",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 87,
+        "value": "5th cen",
+        "order": "86.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Teubner 1970",
+    "other_editions": ""
+  },
+  "573": {
+    "id": 573,
+    "order": "503.00000000000000000000",
+    "name": "Expositio in Cantica Canticorum ",
+    "jad_id": "jad_work__573",
+    "author": [
+      {
+        "id": 367,
+        "value": "Geoffrey of Auxerre",
+        "order": "244.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio in Cantica Canticorum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 14,
+        "value": "12th cen., second half",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. F. Gastaldelli 1974",
+    "other_editions": ""
+  },
+  "574": {
+    "id": 574,
+    "order": "504.00000000000000000000",
+    "name": "Commentarium in sancti Pauli epistulas ",
+    "jad_id": "jad_work__574",
+    "author": [
+      {
+        "id": 368,
+        "value": "Gilbert of Poitiers (Porrée)",
+        "order": "245.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentarium in sancti Pauli epistulas",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 13,
+        "value": "12th cen., first half",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Karlfried Froehlich, provided via Library of Latin Texts",
+    "other_editions": ""
+  },
+  "575": {
+    "id": 575,
+    "order": "505.00000000000000000000",
+    "name": "Commentarius interpolatus ad Isaiam ",
+    "jad_id": "jad_work__575",
+    "author": [
+      {
+        "id": 370,
+        "value": "Pseudo Haimo of Auxerre",
+        "order": "247.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentarius interpolatus ad Isaiam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 86,
+        "value": "early 10th cen",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "576": {
+    "id": 576,
+    "order": "506.00000000000000000000",
+    "name": "Tractatus de philosophica interpretatione sacrae scripturae ",
+    "jad_id": "jad_work__576",
+    "author": [
+      {
+        "id": 371,
+        "value": "Heymericus de Campo",
+        "order": "248.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Tractatus de philosophica interpretatione sacrae scripturae",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "577": {
+    "id": 577,
+    "order": "507.00000000000000000000",
+    "name": "Speculum diuinorum et quorundam naturalium ",
+    "jad_id": "jad_work__577",
+    "author": [
+      {
+        "id": 372,
+        "value": "Henricus Bate",
+        "order": "249.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Speculum diuinorum et quorundam naturalium",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 17,
+        "value": "around 1300",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. H. Boese and C. Steel, 1990; as well as G. Guldentops 2002",
+    "other_editions": ""
+  },
+  "578": {
+    "id": 578,
+    "order": "508.00000000000000000000",
+    "name": "Homiliae ",
+    "jad_id": "jad_work__578",
+    "author": [
+      {
+        "id": 27,
+        "value": "Hieronymus Sophronius Eusebius",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Homiliae",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "579": {
+    "id": 579,
+    "order": "509.00000000000000000000",
+    "name": "Hortus deliciarum ",
+    "jad_id": "jad_work__579",
+    "author": [
+      {
+        "id": 373,
+        "value": "Hermannus Werdensis",
+        "order": "250.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Hortus deliciarum",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "580": {
+    "id": 580,
+    "order": "510.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__580",
+    "author": [
+      {
+        "id": 374,
+        "value": "Jan Hus",
+        "order": "251.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 77,
+        "value": "early 15th cen.",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "581": {
+    "id": 581,
+    "order": "511.00000000000000000000",
+    "name": "Tractatus de dono timoris ",
+    "jad_id": "jad_work__581",
+    "author": [
+      {
+        "id": 375,
+        "value": "Humbert de Romans",
+        "order": "252.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Tractatus de dono timoris",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "582": {
+    "id": 582,
+    "order": "512.00000000000000000000",
+    "name": "Legendae sanctorum et festiuitatum aliarum de quibus ecclesia sollemnizat ",
+    "jad_id": "jad_work__582",
+    "author": [
+      {
+        "id": 376,
+        "value": "Johannes Aegidius de Zamora",
+        "order": "253.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Legendae sanctorum et festiuitatum aliarum de quibus ecclesia sollemnizat",
+    "genre": {
+      "id": 15028,
+      "value": "Hagiography",
+      "color": "darker-blue"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 17,
+        "value": "around 1300",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. José Carlos Martín Iglesias and Eduardo Otero Pereira (2014)",
+    "other_editions": ""
+  },
+  "583": {
+    "id": 583,
+    "order": "513.00000000000000000000",
+    "name": "Sermo de assumptione beatae Mariae ",
+    "jad_id": "jad_work__583",
+    "author": [
+      {
+        "id": 377,
+        "value": "Johannes Aretinus episcopus",
+        "order": "254.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermo de assumptione beatae Mariae",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 19,
+        "value": "around 900",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "584": {
+    "id": 584,
+    "order": "514.00000000000000000000",
+    "name": "Tractatus de diuisione regnorum ",
+    "jad_id": "jad_work__584",
+    "author": [
+      {
+        "id": 378,
+        "value": "Iohannes Parisiensis, canonicus Sancti Victoris",
+        "order": "255.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Tractatus de diuisione regnorum",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 43,
+        "value": "14th cen.",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Isabelle Guyot-Bachy and Dominique Poirel (Brepols 2002)",
+    "other_editions": ""
+  },
+  "585": {
+    "id": 585,
+    "order": "515.00000000000000000000",
+    "name": "In Danielem prophetam expositio ",
+    "jad_id": "jad_work__585",
+    "author": [
+      {
+        "id": 379,
+        "value": "Johannes Michaelis",
+        "order": "256.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "In Danielem prophetam expositio",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 55,
+        "value": "early 14th cen.",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Sancti Thomae doctoris angelici ordinis Praedicatorum opera omnia, vol. 23 (Parma 1869)",
+    "other_editions": ""
+  },
+  "586": {
+    "id": 586,
+    "order": "516.00000000000000000000",
+    "name": "In libros Macchabaeorum ",
+    "jad_id": "jad_work__586",
+    "author": [
+      {
+        "id": 379,
+        "value": "Johannes Michaelis",
+        "order": "256.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "In libros Macchabaeorum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 55,
+        "value": "early 14th cen.",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Sancti Thomae doctoris angelici ordinis Praedicatorum opera omnia, vol. 23 (Parma 1869)",
+    "other_editions": ""
+  },
+  "587": {
+    "id": 587,
+    "order": "517.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__587",
     "author": [],
     "manuscripts": [],
     "title": "",
@@ -22336,11 +24146,95 @@
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
   },
-  "548": {
-    "id": 548,
-    "order": "478.00000000000000000000",
+  "588": {
+    "id": 588,
+    "order": "518.00000000000000000000",
     "name": " ",
-    "jad_id": "jad_work__548",
+    "jad_id": "jad_work__588",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "589": {
+    "id": 589,
+    "order": "519.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__589",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "590": {
+    "id": 590,
+    "order": "520.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__590",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "591": {
+    "id": 591,
+    "order": "521.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__591",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "592": {
+    "id": 592,
+    "order": "522.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__592",
     "author": [],
     "manuscripts": [],
     "title": "",

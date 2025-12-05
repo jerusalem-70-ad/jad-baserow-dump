@@ -1590,11 +1590,11 @@
     "view_label": "advenientibus Romanis festivitates et cantica eorum versa sunt in luctum",
     "prev": {
       "id": "jad_occurence__339",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "De destructione templi"
     },
     "next": {
       "id": "jad_occurence__340",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "De subversione Jerusalem"
     }
   },
   "35": {
@@ -1636,7 +1636,7 @@
     ],
     "view_label": "negligentes contriti, advenientibus Romanis, et malae conscientiae tinea devorati sunt.",
     "prev": {
-      "id": "jad_occurence__340",
+      "id": "jad_occurence__345",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
@@ -3286,9 +3286,9 @@
         "value": "Linz, MS 488"
       }
     ],
-    "position_in_ms": "164v-182v",
+    "position_in_ms": "178v-182v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://digi.landesbibliothek.at/viewer/image/488/357/",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -3298,14 +3298,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-16",
+    "last_modified_on": "2025-12-03",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 46,
           "database_table_3497": 21
         },
-        "value": "Linz, MS 488, f. 164v-182v"
+        "value": "Linz, MS 488, f. 178v-182v"
       }
     ],
     "view_label": "De destructione templi",
@@ -3380,7 +3380,7 @@
         "value": "Sankt-Florian, MS XI 216"
       }
     ],
-    "position_in_ms": "157r-173r",
+    "position_in_ms": "169r-173r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -3392,14 +3392,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-16",
+    "last_modified_on": "2025-12-03",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 45,
           "database_table_3497": 20
         },
-        "value": "Sankt-Florian, MS XI 216, f. 157r-173r"
+        "value": "Sankt-Florian, MS XI 216, f. 169r-173r"
       }
     ],
     "view_label": "De destructione templi",
@@ -3427,9 +3427,9 @@
         "value": "Frankfurt, Barth. 56"
       }
     ],
-    "position_in_ms": "128r-140v",
+    "position_in_ms": "138r-140v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://sammlungen.ub.uni-frankfurt.de/msma/content/pageview/2072354",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -3439,14 +3439,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-16",
+    "last_modified_on": "2025-12-03",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 44,
           "database_table_3497": 19
         },
-        "value": "Frankfurt, Barth. 56, f. 128r-140v"
+        "value": "Frankfurt, Barth. 56, f. 138r-140v"
       }
     ],
     "view_label": "De destructione templi",
@@ -12984,17 +12984,27 @@
     },
     "next": {
       "id": "jad_occurence__337",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Hierusalem flevit super illam"
     }
   },
   "337": {
     "id": 337,
     "jad_id": "jad_occurence__337",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1702,
+        "value": "Hierusalem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 166,
+        "value": "BSB, Clm 4552"
+      }
+    ],
+    "position_in_ms": "227r",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00133525?page=462,463",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13004,26 +13014,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-09-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-12-03",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 166,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 4552, f. 227r"
+      }
+    ],
+    "view_label": "Hierusalem flevit super illam",
     "prev": {
       "id": "jad_occurence__336",
       "label": "??"
     },
     "next": {
       "id": "jad_occurence__338",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Hierusalem flevit super illam"
     }
   },
   "338": {
     "id": 338,
     "jad_id": "jad_occurence__338",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1702,
+        "value": "Hierusalem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 167,
+        "value": "Vat., Pal. lat. 431"
+      }
+    ],
+    "position_in_ms": "175v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Pal.lat.431/0357",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13033,26 +13061,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-09-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-12-03",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 167,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Pal. lat. 431, f. 175v"
+      }
+    ],
+    "view_label": "Hierusalem flevit super illam",
     "prev": {
       "id": "jad_occurence__337",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Hierusalem flevit super illam"
     },
     "next": {
       "id": "jad_occurence__339",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "De destructione templi"
     }
   },
   "339": {
     "id": 339,
     "jad_id": "jad_occurence__339",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 481,
+        "value": "De destructione templi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 163,
+        "value": "Linz, MS 402"
+      }
+    ],
+    "position_in_ms": "154r-161r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://digi.landesbibliothek.at/viewer/image/402/309/",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13062,12 +13108,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-09-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-12-03",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 163,
+          "database_table_3497": 21
+        },
+        "value": "Linz, MS 402, f. 154r-161r"
+      }
+    ],
+    "view_label": "De destructione templi",
     "prev": {
       "id": "jad_occurence__338",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Hierusalem flevit super illam"
     },
     "next": {
       "id": "jad_occurence__34",
@@ -13077,10 +13131,20 @@
   "340": {
     "id": 340,
     "jad_id": "jad_occurence__340",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 1745,
+        "value": "De subversione Jerusalem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 168,
+        "value": "BL, Arundel 201"
+      }
+    ],
+    "position_in_ms": "58r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -13091,12 +13155,165 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-09-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2025-12-03",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 168,
+          "database_table_3497": 7
+        },
+        "value": "BL, Arundel 201, f. 58r"
+      }
+    ],
+    "view_label": "De subversione Jerusalem",
     "prev": {
       "id": "jad_occurence__34",
       "label": "advenientibus Romanis festivitates et cantica eorum versa sunt in luctum"
+    },
+    "next": {
+      "id": "jad_occurence__341",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "341": {
+    "id": 341,
+    "jad_id": "jad_occurence__341",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-12-03",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-12-03",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__340",
+      "label": "De subversione Jerusalem"
+    },
+    "next": {
+      "id": "jad_occurence__342",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "342": {
+    "id": 342,
+    "jad_id": "jad_occurence__342",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-12-03",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-12-03",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__341",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__343",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "343": {
+    "id": 343,
+    "jad_id": "jad_occurence__343",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-12-03",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-12-03",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__342",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__344",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "344": {
+    "id": 344,
+    "jad_id": "jad_occurence__344",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-12-03",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-12-03",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__343",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__345",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "345": {
+    "id": 345,
+    "jad_id": "jad_occurence__345",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2025-12-03",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2025-12-03",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__344",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__35",

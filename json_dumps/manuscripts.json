@@ -5965,58 +5965,146 @@
   "166": {
     "id": 166,
     "order": "159.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 4552"
+      }
+    ],
     "jad_id": "jad_manuscript__166",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "idno": "Clm 4552",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037639979707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%204552&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00133525?page=462,463",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 10,
+        "value": "around 1100",
+        "order": "10.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ]
   },
   "167": {
     "id": 167,
     "order": "160.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Pal. lat. 431"
+      }
+    ],
     "jad_id": "jad_manuscript__167",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Pal. lat. 431",
+    "catalog_url": "https://digi.vatlib.it/view/MSS_Pal.lat.431",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Pal.lat.431",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 68,
+        "value": "11th cen.",
+        "order": "67.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
   },
   "168": {
     "id": 168,
     "order": "161.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Arundel 201"
+      }
+    ],
     "jad_id": "jad_manuscript__168",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 7,
+        "value": "BL",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "idno": "Arundel 201",
+    "catalog_url": "https://www.digitale-sammlungen.de/de/view/bsb10798608?page=70,71&q=%28%22De+subversione+Jerusalem%22%29",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ]
   },
   "169": {
     "id": 169,
     "order": "162.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 27,
+        "value": "Karlsruhe, Aug. perg. 135"
+      }
+    ],
     "jad_id": "jad_manuscript__169",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 27,
+        "value": "Karlsruhe",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "idno": "Aug. perg. 135",
+    "catalog_url": "https://digital.blb-karlsruhe.de/urn/urn:nbn:de:bsz:31-16288",
+    "digi_url": "https://digital.blb-karlsruhe.de/blbhs/content/pageview/498035",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 86,
+        "value": "early 10th cen",
+        "order": "85.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 27,
+        "value": "Karlsruhe, Badische Landesbibliothek"
+      }
+    ]
   },
   "170": {
     "id": 170,

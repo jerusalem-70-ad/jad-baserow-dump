@@ -51,8 +51,8 @@
     "description": "",
     "view_label": "Maundy Thursday",
     "prev": {
-      "id": "jad_liturgical_reference__32",
-      "label": "In dominica septuagesimae"
+      "id": "jad_liturgical_reference__38",
+      "label": ""
     },
     "next": {
       "id": "jad_liturgical_reference__5",
@@ -473,6 +473,96 @@
     "prev": {
       "id": "jad_liturgical_reference__31",
       "label": "Dominica I in quadragesima"
+    },
+    "next": {
+      "id": "jad_liturgical_reference__33",
+      "label": "III Sunday after Holy Trinity"
+    }
+  },
+  "33": {
+    "id": 33,
+    "name": "III Sunday after Holy Trinity",
+    "jad_id": "jad_liturgical_reference__33",
+    "description": "",
+    "view_label": "III Sunday after Holy Trinity",
+    "prev": {
+      "id": "jad_liturgical_reference__32",
+      "label": "In dominica septuagesimae"
+    },
+    "next": {
+      "id": "jad_liturgical_reference__34",
+      "label": ""
+    }
+  },
+  "34": {
+    "id": 34,
+    "name": "",
+    "jad_id": "jad_liturgical_reference__34",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_liturgical_reference__33",
+      "label": "III Sunday after Holy Trinity"
+    },
+    "next": {
+      "id": "jad_liturgical_reference__35",
+      "label": ""
+    }
+  },
+  "35": {
+    "id": 35,
+    "name": "",
+    "jad_id": "jad_liturgical_reference__35",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_liturgical_reference__34",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_liturgical_reference__36",
+      "label": ""
+    }
+  },
+  "36": {
+    "id": 36,
+    "name": "",
+    "jad_id": "jad_liturgical_reference__36",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_liturgical_reference__35",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_liturgical_reference__37",
+      "label": ""
+    }
+  },
+  "37": {
+    "id": 37,
+    "name": "",
+    "jad_id": "jad_liturgical_reference__37",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_liturgical_reference__36",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_liturgical_reference__38",
+      "label": ""
+    }
+  },
+  "38": {
+    "id": 38,
+    "name": "",
+    "jad_id": "jad_liturgical_reference__38",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_liturgical_reference__37",
+      "label": ""
     },
     "next": {
       "id": "jad_liturgical_reference__4",

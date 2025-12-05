@@ -1076,7 +1076,7 @@
     "view_label": "Cambr. St.John's Coll., MS 127",
     "prev": {
       "id": "jad_manuscript__169",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Karlsruhe, Aug. perg. 135"
     },
     "next": {
       "id": "jad_manuscript__170",
@@ -9465,91 +9465,223 @@
     },
     "next": {
       "id": "jad_manuscript__166",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BSB, Clm 4552"
     }
   },
   "166": {
     "id": 166,
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 4552"
+      }
+    ],
     "jad_id": "jad_manuscript__166",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "jad_id": "jad_library__12",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "full_name": "Bayrische Staatsbibliothek",
+        "place": [
+          {
+            "id": 3,
+            "name": "Munich",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "jad_id": "jad_places__3",
+            "lat": "48.13743",
+            "long": "11.57549"
+          }
+        ]
+      }
+    ],
+    "idno": "Clm 4552",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037639979707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%204552&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00133525?page=462,463",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 10,
+        "value": "around 1100"
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ],
+    "view_label": "BSB, Clm 4552",
     "prev": {
       "id": "jad_manuscript__165",
       "label": "ÖNB, Cod. Slav. 125"
     },
     "next": {
       "id": "jad_manuscript__167",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Vat., Pal. lat. 431"
     }
   },
   "167": {
     "id": 167,
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Pal. lat. 431"
+      }
+    ],
     "jad_id": "jad_manuscript__167",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "jad_id": "jad_library__38",
+        "gnd_url": "https://d-nb.info/gnd/1003302-6",
+        "full_name": "Biblioteca Apostolica Vaticana",
+        "place": [
+          {
+            "id": 19,
+            "name": "Rome",
+            "geonames_url": "https://www.geonames.org/3169070/rome.html",
+            "jad_id": "jad_places__19",
+            "lat": "41.89193",
+            "long": "12.51133"
+          }
+        ]
+      }
+    ],
+    "idno": "Pal. lat. 431",
+    "catalog_url": "https://digi.vatlib.it/view/MSS_Pal.lat.431",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Pal.lat.431",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 68,
+        "value": "11th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ],
+    "view_label": "Vat., Pal. lat. 431",
     "prev": {
       "id": "jad_manuscript__166",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BSB, Clm 4552"
     },
     "next": {
       "id": "jad_manuscript__168",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BL, Arundel 201"
     }
   },
   "168": {
     "id": 168,
-    "name": [],
+    "name": [
+      {
+        "id": 7,
+        "value": "BL, Arundel 201"
+      }
+    ],
     "jad_id": "jad_manuscript__168",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 7,
+        "value": "BL",
+        "jad_id": "jad_library__7",
+        "gnd_url": "https://d-nb.info/gnd/1023420-2",
+        "full_name": "British Library",
+        "place": [
+          {
+            "id": 5,
+            "name": "London",
+            "geonames_url": "https://www.geonames.org/2643743/london.html",
+            "jad_id": "jad_places__5",
+            "lat": "51.50853",
+            "long": "-0.12574"
+          }
+        ]
+      }
+    ],
+    "idno": "Arundel 201",
+    "catalog_url": "https://www.digitale-sammlungen.de/de/view/bsb10798608?page=70,71&q=%28%22De+subversione+Jerusalem%22%29",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 7,
+        "value": "British Library"
+      }
+    ],
+    "view_label": "BL, Arundel 201",
     "prev": {
       "id": "jad_manuscript__167",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Vat., Pal. lat. 431"
     },
     "next": {
       "id": "jad_manuscript__169",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Karlsruhe, Aug. perg. 135"
     }
   },
   "169": {
     "id": 169,
-    "name": [],
+    "name": [
+      {
+        "id": 27,
+        "value": "Karlsruhe, Aug. perg. 135"
+      }
+    ],
     "jad_id": "jad_manuscript__169",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 27,
+        "value": "Karlsruhe",
+        "jad_id": "jad_library__27",
+        "gnd_url": "https://d-nb.info/gnd/2005707-6",
+        "full_name": "Karlsruhe, Badische Landesbibliothek",
+        "place": [
+          {
+            "id": 26,
+            "name": "Karlsruhe",
+            "geonames_url": "https://www.geonames.org/2892794/karlsruhe.html",
+            "jad_id": "jad_places__26",
+            "lat": "49.00937",
+            "long": "8.40444"
+          }
+        ]
+      }
+    ],
+    "idno": "Aug. perg. 135",
+    "catalog_url": "https://digital.blb-karlsruhe.de/urn/urn:nbn:de:bsz:31-16288",
+    "digi_url": "https://digital.blb-karlsruhe.de/blbhs/content/pageview/498035",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 86,
+        "value": "early 10th cen"
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 27,
+        "value": "Karlsruhe, Badische Landesbibliothek"
+      }
+    ],
+    "view_label": "Karlsruhe, Aug. perg. 135",
     "prev": {
       "id": "jad_manuscript__168",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BL, Arundel 201"
     },
     "next": {
       "id": "jad_manuscript__17",
