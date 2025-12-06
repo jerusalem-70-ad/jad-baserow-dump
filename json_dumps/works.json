@@ -2450,7 +2450,7 @@
   "49": {
     "id": 49,
     "order": "48.00000000000000000000",
-    "name": "Fragmenta ex aurora ",
+    "name": "Aurora ",
     "jad_id": "jad_work__49",
     "author": [
       {
@@ -2460,20 +2460,20 @@
       }
     ],
     "manuscripts": [],
-    "title": "Fragmenta ex aurora",
+    "title": "Aurora",
     "genre": {
-      "id": 14732,
-      "value": "Idiosyncratic work",
-      "color": "dark-red"
+      "id": 18451,
+      "value": "Poetry",
+      "color": "orange"
     },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
     "published_edition": [
       {
-        "id": 2,
-        "value": "Patrologia Latina",
-        "order": "2.00000000000000000000"
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
       }
     ],
     "date_certainty": true,
@@ -2487,7 +2487,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": "212",
+    "volume_edition_or_individual_editor": "ed. Paul E. Beichner (Publications in Mediaeval Studies 19, 1965)",
     "other_editions": null
   },
   "50": {
@@ -14080,7 +14080,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "opera omnia, vol. 18 (1899",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 18, 1899",
     "other_editions": null
   },
   "304": {
@@ -17147,9 +17147,9 @@
     "jad_id": "jad_work__377",
     "author": [
       {
-        "id": 174,
-        "value": "Rufinus of Aquileia",
-        "order": "159.00000000000000000000"
+        "id": 383,
+        "value": "Letbertus de Sancto Rufo",
+        "order": "260.00000000000000000000"
       }
     ],
     "manuscripts": [],
@@ -17172,13 +17172,13 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 66,
-        "value": "late 4th cen.",
-        "order": "65.00000000000000000000"
+        "id": 2,
+        "value": "12th cen.",
+        "order": "2.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": null
@@ -24128,92 +24128,1857 @@
   "587": {
     "id": 587,
     "order": "517.00000000000000000000",
-    "name": " ",
+    "name": "Enarratio in euangelium secundum Iohannem ",
     "jad_id": "jad_work__587",
-    "author": [],
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Enarratio in euangelium secundum Iohannem",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 12, 1901",
     "other_editions": ""
   },
   "588": {
     "id": 588,
     "order": "518.00000000000000000000",
-    "name": " ",
+    "name": "Enarratio in euangelium secundum Matthaeum ",
     "jad_id": "jad_work__588",
-    "author": [],
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Enarratio in euangelium secundum Matthaeum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 11, 1900",
     "other_editions": ""
   },
   "589": {
     "id": 589,
     "order": "519.00000000000000000000",
-    "name": " ",
+    "name": "Enarratio in Ezechielem prophetam ",
     "jad_id": "jad_work__589",
-    "author": [],
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Enarratio in Ezechielem prophetam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 9, 1900",
     "other_editions": ""
   },
   "590": {
     "id": 590,
     "order": "520.00000000000000000000",
-    "name": " ",
+    "name": "Enarratio in Ieremiam prophetam ",
     "jad_id": "jad_work__590",
-    "author": [],
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Enarratio in Ieremiam prophetam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 9, 1900",
     "other_editions": ""
   },
   "591": {
     "id": 591,
     "order": "521.00000000000000000000",
-    "name": " ",
+    "name": "Enarratio in Exodum ",
     "jad_id": "jad_work__591",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in Exodum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 1, 1896",
+    "other_editions": ""
+  },
+  "592": {
+    "id": 592,
+    "order": "522.00000000000000000000",
+    "name": "Enarratio in librum Ecclesiastae ",
+    "jad_id": "jad_work__592",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in librum Ecclesiastae",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 7, 1898",
+    "other_editions": ""
+  },
+  "593": {
+    "id": 593,
+    "order": "523.00000000000000000000",
+    "name": "Enarratio in Isaiam prophetam ",
+    "jad_id": "jad_work__593",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in Isaiam prophetam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 8, 1899",
+    "other_editions": ""
+  },
+  "594": {
+    "id": 594,
+    "order": "524.00000000000000000000",
+    "name": "Enarratio in librum I Regum ",
+    "jad_id": "jad_work__594",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in librum I Regum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 3, 1897",
+    "other_editions": ""
+  },
+  "595": {
+    "id": 595,
+    "order": "525.00000000000000000000",
+    "name": "Enarrationes in duodecim prophetas minores ",
+    "jad_id": "jad_work__595",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarrationes in duodecim prophetas minores",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 10, 1900",
+    "other_editions": ""
+  },
+  "596": {
+    "id": 596,
+    "order": "526.00000000000000000000",
+    "name": "Sermones de sanctis tam ad saeculares quam ad religiosos ",
+    "jad_id": "jad_work__596",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones de sanctis tam ad saeculares quam ad religiosos",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 31-32, 1906",
+    "other_editions": ""
+  },
+  "597": {
+    "id": 597,
+    "order": "527.00000000000000000000",
+    "name": "Sermones de tempore tam ad saeculares quam ad religiosos ",
+    "jad_id": "jad_work__597",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones de tempore tam ad saeculares quam ad religiosos",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 29-30, 1905",
+    "other_editions": ""
+  },
+  "598": {
+    "id": 598,
+    "order": "528.00000000000000000000",
+    "name": "Enarratio in Genesim ",
+    "jad_id": "jad_work__598",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in Genesim",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 1, 1896",
+    "other_editions": ""
+  },
+  "599": {
+    "id": 599,
+    "order": "529.00000000000000000000",
+    "name": "Enarratio in librum Iob ",
+    "jad_id": "jad_work__599",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in librum Iob",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 4, 1897",
+    "other_editions": ""
+  },
+  "600": {
+    "id": 600,
+    "order": "530.00000000000000000000",
+    "name": "Enarratio in librum II Regum ",
+    "jad_id": "jad_work__600",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in librum II Regum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 3, 1897",
+    "other_editions": ""
+  },
+  "601": {
+    "id": 601,
+    "order": "531.00000000000000000000",
+    "name": "Enarratio in librum II Paralipomenon ",
+    "jad_id": "jad_work__601",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in librum II Paralipomenon",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 4, 1897",
+    "other_editions": ""
+  },
+  "602": {
+    "id": 602,
+    "order": "532.00000000000000000000",
+    "name": "Enarratio in librum Deuteronomii ",
+    "jad_id": "jad_work__602",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in librum Deuteronomii",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 2, 1897",
+    "other_editions": ""
+  },
+  "603": {
+    "id": 603,
+    "order": "533.00000000000000000000",
+    "name": "Enarrationes in omnes beati Pauli Epistulas ",
+    "jad_id": "jad_work__603",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarrationes in omnes beati Pauli Epistulas",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 13, 1901",
+    "other_editions": ""
+  },
+  "604": {
+    "id": 604,
+    "order": "534.00000000000000000000",
+    "name": "Enarratio in Threnos (Lamentationes Ieremiae) ",
+    "jad_id": "jad_work__604",
+    "author": [
+      {
+        "id": 139,
+        "value": "Dionysius Cartusianus",
+        "order": "133.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarratio in Threnos (Lamentationes Ieremiae)",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 63,
+        "value": "mid 15th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "opera omnia, vol. 9, 1900",
+    "other_editions": ""
+  },
+  "605": {
+    "id": 605,
+    "order": "535.00000000000000000000",
+    "name": "Chronica Gothorum Pseudo-Isidoriana ",
+    "jad_id": "jad_work__605",
+    "author": [
+      {
+        "id": 380,
+        "value": "Pseudo-Isidor",
+        "order": "257.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronica Gothorum Pseudo-Isidoriana",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 10,
+        "value": "around 1100",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "606": {
+    "id": 606,
+    "order": "536.00000000000000000000",
+    "name": "Epitome explanationum in Isaiam beati Hieronymi presbyteri ",
+    "jad_id": "jad_work__606",
+    "author": [
+      {
+        "id": 381,
+        "value": "Iosephus Scottus",
+        "order": "258.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Epitome explanationum in Isaiam beati Hieronymi presbyteri",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 37,
+        "value": "late 8th cen.",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "607": {
+    "id": 607,
+    "order": "537.00000000000000000000",
+    "name": "Articulorum doctrinae fratris Martini Lutheri per theologos Louanienses damnatorum ratio ",
+    "jad_id": "jad_work__607",
+    "author": [
+      {
+        "id": 382,
+        "value": "Jacobus Latomus",
+        "order": "259.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Articulorum doctrinae fratris Martini Lutheri per theologos Louanienses damnatorum ratio",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 120,
+        "value": "16th cen, first half",
+        "order": "88.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Iacobus Latomus, Opera quae praecipue aduersus horum temporum haereses (Louvain 1550)",
+    "other_editions": ""
+  },
+  "608": {
+    "id": 608,
+    "order": "538.00000000000000000000",
+    "name": "Theologia 'Summi boni' ",
+    "jad_id": "jad_work__608",
+    "author": [
+      {
+        "id": 134,
+        "value": "Peter Abaelard",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Theologia 'Summi boni'",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 13,
+        "value": "12th cen., first half",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "609": {
+    "id": 609,
+    "order": "539.00000000000000000000",
+    "name": "Quodlibeta quinque ",
+    "jad_id": "jad_work__609",
+    "author": [
+      {
+        "id": 384,
+        "value": "Petrus Johannis Olivi",
+        "order": "261.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Quodlibeta quinque",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Collectio Oliviana 7 (2002)",
+    "other_editions": ""
+  },
+  "610": {
+    "id": 610,
+    "order": "540.00000000000000000000",
+    "name": "Lectura super Lucam ",
+    "jad_id": "jad_work__610",
+    "author": [
+      {
+        "id": 384,
+        "value": "Petrus Johannis Olivi",
+        "order": "261.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Lectura super Lucam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "éd. F. Iozzelli (Collectio Oliviana 5, 2010)",
+    "other_editions": ""
+  },
+  "611": {
+    "id": 611,
+    "order": "541.00000000000000000000",
+    "name": "Expositio in Canticum Canticorum ",
+    "jad_id": "jad_work__611",
+    "author": [
+      {
+        "id": 384,
+        "value": "Petrus Johannis Olivi",
+        "order": "261.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio in Canticum Canticorum",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Schlageter (Collectio Oliviana 2, 1999)",
+    "other_editions": ""
+  },
+  "612": {
+    "id": 612,
+    "order": "542.00000000000000000000",
+    "name": "Liber promissionum et praedictorum Dei ",
+    "jad_id": "jad_work__612",
+    "author": [
+      {
+        "id": 386,
+        "value": "Quodvultdeus, Carthaginiensis",
+        "order": "263.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Liber promissionum et praedictorum Dei",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 58,
+        "value": "5th cen., first half",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "613": {
+    "id": 613,
+    "order": "543.00000000000000000000",
+    "name": "Continuatio Thomae de Aquino 'De regimine principum' ",
+    "jad_id": "jad_work__613",
+    "author": [
+      {
+        "id": 387,
+        "value": "Ptolemaeus Lucensis",
+        "order": "264.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Continuatio Thomae de Aquino 'De regimine principum'",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 17,
+        "value": "around 1300",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Raimondo M. Spiazzi, S. Thomae Aquinatis Opuscula philosophica (Turin–Rome 1954)",
+    "other_editions": ""
+  },
+  "614": {
+    "id": 614,
+    "order": "544.00000000000000000000",
+    "name": "Dialogus libri uitae ",
+    "jad_id": "jad_work__614",
+    "author": [
+      {
+        "id": 388,
+        "value": "Rodericus Ximenius de Rada, archbishop Toledo",
+        "order": "265.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Dialogus libri uitae",
+    "genre": {
+      "id": 14728,
+      "value": "Anti-Jewish treatise",
+      "color": "darker-purple"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "615": {
+    "id": 615,
+    "order": "545.00000000000000000000",
+    "name": "Breuiarium historiae catholicae ",
+    "jad_id": "jad_work__615",
+    "author": [
+      {
+        "id": 388,
+        "value": "Rodericus Ximenius de Rada, archbishop Toledo",
+        "order": "265.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Breuiarium historiae catholicae",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "616": {
+    "id": 616,
+    "order": "546.00000000000000000000",
+    "name": "Peregrinatio ",
+    "jad_id": "jad_work__616",
+    "author": [
+      {
+        "id": 389,
+        "value": "Saewulf",
+        "order": "266.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Peregrinatio",
+    "genre": {
+      "id": 22368,
+      "value": "Pilgrim report",
+      "color": "light-purple"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 10,
+        "value": "around 1100",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "617": {
+    "id": 617,
+    "order": "547.00000000000000000000",
+    "name": "De uita Caesarum ",
+    "jad_id": "jad_work__617",
+    "author": [
+      {
+        "id": 391,
+        "value": "Gaius Suetonius Tranquillus",
+        "order": "268.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De uita Caesarum",
+    "genre": {
+      "id": 15028,
+      "value": "Hagiography",
+      "color": "darker-blue"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 123,
+        "value": "2th cen, first half",
+        "order": "91.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Teubner 1908",
+    "other_editions": ""
+  },
+  "618": {
+    "id": 618,
+    "order": "548.00000000000000000000",
+    "name": "Postilla in librum Geneseos ",
+    "jad_id": "jad_work__618",
+    "author": [
+      {
+        "id": 392,
+        "value": "Pseudo- Thomas of Aquin",
+        "order": "269.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Postilla in librum Geneseos",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 43,
+        "value": "14th cen.",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Sancti Thomae doctoris angelici ordinis Praedicatorum opera omnia, vol. 23 (Parma 1869)",
+    "other_editions": ""
+  },
+  "619": {
+    "id": 619,
+    "order": "549.00000000000000000000",
+    "name": "Peregrinatio ",
+    "jad_id": "jad_work__619",
+    "author": [
+      {
+        "id": 393,
+        "value": "Theodoricus Herbipolensis, pilgrim",
+        "order": "270.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Peregrinatio",
+    "genre": {
+      "id": 22368,
+      "value": "Pilgrim report",
+      "color": "light-purple"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 38,
+        "value": "1170s",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "620": {
+    "id": 620,
+    "order": "550.00000000000000000000",
+    "name": "Historiae ",
+    "jad_id": "jad_work__620",
+    "author": [
+      {
+        "id": 394,
+        "value": "Cornelius Tacitus",
+        "order": "271.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Historiae",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 124,
+        "value": "around 100",
+        "order": "92.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Teubner 1978",
+    "other_editions": ""
+  },
+  "621": {
+    "id": 621,
+    "order": "551.00000000000000000000",
+    "name": "In unum ex quatuor ",
+    "jad_id": "jad_work__621",
+    "author": [
+      {
+        "id": 395,
+        "value": "Zacharias Chrysopolitanus",
+        "order": "272.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "In unum ex quatuor",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 13,
+        "value": "12th cen., first half",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "186",
+    "other_editions": ""
+  },
+  "622": {
+    "id": 622,
+    "order": "552.00000000000000000000",
+    "name": "Speculum naturale ",
+    "jad_id": "jad_work__622",
+    "author": [
+      {
+        "id": 96,
+        "value": "Vincent of Beauvais",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Speculum naturale",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Balthazar Bellère, Bibliotheca mundi seu Speculi maioris [...] tomus primus, qui Speculum naturale inscribitur (Duaci 1624)",
+    "other_editions": ""
+  },
+  "623": {
+    "id": 623,
+    "order": "553.00000000000000000000",
+    "name": "Summa theologiae ",
+    "jad_id": "jad_work__623",
+    "author": [
+      {
+        "id": 351,
+        "value": "John Wyclif",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Summa theologiae",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 54,
+        "value": "14th cen., second half",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Reginald Lane Poole (vol. 1) et Johannes Loserth (vol. 2-4), 1885-1904",
+    "other_editions": ""
+  },
+  "624": {
+    "id": 624,
+    "order": "554.00000000000000000000",
+    "name": "Dialogus siue speculum ecclesiae militantis ",
+    "jad_id": "jad_work__624",
+    "author": [
+      {
+        "id": 351,
+        "value": "John Wyclif",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Dialogus siue speculum ecclesiae militantis",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 54,
+        "value": "14th cen., second half",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Alfred W. Pollard 1886",
+    "other_editions": ""
+  },
+  "625": {
+    "id": 625,
+    "order": "555.00000000000000000000",
+    "name": "De ecclesia ",
+    "jad_id": "jad_work__625",
+    "author": [
+      {
+        "id": 351,
+        "value": "John Wyclif",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "De ecclesia",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 54,
+        "value": "14th cen., second half",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Johannes Loserth 1886",
+    "other_editions": ""
+  },
+  "626": {
+    "id": 626,
+    "order": "556.00000000000000000000",
+    "name": "Opus euangelicum ",
+    "jad_id": "jad_work__626",
+    "author": [
+      {
+        "id": 351,
+        "value": "John Wyclif",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Opus euangelicum",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 54,
+        "value": "14th cen., second half",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Johannes Loserth 1895-1896",
+    "other_editions": ""
+  },
+  "627": {
+    "id": 627,
+    "order": "557.00000000000000000000",
+    "name": "Trialogus ",
+    "jad_id": "jad_work__627",
+    "author": [
+      {
+        "id": 351,
+        "value": "John Wyclif",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Trialogus",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 54,
+        "value": "14th cen., second half",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Gotthard Lechler, Joannis Wiclif Trialogus (Oxford 1869)",
+    "other_editions": ""
+  },
+  "628": {
+    "id": 628,
+    "order": "558.00000000000000000000",
+    "name": "Tractatus de mandatis diuinis ",
+    "jad_id": "jad_work__628",
+    "author": [
+      {
+        "id": 351,
+        "value": "John Wyclif",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Tractatus de mandatis diuinis",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 54,
+        "value": "14th cen., second half",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Johann Loserth et Frederic David Matthew 1922",
+    "other_editions": ""
+  },
+  "629": {
+    "id": 629,
+    "order": "559.00000000000000000000",
+    "name": "Expositio textus Matthaei XXIV ",
+    "jad_id": "jad_work__629",
+    "author": [
+      {
+        "id": 351,
+        "value": "John Wyclif",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Expositio textus Matthaei XXIV",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 54,
+        "value": "14th cen., second half",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Johannes Loserth (London 1913)",
+    "other_editions": ""
+  },
+  "630": {
+    "id": 630,
+    "order": "560.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__630",
     "author": [],
     "manuscripts": [],
     "title": "",
@@ -24230,11 +25995,32 @@
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
   },
-  "592": {
-    "id": 592,
-    "order": "522.00000000000000000000",
+  "631": {
+    "id": 631,
+    "order": "561.00000000000000000000",
     "name": " ",
-    "jad_id": "jad_work__592",
+    "jad_id": "jad_work__631",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "632": {
+    "id": 632,
+    "order": "562.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__632",
     "author": [],
     "manuscripts": [],
     "title": "",

@@ -3396,8 +3396,8 @@
     ],
     "view_label": "Petrus Cantor",
     "prev": {
-      "id": "jad_author__39",
-      "label": "Werner of Sankt Blasien"
+      "id": "jad_author__399",
+      "label": ""
     },
     "next": {
       "id": "jad_author__40",
@@ -4243,7 +4243,7 @@
         "view_label": "Sermones ",
         "prev": {
           "id": "jad_work__49",
-          "label": "Fragmenta ex aurora "
+          "label": "Aurora "
         },
         "next": {
           "id": "jad_work__50",
@@ -4494,12 +4494,12 @@
         "other_editions": null,
         "view_label": "Commentary Ezekiel ",
         "prev": {
-          "id": "jad_work__60",
-          "label": "Contra Judeaos "
+          "id": "jad_work__609",
+          "label": "Quodlibeta quinque "
         },
         "next": {
-          "id": "jad_work__62",
-          "label": "Expositio epistolarum S. Pauli "
+          "id": "jad_work__610",
+          "label": "Lectura super Lucam "
         }
       },
       {
@@ -4562,12 +4562,12 @@
         "other_editions": null,
         "view_label": "Commentary Jeremiah ",
         "prev": {
-          "id": "jad_work__62",
-          "label": "Expositio epistolarum S. Pauli "
+          "id": "jad_work__629",
+          "label": "Expositio textus Matthaei XXIV "
         },
         "next": {
-          "id": "jad_work__64",
-          "label": "Commentary Judices "
+          "id": "jad_work__630",
+          "label": " "
         }
       },
       {
@@ -4625,8 +4625,8 @@
         "other_editions": null,
         "view_label": "Commentary Judices ",
         "prev": {
-          "id": "jad_work__63",
-          "label": "Commentary Jeremiah "
+          "id": "jad_work__632",
+          "label": " "
         },
         "next": {
           "id": "jad_work__65",
@@ -5492,8 +5492,8 @@
         "other_editions": null,
         "view_label": "Commentary Luke ",
         "prev": {
-          "id": "jad_work__592",
-          "label": " "
+          "id": "jad_work__599",
+          "label": "Enarratio in librum Iob "
         },
         "next": {
           "id": "jad_work__60",
@@ -16450,7 +16450,7 @@
     },
     "next": {
       "id": "jad_author__380",
-      "label": ""
+      "label": "Pseudo-Isidor"
     },
     "related__works": [
       {
@@ -16531,12 +16531,12 @@
     ],
     "view_label": "Werner of Sankt Blasien",
     "prev": {
-      "id": "jad_author__382",
-      "label": ""
+      "id": "jad_author__389",
+      "label": "Saewulf"
     },
     "next": {
-      "id": "jad_author__4",
-      "label": "Petrus Cantor"
+      "id": "jad_author__390",
+      "label": "Saxo Grammaticus"
     },
     "related__works": [
       {
@@ -16636,13 +16636,13 @@
       "label": "Petrus Cantor"
     },
     "next": {
-      "id": "jad_author__41",
-      "label": "Peter Lombard"
+      "id": "jad_author__400",
+      "label": ""
     },
     "related__works": [
       {
         "id": 49,
-        "name": "Fragmenta ex aurora ",
+        "name": "Aurora ",
         "jad_id": "jad_work__49",
         "author": [
           {
@@ -16664,21 +16664,21 @@
           }
         ],
         "manuscripts": [],
-        "title": "Fragmenta ex aurora",
+        "title": "Aurora",
         "genre": {
-          "id": 14732,
-          "value": "Idiosyncratic work",
-          "color": "dark-red"
+          "id": 18451,
+          "value": "Poetry",
+          "color": "orange"
         },
         "notes": "",
         "notes__author": "",
         "institutional_context": [],
         "published_edition": [
           {
-            "id": 2,
-            "name": "Patrologia Latina",
-            "jad_id": "jad_sources_occurrences__2",
-            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
           }
         ],
         "date_certainty": true,
@@ -16691,9 +16691,9 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": "212",
+        "volume_edition_or_individual_editor": "ed. Paul E. Beichner (Publications in Mediaeval Studies 19, 1965)",
         "other_editions": null,
-        "view_label": "Fragmenta ex aurora ",
+        "view_label": "Aurora ",
         "prev": {
           "id": "jad_work__476",
           "label": "Gesta episcoporum Neapolitanorum "
@@ -16723,8 +16723,8 @@
     ],
     "view_label": "Peter Lombard",
     "prev": {
-      "id": "jad_author__40",
-      "label": "Petrus de Riga"
+      "id": "jad_author__400",
+      "label": ""
     },
     "next": {
       "id": "jad_author__42",
@@ -17697,11 +17697,11 @@
         "view_label": "Chronicon universale ",
         "prev": {
           "id": "jad_work__589",
-          "label": " "
+          "label": "Enarratio in Ezechielem prophetam "
         },
         "next": {
           "id": "jad_work__590",
-          "label": " "
+          "label": "Enarratio in Ieremiam prophetam "
         }
       }
     ]
@@ -17791,8 +17791,8 @@
           "label": "Commentary Luke "
         },
         "next": {
-          "id": "jad_work__61",
-          "label": "Commentary Ezekiel "
+          "id": "jad_work__600",
+          "label": "Enarratio in librum II Regum "
         }
       }
     ]
@@ -17878,12 +17878,12 @@
         "other_editions": null,
         "view_label": "Expositio epistolarum S. Pauli ",
         "prev": {
-          "id": "jad_work__61",
-          "label": "Commentary Ezekiel "
+          "id": "jad_work__619",
+          "label": "Peregrinatio "
         },
         "next": {
-          "id": "jad_work__63",
-          "label": "Commentary Jeremiah "
+          "id": "jad_work__620",
+          "label": "Historiae "
         }
       }
     ]
@@ -24092,6 +24092,69 @@
           "id": "jad_work__24",
           "label": "Sermones "
         }
+      },
+      {
+        "id": 622,
+        "name": "Speculum naturale ",
+        "jad_id": "jad_work__622",
+        "author": [
+          {
+            "id": 96,
+            "name": "Vincent of Beauvais",
+            "jad_id": "jad_author__96",
+            "gnd_url": "https://d-nb.info/gnd/118627163",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Bellovacense, Vincenzo | Vincentius, de Burgundia | Vincent | Vincentius | Vincentius, aus Beauvais | Vincent, von Beauvais | Pseudo-Vincentius, Bellovacensis | Vincentius, Belvacensis | Pseudo-Vincent de Beauvais | Vicente, de Beauvais | Bellovacensis, Vincentius | Vincentius, de Beauvais | Vincenzo, Bellovacense | Vincenz, von Beauvais | Beauvais, Vicente de | Vincentius, Bellovacensis | Vincentius, Burgundus | Vincenz | Vincent, de Beauvais | Vincent, of Beauvais | Beauvais, Vincent de | Pseudo-Vinzenz von Beauvais",
+            "date_of_birth": "1190",
+            "date_of_death": "1264",
+            "place": [
+              {
+                "id": 79,
+                "value": "Beauvais"
+              }
+            ]
+          }
+        ],
+        "manuscripts": [],
+        "title": "Speculum naturale",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "ed. Balthazar Bellère, Bibliotheca mundi seu Speculi maioris [...] tomus primus, qui Speculum naturale inscribitur (Duaci 1624)",
+        "other_editions": "",
+        "view_label": "Speculum naturale ",
+        "prev": {
+          "id": "jad_work__621",
+          "label": "In unum ex quatuor "
+        },
+        "next": {
+          "id": "jad_work__623",
+          "label": "Summa theologiae "
+        }
       }
     ]
   },
@@ -28127,6 +28190,69 @@
           "id": "jad_work__323",
           "label": "Passio Raginaldi principis Antiochie "
         }
+      },
+      {
+        "id": 608,
+        "name": "Theologia 'Summi boni' ",
+        "jad_id": "jad_work__608",
+        "author": [
+          {
+            "id": 134,
+            "name": "Peter Abaelard",
+            "jad_id": "jad_author__134",
+            "gnd_url": "https://d-nb.info/gnd/11850004X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Pseudo-Petrus | Abeillard, Peter | Pierre, Abailard | Abailard | Abelard, Peter | Abaelardus, Petrus | Abailardus, Petrus | Pierre, Abélard | Abaelart, Pierre | Pierre | Abelard | Abelardo, Pedro | Abälard, Peter | Peter, Abaelard | Abailard, Peter | Petrus, Abaelardus | Abailard, Pierre | Petrus, Baliardus | Pietro | Abelardus, Petrus | Abeliaras | Petrus, Peripateticus | Abaelard, Petrus | Abaelard | Abélard | Pseudo-Petrus, Abaelardus | Peter | Petrus, Abaelardi | Pierre, de Palais | Abeilard, Pierre | Abélard, Pierre | Petrus | Petrus, Palatinus | Pietro, Abelardo | Aberland, Pierre | Petrus, Baiolardus | Abeljard, Petr | Petrus, Baiolensis | Abaelard, Pierre | Abaelardus, Pierre",
+            "date_of_birth": "1079",
+            "date_of_death": "1142-04-21",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ]
+          }
+        ],
+        "manuscripts": [],
+        "title": "Theologia 'Summi boni'",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 13,
+            "value": "12th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Theologia 'Summi boni' ",
+        "prev": {
+          "id": "jad_work__607",
+          "label": "Articulorum doctrinae fratris Martini Lutheri per theologos Louanienses damnatorum ratio "
+        },
+        "next": {
+          "id": "jad_work__609",
+          "label": "Quodlibeta quinque "
+        }
       }
     ]
   },
@@ -28609,7 +28735,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "opera omnia, vol. 18 (1899",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 18, 1899",
         "other_editions": null,
         "view_label": "Dialogion de fide catholica ",
         "prev": {
@@ -28851,6 +28977,1050 @@
         "next": {
           "id": "jad_work__308",
           "label": "Rationale divinorum officiorum "
+        }
+      },
+      {
+        "id": 587,
+        "name": "Enarratio in euangelium secundum Iohannem ",
+        "jad_id": "jad_work__587",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in euangelium secundum Iohannem",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 12, 1901",
+        "other_editions": "",
+        "view_label": "Enarratio in euangelium secundum Iohannem ",
+        "prev": {
+          "id": "jad_work__586",
+          "label": "In libros Macchabaeorum "
+        },
+        "next": {
+          "id": "jad_work__588",
+          "label": "Enarratio in euangelium secundum Matthaeum "
+        }
+      },
+      {
+        "id": 588,
+        "name": "Enarratio in euangelium secundum Matthaeum ",
+        "jad_id": "jad_work__588",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in euangelium secundum Matthaeum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 11, 1900",
+        "other_editions": "",
+        "view_label": "Enarratio in euangelium secundum Matthaeum ",
+        "prev": {
+          "id": "jad_work__587",
+          "label": "Enarratio in euangelium secundum Iohannem "
+        },
+        "next": {
+          "id": "jad_work__589",
+          "label": "Enarratio in Ezechielem prophetam "
+        }
+      },
+      {
+        "id": 589,
+        "name": "Enarratio in Ezechielem prophetam ",
+        "jad_id": "jad_work__589",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in Ezechielem prophetam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 9, 1900",
+        "other_editions": "",
+        "view_label": "Enarratio in Ezechielem prophetam ",
+        "prev": {
+          "id": "jad_work__588",
+          "label": "Enarratio in euangelium secundum Matthaeum "
+        },
+        "next": {
+          "id": "jad_work__59",
+          "label": "Chronicon universale "
+        }
+      },
+      {
+        "id": 590,
+        "name": "Enarratio in Ieremiam prophetam ",
+        "jad_id": "jad_work__590",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in Ieremiam prophetam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 9, 1900",
+        "other_editions": "",
+        "view_label": "Enarratio in Ieremiam prophetam ",
+        "prev": {
+          "id": "jad_work__59",
+          "label": "Chronicon universale "
+        },
+        "next": {
+          "id": "jad_work__591",
+          "label": "Enarratio in Exodum "
+        }
+      },
+      {
+        "id": 591,
+        "name": "Enarratio in Exodum ",
+        "jad_id": "jad_work__591",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in Exodum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 1, 1896",
+        "other_editions": "",
+        "view_label": "Enarratio in Exodum ",
+        "prev": {
+          "id": "jad_work__590",
+          "label": "Enarratio in Ieremiam prophetam "
+        },
+        "next": {
+          "id": "jad_work__592",
+          "label": "Enarratio in librum Ecclesiastae "
+        }
+      },
+      {
+        "id": 592,
+        "name": "Enarratio in librum Ecclesiastae ",
+        "jad_id": "jad_work__592",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in librum Ecclesiastae",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 7, 1898",
+        "other_editions": "",
+        "view_label": "Enarratio in librum Ecclesiastae ",
+        "prev": {
+          "id": "jad_work__591",
+          "label": "Enarratio in Exodum "
+        },
+        "next": {
+          "id": "jad_work__593",
+          "label": "Enarratio in Isaiam prophetam "
+        }
+      },
+      {
+        "id": 593,
+        "name": "Enarratio in Isaiam prophetam ",
+        "jad_id": "jad_work__593",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in Isaiam prophetam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 8, 1899",
+        "other_editions": "",
+        "view_label": "Enarratio in Isaiam prophetam ",
+        "prev": {
+          "id": "jad_work__592",
+          "label": "Enarratio in librum Ecclesiastae "
+        },
+        "next": {
+          "id": "jad_work__594",
+          "label": "Enarratio in librum I Regum "
+        }
+      },
+      {
+        "id": 594,
+        "name": "Enarratio in librum I Regum ",
+        "jad_id": "jad_work__594",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in librum I Regum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 3, 1897",
+        "other_editions": "",
+        "view_label": "Enarratio in librum I Regum ",
+        "prev": {
+          "id": "jad_work__593",
+          "label": "Enarratio in Isaiam prophetam "
+        },
+        "next": {
+          "id": "jad_work__595",
+          "label": "Enarrationes in duodecim prophetas minores "
+        }
+      },
+      {
+        "id": 595,
+        "name": "Enarrationes in duodecim prophetas minores ",
+        "jad_id": "jad_work__595",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarrationes in duodecim prophetas minores",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 10, 1900",
+        "other_editions": "",
+        "view_label": "Enarrationes in duodecim prophetas minores ",
+        "prev": {
+          "id": "jad_work__594",
+          "label": "Enarratio in librum I Regum "
+        },
+        "next": {
+          "id": "jad_work__596",
+          "label": "Sermones de sanctis tam ad saeculares quam ad religiosos "
+        }
+      },
+      {
+        "id": 596,
+        "name": "Sermones de sanctis tam ad saeculares quam ad religiosos ",
+        "jad_id": "jad_work__596",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones de sanctis tam ad saeculares quam ad religiosos",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 31-32, 1906",
+        "other_editions": "",
+        "view_label": "Sermones de sanctis tam ad saeculares quam ad religiosos ",
+        "prev": {
+          "id": "jad_work__595",
+          "label": "Enarrationes in duodecim prophetas minores "
+        },
+        "next": {
+          "id": "jad_work__597",
+          "label": "Sermones de tempore tam ad saeculares quam ad religiosos "
+        }
+      },
+      {
+        "id": 597,
+        "name": "Sermones de tempore tam ad saeculares quam ad religiosos ",
+        "jad_id": "jad_work__597",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones de tempore tam ad saeculares quam ad religiosos",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 29-30, 1905",
+        "other_editions": "",
+        "view_label": "Sermones de tempore tam ad saeculares quam ad religiosos ",
+        "prev": {
+          "id": "jad_work__596",
+          "label": "Sermones de sanctis tam ad saeculares quam ad religiosos "
+        },
+        "next": {
+          "id": "jad_work__598",
+          "label": "Enarratio in Genesim "
+        }
+      },
+      {
+        "id": 598,
+        "name": "Enarratio in Genesim ",
+        "jad_id": "jad_work__598",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in Genesim",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 1, 1896",
+        "other_editions": "",
+        "view_label": "Enarratio in Genesim ",
+        "prev": {
+          "id": "jad_work__597",
+          "label": "Sermones de tempore tam ad saeculares quam ad religiosos "
+        },
+        "next": {
+          "id": "jad_work__599",
+          "label": "Enarratio in librum Iob "
+        }
+      },
+      {
+        "id": 599,
+        "name": "Enarratio in librum Iob ",
+        "jad_id": "jad_work__599",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in librum Iob",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 4, 1897",
+        "other_editions": "",
+        "view_label": "Enarratio in librum Iob ",
+        "prev": {
+          "id": "jad_work__598",
+          "label": "Enarratio in Genesim "
+        },
+        "next": {
+          "id": "jad_work__6",
+          "label": "Commentary Luke "
+        }
+      },
+      {
+        "id": 600,
+        "name": "Enarratio in librum II Regum ",
+        "jad_id": "jad_work__600",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in librum II Regum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 3, 1897",
+        "other_editions": "",
+        "view_label": "Enarratio in librum II Regum ",
+        "prev": {
+          "id": "jad_work__60",
+          "label": "Contra Judeaos "
+        },
+        "next": {
+          "id": "jad_work__601",
+          "label": "Enarratio in librum II Paralipomenon "
+        }
+      },
+      {
+        "id": 601,
+        "name": "Enarratio in librum II Paralipomenon ",
+        "jad_id": "jad_work__601",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in librum II Paralipomenon",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 4, 1897",
+        "other_editions": "",
+        "view_label": "Enarratio in librum II Paralipomenon ",
+        "prev": {
+          "id": "jad_work__600",
+          "label": "Enarratio in librum II Regum "
+        },
+        "next": {
+          "id": "jad_work__602",
+          "label": "Enarratio in librum Deuteronomii "
+        }
+      },
+      {
+        "id": 602,
+        "name": "Enarratio in librum Deuteronomii ",
+        "jad_id": "jad_work__602",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in librum Deuteronomii",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 2, 1897",
+        "other_editions": "",
+        "view_label": "Enarratio in librum Deuteronomii ",
+        "prev": {
+          "id": "jad_work__601",
+          "label": "Enarratio in librum II Paralipomenon "
+        },
+        "next": {
+          "id": "jad_work__603",
+          "label": "Enarrationes in omnes beati Pauli Epistulas "
+        }
+      },
+      {
+        "id": 603,
+        "name": "Enarrationes in omnes beati Pauli Epistulas ",
+        "jad_id": "jad_work__603",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarrationes in omnes beati Pauli Epistulas",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 13, 1901",
+        "other_editions": "",
+        "view_label": "Enarrationes in omnes beati Pauli Epistulas ",
+        "prev": {
+          "id": "jad_work__602",
+          "label": "Enarratio in librum Deuteronomii "
+        },
+        "next": {
+          "id": "jad_work__604",
+          "label": "Enarratio in Threnos (Lamentationes Ieremiae) "
+        }
+      },
+      {
+        "id": 604,
+        "name": "Enarratio in Threnos (Lamentationes Ieremiae) ",
+        "jad_id": "jad_work__604",
+        "author": [
+          {
+            "id": 139,
+            "name": "Dionysius Cartusianus",
+            "jad_id": "jad_author__139",
+            "gnd_url": "https://d-nb.info/gnd/118679716",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Dionysius, der Karthäuser | Denis, the Carthusian | Rickel, Dionysius de | Dionysius, van Ryckel | Roermond, Dionysius Cartusianus von | Leeuwis, Dionysius de | Dionysius, von Roermond | Dionys, der Kartäuser | Denis, le Chartreux | Leewis, Denis de | Denys, le Chartreux | Dionysius, der Karthauser | Dionysius, Ryckelensis | Ryckel, Dionysius van | Dionysius, Cartusianus von Roermond | Rikel, Denis | Rykel, Dionysius de | Cartusianus, Dionysius | Dionigi, il Certosino | Dionysius, Cartusianus | Dionysius, a Rickel | Leewis, Dionysius de | Dionysius, van Leeuwen | Denis, de Leewis | Dionysius, de Rickel | Dionysius, Cartusiensis | Rickel, Dionysius | Dionysius, a Leewis | Richel, Dionysius | Rickell, Dionysius | Leewis, Dionysius | Dionysius, van Rijkel | Dionysius, a Ryckel | Denis, Rikel | Richel, Dionisius | Rickell, Dionysius von | Rikel, Dionysius a | Dionysius, de Leuwis | Dionysius, Carthusianus | Rikel, Dionysiuss a | Richel, Dionysius de | Dionysius Cartusianus, von Roermond | Dionysius Carthusianus | Dionysius aus Rickel | Dyonisius, Carthusiensis | Dionisio, el Certosino | Richelius, Dionysius | Dionysius, der Karthäus | Dionysius, Karthusianus | Dionysius, the Carthusian | Dionysius, de Kartuizer | Rickelius, Dionysius | Dionysius, de Ryckel | Dionysius, Rickel | Carth., Dionysius | Leuwis, Dionysius de | Dionysius, Leewis | Dionysius Leuvis",
+            "date_of_birth": "1402",
+            "date_of_death": "1471",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarratio in Threnos (Lamentationes Ieremiae)",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 63,
+            "value": "mid 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "opera omnia, vol. 9, 1900",
+        "other_editions": "",
+        "view_label": "Enarratio in Threnos (Lamentationes Ieremiae) ",
+        "prev": {
+          "id": "jad_work__603",
+          "label": "Enarrationes in omnes beati Pauli Epistulas "
+        },
+        "next": {
+          "id": "jad_work__605",
+          "label": "Chronica Gothorum Pseudo-Isidoriana "
         }
       }
     ]
@@ -32636,66 +33806,7 @@
       "id": "jad_author__175",
       "label": "Roger Bacon"
     },
-    "related__works": [
-      {
-        "id": 377,
-        "name": "Commentary Psalms ",
-        "jad_id": "jad_work__377",
-        "author": [
-          {
-            "id": 174,
-            "name": "Rufinus of Aquileia",
-            "jad_id": "jad_author__174",
-            "gnd_url": "https://d-nb.info/gnd/118750313",
-            "notes": "",
-            "lebensdaten": "",
-            "alt_name": "Toranus, Rufinus | Ruffinus, Presbyter | Rufinus, Presbyter | Tyrannius, Rufinus | Turannius, Rufinus | Rufino, de Aquilea | Turranius, Presbyter | Ruffinus | Rufinus, Tyrannius | Rufino, di Aquileia | Turranius Rufinus, Presbyter | Rufin | Tyrannius Rufinus | Pseudo-Rufinus, Aquileiensis | Rufinus, von Aquileia | Ruffinus, Tyrannius | Ruffino, Torano | Rufinus, Christian Writer | Rufinus Tyrannius, Aquileiensis | Rufinus, Torano | Rufinus, Aquilejensis | Ruffinus, Aquiliensis | Rufinus, Toranus | Rufinus, Turannius | Aquileia, Rufinus von | Turranius, Rufinus | Rufí, d'Aquileia | Rufinus, Toranius | Rufin, Presviter | Rufino | Ruffinus, Aquileiensis | Rufino, d'Aquileia | Rufinus, de Aquileia | Tirannio, Rufino | Rufino, di Concordia | Rufinus, Turranius | Turranius Rufinus, Prespyter | Tyrannius, von Aquileia | Rufin, von Aquileia | Rufinus aus Aquileia | Rufinus | Aquileiensis, Rufinus | Rufinus, of Aquileia | Rufin, d'Aquilée | Ruffin, von Aquileia | Rufinus, von Aquileja | Rufinus, the Translator | Rufí, Heiliger | Turranius, Prespyter",
-            "date_of_birth": "0345",
-            "date_of_death": "0410",
-            "place": []
-          }
-        ],
-        "manuscripts": [],
-        "title": "Commentary Psalms",
-        "genre": {
-          "id": 14727,
-          "value": "Commentary",
-          "color": "darker-green"
-        },
-        "notes": "",
-        "notes__author": "",
-        "institutional_context": [],
-        "published_edition": [
-          {
-            "id": 2,
-            "name": "Patrologia Latina",
-            "jad_id": "jad_sources_occurrences__2",
-            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
-          }
-        ],
-        "date_certainty": true,
-        "date": [
-          {
-            "id": 66,
-            "value": "late 4th cen."
-          }
-        ],
-        "link_digital_editions": "",
-        "author_certainty": false,
-        "incipit": "",
-        "volume_edition_or_individual_editor": "",
-        "other_editions": null,
-        "view_label": "Commentary Psalms ",
-        "prev": {
-          "id": "jad_work__376",
-          "label": "Miscellanea "
-        },
-        "next": {
-          "id": "jad_work__378",
-          "label": "Expositio in quatuor Evangelia "
-        }
-      }
-    ]
+    "related__works": []
   },
   "175": {
     "id": 175,
@@ -38418,7 +39529,7 @@
         },
         "next": {
           "id": "jad_work__49",
-          "label": "Fragmenta ex aurora "
+          "label": "Aurora "
         }
       },
       {
@@ -39436,6 +40547,412 @@
         "next": {
           "id": "jad_work__554",
           "label": "Sermones dominicales et mariani "
+        }
+      },
+      {
+        "id": 623,
+        "name": "Summa theologiae ",
+        "jad_id": "jad_work__623",
+        "author": [
+          {
+            "id": 351,
+            "name": "John Wyclif",
+            "jad_id": "jad_author__351",
+            "gnd_url": "https://d-nb.info/gnd/118632299",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Wiclif, Joannes | Johannes, Wicleffus | Wiclevus, Johannes | Wiclef, John | Wycliffe, Joannes | Wyclyf, John | Johannes, Wyclif | Wiclef, Iean | Johannes, Wiclifus | Wiclef, Johannes | Jean, de Wycliffe | Johannes, Wyclefus | Wicleff, John | Wyclyffe, John | Viclif, Johann | Wycliffe, John de | Wicliffe, John | Wiclef, Johann | Viklef | Wiclefus, Joannes | Wycliffe, Johannes | Wiclefius, Johannes | Viklef, John | Wiclif, Johann | Wiclif | Wicklif, John | Wyclif, John | Johannes, Wyclevus | Wickliffe, John | Johann, von Wiclif | Wiclif, John | Wiklif, John | John, Wyclif | Wicleffius, Johannes | Wiclef, Jean | Wiclif, Johann von | Wiclefus, Anglus | Wiclif, Johannes | Wiclef, Joannes | Wiclefus, Johannes | Wycliffe, John | Lelando, Wicoclivus | Wikleff, John | Wicliff, John | Wicklieffe, John | Wicleff, Johannes | Wycklyffe, John | Wyclif, Iohannes | Johannes, Wiclif | Wycliff | Wickliff, John | Wyckliffe, Johannes | Wiclefus | Wykliffe, John | Viklif, Jan | Wiclevus, Joannes | Wycliff, John | Wyclif | Wiclif, Joan",
+            "date_of_birth": "1324",
+            "date_of_death": "1384-12-31",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Summa theologiae",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 54,
+            "value": "14th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "ed. Reginald Lane Poole (vol. 1) et Johannes Loserth (vol. 2-4), 1885-1904",
+        "other_editions": "",
+        "view_label": "Summa theologiae ",
+        "prev": {
+          "id": "jad_work__622",
+          "label": "Speculum naturale "
+        },
+        "next": {
+          "id": "jad_work__624",
+          "label": "Dialogus siue speculum ecclesiae militantis "
+        }
+      },
+      {
+        "id": 624,
+        "name": "Dialogus siue speculum ecclesiae militantis ",
+        "jad_id": "jad_work__624",
+        "author": [
+          {
+            "id": 351,
+            "name": "John Wyclif",
+            "jad_id": "jad_author__351",
+            "gnd_url": "https://d-nb.info/gnd/118632299",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Wiclif, Joannes | Johannes, Wicleffus | Wiclevus, Johannes | Wiclef, John | Wycliffe, Joannes | Wyclyf, John | Johannes, Wyclif | Wiclef, Iean | Johannes, Wiclifus | Wiclef, Johannes | Jean, de Wycliffe | Johannes, Wyclefus | Wicleff, John | Wyclyffe, John | Viclif, Johann | Wycliffe, John de | Wicliffe, John | Wiclef, Johann | Viklef | Wiclefus, Joannes | Wycliffe, Johannes | Wiclefius, Johannes | Viklef, John | Wiclif, Johann | Wiclif | Wicklif, John | Wyclif, John | Johannes, Wyclevus | Wickliffe, John | Johann, von Wiclif | Wiclif, John | Wiklif, John | John, Wyclif | Wicleffius, Johannes | Wiclef, Jean | Wiclif, Johann von | Wiclefus, Anglus | Wiclif, Johannes | Wiclef, Joannes | Wiclefus, Johannes | Wycliffe, John | Lelando, Wicoclivus | Wikleff, John | Wicliff, John | Wicklieffe, John | Wicleff, Johannes | Wycklyffe, John | Wyclif, Iohannes | Johannes, Wiclif | Wycliff | Wickliff, John | Wyckliffe, Johannes | Wiclefus | Wykliffe, John | Viklif, Jan | Wiclevus, Joannes | Wycliff, John | Wyclif | Wiclif, Joan",
+            "date_of_birth": "1324",
+            "date_of_death": "1384-12-31",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Dialogus siue speculum ecclesiae militantis",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 54,
+            "value": "14th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "ed. Alfred W. Pollard 1886",
+        "other_editions": "",
+        "view_label": "Dialogus siue speculum ecclesiae militantis ",
+        "prev": {
+          "id": "jad_work__623",
+          "label": "Summa theologiae "
+        },
+        "next": {
+          "id": "jad_work__625",
+          "label": "De ecclesia "
+        }
+      },
+      {
+        "id": 625,
+        "name": "De ecclesia ",
+        "jad_id": "jad_work__625",
+        "author": [
+          {
+            "id": 351,
+            "name": "John Wyclif",
+            "jad_id": "jad_author__351",
+            "gnd_url": "https://d-nb.info/gnd/118632299",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Wiclif, Joannes | Johannes, Wicleffus | Wiclevus, Johannes | Wiclef, John | Wycliffe, Joannes | Wyclyf, John | Johannes, Wyclif | Wiclef, Iean | Johannes, Wiclifus | Wiclef, Johannes | Jean, de Wycliffe | Johannes, Wyclefus | Wicleff, John | Wyclyffe, John | Viclif, Johann | Wycliffe, John de | Wicliffe, John | Wiclef, Johann | Viklef | Wiclefus, Joannes | Wycliffe, Johannes | Wiclefius, Johannes | Viklef, John | Wiclif, Johann | Wiclif | Wicklif, John | Wyclif, John | Johannes, Wyclevus | Wickliffe, John | Johann, von Wiclif | Wiclif, John | Wiklif, John | John, Wyclif | Wicleffius, Johannes | Wiclef, Jean | Wiclif, Johann von | Wiclefus, Anglus | Wiclif, Johannes | Wiclef, Joannes | Wiclefus, Johannes | Wycliffe, John | Lelando, Wicoclivus | Wikleff, John | Wicliff, John | Wicklieffe, John | Wicleff, Johannes | Wycklyffe, John | Wyclif, Iohannes | Johannes, Wiclif | Wycliff | Wickliff, John | Wyckliffe, Johannes | Wiclefus | Wykliffe, John | Viklif, Jan | Wiclevus, Joannes | Wycliff, John | Wyclif | Wiclif, Joan",
+            "date_of_birth": "1324",
+            "date_of_death": "1384-12-31",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "De ecclesia",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 54,
+            "value": "14th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "ed. Johannes Loserth 1886",
+        "other_editions": "",
+        "view_label": "De ecclesia ",
+        "prev": {
+          "id": "jad_work__624",
+          "label": "Dialogus siue speculum ecclesiae militantis "
+        },
+        "next": {
+          "id": "jad_work__626",
+          "label": "Opus euangelicum "
+        }
+      },
+      {
+        "id": 626,
+        "name": "Opus euangelicum ",
+        "jad_id": "jad_work__626",
+        "author": [
+          {
+            "id": 351,
+            "name": "John Wyclif",
+            "jad_id": "jad_author__351",
+            "gnd_url": "https://d-nb.info/gnd/118632299",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Wiclif, Joannes | Johannes, Wicleffus | Wiclevus, Johannes | Wiclef, John | Wycliffe, Joannes | Wyclyf, John | Johannes, Wyclif | Wiclef, Iean | Johannes, Wiclifus | Wiclef, Johannes | Jean, de Wycliffe | Johannes, Wyclefus | Wicleff, John | Wyclyffe, John | Viclif, Johann | Wycliffe, John de | Wicliffe, John | Wiclef, Johann | Viklef | Wiclefus, Joannes | Wycliffe, Johannes | Wiclefius, Johannes | Viklef, John | Wiclif, Johann | Wiclif | Wicklif, John | Wyclif, John | Johannes, Wyclevus | Wickliffe, John | Johann, von Wiclif | Wiclif, John | Wiklif, John | John, Wyclif | Wicleffius, Johannes | Wiclef, Jean | Wiclif, Johann von | Wiclefus, Anglus | Wiclif, Johannes | Wiclef, Joannes | Wiclefus, Johannes | Wycliffe, John | Lelando, Wicoclivus | Wikleff, John | Wicliff, John | Wicklieffe, John | Wicleff, Johannes | Wycklyffe, John | Wyclif, Iohannes | Johannes, Wiclif | Wycliff | Wickliff, John | Wyckliffe, Johannes | Wiclefus | Wykliffe, John | Viklif, Jan | Wiclevus, Joannes | Wycliff, John | Wyclif | Wiclif, Joan",
+            "date_of_birth": "1324",
+            "date_of_death": "1384-12-31",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Opus euangelicum",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 54,
+            "value": "14th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "ed. Johannes Loserth 1895-1896",
+        "other_editions": "",
+        "view_label": "Opus euangelicum ",
+        "prev": {
+          "id": "jad_work__625",
+          "label": "De ecclesia "
+        },
+        "next": {
+          "id": "jad_work__627",
+          "label": "Trialogus "
+        }
+      },
+      {
+        "id": 627,
+        "name": "Trialogus ",
+        "jad_id": "jad_work__627",
+        "author": [
+          {
+            "id": 351,
+            "name": "John Wyclif",
+            "jad_id": "jad_author__351",
+            "gnd_url": "https://d-nb.info/gnd/118632299",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Wiclif, Joannes | Johannes, Wicleffus | Wiclevus, Johannes | Wiclef, John | Wycliffe, Joannes | Wyclyf, John | Johannes, Wyclif | Wiclef, Iean | Johannes, Wiclifus | Wiclef, Johannes | Jean, de Wycliffe | Johannes, Wyclefus | Wicleff, John | Wyclyffe, John | Viclif, Johann | Wycliffe, John de | Wicliffe, John | Wiclef, Johann | Viklef | Wiclefus, Joannes | Wycliffe, Johannes | Wiclefius, Johannes | Viklef, John | Wiclif, Johann | Wiclif | Wicklif, John | Wyclif, John | Johannes, Wyclevus | Wickliffe, John | Johann, von Wiclif | Wiclif, John | Wiklif, John | John, Wyclif | Wicleffius, Johannes | Wiclef, Jean | Wiclif, Johann von | Wiclefus, Anglus | Wiclif, Johannes | Wiclef, Joannes | Wiclefus, Johannes | Wycliffe, John | Lelando, Wicoclivus | Wikleff, John | Wicliff, John | Wicklieffe, John | Wicleff, Johannes | Wycklyffe, John | Wyclif, Iohannes | Johannes, Wiclif | Wycliff | Wickliff, John | Wyckliffe, Johannes | Wiclefus | Wykliffe, John | Viklif, Jan | Wiclevus, Joannes | Wycliff, John | Wyclif | Wiclif, Joan",
+            "date_of_birth": "1324",
+            "date_of_death": "1384-12-31",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Trialogus",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 54,
+            "value": "14th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "ed. Gotthard Lechler, Joannis Wiclif Trialogus (Oxford 1869)",
+        "other_editions": "",
+        "view_label": "Trialogus ",
+        "prev": {
+          "id": "jad_work__626",
+          "label": "Opus euangelicum "
+        },
+        "next": {
+          "id": "jad_work__628",
+          "label": "Tractatus de mandatis diuinis "
+        }
+      },
+      {
+        "id": 628,
+        "name": "Tractatus de mandatis diuinis ",
+        "jad_id": "jad_work__628",
+        "author": [
+          {
+            "id": 351,
+            "name": "John Wyclif",
+            "jad_id": "jad_author__351",
+            "gnd_url": "https://d-nb.info/gnd/118632299",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Wiclif, Joannes | Johannes, Wicleffus | Wiclevus, Johannes | Wiclef, John | Wycliffe, Joannes | Wyclyf, John | Johannes, Wyclif | Wiclef, Iean | Johannes, Wiclifus | Wiclef, Johannes | Jean, de Wycliffe | Johannes, Wyclefus | Wicleff, John | Wyclyffe, John | Viclif, Johann | Wycliffe, John de | Wicliffe, John | Wiclef, Johann | Viklef | Wiclefus, Joannes | Wycliffe, Johannes | Wiclefius, Johannes | Viklef, John | Wiclif, Johann | Wiclif | Wicklif, John | Wyclif, John | Johannes, Wyclevus | Wickliffe, John | Johann, von Wiclif | Wiclif, John | Wiklif, John | John, Wyclif | Wicleffius, Johannes | Wiclef, Jean | Wiclif, Johann von | Wiclefus, Anglus | Wiclif, Johannes | Wiclef, Joannes | Wiclefus, Johannes | Wycliffe, John | Lelando, Wicoclivus | Wikleff, John | Wicliff, John | Wicklieffe, John | Wicleff, Johannes | Wycklyffe, John | Wyclif, Iohannes | Johannes, Wiclif | Wycliff | Wickliff, John | Wyckliffe, Johannes | Wiclefus | Wykliffe, John | Viklif, Jan | Wiclevus, Joannes | Wycliff, John | Wyclif | Wiclif, Joan",
+            "date_of_birth": "1324",
+            "date_of_death": "1384-12-31",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Tractatus de mandatis diuinis",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 54,
+            "value": "14th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "ed. Johann Loserth et Frederic David Matthew 1922",
+        "other_editions": "",
+        "view_label": "Tractatus de mandatis diuinis ",
+        "prev": {
+          "id": "jad_work__627",
+          "label": "Trialogus "
+        },
+        "next": {
+          "id": "jad_work__629",
+          "label": "Expositio textus Matthaei XXIV "
+        }
+      },
+      {
+        "id": 629,
+        "name": "Expositio textus Matthaei XXIV ",
+        "jad_id": "jad_work__629",
+        "author": [
+          {
+            "id": 351,
+            "name": "John Wyclif",
+            "jad_id": "jad_author__351",
+            "gnd_url": "https://d-nb.info/gnd/118632299",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Wiclif, Joannes | Johannes, Wicleffus | Wiclevus, Johannes | Wiclef, John | Wycliffe, Joannes | Wyclyf, John | Johannes, Wyclif | Wiclef, Iean | Johannes, Wiclifus | Wiclef, Johannes | Jean, de Wycliffe | Johannes, Wyclefus | Wicleff, John | Wyclyffe, John | Viclif, Johann | Wycliffe, John de | Wicliffe, John | Wiclef, Johann | Viklef | Wiclefus, Joannes | Wycliffe, Johannes | Wiclefius, Johannes | Viklef, John | Wiclif, Johann | Wiclif | Wicklif, John | Wyclif, John | Johannes, Wyclevus | Wickliffe, John | Johann, von Wiclif | Wiclif, John | Wiklif, John | John, Wyclif | Wicleffius, Johannes | Wiclef, Jean | Wiclif, Johann von | Wiclefus, Anglus | Wiclif, Johannes | Wiclef, Joannes | Wiclefus, Johannes | Wycliffe, John | Lelando, Wicoclivus | Wikleff, John | Wicliff, John | Wicklieffe, John | Wicleff, Johannes | Wycklyffe, John | Wyclif, Iohannes | Johannes, Wiclif | Wycliff | Wickliff, John | Wyckliffe, Johannes | Wiclefus | Wykliffe, John | Viklif, Jan | Wiclevus, Joannes | Wycliff, John | Wyclif | Wiclif, Joan",
+            "date_of_birth": "1324",
+            "date_of_death": "1384-12-31",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Expositio textus Matthaei XXIV",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 54,
+            "value": "14th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "ed. Johannes Loserth (London 1913)",
+        "other_editions": "",
+        "view_label": "Expositio textus Matthaei XXIV ",
+        "prev": {
+          "id": "jad_work__628",
+          "label": "Tractatus de mandatis diuinis "
+        },
+        "next": {
+          "id": "jad_work__63",
+          "label": "Commentary Jeremiah "
         }
       }
     ]
@@ -41760,14 +43277,14 @@
         },
         "next": {
           "id": "jad_work__587",
-          "label": " "
+          "label": "Enarratio in euangelium secundum Iohannem "
         }
       }
     ]
   },
   "380": {
     "id": 380,
-    "name": "",
+    "name": "Pseudo-Isidor",
     "jad_id": "jad_author__380",
     "gnd_url": "",
     "notes": "",
@@ -41776,58 +43293,1454 @@
     "date_of_birth": "",
     "date_of_death": "",
     "place": [],
-    "view_label": "",
+    "view_label": "Pseudo-Isidor",
     "prev": {
       "id": "jad_author__38",
       "label": "Christianus Druthmar"
     },
     "next": {
       "id": "jad_author__381",
-      "label": ""
+      "label": "Iosephus Scottus"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 605,
+        "name": "Chronica Gothorum Pseudo-Isidoriana ",
+        "jad_id": "jad_work__605",
+        "author": [
+          {
+            "id": 380,
+            "name": "Pseudo-Isidor",
+            "jad_id": "jad_author__380",
+            "gnd_url": "",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronica Gothorum Pseudo-Isidoriana",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 10,
+            "value": "around 1100"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Chronica Gothorum Pseudo-Isidoriana ",
+        "prev": {
+          "id": "jad_work__604",
+          "label": "Enarratio in Threnos (Lamentationes Ieremiae) "
+        },
+        "next": {
+          "id": "jad_work__606",
+          "label": "Epitome explanationum in Isaiam beati Hieronymi presbyteri "
+        }
+      }
+    ]
   },
   "381": {
     "id": 381,
-    "name": "",
+    "name": "Iosephus Scottus",
     "jad_id": "jad_author__381",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102511632",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Iosephvs, Scottvs | Josephus, Alcuini Discipulus | Iosephus, Scottus | Josephus, Scottus | Scottus, Josephus | Joseph, Disciple d'Alcuin | Scotus, Josephus | Josephus, Anglicus | Scottus, Iosephus | Joseph, Scottus | Scottvs, Josephvs | Scottvs, Iosephvs",
     "date_of_birth": "",
-    "date_of_death": "",
+    "date_of_death": "0804",
     "place": [],
-    "view_label": "",
+    "view_label": "Iosephus Scottus",
     "prev": {
       "id": "jad_author__380",
-      "label": ""
+      "label": "Pseudo-Isidor"
     },
     "next": {
       "id": "jad_author__382",
-      "label": ""
+      "label": "Jacobus Latomus"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 606,
+        "name": "Epitome explanationum in Isaiam beati Hieronymi presbyteri ",
+        "jad_id": "jad_work__606",
+        "author": [
+          {
+            "id": 381,
+            "name": "Iosephus Scottus",
+            "jad_id": "jad_author__381",
+            "gnd_url": "https://d-nb.info/gnd/102511632",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Iosephvs, Scottvs | Josephus, Alcuini Discipulus | Iosephus, Scottus | Josephus, Scottus | Scottus, Josephus | Joseph, Disciple d'Alcuin | Scotus, Josephus | Josephus, Anglicus | Scottus, Iosephus | Joseph, Scottus | Scottvs, Josephvs | Scottvs, Iosephvs",
+            "date_of_birth": "",
+            "date_of_death": "0804",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Epitome explanationum in Isaiam beati Hieronymi presbyteri",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 37,
+            "value": "late 8th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Epitome explanationum in Isaiam beati Hieronymi presbyteri ",
+        "prev": {
+          "id": "jad_work__605",
+          "label": "Chronica Gothorum Pseudo-Isidoriana "
+        },
+        "next": {
+          "id": "jad_work__607",
+          "label": "Articulorum doctrinae fratris Martini Lutheri per theologos Louanienses damnatorum ratio "
+        }
+      }
+    ]
   },
   "382": {
     "id": 382,
-    "name": "",
+    "name": "Jacobus Latomus",
     "jad_id": "jad_author__382",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/119224674",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Latomus, Jacques, l'ancien | Masson, Jacques | Masson, Jacques der Ältere | Latomus, Jacques | Masson, Jacques, d.Ä. | Latomus, Iacobus | Latomus, Jacques der Ältere | Masson, Jacques, der Ältere | Latomus, Jacobus der Ältere | Latomus, James",
+    "date_of_birth": "1475",
+    "date_of_death": "1544-05-29",
+    "place": [],
+    "view_label": "Jacobus Latomus",
+    "prev": {
+      "id": "jad_author__381",
+      "label": "Iosephus Scottus"
+    },
+    "next": {
+      "id": "jad_author__383",
+      "label": "Letbertus de Sancto Rufo"
+    },
+    "related__works": [
+      {
+        "id": 607,
+        "name": "Articulorum doctrinae fratris Martini Lutheri per theologos Louanienses damnatorum ratio ",
+        "jad_id": "jad_work__607",
+        "author": [
+          {
+            "id": 382,
+            "name": "Jacobus Latomus",
+            "jad_id": "jad_author__382",
+            "gnd_url": "https://d-nb.info/gnd/119224674",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Latomus, Jacques, l'ancien | Masson, Jacques | Masson, Jacques der Ältere | Latomus, Jacques | Masson, Jacques, d.Ä. | Latomus, Iacobus | Latomus, Jacques der Ältere | Masson, Jacques, der Ältere | Latomus, Jacobus der Ältere | Latomus, James",
+            "date_of_birth": "1475",
+            "date_of_death": "1544-05-29",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Articulorum doctrinae fratris Martini Lutheri per theologos Louanienses damnatorum ratio",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 120,
+            "value": "16th cen, first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Iacobus Latomus, Opera quae praecipue aduersus horum temporum haereses (Louvain 1550)",
+        "other_editions": "",
+        "view_label": "Articulorum doctrinae fratris Martini Lutheri per theologos Louanienses damnatorum ratio ",
+        "prev": {
+          "id": "jad_work__606",
+          "label": "Epitome explanationum in Isaiam beati Hieronymi presbyteri "
+        },
+        "next": {
+          "id": "jad_work__608",
+          "label": "Theologia 'Summi boni' "
+        }
+      }
+    ]
+  },
+  "383": {
+    "id": 383,
+    "name": "Letbertus de Sancto Rufo",
+    "jad_id": "jad_author__383",
+    "gnd_url": "https://d-nb.info/gnd/102507104",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Letbert, de Saint-Ruf | Lietbertus, Abbas Sancti Rufi | Lietbert, de Saint-Ruf | Lambertus, de Sancto Rufo | Lechbertus, Abbas S. Rufi | Letbert, de Saint-Pierre de Lille | Lethebertus | Lambertus, Insulensis | Lietbertus, de Lille | Lietbertus, Insulensis | Letbert, de Lille | Lietbert, de Lille | Lietbert, von Lille | Lietbert, de Saint-Pierre de Lille | Lambertus, de Lille | Lietbertus, de Sancto Rufo | Insulis, Lietbertus de",
     "date_of_birth": "",
     "date_of_death": "",
     "place": [],
-    "view_label": "",
+    "view_label": "Letbertus de Sancto Rufo",
     "prev": {
-      "id": "jad_author__381",
-      "label": ""
+      "id": "jad_author__382",
+      "label": "Jacobus Latomus"
+    },
+    "next": {
+      "id": "jad_author__384",
+      "label": "Petrus Johannis Olivi"
+    },
+    "related__works": [
+      {
+        "id": 377,
+        "name": "Commentary Psalms ",
+        "jad_id": "jad_work__377",
+        "author": [
+          {
+            "id": 383,
+            "name": "Letbertus de Sancto Rufo",
+            "jad_id": "jad_author__383",
+            "gnd_url": "https://d-nb.info/gnd/102507104",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Letbert, de Saint-Ruf | Lietbertus, Abbas Sancti Rufi | Lietbert, de Saint-Ruf | Lambertus, de Sancto Rufo | Lechbertus, Abbas S. Rufi | Letbert, de Saint-Pierre de Lille | Lethebertus | Lambertus, Insulensis | Lietbertus, de Lille | Lietbertus, Insulensis | Letbert, de Lille | Lietbert, de Lille | Lietbert, von Lille | Lietbert, de Saint-Pierre de Lille | Lambertus, de Lille | Lietbertus, de Sancto Rufo | Insulis, Lietbertus de",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Psalms",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 2,
+            "value": "12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": null,
+        "view_label": "Commentary Psalms ",
+        "prev": {
+          "id": "jad_work__376",
+          "label": "Miscellanea "
+        },
+        "next": {
+          "id": "jad_work__378",
+          "label": "Expositio in quatuor Evangelia "
+        }
+      }
+    ]
+  },
+  "384": {
+    "id": 384,
+    "name": "Petrus Johannis Olivi",
+    "jad_id": "jad_author__384",
+    "gnd_url": "https://d-nb.info/gnd/118589822",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Olivi, Pierre Jean | Petrus, Johannis Olivi | Pierre Jean | Pietro, di Gianni Olivi | Olivus, Petrus J. | Olivi, Johannes Petrus | Peter of John Olivi | Petrus Johannes | Pier, di Giovanni Olivi | Petrus, Johannis | Petrus Johannes, Olivi | Johannes Petrus, Provenzalis | Olivi, Petrus Ioannes | Olivi, Petrus J. | Petrus Johannes, Provenzalis | Olieu, Pierre | Olieu, Pierre Déjean | Olieu, Pietro di Giovanni | Pierre Jean, Olieu | Olivi, Petrus Ioannis | Pierre | Olivi, Pietro di Giovanni | Olivus, Petrus Johannes | Olieu, Pietro di G. | Olivi, Pierre J. | Olivi, Peter | Olivi, Petrus Iohannis | Peter, Olivi | Pierre, de Jean Olivi | Peter | Olivi, Petrus Johannes | Olivi, Petri Iohannis",
+    "date_of_birth": "1248",
+    "date_of_death": "1298-03-14",
+    "place": [],
+    "view_label": "Petrus Johannis Olivi",
+    "prev": {
+      "id": "jad_author__383",
+      "label": "Letbertus de Sancto Rufo"
+    },
+    "next": {
+      "id": "jad_author__385",
+      "label": "Pius II, pope"
+    },
+    "related__works": [
+      {
+        "id": 609,
+        "name": "Quodlibeta quinque ",
+        "jad_id": "jad_work__609",
+        "author": [
+          {
+            "id": 384,
+            "name": "Petrus Johannis Olivi",
+            "jad_id": "jad_author__384",
+            "gnd_url": "https://d-nb.info/gnd/118589822",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Olivi, Pierre Jean | Petrus, Johannis Olivi | Pierre Jean | Pietro, di Gianni Olivi | Olivus, Petrus J. | Olivi, Johannes Petrus | Peter of John Olivi | Petrus Johannes | Pier, di Giovanni Olivi | Petrus, Johannis | Petrus Johannes, Olivi | Johannes Petrus, Provenzalis | Olivi, Petrus Ioannes | Olivi, Petrus J. | Petrus Johannes, Provenzalis | Olieu, Pierre | Olieu, Pierre Déjean | Olieu, Pietro di Giovanni | Pierre Jean, Olieu | Olivi, Petrus Ioannis | Pierre | Olivi, Pietro di Giovanni | Olivus, Petrus Johannes | Olieu, Pietro di G. | Olivi, Pierre J. | Olivi, Peter | Olivi, Petrus Iohannis | Peter, Olivi | Pierre, de Jean Olivi | Peter | Olivi, Petrus Johannes | Olivi, Petri Iohannis",
+            "date_of_birth": "1248",
+            "date_of_death": "1298-03-14",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Quodlibeta quinque",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Collectio Oliviana 7 (2002)",
+        "other_editions": "",
+        "view_label": "Quodlibeta quinque ",
+        "prev": {
+          "id": "jad_work__608",
+          "label": "Theologia 'Summi boni' "
+        },
+        "next": {
+          "id": "jad_work__61",
+          "label": "Commentary Ezekiel "
+        }
+      },
+      {
+        "id": 610,
+        "name": "Lectura super Lucam ",
+        "jad_id": "jad_work__610",
+        "author": [
+          {
+            "id": 384,
+            "name": "Petrus Johannis Olivi",
+            "jad_id": "jad_author__384",
+            "gnd_url": "https://d-nb.info/gnd/118589822",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Olivi, Pierre Jean | Petrus, Johannis Olivi | Pierre Jean | Pietro, di Gianni Olivi | Olivus, Petrus J. | Olivi, Johannes Petrus | Peter of John Olivi | Petrus Johannes | Pier, di Giovanni Olivi | Petrus, Johannis | Petrus Johannes, Olivi | Johannes Petrus, Provenzalis | Olivi, Petrus Ioannes | Olivi, Petrus J. | Petrus Johannes, Provenzalis | Olieu, Pierre | Olieu, Pierre Déjean | Olieu, Pietro di Giovanni | Pierre Jean, Olieu | Olivi, Petrus Ioannis | Pierre | Olivi, Pietro di Giovanni | Olivus, Petrus Johannes | Olieu, Pietro di G. | Olivi, Pierre J. | Olivi, Peter | Olivi, Petrus Iohannis | Peter, Olivi | Pierre, de Jean Olivi | Peter | Olivi, Petrus Johannes | Olivi, Petri Iohannis",
+            "date_of_birth": "1248",
+            "date_of_death": "1298-03-14",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Lectura super Lucam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "éd. F. Iozzelli (Collectio Oliviana 5, 2010)",
+        "other_editions": "",
+        "view_label": "Lectura super Lucam ",
+        "prev": {
+          "id": "jad_work__61",
+          "label": "Commentary Ezekiel "
+        },
+        "next": {
+          "id": "jad_work__611",
+          "label": "Expositio in Canticum Canticorum "
+        }
+      },
+      {
+        "id": 611,
+        "name": "Expositio in Canticum Canticorum ",
+        "jad_id": "jad_work__611",
+        "author": [
+          {
+            "id": 384,
+            "name": "Petrus Johannis Olivi",
+            "jad_id": "jad_author__384",
+            "gnd_url": "https://d-nb.info/gnd/118589822",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Olivi, Pierre Jean | Petrus, Johannis Olivi | Pierre Jean | Pietro, di Gianni Olivi | Olivus, Petrus J. | Olivi, Johannes Petrus | Peter of John Olivi | Petrus Johannes | Pier, di Giovanni Olivi | Petrus, Johannis | Petrus Johannes, Olivi | Johannes Petrus, Provenzalis | Olivi, Petrus Ioannes | Olivi, Petrus J. | Petrus Johannes, Provenzalis | Olieu, Pierre | Olieu, Pierre Déjean | Olieu, Pietro di Giovanni | Pierre Jean, Olieu | Olivi, Petrus Ioannis | Pierre | Olivi, Pietro di Giovanni | Olivus, Petrus Johannes | Olieu, Pietro di G. | Olivi, Pierre J. | Olivi, Peter | Olivi, Petrus Iohannis | Peter, Olivi | Pierre, de Jean Olivi | Peter | Olivi, Petrus Johannes | Olivi, Petri Iohannis",
+            "date_of_birth": "1248",
+            "date_of_death": "1298-03-14",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Expositio in Canticum Canticorum",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "ed. Schlageter (Collectio Oliviana 2, 1999)",
+        "other_editions": "",
+        "view_label": "Expositio in Canticum Canticorum ",
+        "prev": {
+          "id": "jad_work__610",
+          "label": "Lectura super Lucam "
+        },
+        "next": {
+          "id": "jad_work__612",
+          "label": "Liber promissionum et praedictorum Dei "
+        }
+      }
+    ]
+  },
+  "385": {
+    "id": 385,
+    "name": "Pius II, pope",
+    "jad_id": "jad_author__385",
+    "gnd_url": "https://d-nb.info/gnd/118594702",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Piccolomineus, Enee Silvius | Aeneas Sylvius, Picolhominaeus | Pius II., Pontifex Maximus | Sylwius, Eneass | Papst Pius II. | Enee Silvius | Aeneas, Sylvius | Enea Silvio Piccolomini | Eneas Silvius Piccolomini | Piccolomini, Eneas Silvius | Enea-Silvio, Piccolomini | Pie II, Pope | Aeneas Sylvius, Piccolomineus | Picolhominaeus, Aeneas Sylvius | Silvius, Aeneas | Eneás Silvius | Aeneas Silvius Piccolomini | Piccolomini, Enea | Senis, Aeneas Sylvius Picolhominaeus von | Piccolomineus, Aeneas Sylvius | Pius, Papa II. | Aeneas Sylvius, Piccolhomineus | Silvius, Eneas | Piccolominus, Aeneas Sylvius | Eneass, Sylwius | Piccolomini, Aeneas Sylvius | Pio II, Papst | Aeneas Sylenius | Piccolomini, Aeneas Silvius | Pio II., Papa | Pius II, Pope | Pio II, Papa | Sylvius, Piccolomini A. | Piccolomini, Aeneas Sylvius Bartholomaeus | Piccolomini, Eneas Silvio | Sylvius, Aeneas | Piccolomini, Enea Silvio de' | Aeneas Sylvius, Piccolomini | Eneas Pius, Senensis | Pius II, Papst | Aeneas Sylvius, Senensis | Pie II, Pape | Pius 2, Papa | Aeneas, Silvius | Piccolomineus, Aeneas Silvius | Pio II, Pape | Silvius, Enee | Piccolomini, Enea S. | Piccolominaeus, Aeneas Sylvius Bartholomaeus | Piccolomini, Enea Silvio | Pie II., Pape | Pius II, Pape | Sylenius, Aeneas | Picolhominaeus von Senis, Aeneas Sylvius | Aeneas Silvius, Piccolomini | Aeneas Sylvius, Piccolominaeus | Pius II., Papa | Eneas, Silvius | Piccolhomineus, Aeneas Sylvius | Enea Silvio, de' Piccolomini | Enea, Piccolomini | Pie II, Papst | Pio II, Pope",
+    "date_of_birth": "1405-10-18",
+    "date_of_death": "1464-08-14",
+    "place": [],
+    "view_label": "Pius II, pope",
+    "prev": {
+      "id": "jad_author__384",
+      "label": "Petrus Johannis Olivi"
+    },
+    "next": {
+      "id": "jad_author__386",
+      "label": "Quodvultdeus, Carthaginiensis"
+    },
+    "related__works": []
+  },
+  "386": {
+    "id": 386,
+    "name": "Quodvultdeus, Carthaginiensis",
+    "jad_id": "jad_author__386",
+    "gnd_url": "https://d-nb.info/gnd/118968289",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Quodvultdeus, Episcopus | Quodvultdeus, di Cartagine | Quodvultdeus, Carthaginensis | Quodvultdeus, Heiliger | Quodvultdeus, Bishop of Carthage | Quodvultdeus, Schüler Augustins | Quodvultdeus, Bischof | Quodvultdeus, Diaconus | Quodvultdeus, of Carthage | Quodvultdeus, von Karthago",
+    "date_of_birth": "",
+    "date_of_death": "0453",
+    "place": [],
+    "view_label": "Quodvultdeus, Carthaginiensis",
+    "prev": {
+      "id": "jad_author__385",
+      "label": "Pius II, pope"
+    },
+    "next": {
+      "id": "jad_author__387",
+      "label": "Ptolemaeus Lucensis"
+    },
+    "related__works": [
+      {
+        "id": 612,
+        "name": "Liber promissionum et praedictorum Dei ",
+        "jad_id": "jad_work__612",
+        "author": [
+          {
+            "id": 386,
+            "name": "Quodvultdeus, Carthaginiensis",
+            "jad_id": "jad_author__386",
+            "gnd_url": "https://d-nb.info/gnd/118968289",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Quodvultdeus, Episcopus | Quodvultdeus, di Cartagine | Quodvultdeus, Carthaginensis | Quodvultdeus, Heiliger | Quodvultdeus, Bishop of Carthage | Quodvultdeus, Schüler Augustins | Quodvultdeus, Bischof | Quodvultdeus, Diaconus | Quodvultdeus, of Carthage | Quodvultdeus, von Karthago",
+            "date_of_birth": "",
+            "date_of_death": "0453",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Liber promissionum et praedictorum Dei",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 58,
+            "value": "5th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Liber promissionum et praedictorum Dei ",
+        "prev": {
+          "id": "jad_work__611",
+          "label": "Expositio in Canticum Canticorum "
+        },
+        "next": {
+          "id": "jad_work__613",
+          "label": "Continuatio Thomae de Aquino 'De regimine principum' "
+        }
+      }
+    ]
+  },
+  "387": {
+    "id": 387,
+    "name": "Ptolemaeus Lucensis",
+    "jad_id": "jad_author__387",
+    "gnd_url": "https://d-nb.info/gnd/100958761",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Luca, Tholomaeus de | Bartholomäus, von Lucca | Ptolomeus, von Lucca | Tholomaeus, de Fiadonis Lucanus | Tholomaeus, de Luca | Tholomaeus, Lucanus | Tholomeus, von Lucca | Tolomeo, da Lucca | Bartholomaeus, Lucensis | Bartholomaeus, de Lucca | Tolomeo, Fiadoni | Ptolemy, of Lucca | Ptolemaeus, Fiadoni de Lucca | Bartholomaeus, Fiadoni | Tholomeus, Lucensis | Ptolemaeus, Fiadoni | Tolomeo, de Lucca | Bartholomaeus, Fiadoni de Lucca | Ptolemaeus, de Lucca | Fiadoni, Bartolommeo | Tolomeo, Fiadoni de Lucca | Tolommeo, da Lucca | Lucca, Tolomeo da | Tholomaeus, von Lucca | Bartolomé, de Lucca",
+    "date_of_birth": "1236",
+    "date_of_death": "1327",
+    "place": [],
+    "view_label": "Ptolemaeus Lucensis",
+    "prev": {
+      "id": "jad_author__386",
+      "label": "Quodvultdeus, Carthaginiensis"
+    },
+    "next": {
+      "id": "jad_author__388",
+      "label": "Rodericus Ximenius de Rada, archbishop Toledo"
+    },
+    "related__works": [
+      {
+        "id": 613,
+        "name": "Continuatio Thomae de Aquino 'De regimine principum' ",
+        "jad_id": "jad_work__613",
+        "author": [
+          {
+            "id": 387,
+            "name": "Ptolemaeus Lucensis",
+            "jad_id": "jad_author__387",
+            "gnd_url": "https://d-nb.info/gnd/100958761",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Luca, Tholomaeus de | Bartholomäus, von Lucca | Ptolomeus, von Lucca | Tholomaeus, de Fiadonis Lucanus | Tholomaeus, de Luca | Tholomaeus, Lucanus | Tholomeus, von Lucca | Tolomeo, da Lucca | Bartholomaeus, Lucensis | Bartholomaeus, de Lucca | Tolomeo, Fiadoni | Ptolemy, of Lucca | Ptolemaeus, Fiadoni de Lucca | Bartholomaeus, Fiadoni | Tholomeus, Lucensis | Ptolemaeus, Fiadoni | Tolomeo, de Lucca | Bartholomaeus, Fiadoni de Lucca | Ptolemaeus, de Lucca | Fiadoni, Bartolommeo | Tolomeo, Fiadoni de Lucca | Tolommeo, da Lucca | Lucca, Tolomeo da | Tholomaeus, von Lucca | Bartolomé, de Lucca",
+            "date_of_birth": "1236",
+            "date_of_death": "1327",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Continuatio Thomae de Aquino 'De regimine principum'",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 17,
+            "value": "around 1300"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "ed. Raimondo M. Spiazzi, S. Thomae Aquinatis Opuscula philosophica (Turin–Rome 1954)",
+        "other_editions": "",
+        "view_label": "Continuatio Thomae de Aquino 'De regimine principum' ",
+        "prev": {
+          "id": "jad_work__612",
+          "label": "Liber promissionum et praedictorum Dei "
+        },
+        "next": {
+          "id": "jad_work__614",
+          "label": "Dialogus libri uitae "
+        }
+      }
+    ]
+  },
+  "388": {
+    "id": 388,
+    "name": "Rodericus Ximenius de Rada, archbishop Toledo",
+    "jad_id": "jad_author__388",
+    "gnd_url": "https://d-nb.info/gnd/119527626",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Rodericus, Simonis | Ximenez, Rodericus | Roderico, de Tolèdo | Rodrigo el Toledano | Ximénez de Rada, Rodrigo | Rudericus, Toletanus | Ximenes, Rodericus | Rodericus, Simonis Toletanus | De Rada, Rodericus Ximenius | Rodrigo, de Rada | Rodrigo, Jiménez de Rada | Roderigo, de Rada | Rodrigo Jiménez de Rada | Jiménez de Rada, Rodrigo | Rodríguez Ximénez | Rada, Rodericus Ximenius de | Rodericus, Ximenius de Rada | Rodericus, Ximenès Toletanus | Rodrigue, de Rada | Ximenès, Rodrigue | Rodrigo, el Toletano | Rada, Rodrigo Jiménez de | Ximenes, Roderigo | Ximenes de Rada, Rodericus | Rodericus, Ximenez | Rodericus, Semenus | Rodericus, Toletanus | Rodrigue, de Tolède | El Toledano El | Rada, Rodericus Ximenes de | Rada, Roderigo Jimenez de | Rodericus Toletanus | Ximenius, Rodericus | Rodericus, Toledo, Erzbischof | Roderic, Ximenes | Roderigo, el Toletano | Ximenius, de Rada | Roderigo, Ximenes de la Rada",
+    "date_of_birth": "1170",
+    "date_of_death": "1247",
+    "place": [],
+    "view_label": "Rodericus Ximenius de Rada, archbishop Toledo",
+    "prev": {
+      "id": "jad_author__387",
+      "label": "Ptolemaeus Lucensis"
+    },
+    "next": {
+      "id": "jad_author__389",
+      "label": "Saewulf"
+    },
+    "related__works": [
+      {
+        "id": 614,
+        "name": "Dialogus libri uitae ",
+        "jad_id": "jad_work__614",
+        "author": [
+          {
+            "id": 388,
+            "name": "Rodericus Ximenius de Rada, archbishop Toledo",
+            "jad_id": "jad_author__388",
+            "gnd_url": "https://d-nb.info/gnd/119527626",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Rodericus, Simonis | Ximenez, Rodericus | Roderico, de Tolèdo | Rodrigo el Toledano | Ximénez de Rada, Rodrigo | Rudericus, Toletanus | Ximenes, Rodericus | Rodericus, Simonis Toletanus | De Rada, Rodericus Ximenius | Rodrigo, de Rada | Rodrigo, Jiménez de Rada | Roderigo, de Rada | Rodrigo Jiménez de Rada | Jiménez de Rada, Rodrigo | Rodríguez Ximénez | Rada, Rodericus Ximenius de | Rodericus, Ximenius de Rada | Rodericus, Ximenès Toletanus | Rodrigue, de Rada | Ximenès, Rodrigue | Rodrigo, el Toletano | Rada, Rodrigo Jiménez de | Ximenes, Roderigo | Ximenes de Rada, Rodericus | Rodericus, Ximenez | Rodericus, Semenus | Rodericus, Toletanus | Rodrigue, de Tolède | El Toledano El | Rada, Rodericus Ximenes de | Rada, Roderigo Jimenez de | Rodericus Toletanus | Ximenius, Rodericus | Rodericus, Toledo, Erzbischof | Roderic, Ximenes | Roderigo, el Toletano | Ximenius, de Rada | Roderigo, Ximenes de la Rada",
+            "date_of_birth": "1170",
+            "date_of_death": "1247",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Dialogus libri uitae",
+        "genre": {
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Dialogus libri uitae ",
+        "prev": {
+          "id": "jad_work__613",
+          "label": "Continuatio Thomae de Aquino 'De regimine principum' "
+        },
+        "next": {
+          "id": "jad_work__615",
+          "label": "Breuiarium historiae catholicae "
+        }
+      },
+      {
+        "id": 615,
+        "name": "Breuiarium historiae catholicae ",
+        "jad_id": "jad_work__615",
+        "author": [
+          {
+            "id": 388,
+            "name": "Rodericus Ximenius de Rada, archbishop Toledo",
+            "jad_id": "jad_author__388",
+            "gnd_url": "https://d-nb.info/gnd/119527626",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Rodericus, Simonis | Ximenez, Rodericus | Roderico, de Tolèdo | Rodrigo el Toledano | Ximénez de Rada, Rodrigo | Rudericus, Toletanus | Ximenes, Rodericus | Rodericus, Simonis Toletanus | De Rada, Rodericus Ximenius | Rodrigo, de Rada | Rodrigo, Jiménez de Rada | Roderigo, de Rada | Rodrigo Jiménez de Rada | Jiménez de Rada, Rodrigo | Rodríguez Ximénez | Rada, Rodericus Ximenius de | Rodericus, Ximenius de Rada | Rodericus, Ximenès Toletanus | Rodrigue, de Rada | Ximenès, Rodrigue | Rodrigo, el Toletano | Rada, Rodrigo Jiménez de | Ximenes, Roderigo | Ximenes de Rada, Rodericus | Rodericus, Ximenez | Rodericus, Semenus | Rodericus, Toletanus | Rodrigue, de Tolède | El Toledano El | Rada, Rodericus Ximenes de | Rada, Roderigo Jimenez de | Rodericus Toletanus | Ximenius, Rodericus | Rodericus, Toledo, Erzbischof | Roderic, Ximenes | Roderigo, el Toletano | Ximenius, de Rada | Roderigo, Ximenes de la Rada",
+            "date_of_birth": "1170",
+            "date_of_death": "1247",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Breuiarium historiae catholicae",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Breuiarium historiae catholicae ",
+        "prev": {
+          "id": "jad_work__614",
+          "label": "Dialogus libri uitae "
+        },
+        "next": {
+          "id": "jad_work__616",
+          "label": "Peregrinatio "
+        }
+      }
+    ]
+  },
+  "389": {
+    "id": 389,
+    "name": "Saewulf",
+    "jad_id": "jad_author__389",
+    "gnd_url": "https://d-nb.info/gnd/119230879",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Sewulf | Saewulf, Jerusalempilger | Saewulf",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "Saewulf",
+    "prev": {
+      "id": "jad_author__388",
+      "label": "Rodericus Ximenius de Rada, archbishop Toledo"
     },
     "next": {
       "id": "jad_author__39",
       "label": "Werner of Sankt Blasien"
+    },
+    "related__works": [
+      {
+        "id": 616,
+        "name": "Peregrinatio ",
+        "jad_id": "jad_work__616",
+        "author": [
+          {
+            "id": 389,
+            "name": "Saewulf",
+            "jad_id": "jad_author__389",
+            "gnd_url": "https://d-nb.info/gnd/119230879",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Sewulf | Saewulf, Jerusalempilger | Saewulf",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Peregrinatio",
+        "genre": {
+          "id": 22368,
+          "value": "Pilgrim report",
+          "color": "light-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 10,
+            "value": "around 1100"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Peregrinatio ",
+        "prev": {
+          "id": "jad_work__615",
+          "label": "Breuiarium historiae catholicae "
+        },
+        "next": {
+          "id": "jad_work__617",
+          "label": "De uita Caesarum "
+        }
+      }
+    ]
+  },
+  "390": {
+    "id": 390,
+    "name": "Saxo Grammaticus",
+    "jad_id": "jad_author__390",
+    "gnd_url": "https://d-nb.info/gnd/118642251",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Sakse | Grammaticus, Saxo | Saxo, Sialandicus | Saxe, Runemester | Saxon, le Grammairien | Saxo, Longus | Runemester, Saxe | Saxo, Danus | Saxo | Saxo, Langus | Saxon, le grammairien",
+    "date_of_birth": "1150",
+    "date_of_death": "1220",
+    "place": [],
+    "view_label": "Saxo Grammaticus",
+    "prev": {
+      "id": "jad_author__39",
+      "label": "Werner of Sankt Blasien"
+    },
+    "next": {
+      "id": "jad_author__391",
+      "label": "Gaius Suetonius Tranquillus"
+    },
+    "related__works": []
+  },
+  "391": {
+    "id": 391,
+    "name": "Gaius Suetonius Tranquillus",
+    "jad_id": "jad_author__391",
+    "gnd_url": "https://d-nb.info/gnd/118619918",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Suetonius, Caius T. | Tranquillo, Caio Svetonio | Sueton, Gaius | Svetonij Trankvill, G. | Suetone, Tranquile | Svetonius Tranquillus, Caius | Tranquillus, Suetonius | Suetonio | Suetonio Tranquillo, Gaio | Tranquillus, C. S. | Suetonius, Gaius T. | Svetonio Tranquillo, Gaio | Svetonius Tranquillus, Gaius | Suetonus Tranquillus, Caius | Tranquillus, Caius Suetonius | Suetonius | Svetonius | Suetonius-Tranquillus, Caius | Suetonius Tranquillus, Caius | Svetonio | Sueton, Caius | Suetonio Tranquilo, C. | Suetonius, Romanus | Gaius Suetonius Tranquillus | Tranquillus, Gaius Suetonius | Suetonius, Historien | Suetonius Tranquillus, Cajus | Suetone Tranquile | Suétone, Historien | Suetone | Suetonius Tranquillus | Tranquillus, Cajus S. | Suetonius, Grammaticus | Suetonius Tranquillus, Gajus | Suetonius, Gaius | Svetonij Trankvill, Gaj | Suetoniu Trancuillu, Caiu | Suetonius, Biographer | Suetonius Tranquillus, C. | Suetoine | Trankvill, K. Svetoniĭ | Suétone | Sueton Tranquillus, Caius | Sveton | Tranquillus, Caius S. | Suetonius, Caius | Tranquillus, C. Suetonius | Suetonius-Tranquillus, Gaius | Svetonij | Tranquillus, Gaius S. | Tranquillus, Gaius | Svetonio Tranquillo, Caio | Sueton | Suetonius, Tranquillus | Suetonius, Historicus",
+    "date_of_birth": "0070",
+    "date_of_death": "0150",
+    "place": [],
+    "view_label": "Gaius Suetonius Tranquillus",
+    "prev": {
+      "id": "jad_author__390",
+      "label": "Saxo Grammaticus"
+    },
+    "next": {
+      "id": "jad_author__392",
+      "label": "Pseudo- Thomas of Aquin"
+    },
+    "related__works": [
+      {
+        "id": 617,
+        "name": "De uita Caesarum ",
+        "jad_id": "jad_work__617",
+        "author": [
+          {
+            "id": 391,
+            "name": "Gaius Suetonius Tranquillus",
+            "jad_id": "jad_author__391",
+            "gnd_url": "https://d-nb.info/gnd/118619918",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Suetonius, Caius T. | Tranquillo, Caio Svetonio | Sueton, Gaius | Svetonij Trankvill, G. | Suetone, Tranquile | Svetonius Tranquillus, Caius | Tranquillus, Suetonius | Suetonio | Suetonio Tranquillo, Gaio | Tranquillus, C. S. | Suetonius, Gaius T. | Svetonio Tranquillo, Gaio | Svetonius Tranquillus, Gaius | Suetonus Tranquillus, Caius | Tranquillus, Caius Suetonius | Suetonius | Svetonius | Suetonius-Tranquillus, Caius | Suetonius Tranquillus, Caius | Svetonio | Sueton, Caius | Suetonio Tranquilo, C. | Suetonius, Romanus | Gaius Suetonius Tranquillus | Tranquillus, Gaius Suetonius | Suetonius, Historien | Suetonius Tranquillus, Cajus | Suetone Tranquile | Suétone, Historien | Suetone | Suetonius Tranquillus | Tranquillus, Cajus S. | Suetonius, Grammaticus | Suetonius Tranquillus, Gajus | Suetonius, Gaius | Svetonij Trankvill, Gaj | Suetoniu Trancuillu, Caiu | Suetonius, Biographer | Suetonius Tranquillus, C. | Suetoine | Trankvill, K. Svetoniĭ | Suétone | Sueton Tranquillus, Caius | Sveton | Tranquillus, Caius S. | Suetonius, Caius | Tranquillus, C. Suetonius | Suetonius-Tranquillus, Gaius | Svetonij | Tranquillus, Gaius S. | Tranquillus, Gaius | Svetonio Tranquillo, Caio | Sueton | Suetonius, Tranquillus | Suetonius, Historicus",
+            "date_of_birth": "0070",
+            "date_of_death": "0150",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "De uita Caesarum",
+        "genre": {
+          "id": 15028,
+          "value": "Hagiography",
+          "color": "darker-blue"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 123,
+            "value": "2th cen, first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Teubner 1908",
+        "other_editions": "",
+        "view_label": "De uita Caesarum ",
+        "prev": {
+          "id": "jad_work__616",
+          "label": "Peregrinatio "
+        },
+        "next": {
+          "id": "jad_work__618",
+          "label": "Postilla in librum Geneseos "
+        }
+      }
+    ]
+  },
+  "392": {
+    "id": 392,
+    "name": "Pseudo- Thomas of Aquin",
+    "jad_id": "jad_author__392",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "Pseudo- Thomas of Aquin",
+    "prev": {
+      "id": "jad_author__391",
+      "label": "Gaius Suetonius Tranquillus"
+    },
+    "next": {
+      "id": "jad_author__393",
+      "label": "Theodoricus Herbipolensis, pilgrim"
+    },
+    "related__works": [
+      {
+        "id": 618,
+        "name": "Postilla in librum Geneseos ",
+        "jad_id": "jad_work__618",
+        "author": [
+          {
+            "id": 392,
+            "name": "Pseudo- Thomas of Aquin",
+            "jad_id": "jad_author__392",
+            "gnd_url": "",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Postilla in librum Geneseos",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 43,
+            "value": "14th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Sancti Thomae doctoris angelici ordinis Praedicatorum opera omnia, vol. 23 (Parma 1869)",
+        "other_editions": "",
+        "view_label": "Postilla in librum Geneseos ",
+        "prev": {
+          "id": "jad_work__617",
+          "label": "De uita Caesarum "
+        },
+        "next": {
+          "id": "jad_work__619",
+          "label": "Peregrinatio "
+        }
+      }
+    ]
+  },
+  "393": {
+    "id": 393,
+    "name": "Theodoricus Herbipolensis, pilgrim",
+    "jad_id": "jad_author__393",
+    "gnd_url": "https://d-nb.info/gnd/1089247419",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Theodericus Herbipolensis, Pilger, Deutschland | Theodericus, Pilger, Deutschland | Theodericus Wirzburgensis, Pilger, Deutschland | Theodoricus Wirzburgensis, Pilger, Deutschland | Dietrich von Würzburg, Pilger, Deutschland | Theodoricus, Pilger, Deutschland",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "Theodoricus Herbipolensis, pilgrim",
+    "prev": {
+      "id": "jad_author__392",
+      "label": "Pseudo- Thomas of Aquin"
+    },
+    "next": {
+      "id": "jad_author__394",
+      "label": "Cornelius Tacitus"
+    },
+    "related__works": [
+      {
+        "id": 619,
+        "name": "Peregrinatio ",
+        "jad_id": "jad_work__619",
+        "author": [
+          {
+            "id": 393,
+            "name": "Theodoricus Herbipolensis, pilgrim",
+            "jad_id": "jad_author__393",
+            "gnd_url": "https://d-nb.info/gnd/1089247419",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Theodericus Herbipolensis, Pilger, Deutschland | Theodericus, Pilger, Deutschland | Theodericus Wirzburgensis, Pilger, Deutschland | Theodoricus Wirzburgensis, Pilger, Deutschland | Dietrich von Würzburg, Pilger, Deutschland | Theodoricus, Pilger, Deutschland",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Peregrinatio",
+        "genre": {
+          "id": 22368,
+          "value": "Pilgrim report",
+          "color": "light-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 38,
+            "value": "1170s"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Peregrinatio ",
+        "prev": {
+          "id": "jad_work__618",
+          "label": "Postilla in librum Geneseos "
+        },
+        "next": {
+          "id": "jad_work__62",
+          "label": "Expositio epistolarum S. Pauli "
+        }
+      }
+    ]
+  },
+  "394": {
+    "id": 394,
+    "name": "Cornelius Tacitus",
+    "jad_id": "jad_author__394",
+    "gnd_url": "https://d-nb.info/gnd/118620452",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Tacito, Gaio C. | Tàcit, P. Corneli | Tacitus, P. Cornelius | Tacito, Gaio Cornelio | Tacitus, Historicus | Tacito, Cajo Cornelio | Tacite, Caius Cornelius | Tacite, Corneille | Tácito, Cornelio | Tacitus, Kajus K. | Tacitus, Publius C. | Cornelius Tacitus, Caius | Tacite, C. C. | Tacito, Caio C. | Tacite, C.C. | Takitos, Kowṙnelios | Tacite, d'Interamna | Tacito, C.C. | Tacito, G. Cornelio | Tacitus, Cajus Cornelius | Publius Cornelius Tacitus | Tacitus, C.C. | Tacitus, Cajus C. | Tacit, Cornelius | Cornelius, Tacitus | Tacite | Tacito, Cajo C. | Taciti, Cornelii | Tacitus, Kajus Kornelius | Tacitus, C. Cornelius | Tacit., Cornel. | Tacitus, Publius Cornelius | Tacitus, Gaius Cornelius | Tacite, Caius C. | Tacitus, Caius C. | Tacitus, C. C. | Tácito | Tacitus | Tacit, Kornelij | Tazitus | Tacito, Caio Cornelio | Tacito, Publio Cornelio | Tacitus, Caius Cornelius | Cornelius Tacitus, Gaius | Tacito, C. C. | Tacitus, Gajus Cornelius | Tacyt, Kai Korneliusz | Tácito, Cayo Cornelio | Tacitus, C. Corn. | Tacite, Publius Cornelius | Tacitus, Gaius C.",
+    "date_of_birth": "0055",
+    "date_of_death": "0120",
+    "place": [],
+    "view_label": "Cornelius Tacitus",
+    "prev": {
+      "id": "jad_author__393",
+      "label": "Theodoricus Herbipolensis, pilgrim"
+    },
+    "next": {
+      "id": "jad_author__395",
+      "label": "Zacharias Chrysopolitanus"
+    },
+    "related__works": [
+      {
+        "id": 620,
+        "name": "Historiae ",
+        "jad_id": "jad_work__620",
+        "author": [
+          {
+            "id": 394,
+            "name": "Cornelius Tacitus",
+            "jad_id": "jad_author__394",
+            "gnd_url": "https://d-nb.info/gnd/118620452",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Tacito, Gaio C. | Tàcit, P. Corneli | Tacitus, P. Cornelius | Tacito, Gaio Cornelio | Tacitus, Historicus | Tacito, Cajo Cornelio | Tacite, Caius Cornelius | Tacite, Corneille | Tácito, Cornelio | Tacitus, Kajus K. | Tacitus, Publius C. | Cornelius Tacitus, Caius | Tacite, C. C. | Tacito, Caio C. | Tacite, C.C. | Takitos, Kowṙnelios | Tacite, d'Interamna | Tacito, C.C. | Tacito, G. Cornelio | Tacitus, Cajus Cornelius | Publius Cornelius Tacitus | Tacitus, C.C. | Tacitus, Cajus C. | Tacit, Cornelius | Cornelius, Tacitus | Tacite | Tacito, Cajo C. | Taciti, Cornelii | Tacitus, Kajus Kornelius | Tacitus, C. Cornelius | Tacit., Cornel. | Tacitus, Publius Cornelius | Tacitus, Gaius Cornelius | Tacite, Caius C. | Tacitus, Caius C. | Tacitus, C. C. | Tácito | Tacitus | Tacit, Kornelij | Tazitus | Tacito, Caio Cornelio | Tacito, Publio Cornelio | Tacitus, Caius Cornelius | Cornelius Tacitus, Gaius | Tacito, C. C. | Tacitus, Gajus Cornelius | Tacyt, Kai Korneliusz | Tácito, Cayo Cornelio | Tacitus, C. Corn. | Tacite, Publius Cornelius | Tacitus, Gaius C.",
+            "date_of_birth": "0055",
+            "date_of_death": "0120",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Historiae",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 124,
+            "value": "around 100"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Teubner 1978",
+        "other_editions": "",
+        "view_label": "Historiae ",
+        "prev": {
+          "id": "jad_work__62",
+          "label": "Expositio epistolarum S. Pauli "
+        },
+        "next": {
+          "id": "jad_work__621",
+          "label": "In unum ex quatuor "
+        }
+      }
+    ]
+  },
+  "395": {
+    "id": 395,
+    "name": "Zacharias Chrysopolitanus",
+    "jad_id": "jad_author__395",
+    "gnd_url": "https://d-nb.info/gnd/100964370",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Zacharias, de Goldsborough | Zacharie, de Besançon | Zacharias, Bisuntinus | Zacharias, Episcopus Chrysopolitanus | Zacharias, Exegeta | Zachary, of Besançon | Zacharias, aus Besançon | Zacharias, Vezuntini | Chrysopolitanus, Zacharias | Zacharias, Vezuntini Episcopus | Zacharias, von Besançon",
+    "date_of_birth": "",
+    "date_of_death": "1155",
+    "place": [],
+    "view_label": "Zacharias Chrysopolitanus",
+    "prev": {
+      "id": "jad_author__394",
+      "label": "Cornelius Tacitus"
+    },
+    "next": {
+      "id": "jad_author__396",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 621,
+        "name": "In unum ex quatuor ",
+        "jad_id": "jad_work__621",
+        "author": [
+          {
+            "id": 395,
+            "name": "Zacharias Chrysopolitanus",
+            "jad_id": "jad_author__395",
+            "gnd_url": "https://d-nb.info/gnd/100964370",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Zacharias, de Goldsborough | Zacharie, de Besançon | Zacharias, Bisuntinus | Zacharias, Episcopus Chrysopolitanus | Zacharias, Exegeta | Zachary, of Besançon | Zacharias, aus Besançon | Zacharias, Vezuntini | Chrysopolitanus, Zacharias | Zacharias, Vezuntini Episcopus | Zacharias, von Besançon",
+            "date_of_birth": "",
+            "date_of_death": "1155",
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "In unum ex quatuor",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 13,
+            "value": "12th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "186",
+        "other_editions": "",
+        "view_label": "In unum ex quatuor ",
+        "prev": {
+          "id": "jad_work__620",
+          "label": "Historiae "
+        },
+        "next": {
+          "id": "jad_work__622",
+          "label": "Speculum naturale "
+        }
+      }
+    ]
+  },
+  "396": {
+    "id": 396,
+    "name": "",
+    "jad_id": "jad_author__396",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__395",
+      "label": "Zacharias Chrysopolitanus"
+    },
+    "next": {
+      "id": "jad_author__397",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "397": {
+    "id": 397,
+    "name": "",
+    "jad_id": "jad_author__397",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__396",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__398",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "398": {
+    "id": 398,
+    "name": "",
+    "jad_id": "jad_author__398",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__397",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__399",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "399": {
+    "id": 399,
+    "name": "",
+    "jad_id": "jad_author__399",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__398",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__4",
+      "label": "Petrus Cantor"
+    },
+    "related__works": []
+  },
+  "400": {
+    "id": 400,
+    "name": "",
+    "jad_id": "jad_author__400",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__40",
+      "label": "Petrus de Riga"
+    },
+    "next": {
+      "id": "jad_author__41",
+      "label": "Peter Lombard"
     },
     "related__works": []
   }

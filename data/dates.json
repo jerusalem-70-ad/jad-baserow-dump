@@ -188,7 +188,7 @@
     },
     "next": {
       "id": "jad_date__120",
-      "label": ""
+      "label": "16th cen, first half"
     }
   },
   "13": {
@@ -199,7 +199,7 @@
     "jad_id": "jad_date__13",
     "view_label": "12th cen., first half",
     "prev": {
-      "id": "jad_date__125",
+      "id": "jad_date__126",
       "label": ""
     },
     "next": {
@@ -1409,78 +1409,78 @@
   },
   "120": {
     "id": 120,
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "16th cen, first half",
+    "not_before": "1501",
+    "not_after": "1550",
     "jad_id": "jad_date__120",
-    "view_label": "",
+    "view_label": "16th cen, first half",
     "prev": {
       "id": "jad_date__12",
       "label": "early 8th cen."
     },
     "next": {
       "id": "jad_date__121",
-      "label": ""
+      "label": "1450s"
     }
   },
   "121": {
     "id": 121,
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "1450s",
+    "not_before": "1451",
+    "not_after": "1460",
     "jad_id": "jad_date__121",
-    "view_label": "",
+    "view_label": "1450s",
     "prev": {
       "id": "jad_date__120",
-      "label": ""
+      "label": "16th cen, first half"
     },
     "next": {
       "id": "jad_date__122",
-      "label": ""
+      "label": "1430s"
     }
   },
   "122": {
     "id": 122,
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "1430s",
+    "not_before": "1431",
+    "not_after": "1440",
     "jad_id": "jad_date__122",
-    "view_label": "",
+    "view_label": "1430s",
     "prev": {
       "id": "jad_date__121",
-      "label": ""
+      "label": "1450s"
     },
     "next": {
       "id": "jad_date__123",
-      "label": ""
+      "label": "2th cen, first half"
     }
   },
   "123": {
     "id": 123,
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "2th cen, first half",
+    "not_before": "101",
+    "not_after": "150",
     "jad_id": "jad_date__123",
-    "view_label": "",
+    "view_label": "2th cen, first half",
     "prev": {
       "id": "jad_date__122",
-      "label": ""
+      "label": "1430s"
     },
     "next": {
       "id": "jad_date__124",
-      "label": ""
+      "label": "around 100"
     }
   },
   "124": {
     "id": 124,
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "around 100",
+    "not_before": "90",
+    "not_after": "110",
     "jad_id": "jad_date__124",
-    "view_label": "",
+    "view_label": "around 100",
     "prev": {
       "id": "jad_date__123",
-      "label": ""
+      "label": "2th cen, first half"
     },
     "next": {
       "id": "jad_date__125",
@@ -1496,6 +1496,22 @@
     "view_label": "",
     "prev": {
       "id": "jad_date__124",
+      "label": "around 100"
+    },
+    "next": {
+      "id": "jad_date__126",
+      "label": ""
+    }
+  },
+  "126": {
+    "id": 126,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__126",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__125",
       "label": ""
     },
     "next": {
