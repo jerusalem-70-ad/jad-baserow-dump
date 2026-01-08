@@ -179,8 +179,8 @@
     ],
     "view_label": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram",
     "prev": {
-      "id": "jad_occurence__39",
-      "label": "et utraque capte, scilicet babilon et romanum"
+      "id": "jad_occurence__390",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__40",
@@ -1637,7 +1637,7 @@
     "view_label": "negligentes contriti, advenientibus Romanis, et malae conscientiae tinea devorati sunt.",
     "prev": {
       "id": "jad_occurence__345",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "appropinquans enim Iherusalem flevit et dixit Iherusalem Iherusalem que occidis prophetas"
     },
     "next": {
       "id": "jad_occurence__36",
@@ -1734,8 +1734,8 @@
       "label": "Et dabit impios Judaeos scilicet Romanis, pro sepultura"
     },
     "next": {
-      "id": "jad_occurence__38",
-      "label": "non penituistis terra est vestra erit designe, babiloniorum et post romanorum"
+      "id": "jad_occurence__374",
+      "label": "proiecto populo Iudeorum ingressus sit terram quondam repromissionis romanus exercitus, et eiectis Iudeis habitaverint in Iudea"
     }
   },
   "38": {
@@ -1777,12 +1777,12 @@
     ],
     "view_label": "non penituistis terra est vestra erit designe, babiloniorum et post romanorum",
     "prev": {
-      "id": "jad_occurence__37",
-      "label": "duo ursi, per hos tytus et vespasianus qui destruxerunt Iudeos"
+      "id": "jad_occurence__379",
+      "label": "hec sub tito filio vespasiani accidisse populo Iudeorum scribit Iosephus"
     },
     "next": {
-      "id": "jad_occurence__39",
-      "label": "et utraque capte, scilicet babilon et romanum"
+      "id": "jad_occurence__380",
+      "label": "nos verius esse convincimus quando a romanis capti sunt"
     }
   },
   "39": {
@@ -1824,12 +1824,12 @@
     ],
     "view_label": "et utraque capte, scilicet babilon et romanum",
     "prev": {
-      "id": "jad_occurence__38",
-      "label": "non penituistis terra est vestra erit designe, babiloniorum et post romanorum"
+      "id": "jad_occurence__389",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__4",
-      "label": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram"
+      "id": "jad_occurence__390",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "40": {
@@ -13172,17 +13172,27 @@
     },
     "next": {
       "id": "jad_occurence__341",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ad extremam refert captivitatem, quando post titum et vespasianum et ultimam eversionem Iherusalem"
     }
   },
   "341": {
     "id": 341,
     "jad_id": "jad_occurence__341",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1985,
+        "value": "ad extremam refert captivitatem, quando post titum et vespasianum et ultimam eversionem Iherusalem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "5v",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13192,26 +13202,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-12-03",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 5v"
+      }
+    ],
+    "view_label": "ad extremam refert captivitatem, quando post titum et vespasianum et ultimam eversionem Iherusalem",
     "prev": {
       "id": "jad_occurence__340",
       "label": "De subversione Jerusalem"
     },
     "next": {
       "id": "jad_occurence__342",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "non ad babilonie captivitatis referenda tempus, sed ad ultimam romanorum"
     }
   },
   "342": {
     "id": 342,
     "jad_id": "jad_occurence__342",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1986,
+        "value": "non ad babilonie captivitatis referenda tempus, sed ad ultimam romanorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "6r-v",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13221,26 +13249,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-12-03",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 6r-v"
+      }
+    ],
+    "view_label": "non ad babilonie captivitatis referenda tempus, sed ad ultimam romanorum",
     "prev": {
       "id": "jad_occurence__341",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ad extremam refert captivitatem, quando post titum et vespasianum et ultimam eversionem Iherusalem"
     },
     "next": {
       "id": "jad_occurence__343",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ergo ultimam sub vespasiano et tito destructionem templi indicat, que usque ad consummationem mundi perseveratura est"
     }
   },
   "343": {
     "id": 343,
     "jad_id": "jad_occurence__343",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1987,
+        "value": "ergo ultimam sub vespasiano et tito destructionem templi indicat, que usque ad consummationem mundi perseveratura est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "7r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13250,26 +13296,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-12-03",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 7r"
+      }
+    ],
+    "view_label": "ergo ultimam sub vespasiano et tito destructionem templi indicat, que usque ad consummationem mundi perseveratura est",
     "prev": {
       "id": "jad_occurence__342",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "non ad babilonie captivitatis referenda tempus, sed ad ultimam romanorum"
     },
     "next": {
       "id": "jad_occurence__344",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "propterea eos gladius devoravit, idem romanus delevit exercitus"
     }
   },
   "344": {
     "id": 344,
     "jad_id": "jad_occurence__344",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1988,
+        "value": "propterea eos gladius devoravit, idem romanus delevit exercitus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "8v",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13279,26 +13343,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-12-03",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 8v"
+      }
+    ],
+    "view_label": "propterea eos gladius devoravit, idem romanus delevit exercitus",
     "prev": {
       "id": "jad_occurence__343",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ergo ultimam sub vespasiano et tito destructionem templi indicat, que usque ad consummationem mundi perseveratura est"
     },
     "next": {
       "id": "jad_occurence__345",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "appropinquans enim Iherusalem flevit et dixit Iherusalem Iherusalem que occidis prophetas"
     }
   },
   "345": {
     "id": 345,
     "jad_id": "jad_occurence__345",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1989,
+        "value": "appropinquans enim Iherusalem flevit et dixit Iherusalem Iherusalem que occidis prophetas"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "9v",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13308,16 +13390,705 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-12-03",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 9v"
+      }
+    ],
+    "view_label": "appropinquans enim Iherusalem flevit et dixit Iherusalem Iherusalem que occidis prophetas",
     "prev": {
       "id": "jad_occurence__344",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "propterea eos gladius devoravit, idem romanus delevit exercitus"
     },
     "next": {
       "id": "jad_occurence__35",
       "label": "negligentes contriti, advenientibus Romanis, et malae conscientiae tinea devorati sunt."
+    }
+  },
+  "374": {
+    "id": 374,
+    "jad_id": "jad_occurence__374",
+    "occurrence": [
+      {
+        "id": 1990,
+        "value": "proiecto populo Iudeorum ingressus sit terram quondam repromissionis romanus exercitus, et eiectis Iudeis habitaverint in Iudea"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "13r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 13r"
+      }
+    ],
+    "view_label": "proiecto populo Iudeorum ingressus sit terram quondam repromissionis romanus exercitus, et eiectis Iudeis habitaverint in Iudea",
+    "prev": {
+      "id": "jad_occurence__37",
+      "label": "duo ursi, per hos tytus et vespasianus qui destruxerunt Iudeos"
+    },
+    "next": {
+      "id": "jad_occurence__375",
+      "label": "de romanis intelligimus  verior interpretatio est, qui subvertentes templum dei"
+    }
+  },
+  "375": {
+    "id": 375,
+    "jad_id": "jad_occurence__375",
+    "occurrence": [
+      {
+        "id": 1991,
+        "value": "de romanis intelligimus  verior interpretatio est, qui subvertentes templum dei"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "13v",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 13v"
+      }
+    ],
+    "view_label": "de romanis intelligimus  verior interpretatio est, qui subvertentes templum dei",
+    "prev": {
+      "id": "jad_occurence__374",
+      "label": "proiecto populo Iudeorum ingressus sit terram quondam repromissionis romanus exercitus, et eiectis Iudeis habitaverint in Iudea"
+    },
+    "next": {
+      "id": "jad_occurence__376",
+      "label": "hostes venerint, et omnem provinciam babilonius aut romanus mucro vastaverit"
+    }
+  },
+  "376": {
+    "id": 376,
+    "jad_id": "jad_occurence__376",
+    "occurrence": [
+      {
+        "id": 1992,
+        "value": "hostes venerint, et omnem provinciam babilonius aut romanus mucro vastaverit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "14r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 14r"
+      }
+    ],
+    "view_label": "hostes venerint, et omnem provinciam babilonius aut romanus mucro vastaverit",
+    "prev": {
+      "id": "jad_occurence__375",
+      "label": "de romanis intelligimus  verior interpretatio est, qui subvertentes templum dei"
+    },
+    "next": {
+      "id": "jad_occurence__377",
+      "label": "qui ad vespasiani et adrianique hec referunt tempora, corporaliter dicunt impleta que scripta sunt"
+    }
+  },
+  "377": {
+    "id": 377,
+    "jad_id": "jad_occurence__377",
+    "occurrence": [
+      {
+        "id": 2019,
+        "value": "qui ad vespasiani et adrianique hec referunt tempora, corporaliter dicunt impleta que scripta sunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "14v",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 14v"
+      }
+    ],
+    "view_label": "qui ad vespasiani et adrianique hec referunt tempora, corporaliter dicunt impleta que scripta sunt",
+    "prev": {
+      "id": "jad_occurence__376",
+      "label": "hostes venerint, et omnem provinciam babilonius aut romanus mucro vastaverit"
+    },
+    "next": {
+      "id": "jad_occurence__378",
+      "label": "sequitur de captivitate ventura, quam alii ad babilonios, alii referunt ad romanos"
+    }
+  },
+  "378": {
+    "id": 378,
+    "jad_id": "jad_occurence__378",
+    "occurrence": [
+      {
+        "id": 2020,
+        "value": "sequitur de captivitate ventura, quam alii ad babilonios, alii referunt ad romanos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "16r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 16r"
+      }
+    ],
+    "view_label": "sequitur de captivitate ventura, quam alii ad babilonios, alii referunt ad romanos",
+    "prev": {
+      "id": "jad_occurence__377",
+      "label": "qui ad vespasiani et adrianique hec referunt tempora, corporaliter dicunt impleta que scripta sunt"
+    },
+    "next": {
+      "id": "jad_occurence__379",
+      "label": "hec sub tito filio vespasiani accidisse populo Iudeorum scribit Iosephus"
+    }
+  },
+  "379": {
+    "id": 379,
+    "jad_id": "jad_occurence__379",
+    "occurrence": [
+      {
+        "id": 2021,
+        "value": "hec sub tito filio vespasiani accidisse populo Iudeorum scribit Iosephus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "17v",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 17v"
+      }
+    ],
+    "view_label": "hec sub tito filio vespasiani accidisse populo Iudeorum scribit Iosephus",
+    "prev": {
+      "id": "jad_occurence__378",
+      "label": "sequitur de captivitate ventura, quam alii ad babilonios, alii referunt ad romanos"
+    },
+    "next": {
+      "id": "jad_occurence__38",
+      "label": "non penituistis terra est vestra erit designe, babiloniorum et post romanorum"
+    }
+  },
+  "380": {
+    "id": 380,
+    "jad_id": "jad_occurence__380",
+    "occurrence": [
+      {
+        "id": 2022,
+        "value": "nos verius esse convincimus quando a romanis capti sunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "20r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 20r"
+      }
+    ],
+    "view_label": "nos verius esse convincimus quando a romanis capti sunt",
+    "prev": {
+      "id": "jad_occurence__38",
+      "label": "non penituistis terra est vestra erit designe, babiloniorum et post romanorum"
+    },
+    "next": {
+      "id": "jad_occurence__381",
+      "label": "circumdabunt tibi inimici tui munitiones"
+    }
+  },
+  "381": {
+    "id": 381,
+    "jad_id": "jad_occurence__381",
+    "occurrence": [
+      {
+        "id": 2023,
+        "value": "circumdabunt tibi inimici tui munitiones"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "23v",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 23v"
+      }
+    ],
+    "view_label": "circumdabunt tibi inimici tui munitiones",
+    "prev": {
+      "id": "jad_occurence__380",
+      "label": "nos verius esse convincimus quando a romanis capti sunt"
+    },
+    "next": {
+      "id": "jad_occurence__382",
+      "label": "hec iuxta accidisse litteram populo Iudeorum sub vespasiano et tito romanis principibus"
+    }
+  },
+  "382": {
+    "id": 382,
+    "jad_id": "jad_occurence__382",
+    "occurrence": [
+      {
+        "id": 2024,
+        "value": "hec iuxta accidisse litteram populo Iudeorum sub vespasiano et tito romanis principibus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "27r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. 27r"
+      }
+    ],
+    "view_label": "hec iuxta accidisse litteram populo Iudeorum sub vespasiano et tito romanis principibus",
+    "prev": {
+      "id": "jad_occurence__381",
+      "label": "circumdabunt tibi inimici tui munitiones"
+    },
+    "next": {
+      "id": "jad_occurence__383",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "383": {
+    "id": 383,
+    "jad_id": "jad_occurence__383",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__382",
+      "label": "hec iuxta accidisse litteram populo Iudeorum sub vespasiano et tito romanis principibus"
+    },
+    "next": {
+      "id": "jad_occurence__384",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "384": {
+    "id": 384,
+    "jad_id": "jad_occurence__384",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 39,
+        "value": "Erlangen, UB, 63/1"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 39,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/1, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__383",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__385",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "385": {
+    "id": 385,
+    "jad_id": "jad_occurence__385",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__384",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__386",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "386": {
+    "id": 386,
+    "jad_id": "jad_occurence__386",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__385",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__387",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "387": {
+    "id": 387,
+    "jad_id": "jad_occurence__387",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__386",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__388",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "388": {
+    "id": 388,
+    "jad_id": "jad_occurence__388",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__387",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__389",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "389": {
+    "id": 389,
+    "jad_id": "jad_occurence__389",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__388",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__39",
+      "label": "et utraque capte, scilicet babilon et romanum"
+    }
+  },
+  "390": {
+    "id": 390,
+    "jad_id": "jad_occurence__390",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-07",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-07",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__39",
+      "label": "et utraque capte, scilicet babilon et romanum"
+    },
+    "next": {
+      "id": "jad_occurence__4",
+      "label": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram"
     }
   }
 }
