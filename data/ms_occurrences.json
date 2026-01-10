@@ -179,7 +179,7 @@
     ],
     "view_label": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram",
     "prev": {
-      "id": "jad_occurence__390",
+      "id": "jad_occurence__399",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
@@ -1825,11 +1825,11 @@
     "view_label": "et utraque capte, scilicet babilon et romanum",
     "prev": {
       "id": "jad_occurence__389",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ad tempus romane victorie universa referimus, que Iosephus Iudaice scriptor hystorie septem explicat voluminibus, quibus inposuit titulum captivitatis Iudaice"
     },
     "next": {
       "id": "jad_occurence__390",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "neque enim omnis populus Israel gladio traditus est, quorum videmus tanta milia in toto orbe dispersa"
     }
   },
   "40": {
@@ -1875,8 +1875,8 @@
       "label": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram"
     },
     "next": {
-      "id": "jad_occurence__41",
-      "label": "captio (?) romanorum, libanus Ierusalem et templum cadet"
+      "id": "jad_occurence__400",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "41": {
@@ -1918,8 +1918,8 @@
     ],
     "view_label": "captio (?) romanorum, libanus Ierusalem et templum cadet",
     "prev": {
-      "id": "jad_occurence__40",
-      "label": "et post captivitatem romanos iudices habent"
+      "id": "jad_occurence__400",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__42",
@@ -13830,22 +13830,27 @@
     },
     "next": {
       "id": "jad_occurence__383",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "hoc accidisse Iudeis post passionem domini sub vespasiano et adriano nemo dubitat"
     }
   },
   "383": {
     "id": 383,
     "jad_id": "jad_occurence__383",
-    "occurrence": [],
+    "occurrence": [
+      {
+        "id": 2025,
+        "value": "hoc accidisse Iudeis post passionem domini sub vespasiano et adriano nemo dubitat"
+      }
+    ],
     "manuscript": [
       {
         "id": 39,
         "value": "Erlangen, UB, 63/1"
       }
     ],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "position_in_ms": "31r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767861037933~34&pid=17109356&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13855,39 +13860,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-07",
+    "last_modified_on": "2026-01-08",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 39,
           "database_table_3497": 17
         },
-        "value": "Erlangen, UB, 63/1, f. "
+        "value": "Erlangen, UB, 63/1, f. 31r"
       }
     ],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "view_label": "hoc accidisse Iudeis post passionem domini sub vespasiano et adriano nemo dubitat",
     "prev": {
       "id": "jad_occurence__382",
       "label": "hec iuxta accidisse litteram populo Iudeorum sub vespasiano et tito romanis principibus"
     },
     "next": {
       "id": "jad_occurence__384",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Iudeis blasphemantibus maneant in quorum necem romanus paretur exercitus"
     }
   },
   "384": {
     "id": 384,
     "jad_id": "jad_occurence__384",
-    "occurrence": [],
-    "manuscript": [
+    "occurrence": [
       {
-        "id": 39,
-        "value": "Erlangen, UB, 63/1"
+        "id": 2026,
+        "value": "Iudeis blasphemantibus maneant in quorum necem romanus paretur exercitus"
       }
     ],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "manuscript": [
+      {
+        "id": 40,
+        "value": "Erlangen, UB, 63/2"
+      }
+    ],
+    "position_in_ms": "51r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767860930869~478&pid=17110225&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13897,34 +13907,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-07",
+    "last_modified_on": "2026-01-08",
     "ms_locus": [
       {
         "ids": {
-          "database_table_3496": 39,
+          "database_table_3496": 40,
           "database_table_3497": 17
         },
-        "value": "Erlangen, UB, 63/1, f. "
+        "value": "Erlangen, UB, 63/2, f. 51r"
       }
     ],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "view_label": "Iudeis blasphemantibus maneant in quorum necem romanus paretur exercitus",
     "prev": {
       "id": "jad_occurence__383",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "hoc accidisse Iudeis post passionem domini sub vespasiano et adriano nemo dubitat"
     },
     "next": {
       "id": "jad_occurence__385",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "post domini passionem romanis tradiderit deus ut eterne subiacerent servituti"
     }
   },
   "385": {
     "id": 385,
     "jad_id": "jad_occurence__385",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2027,
+        "value": "post domini passionem romanis tradiderit deus ut eterne subiacerent servituti"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 40,
+        "value": "Erlangen, UB, 63/2"
+      }
+    ],
+    "position_in_ms": "54r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767860930869~478&pid=17110225&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13934,26 +13954,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-07",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 40,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/2, f. 54r"
+      }
+    ],
+    "view_label": "post domini passionem romanis tradiderit deus ut eterne subiacerent servituti",
     "prev": {
       "id": "jad_occurence__384",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Iudeis blasphemantibus maneant in quorum necem romanus paretur exercitus"
     },
     "next": {
       "id": "jad_occurence__386",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "dies ultionis dicitur, de populo Iudaico, sentiendum est, inquem post passionem eius statim ira dei pervenit"
     }
   },
   "386": {
     "id": 386,
     "jad_id": "jad_occurence__386",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2028,
+        "value": "dies ultionis dicitur, de populo Iudaico, sentiendum est, inquem post passionem eius statim ira dei pervenit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 40,
+        "value": "Erlangen, UB, 63/2"
+      }
+    ],
+    "position_in_ms": "85r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782421024~778&pid=17110225&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13963,26 +14001,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-07",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 40,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/2, f. 85r"
+      }
+    ],
+    "view_label": "dies ultionis dicitur, de populo Iudaico, sentiendum est, inquem post passionem eius statim ira dei pervenit",
     "prev": {
       "id": "jad_occurence__385",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "post domini passionem romanis tradiderit deus ut eterne subiacerent servituti"
     },
     "next": {
       "id": "jad_occurence__387",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "deduxitque sanguinem eorum in terram, vel demoniorum tropicos, vel certe sanguinem Iudeorum"
     }
   },
   "387": {
     "id": 387,
     "jad_id": "jad_occurence__387",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2029,
+        "value": "deduxitque sanguinem eorum in terram, vel demoniorum tropicos, vel certe sanguinem Iudeorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 40,
+        "value": "Erlangen, UB, 63/2"
+      }
+    ],
+    "position_in_ms": "88v",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782421024~778&pid=17110225&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -13992,26 +14048,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-07",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 40,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/2, f. 88v"
+      }
+    ],
+    "view_label": "deduxitque sanguinem eorum in terram, vel demoniorum tropicos, vel certe sanguinem Iudeorum",
     "prev": {
       "id": "jad_occurence__386",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "dies ultionis dicitur, de populo Iudaico, sentiendum est, inquem post passionem eius statim ira dei pervenit"
     },
     "next": {
       "id": "jad_occurence__388",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "templum significet quod victores calcaverunt romani"
     }
   },
   "388": {
     "id": 388,
     "jad_id": "jad_occurence__388",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2030,
+        "value": "templum significet quod victores calcaverunt romani"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 40,
+        "value": "Erlangen, UB, 63/2"
+      }
+    ],
+    "position_in_ms": "90r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782421024~778&pid=17110225&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -14021,26 +14095,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-07",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 40,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/2, f. 90r"
+      }
+    ],
+    "view_label": "templum significet quod victores calcaverunt romani",
     "prev": {
       "id": "jad_occurence__387",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "deduxitque sanguinem eorum in terram, vel demoniorum tropicos, vel certe sanguinem Iudeorum"
     },
     "next": {
       "id": "jad_occurence__389",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ad tempus romane victorie universa referimus, que Iosephus Iudaice scriptor hystorie septem explicat voluminibus, quibus inposuit titulum captivitatis Iudaice"
     }
   },
   "389": {
     "id": 389,
     "jad_id": "jad_occurence__389",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2031,
+        "value": "ad tempus romane victorie universa referimus, que Iosephus Iudaice scriptor hystorie septem explicat voluminibus, quibus inposuit titulum captivitatis Iudaice"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 40,
+        "value": "Erlangen, UB, 63/2"
+      }
+    ],
+    "position_in_ms": "92r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782421024~778&pid=17110225&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -14050,12 +14142,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-07",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 40,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/2, f. 92r"
+      }
+    ],
+    "view_label": "ad tempus romane victorie universa referimus, que Iosephus Iudaice scriptor hystorie septem explicat voluminibus, quibus inposuit titulum captivitatis Iudaice",
     "prev": {
       "id": "jad_occurence__388",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "templum significet quod victores calcaverunt romani"
     },
     "next": {
       "id": "jad_occurence__39",
@@ -14065,11 +14165,21 @@
   "390": {
     "id": 390,
     "jad_id": "jad_occurence__390",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2032,
+        "value": "neque enim omnis populus Israel gladio traditus est, quorum videmus tanta milia in toto orbe dispersa"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 40,
+        "value": "Erlangen, UB, 63/2"
+      }
+    ],
+    "position_in_ms": "96r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782421024~778&pid=17110225&locale=de&usePid1=true&usePid2=true",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -14079,16 +14189,350 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-07",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 40,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/2, f. 96r"
+      }
+    ],
+    "view_label": "neque enim omnis populus Israel gladio traditus est, quorum videmus tanta milia in toto orbe dispersa",
     "prev": {
       "id": "jad_occurence__39",
       "label": "et utraque capte, scilicet babilon et romanum"
     },
     "next": {
+      "id": "jad_occurence__391",
+      "label": "vox inquit clamoris de civitate, haut dubium quin Iherusalem significet romano exercitu circumdatam"
+    }
+  },
+  "391": {
+    "id": 391,
+    "jad_id": "jad_occurence__391",
+    "occurrence": [
+      {
+        "id": 2033,
+        "value": "vox inquit clamoris de civitate, haut dubium quin Iherusalem significet romano exercitu circumdatam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 40,
+        "value": "Erlangen, UB, 63/2"
+      }
+    ],
+    "position_in_ms": "102v-103r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782421024~778&pid=17110225&locale=de&usePid1=true&usePid2=true",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-08",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 40,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/2, f. 102v-103r"
+      }
+    ],
+    "view_label": "vox inquit clamoris de civitate, haut dubium quin Iherusalem significet romano exercitu circumdatam",
+    "prev": {
+      "id": "jad_occurence__390",
+      "label": "neque enim omnis populus Israel gladio traditus est, quorum videmus tanta milia in toto orbe dispersa"
+    },
+    "next": {
+      "id": "jad_occurence__392",
+      "label": "hoc est omnimodum regionis, ut significarent non solum a romanis sed a cunctis gentibus Ierusalem esse vastatum"
+    }
+  },
+  "392": {
+    "id": 392,
+    "jad_id": "jad_occurence__392",
+    "occurrence": [
+      {
+        "id": 2034,
+        "value": "hoc est omnimodum regionis, ut significarent non solum a romanis sed a cunctis gentibus Ierusalem esse vastatum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 40,
+        "value": "Erlangen, UB, 63/2"
+      }
+    ],
+    "position_in_ms": "104r",
+    "main_ms": true,
+    "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782421024~778&pid=17110225&locale=de&usePid1=true&usePid2=true",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-08",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 40,
+          "database_table_3497": 17
+        },
+        "value": "Erlangen, UB, 63/2, f. 104r"
+      }
+    ],
+    "view_label": "hoc est omnimodum regionis, ut significarent non solum a romanis sed a cunctis gentibus Ierusalem esse vastatum",
+    "prev": {
+      "id": "jad_occurence__391",
+      "label": "vox inquit clamoris de civitate, haut dubium quin Iherusalem significet romano exercitu circumdatam"
+    },
+    "next": {
+      "id": "jad_occurence__393",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "393": {
+    "id": 393,
+    "jad_id": "jad_occurence__393",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-08",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__392",
+      "label": "hoc est omnimodum regionis, ut significarent non solum a romanis sed a cunctis gentibus Ierusalem esse vastatum"
+    },
+    "next": {
+      "id": "jad_occurence__394",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "394": {
+    "id": 394,
+    "jad_id": "jad_occurence__394",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-08",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__393",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__395",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "395": {
+    "id": 395,
+    "jad_id": "jad_occurence__395",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-08",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__394",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__396",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "396": {
+    "id": 396,
+    "jad_id": "jad_occurence__396",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-08",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__395",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__397",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "397": {
+    "id": 397,
+    "jad_id": "jad_occurence__397",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-08",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__396",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__398",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "398": {
+    "id": 398,
+    "jad_id": "jad_occurence__398",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-08",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__397",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__399",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "399": {
+    "id": 399,
+    "jad_id": "jad_occurence__399",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-08",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__398",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
       "id": "jad_occurence__4",
       "label": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram"
+    }
+  },
+  "400": {
+    "id": 400,
+    "jad_id": "jad_occurence__400",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-08",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-08",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__40",
+      "label": "et post captivitatem romanos iudices habent"
+    },
+    "next": {
+      "id": "jad_occurence__41",
+      "label": "captio (?) romanorum, libanus Ierusalem et templum cadet"
     }
   }
 }

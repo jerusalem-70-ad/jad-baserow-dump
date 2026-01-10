@@ -3375,6 +3375,64 @@
           "id": "jad_work__566",
           "label": "De terraemotu "
         }
+      },
+      {
+        "id": 630,
+        "name": "Chronica Albeldensis ",
+        "jad_id": "jad_work__630",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": []
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronica Albeldensis",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 19,
+            "value": "around 900"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "65",
+        "other_editions": "",
+        "view_label": "Chronica Albeldensis ",
+        "prev": {
+          "id": "jad_work__63",
+          "label": "Commentary Jeremiah "
+        },
+        "next": {
+          "id": "jad_work__631",
+          "label": " "
+        }
       }
     ]
   },
@@ -4567,7 +4625,7 @@
         },
         "next": {
           "id": "jad_work__630",
-          "label": " "
+          "label": "Chronica Albeldensis "
         }
       },
       {
