@@ -180,7 +180,7 @@
     "view_label": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram",
     "prev": {
       "id": "jad_occurence__399",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "divino auxilio destituta tollentibus romanis gentem et locum"
     },
     "next": {
       "id": "jad_occurence__40",
@@ -1876,7 +1876,7 @@
     },
     "next": {
       "id": "jad_occurence__400",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "fuit illud completum anno 41 post passionem domini per tytum et vaspasianum"
     }
   },
   "41": {
@@ -1919,7 +1919,7 @@
     "view_label": "captio (?) romanorum, libanus Ierusalem et templum cadet",
     "prev": {
       "id": "jad_occurence__400",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "fuit illud completum anno 41 post passionem domini per tytum et vaspasianum"
     },
     "next": {
       "id": "jad_occurence__42",
@@ -1969,8 +1969,8 @@
       "label": "captio (?) romanorum, libanus Ierusalem et templum cadet"
     },
     "next": {
-      "id": "jad_occurence__43",
-      "label": "Christum sevierunt Iudei, dabit romanis"
+      "id": "jad_occurence__424",
+      "label": "non consummatio, sed enim (?) predictio antichristi vel excidii urbis"
     }
   },
   "43": {
@@ -2012,12 +2012,12 @@
     ],
     "view_label": "Christum sevierunt Iudei, dabit romanis",
     "prev": {
-      "id": "jad_occurence__42",
-      "label": "excecionem Iudeorum, que facta est Ierusalem a romanis"
+      "id": "jad_occurence__429",
+      "label": "partim ad captivitatem Iudaicam que a romanis facta est"
     },
     "next": {
-      "id": "jad_occurence__44",
-      "label": "diem ultionis et damnationis que per romanos"
+      "id": "jad_occurence__430",
+      "label": "secundum historiam dici potest, quod in persecutione antichristi seu romane captivitatis"
     }
   },
   "44": {
@@ -2059,12 +2059,12 @@
     ],
     "view_label": "diem ultionis et damnationis que per romanos",
     "prev": {
-      "id": "jad_occurence__43",
-      "label": "Christum sevierunt Iudei, dabit romanis"
+      "id": "jad_occurence__439",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__45",
-      "label": "populos Iudeos inebravi afflictione per romanos"
+      "id": "jad_occurence__440",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "45": {
@@ -2106,12 +2106,12 @@
     ],
     "view_label": "populos Iudeos inebravi afflictione per romanos",
     "prev": {
-      "id": "jad_occurence__44",
-      "label": "diem ultionis et damnationis que per romanos"
+      "id": "jad_occurence__449",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__46",
-      "label": "captam conservata per romanos helium adam et titum et vespasianum"
+      "id": "jad_occurence__450",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "46": {
@@ -2153,8 +2153,8 @@
     ],
     "view_label": "captam conservata per romanos helium adam et titum et vespasianum",
     "prev": {
-      "id": "jad_occurence__45",
-      "label": "populos Iudeos inebravi afflictione per romanos"
+      "id": "jad_occurence__452",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__47",
@@ -6624,7 +6624,7 @@
       }
     ],
     "position_in_ms": "131v-132r",
-    "main_ms": true,
+    "main_ms": false,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -6635,7 +6635,7 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-18",
+    "last_modified_on": "2026-01-13",
     "ms_locus": [
       {
         "ids": {
@@ -13425,7 +13425,7 @@
         "value": "Erlangen, UB, 63/1"
       }
     ],
-    "position_in_ms": "13r",
+    "position_in_ms": "12v-13r",
     "main_ms": true,
     "facsimile_position": "http://digital.bib-bvb.de/view/bvb_mets/viewer.0.6.5.jsp?folder_id=0&dvs=1767782422356~321&pid=17109356&locale=de&usePid1=true&usePid2=true",
     "created_by": {
@@ -13437,14 +13437,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-07",
+    "last_modified_on": "2026-01-13",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 39,
           "database_table_3497": 17
         },
-        "value": "Erlangen, UB, 63/1, f. 13r"
+        "value": "Erlangen, UB, 63/1, f. 12v-13r"
       }
     ],
     "view_label": "proiecto populo Iudeorum ingressus sit terram quondam repromissionis romanus exercitus, et eiectis Iudeis habitaverint in Iudea",
@@ -14300,17 +14300,27 @@
     },
     "next": {
       "id": "jad_occurence__393",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu"
     }
   },
   "393": {
     "id": 393,
     "jad_id": "jad_occurence__393",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1140,
+        "value": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 170,
+        "value": "BSB, Clm 2637"
+      }
+    ],
+    "position_in_ms": "94r",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00134569?page=188,189",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -14320,26 +14330,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-08",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 170,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 2637, f. 94r"
+      }
+    ],
+    "view_label": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu",
     "prev": {
       "id": "jad_occurence__392",
       "label": "hoc est omnimodum regionis, ut significarent non solum a romanis sed a cunctis gentibus Ierusalem esse vastatum"
     },
     "next": {
       "id": "jad_occurence__394",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ecce relinquetur domus vestra deserta, id est templum et civitas romanis tollentibus gentibus locis"
     }
   },
   "394": {
     "id": 394,
     "jad_id": "jad_occurence__394",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2036,
+        "value": "ecce relinquetur domus vestra deserta, id est templum et civitas romanis tollentibus gentibus locis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 170,
+        "value": "BSB, Clm 2637"
+      }
+    ],
+    "position_in_ms": "16v",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00134569?page=34,35",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -14349,25 +14377,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-08",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 170,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 2637, f. 16v"
+      }
+    ],
+    "view_label": "ecce relinquetur domus vestra deserta, id est templum et civitas romanis tollentibus gentibus locis",
     "prev": {
       "id": "jad_occurence__393",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu"
     },
     "next": {
       "id": "jad_occurence__395",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "autem romani intellegitur chaldei Iudeos captivos in obprobrium redebant"
     }
   },
   "395": {
     "id": 395,
     "jad_id": "jad_occurence__395",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2037,
+        "value": "autem romani intellegitur chaldei Iudeos captivos in obprobrium redebant"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 171,
+        "value": "BSB, Clm 26724"
+      }
+    ],
+    "position_in_ms": "357v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -14378,25 +14424,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-08",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 171,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 26724, f. 357v"
+      }
+    ],
+    "view_label": "autem romani intellegitur chaldei Iudeos captivos in obprobrium redebant",
     "prev": {
       "id": "jad_occurence__394",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ecce relinquetur domus vestra deserta, id est templum et civitas romanis tollentibus gentibus locis"
     },
     "next": {
       "id": "jad_occurence__396",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ponita est arbor dicitur Iudaicus propter (?) radix extremitas que fuit captivata sub tyto et vaspasiano"
     }
   },
   "396": {
     "id": 396,
     "jad_id": "jad_occurence__396",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2038,
+        "value": "ponita est arbor dicitur Iudaicus propter (?) radix extremitas que fuit captivata sub tyto et vaspasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 172,
+        "value": "BSB, Clm 7941"
+      }
+    ],
+    "position_in_ms": "9v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -14407,25 +14471,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-08",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 172,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 7941, f. 9v"
+      }
+    ],
+    "view_label": "ponita est arbor dicitur Iudaicus propter (?) radix extremitas que fuit captivata sub tyto et vaspasiano",
     "prev": {
       "id": "jad_occurence__395",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "autem romani intellegitur chaldei Iudeos captivos in obprobrium redebant"
     },
     "next": {
       "id": "jad_occurence__397",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns Iesus civitatem flevit super illam et intrasset Ierosolimis"
     }
   },
   "397": {
     "id": 397,
     "jad_id": "jad_occurence__397",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2039,
+        "value": "videns Iesus civitatem flevit super illam et intrasset Ierosolimis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 172,
+        "value": "BSB, Clm 7941"
+      }
+    ],
+    "position_in_ms": "65v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -14436,25 +14518,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-08",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 172,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 7941, f. 65v"
+      }
+    ],
+    "view_label": "videns Iesus civitatem flevit super illam et intrasset Ierosolimis",
     "prev": {
       "id": "jad_occurence__396",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ponita est arbor dicitur Iudaicus propter (?) radix extremitas que fuit captivata sub tyto et vaspasiano"
     },
     "next": {
       "id": "jad_occurence__398",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "missis exercitibus, ad litteram, secundum intellegitur romanis sub tito et vespasiano"
     }
   },
   "398": {
     "id": 398,
     "jad_id": "jad_occurence__398",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2040,
+        "value": "missis exercitibus, ad litteram, secundum intellegitur romanis sub tito et vespasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 172,
+        "value": "BSB, Clm 7941"
+      }
+    ],
+    "position_in_ms": "68v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -14465,25 +14565,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-08",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 172,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 7941, f. 68v"
+      }
+    ],
+    "view_label": "missis exercitibus, ad litteram, secundum intellegitur romanis sub tito et vespasiano",
     "prev": {
       "id": "jad_occurence__397",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns Iesus civitatem flevit super illam et intrasset Ierosolimis"
     },
     "next": {
       "id": "jad_occurence__399",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "divino auxilio destituta tollentibus romanis gentem et locum"
     }
   },
   "399": {
     "id": 399,
     "jad_id": "jad_occurence__399",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2041,
+        "value": "divino auxilio destituta tollentibus romanis gentem et locum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 172,
+        "value": "BSB, Clm 7941"
+      }
+    ],
+    "position_in_ms": "75r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -14494,12 +14612,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-08",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 172,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 7941, f. 75r"
+      }
+    ],
+    "view_label": "divino auxilio destituta tollentibus romanis gentem et locum",
     "prev": {
       "id": "jad_occurence__398",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "missis exercitibus, ad litteram, secundum intellegitur romanis sub tito et vespasiano"
     },
     "next": {
       "id": "jad_occurence__4",
@@ -14509,10 +14635,20 @@
   "400": {
     "id": 400,
     "jad_id": "jad_occurence__400",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2042,
+        "value": "fuit illud completum anno 41 post passionem domini per tytum et vaspasianum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 172,
+        "value": "BSB, Clm 7941"
+      }
+    ],
+    "position_in_ms": "75r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -14523,9 +14659,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-08",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 172,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 7941, f. 75r"
+      }
+    ],
+    "view_label": "fuit illud completum anno 41 post passionem domini per tytum et vaspasianum",
     "prev": {
       "id": "jad_occurence__40",
       "label": "et post captivitatem romanos iudices habent"
@@ -14533,6 +14677,1117 @@
     "next": {
       "id": "jad_occurence__41",
       "label": "captio (?) romanorum, libanus Ierusalem et templum cadet"
+    }
+  },
+  "424": {
+    "id": 424,
+    "jad_id": "jad_occurence__424",
+    "occurrence": [
+      {
+        "id": 2071,
+        "value": "non consummatio, sed enim (?) predictio antichristi vel excidii urbis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 172,
+        "value": "BSB, Clm 7941"
+      }
+    ],
+    "position_in_ms": "75v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 172,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 7941, f. 75v"
+      }
+    ],
+    "view_label": "non consummatio, sed enim (?) predictio antichristi vel excidii urbis",
+    "prev": {
+      "id": "jad_occurence__42",
+      "label": "excecionem Iudeorum, que facta est Ierusalem a romanis"
+    },
+    "next": {
+      "id": "jad_occurence__425",
+      "label": "videritis abhominationem desolationis quam vocat simulatam ubiquitatem antichristi vel si legatur de excidio urbis ymaginem cesaris"
+    }
+  },
+  "425": {
+    "id": 425,
+    "jad_id": "jad_occurence__425",
+    "occurrence": [
+      {
+        "id": 2072,
+        "value": "videritis abhominationem desolationis quam vocat simulatam ubiquitatem antichristi vel si legatur de excidio urbis ymaginem cesaris"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 172,
+        "value": "BSB, Clm 7941"
+      }
+    ],
+    "position_in_ms": "76r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 172,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 7941, f. 76r"
+      }
+    ],
+    "view_label": "videritis abhominationem desolationis quam vocat simulatam ubiquitatem antichristi vel si legatur de excidio urbis ymaginem cesaris",
+    "prev": {
+      "id": "jad_occurence__424",
+      "label": "non consummatio, sed enim (?) predictio antichristi vel excidii urbis"
+    },
+    "next": {
+      "id": "jad_occurence__426",
+      "label": "de transgressione legis et violencie sabbati, et de destructione templi"
+    }
+  },
+  "426": {
+    "id": 426,
+    "jad_id": "jad_occurence__426",
+    "occurrence": [
+      {
+        "id": 2073,
+        "value": "de transgressione legis et violencie sabbati, et de destructione templi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 172,
+        "value": "BSB, Clm 7941"
+      }
+    ],
+    "position_in_ms": "89r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 172,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 7941, f. 89r"
+      }
+    ],
+    "view_label": "de transgressione legis et violencie sabbati, et de destructione templi",
+    "prev": {
+      "id": "jad_occurence__425",
+      "label": "videritis abhominationem desolationis quam vocat simulatam ubiquitatem antichristi vel si legatur de excidio urbis ymaginem cesaris"
+    },
+    "next": {
+      "id": "jad_occurence__427",
+      "label": "sic in diebus Iohannis ex multa parte fuit Iudea deserta"
+    }
+  },
+  "427": {
+    "id": 427,
+    "jad_id": "jad_occurence__427",
+    "occurrence": [
+      {
+        "id": 2074,
+        "value": "sic in diebus Iohannis ex multa parte fuit Iudea deserta"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 198,
+        "value": "BSB, Clm 14690"
+      }
+    ],
+    "position_in_ms": "7v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 198,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 14690, f. 7v"
+      }
+    ],
+    "view_label": "sic in diebus Iohannis ex multa parte fuit Iudea deserta",
+    "prev": {
+      "id": "jad_occurence__426",
+      "label": "de transgressione legis et violencie sabbati, et de destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__428",
+      "label": "ecce relinquetur vobis domus vestra deserta, predixit enim quod herede occiso romani venire debuerunt"
+    }
+  },
+  "428": {
+    "id": 428,
+    "jad_id": "jad_occurence__428",
+    "occurrence": [
+      {
+        "id": 2075,
+        "value": "ecce relinquetur vobis domus vestra deserta, predixit enim quod herede occiso romani venire debuerunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 198,
+        "value": "BSB, Clm 14690"
+      }
+    ],
+    "position_in_ms": "50r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 198,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 14690, f. 50r"
+      }
+    ],
+    "view_label": "ecce relinquetur vobis domus vestra deserta, predixit enim quod herede occiso romani venire debuerunt",
+    "prev": {
+      "id": "jad_occurence__427",
+      "label": "sic in diebus Iohannis ex multa parte fuit Iudea deserta"
+    },
+    "next": {
+      "id": "jad_occurence__429",
+      "label": "partim ad captivitatem Iudaicam que a romanis facta est"
+    }
+  },
+  "429": {
+    "id": 429,
+    "jad_id": "jad_occurence__429",
+    "occurrence": [
+      {
+        "id": 2076,
+        "value": "partim ad captivitatem Iudaicam que a romanis facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 198,
+        "value": "BSB, Clm 14690"
+      }
+    ],
+    "position_in_ms": "50r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 198,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 14690, f. 50r"
+      }
+    ],
+    "view_label": "partim ad captivitatem Iudaicam que a romanis facta est",
+    "prev": {
+      "id": "jad_occurence__428",
+      "label": "ecce relinquetur vobis domus vestra deserta, predixit enim quod herede occiso romani venire debuerunt"
+    },
+    "next": {
+      "id": "jad_occurence__43",
+      "label": "Christum sevierunt Iudei, dabit romanis"
+    }
+  },
+  "430": {
+    "id": 430,
+    "jad_id": "jad_occurence__430",
+    "occurrence": [
+      {
+        "id": 2077,
+        "value": "secundum historiam dici potest, quod in persecutione antichristi seu romane captivitatis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 198,
+        "value": "BSB, Clm 14690"
+      }
+    ],
+    "position_in_ms": "50v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 198,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 14690, f. 50v"
+      }
+    ],
+    "view_label": "secundum historiam dici potest, quod in persecutione antichristi seu romane captivitatis",
+    "prev": {
+      "id": "jad_occurence__43",
+      "label": "Christum sevierunt Iudei, dabit romanis"
+    },
+    "next": {
+      "id": "jad_occurence__431",
+      "label": "plenam sume de illis vindictam concludendo illos in manibus romanorum"
+    }
+  },
+  "431": {
+    "id": 431,
+    "jad_id": "jad_occurence__431",
+    "occurrence": [
+      {
+        "id": 2078,
+        "value": "plenam sume de illis vindictam concludendo illos in manibus romanorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 199,
+        "value": "BSB, Clm 14124"
+      }
+    ],
+    "position_in_ms": "29r-v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-14",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 199,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 14124, f. 29r-v"
+      }
+    ],
+    "view_label": "plenam sume de illis vindictam concludendo illos in manibus romanorum",
+    "prev": {
+      "id": "jad_occurence__430",
+      "label": "secundum historiam dici potest, quod in persecutione antichristi seu romane captivitatis"
+    },
+    "next": {
+      "id": "jad_occurence__432",
+      "label": "per hec detineant locum et gentem"
+    }
+  },
+  "432": {
+    "id": 432,
+    "jad_id": "jad_occurence__432",
+    "occurrence": [
+      {
+        "id": 2079,
+        "value": "per hec detineant locum et gentem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 199,
+        "value": "BSB, Clm 14124"
+      }
+    ],
+    "position_in_ms": "56r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 199,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 14124, f. 56r"
+      }
+    ],
+    "view_label": "per hec detineant locum et gentem",
+    "prev": {
+      "id": "jad_occurence__431",
+      "label": "plenam sume de illis vindictam concludendo illos in manibus romanorum"
+    },
+    "next": {
+      "id": "jad_occurence__433",
+      "label": "exterminavit eam aper de silva, sed exiens, id est vespasianus veniens de roma"
+    }
+  },
+  "433": {
+    "id": 433,
+    "jad_id": "jad_occurence__433",
+    "occurrence": [
+      {
+        "id": 2080,
+        "value": "exterminavit eam aper de silva, sed exiens, id est vespasianus veniens de roma"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 199,
+        "value": "BSB, Clm 14124"
+      }
+    ],
+    "position_in_ms": "85r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 199,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 14124, f. 85r"
+      }
+    ],
+    "view_label": "exterminavit eam aper de silva, sed exiens, id est vespasianus veniens de roma",
+    "prev": {
+      "id": "jad_occurence__432",
+      "label": "per hec detineant locum et gentem"
+    },
+    "next": {
+      "id": "jad_occurence__434",
+      "label": "videns Ihesus civitatem flevit super illam"
+    }
+  },
+  "434": {
+    "id": 434,
+    "jad_id": "jad_occurence__434",
+    "occurrence": [
+      {
+        "id": 2081,
+        "value": "videns Ihesus civitatem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 200,
+        "value": "BSB, Clm 14761"
+      }
+    ],
+    "position_in_ms": "89r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 200,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 14761, f. 89r"
+      }
+    ],
+    "view_label": "videns Ihesus civitatem flevit super illam",
+    "prev": {
+      "id": "jad_occurence__433",
+      "label": "exterminavit eam aper de silva, sed exiens, id est vespasianus veniens de roma"
+    },
+    "next": {
+      "id": "jad_occurence__435",
+      "label": "videns Ihesus civitatem flevit super illam"
+    }
+  },
+  "435": {
+    "id": 435,
+    "jad_id": "jad_occurence__435",
+    "occurrence": [
+      {
+        "id": 2082,
+        "value": "videns Ihesus civitatem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 200,
+        "value": "BSB, Clm 14761"
+      }
+    ],
+    "position_in_ms": "89v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 200,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 14761, f. 89v"
+      }
+    ],
+    "view_label": "videns Ihesus civitatem flevit super illam",
+    "prev": {
+      "id": "jad_occurence__434",
+      "label": "videns Ihesus civitatem flevit super illam"
+    },
+    "next": {
+      "id": "jad_occurence__436",
+      "label": "a tempore autem herodis usque ad eversionem Ierusalem"
+    }
+  },
+  "436": {
+    "id": 436,
+    "jad_id": "jad_occurence__436",
+    "occurrence": [
+      {
+        "id": 2084,
+        "value": "a tempore autem herodis usque ad eversionem Ierusalem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 202,
+        "value": "BSB, Clm 5503"
+      }
+    ],
+    "position_in_ms": "288r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-14",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 202,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 5503, f. 288r"
+      }
+    ],
+    "view_label": "a tempore autem herodis usque ad eversionem Ierusalem",
+    "prev": {
+      "id": "jad_occurence__435",
+      "label": "videns Ihesus civitatem flevit super illam"
+    },
+    "next": {
+      "id": "jad_occurence__437",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    }
+  },
+  "437": {
+    "id": 437,
+    "jad_id": "jad_occurence__437",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 201,
+        "value": "BSB, Clm 19108"
+      }
+    ],
+    "position_in_ms": "109r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-14",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 201,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 19108, f. 109r"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+    "prev": {
+      "id": "jad_occurence__436",
+      "label": "a tempore autem herodis usque ad eversionem Ierusalem"
+    },
+    "next": {
+      "id": "jad_occurence__438",
+      "label": "destructa est a Tito et Vespasiano"
+    }
+  },
+  "438": {
+    "id": 438,
+    "jad_id": "jad_occurence__438",
+    "occurrence": [
+      {
+        "id": 436,
+        "value": "destructa est a Tito et Vespasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 204,
+        "value": "BSB, Clm 18227"
+      }
+    ],
+    "position_in_ms": "17r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-14",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 204,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 18227, f. 17r"
+      }
+    ],
+    "view_label": "destructa est a Tito et Vespasiano",
+    "prev": {
+      "id": "jad_occurence__437",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    },
+    "next": {
+      "id": "jad_occurence__439",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "439": {
+    "id": 439,
+    "jad_id": "jad_occurence__439",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__438",
+      "label": "destructa est a Tito et Vespasiano"
+    },
+    "next": {
+      "id": "jad_occurence__44",
+      "label": "diem ultionis et damnationis que per romanos"
+    }
+  },
+  "440": {
+    "id": 440,
+    "jad_id": "jad_occurence__440",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__44",
+      "label": "diem ultionis et damnationis que per romanos"
+    },
+    "next": {
+      "id": "jad_occurence__441",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "441": {
+    "id": 441,
+    "jad_id": "jad_occurence__441",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__440",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__442",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "442": {
+    "id": 442,
+    "jad_id": "jad_occurence__442",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__441",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__443",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "443": {
+    "id": 443,
+    "jad_id": "jad_occurence__443",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__442",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__444",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "444": {
+    "id": 444,
+    "jad_id": "jad_occurence__444",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__443",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__445",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "445": {
+    "id": 445,
+    "jad_id": "jad_occurence__445",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__444",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__446",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "446": {
+    "id": 446,
+    "jad_id": "jad_occurence__446",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-14",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-14",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__445",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__447",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "447": {
+    "id": 447,
+    "jad_id": "jad_occurence__447",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-14",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-14",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__446",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__448",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "448": {
+    "id": 448,
+    "jad_id": "jad_occurence__448",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-14",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-14",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__447",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__449",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "449": {
+    "id": 449,
+    "jad_id": "jad_occurence__449",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-14",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-14",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__448",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__45",
+      "label": "populos Iudeos inebravi afflictione per romanos"
+    }
+  },
+  "450": {
+    "id": 450,
+    "jad_id": "jad_occurence__450",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-14",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-14",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__45",
+      "label": "populos Iudeos inebravi afflictione per romanos"
+    },
+    "next": {
+      "id": "jad_occurence__451",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "451": {
+    "id": 451,
+    "jad_id": "jad_occurence__451",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-14",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-14",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__450",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__452",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "452": {
+    "id": 452,
+    "jad_id": "jad_occurence__452",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-01-14",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-01-14",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__451",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__46",
+      "label": "captam conservata per romanos helium adam et titum et vespasianum"
     }
   }
 }

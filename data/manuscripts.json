@@ -71,8 +71,8 @@
     ],
     "view_label": "BNF, Latin 14426",
     "prev": {
-      "id": "jad_manuscript__19",
-      "label": "BNF, Latin 3567"
+      "id": "jad_manuscript__199",
+      "label": "BSB, Clm 14124"
     },
     "next": {
       "id": "jad_manuscript__20",
@@ -1080,7 +1080,7 @@
     },
     "next": {
       "id": "jad_manuscript__170",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BSB, Clm 2637"
     }
   },
   "18": {
@@ -1131,7 +1131,7 @@
     "view_label": "BNF, Latin 3829",
     "prev": {
       "id": "jad_manuscript__172",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BSB, Clm 7941"
     },
     "next": {
       "id": "jad_manuscript__19",
@@ -1189,8 +1189,8 @@
       "label": "BNF, Latin 3829"
     },
     "next": {
-      "id": "jad_manuscript__2",
-      "label": "BNF, Latin 14426"
+      "id": "jad_manuscript__198",
+      "label": "BSB, Clm 14690"
     }
   },
   "20": {
@@ -1274,8 +1274,8 @@
       "label": "BNF, Latin 14426"
     },
     "next": {
-      "id": "jad_manuscript__21",
-      "label": "BNF, Latin 3281"
+      "id": "jad_manuscript__200",
+      "label": "BSB, Clm 14761"
     }
   },
   "21": {
@@ -1350,12 +1350,12 @@
     ],
     "view_label": "BNF, Latin 3281",
     "prev": {
-      "id": "jad_manuscript__20",
-      "label": "BNF, Latin 3570"
+      "id": "jad_manuscript__209",
+      "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
-      "id": "jad_manuscript__22",
-      "label": "Troyes, MS 653"
+      "id": "jad_manuscript__210",
+      "label": "NO MATCH FOR $..name[0].value"
     }
   },
   "22": {
@@ -1405,8 +1405,8 @@
     ],
     "view_label": "Troyes, MS 653",
     "prev": {
-      "id": "jad_manuscript__21",
-      "label": "BNF, Latin 3281"
+      "id": "jad_manuscript__210",
+      "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
       "id": "jad_manuscript__23",
@@ -9690,52 +9690,558 @@
   },
   "170": {
     "id": 170,
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 2637"
+      }
+    ],
     "jad_id": "jad_manuscript__170",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "jad_id": "jad_library__12",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "full_name": "Bayrische Staatsbibliothek",
+        "place": [
+          {
+            "id": 3,
+            "name": "Munich",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "jad_id": "jad_places__3",
+            "lat": "48.13743",
+            "long": "11.57549"
+          }
+        ]
+      }
+    ],
+    "idno": "Clm 2637",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037596889707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%202637&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00134569?page=,1",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ],
+    "view_label": "BSB, Clm 2637",
     "prev": {
       "id": "jad_manuscript__17",
       "label": "Cambr. St.John's Coll., MS 127"
     },
     "next": {
       "id": "jad_manuscript__171",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BSB, Clm 26724"
     }
   },
   "171": {
     "id": 171,
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 26724"
+      }
+    ],
     "jad_id": "jad_manuscript__171",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "jad_id": "jad_library__12",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "full_name": "Bayrische Staatsbibliothek",
+        "place": [
+          {
+            "id": 3,
+            "name": "Munich",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "jad_id": "jad_places__3",
+            "lat": "48.13743",
+            "long": "11.57549"
+          }
+        ]
+      }
+    ],
+    "idno": "Clm 26724",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991038066309707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%2026724&offset=0",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 75,
+        "value": "late 14th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ],
+    "view_label": "BSB, Clm 26724",
     "prev": {
       "id": "jad_manuscript__170",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BSB, Clm 2637"
     },
     "next": {
       "id": "jad_manuscript__172",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BSB, Clm 7941"
     }
   },
   "172": {
     "id": 172,
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 7941"
+      }
+    ],
     "jad_id": "jad_manuscript__172",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "jad_id": "jad_library__12",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "full_name": "Bayrische Staatsbibliothek",
+        "place": [
+          {
+            "id": 3,
+            "name": "Munich",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "jad_id": "jad_places__3",
+            "lat": "48.13743",
+            "long": "11.57549"
+          }
+        ]
+      }
+    ],
+    "idno": "Clm 7941",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037733499707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%207941&offset=0",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 47,
+        "value": "13th cen., second half"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ],
+    "view_label": "BSB, Clm 7941",
+    "prev": {
+      "id": "jad_manuscript__171",
+      "label": "BSB, Clm 26724"
+    },
+    "next": {
+      "id": "jad_manuscript__18",
+      "label": "BNF, Latin 3829"
+    }
+  },
+  "198": {
+    "id": 198,
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 14690"
+      }
+    ],
+    "jad_id": "jad_manuscript__198",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "jad_id": "jad_library__12",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "full_name": "Bayrische Staatsbibliothek",
+        "place": [
+          {
+            "id": 3,
+            "name": "Munich",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "jad_id": "jad_places__3",
+            "lat": "48.13743",
+            "long": "11.57549"
+          }
+        ]
+      }
+    ],
+    "idno": "Clm 14690",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991135228079707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%2014690&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00109440?page=,1",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 18,
+        "value": "around 1000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ],
+    "view_label": "BSB, Clm 14690",
+    "prev": {
+      "id": "jad_manuscript__19",
+      "label": "BNF, Latin 3567"
+    },
+    "next": {
+      "id": "jad_manuscript__199",
+      "label": "BSB, Clm 14124"
+    }
+  },
+  "199": {
+    "id": 199,
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 14124"
+      }
+    ],
+    "jad_id": "jad_manuscript__199",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "jad_id": "jad_library__12",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "full_name": "Bayrische Staatsbibliothek",
+        "place": [
+          {
+            "id": 3,
+            "name": "Munich",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "jad_id": "jad_places__3",
+            "lat": "48.13743",
+            "long": "11.57549"
+          }
+        ]
+      }
+    ],
+    "idno": "Clm 14124",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991008616599707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%2014124&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00034636?page=,1",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 10,
+        "value": "around 1100"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ],
+    "view_label": "BSB, Clm 14124",
+    "prev": {
+      "id": "jad_manuscript__198",
+      "label": "BSB, Clm 14690"
+    },
+    "next": {
+      "id": "jad_manuscript__2",
+      "label": "BNF, Latin 14426"
+    }
+  },
+  "200": {
+    "id": 200,
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 14761"
+      }
+    ],
+    "jad_id": "jad_manuscript__200",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "jad_id": "jad_library__12",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "full_name": "Bayrische Staatsbibliothek",
+        "place": [
+          {
+            "id": 3,
+            "name": "Munich",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "jad_id": "jad_places__3",
+            "lat": "48.13743",
+            "long": "11.57549"
+          }
+        ]
+      }
+    ],
+    "idno": "Clm 14761",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037840949707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%2014761&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00104011?page=,1",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 17,
+        "value": "around 1300"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ],
+    "view_label": "BSB, Clm 14761",
+    "prev": {
+      "id": "jad_manuscript__20",
+      "label": "BNF, Latin 3570"
+    },
+    "next": {
+      "id": "jad_manuscript__201",
+      "label": "BSB, Clm 19108"
+    }
+  },
+  "201": {
+    "id": 201,
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 19108"
+      }
+    ],
+    "jad_id": "jad_manuscript__201",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "jad_id": "jad_library__12",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "full_name": "Bayrische Staatsbibliothek",
+        "place": [
+          {
+            "id": 3,
+            "name": "Munich",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "jad_id": "jad_places__3",
+            "lat": "48.13743",
+            "long": "11.57549"
+          }
+        ]
+      }
+    ],
+    "idno": "Clm 19108",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037935679707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%2019108&offset=0",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 2,
+        "value": "12th cen."
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ],
+    "view_label": "BSB, Clm 19108",
+    "prev": {
+      "id": "jad_manuscript__200",
+      "label": "BSB, Clm 14761"
+    },
+    "next": {
+      "id": "jad_manuscript__202",
+      "label": "BSB, Clm 5503"
+    }
+  },
+  "202": {
+    "id": 202,
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 5503"
+      }
+    ],
+    "jad_id": "jad_manuscript__202",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "jad_id": "jad_library__12",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "full_name": "Bayrische Staatsbibliothek",
+        "place": [
+          {
+            "id": 3,
+            "name": "Munich",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "jad_id": "jad_places__3",
+            "lat": "48.13743",
+            "long": "11.57549"
+          }
+        ]
+      }
+    ],
+    "idno": "Clm 5503",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037670869707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%205503&offset=0",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 20,
+        "value": "early 13th cen."
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ],
+    "view_label": "BSB, Clm 5503",
+    "prev": {
+      "id": "jad_manuscript__201",
+      "label": "BSB, Clm 19108"
+    },
+    "next": {
+      "id": "jad_manuscript__203",
+      "label": "Troyes, MS 676"
+    }
+  },
+  "203": {
+    "id": 203,
+    "name": [
+      {
+        "id": 9,
+        "value": "Troyes, MS 676"
+      }
+    ],
+    "jad_id": "jad_manuscript__203",
+    "library": [
+      {
+        "id": 9,
+        "value": "Troyes",
+        "jad_id": "jad_library__9",
+        "gnd_url": "https://d-nb.info/gnd/1026092-4",
+        "full_name": "Bibliothèque municipale (Troyes)",
+        "place": [
+          {
+            "id": 9,
+            "name": "Troyes",
+            "geonames_url": "https://www.geonames.org/2971549/troyes.html",
+            "jad_id": "jad_places__9",
+            "lat": "48.30073",
+            "long": "4.08524"
+          }
+        ]
+      }
+    ],
+    "idno": "MS 676",
+    "catalog_url": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
+    "digi_url": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 1,
+        "value": "9th cen."
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 9,
+        "value": "Bibliothèque municipale (Troyes)"
+      }
+    ],
+    "view_label": "Troyes, MS 676",
+    "prev": {
+      "id": "jad_manuscript__202",
+      "label": "BSB, Clm 5503"
+    },
+    "next": {
+      "id": "jad_manuscript__204",
+      "label": "BSB, Clm 18227"
+    }
+  },
+  "204": {
+    "id": 204,
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 18227"
+      }
+    ],
+    "jad_id": "jad_manuscript__204",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "jad_id": "jad_library__12",
+        "gnd_url": "https://d-nb.info/gnd/2031351-2",
+        "full_name": "Bayrische Staatsbibliothek",
+        "place": [
+          {
+            "id": 3,
+            "name": "Munich",
+            "geonames_url": "https://www.geonames.org/2867714/munich.html",
+            "jad_id": "jad_places__3",
+            "lat": "48.13743",
+            "long": "11.57549"
+          }
+        ]
+      }
+    ],
+    "idno": "Clm 18227",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037906589707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Clm%2018227&offset=0",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 68,
+        "value": "11th cen."
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ],
+    "view_label": "BSB, Clm 18227",
+    "prev": {
+      "id": "jad_manuscript__203",
+      "label": "Troyes, MS 676"
+    },
+    "next": {
+      "id": "jad_manuscript__205",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "205": {
+    "id": 205,
+    "name": [],
+    "jad_id": "jad_manuscript__205",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -9746,12 +10252,122 @@
     "library_full": [],
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
-      "id": "jad_manuscript__171",
+      "id": "jad_manuscript__204",
+      "label": "BSB, Clm 18227"
+    },
+    "next": {
+      "id": "jad_manuscript__206",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "206": {
+    "id": 206,
+    "name": [],
+    "jad_id": "jad_manuscript__206",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__205",
       "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
-      "id": "jad_manuscript__18",
-      "label": "BNF, Latin 3829"
+      "id": "jad_manuscript__207",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "207": {
+    "id": 207,
+    "name": [],
+    "jad_id": "jad_manuscript__207",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__206",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__208",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "208": {
+    "id": 208,
+    "name": [],
+    "jad_id": "jad_manuscript__208",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__207",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__209",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "209": {
+    "id": 209,
+    "name": [],
+    "jad_id": "jad_manuscript__209",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__208",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__21",
+      "label": "BNF, Latin 3281"
+    }
+  },
+  "210": {
+    "id": 210,
+    "name": [],
+    "jad_id": "jad_manuscript__210",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__21",
+      "label": "BNF, Latin 3281"
+    },
+    "next": {
+      "id": "jad_manuscript__22",
+      "label": "Troyes, MS 653"
     }
   }
 }

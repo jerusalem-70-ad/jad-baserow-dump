@@ -3486,7 +3486,130 @@
         },
         "next": {
           "id": "jad_work__631",
-          "label": " "
+          "label": "Commentary Pentateuch "
+        }
+      },
+      {
+        "id": 633,
+        "name": "Commentary Matthew ",
+        "jad_id": "jad_work__633",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 198,
+            "value": "BSB, Clm 14690"
+          }
+        ],
+        "title": "Commentary Matthew",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 18,
+            "value": "around 1000"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Matthew ",
+        "prev": {
+          "id": "jad_work__632",
+          "label": "Postilla super evangelium Matthaei "
+        },
+        "next": {
+          "id": "jad_work__634",
+          "label": "Sermones "
+        }
+      },
+      {
+        "id": 639,
+        "name": "Haec est praefatio de Iesu Christo domino inter Vespasianum et Titum quomodo vindicaverunt Christum ",
+        "jad_id": "jad_work__639",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Haec est praefatio de Iesu Christo domino inter Vespasianum et Titum quomodo vindicaverunt Christum",
+        "genre": {
+          "id": 18451,
+          "value": "Poetry",
+          "color": "orange"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 1,
+            "value": "9th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Poetae 5",
+        "other_editions": "",
+        "view_label": "Haec est praefatio de Iesu Christo domino inter Vespasianum et Titum quomodo vindicaverunt Christum ",
+        "prev": {
+          "id": "jad_work__638",
+          "label": "Speculum morale "
+        },
+        "next": {
+          "id": "jad_work__64",
+          "label": "Commentary Judices "
         }
       }
     ]
@@ -4420,8 +4543,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 15,
-            "value": "9th cen., first half"
+            "id": 7,
+            "value": "mid 9th cen."
           }
         ],
         "link_digital_editions": "",
@@ -4612,8 +4735,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 15,
-            "value": "9th cen., first half"
+            "id": 7,
+            "value": "mid 9th cen."
           }
         ],
         "link_digital_editions": "",
@@ -4681,8 +4804,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 15,
-            "value": "9th cen., first half"
+            "id": 7,
+            "value": "mid 9th cen."
           }
         ],
         "link_digital_editions": "",
@@ -4756,12 +4879,12 @@
         "other_editions": null,
         "view_label": "Commentary Judices ",
         "prev": {
-          "id": "jad_work__632",
-          "label": " "
+          "id": "jad_work__639",
+          "label": "Haec est praefatio de Iesu Christo domino inter Vespasianum et Titum quomodo vindicaverunt Christum "
         },
         "next": {
-          "id": "jad_work__65",
-          "label": "Commentary Deuteronomium "
+          "id": "jad_work__640",
+          "label": " "
         }
       },
       {
@@ -4820,8 +4943,8 @@
         "other_editions": null,
         "view_label": "Commentary Deuteronomium ",
         "prev": {
-          "id": "jad_work__64",
-          "label": "Commentary Judices "
+          "id": "jad_work__645",
+          "label": " "
         },
         "next": {
           "id": "jad_work__66",
@@ -5550,6 +5673,70 @@
         "next": {
           "id": "jad_work__351",
           "label": "Sententiae "
+        }
+      },
+      {
+        "id": 635,
+        "name": "Commentary Ester ",
+        "jad_id": "jad_work__635",
+        "author": [
+          {
+            "id": 5,
+            "name": "Hrabanus Maurus",
+            "jad_id": "jad_author__5",
+            "gnd_url": "https://d-nb.info/gnd/118553909",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": "Rabbanus, Abbas | Mauro, Rabano | Rabano Mauro, Erzbischof | Rhabanus, Moguntinus | Rabano Mauro, Archbishop | Pseudo-Hrabanus, Maurus | Hrabanus Maurus, Archbishop | Magnentius Hrabanus Maurus, Erzbischof | Hraban Maur, Erzbischof | Maurus, Hrabanus, Archbishop | Rabano, Mauro | Magnentius Hrabanus Maurus, Archevêque | Hrabanus, Magnentius Maurus | Hrabanus Maurus, Archevêque | Raban, Maur | Maurus, Rabanus | Rabanus Maurus | Hraban Maur, Archbishop | Rabani, Mauri | Rabanus | Rabanus, Maurus | Rhabanus Maurus, Archevêque | Maurus, Hrabanus | Rhabanus, Archiepiscopus | Rhabanus Maurus, Erzbischof | Rabbanus, Maurus | Rabanus Magnentius, Erzbischof | Raban | Rhabanus, Maurus | Rabanus, Mogontiacensis episcopus | Hraban | Hrabanus Maurus, Erzbischof | Hrabanus Magnentius Maurus, Archbishop, Germany | Magnentius Hrabanus Maurus, Archbishop | Magnentius Hrabanus, Maurus | Rhabanus Maurus, Archbishop | Hrabanus Magnentius Maurus, Erzbischof | Hraban Maur, Archevêque | Hrabanus Magnentius, Maurus | Raban Maur, Archevêque | Rabanus, Magnentius | Hrabanus Maurus, Magnentius | Rabanus Maurus, Erzbischof von Mainz | Rabanus Maurus, Archbishop | Maurus, Hrabanus, Archevêque | Hraban, von Mainz | Hrabanus Magnentius Maurus, Archevêque | Rabanus Maurus, Erzbischof | Hrabanus, Magnentius | Rabanus Magnentius, Archevêque | Maurus, Hrabanus, Erzbischof | Maur, Raban | Rabanus Maurus, Archevêque | Raban Maur, Erzbischof | Raban Maur, Archbishop | Rabanus Magnentius, Archbishop | Rabano Mauro, Archevêque",
+            "date_of_birth": "0780",
+            "date_of_death": "0856",
+            "place": [
+              {
+                "id": 34,
+                "value": "Mainz"
+              }
+            ],
+            "date_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Ester",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 7,
+            "value": "mid 9th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Ester ",
+        "prev": {
+          "id": "jad_work__634",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__636",
+          "label": "Historia Scholastica, Appendix on Acts of Apostels "
         }
       }
     ]
@@ -7143,6 +7330,100 @@
         "next": {
           "id": "jad_work__420",
           "label": "Sermones dominicales "
+        }
+      },
+      {
+        "id": 636,
+        "name": "Historia Scholastica, Appendix on Acts of Apostels ",
+        "jad_id": "jad_work__636",
+        "author": [
+          {
+            "id": 9,
+            "name": "Petrus Comestor",
+            "jad_id": "jad_author__9",
+            "gnd_url": "https://d-nb.info/gnd/118828851",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Petrus, Manducator | Pierre, Comestor | Petrus, Prespiter | Comestore, Pietro | Peter, Comestor | Comestor, Petr | Pseudo-Petrus, Comestor | Petrus, Edax | Manducator, Petrus | Comestor, Pierre | Petrus, Comestor-Manducator | Petr, Comestor | Petrus, Tricassinus | Pietro, Comestore | Pierre, de Troyes | Petrus, Trecensis | Pierre, le Mangeur | Comestor, Petrus",
+            "date_of_birth": "1100",
+            "date_of_death": "1179",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 202,
+            "value": "BSB, Clm 5503"
+          }
+        ],
+        "title": "Historia Scholastica, Appendix on Acts of Apostels",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": [],
+                "gnd_url": "",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "https://d-nb.info/gnd/2025059-9",
+            "wikidata": "",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Historia Scholastica, Appendix on Acts of Apostels ",
+        "prev": {
+          "id": "jad_work__635",
+          "label": "Commentary Ester "
+        },
+        "next": {
+          "id": "jad_work__637",
+          "label": "Commentary Matthew "
         }
       }
     ]
@@ -21215,6 +21496,75 @@
           "id": "jad_work__191",
           "label": "Expositio in Apocalypsin "
         }
+      },
+      {
+        "id": 637,
+        "name": "Commentary Matthew ",
+        "jad_id": "jad_work__637",
+        "author": [
+          {
+            "id": 69,
+            "name": "Claudius of Turin",
+            "jad_id": "jad_author__69",
+            "gnd_url": "https://d-nb.info/gnd/100939112",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Claudius, Episcopus | Claude, de Turin | Claudius, Episcopus ab Ecclesia Damnatus | Claudius, von Turin | Claudius, Episcopus Tauriensis | Claudius, Altissiodorensis | Claudius, Clemens",
+            "date_of_birth": null,
+            "date_of_death": "0827",
+            "place": [
+              {
+                "id": 47,
+                "value": "Turin"
+              }
+            ],
+            "date_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 203,
+            "value": "Troyes, MS 676"
+          }
+        ],
+        "title": "Commentary Matthew",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 6,
+            "value": "early 9th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Matthew ",
+        "prev": {
+          "id": "jad_work__636",
+          "label": "Historia Scholastica, Appendix on Acts of Apostels "
+        },
+        "next": {
+          "id": "jad_work__638",
+          "label": "Speculum morale "
+        }
       }
     ]
   },
@@ -24620,6 +24970,70 @@
         "next": {
           "id": "jad_work__623",
           "label": "Summa theologiae "
+        }
+      },
+      {
+        "id": 638,
+        "name": "Speculum morale ",
+        "jad_id": "jad_work__638",
+        "author": [
+          {
+            "id": 96,
+            "name": "Vincent of Beauvais",
+            "jad_id": "jad_author__96",
+            "gnd_url": "https://d-nb.info/gnd/118627163",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Bellovacense, Vincenzo | Vincentius, de Burgundia | Vincent | Vincentius | Vincentius, aus Beauvais | Vincent, von Beauvais | Pseudo-Vincentius, Bellovacensis | Vincentius, Belvacensis | Pseudo-Vincent de Beauvais | Vicente, de Beauvais | Bellovacensis, Vincentius | Vincentius, de Beauvais | Vincenzo, Bellovacense | Vincenz, von Beauvais | Beauvais, Vicente de | Vincentius, Bellovacensis | Vincentius, Burgundus | Vincenz | Vincent, de Beauvais | Vincent, of Beauvais | Beauvais, Vincent de | Pseudo-Vinzenz von Beauvais",
+            "date_of_birth": "1190",
+            "date_of_death": "1264",
+            "place": [
+              {
+                "id": 79,
+                "value": "Beauvais"
+              }
+            ],
+            "date_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Speculum morale",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "ed. Balthazar Bellère (Douai 1624)",
+        "other_editions": "",
+        "view_label": "Speculum morale ",
+        "prev": {
+          "id": "jad_work__637",
+          "label": "Commentary Matthew "
+        },
+        "next": {
+          "id": "jad_work__639",
+          "label": "Haec est praefatio de Iesu Christo domino inter Vespasianum et Titum quomodo vindicaverunt Christum "
         }
       }
     ]
@@ -35154,6 +35568,10 @@
           {
             "id": 88,
             "value": "Bibl. Casanatense, MS 178"
+          },
+          {
+            "id": 170,
+            "value": "BSB, Clm 2637"
           }
         ],
         "title": "Sermones dominicales",
@@ -38247,6 +38665,75 @@
         "next": {
           "id": "jad_work__459",
           "label": "Expositio super Psalmos "
+        }
+      },
+      {
+        "id": 631,
+        "name": "Commentary Pentateuch ",
+        "jad_id": "jad_work__631",
+        "author": [
+          {
+            "id": 211,
+            "name": "Nicolaus de Gorran",
+            "jad_id": "jad_author__211",
+            "gnd_url": "https://d-nb.info/gnd/100954812",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Nicolas, de Gorran | Nicolaus, de Gorgant | Nicolaus, de Gorham | Nicolaus, Gorranus | Gorra, Nicolaus de | Gorranus, Nicolaus | Nicolaus aus Gorran | Nicolas, de Tournai | Nicolaus, Cenomanensis | Nicolaus, de Gorrant | Nicolaus, de Gorram | Nicolaus, Gorraeus | Gorrain, Nicolaus de | Nicolaus, Gorraus | Nicolaus, Tornacensis | Nicolaus, Gorhamus | Nicolaus, Gallus | Nicolaus, Gorrenc | Nicolaus, Sanderus | Nicolaus, de Gorran | Nicolaus, du Mans | Nicolas, de Mans | Nikolaus, von Gorran | Nicolaus, de Gorron | Nicolaus, de Gorena | Nicolaus, de Marinis",
+            "date_of_birth": "1210",
+            "date_of_death": "1295",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 171,
+            "value": "BSB, Clm 26724"
+          }
+        ],
+        "title": "Commentary Pentateuch",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Pentateuch ",
+        "prev": {
+          "id": "jad_work__630",
+          "label": "Chronica Albeldensis "
+        },
+        "next": {
+          "id": "jad_work__632",
+          "label": "Postilla super evangelium Matthaei "
         }
       }
     ]
@@ -45484,7 +45971,7 @@
     },
     "next": {
       "id": "jad_author__396",
-      "label": ""
+      "label": "Innocent V, pope"
     },
     "related__works": [
       {
@@ -45550,49 +46037,179 @@
   },
   "396": {
     "id": 396,
-    "name": "",
+    "name": "Innocent V, pope",
     "jad_id": "jad_author__396",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100948111",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
+    "alt_name": "Pierre, de Champagny | Innocentius V, Papa | Peter, of Tartentasia | Innocentius V., Papa | Pierre, de Lyon | Tarantasia, Petrus de | Tarentaise, Pierre de, Papst | Innocentius V, Papst | Innocent V, Papst | Pierre, de Tarentaise | Pietro, di Tarantasia | Innocenzo V., Papa | Petrus, de Tarentasia | Innozenz V, Papst | Pierre, de Les-Cours | Innocenzo V, Papst | Petrus, von Tarentaise | Pietro, della Savoia | Innocent V., Pape | Petrus, de Tarantasia",
+    "date_of_birth": "1225",
+    "date_of_death": "1276-06-22",
     "place": [],
     "date_certainty": true,
-    "view_label": "",
+    "view_label": "Innocent V, pope",
     "prev": {
       "id": "jad_author__395",
       "label": "Zacharias Chrysopolitanus"
     },
     "next": {
       "id": "jad_author__397",
-      "label": ""
+      "label": "Petrus, de Sancto Benedicto"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 632,
+        "name": "Postilla super evangelium Matthaei ",
+        "jad_id": "jad_work__632",
+        "author": [
+          {
+            "id": 396,
+            "name": "Innocent V, pope",
+            "jad_id": "jad_author__396",
+            "gnd_url": "https://d-nb.info/gnd/100948111",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Pierre, de Champagny | Innocentius V, Papa | Peter, of Tartentasia | Innocentius V., Papa | Pierre, de Lyon | Tarantasia, Petrus de | Tarentaise, Pierre de, Papst | Innocentius V, Papst | Innocent V, Papst | Pierre, de Tarentaise | Pietro, di Tarantasia | Innocenzo V., Papa | Petrus, de Tarentasia | Innozenz V, Papst | Pierre, de Les-Cours | Innocenzo V, Papst | Petrus, von Tarentaise | Pietro, della Savoia | Innocent V., Pape | Petrus, de Tarantasia",
+            "date_of_birth": "1225",
+            "date_of_death": "1276-06-22",
+            "place": [],
+            "date_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 172,
+            "value": "BSB, Clm 7941"
+          }
+        ],
+        "title": "Postilla super evangelium Matthaei",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Postilla super evangelium Matthaei ",
+        "prev": {
+          "id": "jad_work__631",
+          "label": "Commentary Pentateuch "
+        },
+        "next": {
+          "id": "jad_work__633",
+          "label": "Commentary Matthew "
+        }
+      }
+    ]
   },
   "397": {
     "id": 397,
-    "name": "",
+    "name": "Petrus, de Sancto Benedicto",
     "jad_id": "jad_author__397",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102514933",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Pierre, de Saint-Benoît | Sancto Benedicto, Petrus de",
     "date_of_birth": "",
     "date_of_death": "",
     "place": [],
     "date_certainty": true,
-    "view_label": "",
+    "view_label": "Petrus, de Sancto Benedicto",
     "prev": {
       "id": "jad_author__396",
-      "label": ""
+      "label": "Innocent V, pope"
     },
     "next": {
       "id": "jad_author__398",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 634,
+        "name": "Sermones ",
+        "jad_id": "jad_work__634",
+        "author": [
+          {
+            "id": 397,
+            "name": "Petrus, de Sancto Benedicto",
+            "jad_id": "jad_author__397",
+            "gnd_url": "https://d-nb.info/gnd/102514933",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Pierre, de Saint-Benoît | Sancto Benedicto, Petrus de",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": [],
+            "date_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 200,
+            "value": "BSB, Clm 14761"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__633",
+          "label": "Commentary Matthew "
+        },
+        "next": {
+          "id": "jad_work__635",
+          "label": "Commentary Ester "
+        }
+      }
+    ]
   },
   "398": {
     "id": 398,
@@ -45609,7 +46226,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__397",
-      "label": ""
+      "label": "Petrus, de Sancto Benedicto"
     },
     "next": {
       "id": "jad_author__399",

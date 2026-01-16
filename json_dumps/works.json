@@ -526,9 +526,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 15,
-        "value": "9th cen., first half",
-        "order": "15.00000000000000000000"
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -3030,9 +3030,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 15,
-        "value": "9th cen., first half",
-        "order": "15.00000000000000000000"
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -3122,9 +3122,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 15,
-        "value": "9th cen., first half",
-        "order": "15.00000000000000000000"
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -17703,6 +17703,11 @@
         "id": 88,
         "value": "Bibl. Casanatense, MS 178",
         "order": "81.00000000000000000000"
+      },
+      {
+        "id": 170,
+        "value": "BSB, Clm 2637",
+        "order": "163.00000000000000000000"
       }
     ],
     "title": "Sermones dominicales",
@@ -26020,8 +26025,437 @@
   "631": {
     "id": 631,
     "order": "561.00000000000000000000",
-    "name": " ",
+    "name": "Commentary Pentateuch ",
     "jad_id": "jad_work__631",
+    "author": [
+      {
+        "id": 211,
+        "value": "Nicolaus de Gorran",
+        "order": "196.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 171,
+        "value": "BSB, Clm 26724",
+        "order": "164.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Pentateuch",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "632": {
+    "id": 632,
+    "order": "562.00000000000000000000",
+    "name": "Postilla super evangelium Matthaei ",
+    "jad_id": "jad_work__632",
+    "author": [
+      {
+        "id": 396,
+        "value": "Innocent V, pope",
+        "order": "273.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 172,
+        "value": "BSB, Clm 7941",
+        "order": "165.00000000000000000000"
+      }
+    ],
+    "title": "Postilla super evangelium Matthaei",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "633": {
+    "id": 633,
+    "order": "563.00000000000000000000",
+    "name": "Commentary Matthew ",
+    "jad_id": "jad_work__633",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 198,
+        "value": "BSB, Clm 14690",
+        "order": "166.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Matthew",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 18,
+        "value": "around 1000",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "634": {
+    "id": 634,
+    "order": "564.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__634",
+    "author": [
+      {
+        "id": 397,
+        "value": "Petrus, de Sancto Benedicto",
+        "order": "274.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 200,
+        "value": "BSB, Clm 14761",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "635": {
+    "id": 635,
+    "order": "565.00000000000000000000",
+    "name": "Commentary Ester ",
+    "jad_id": "jad_work__635",
+    "author": [
+      {
+        "id": 5,
+        "value": "Hrabanus Maurus",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Ester",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "636": {
+    "id": 636,
+    "order": "566.00000000000000000000",
+    "name": "Historia Scholastica, Appendix on Acts of Apostels ",
+    "jad_id": "jad_work__636",
+    "author": [
+      {
+        "id": 9,
+        "value": "Petrus Comestor",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 202,
+        "value": "BSB, Clm 5503",
+        "order": "170.00000000000000000000"
+      }
+    ],
+    "title": "Historia Scholastica, Appendix on Acts of Apostels",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "637": {
+    "id": 637,
+    "order": "567.00000000000000000000",
+    "name": "Commentary Matthew ",
+    "jad_id": "jad_work__637",
+    "author": [
+      {
+        "id": 69,
+        "value": "Claudius of Turin",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Matthew",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 6,
+        "value": "early 9th cen.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "638": {
+    "id": 638,
+    "order": "568.00000000000000000000",
+    "name": "Speculum morale ",
+    "jad_id": "jad_work__638",
+    "author": [
+      {
+        "id": 96,
+        "value": "Vincent of Beauvais",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Speculum morale",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "ed. Balthazar Bellère (Douai 1624)",
+    "other_editions": ""
+  },
+  "639": {
+    "id": 639,
+    "order": "569.00000000000000000000",
+    "name": "Haec est praefatio de Iesu Christo domino inter Vespasianum et Titum quomodo vindicaverunt Christum ",
+    "jad_id": "jad_work__639",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Haec est praefatio de Iesu Christo domino inter Vespasianum et Titum quomodo vindicaverunt Christum",
+    "genre": {
+      "id": 18451,
+      "value": "Poetry",
+      "color": "orange"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 1,
+        "value": "9th cen.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Poetae 5",
+    "other_editions": ""
+  },
+  "640": {
+    "id": 640,
+    "order": "570.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__640",
     "author": [],
     "manuscripts": [],
     "title": "",
@@ -26038,11 +26472,95 @@
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
   },
-  "632": {
-    "id": 632,
-    "order": "562.00000000000000000000",
+  "641": {
+    "id": 641,
+    "order": "571.00000000000000000000",
     "name": " ",
-    "jad_id": "jad_work__632",
+    "jad_id": "jad_work__641",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "642": {
+    "id": 642,
+    "order": "572.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__642",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "643": {
+    "id": 643,
+    "order": "573.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__643",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "644": {
+    "id": 644,
+    "order": "574.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__644",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "645": {
+    "id": 645,
+    "order": "575.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__645",
     "author": [],
     "manuscripts": [],
     "title": "",
