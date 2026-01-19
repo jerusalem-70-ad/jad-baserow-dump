@@ -19890,6 +19890,11 @@
         "id": 110,
         "value": "Vat., Vat. lat. 1253",
         "order": "103.00000000000000000000"
+      },
+      {
+        "id": 200,
+        "value": "BSB, Clm 14761",
+        "order": "168.00000000000000000000"
       }
     ],
     "title": "Sermones de tempore",
@@ -26169,55 +26174,6 @@
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
   },
-  "634": {
-    "id": 634,
-    "order": "564.00000000000000000000",
-    "name": "Sermones ",
-    "jad_id": "jad_work__634",
-    "author": [
-      {
-        "id": 397,
-        "value": "Petrus, de Sancto Benedicto",
-        "order": "274.00000000000000000000"
-      }
-    ],
-    "manuscripts": [
-      {
-        "id": 200,
-        "value": "BSB, Clm 14761",
-        "order": "168.00000000000000000000"
-      }
-    ],
-    "title": "Sermones",
-    "genre": {
-      "id": 14726,
-      "value": "Sermons",
-      "color": "darker-pink"
-    },
-    "notes": "",
-    "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [
-      {
-        "id": 1,
-        "value": "None",
-        "order": "1.00000000000000000000"
-      }
-    ],
-    "date_certainty": false,
-    "date": [
-      {
-        "id": 47,
-        "value": "13th cen., second half",
-        "order": "47.00000000000000000000"
-      }
-    ],
-    "link_digital_editions": "",
-    "author_certainty": false,
-    "incipit": "",
-    "volume_edition_or_individual_editor": "",
-    "other_editions": ""
-  },
   "635": {
     "id": 635,
     "order": "565.00000000000000000000",
@@ -26561,6 +26517,27 @@
     "order": "575.00000000000000000000",
     "name": " ",
     "jad_id": "jad_work__645",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "646": {
+    "id": 646,
+    "order": "576.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__646",
     "author": [],
     "manuscripts": [],
     "title": "",
