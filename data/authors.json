@@ -3668,6 +3668,176 @@
           "id": "jad_work__64",
           "label": "Commentary Judices "
         }
+      },
+      {
+        "id": 641,
+        "name": "Extractiones de Talmud per ordinem sequentialem ",
+        "jad_id": "jad_work__641",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Extractiones de Talmud per ordinem sequentialem",
+        "genre": {
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": [],
+                "gnd_url": "",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "https://d-nb.info/gnd/2025059-9",
+            "wikidata": "",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 125,
+            "value": "1240s"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "291",
+        "other_editions": "",
+        "view_label": "Extractiones de Talmud per ordinem sequentialem ",
+        "prev": {
+          "id": "jad_work__64",
+          "label": "Commentary Judices "
+        },
+        "next": {
+          "id": "jad_work__642",
+          "label": "Extractiones de Talmud per ordinem thematicum "
+        }
+      },
+      {
+        "id": 642,
+        "name": "Extractiones de Talmud per ordinem thematicum ",
+        "jad_id": "jad_work__642",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Extractiones de Talmud per ordinem thematicum",
+        "genre": {
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [
+          {
+            "id": 1,
+            "name": "University of Paris",
+            "jad_id": "jad_institutional_context__1",
+            "part_of": [
+              {
+                "id": 16,
+                "name": "French schools",
+                "jad_id": "jad_institutional_context__16",
+                "part_of": [],
+                "gnd_url": "",
+                "wikidata": "",
+                "place": []
+              }
+            ],
+            "gnd_url": "https://d-nb.info/gnd/2025059-9",
+            "wikidata": "",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ]
+          }
+        ],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 125,
+            "value": "1240s"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "291A",
+        "other_editions": "",
+        "view_label": "Extractiones de Talmud per ordinem thematicum ",
+        "prev": {
+          "id": "jad_work__641",
+          "label": "Extractiones de Talmud per ordinem sequentialem "
+        },
+        "next": {
+          "id": "jad_work__643",
+          "label": " "
+        }
       }
     ]
   },
@@ -4958,8 +5128,8 @@
           "label": "Haec est praefatio de Iesu Christo domino inter Vespasianum et Titum quomodo vindicaverunt Christum "
         },
         "next": {
-          "id": "jad_work__640",
-          "label": " "
+          "id": "jad_work__641",
+          "label": "Extractiones de Talmud per ordinem sequentialem "
         }
       },
       {

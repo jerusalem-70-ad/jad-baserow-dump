@@ -26402,67 +26402,102 @@
     "volume_edition_or_individual_editor": "Poetae 5",
     "other_editions": ""
   },
-  "640": {
-    "id": 640,
-    "order": "570.00000000000000000000",
-    "name": " ",
-    "jad_id": "jad_work__640",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
-    "notes": "",
-    "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
-    "link_digital_editions": "",
-    "author_certainty": false,
-    "incipit": "",
-    "volume_edition_or_individual_editor": "",
-    "other_editions": ""
-  },
   "641": {
     "id": 641,
     "order": "571.00000000000000000000",
-    "name": " ",
+    "name": "Extractiones de Talmud per ordinem sequentialem ",
     "jad_id": "jad_work__641",
-    "author": [],
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Extractiones de Talmud per ordinem sequentialem",
+    "genre": {
+      "id": 14728,
+      "value": "Anti-Jewish treatise",
+      "color": "darker-purple"
+    },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 125,
+        "value": "1240s",
+        "order": "93.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "291",
     "other_editions": ""
   },
   "642": {
     "id": 642,
     "order": "572.00000000000000000000",
-    "name": " ",
+    "name": "Extractiones de Talmud per ordinem thematicum ",
     "jad_id": "jad_work__642",
-    "author": [],
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Extractiones de Talmud per ordinem thematicum",
+    "genre": {
+      "id": 14728,
+      "value": "Anti-Jewish treatise",
+      "color": "darker-purple"
+    },
     "notes": "",
     "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "institutional_context": [
+      {
+        "id": 1,
+        "value": "University of Paris",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 125,
+        "value": "1240s",
+        "order": "93.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "291A",
     "other_editions": ""
   },
   "643": {
@@ -26481,7 +26516,7 @@
     "date_certainty": false,
     "date": [],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
