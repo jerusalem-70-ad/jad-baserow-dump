@@ -10649,9 +10649,9 @@
     "manuscripts": [],
     "title": "Annales Stabulenses",
     "genre": {
-      "id": 14731,
-      "value": "Chronicle",
-      "color": "red"
+      "id": 22465,
+      "value": "Annals",
+      "color": "dark-purple"
     },
     "notes": "",
     "notes__author": "",
@@ -16384,9 +16384,9 @@
     "manuscripts": [],
     "title": "Annales Quedlinburgenses",
     "genre": {
-      "id": 14731,
-      "value": "Chronicle",
-      "color": "red"
+      "id": 22465,
+      "value": "Annals",
+      "color": "dark-purple"
     },
     "notes": "",
     "notes__author": "",
@@ -16398,12 +16398,12 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
+    "date_certainty": true,
     "date": [
       {
-        "id": 3,
-        "value": "early 12th cen.",
-        "order": "3.00000000000000000000"
+        "id": 127,
+        "value": "early 11th cen",
+        "order": "95.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -21744,9 +21744,9 @@
     "manuscripts": [],
     "title": "Annales Hildesheimenses",
     "genre": {
-      "id": 14731,
-      "value": "Chronicle",
-      "color": "red"
+      "id": 22465,
+      "value": "Annals",
+      "color": "dark-purple"
     },
     "notes": "",
     "notes__author": "",
@@ -22094,9 +22094,9 @@
     "manuscripts": [],
     "title": "Annales",
     "genre": {
-      "id": 14731,
-      "value": "Chronicle",
-      "color": "red"
+      "id": 22465,
+      "value": "Annals",
+      "color": "dark-purple"
     },
     "notes": "",
     "notes__author": "",
@@ -26503,50 +26503,868 @@
   "643": {
     "id": 643,
     "order": "573.00000000000000000000",
-    "name": " ",
+    "name": "Epitoma Chronicon ",
     "jad_id": "jad_work__643",
-    "author": [],
+    "author": [
+      {
+        "id": 156,
+        "value": "Prosper de Aquitania",
+        "order": "144.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Epitoma Chronicon",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 58,
+        "value": "5th cen., first half",
+        "order": "58.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "Auct. Ant. 9",
     "other_editions": ""
   },
   "644": {
     "id": 644,
     "order": "574.00000000000000000000",
-    "name": " ",
+    "name": "Chronica gallica ",
     "jad_id": "jad_work__644",
-    "author": [],
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Chronica gallica",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 126,
+        "value": "around 500",
+        "order": "94.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "Auct. Ant. 9",
     "other_editions": ""
   },
   "645": {
     "id": 645,
     "order": "575.00000000000000000000",
-    "name": " ",
+    "name": "Cursus paschalis ",
     "jad_id": "jad_work__645",
+    "author": [
+      {
+        "id": 397,
+        "value": "Victorius Aquitanus",
+        "order": "274.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Cursus paschalis",
+    "genre": {
+      "id": 18449,
+      "value": "Computistic treatise",
+      "color": "darker-gray"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 64,
+        "value": "mid 5th cen.",
+        "order": "63.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Auct. Ant. 9",
+    "other_editions": ""
+  },
+  "646": {
+    "id": 646,
+    "order": "576.00000000000000000000",
+    "name": "Speculum regum ",
+    "jad_id": "jad_work__646",
+    "author": [
+      {
+        "id": 398,
+        "value": "Geoffrey of Viterbo",
+        "order": "275.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Speculum regum",
+    "genre": {
+      "id": 22464,
+      "value": "Mirror of princes",
+      "color": "purple"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 22",
+    "other_editions": ""
+  },
+  "647": {
+    "id": 647,
+    "order": "577.00000000000000000000",
+    "name": "Pantheon ",
+    "jad_id": "jad_work__647",
+    "author": [
+      {
+        "id": 398,
+        "value": "Geoffrey of Viterbo",
+        "order": "275.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Pantheon",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 22",
+    "other_editions": ""
+  },
+  "648": {
+    "id": 648,
+    "order": "578.00000000000000000000",
+    "name": "Chronicon pontificum et imperatorum ",
+    "jad_id": "jad_work__648",
+    "author": [
+      {
+        "id": 399,
+        "value": "Martin of Troppau",
+        "order": "276.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronicon pontificum et imperatorum",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 22",
+    "other_editions": ""
+  },
+  "649": {
+    "id": 649,
+    "order": "579.00000000000000000000",
+    "name": "Cronica pontificum et imperatorum sancti Bartholomaei in insula Romani ",
+    "jad_id": "jad_work__649",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Cronica pontificum et imperatorum sancti Bartholomaei in insula Romani",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 31",
+    "other_editions": ""
+  },
+  "650": {
+    "id": 650,
+    "order": "580.00000000000000000000",
+    "name": "Cronica pontificum et imperatorum Tiburtina ",
+    "jad_id": "jad_work__650",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Cronica pontificum et imperatorum Tiburtina",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 31",
+    "other_editions": ""
+  },
+  "651": {
+    "id": 651,
+    "order": "581.00000000000000000000",
+    "name": "Cronica apostolicorum et imperatorum Basileensia ",
+    "jad_id": "jad_work__651",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Cronica apostolicorum et imperatorum Basileensia",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 31",
+    "other_editions": ""
+  },
+  "652": {
+    "id": 652,
+    "order": "582.00000000000000000000",
+    "name": "Liber de temporibus et aetatibus et cronica imperatorum ",
+    "jad_id": "jad_work__652",
+    "author": [
+      {
+        "id": 400,
+        "value": "Albertus Milioli",
+        "order": "277.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Liber de temporibus et aetatibus et cronica imperatorum",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 31",
+    "other_editions": ""
+  },
+  "653": {
+    "id": 653,
+    "order": "583.00000000000000000000",
+    "name": "Annales Magdeburgenses ",
+    "jad_id": "jad_work__653",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Annales Magdeburgenses",
+    "genre": {
+      "id": 22465,
+      "value": "Annals",
+      "color": "dark-purple"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 16",
+    "other_editions": ""
+  },
+  "654": {
+    "id": 654,
+    "order": "584.00000000000000000000",
+    "name": "Annales Stadenses ",
+    "jad_id": "jad_work__654",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Annales Stadenses",
+    "genre": {
+      "id": 22465,
+      "value": "Annals",
+      "color": "dark-purple"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 16",
+    "other_editions": ""
+  },
+  "655": {
+    "id": 655,
+    "order": "585.00000000000000000000",
+    "name": "Reginonis abbatis Prumiensis Chronicon ",
+    "jad_id": "jad_work__655",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Reginonis abbatis Prumiensis Chronicon",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 19,
+        "value": "around 900",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS rer. Germ. 50",
+    "other_editions": ""
+  },
+  "656": {
+    "id": 656,
+    "order": "586.00000000000000000000",
+    "name": "Cronica minor Minoritae Erphordensis ",
+    "jad_id": "jad_work__656",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Cronica minor Minoritae Erphordensis",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS rer. Germ. 42",
+    "other_editions": ""
+  },
+  "657": {
+    "id": 657,
+    "order": "587.00000000000000000000",
+    "name": "Chronicon ",
+    "jad_id": "jad_work__657",
+    "author": [
+      {
+        "id": 401,
+        "value": "Ellenhardus of Strasbourg",
+        "order": "278.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronicon",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 17",
+    "other_editions": ""
+  },
+  "658": {
+    "id": 658,
+    "order": "588.00000000000000000000",
+    "name": "Annales Reicherspergenses ",
+    "jad_id": "jad_work__658",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Annales Reicherspergenses",
+    "genre": {
+      "id": 22465,
+      "value": "Annals",
+      "color": "dark-purple"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 17",
+    "other_editions": ""
+  },
+  "659": {
+    "id": 659,
+    "order": "589.00000000000000000000",
+    "name": "Chronicon magni presbiteri ",
+    "jad_id": "jad_work__659",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Chronicon magni presbiteri",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 17",
+    "other_editions": ""
+  },
+  "660": {
+    "id": 660,
+    "order": "590.00000000000000000000",
+    "name": "Kaiserchronik ",
+    "jad_id": "jad_work__660",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Kaiserchronik",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 14,
+        "value": "12th cen., second half",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "Deutsche Chronik 1,1",
+    "other_editions": ""
+  },
+  "661": {
+    "id": 661,
+    "order": "591.00000000000000000000",
+    "name": "Philippidos ",
+    "jad_id": "jad_work__661",
+    "author": [
+      {
+        "id": 402,
+        "value": "Guilelmus Brito",
+        "order": "279.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Philippidos",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "SS 26",
+    "other_editions": ""
+  },
+  "662": {
+    "id": 662,
+    "order": "592.00000000000000000000",
+    "name": "Wolfenbütteler Rapularius ",
+    "jad_id": "jad_work__662",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Wolfenbütteler Rapularius",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 62,
+        "value": "15th cen., first half",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "QQ zur Geistesgesch. 17",
+    "other_editions": ""
+  },
+  "691": {
+    "id": 691,
+    "order": "593.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__691",
     "author": [],
     "manuscripts": [],
     "title": "",
@@ -26563,11 +27381,284 @@
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
   },
-  "646": {
-    "id": 646,
-    "order": "576.00000000000000000000",
+  "692": {
+    "id": 692,
+    "order": "594.00000000000000000000",
     "name": " ",
-    "jad_id": "jad_work__646",
+    "jad_id": "jad_work__692",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "693": {
+    "id": 693,
+    "order": "595.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__693",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "694": {
+    "id": 694,
+    "order": "596.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__694",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "695": {
+    "id": 695,
+    "order": "597.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__695",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "696": {
+    "id": 696,
+    "order": "598.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__696",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "697": {
+    "id": 697,
+    "order": "599.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__697",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "698": {
+    "id": 698,
+    "order": "600.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__698",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "699": {
+    "id": 699,
+    "order": "601.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__699",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "700": {
+    "id": 700,
+    "order": "602.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__700",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "701": {
+    "id": 701,
+    "order": "603.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__701",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "702": {
+    "id": 702,
+    "order": "604.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__702",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "703": {
+    "id": 703,
+    "order": "605.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__703",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "704": {
+    "id": 704,
+    "order": "606.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__704",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "705": {
+    "id": 705,
+    "order": "607.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__705",
     "author": [],
     "manuscripts": [],
     "title": "",

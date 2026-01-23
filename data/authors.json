@@ -1418,9 +1418,9 @@
         "manuscripts": [],
         "title": "Annales Stabulenses",
         "genre": {
-          "id": 14731,
-          "value": "Chronicle",
-          "color": "red"
+          "id": 22465,
+          "value": "Annals",
+          "color": "dark-purple"
         },
         "notes": "",
         "notes__author": "",
@@ -1857,9 +1857,9 @@
         "manuscripts": [],
         "title": "Annales Quedlinburgenses",
         "genre": {
-          "id": 14731,
-          "value": "Chronicle",
-          "color": "red"
+          "id": 22465,
+          "value": "Annals",
+          "color": "dark-purple"
         },
         "notes": "",
         "notes__author": "",
@@ -1872,11 +1872,11 @@
             "digi_url": "https://mlat.uzh.ch/browser?path=/38"
           }
         ],
-        "date_certainty": false,
+        "date_certainty": true,
         "date": [
           {
-            "id": 3,
-            "value": "early 12th cen."
+            "id": 127,
+            "value": "early 11th cen"
           }
         ],
         "link_digital_editions": "",
@@ -3067,9 +3067,9 @@
         "manuscripts": [],
         "title": "Annales Hildesheimenses",
         "genre": {
-          "id": 14731,
-          "value": "Chronicle",
-          "color": "red"
+          "id": 22465,
+          "value": "Annals",
+          "color": "dark-purple"
         },
         "notes": "",
         "notes__author": "",
@@ -3836,7 +3836,727 @@
         },
         "next": {
           "id": "jad_work__643",
-          "label": " "
+          "label": "Epitoma Chronicon "
+        }
+      },
+      {
+        "id": 644,
+        "name": "Chronica gallica ",
+        "jad_id": "jad_work__644",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronica gallica",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 126,
+            "value": "around 500"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Auct. Ant. 9",
+        "other_editions": "",
+        "view_label": "Chronica gallica ",
+        "prev": {
+          "id": "jad_work__643",
+          "label": "Epitoma Chronicon "
+        },
+        "next": {
+          "id": "jad_work__645",
+          "label": "Cursus paschalis "
+        }
+      },
+      {
+        "id": 649,
+        "name": "Cronica pontificum et imperatorum sancti Bartholomaei in insula Romani ",
+        "jad_id": "jad_work__649",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Cronica pontificum et imperatorum sancti Bartholomaei in insula Romani",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 31",
+        "other_editions": "",
+        "view_label": "Cronica pontificum et imperatorum sancti Bartholomaei in insula Romani ",
+        "prev": {
+          "id": "jad_work__648",
+          "label": "Chronicon pontificum et imperatorum "
+        },
+        "next": {
+          "id": "jad_work__65",
+          "label": "Commentary Deuteronomium "
+        }
+      },
+      {
+        "id": 650,
+        "name": "Cronica pontificum et imperatorum Tiburtina ",
+        "jad_id": "jad_work__650",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Cronica pontificum et imperatorum Tiburtina",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 31",
+        "other_editions": "",
+        "view_label": "Cronica pontificum et imperatorum Tiburtina ",
+        "prev": {
+          "id": "jad_work__65",
+          "label": "Commentary Deuteronomium "
+        },
+        "next": {
+          "id": "jad_work__651",
+          "label": "Cronica apostolicorum et imperatorum Basileensia "
+        }
+      },
+      {
+        "id": 651,
+        "name": "Cronica apostolicorum et imperatorum Basileensia ",
+        "jad_id": "jad_work__651",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Cronica apostolicorum et imperatorum Basileensia",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 31",
+        "other_editions": "",
+        "view_label": "Cronica apostolicorum et imperatorum Basileensia ",
+        "prev": {
+          "id": "jad_work__650",
+          "label": "Cronica pontificum et imperatorum Tiburtina "
+        },
+        "next": {
+          "id": "jad_work__652",
+          "label": "Liber de temporibus et aetatibus et cronica imperatorum "
+        }
+      },
+      {
+        "id": 653,
+        "name": "Annales Magdeburgenses ",
+        "jad_id": "jad_work__653",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Annales Magdeburgenses",
+        "genre": {
+          "id": 22465,
+          "value": "Annals",
+          "color": "dark-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 16",
+        "other_editions": "",
+        "view_label": "Annales Magdeburgenses ",
+        "prev": {
+          "id": "jad_work__652",
+          "label": "Liber de temporibus et aetatibus et cronica imperatorum "
+        },
+        "next": {
+          "id": "jad_work__654",
+          "label": "Annales Stadenses "
+        }
+      },
+      {
+        "id": 654,
+        "name": "Annales Stadenses ",
+        "jad_id": "jad_work__654",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Annales Stadenses",
+        "genre": {
+          "id": 22465,
+          "value": "Annals",
+          "color": "dark-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 16",
+        "other_editions": "",
+        "view_label": "Annales Stadenses ",
+        "prev": {
+          "id": "jad_work__653",
+          "label": "Annales Magdeburgenses "
+        },
+        "next": {
+          "id": "jad_work__655",
+          "label": "Reginonis abbatis Prumiensis Chronicon "
+        }
+      },
+      {
+        "id": 655,
+        "name": "Reginonis abbatis Prumiensis Chronicon ",
+        "jad_id": "jad_work__655",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Reginonis abbatis Prumiensis Chronicon",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 19,
+            "value": "around 900"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS rer. Germ. 50",
+        "other_editions": "",
+        "view_label": "Reginonis abbatis Prumiensis Chronicon ",
+        "prev": {
+          "id": "jad_work__654",
+          "label": "Annales Stadenses "
+        },
+        "next": {
+          "id": "jad_work__656",
+          "label": "Cronica minor Minoritae Erphordensis "
+        }
+      },
+      {
+        "id": 656,
+        "name": "Cronica minor Minoritae Erphordensis ",
+        "jad_id": "jad_work__656",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Cronica minor Minoritae Erphordensis",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS rer. Germ. 42",
+        "other_editions": "",
+        "view_label": "Cronica minor Minoritae Erphordensis ",
+        "prev": {
+          "id": "jad_work__655",
+          "label": "Reginonis abbatis Prumiensis Chronicon "
+        },
+        "next": {
+          "id": "jad_work__657",
+          "label": "Chronicon "
+        }
+      },
+      {
+        "id": 658,
+        "name": "Annales Reicherspergenses ",
+        "jad_id": "jad_work__658",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Annales Reicherspergenses",
+        "genre": {
+          "id": 22465,
+          "value": "Annals",
+          "color": "dark-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 17",
+        "other_editions": "",
+        "view_label": "Annales Reicherspergenses ",
+        "prev": {
+          "id": "jad_work__657",
+          "label": "Chronicon "
+        },
+        "next": {
+          "id": "jad_work__659",
+          "label": "Chronicon magni presbiteri "
+        }
+      },
+      {
+        "id": 659,
+        "name": "Chronicon magni presbiteri ",
+        "jad_id": "jad_work__659",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronicon magni presbiteri",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 17",
+        "other_editions": "",
+        "view_label": "Chronicon magni presbiteri ",
+        "prev": {
+          "id": "jad_work__658",
+          "label": "Annales Reicherspergenses "
+        },
+        "next": {
+          "id": "jad_work__66",
+          "label": "Commentary Matthew "
+        }
+      },
+      {
+        "id": 660,
+        "name": "Kaiserchronik ",
+        "jad_id": "jad_work__660",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Kaiserchronik",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 14,
+            "value": "12th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Deutsche Chronik 1,1",
+        "other_editions": "",
+        "view_label": "Kaiserchronik ",
+        "prev": {
+          "id": "jad_work__66",
+          "label": "Commentary Matthew "
+        },
+        "next": {
+          "id": "jad_work__661",
+          "label": "Philippidos "
+        }
+      },
+      {
+        "id": 662,
+        "name": "Wolfenbütteler Rapularius ",
+        "jad_id": "jad_work__662",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Wolfenbütteler Rapularius",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 62,
+            "value": "15th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "QQ zur Geistesgesch. 17",
+        "other_editions": "",
+        "view_label": "Wolfenbütteler Rapularius ",
+        "prev": {
+          "id": "jad_work__661",
+          "label": "Philippidos "
+        },
+        "next": {
+          "id": "jad_work__67",
+          "label": "De universo "
         }
       }
     ]
@@ -3862,7 +4582,7 @@
     "view_label": "Petrus Cantor",
     "prev": {
       "id": "jad_author__399",
-      "label": ""
+      "label": "Martin of Troppau"
     },
     "next": {
       "id": "jad_author__40",
@@ -5189,12 +5909,12 @@
         "other_editions": null,
         "view_label": "Commentary Deuteronomium ",
         "prev": {
-          "id": "jad_work__646",
-          "label": " "
+          "id": "jad_work__649",
+          "label": "Cronica pontificum et imperatorum sancti Bartholomaei in insula Romani "
         },
         "next": {
-          "id": "jad_work__66",
-          "label": "Commentary Matthew "
+          "id": "jad_work__650",
+          "label": "Cronica pontificum et imperatorum Tiburtina "
         }
       },
       {
@@ -5254,12 +5974,12 @@
         "other_editions": null,
         "view_label": "Commentary Matthew ",
         "prev": {
-          "id": "jad_work__65",
-          "label": "Commentary Deuteronomium "
+          "id": "jad_work__659",
+          "label": "Chronicon magni presbiteri "
         },
         "next": {
-          "id": "jad_work__67",
-          "label": "De universo "
+          "id": "jad_work__660",
+          "label": "Kaiserchronik "
         }
       },
       {
@@ -5319,8 +6039,8 @@
         "other_editions": null,
         "view_label": "De universo ",
         "prev": {
-          "id": "jad_work__66",
-          "label": "Commentary Matthew "
+          "id": "jad_work__662",
+          "label": "Wolfenbütteler Rapularius "
         },
         "next": {
           "id": "jad_work__68",
@@ -6964,8 +7684,8 @@
         "other_editions": null,
         "view_label": "Liber Floridus ",
         "prev": {
-          "id": "jad_work__69",
-          "label": "Commentary Lamentationes "
+          "id": "jad_work__699",
+          "label": " "
         },
         "next": {
           "id": "jad_work__70",
@@ -10609,8 +11329,8 @@
           "label": "Commentary Revelation "
         },
         "next": {
-          "id": "jad_work__7",
-          "label": "Liber Floridus "
+          "id": "jad_work__691",
+          "label": " "
         }
       },
       {
@@ -10694,8 +11414,8 @@
           "label": "Liber Floridus "
         },
         "next": {
-          "id": "jad_work__71",
-          "label": "Commentary Kings "
+          "id": "jad_work__700",
+          "label": " "
         }
       }
     ]
@@ -10785,8 +11505,8 @@
         "other_editions": null,
         "view_label": "Commentary Kings ",
         "prev": {
-          "id": "jad_work__70",
-          "label": "Commentary Psalms "
+          "id": "jad_work__705",
+          "label": " "
         },
         "next": {
           "id": "jad_work__72",
@@ -17686,7 +18406,7 @@
     },
     "next": {
       "id": "jad_author__400",
-      "label": ""
+      "label": "Albertus Milioli"
     },
     "related__works": [
       {
@@ -17776,7 +18496,7 @@
     "date_death_certainty": true,
     "view_label": "Peter Lombard",
     "prev": {
-      "id": "jad_author__400",
+      "id": "jad_author__405",
       "label": ""
     },
     "next": {
@@ -18069,8 +18789,8 @@
       "label": "William of Tyre"
     },
     "next": {
-      "id": "jad_author__44",
-      "label": "Petrus Venerabilis"
+      "id": "jad_author__437",
+      "label": ""
     },
     "related__works": [
       {
@@ -18155,8 +18875,8 @@
     "date_death_certainty": true,
     "view_label": "Petrus Venerabilis",
     "prev": {
-      "id": "jad_author__43",
-      "label": "Josephus Latinus  / Pseudo-Hegesippus"
+      "id": "jad_author__439",
+      "label": ""
     },
     "next": {
       "id": "jad_author__45",
@@ -33917,6 +34637,71 @@
           "id": "jad_work__337",
           "label": "Adversus Judaeos "
         }
+      },
+      {
+        "id": 643,
+        "name": "Epitoma Chronicon ",
+        "jad_id": "jad_work__643",
+        "author": [
+          {
+            "id": 156,
+            "name": "Prosper de Aquitania",
+            "jad_id": "jad_author__156",
+            "gnd_url": "https://d-nb.info/gnd/118793519",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Prosper, Tyro | Prosperus, Rhegiensis | Prosper Tiro, Aquitanus | Prospero, di Aquitania | Tiro, Prosper | Prosper, Presbyter | Aquitanus, Prosper | Prosper Tiro, von Aquitanien | Prosper, Aquitanus | Prosper, Of Aquitaine | Prosper, d'Aquitaine | Prosper, Sanctus | Aquitanus, Prosperus | Prosper Aquitanus | Prosper, episcopus Rheginensis | Pseudo-Prosper, de Aquitania | Tyro, Prosper | Prosper, of Aquitaine | Prosper, Saint | Prosperus, Aquitanicus | Prosper, Of Aquitania | Prosperus | Aquitanicus, Prosperus | Prosper, von Aquitanien | Prosper, Regiensis | Ps.-Prospero, di Aquitania | Pseudo-Prosper | Prosper, of Aquitania | Aquitaine, Prosper of | Prosperus, Aquitanus | Aquitania, Prosper de | Prosper, Tiro | Prospero, D'Aquitania | Prosper, Von Aquitanien | Prosper | Prospero, d'Aquitania | Prosper, Aquitanicus",
+            "date_of_birth": "0390",
+            "date_of_death": "0455",
+            "place": [
+              {
+                "id": 19,
+                "value": "Rome"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Epitoma Chronicon",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 58,
+            "value": "5th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Auct. Ant. 9",
+        "other_editions": "",
+        "view_label": "Epitoma Chronicon ",
+        "prev": {
+          "id": "jad_work__642",
+          "label": "Extractiones de Talmud per ordinem thematicum "
+        },
+        "next": {
+          "id": "jad_work__644",
+          "label": "Chronica gallica "
+        }
       }
     ]
   },
@@ -43072,9 +43857,9 @@
         "manuscripts": [],
         "title": "Annales",
         "genre": {
-          "id": 14731,
-          "value": "Chronicle",
-          "color": "red"
+          "id": 22465,
+          "value": "Annals",
+          "color": "dark-purple"
         },
         "notes": "",
         "notes__author": "",
@@ -48249,7 +49034,7 @@
     },
     "next": {
       "id": "jad_author__397",
-      "label": ""
+      "label": "Victorius Aquitanus"
     },
     "related__works": [
       {
@@ -48326,80 +49111,603 @@
   },
   "397": {
     "id": 397,
-    "name": "",
+    "name": "Victorius Aquitanus",
     "jad_id": "jad_author__397",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100661629",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": null,
+    "alt_name": "Victorius, d'Aquitaine | Victorius, von Aquitanien | Victorius, of Limoges | Victurius, von Aquitanien | Victor | Victurius, von Limoges | Victurius, Aquitanus | Victurius, of Limoges | Victurius, d'Aquitaine | Victorius, Marianus | Victurus, Aquitanus | Victorin | Victorius, von Limoges",
     "date_of_birth": "",
     "date_of_death": "",
     "place": [],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "",
+    "view_label": "Victorius Aquitanus",
     "prev": {
       "id": "jad_author__396",
       "label": "Innocent V, pope"
     },
     "next": {
       "id": "jad_author__398",
-      "label": ""
+      "label": "Geoffrey of Viterbo"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 645,
+        "name": "Cursus paschalis ",
+        "jad_id": "jad_work__645",
+        "author": [
+          {
+            "id": 397,
+            "name": "Victorius Aquitanus",
+            "jad_id": "jad_author__397",
+            "gnd_url": "https://d-nb.info/gnd/100661629",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Victorius, d'Aquitaine | Victorius, von Aquitanien | Victorius, of Limoges | Victurius, von Aquitanien | Victor | Victurius, von Limoges | Victurius, Aquitanus | Victurius, of Limoges | Victurius, d'Aquitaine | Victorius, Marianus | Victurus, Aquitanus | Victorin | Victorius, von Limoges",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Cursus paschalis",
+        "genre": {
+          "id": 18449,
+          "value": "Computistic treatise",
+          "color": "darker-gray"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 64,
+            "value": "mid 5th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Auct. Ant. 9",
+        "other_editions": "",
+        "view_label": "Cursus paschalis ",
+        "prev": {
+          "id": "jad_work__644",
+          "label": "Chronica gallica "
+        },
+        "next": {
+          "id": "jad_work__646",
+          "label": "Speculum regum "
+        }
+      }
+    ]
   },
   "398": {
     "id": 398,
-    "name": "",
+    "name": "Geoffrey of Viterbo",
     "jad_id": "jad_author__398",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/11871824X",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "alt_name": "Gottfridus, Viterbiensis | Gotefridus, Viterbiensis | Gotifredus, Viterbiensis | Gottfried von Viterbo | Gotfrid, von Viterbo | Godofredus, Viterbiensis | Godefridus, da Viterbo | Gioffredo, da Viterbo | Galfredus, Viterbiensis | Geoffroy, of Viterbo | Godefroy, von Viterbo | Gotifridus Viterbiensis | Gotifredus Viterbiensis | Gottofridus, Viterbiensis | Godefridus, de Viterbo | Godefroy, de Viterbe | Godefridus, Viterbensis | Galfredus, Viterbensis | Gottfried, von Viterbo | Goffredo, da Viterbo",
+    "date_of_birth": "1125",
+    "date_of_death": "1195",
+    "place": [
+      {
+        "id": 134,
+        "value": "Viterbo"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "",
+    "view_label": "Geoffrey of Viterbo",
     "prev": {
       "id": "jad_author__397",
-      "label": ""
+      "label": "Victorius Aquitanus"
     },
     "next": {
       "id": "jad_author__399",
-      "label": ""
+      "label": "Martin of Troppau"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 646,
+        "name": "Speculum regum ",
+        "jad_id": "jad_work__646",
+        "author": [
+          {
+            "id": 398,
+            "name": "Geoffrey of Viterbo",
+            "jad_id": "jad_author__398",
+            "gnd_url": "https://d-nb.info/gnd/11871824X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Gottfridus, Viterbiensis | Gotefridus, Viterbiensis | Gotifredus, Viterbiensis | Gottfried von Viterbo | Gotfrid, von Viterbo | Godofredus, Viterbiensis | Godefridus, da Viterbo | Gioffredo, da Viterbo | Galfredus, Viterbiensis | Geoffroy, of Viterbo | Godefroy, von Viterbo | Gotifridus Viterbiensis | Gotifredus Viterbiensis | Gottofridus, Viterbiensis | Godefridus, de Viterbo | Godefroy, de Viterbe | Godefridus, Viterbensis | Galfredus, Viterbensis | Gottfried, von Viterbo | Goffredo, da Viterbo",
+            "date_of_birth": "1125",
+            "date_of_death": "1195",
+            "place": [
+              {
+                "id": 134,
+                "value": "Viterbo"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Speculum regum",
+        "genre": {
+          "id": 22464,
+          "value": "Mirror of princes",
+          "color": "purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 22",
+        "other_editions": "",
+        "view_label": "Speculum regum ",
+        "prev": {
+          "id": "jad_work__645",
+          "label": "Cursus paschalis "
+        },
+        "next": {
+          "id": "jad_work__647",
+          "label": "Pantheon "
+        }
+      },
+      {
+        "id": 647,
+        "name": "Pantheon ",
+        "jad_id": "jad_work__647",
+        "author": [
+          {
+            "id": 398,
+            "name": "Geoffrey of Viterbo",
+            "jad_id": "jad_author__398",
+            "gnd_url": "https://d-nb.info/gnd/11871824X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Gottfridus, Viterbiensis | Gotefridus, Viterbiensis | Gotifredus, Viterbiensis | Gottfried von Viterbo | Gotfrid, von Viterbo | Godofredus, Viterbiensis | Godefridus, da Viterbo | Gioffredo, da Viterbo | Galfredus, Viterbiensis | Geoffroy, of Viterbo | Godefroy, von Viterbo | Gotifridus Viterbiensis | Gotifredus Viterbiensis | Gottofridus, Viterbiensis | Godefridus, de Viterbo | Godefroy, de Viterbe | Godefridus, Viterbensis | Galfredus, Viterbensis | Gottfried, von Viterbo | Goffredo, da Viterbo",
+            "date_of_birth": "1125",
+            "date_of_death": "1195",
+            "place": [
+              {
+                "id": 134,
+                "value": "Viterbo"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Pantheon",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 22",
+        "other_editions": "",
+        "view_label": "Pantheon ",
+        "prev": {
+          "id": "jad_work__646",
+          "label": "Speculum regum "
+        },
+        "next": {
+          "id": "jad_work__648",
+          "label": "Chronicon pontificum et imperatorum "
+        }
+      }
+    ]
   },
   "399": {
     "id": 399,
-    "name": "",
+    "name": "Martin of Troppau",
     "jad_id": "jad_author__399",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118782223",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Martin, von Gnesen | Martinus, Frater Ordinis Praedicatorum | Troppau, Martin von | Martin, aus Troppau | Martinus, de Troppau | Martinus, aus Troppau | Martinus, Archiepiscopus | Martin, Strebski | Martin, of Opava | Martin, von Troppau | Martino, di Troppau | Martinus, Consentinus | Martinus, Bohemus | Martino, il Polono | Martinus, Cartulanus | Martin, le Polonais | Martin, z Opavy | Martinus, Frater | Martino, Oppaviense | Martinus, Oppaviensis | Martinus, Strepus | Strebski, Marcin | Martinus, Capellanus | Martin, de Silesie | Martinus, von Troppau | Strepus, Martinus | Strzebski, Martin | Martinus, Strebski | Martinus, Gnesnensis | Martin, von Oppau | Martin, von Troppau, Gnesen, Erzbischof | Martinus, Polonus",
     "date_of_birth": "",
-    "date_of_death": "",
+    "date_of_death": "1278",
     "place": [],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "",
+    "view_label": "Martin of Troppau",
     "prev": {
       "id": "jad_author__398",
-      "label": ""
+      "label": "Geoffrey of Viterbo"
     },
     "next": {
       "id": "jad_author__4",
       "label": "Petrus Cantor"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 648,
+        "name": "Chronicon pontificum et imperatorum ",
+        "jad_id": "jad_work__648",
+        "author": [
+          {
+            "id": 399,
+            "name": "Martin of Troppau",
+            "jad_id": "jad_author__399",
+            "gnd_url": "https://d-nb.info/gnd/118782223",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Martin, von Gnesen | Martinus, Frater Ordinis Praedicatorum | Troppau, Martin von | Martin, aus Troppau | Martinus, de Troppau | Martinus, aus Troppau | Martinus, Archiepiscopus | Martin, Strebski | Martin, of Opava | Martin, von Troppau | Martino, di Troppau | Martinus, Consentinus | Martinus, Bohemus | Martino, il Polono | Martinus, Cartulanus | Martin, le Polonais | Martin, z Opavy | Martinus, Frater | Martino, Oppaviense | Martinus, Oppaviensis | Martinus, Strepus | Strebski, Marcin | Martinus, Capellanus | Martin, de Silesie | Martinus, von Troppau | Strepus, Martinus | Strzebski, Martin | Martinus, Strebski | Martinus, Gnesnensis | Martin, von Oppau | Martin, von Troppau, Gnesen, Erzbischof | Martinus, Polonus",
+            "date_of_birth": "",
+            "date_of_death": "1278",
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronicon pontificum et imperatorum",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 22",
+        "other_editions": "",
+        "view_label": "Chronicon pontificum et imperatorum ",
+        "prev": {
+          "id": "jad_work__647",
+          "label": "Pantheon "
+        },
+        "next": {
+          "id": "jad_work__649",
+          "label": "Cronica pontificum et imperatorum sancti Bartholomaei in insula Romani "
+        }
+      }
+    ]
   },
   "400": {
     "id": 400,
-    "name": "",
+    "name": "Albertus Milioli",
     "jad_id": "jad_author__400",
+    "gnd_url": "https://d-nb.info/gnd/10241906X",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Milioli, Albertus | Albertus, Notarius | Albert, Milioli | Albertus, Reginus | Alberto, Milioli | Albertus, Notarius Reginus",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "Albertus Milioli",
+    "prev": {
+      "id": "jad_author__40",
+      "label": "Petrus de Riga"
+    },
+    "next": {
+      "id": "jad_author__401",
+      "label": "Ellenhardus of Strasbourg"
+    },
+    "related__works": [
+      {
+        "id": 652,
+        "name": "Liber de temporibus et aetatibus et cronica imperatorum ",
+        "jad_id": "jad_work__652",
+        "author": [
+          {
+            "id": 400,
+            "name": "Albertus Milioli",
+            "jad_id": "jad_author__400",
+            "gnd_url": "https://d-nb.info/gnd/10241906X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Milioli, Albertus | Albertus, Notarius | Albert, Milioli | Albertus, Reginus | Alberto, Milioli | Albertus, Notarius Reginus",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Liber de temporibus et aetatibus et cronica imperatorum",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 31",
+        "other_editions": "",
+        "view_label": "Liber de temporibus et aetatibus et cronica imperatorum ",
+        "prev": {
+          "id": "jad_work__651",
+          "label": "Cronica apostolicorum et imperatorum Basileensia "
+        },
+        "next": {
+          "id": "jad_work__653",
+          "label": "Annales Magdeburgenses "
+        }
+      }
+    ]
+  },
+  "401": {
+    "id": 401,
+    "name": "Ellenhardus of Strasbourg",
+    "jad_id": "jad_author__401",
+    "gnd_url": "https://d-nb.info/gnd/10097001X",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Elnhardus | Ellenhard, Magnus | Ellenhard, l'Ancien | Ellenhard, der Große | Ellenhardus, of Strasbourg | Ellenhard | Ellenhard, of Strasbourg | Ellenhard, von Straßburg | Ellenhardus, Magnus",
+    "date_of_birth": "",
+    "date_of_death": "1304",
+    "place": [
+      {
+        "id": 133,
+        "value": "Strasburg"
+      }
+    ],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "Ellenhardus of Strasbourg",
+    "prev": {
+      "id": "jad_author__400",
+      "label": "Albertus Milioli"
+    },
+    "next": {
+      "id": "jad_author__402",
+      "label": "Guilelmus Brito"
+    },
+    "related__works": [
+      {
+        "id": 657,
+        "name": "Chronicon ",
+        "jad_id": "jad_work__657",
+        "author": [
+          {
+            "id": 401,
+            "name": "Ellenhardus of Strasbourg",
+            "jad_id": "jad_author__401",
+            "gnd_url": "https://d-nb.info/gnd/10097001X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Elnhardus | Ellenhard, Magnus | Ellenhard, l'Ancien | Ellenhard, der Große | Ellenhardus, of Strasbourg | Ellenhard | Ellenhard, of Strasbourg | Ellenhard, von Straßburg | Ellenhardus, Magnus",
+            "date_of_birth": "",
+            "date_of_death": "1304",
+            "place": [
+              {
+                "id": 133,
+                "value": "Strasburg"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Chronicon",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 17",
+        "other_editions": "",
+        "view_label": "Chronicon ",
+        "prev": {
+          "id": "jad_work__656",
+          "label": "Cronica minor Minoritae Erphordensis "
+        },
+        "next": {
+          "id": "jad_work__658",
+          "label": "Annales Reicherspergenses "
+        }
+      }
+    ]
+  },
+  "402": {
+    "id": 402,
+    "name": "Guilelmus Brito",
+    "jad_id": "jad_author__402",
+    "gnd_url": "https://d-nb.info/gnd/11884038X",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Guilielmus, Brito | Pseudo-Adamus, de Sancto Victore | Guillaume, Le Breton | Guillermus, Brito | Giulelmus, Brito-Armoricus | Guillaume, Chroniqueur | Guilielmus, Armoricus | Guilelmus, Brito-Armoricus | Guilelmus, Britonus Aremoricus | Guillaume, le Breton | Guilelmus, Armoricus | Wilhelm, der Bretone | Brito, William de | Wilhelm, Brito | Brito, Guilelmus | Guilelmus, Aremoricus | Gulielmus, Brito-Armoricus | Guillaume, le Breton, Auteur de la Philippide | Wilhelmus, Brito",
+    "date_of_birth": "1165",
+    "date_of_death": "1226",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "Guilelmus Brito",
+    "prev": {
+      "id": "jad_author__401",
+      "label": "Ellenhardus of Strasbourg"
+    },
+    "next": {
+      "id": "jad_author__403",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 661,
+        "name": "Philippidos ",
+        "jad_id": "jad_work__661",
+        "author": [
+          {
+            "id": 402,
+            "name": "Guilelmus Brito",
+            "jad_id": "jad_author__402",
+            "gnd_url": "https://d-nb.info/gnd/11884038X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Guilielmus, Brito | Pseudo-Adamus, de Sancto Victore | Guillaume, Le Breton | Guillermus, Brito | Giulelmus, Brito-Armoricus | Guillaume, Chroniqueur | Guilielmus, Armoricus | Guilelmus, Brito-Armoricus | Guilelmus, Britonus Aremoricus | Guillaume, le Breton | Guilelmus, Armoricus | Wilhelm, der Bretone | Brito, William de | Wilhelm, Brito | Brito, Guilelmus | Guilelmus, Aremoricus | Gulielmus, Brito-Armoricus | Guillaume, le Breton, Auteur de la Philippide | Wilhelmus, Brito",
+            "date_of_birth": "1165",
+            "date_of_death": "1226",
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Philippidos",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "SS 26",
+        "other_editions": "",
+        "view_label": "Philippidos ",
+        "prev": {
+          "id": "jad_work__660",
+          "label": "Kaiserchronik "
+        },
+        "next": {
+          "id": "jad_work__662",
+          "label": "Wolfenbütteler Rapularius "
+        }
+      }
+    ]
+  },
+  "403": {
+    "id": 403,
+    "name": "",
+    "jad_id": "jad_author__403",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
@@ -48411,12 +49719,132 @@
     "date_death_certainty": true,
     "view_label": "",
     "prev": {
-      "id": "jad_author__40",
-      "label": "Petrus de Riga"
+      "id": "jad_author__402",
+      "label": "Guilelmus Brito"
+    },
+    "next": {
+      "id": "jad_author__404",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "404": {
+    "id": 404,
+    "name": "",
+    "jad_id": "jad_author__404",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__403",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__405",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "405": {
+    "id": 405,
+    "name": "",
+    "jad_id": "jad_author__405",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__404",
+      "label": ""
     },
     "next": {
       "id": "jad_author__41",
       "label": "Peter Lombard"
+    },
+    "related__works": []
+  },
+  "437": {
+    "id": 437,
+    "name": "",
+    "jad_id": "jad_author__437",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__43",
+      "label": "Josephus Latinus  / Pseudo-Hegesippus"
+    },
+    "next": {
+      "id": "jad_author__438",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "438": {
+    "id": 438,
+    "name": "",
+    "jad_id": "jad_author__438",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__437",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__439",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "439": {
+    "id": 439,
+    "name": "",
+    "jad_id": "jad_author__439",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__438",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__44",
+      "label": "Petrus Venerabilis"
     },
     "related__works": []
   }
