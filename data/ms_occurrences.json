@@ -2060,11 +2060,11 @@
     "view_label": "diem ultionis et damnationis que per romanos",
     "prev": {
       "id": "jad_occurence__439",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     },
     "next": {
       "id": "jad_occurence__440",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     }
   },
   "45": {
@@ -8237,7 +8237,7 @@
     },
     "next": {
       "id": "jad_occurence__177",
-      "label": "videns civitatem flevit super illiam"
+      "label": "videns civitatem flevit super eam"
     }
   },
   "177": {
@@ -8246,7 +8246,7 @@
     "occurrence": [
       {
         "id": 1246,
-        "value": "videns civitatem flevit super illiam"
+        "value": "videns civitatem flevit super eam"
       }
     ],
     "manuscript": [
@@ -8277,7 +8277,7 @@
         "value": "Troyes, MS 865, f. 70v"
       }
     ],
-    "view_label": "videns civitatem flevit super illiam",
+    "view_label": "videns civitatem flevit super eam",
     "prev": {
       "id": "jad_occurence__176",
       "label": "circumdabunt te inimici tui, glossa, romani principes"
@@ -8327,7 +8327,7 @@
     "view_label": "ad litteram loquitur de Ierusalem que in pace prosperaretur, flevit super illiam previdens excidium eius futurum",
     "prev": {
       "id": "jad_occurence__177",
-      "label": "videns civitatem flevit super illiam"
+      "label": "videns civitatem flevit super eam"
     },
     "next": {
       "id": "jad_occurence__179",
@@ -8660,7 +8660,7 @@
     },
     "next": {
       "id": "jad_occurence__186",
-      "label": "videns civitatem flevit super illiam"
+      "label": "videns civitatem flevit super eam"
     }
   },
   "186": {
@@ -8669,7 +8669,7 @@
     "occurrence": [
       {
         "id": 1246,
-        "value": "videns civitatem flevit super illiam"
+        "value": "videns civitatem flevit super eam"
       }
     ],
     "manuscript": [
@@ -8700,14 +8700,14 @@
         "value": "BNF, lat. 3797, f. 104r"
       }
     ],
-    "view_label": "videns civitatem flevit super illiam",
+    "view_label": "videns civitatem flevit super eam",
     "prev": {
       "id": "jad_occurence__185",
       "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     },
     "next": {
       "id": "jad_occurence__187",
-      "label": "videns civitatem flevit super illiam"
+      "label": "videns civitatem flevit super eam"
     }
   },
   "187": {
@@ -8716,7 +8716,7 @@
     "occurrence": [
       {
         "id": 1246,
-        "value": "videns civitatem flevit super illiam"
+        "value": "videns civitatem flevit super eam"
       }
     ],
     "manuscript": [
@@ -8747,10 +8747,10 @@
         "value": "BNF, lat. 3279, f. 107r"
       }
     ],
-    "view_label": "videns civitatem flevit super illiam",
+    "view_label": "videns civitatem flevit super eam",
     "prev": {
       "id": "jad_occurence__186",
-      "label": "videns civitatem flevit super illiam"
+      "label": "videns civitatem flevit super eam"
     },
     "next": {
       "id": "jad_occurence__188",
@@ -8797,7 +8797,7 @@
     "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
     "prev": {
       "id": "jad_occurence__187",
-      "label": "videns civitatem flevit super illiam"
+      "label": "videns civitatem flevit super eam"
     },
     "next": {
       "id": "jad_occurence__189",
@@ -15381,16 +15381,26 @@
     },
     "next": {
       "id": "jad_occurence__439",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     }
   },
   "439": {
     "id": 439,
     "jad_id": "jad_occurence__439",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2308,
+        "value": "??"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 34,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "position_in_ms": "117v-119r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -15401,9 +15411,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Maz., MS 698, f. 117v-119r"
+      }
+    ],
+    "view_label": "??",
     "prev": {
       "id": "jad_occurence__438",
       "label": "destructa est a Tito et Vespasiano"
@@ -15416,10 +15434,20 @@
   "440": {
     "id": 440,
     "jad_id": "jad_occurence__440",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2309,
+        "value": "??"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 34,
+        "value": "Maz., MS 698"
+      }
+    ],
+    "position_in_ms": "145r-150r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -15430,9 +15458,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-01-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Maz., MS 698, f. 145r-150r"
+      }
+    ],
+    "view_label": "??",
     "prev": {
       "id": "jad_occurence__44",
       "label": "diem ultionis et damnationis que per romanos"
@@ -15464,7 +15500,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__440",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     },
     "next": {
       "id": "jad_occurence__442",

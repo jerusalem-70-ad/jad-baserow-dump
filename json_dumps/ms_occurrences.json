@@ -7188,7 +7188,7 @@
     "occurrence": [
       {
         "id": 1246,
-        "value": "videns civitatem flevit super illiam",
+        "value": "videns civitatem flevit super eam",
         "order": "1183.00000000000000000000"
       }
     ],
@@ -7557,7 +7557,7 @@
     "occurrence": [
       {
         "id": 1246,
-        "value": "videns civitatem flevit super illiam",
+        "value": "videns civitatem flevit super eam",
         "order": "1183.00000000000000000000"
       }
     ],
@@ -7598,7 +7598,7 @@
     "occurrence": [
       {
         "id": 1246,
-        "value": "videns civitatem flevit super illiam",
+        "value": "videns civitatem flevit super eam",
         "order": "1183.00000000000000000000"
       }
     ],
@@ -13417,10 +13417,22 @@
     "id": 439,
     "order": "322.00000000000000000000",
     "jad_id": "jad_occurence__439",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2308,
+        "value": "??",
+        "order": "2066.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 34,
+        "value": "Maz., MS 698",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "117v-119r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -13431,17 +13443,37 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-13",
-    "ms_locus": []
+    "last_modified_on": "2026-01-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Maz., MS 698, f. 117v-119r"
+      }
+    ]
   },
   "440": {
     "id": 440,
     "order": "323.00000000000000000000",
     "jad_id": "jad_occurence__440",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2309,
+        "value": "??",
+        "order": "2067.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 34,
+        "value": "Maz., MS 698",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "145r-150r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -13452,8 +13484,16 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-13",
-    "ms_locus": []
+    "last_modified_on": "2026-01-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 34,
+          "database_table_3497": 5
+        },
+        "value": "Maz., MS 698, f. 145r-150r"
+      }
+    ]
   },
   "441": {
     "id": 441,

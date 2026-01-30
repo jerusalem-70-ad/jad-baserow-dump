@@ -11382,7 +11382,7 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "link_digital_editions": "https://fedora.phaidra.univie.ac.at/fedora/objects/o:72111/methods/bdef:Book/view#",
+    "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb11925691?page=486,487",
     "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "Raymundi Martini Ordinis Praedicatorum Pugio Fidei Adversus Mauros Et Judaeos, Joseph de Voisin (Lipsiae 1687).",
@@ -22044,7 +22044,7 @@
     "author": [
       {
         "id": 289,
-        "value": "Iordanes Gotus",
+        "value": "Jordanes Gotus",
         "order": "221.00000000000000000000"
       }
     ],
@@ -28266,20 +28266,42 @@
   "712": {
     "id": 712,
     "order": "614.00000000000000000000",
-    "name": " ",
+    "name": "Ymagines Historiarum ",
     "jad_id": "jad_work__712",
-    "author": [],
+    "author": [
+      {
+        "id": 442,
+        "value": "Radulfus de Diceto",
+        "order": "288.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Ymagines Historiarum",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 17,
+        "value": "Rolls Series",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -28287,20 +28309,42 @@
   "713": {
     "id": 713,
     "order": "615.00000000000000000000",
-    "name": " ",
+    "name": "Parabolarium ",
     "jad_id": "jad_work__713",
-    "author": [],
+    "author": [
+      {
+        "id": 443,
+        "value": "Galand de Reigny",
+        "order": "289.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Parabolarium",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 8,
+        "value": "Sources Chrétiennes",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -28308,20 +28352,42 @@
   "714": {
     "id": 714,
     "order": "616.00000000000000000000",
-    "name": " ",
+    "name": "Liber de duobus principiis ",
     "jad_id": "jad_work__714",
-    "author": [],
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Liber de duobus principiis",
+    "genre": {
+      "id": 15026,
+      "value": "Polemics",
+      "color": "light-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 8,
+        "value": "Sources Chrétiennes",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""

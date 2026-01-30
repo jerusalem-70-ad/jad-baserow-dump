@@ -5216,6 +5216,66 @@
         },
         "next": {
           "id": "jad_work__712",
+          "label": "Ymagines Historiarum "
+        }
+      },
+      {
+        "id": 714,
+        "name": "Liber de duobus principiis ",
+        "jad_id": "jad_work__714",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Liber de duobus principiis",
+        "genre": {
+          "id": 15026,
+          "value": "Polemics",
+          "color": "light-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 8,
+            "name": "Sources Chrétiennes",
+            "jad_id": "jad_sources_occurrences__8",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Liber de duobus principiis ",
+        "prev": {
+          "id": "jad_work__713",
+          "label": "Parabolarium "
+        },
+        "next": {
+          "id": "jad_work__715",
           "label": " "
         }
       }
@@ -16502,7 +16562,7 @@
     "view_label": "non detectable",
     "prev": {
       "id": "jad_author__289",
-      "label": "Iordanes Gotus"
+      "label": "Jordanes Gotus"
     },
     "next": {
       "id": "jad_author__290",
@@ -27415,7 +27475,7 @@
             "value": "mid 13th cen."
           }
         ],
-        "link_digital_editions": "https://fedora.phaidra.univie.ac.at/fedora/objects/o:72111/methods/bdef:Book/view#",
+        "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb11925691?page=486,487",
         "author_certainty": true,
         "incipit": "",
         "volume_edition_or_individual_editor": "Raymundi Martini Ordinis Praedicatorum Pugio Fidei Adversus Mauros Et Judaeos, Joseph de Voisin (Lipsiae 1687).",
@@ -43611,7 +43671,12 @@
     "alt_name": "Jean, de Cheminot | Joannes, e Chiniveto | Jean, de Cheminet | Cheminot, Jean de | Johannes, e Chiniveto | Joannes, e Ciminetho | Iohannes, de Cheminot | Ioannes, de Ciminetho",
     "date_of_birth": "",
     "date_of_death": "",
-    "place": [],
+    "place": [
+      {
+        "id": 203,
+        "value": "Cheminot"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
     "view_label": "John of Cheminot",
@@ -43639,7 +43704,12 @@
             "alt_name": "Jean, de Cheminot | Joannes, e Chiniveto | Jean, de Cheminet | Cheminot, Jean de | Johannes, e Chiniveto | Joannes, e Ciminetho | Iohannes, de Cheminot | Ioannes, de Ciminetho",
             "date_of_birth": "",
             "date_of_death": "",
-            "place": [],
+            "place": [
+              {
+                "id": 203,
+                "value": "Cheminot"
+              }
+            ],
             "date_birth_certainty": true,
             "date_death_certainty": true
           }
@@ -44366,7 +44436,12 @@
     "alt_name": "Humbertus, Silvae Candidae | Hubert, de Moyenmoutier | Silvae Candidae, Humbertus | Silva Candida, Humbertus de | Humbert, a Silva Candida | Humbertus, Cardinalis | Humbertus, Siciliae | Humbertus, de Silva Candida | Humbertus, Sylvae Candidae | Humbert, von Moyenmoutier | Humbert, de Moyenmoutier",
     "date_of_birth": "",
     "date_of_death": "1061-05-05",
-    "place": [],
+    "place": [
+      {
+        "id": 19,
+        "value": "Rome"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
     "view_label": "Humbert of Silva Candida, Cardinal",
@@ -44394,7 +44469,12 @@
             "alt_name": "Humbertus, Silvae Candidae | Hubert, de Moyenmoutier | Silvae Candidae, Humbertus | Silva Candida, Humbertus de | Humbert, a Silva Candida | Humbertus, Cardinalis | Humbertus, Siciliae | Humbertus, de Silva Candida | Humbertus, Sylvae Candidae | Humbert, von Moyenmoutier | Humbert, de Moyenmoutier",
             "date_of_birth": "",
             "date_of_death": "1061-05-05",
-            "place": [],
+            "place": [
+              {
+                "id": 19,
+                "value": "Rome"
+              }
+            ],
             "date_birth_certainty": true,
             "date_death_certainty": true
           }
@@ -44461,7 +44541,12 @@
     "alt_name": "Victring, Johannes de | Johann von Viktring, Abbot | Johannes de Victoria, Abt | Johannes Victoriensis, Abbot | Johannes, de Viktring | Johannes de Viktring, Abbot | Johannes von Viktring, Abbot | Johannes de Victring, Abbé | Johannes de Victoria, Abbé | Johannes, de Victoria | Johannes de Victoria, Abbot | Viktring, Johannes von, Abbé | Victring, Johannes de, Abt | Johannes, von Viktring | Johannes de Victring, Abbot | Johannes von Viktring, Abt | Johannes de Viktring, Abbé | Jean de Victring, Abbot | Viktring, Johannes von, Abbot | Johann von Viktring, Abt | Johannes Victoriensis, Abt | Jean de Victring, Abt | Johannes, Victoriensis | Jean de Victring, Abbé | Johann von Viktring, Abbé | Johannes, Victringensis | Johannes Victringensis, Abbot | Johannes Victringensis, Abt | Johannes von Viktring, Abbé | Johann, von Viktring | Victring, Johannes de, Abbé | Johannes de Viktring, Abt | Viktring, Johannes von | Johannes Victringensis, Abbé | Viktring, Johannes von, Abt | Johannes, Abbas | Victring, Johannes de, Abbot | Johannes Victoriensis, Abbé | Jean, de Victring",
     "date_of_birth": "",
     "date_of_death": "1345",
-    "place": [],
+    "place": [
+      {
+        "id": 204,
+        "value": "Klagenfurt"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
     "view_label": "John of Victring",
@@ -44471,7 +44556,7 @@
     },
     "next": {
       "id": "jad_author__289",
-      "label": "Iordanes Gotus"
+      "label": "Jordanes Gotus"
     },
     "related__works": [
       {
@@ -44489,7 +44574,12 @@
             "alt_name": "Victring, Johannes de | Johann von Viktring, Abbot | Johannes de Victoria, Abt | Johannes Victoriensis, Abbot | Johannes, de Viktring | Johannes de Viktring, Abbot | Johannes von Viktring, Abbot | Johannes de Victring, Abbé | Johannes de Victoria, Abbé | Johannes, de Victoria | Johannes de Victoria, Abbot | Viktring, Johannes von, Abbé | Victring, Johannes de, Abt | Johannes, von Viktring | Johannes de Victring, Abbot | Johannes von Viktring, Abt | Johannes de Viktring, Abbé | Jean de Victring, Abbot | Viktring, Johannes von, Abbot | Johann von Viktring, Abt | Johannes Victoriensis, Abt | Jean de Victring, Abt | Johannes, Victoriensis | Jean de Victring, Abbé | Johann von Viktring, Abbé | Johannes, Victringensis | Johannes Victringensis, Abbot | Johannes Victringensis, Abt | Johannes von Viktring, Abbé | Johann, von Viktring | Victring, Johannes de, Abbé | Johannes de Viktring, Abt | Viktring, Johannes von | Johannes Victringensis, Abbé | Viktring, Johannes von, Abt | Johannes, Abbas | Victring, Johannes de, Abbot | Johannes Victoriensis, Abbé | Jean, de Victring",
             "date_of_birth": "",
             "date_of_death": "1345",
-            "place": [],
+            "place": [
+              {
+                "id": 204,
+                "value": "Klagenfurt"
+              }
+            ],
             "date_birth_certainty": true,
             "date_death_certainty": true
           }
@@ -44538,7 +44628,7 @@
   },
   "289": {
     "id": 289,
-    "name": "Iordanes Gotus",
+    "name": "Jordanes Gotus",
     "jad_id": "jad_author__289",
     "gnd_url": "https://d-nb.info/gnd/118891472",
     "notes": "",
@@ -44546,10 +44636,15 @@
     "alt_name": "Jornandes | Jordanus, de Ravenna | Iordan | Jordanes, de Ravenne | Iordanes, Alanus | Jordanis, Episcopus | Iordanes | Jordan | Iornandes, Ravenna, Episcopus | Gotus, Iordanes | Jordanus, Ravennas | Iornandes, Alanus | Jordanus, Ravenna, Episcopus | Iornandes | Jorandes | Iordanus, Gotus | Jordanes, Historien des Goths | Jordanes, Evêque de Ravenne | Iordanus | Iordanes, Episcopus | Jordanus | Jordanes | Jordanes, Gotus | Iordanes, de Ravenna | Jornandes, Gotus | Jordanis | Jordanis, de Ravenne",
     "date_of_birth": "",
     "date_of_death": "",
-    "place": [],
+    "place": [
+      {
+        "id": 127,
+        "value": "Ravenna"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Iordanes Gotus",
+    "view_label": "Jordanes Gotus",
     "prev": {
       "id": "jad_author__288",
       "label": "John of Victring"
@@ -44566,7 +44661,7 @@
         "author": [
           {
             "id": 289,
-            "name": "Iordanes Gotus",
+            "name": "Jordanes Gotus",
             "jad_id": "jad_author__289",
             "gnd_url": "https://d-nb.info/gnd/118891472",
             "notes": "",
@@ -44574,7 +44669,12 @@
             "alt_name": "Jornandes | Jordanus, de Ravenna | Iordan | Jordanes, de Ravenne | Iordanes, Alanus | Jordanis, Episcopus | Iordanes | Jordan | Iornandes, Ravenna, Episcopus | Gotus, Iordanes | Jordanus, Ravennas | Iornandes, Alanus | Jordanus, Ravenna, Episcopus | Iornandes | Jorandes | Iordanus, Gotus | Jordanes, Historien des Goths | Jordanes, Evêque de Ravenne | Iordanus | Iordanes, Episcopus | Jordanus | Jordanes | Jordanes, Gotus | Iordanes, de Ravenna | Jornandes, Gotus | Jordanis | Jordanis, de Ravenne",
             "date_of_birth": "",
             "date_of_death": "",
-            "place": [],
+            "place": [
+              {
+                "id": 127,
+                "value": "Ravenna"
+              }
+            ],
             "date_birth_certainty": true,
             "date_death_certainty": true
           }
@@ -44631,7 +44731,12 @@
     "alt_name": "Lambertus, Schaffnaburgensis | Landebertus, Schafnaburgensis | Lambertus, Aschaffenburgensis | Lampert, von Hersfeld, Hasungen, Abt | Lampert von Hersfeld | Lambertus, Haserensis | Lantpertus, Schafnaburgensis | Lambert von Hersfeld | Lambert, a Hersfeld | Lampertus, Hersfeldensis | Lambertus, Schafnaburgensis | Lambert, Hersfeldensis | Lambertus, Aschafnaburgensis | Lambert, von Aschaffenburg | Lambertus, Hersfeldensis | Lambert, von Hersfeld | Lampertus, Monachus Hersfeldensis | Lambertus, von Hersfeld",
     "date_of_birth": "1025",
     "date_of_death": "1081",
-    "place": [],
+    "place": [
+      {
+        "id": 205,
+        "value": "Hersfeld"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
     "view_label": "Lampert of Hersfeld",
@@ -44659,7 +44764,12 @@
             "alt_name": "Lambertus, Schaffnaburgensis | Landebertus, Schafnaburgensis | Lambertus, Aschaffenburgensis | Lampert, von Hersfeld, Hasungen, Abt | Lampert von Hersfeld | Lambertus, Haserensis | Lantpertus, Schafnaburgensis | Lambert von Hersfeld | Lambert, a Hersfeld | Lampertus, Hersfeldensis | Lambertus, Schafnaburgensis | Lambert, Hersfeldensis | Lambertus, Aschafnaburgensis | Lambert, von Aschaffenburg | Lambertus, Hersfeldensis | Lambert, von Hersfeld | Lampertus, Monachus Hersfeldensis | Lambertus, von Hersfeld",
             "date_of_birth": "1025",
             "date_of_death": "1081",
-            "place": [],
+            "place": [
+              {
+                "id": 205,
+                "value": "Hersfeld"
+              }
+            ],
             "date_birth_certainty": true,
             "date_death_certainty": true
           }
@@ -44981,7 +45091,12 @@
     "alt_name": "Marcelino, Amiano | Ammianus Marcellinus | Ammiano, Geografo | Marcellin, Ammien | Ammian, Marcellin | Marcellino, Ammiano | Amiano, Marcelino | Ammien, Marcellin | Ammianus, Antiochenus | Ammiano, Marcellino | Ammianus, von Antiocheia | Marcellinus, Ammianus | Ammianus, Historicus | Ammianus, Marcellinus",
     "date_of_birth": "0330",
     "date_of_death": "0395",
-    "place": [],
+    "place": [
+      {
+        "id": 138,
+        "value": "Syria"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
     "view_label": "Ammianus Marcellinus",
@@ -45009,7 +45124,12 @@
             "alt_name": "Marcelino, Amiano | Ammianus Marcellinus | Ammiano, Geografo | Marcellin, Ammien | Ammian, Marcellin | Marcellino, Ammiano | Amiano, Marcelino | Ammien, Marcellin | Ammianus, Antiochenus | Ammiano, Marcellino | Ammianus, von Antiocheia | Marcellinus, Ammianus | Ammianus, Historicus | Ammianus, Marcellinus",
             "date_of_birth": "0330",
             "date_of_death": "0395",
-            "place": [],
+            "place": [
+              {
+                "id": 138,
+                "value": "Syria"
+              }
+            ],
             "date_birth_certainty": true,
             "date_death_certainty": true
           }
@@ -45956,7 +46076,12 @@
     "alt_name": "Aurelius Victor Afer, Sextus | Aurelius Victor, Afer | Aurelius Victor | Aurelius Victor, von Afrika | Victor, Sexto Aurelio | Aurelius, Victor | Victor, Sextus Aurelius | Pseudo-Aurélius Victor, franz. Form | Aurelio Vittore, Sesto | Aurelius | Aurelio Victor, Sexto | Vittore, Sesto Aurelio | Aurelius Victor, Historiker | Victor | Pseudo-Aurélius Victor | Afer, Sextus Aurelius Victor | Victor, Aurelius | Victor, Afer | Ps. Aurelius Victor | Victor, Sextus A.",
     "date_of_birth": "0320",
     "date_of_death": "0390",
-    "place": [],
+    "place": [
+      {
+        "id": 19,
+        "value": "Rome"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
     "view_label": "Aurelius Victor Sextus",
@@ -45984,7 +46109,12 @@
             "alt_name": "Aurelius Victor Afer, Sextus | Aurelius Victor, Afer | Aurelius Victor | Aurelius Victor, von Afrika | Victor, Sexto Aurelio | Aurelius, Victor | Victor, Sextus Aurelius | Pseudo-Aurélius Victor, franz. Form | Aurelio Vittore, Sesto | Aurelius | Aurelio Victor, Sexto | Vittore, Sesto Aurelio | Aurelius Victor, Historiker | Victor | Pseudo-Aurélius Victor | Afer, Sextus Aurelius Victor | Victor, Aurelius | Victor, Afer | Ps. Aurelius Victor | Victor, Sextus A.",
             "date_of_birth": "0320",
             "date_of_death": "0390",
-            "place": [],
+            "place": [
+              {
+                "id": 19,
+                "value": "Rome"
+              }
+            ],
             "date_birth_certainty": true,
             "date_death_certainty": true
           }
@@ -46044,7 +46174,12 @@
             "alt_name": "Aurelius Victor Afer, Sextus | Aurelius Victor, Afer | Aurelius Victor | Aurelius Victor, von Afrika | Victor, Sexto Aurelio | Aurelius, Victor | Victor, Sextus Aurelius | Pseudo-Aurélius Victor, franz. Form | Aurelio Vittore, Sesto | Aurelius | Aurelio Victor, Sexto | Vittore, Sesto Aurelio | Aurelius Victor, Historiker | Victor | Pseudo-Aurélius Victor | Afer, Sextus Aurelius Victor | Victor, Aurelius | Victor, Afer | Ps. Aurelius Victor | Victor, Sextus A.",
             "date_of_birth": "0320",
             "date_of_death": "0390",
-            "place": [],
+            "place": [
+              {
+                "id": 19,
+                "value": "Rome"
+              }
+            ],
             "date_birth_certainty": true,
             "date_death_certainty": true
           }
@@ -46101,7 +46236,12 @@
     "alt_name": "Bartholomaeus, Urbinensis | Bartholomaeus, de Carusis | Bartholomäus, von Urbino | Bartholomaeus, Urbinas | Carusis, Bartholomaeus de | Bartholomaeus Simeon, de Carusis | Bartholomaeus, Simonis de Carusis | Urbino, Bartholomaeus de | Bartholomaeus, Tainti",
     "date_of_birth": "",
     "date_of_death": "1350",
-    "place": [],
+    "place": [
+      {
+        "id": 207,
+        "value": "Urbino"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
     "view_label": "Bartholomaeus de Urbino",
@@ -46129,7 +46269,12 @@
             "alt_name": "Bartholomaeus, Urbinensis | Bartholomaeus, de Carusis | Bartholomäus, von Urbino | Bartholomaeus, Urbinas | Carusis, Bartholomaeus de | Bartholomaeus Simeon, de Carusis | Bartholomaeus, Simonis de Carusis | Urbino, Bartholomaeus de | Bartholomaeus, Tainti",
             "date_of_birth": "",
             "date_of_death": "1350",
-            "place": [],
+            "place": [
+              {
+                "id": 207,
+                "value": "Urbino"
+              }
+            ],
             "date_birth_certainty": true,
             "date_death_certainty": true
           }
@@ -46186,7 +46331,12 @@
     "alt_name": "Cuonrad, Cantor | Mure, Conrad von | Konrad, de Mure | Conrado | Conradus, Thuricensis | Conrad | Mure, Conradus de | Conradus | Conrad, von Mure | Conradus, de Mure | Konrad | Conradus, Tigorinus | Conrad, Thuricensis | Cuonradus, Cantor | Mure, Konrad von | Conradus, Murensis | Conrad, de Mure | Von Mure, Konrad | Conradus, Turicensis | Conrado, a Mure | Conradus, Presbyter | De Mure, Conradus | Conradus, Fabularius | Conradus, Cantor",
     "date_of_birth": "1210",
     "date_of_death": "1281-03-30",
-    "place": [],
+    "place": [
+      {
+        "id": 206,
+        "value": "Muri"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
     "view_label": "Conrad of Mure",
@@ -46214,7 +46364,12 @@
             "alt_name": "Cuonrad, Cantor | Mure, Conrad von | Konrad, de Mure | Conrado | Conradus, Thuricensis | Conrad | Mure, Conradus de | Conradus | Conrad, von Mure | Conradus, de Mure | Konrad | Conradus, Tigorinus | Conrad, Thuricensis | Cuonradus, Cantor | Mure, Konrad von | Conradus, Murensis | Conrad, de Mure | Von Mure, Konrad | Conradus, Turicensis | Conrado, a Mure | Conradus, Presbyter | De Mure, Conradus | Conradus, Fabularius | Conradus, Cantor",
             "date_of_birth": "1210",
             "date_of_death": "1281-03-30",
-            "place": [],
+            "place": [
+              {
+                "id": 206,
+                "value": "Muri"
+              }
+            ],
             "date_birth_certainty": true,
             "date_death_certainty": true
           }
@@ -51324,7 +51479,7 @@
     },
     "next": {
       "id": "jad_author__442",
-      "label": ""
+      "label": "Radulfus de Diceto"
     },
     "related__works": [
       {
@@ -51396,51 +51551,193 @@
   },
   "442": {
     "id": 442,
-    "name": "",
+    "name": "Radulfus de Diceto",
     "jad_id": "jad_author__442",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100958842",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Rodolphe, de Diceto | Ralph, de Dissay | Diceto, Ralph de | Radulf, von Diceto | Radulphus, de Diceto | Radulfus, Londinensis | Robertus, de Diceto | Diceto, Radulfus de | Raoul, de Diceto | Ralph, von Diceto | Diceto, Radulphus de | Ralf, de Diceto",
     "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "date_of_death": "1202",
+    "place": [
+      {
+        "id": 5,
+        "value": "London"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "",
+    "view_label": "Radulfus de Diceto",
     "prev": {
       "id": "jad_author__441",
       "label": "Jansen Enikel"
     },
     "next": {
       "id": "jad_author__443",
-      "label": ""
+      "label": "Galand de Reigny"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 712,
+        "name": "Ymagines Historiarum ",
+        "jad_id": "jad_work__712",
+        "author": [
+          {
+            "id": 442,
+            "name": "Radulfus de Diceto",
+            "jad_id": "jad_author__442",
+            "gnd_url": "https://d-nb.info/gnd/100958842",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Rodolphe, de Diceto | Ralph, de Dissay | Diceto, Ralph de | Radulf, von Diceto | Radulphus, de Diceto | Radulfus, Londinensis | Robertus, de Diceto | Diceto, Radulfus de | Raoul, de Diceto | Ralph, von Diceto | Diceto, Radulphus de | Ralf, de Diceto",
+            "date_of_birth": "",
+            "date_of_death": "1202",
+            "place": [
+              {
+                "id": 5,
+                "value": "London"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Ymagines Historiarum",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 17,
+            "name": "Rolls Series",
+            "jad_id": "jad_sources_occurrences__17",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Ymagines Historiarum ",
+        "prev": {
+          "id": "jad_work__711",
+          "label": "Catalogus imperatorum et pontificum Romanorum Cencianus "
+        },
+        "next": {
+          "id": "jad_work__713",
+          "label": "Parabolarium "
+        }
+      }
+    ]
   },
   "443": {
     "id": 443,
-    "name": "",
+    "name": "Galand de Reigny",
     "jad_id": "jad_author__443",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102469962",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Galand, de Regny | Galland, de Reigny | Galland, de Rigny | Reigny, Galand de | Galland, de Regny | Galand, de Rigny | Galand, de Reigny | Galland, di Rigny | Gallandus, de Reigny | Galandus, Cisterciensis | Galandus, Rigniacensis | Gallandus, Regniacensis | Galandus, de Regniacum",
     "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "date_of_death": "1128",
+    "place": [
+      {
+        "id": 208,
+        "value": "Regny"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "",
+    "view_label": "Galand de Reigny",
     "prev": {
       "id": "jad_author__442",
-      "label": ""
+      "label": "Radulfus de Diceto"
     },
     "next": {
       "id": "jad_author__444",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 713,
+        "name": "Parabolarium ",
+        "jad_id": "jad_work__713",
+        "author": [
+          {
+            "id": 443,
+            "name": "Galand de Reigny",
+            "jad_id": "jad_author__443",
+            "gnd_url": "https://d-nb.info/gnd/102469962",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Galand, de Regny | Galland, de Reigny | Galland, de Rigny | Reigny, Galand de | Galland, de Regny | Galand, de Rigny | Galand, de Reigny | Galland, di Rigny | Gallandus, de Reigny | Galandus, Cisterciensis | Galandus, Rigniacensis | Gallandus, Regniacensis | Galandus, de Regniacum",
+            "date_of_birth": "",
+            "date_of_death": "1128",
+            "place": [
+              {
+                "id": 208,
+                "value": "Regny"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Parabolarium",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 8,
+            "name": "Sources Chrétiennes",
+            "jad_id": "jad_sources_occurrences__8",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 3,
+            "value": "early 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Parabolarium ",
+        "prev": {
+          "id": "jad_work__712",
+          "label": "Ymagines Historiarum "
+        },
+        "next": {
+          "id": "jad_work__714",
+          "label": "Liber de duobus principiis "
+        }
+      }
+    ]
   },
   "444": {
     "id": 444,
@@ -51458,7 +51755,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__443",
-      "label": ""
+      "label": "Galand de Reigny"
     },
     "next": {
       "id": "jad_author__445",
