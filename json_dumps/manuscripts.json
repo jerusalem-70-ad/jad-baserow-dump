@@ -2771,7 +2771,7 @@
       }
     ],
     "idno": "theol. lat. fol. 595",
-    "catalog_url": "",
+    "catalog_url": "https://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/handschriften-und-historische-drucke/sammlungen/abendlaendische-handschriften/signaturenuebersicht?action=permalink&request=60007078%7C90701263%2CT",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [
@@ -6464,16 +6464,38 @@
   "205": {
     "id": 205,
     "order": "173.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, lat. 814"
+      }
+    ],
     "jad_id": "jad_manuscript__205",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "lat. 814",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc785708/cd0e76",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b8446788s/f258.item.zoom",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 78,
+        "value": "late 15th cen.",
+        "order": "77.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
   },
   "206": {
     "id": 206,

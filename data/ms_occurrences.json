@@ -15475,15 +15475,25 @@
     },
     "next": {
       "id": "jad_occurence__441",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     }
   },
   "441": {
     "id": 441,
     "jad_id": "jad_occurence__441",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 205,
+        "value": "BNF, lat. 814"
+      }
+    ],
+    "position_in_ms": "122r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -15495,9 +15505,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-01-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-05",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 205,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 814, f. 122r"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
     "prev": {
       "id": "jad_occurence__440",
       "label": "??"
@@ -15529,7 +15547,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__441",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     },
     "next": {
       "id": "jad_occurence__443",

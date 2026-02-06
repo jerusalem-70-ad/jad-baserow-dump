@@ -4518,7 +4518,7 @@
       }
     ],
     "idno": "theol. lat. fol. 595",
-    "catalog_url": "",
+    "catalog_url": "https://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/handschriften-und-historische-drucke/sammlungen/abendlaendische-handschriften/signaturenuebersicht?action=permalink&request=60007078%7C90701263%2CT",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [
@@ -10231,22 +10231,55 @@
     },
     "next": {
       "id": "jad_manuscript__205",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, lat. 814"
     }
   },
   "205": {
     "id": 205,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, lat. 814"
+      }
+    ],
     "jad_id": "jad_manuscript__205",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "lat. 814",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc785708/cd0e76",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b8446788s/f258.item.zoom",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 78,
+        "value": "late 15th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, lat. 814",
     "prev": {
       "id": "jad_manuscript__204",
       "label": "BSB, Clm 18227"
@@ -10271,7 +10304,7 @@
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
       "id": "jad_manuscript__205",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, lat. 814"
     },
     "next": {
       "id": "jad_manuscript__207",
