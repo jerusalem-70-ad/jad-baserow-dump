@@ -5276,7 +5276,76 @@
         },
         "next": {
           "id": "jad_work__715",
-          "label": " "
+          "label": "Sermones "
+        }
+      },
+      {
+        "id": 715,
+        "name": "Sermones ",
+        "jad_id": "jad_work__715",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 133,
+            "value": "BNF, lat. 3785"
+          },
+          {
+            "id": 207,
+            "value": "Vat., S.Maria.Magg.122"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 9,
+            "value": "around 1200"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__714",
+          "label": "Liber de duobus principiis "
+        },
+        "next": {
+          "id": "jad_work__72",
+          "label": "Collectiones in epistolas et evangelia "
         }
       }
     ]
@@ -20574,7 +20643,7 @@
         "view_label": "Collectiones in epistolas et evangelia ",
         "prev": {
           "id": "jad_work__715",
-          "label": " "
+          "label": "Sermones "
         },
         "next": {
           "id": "jad_work__73",

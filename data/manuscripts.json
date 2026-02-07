@@ -1347,7 +1347,7 @@
     "view_label": "BNF, Latin 3281",
     "prev": {
       "id": "jad_manuscript__209",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Bibl. Laurenziana, Plut. 18.23"
     },
     "next": {
       "id": "jad_manuscript__210",
@@ -10286,91 +10286,218 @@
     },
     "next": {
       "id": "jad_manuscript__206",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Karlsruhe, Aug. perg. 37"
     }
   },
   "206": {
     "id": 206,
-    "name": [],
+    "name": [
+      {
+        "id": 27,
+        "value": "Karlsruhe, Aug. perg. 37"
+      }
+    ],
     "jad_id": "jad_manuscript__206",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 27,
+        "value": "Karlsruhe",
+        "jad_id": "jad_library__27",
+        "gnd_url": "https://d-nb.info/gnd/2005707-6",
+        "full_name": "Karlsruhe, Badische Landesbibliothek",
+        "place": [
+          {
+            "id": 26,
+            "name": "Karlsruhe",
+            "geonames_url": "https://www.geonames.org/2892794/karlsruhe.html",
+            "jad_id": "jad_places__26",
+            "lat": "49.00937",
+            "long": "8.40444"
+          }
+        ]
+      }
+    ],
+    "idno": "Aug. perg. 37",
+    "catalog_url": "https://digital.blb-karlsruhe.de/urn/urn:nbn:de:bsz:31-6715",
+    "digi_url": "https://digital.blb-karlsruhe.de/urn/urn:nbn:de:bsz:31-6715",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 60,
+        "value": "mid 10th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 27,
+        "value": "Karlsruhe, Badische Landesbibliothek"
+      }
+    ],
+    "view_label": "Karlsruhe, Aug. perg. 37",
     "prev": {
       "id": "jad_manuscript__205",
       "label": "BNF, lat. 814"
     },
     "next": {
       "id": "jad_manuscript__207",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Vat., S.Maria.Magg.122"
     }
   },
   "207": {
     "id": 207,
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., S.Maria.Magg.122"
+      }
+    ],
     "jad_id": "jad_manuscript__207",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "jad_id": "jad_library__38",
+        "gnd_url": "https://d-nb.info/gnd/1003302-6",
+        "full_name": "Biblioteca Apostolica Vaticana",
+        "place": [
+          {
+            "id": 19,
+            "name": "Rome",
+            "geonames_url": "https://www.geonames.org/3169070/rome.html",
+            "jad_id": "jad_places__19",
+            "lat": "41.89193",
+            "long": "12.51133"
+          }
+        ]
+      }
+    ],
+    "idno": "S.Maria.Magg.122",
+    "catalog_url": "https://digi.vatlib.it/mss/detail/S.Maria.Magg.122",
+    "digi_url": "https://digi.vatlib.it/view/MSS_S.Maria.Magg.122",
     "institutional_context": [],
     "date_written": [],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ],
+    "view_label": "Vat., S.Maria.Magg.122",
     "prev": {
       "id": "jad_manuscript__206",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Karlsruhe, Aug. perg. 37"
     },
     "next": {
       "id": "jad_manuscript__208",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Bibl. Laurenziana, Plut. 16.42"
     }
   },
   "208": {
     "id": 208,
-    "name": [],
+    "name": [
+      {
+        "id": 37,
+        "value": "Bibl. Laurenziana, Plut. 16.42"
+      }
+    ],
     "jad_id": "jad_manuscript__208",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 37,
+        "value": "Bibl. Laurenziana",
+        "jad_id": "jad_library__37",
+        "gnd_url": "https://d-nb.info/gnd/1019149-5",
+        "full_name": "Biblioteca Medicea Laurenziana",
+        "place": [
+          {
+            "id": 11,
+            "name": "Florence",
+            "geonames_url": "https://www.geonames.org/3176959/florence.html",
+            "jad_id": "jad_places__11",
+            "lat": "43.77925",
+            "long": "11.24626"
+          }
+        ]
+      }
+    ],
+    "idno": "Plut. 16.42",
+    "catalog_url": "https://cdm21059.contentdm.oclc.org/digital/collection/cataloghi/id/1008",
+    "digi_url": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/1443901/rec/15",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 68,
+        "value": "11th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 37,
+        "value": "Biblioteca Medicea Laurenziana"
+      }
+    ],
+    "view_label": "Bibl. Laurenziana, Plut. 16.42",
     "prev": {
       "id": "jad_manuscript__207",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Vat., S.Maria.Magg.122"
     },
     "next": {
       "id": "jad_manuscript__209",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Bibl. Laurenziana, Plut. 18.23"
     }
   },
   "209": {
     "id": 209,
-    "name": [],
+    "name": [
+      {
+        "id": 37,
+        "value": "Bibl. Laurenziana, Plut. 18.23"
+      }
+    ],
     "jad_id": "jad_manuscript__209",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 37,
+        "value": "Bibl. Laurenziana",
+        "jad_id": "jad_library__37",
+        "gnd_url": "https://d-nb.info/gnd/1019149-5",
+        "full_name": "Biblioteca Medicea Laurenziana",
+        "place": [
+          {
+            "id": 11,
+            "name": "Florence",
+            "geonames_url": "https://www.geonames.org/3176959/florence.html",
+            "jad_id": "jad_places__11",
+            "lat": "43.77925",
+            "long": "11.24626"
+          }
+        ]
+      }
+    ],
+    "idno": "Plut. 18.23",
+    "catalog_url": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/300658/rec/4",
+    "digi_url": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/300658/rec/4",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 2,
+        "value": "12th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 37,
+        "value": "Biblioteca Medicea Laurenziana"
+      }
+    ],
+    "view_label": "Bibl. Laurenziana, Plut. 18.23",
     "prev": {
       "id": "jad_manuscript__208",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Bibl. Laurenziana, Plut. 16.42"
     },
     "next": {
       "id": "jad_manuscript__21",
