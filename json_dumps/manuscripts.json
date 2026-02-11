@@ -6848,8 +6848,182 @@
   "244": {
     "id": 244,
     "order": "184.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, lat.  3827"
+      }
+    ],
     "jad_id": "jad_manuscript__244",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "lat.  3827",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61792f",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b9077787r/f53.item.zoom",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
+  },
+  "245": {
+    "id": 245,
+    "order": "185.00000000000000000000",
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 14039"
+      }
+    ],
+    "jad_id": "jad_manuscript__245",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "idno": "Clm 14039",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991008057109707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%2014039&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00152425?page=348,349",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 33,
+        "value": "mid 11th cen.",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ]
+  },
+  "276": {
+    "id": 276,
+    "order": "186.00000000000000000000",
+    "name": [
+      {
+        "id": 19,
+        "value": "Frankfurt, Barth. 41"
+      }
+    ],
+    "jad_id": "jad_manuscript__276",
+    "library": [
+      {
+        "id": 19,
+        "value": "Frankfurt",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "idno": "Barth. 41",
+    "catalog_url": "https://sammlungen.ub.uni-frankfurt.de/msma/content/titleinfo/3593097",
+    "digi_url": "https://sammlungen.ub.uni-frankfurt.de/msma/content/pageview/3593520",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 3,
+        "value": "early 12th cen.",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 19,
+        "value": "Frankfurt, Universitatsbibliothek"
+      }
+    ]
+  },
+  "277": {
+    "id": 277,
+    "order": "187.00000000000000000000",
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Reg.lat.38"
+      }
+    ],
+    "jad_id": "jad_manuscript__277",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Reg.lat.38",
+    "catalog_url": "https://digi.vatlib.it/mss/detail/Reg.lat.38",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Reg.lat.38",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
+  },
+  "278": {
+    "id": 278,
+    "order": "188.00000000000000000000",
+    "name": [
+      {
+        "id": 50,
+        "value": "Lille, MS 814"
+      }
+    ],
+    "jad_id": "jad_manuscript__278",
+    "library": [
+      {
+        "id": 50,
+        "value": "Lille",
+        "order": "44.00000000000000000000"
+      }
+    ],
+    "idno": "MS 814",
+    "catalog_url": "https://arca.irht.cnrs.fr/ark:/63955/md98z890vb4v",
+    "digi_url": "https://arca.irht.cnrs.fr/ark:/63955/md98z890vb4v",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 2,
+        "value": "12th cen.",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 50,
+        "value": "Lille, Bibliothèque municipale"
+      }
+    ]
+  },
+  "279": {
+    "id": 279,
+    "order": "189.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__279",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -6859,11 +7033,39 @@
     "format": "",
     "library_full": []
   },
-  "245": {
-    "id": 245,
-    "order": "185.00000000000000000000",
+  "280": {
+    "id": 280,
+    "order": "190.00000000000000000000",
     "name": [],
-    "jad_id": "jad_manuscript__245",
+    "jad_id": "jad_manuscript__280",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "281": {
+    "id": 281,
+    "order": "191.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__281",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "282": {
+    "id": 282,
+    "order": "192.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__282",
     "library": [],
     "idno": "",
     "catalog_url": "",

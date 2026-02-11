@@ -20148,8 +20148,8 @@
       "label": "Glossa Ordinaria"
     },
     "next": {
-      "id": "jad_author__48",
-      "label": "Ekkehart of Aura"
+      "id": "jad_author__475",
+      "label": ""
     },
     "related__works": [
       {
@@ -20239,12 +20239,12 @@
     "date_death_certainty": true,
     "view_label": "Ekkehart of Aura",
     "prev": {
-      "id": "jad_author__47",
-      "label": "Ado of Vienne"
+      "id": "jad_author__479",
+      "label": ""
     },
     "next": {
-      "id": "jad_author__49",
-      "label": "Amulo Lugdunensis"
+      "id": "jad_author__480",
+      "label": ""
     },
     "related__works": [
       {
@@ -20334,8 +20334,8 @@
     "date_death_certainty": true,
     "view_label": "Amulo Lugdunensis",
     "prev": {
-      "id": "jad_author__48",
-      "label": "Ekkehart of Aura"
+      "id": "jad_author__480",
+      "label": ""
     },
     "next": {
       "id": "jad_author__5",
@@ -20752,7 +20752,7 @@
         },
         "next": {
           "id": "jad_work__739",
-          "label": " "
+          "label": "Liber de predicatione "
         }
       },
       {
@@ -20823,7 +20823,7 @@
         "view_label": "Commentarius in Nahum ",
         "prev": {
           "id": "jad_work__739",
-          "label": " "
+          "label": "Liber de predicatione "
         },
         "next": {
           "id": "jad_work__740",
@@ -51738,7 +51738,7 @@
     },
     "next": {
       "id": "jad_author__444",
-      "label": ""
+      "label": "Raimundus Lullus"
     },
     "related__works": [
       {
@@ -51810,18 +51810,23 @@
   },
   "444": {
     "id": 444,
-    "name": "",
+    "name": "Raimundus Lullus",
     "jad_id": "jad_author__444",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118575279",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "alt_name": "Lulio, Raymundo | Lullius, Remondus | Llull, Ramón | Lullius, Raymund | Lullus, Raymundus | Remundus, Eremita | Raimondo, Lullo | Raimundus Lullus | Lullius, Pharamundus Reimundus | Ramón, Lull | Lullus, Rainmundus | Lullius, Raimondus | Lull, Raimund | Lullo, Raimondo | Raymond, Lulle | Ramón, Llull | Raimundus, Lullius | Ramon, Lull | Lulius, Raimundus | Raymundus, Lullus | Lullius, Raemundus | Raimundus, Lullus | Lulio, Raimundo | Lvllvs, Raimvndvs | Pseudo-Raimundus, Lullus | Lulle, Raymond | Lull, Ramón | Raymond, Lull | Lull, Rajmund | Lullus, Raemondus | Lull, Raymond | Lully, Reymund | Lullius, Raymundus | Llull, Remon | Lulius, Raymundus | Lullus, Raimondus | Lullius, Raemondus | Raimundus, Beatus | Lullius, Raimundus | Lulle, R. | Raimundus Lulius | Rajmund, Llull | Raimundus, Eremita | Raimundo, Lulio | Raimund, Lull | Lullus, Remondus | Lullus, Raemundus | Rhaimundus | Raymond, l'Eremite",
+    "date_of_birth": "1232",
+    "date_of_death": "1315",
+    "place": [
+      {
+        "id": 239,
+        "value": "Mallorca"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "",
+    "view_label": "Raimundus Lullus",
     "prev": {
       "id": "jad_author__443",
       "label": "Galand de Reigny"
@@ -51830,7 +51835,73 @@
       "id": "jad_author__445",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 739,
+        "name": "Liber de predicatione ",
+        "jad_id": "jad_work__739",
+        "author": [
+          {
+            "id": 444,
+            "name": "Raimundus Lullus",
+            "jad_id": "jad_author__444",
+            "gnd_url": "https://d-nb.info/gnd/118575279",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Lulio, Raymundo | Lullius, Remondus | Llull, Ramón | Lullius, Raymund | Lullus, Raymundus | Remundus, Eremita | Raimondo, Lullo | Raimundus Lullus | Lullius, Pharamundus Reimundus | Ramón, Lull | Lullus, Rainmundus | Lullius, Raimondus | Lull, Raimund | Lullo, Raimondo | Raymond, Lulle | Ramón, Llull | Raimundus, Lullius | Ramon, Lull | Lulius, Raimundus | Raymundus, Lullus | Lullius, Raemundus | Raimundus, Lullus | Lulio, Raimundo | Lvllvs, Raimvndvs | Pseudo-Raimundus, Lullus | Lulle, Raymond | Lull, Ramón | Raymond, Lull | Lull, Rajmund | Lullus, Raemondus | Lull, Raymond | Lully, Reymund | Lullius, Raymundus | Llull, Remon | Lulius, Raymundus | Lullus, Raimondus | Lullius, Raemondus | Raimundus, Beatus | Lullius, Raimundus | Lulle, R. | Raimundus Lulius | Rajmund, Llull | Raimundus, Eremita | Raimundo, Lulio | Raimund, Lull | Lullus, Remondus | Lullus, Raemundus | Rhaimundus | Raymond, l'Eremite",
+            "date_of_birth": "1232",
+            "date_of_death": "1315",
+            "place": [
+              {
+                "id": 239,
+                "value": "Mallorca"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Liber de predicatione",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 17,
+            "value": "around 1300"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Liber de praedicatione, ed. Abraham Soria Flores (Mallorca 1963).",
+        "other_editions": "",
+        "view_label": "Liber de predicatione ",
+        "prev": {
+          "id": "jad_work__73",
+          "label": "De comprobatione sextae aetatis "
+        },
+        "next": {
+          "id": "jad_work__74",
+          "label": "Commentarius in Nahum "
+        }
+      }
+    ]
   },
   "445": {
     "id": 445,
@@ -51848,11 +51919,155 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__444",
-      "label": ""
+      "label": "Raimundus Lullus"
     },
     "next": {
       "id": "jad_author__45",
       "label": "Andrew of Saint Victor"
+    },
+    "related__works": []
+  },
+  "475": {
+    "id": 475,
+    "name": "",
+    "jad_id": "jad_author__475",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__47",
+      "label": "Ado of Vienne"
+    },
+    "next": {
+      "id": "jad_author__476",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "476": {
+    "id": 476,
+    "name": "",
+    "jad_id": "jad_author__476",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__475",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__477",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "477": {
+    "id": 477,
+    "name": "",
+    "jad_id": "jad_author__477",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__476",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__478",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "478": {
+    "id": 478,
+    "name": "",
+    "jad_id": "jad_author__478",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__477",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__479",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "479": {
+    "id": 479,
+    "name": "",
+    "jad_id": "jad_author__479",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__478",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__48",
+      "label": "Ekkehart of Aura"
+    },
+    "related__works": []
+  },
+  "480": {
+    "id": 480,
+    "name": "",
+    "jad_id": "jad_author__480",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__48",
+      "label": "Ekkehart of Aura"
+    },
+    "next": {
+      "id": "jad_author__49",
+      "label": "Amulo Lugdunensis"
     },
     "related__works": []
   }

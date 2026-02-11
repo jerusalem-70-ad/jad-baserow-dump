@@ -2252,7 +2252,7 @@
     },
     "next": {
       "id": "jad_occurence__480",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
     }
   },
   "49": {
@@ -2392,8 +2392,8 @@
       "label": "obsidente tito et vaspasiano"
     },
     "next": {
-      "id": "jad_occurence__52",
-      "label": "duce tito et vaspasiano vasti, destructio omnioda (?)"
+      "id": "jad_occurence__512",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "52": {
@@ -2435,8 +2435,8 @@
     ],
     "view_label": "duce tito et vaspasiano vasti, destructio omnioda (?)",
     "prev": {
-      "id": "jad_occurence__51",
-      "label": "bestia quatuor romanum"
+      "id": "jad_occurence__515",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__53",
@@ -16092,11 +16092,21 @@
   "480": {
     "id": 480,
     "jad_id": "jad_occurence__480",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1251,
+        "value": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 244,
+        "value": "BNF, lat.  3827"
+      }
+    ],
+    "position_in_ms": "94",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b9077787r/f53.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16106,26 +16116,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-09",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-10",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 244,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat.  3827, f. 94"
+      }
+    ],
+    "view_label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum",
     "prev": {
       "id": "jad_occurence__48",
       "label": "inimici romani"
     },
     "next": {
       "id": "jad_occurence__481",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     }
   },
   "481": {
     "id": 481,
     "jad_id": "jad_occurence__481",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 245,
+        "value": "BSB, Clm 14039"
+      }
+    ],
+    "position_in_ms": "172v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00152425?page=348,349",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16135,26 +16163,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-09",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-10",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 245,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 14039, f. 172v"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
     "prev": {
       "id": "jad_occurence__480",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
     },
     "next": {
       "id": "jad_occurence__482",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     }
   },
   "482": {
     "id": 482,
     "jad_id": "jad_occurence__482",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 276,
+        "value": "Frankfurt, Barth. 41"
+      }
+    ],
+    "position_in_ms": "208r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://sammlungen.ub.uni-frankfurt.de/msma/content/pageview/3593520",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16164,26 +16210,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-09",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-10",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 276,
+          "database_table_3497": 19
+        },
+        "value": "Frankfurt, Barth. 41, f. 208r"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
     "prev": {
       "id": "jad_occurence__481",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     },
     "next": {
       "id": "jad_occurence__483",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     }
   },
   "483": {
     "id": 483,
     "jad_id": "jad_occurence__483",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 277,
+        "value": "Vat., Reg.lat.38"
+      }
+    ],
+    "position_in_ms": "136v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Reg.lat.38/0276",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16193,26 +16257,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-09",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-10",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 277,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Reg.lat.38, f. 136v"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
     "prev": {
       "id": "jad_occurence__482",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     },
     "next": {
       "id": "jad_occurence__484",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     }
   },
   "484": {
     "id": 484,
     "jad_id": "jad_occurence__484",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 278,
+        "value": "Lille, MS 814"
+      }
+    ],
+    "position_in_ms": "147v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://api.irht.cnrs.fr/ark:/63955/fiuxibspzwyx/manifest.json",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16222,12 +16304,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-09",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-10",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 278,
+          "database_table_3497": 50
+        },
+        "value": "Lille, MS 814, f. 147v"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
     "prev": {
       "id": "jad_occurence__483",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     },
     "next": {
       "id": "jad_occurence__485",
@@ -16256,11 +16346,127 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__484",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     },
     "next": {
       "id": "jad_occurence__49",
       "label": "sub romanis factum est"
+    }
+  },
+  "512": {
+    "id": 512,
+    "jad_id": "jad_occurence__512",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-10",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-10",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__51",
+      "label": "bestia quatuor romanum"
+    },
+    "next": {
+      "id": "jad_occurence__513",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "513": {
+    "id": 513,
+    "jad_id": "jad_occurence__513",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-10",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-10",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__512",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__514",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "514": {
+    "id": 514,
+    "jad_id": "jad_occurence__514",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-10",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-10",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__513",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__515",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "515": {
+    "id": 515,
+    "jad_id": "jad_occurence__515",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-10",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-10",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__514",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__52",
+      "label": "duce tito et vaspasiano vasti, destructio omnioda (?)"
     }
   }
 }

@@ -28449,22 +28449,44 @@
   "739": {
     "id": 739,
     "order": "618.00000000000000000000",
-    "name": " ",
+    "name": "Liber de predicatione ",
     "jad_id": "jad_work__739",
-    "author": [],
+    "author": [
+      {
+        "id": 444,
+        "value": "Raimundus Lullus",
+        "order": "290.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Liber de predicatione",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 17,
+        "value": "around 1300",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "Liber de praedicatione, ed. Abraham Soria Flores (Mallorca 1963).",
     "other_editions": ""
   },
   "740": {
