@@ -2295,7 +2295,7 @@
     "view_label": "sub romanis factum est",
     "prev": {
       "id": "jad_occurence__485",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "subversio illius civitatis declaratur, que a principibus romanis facta est"
     },
     "next": {
       "id": "jad_occurence__5",
@@ -2393,7 +2393,7 @@
     },
     "next": {
       "id": "jad_occurence__512",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani"
     }
   },
   "52": {
@@ -2436,7 +2436,7 @@
     "view_label": "duce tito et vaspasiano vasti, destructio omnioda (?)",
     "prev": {
       "id": "jad_occurence__515",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "flevit deus excidium tunc futurum per romanos, flevit deus excidium factum per babilonios, hoc significat excidium cotidianum"
     },
     "next": {
       "id": "jad_occurence__53",
@@ -2533,8 +2533,8 @@
       "label": "sumeret pacem, scilicet exteriorem, per Titum et Vespasianum, de terra, id est de Judaea"
     },
     "next": {
-      "id": "jad_occurence__55",
-      "label": "a domino signa et tempus eversionis Ierusalem"
+      "id": "jad_occurence__545",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "55": {
@@ -2576,12 +2576,12 @@
     ],
     "view_label": "a domino signa et tempus eversionis Ierusalem",
     "prev": {
-      "id": "jad_occurence__54",
-      "label": "Ut appropinquavit etc dominus cum laudibus occurrentium intrans civitatem previdens eam in ultionem sanguinis sui funditus evertendam"
+      "id": "jad_occurence__549",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__56",
-      "label": "Et missis exercitibus inter litteris exponere de captivitate facta per romanos, gloriosa de eterna dampnatione"
+      "id": "jad_occurence__550",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "56": {
@@ -2623,8 +2623,8 @@
     ],
     "view_label": "Et missis exercitibus inter litteris exponere de captivitate facta per romanos, gloriosa de eterna dampnatione",
     "prev": {
-      "id": "jad_occurence__55",
-      "label": "a domino signa et tempus eversionis Ierusalem"
+      "id": "jad_occurence__550",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__57",
@@ -16321,17 +16321,27 @@
     },
     "next": {
       "id": "jad_occurence__485",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "subversio illius civitatis declaratur, que a principibus romanis facta est"
     }
   },
   "485": {
     "id": 485,
     "jad_id": "jad_occurence__485",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 631,
+        "value": "subversio illius civitatis declaratur, que a principibus romanis facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 159,
+        "value": "BNF, NAL 464"
+      }
+    ],
+    "position_in_ms": "96r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10034551c/f99.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16341,9 +16351,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-09",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 159,
+          "database_table_3497": 2
+        },
+        "value": "BNF, NAL 464, f. 96r"
+      }
+    ],
+    "view_label": "subversio illius civitatis declaratur, que a principibus romanis facta est",
     "prev": {
       "id": "jad_occurence__484",
       "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
@@ -16356,11 +16374,21 @@
   "512": {
     "id": 512,
     "jad_id": "jad_occurence__512",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 514,
+        "value": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 159,
+        "value": "BNF, NAL 464"
+      }
+    ],
+    "position_in_ms": "135v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10034551c/f140.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16370,26 +16398,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-10",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 159,
+          "database_table_3497": 2
+        },
+        "value": "BNF, NAL 464, f. 135v"
+      }
+    ],
+    "view_label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani",
     "prev": {
       "id": "jad_occurence__51",
       "label": "bestia quatuor romanum"
     },
     "next": {
       "id": "jad_occurence__513",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quia venient dies in te, et circumdabunt te inimici, etc. Haec omnia a Vespasiano et Tito facta"
     }
   },
   "513": {
     "id": 513,
     "jad_id": "jad_occurence__513",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 149,
+        "value": "Quia venient dies in te, et circumdabunt te inimici, etc. Haec omnia a Vespasiano et Tito facta"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 279,
+        "value": "St. Gallen, Cod. Sang. 424"
+      }
+    ],
+    "position_in_ms": "484",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://www.e-codices.unifr.ch/en/csg/0424/484/0/",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16399,26 +16445,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-10",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 279,
+          "database_table_3497": 25
+        },
+        "value": "St. Gallen, Cod. Sang. 424, f. 484"
+      }
+    ],
+    "view_label": "Quia venient dies in te, et circumdabunt te inimici, etc. Haec omnia a Vespasiano et Tito facta",
     "prev": {
       "id": "jad_occurence__512",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Et missis exercitibus suis perdidit homicidas illos, et ciuitatem illorum succendit. Quantum ad litteram exercitus Dei intelleguntur Romani"
     },
     "next": {
       "id": "jad_occurence__514",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "quod flente domino illa Iherosolimorum subversio describatur, que a vespasiano et tyto romanis principibus facta est"
     }
   },
   "514": {
     "id": 514,
     "jad_id": "jad_occurence__514",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2401,
+        "value": "quod flente domino illa Iherosolimorum subversio describatur, que a vespasiano et tyto romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 280,
+        "value": "BNF, lat. 742"
+      }
+    ],
+    "position_in_ms": "247v-248r",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b9066922h/f271.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16428,26 +16492,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-10",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 280,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 742, f. 247v-248r"
+      }
+    ],
+    "view_label": "quod flente domino illa Iherosolimorum subversio describatur, que a vespasiano et tyto romanis principibus facta est",
     "prev": {
       "id": "jad_occurence__513",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quia venient dies in te, et circumdabunt te inimici, etc. Haec omnia a Vespasiano et Tito facta"
     },
     "next": {
       "id": "jad_occurence__515",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "flevit deus excidium tunc futurum per romanos, flevit deus excidium factum per babilonios, hoc significat excidium cotidianum"
     }
   },
   "515": {
     "id": 515,
     "jad_id": "jad_occurence__515",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2402,
+        "value": "flevit deus excidium tunc futurum per romanos, flevit deus excidium factum per babilonios, hoc significat excidium cotidianum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 281,
+        "value": "Troyes, MS 271"
+      }
+    ],
+    "position_in_ms": "266v",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque-jacques-chirac.fr/iguana/iiif/2_763/manifest",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16457,16 +16539,198 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-10",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 281,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 271, f. 266v"
+      }
+    ],
+    "view_label": "flevit deus excidium tunc futurum per romanos, flevit deus excidium factum per babilonios, hoc significat excidium cotidianum",
     "prev": {
       "id": "jad_occurence__514",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "quod flente domino illa Iherosolimorum subversio describatur, que a vespasiano et tyto romanis principibus facta est"
     },
     "next": {
       "id": "jad_occurence__52",
       "label": "duce tito et vaspasiano vasti, destructio omnioda (?)"
+    }
+  },
+  "545": {
+    "id": 545,
+    "jad_id": "jad_occurence__545",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__54",
+      "label": "Ut appropinquavit etc dominus cum laudibus occurrentium intrans civitatem previdens eam in ultionem sanguinis sui funditus evertendam"
+    },
+    "next": {
+      "id": "jad_occurence__546",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "546": {
+    "id": 546,
+    "jad_id": "jad_occurence__546",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__545",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__547",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "547": {
+    "id": 547,
+    "jad_id": "jad_occurence__547",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__546",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__548",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "548": {
+    "id": 548,
+    "jad_id": "jad_occurence__548",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__547",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__549",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "549": {
+    "id": 549,
+    "jad_id": "jad_occurence__549",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__548",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__55",
+      "label": "a domino signa et tempus eversionis Ierusalem"
+    }
+  },
+  "550": {
+    "id": 550,
+    "jad_id": "jad_occurence__550",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__55",
+      "label": "a domino signa et tempus eversionis Ierusalem"
+    },
+    "next": {
+      "id": "jad_occurence__56",
+      "label": "Et missis exercitibus inter litteris exponere de captivitate facta per romanos, gloriosa de eterna dampnatione"
     }
   }
 }

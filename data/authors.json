@@ -5347,6 +5347,71 @@
           "id": "jad_work__72",
           "label": "Collectiones in epistolas et evangelia "
         }
+      },
+      {
+        "id": 740,
+        "name": "Breviarium benedictinum ",
+        "jad_id": "jad_work__740",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 280,
+            "value": "BNF, lat. 742"
+          }
+        ],
+        "title": "Breviarium benedictinum",
+        "genre": {
+          "id": 15021,
+          "value": "Liturgical text",
+          "color": "dark-yellow"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 9,
+            "value": "around 1200"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Breviarium benedictinum ",
+        "prev": {
+          "id": "jad_work__74",
+          "label": "Commentarius in Nahum "
+        },
+        "next": {
+          "id": "jad_work__741",
+          "label": "Prognosticorum futuri saeculi libri tres "
+        }
       }
     ]
   },
@@ -20827,6 +20892,71 @@
         },
         "next": {
           "id": "jad_work__740",
+          "label": "Breviarium benedictinum "
+        }
+      },
+      {
+        "id": 741,
+        "name": "Prognosticorum futuri saeculi libri tres ",
+        "jad_id": "jad_work__741",
+        "author": [
+          {
+            "id": 55,
+            "name": "Iulianus Toletanus",
+            "jad_id": "jad_author__55",
+            "gnd_url": "https://d-nb.info/gnd/119525577",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Pseudo-Iulianus, Toletanus | Iulianus, de Toleto | Julian, of Toledo | Giuliano, di Toledo | Iulianus, Sanctus | Julian, von Toledo | Iulianus, de Toledo | Julianus, de Toledo | Iulianus, Archiepiscopus | Julián, de Toledo | Julien, de Tolède | Julianus, Pomerius | Julianus, von Toledo | Julianus, Toletanus | Toletanus, Iulianus | Iulianus, Hispanus",
+            "date_of_birth": "0642",
+            "date_of_death": "0690",
+            "place": [
+              {
+                "id": 45,
+                "value": "Toledo"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Prognosticorum futuri saeculi libri tres",
+        "genre": {
+          "id": 18449,
+          "value": "Computistic treatise",
+          "color": "darker-gray"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 27,
+            "value": "late 7th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "115",
+        "other_editions": "",
+        "view_label": "Prognosticorum futuri saeculi libri tres ",
+        "prev": {
+          "id": "jad_work__740",
+          "label": "Breviarium benedictinum "
+        },
+        "next": {
+          "id": "jad_work__742",
           "label": " "
         }
       }
@@ -20917,12 +21047,12 @@
         "other_editions": null,
         "view_label": "Chronicon ",
         "prev": {
-          "id": "jad_work__741",
+          "id": "jad_work__749",
           "label": " "
         },
         "next": {
-          "id": "jad_work__76",
-          "label": "Collectanea in omnes B. Pauli epistolas "
+          "id": "jad_work__750",
+          "label": " "
         }
       }
     ]
@@ -21012,8 +21142,8 @@
         "other_editions": null,
         "view_label": "Collectanea in omnes B. Pauli epistolas ",
         "prev": {
-          "id": "jad_work__75",
-          "label": "Chronicon "
+          "id": "jad_work__750",
+          "label": " "
         },
         "next": {
           "id": "jad_work__77",

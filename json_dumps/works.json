@@ -28492,8 +28492,100 @@
   "740": {
     "id": 740,
     "order": "619.00000000000000000000",
-    "name": " ",
+    "name": "Breviarium benedictinum ",
     "jad_id": "jad_work__740",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 280,
+        "value": "BNF, lat. 742",
+        "order": "190.00000000000000000000"
+      }
+    ],
+    "title": "Breviarium benedictinum",
+    "genre": {
+      "id": 15021,
+      "value": "Liturgical text",
+      "color": "dark-yellow"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": false,
+    "date": [
+      {
+        "id": 9,
+        "value": "around 1200",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "741": {
+    "id": 741,
+    "order": "620.00000000000000000000",
+    "name": "Prognosticorum futuri saeculi libri tres ",
+    "jad_id": "jad_work__741",
+    "author": [
+      {
+        "id": 55,
+        "value": "Iulianus Toletanus",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Prognosticorum futuri saeculi libri tres",
+    "genre": {
+      "id": 18449,
+      "value": "Computistic treatise",
+      "color": "darker-gray"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 27,
+        "value": "late 7th cen.",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "115",
+    "other_editions": ""
+  },
+  "742": {
+    "id": 742,
+    "order": "621.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__742",
     "author": [],
     "manuscripts": [],
     "title": "",
@@ -28510,11 +28602,158 @@
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
   },
-  "741": {
-    "id": 741,
-    "order": "620.00000000000000000000",
+  "743": {
+    "id": 743,
+    "order": "622.00000000000000000000",
     "name": " ",
-    "jad_id": "jad_work__741",
+    "jad_id": "jad_work__743",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "744": {
+    "id": 744,
+    "order": "623.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__744",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "745": {
+    "id": 745,
+    "order": "624.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__745",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "746": {
+    "id": 746,
+    "order": "625.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__746",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "747": {
+    "id": 747,
+    "order": "626.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__747",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "748": {
+    "id": 748,
+    "order": "627.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__748",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "749": {
+    "id": 749,
+    "order": "628.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__749",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "750": {
+    "id": 750,
+    "order": "629.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__750",
     "author": [],
     "manuscripts": [],
     "title": "",

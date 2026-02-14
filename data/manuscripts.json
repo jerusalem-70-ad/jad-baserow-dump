@@ -788,7 +788,7 @@
       }
     ],
     "idno": "Arundel 322",
-    "catalog_url": "",
+    "catalog_url": "https://searcharchives.bl.uk/catalog/040-002039605",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [
@@ -843,7 +843,7 @@
       }
     ],
     "idno": "Royal 8 F XVII",
-    "catalog_url": "",
+    "catalog_url": "https://searcharchives.bl.uk/catalog/040-002106406",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [
@@ -1807,11 +1807,11 @@
     "view_label": "Maz., Ms 1026",
     "prev": {
       "id": "jad_manuscript__279",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "St. Gallen, Cod. Sang. 424"
     },
     "next": {
       "id": "jad_manuscript__280",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, lat. 742"
     }
   },
   "29": {
@@ -1945,8 +1945,8 @@
       "label": "San Isidoro, MS 11"
     },
     "next": {
-      "id": "jad_manuscript__31",
-      "label": "BNF, Latin 2950"
+      "id": "jad_manuscript__309",
+      "label": "NO MATCH FOR $..name[0].value"
     }
   },
   "31": {
@@ -2021,12 +2021,12 @@
     ],
     "view_label": "BNF, Latin 2950",
     "prev": {
-      "id": "jad_manuscript__30",
-      "label": "BNF, Latin 14937"
+      "id": "jad_manuscript__309",
+      "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
-      "id": "jad_manuscript__32",
-      "label": "Arsenal, MS 44"
+      "id": "jad_manuscript__310",
+      "label": "NO MATCH FOR $..name[0].value"
     }
   },
   "32": {
@@ -2076,8 +2076,8 @@
     ],
     "view_label": "Arsenal, MS 44",
     "prev": {
-      "id": "jad_manuscript__31",
-      "label": "BNF, Latin 2950"
+      "id": "jad_manuscript__315",
+      "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
       "id": "jad_manuscript__33",
@@ -4573,7 +4573,7 @@
       }
     ],
     "idno": "Add 18335",
-    "catalog_url": "",
+    "catalog_url": "https://searcharchives.bl.uk/catalog/032-002028853",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [
@@ -4683,7 +4683,7 @@
       }
     ],
     "idno": "Arundel 231/2",
-    "catalog_url": "",
+    "catalog_url": "https://searcharchives.bl.uk/catalog/040-002039514",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [
@@ -4903,7 +4903,7 @@
       }
     ],
     "idno": "Arundel 235",
-    "catalog_url": "",
+    "catalog_url": "https://searcharchives.bl.uk/catalog/040-002039518",
     "digi_url": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100062417734.0x000001",
     "institutional_context": [],
     "date_written": [
@@ -4958,7 +4958,7 @@
       }
     ],
     "idno": "Add 22820",
-    "catalog_url": "",
+    "catalog_url": "https://searcharchives.bl.uk/catalog/040-002096755",
     "digi_url": "https://iiif.bl.uk/uv/#?manifest=https://bl.digirati.io/iiif/ark:/81055/vdc_100055988155.0x000001",
     "institutional_context": [],
     "date_written": [
@@ -9603,7 +9603,7 @@
       }
     ],
     "idno": "Arundel 201",
-    "catalog_url": "https://www.digitale-sammlungen.de/de/view/bsb10798608?page=70,71&q=%28%22De+subversione+Jerusalem%22%29",
+    "catalog_url": "https://searcharchives.bl.uk/catalog/040-002039484",
     "digi_url": "",
     "institutional_context": [],
     "date_written": [
@@ -11096,22 +11096,55 @@
     },
     "next": {
       "id": "jad_manuscript__279",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "St. Gallen, Cod. Sang. 424"
     }
   },
   "279": {
     "id": 279,
-    "name": [],
+    "name": [
+      {
+        "id": 25,
+        "value": "St. Gallen, Cod. Sang. 424"
+      }
+    ],
     "jad_id": "jad_manuscript__279",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 25,
+        "value": "St. Gallen",
+        "jad_id": "jad_library__25",
+        "gnd_url": "https://d-nb.info/gnd/2089619-0",
+        "full_name": "Stiftsbibliothek St. Gallen",
+        "place": [
+          {
+            "id": 20,
+            "name": "St.Gallen",
+            "geonames_url": "https://www.geonames.org/2658822/sankt-gallen.html",
+            "jad_id": "jad_places__20",
+            "lat": "47.42391",
+            "long": "9.37477"
+          }
+        ]
+      }
+    ],
+    "idno": "Cod. Sang. 424",
+    "catalog_url": "https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0424",
+    "digi_url": "https://www.e-codices.unifr.ch/en/csg/0424/484/0/",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 1,
+        "value": "9th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 25,
+        "value": "Stiftsbibliothek St. Gallen"
+      }
+    ],
+    "view_label": "St. Gallen, Cod. Sang. 424",
     "prev": {
       "id": "jad_manuscript__278",
       "label": "Lille, MS 814"
@@ -11123,42 +11156,108 @@
   },
   "280": {
     "id": 280,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, lat. 742"
+      }
+    ],
     "jad_id": "jad_manuscript__280",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "lat. 742",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc62192j",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b9066922h/f271.item.zoom",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 9,
+        "value": "around 1200"
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, lat. 742",
     "prev": {
       "id": "jad_manuscript__28",
       "label": "Maz., Ms 1026"
     },
     "next": {
       "id": "jad_manuscript__281",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Troyes, MS 271"
     }
   },
   "281": {
     "id": 281,
-    "name": [],
+    "name": [
+      {
+        "id": 9,
+        "value": "Troyes, MS 271"
+      }
+    ],
     "jad_id": "jad_manuscript__281",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 9,
+        "value": "Troyes",
+        "jad_id": "jad_library__9",
+        "gnd_url": "https://d-nb.info/gnd/1026092-4",
+        "full_name": "Bibliothèque municipale (Troyes)",
+        "place": [
+          {
+            "id": 9,
+            "name": "Troyes",
+            "geonames_url": "https://www.geonames.org/2971549/troyes.html",
+            "jad_id": "jad_places__9",
+            "lat": "48.30073",
+            "long": "4.08524"
+          }
+        ]
+      }
+    ],
+    "idno": "MS 271",
+    "catalog_url": "https://www.bibliotheque-virtuelle-clairvaux.com/manuscrits/",
+    "digi_url": "https://www.bibliotheque-virtuelle-clairvaux.com/manuscrits/",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 43,
+        "value": "14th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 9,
+        "value": "Bibliothèque municipale (Troyes)"
+      }
+    ],
+    "view_label": "Troyes, MS 271",
     "prev": {
       "id": "jad_manuscript__280",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, lat. 742"
     },
     "next": {
       "id": "jad_manuscript__282",
@@ -11180,11 +11279,165 @@
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
       "id": "jad_manuscript__281",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "Troyes, MS 271"
     },
     "next": {
       "id": "jad_manuscript__29",
       "label": "BNF, Latin 3728"
+    }
+  },
+  "309": {
+    "id": 309,
+    "name": [],
+    "jad_id": "jad_manuscript__309",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__30",
+      "label": "BNF, Latin 14937"
+    },
+    "next": {
+      "id": "jad_manuscript__31",
+      "label": "BNF, Latin 2950"
+    }
+  },
+  "310": {
+    "id": 310,
+    "name": [],
+    "jad_id": "jad_manuscript__310",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__31",
+      "label": "BNF, Latin 2950"
+    },
+    "next": {
+      "id": "jad_manuscript__311",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "311": {
+    "id": 311,
+    "name": [],
+    "jad_id": "jad_manuscript__311",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__310",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__312",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "312": {
+    "id": 312,
+    "name": [],
+    "jad_id": "jad_manuscript__312",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__311",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__313",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "313": {
+    "id": 313,
+    "name": [],
+    "jad_id": "jad_manuscript__313",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__312",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__314",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "314": {
+    "id": 314,
+    "name": [],
+    "jad_id": "jad_manuscript__314",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__313",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__315",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "315": {
+    "id": 315,
+    "name": [],
+    "jad_id": "jad_manuscript__315",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__314",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__32",
+      "label": "Arsenal, MS 44"
     }
   }
 }
