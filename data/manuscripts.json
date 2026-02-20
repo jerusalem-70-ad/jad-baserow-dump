@@ -1862,7 +1862,7 @@
     "view_label": "BNF, Latin 3728",
     "prev": {
       "id": "jad_manuscript__282",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, lat.  2466"
     },
     "next": {
       "id": "jad_manuscript__3",
@@ -11261,22 +11261,55 @@
     },
     "next": {
       "id": "jad_manuscript__282",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, lat.  2466"
     }
   },
   "282": {
     "id": 282,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, lat.  2466"
+      }
+    ],
     "jad_id": "jad_manuscript__282",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "lat.  2466",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc60283g",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b84526449/f189.item.zoom#",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 2,
+        "value": "12th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, lat.  2466",
     "prev": {
       "id": "jad_manuscript__281",
       "label": "Troyes, MS 271"

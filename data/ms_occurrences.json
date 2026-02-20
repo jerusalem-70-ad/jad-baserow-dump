@@ -2534,7 +2534,7 @@
     },
     "next": {
       "id": "jad_occurence__545",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
     }
   },
   "55": {
@@ -6482,7 +6482,7 @@
         "value": "Bibl. Laurenziana, Plut. 19.17"
       }
     ],
-    "position_in_ms": "178r-181v",
+    "position_in_ms": "177r-178v",
     "main_ms": false,
     "facsimile_position": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/275110/rec/1",
     "created_by": {
@@ -6494,14 +6494,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-04-08",
+    "last_modified_on": "2026-02-19",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 81,
           "database_table_3497": 37
         },
-        "value": "Bibl. Laurenziana, Plut. 19.17, f. 178r-181v"
+        "value": "Bibl. Laurenziana, Plut. 19.17, f. 177r-178v"
       }
     ],
     "view_label": "duo principes Romanorum, Vespasianus, et Titus, pater et filius, cum manu bellica ad subversionem ejusdem civitatis",
@@ -16562,11 +16562,21 @@
   "545": {
     "id": 545,
     "jad_id": "jad_occurence__545",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1251,
+        "value": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 282,
+        "value": "BNF, lat.  2466"
+      }
+    ],
+    "position_in_ms": "90r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b84526449/f189.item.zoom#",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16576,9 +16586,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 282,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat.  2466, f. 90r"
+      }
+    ],
+    "view_label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum",
     "prev": {
       "id": "jad_occurence__54",
       "label": "Ut appropinquavit etc dominus cum laudibus occurrentium intrans civitatem previdens eam in ultionem sanguinis sui funditus evertendam"
@@ -16610,7 +16628,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__545",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
     },
     "next": {
       "id": "jad_occurence__547",

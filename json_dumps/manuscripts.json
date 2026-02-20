@@ -7130,16 +7130,38 @@
   "282": {
     "id": 282,
     "order": "192.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, lat.  2466"
+      }
+    ],
     "jad_id": "jad_manuscript__282",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "lat.  2466",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc60283g",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b84526449/f189.item.zoom#",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 2,
+        "value": "12th cen.",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
   },
   "309": {
     "id": 309,
