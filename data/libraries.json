@@ -1205,7 +1205,7 @@
         },
         "next": {
           "id": "jad_manuscript__309",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Monte Cassino, MS 109"
         }
       },
       {
@@ -1281,7 +1281,7 @@
         "view_label": "BNF, Latin 2950",
         "prev": {
           "id": "jad_manuscript__309",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Monte Cassino, MS 109"
         },
         "next": {
           "id": "jad_manuscript__310",
@@ -12693,11 +12693,20 @@
   },
   "51": {
     "id": 51,
-    "value": "",
+    "value": "Monte Cassino",
     "jad_id": "jad_library__51",
-    "gnd_url": "",
-    "full_name": "",
-    "place": [],
+    "gnd_url": "https://d-nb.info/gnd/1002981-3",
+    "full_name": "Monte Cassino, Klosterbibliothek",
+    "place": [
+      {
+        "id": 46,
+        "name": "Monte Cassino",
+        "geonames_url": "https://www.geonames.org/3173005/abbazia-di-montecassino.html",
+        "jad_id": "jad_places__46",
+        "lat": "41.48916",
+        "long": "13.81222"
+      }
+    ],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
       "id": "jad_library__50",
@@ -12707,7 +12716,63 @@
       "id": "jad_library__52",
       "label": "NO MATCH FOR $.name"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 309,
+        "name": [
+          {
+            "id": 51,
+            "value": "Monte Cassino, MS 109"
+          }
+        ],
+        "jad_id": "jad_manuscript__309",
+        "library": [
+          {
+            "id": 51,
+            "value": "Monte Cassino",
+            "jad_id": "jad_library__51",
+            "gnd_url": "https://d-nb.info/gnd/1002981-3",
+            "full_name": "Monte Cassino, Klosterbibliothek",
+            "place": [
+              {
+                "id": 46,
+                "name": "Monte Cassino",
+                "geonames_url": "https://www.geonames.org/3173005/abbazia-di-montecassino.html",
+                "jad_id": "jad_places__46",
+                "lat": "41.48916",
+                "long": "13.81222"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 109",
+        "catalog_url": "",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 68,
+            "value": "11th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 51,
+            "value": "Monte Cassino, Klosterbibliothek"
+          }
+        ],
+        "view_label": "Monte Cassino, MS 109",
+        "prev": {
+          "id": "jad_manuscript__30",
+          "label": "BNF, Latin 14937"
+        },
+        "next": {
+          "id": "jad_manuscript__31",
+          "label": "BNF, Latin 2950"
+        }
+      }
+    ]
   },
   "52": {
     "id": 52,

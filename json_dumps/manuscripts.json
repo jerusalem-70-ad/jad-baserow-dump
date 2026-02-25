@@ -7166,16 +7166,38 @@
   "309": {
     "id": 309,
     "order": "193.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 51,
+        "value": "Monte Cassino, MS 109"
+      }
+    ],
     "jad_id": "jad_manuscript__309",
-    "library": [],
-    "idno": "",
+    "library": [
+      {
+        "id": 51,
+        "value": "Monte Cassino",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "idno": "MS 109",
     "catalog_url": "",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 68,
+        "value": "11th cen.",
+        "order": "67.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 51,
+        "value": "Monte Cassino, Klosterbibliothek"
+      }
+    ]
   },
   "310": {
     "id": 310,

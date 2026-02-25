@@ -19835,7 +19835,7 @@
     "view_label": "Andrew of Saint Victor",
     "prev": {
       "id": "jad_author__445",
-      "label": ""
+      "label": "Joachim of Fiore"
     },
     "next": {
       "id": "jad_author__46",
@@ -20957,7 +20957,7 @@
         },
         "next": {
           "id": "jad_work__742",
-          "label": " "
+          "label": "Concordia Novi ac Veteris Testamenti "
         }
       }
     ]
@@ -51963,7 +51963,7 @@
     },
     "next": {
       "id": "jad_author__445",
-      "label": ""
+      "label": "Joachim of Fiore"
     },
     "related__works": [
       {
@@ -52035,18 +52035,23 @@
   },
   "445": {
     "id": 445,
-    "name": "",
+    "name": "Joachim of Fiore",
     "jad_id": "jad_author__445",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118557564",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "alt_name": "Joachimi, Abbt zu Hor in Calabria | Joachim, de Fiore | Flore, Joachim de | Joachimus, Abbas Cisterciensis | Flore, Joachim von | Joachim, di Fiore | Joachim, de Celico | Joachim, Florensis | Joachimi, Abt zu Hor in Calabria | Ioachimus, Florensis | Ioachim, Abbas Florensis | Pseudo-Joachim, de Flore | Gioacchino, da Fiore | Joachimus, aus Celico | Joachim, of Fiore | Joachimus, de Celico | Joachimus, Abbas | Joachim, le Prophète | Joaquín, de Fiore | Fiore, Gioacchino da | Fiore, Giacomo da | Giacchino, da Fiore | Gioachino, Abbate | Joachim, Abbas | Ps.-Joachim, de Flore | Joachimus de Floris | Joachim, Abt | Joachimus aus Celico | Flores, Juan de | Joachinus, Abbas | Pseudo-Joachim, Florensis | Ps.-Joachim, Florensis | Joachimus, Calaber | Gioachino, da Fiore | Fiore, Joachim von | Joachimus, Magnus Propheta | Joachim, of Flora | Joachin, Abbas | Joachim, de Floris | Joachim, de Flore | Floris, Joachim von | Gioachino, di Fiore | Joachimus, Florensis | Gioachino, Abbas | Ioachim, Abbas | Joachimus, Flor, Abbt | Joachim, von Floris | Joachimus, Abbas Florensis",
+    "date_of_birth": "1130",
+    "date_of_death": "1202",
+    "place": [
+      {
+        "id": 240,
+        "value": "Sicily"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "",
+    "view_label": "Joachim of Fiore",
     "prev": {
       "id": "jad_author__444",
       "label": "Raimundus Lullus"
@@ -52055,7 +52060,203 @@
       "id": "jad_author__45",
       "label": "Andrew of Saint Victor"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 742,
+        "name": "Concordia Novi ac Veteris Testamenti ",
+        "jad_id": "jad_work__742",
+        "author": [
+          {
+            "id": 445,
+            "name": "Joachim of Fiore",
+            "jad_id": "jad_author__445",
+            "gnd_url": "https://d-nb.info/gnd/118557564",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Joachimi, Abbt zu Hor in Calabria | Joachim, de Fiore | Flore, Joachim de | Joachimus, Abbas Cisterciensis | Flore, Joachim von | Joachim, di Fiore | Joachim, de Celico | Joachim, Florensis | Joachimi, Abt zu Hor in Calabria | Ioachimus, Florensis | Ioachim, Abbas Florensis | Pseudo-Joachim, de Flore | Gioacchino, da Fiore | Joachimus, aus Celico | Joachim, of Fiore | Joachimus, de Celico | Joachimus, Abbas | Joachim, le Prophète | Joaquín, de Fiore | Fiore, Gioacchino da | Fiore, Giacomo da | Giacchino, da Fiore | Gioachino, Abbate | Joachim, Abbas | Ps.-Joachim, de Flore | Joachimus de Floris | Joachim, Abt | Joachimus aus Celico | Flores, Juan de | Joachinus, Abbas | Pseudo-Joachim, Florensis | Ps.-Joachim, Florensis | Joachimus, Calaber | Gioachino, da Fiore | Fiore, Joachim von | Joachimus, Magnus Propheta | Joachim, of Flora | Joachin, Abbas | Joachim, de Floris | Joachim, de Flore | Floris, Joachim von | Gioachino, di Fiore | Joachimus, Florensis | Gioachino, Abbas | Ioachim, Abbas | Joachimus, Flor, Abbt | Joachim, von Floris | Joachimus, Abbas Florensis",
+            "date_of_birth": "1130",
+            "date_of_death": "1202",
+            "place": [
+              {
+                "id": 240,
+                "value": "Sicily"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Concordia Novi ac Veteris Testamenti",
+        "genre": {
+          "id": 15024,
+          "value": "Theological treatise",
+          "color": "dark-cyan"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "QQ zur Geistesgesch. 28",
+        "other_editions": "",
+        "view_label": "Concordia Novi ac Veteris Testamenti ",
+        "prev": {
+          "id": "jad_work__741",
+          "label": "Prognosticorum futuri saeculi libri tres "
+        },
+        "next": {
+          "id": "jad_work__743",
+          "label": "Expositio super Apocalypsim "
+        }
+      },
+      {
+        "id": 743,
+        "name": "Expositio super Apocalypsim ",
+        "jad_id": "jad_work__743",
+        "author": [
+          {
+            "id": 445,
+            "name": "Joachim of Fiore",
+            "jad_id": "jad_author__445",
+            "gnd_url": "https://d-nb.info/gnd/118557564",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Joachimi, Abbt zu Hor in Calabria | Joachim, de Fiore | Flore, Joachim de | Joachimus, Abbas Cisterciensis | Flore, Joachim von | Joachim, di Fiore | Joachim, de Celico | Joachim, Florensis | Joachimi, Abt zu Hor in Calabria | Ioachimus, Florensis | Ioachim, Abbas Florensis | Pseudo-Joachim, de Flore | Gioacchino, da Fiore | Joachimus, aus Celico | Joachim, of Fiore | Joachimus, de Celico | Joachimus, Abbas | Joachim, le Prophète | Joaquín, de Fiore | Fiore, Gioacchino da | Fiore, Giacomo da | Giacchino, da Fiore | Gioachino, Abbate | Joachim, Abbas | Ps.-Joachim, de Flore | Joachimus de Floris | Joachim, Abt | Joachimus aus Celico | Flores, Juan de | Joachinus, Abbas | Pseudo-Joachim, Florensis | Ps.-Joachim, Florensis | Joachimus, Calaber | Gioachino, da Fiore | Fiore, Joachim von | Joachimus, Magnus Propheta | Joachim, of Flora | Joachin, Abbas | Joachim, de Floris | Joachim, de Flore | Floris, Joachim von | Gioachino, di Fiore | Joachimus, Florensis | Gioachino, Abbas | Ioachim, Abbas | Joachimus, Flor, Abbt | Joachim, von Floris | Joachimus, Abbas Florensis",
+            "date_of_birth": "1130",
+            "date_of_death": "1202",
+            "place": [
+              {
+                "id": 240,
+                "value": "Sicily"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Expositio super Apocalypsim",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "QQ zur Geistesgesch. 31",
+        "other_editions": "",
+        "view_label": "Expositio super Apocalypsim ",
+        "prev": {
+          "id": "jad_work__742",
+          "label": "Concordia Novi ac Veteris Testamenti "
+        },
+        "next": {
+          "id": "jad_work__744",
+          "label": "Enchiridion super Apocalypsim "
+        }
+      },
+      {
+        "id": 744,
+        "name": "Enchiridion super Apocalypsim ",
+        "jad_id": "jad_work__744",
+        "author": [
+          {
+            "id": 445,
+            "name": "Joachim of Fiore",
+            "jad_id": "jad_author__445",
+            "gnd_url": "https://d-nb.info/gnd/118557564",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Joachimi, Abbt zu Hor in Calabria | Joachim, de Fiore | Flore, Joachim de | Joachimus, Abbas Cisterciensis | Flore, Joachim von | Joachim, di Fiore | Joachim, de Celico | Joachim, Florensis | Joachimi, Abt zu Hor in Calabria | Ioachimus, Florensis | Ioachim, Abbas Florensis | Pseudo-Joachim, de Flore | Gioacchino, da Fiore | Joachimus, aus Celico | Joachim, of Fiore | Joachimus, de Celico | Joachimus, Abbas | Joachim, le Prophète | Joaquín, de Fiore | Fiore, Gioacchino da | Fiore, Giacomo da | Giacchino, da Fiore | Gioachino, Abbate | Joachim, Abbas | Ps.-Joachim, de Flore | Joachimus de Floris | Joachim, Abt | Joachimus aus Celico | Flores, Juan de | Joachinus, Abbas | Pseudo-Joachim, Florensis | Ps.-Joachim, Florensis | Joachimus, Calaber | Gioachino, da Fiore | Fiore, Joachim von | Joachimus, Magnus Propheta | Joachim, of Flora | Joachin, Abbas | Joachim, de Floris | Joachim, de Flore | Floris, Joachim von | Gioachino, di Fiore | Joachimus, Florensis | Gioachino, Abbas | Ioachim, Abbas | Joachimus, Flor, Abbt | Joachim, von Floris | Joachimus, Abbas Florensis",
+            "date_of_birth": "1130",
+            "date_of_death": "1202",
+            "place": [
+              {
+                "id": 240,
+                "value": "Sicily"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enchiridion super Apocalypsim",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "QQ zur Geistesgesch. 31",
+        "other_editions": "",
+        "view_label": "Enchiridion super Apocalypsim ",
+        "prev": {
+          "id": "jad_work__743",
+          "label": "Expositio super Apocalypsim "
+        },
+        "next": {
+          "id": "jad_work__745",
+          "label": " "
+        }
+      }
+    ]
   },
   "475": {
     "id": 475,

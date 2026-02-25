@@ -6155,15 +6155,21 @@
   "445": {
     "id": 445,
     "order": "291.00000000000000000000",
-    "name": "",
+    "name": "Joachim of Fiore",
     "jad_id": "jad_author__445",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118557564",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "alt_name": "Joachimi, Abbt zu Hor in Calabria | Joachim, de Fiore | Flore, Joachim de | Joachimus, Abbas Cisterciensis | Flore, Joachim von | Joachim, di Fiore | Joachim, de Celico | Joachim, Florensis | Joachimi, Abt zu Hor in Calabria | Ioachimus, Florensis | Ioachim, Abbas Florensis | Pseudo-Joachim, de Flore | Gioacchino, da Fiore | Joachimus, aus Celico | Joachim, of Fiore | Joachimus, de Celico | Joachimus, Abbas | Joachim, le Prophète | Joaquín, de Fiore | Fiore, Gioacchino da | Fiore, Giacomo da | Giacchino, da Fiore | Gioachino, Abbate | Joachim, Abbas | Ps.-Joachim, de Flore | Joachimus de Floris | Joachim, Abt | Joachimus aus Celico | Flores, Juan de | Joachinus, Abbas | Pseudo-Joachim, Florensis | Ps.-Joachim, Florensis | Joachimus, Calaber | Gioachino, da Fiore | Fiore, Joachim von | Joachimus, Magnus Propheta | Joachim, of Flora | Joachin, Abbas | Joachim, de Floris | Joachim, de Flore | Floris, Joachim von | Gioachino, di Fiore | Joachimus, Florensis | Gioachino, Abbas | Ioachim, Abbas | Joachimus, Flor, Abbt | Joachim, von Floris | Joachimus, Abbas Florensis",
+    "date_of_birth": "1130",
+    "date_of_death": "1202",
+    "place": [
+      {
+        "id": 240,
+        "value": "Sicily",
+        "order": "155.00000000000000000000"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true
   },

@@ -16603,15 +16603,25 @@
     },
     "next": {
       "id": "jad_occurence__546",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     }
   },
   "546": {
     "id": 546,
     "jad_id": "jad_occurence__546",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 309,
+        "value": "Monte Cassino, MS 109"
+      }
+    ],
+    "position_in_ms": "404",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -16623,9 +16633,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 309,
+          "database_table_3497": 51
+        },
+        "value": "Monte Cassino, MS 109, f. 404"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
     "prev": {
       "id": "jad_occurence__545",
       "label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
@@ -16657,7 +16675,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__546",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     },
     "next": {
       "id": "jad_occurence__548",
