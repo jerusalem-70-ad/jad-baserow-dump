@@ -2577,11 +2577,11 @@
     "view_label": "a domino signa et tempus eversionis Ierusalem",
     "prev": {
       "id": "jad_occurence__549",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
     },
     "next": {
       "id": "jad_occurence__550",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
     }
   },
   "56": {
@@ -2623,12 +2623,12 @@
     ],
     "view_label": "Et missis exercitibus inter litteris exponere de captivitate facta per romanos, gloriosa de eterna dampnatione",
     "prev": {
-      "id": "jad_occurence__550",
+      "id": "jad_occurence__559",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__57",
-      "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae"
+      "id": "jad_occurence__560",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "57": {
@@ -2670,8 +2670,8 @@
     ],
     "view_label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae",
     "prev": {
-      "id": "jad_occurence__56",
-      "label": "Et missis exercitibus inter litteris exponere de captivitate facta per romanos, gloriosa de eterna dampnatione"
+      "id": "jad_occurence__560",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__58",
@@ -6578,7 +6578,7 @@
     ],
     "position_in_ms": "204v",
     "main_ms": true,
-    "facsimile_position": "",
+    "facsimile_position": "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3APG0213_ms.505&mode=all&teca=MagTeca+-+ICCU",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -6588,7 +6588,7 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-06-28",
+    "last_modified_on": "2026-02-25",
     "ms_locus": [
       {
         "ids": {
@@ -6907,7 +6907,7 @@
     ],
     "position_in_ms": "203v-204r",
     "main_ms": true,
-    "facsimile_position": "",
+    "facsimile_position": "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3APG0213_ms.505&mode=all&teca=MagTeca+-+ICCU",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -6917,7 +6917,7 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-15",
+    "last_modified_on": "2026-02-25",
     "ms_locus": [
       {
         "ids": {
@@ -16650,15 +16650,25 @@
     },
     "next": {
       "id": "jad_occurence__547",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     }
   },
   "547": {
     "id": 547,
     "jad_id": "jad_occurence__547",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 27,
+        "value": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 310,
+        "value": "Saint-Omer, MS 27"
+      }
+    ],
+    "position_in_ms": "124v",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -16670,24 +16680,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 310,
+          "database_table_3497": 31
+        },
+        "value": "Saint-Omer, MS 27, f. 124v"
+      }
+    ],
+    "view_label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum",
     "prev": {
       "id": "jad_occurence__546",
       "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
     },
     "next": {
       "id": "jad_occurence__548",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     }
   },
   "548": {
     "id": 548,
     "jad_id": "jad_occurence__548",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 27,
+        "value": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 311,
+        "value": "Saint-Omer, MS 80"
+      }
+    ],
+    "position_in_ms": "96r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -16699,26 +16727,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 311,
+          "database_table_3497": 31
+        },
+        "value": "Saint-Omer, MS 80, f. 96r"
+      }
+    ],
+    "view_label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum",
     "prev": {
       "id": "jad_occurence__547",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     },
     "next": {
       "id": "jad_occurence__549",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
     }
   },
   "549": {
     "id": 549,
     "jad_id": "jad_occurence__549",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1251,
+        "value": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 312,
+        "value": "Vat., Vat.lat.4365"
+      }
+    ],
+    "position_in_ms": "97v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4365/0203",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16728,12 +16774,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 312,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4365, f. 97v"
+      }
+    ],
+    "view_label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum",
     "prev": {
       "id": "jad_occurence__548",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     },
     "next": {
       "id": "jad_occurence__55",
@@ -16743,11 +16797,21 @@
   "550": {
     "id": 550,
     "jad_id": "jad_occurence__550",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1251,
+        "value": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 313,
+        "value": "Vat., Ott.lat.298"
+      }
+    ],
+    "position_in_ms": "65v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Ott.lat.298/0136",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16757,16 +16821,332 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 313,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Ott.lat.298, f. 65v"
+      }
+    ],
+    "view_label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum",
     "prev": {
       "id": "jad_occurence__55",
       "label": "a domino signa et tempus eversionis Ierusalem"
     },
     "next": {
+      "id": "jad_occurence__551",
+      "label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
+    }
+  },
+  "551": {
+    "id": 551,
+    "jad_id": "jad_occurence__551",
+    "occurrence": [
+      {
+        "id": 1251,
+        "value": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 314,
+        "value": "Troyes, MS 1363"
+      }
+    ],
+    "position_in_ms": "56r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-25",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 314,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 1363, f. 56r"
+      }
+    ],
+    "view_label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum",
+    "prev": {
+      "id": "jad_occurence__550",
+      "label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
+    },
+    "next": {
+      "id": "jad_occurence__552",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "552": {
+    "id": 552,
+    "jad_id": "jad_occurence__552",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-25",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__551",
+      "label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
+    },
+    "next": {
+      "id": "jad_occurence__553",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "553": {
+    "id": 553,
+    "jad_id": "jad_occurence__553",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-25",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__552",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__554",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "554": {
+    "id": 554,
+    "jad_id": "jad_occurence__554",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-25",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__553",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__555",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "555": {
+    "id": 555,
+    "jad_id": "jad_occurence__555",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-25",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__554",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__556",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "556": {
+    "id": 556,
+    "jad_id": "jad_occurence__556",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-25",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__555",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__557",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "557": {
+    "id": 557,
+    "jad_id": "jad_occurence__557",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-25",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__556",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__558",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "558": {
+    "id": 558,
+    "jad_id": "jad_occurence__558",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-25",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__557",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__559",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "559": {
+    "id": 559,
+    "jad_id": "jad_occurence__559",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-25",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__558",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
       "id": "jad_occurence__56",
       "label": "Et missis exercitibus inter litteris exponere de captivitate facta per romanos, gloriosa de eterna dampnatione"
+    }
+  },
+  "560": {
+    "id": 560,
+    "jad_id": "jad_occurence__560",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-02-25",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-02-25",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__56",
+      "label": "Et missis exercitibus inter litteris exponere de captivitate facta per romanos, gloriosa de eterna dampnatione"
+    },
+    "next": {
+      "id": "jad_occurence__57",
+      "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae"
     }
   }
 }
