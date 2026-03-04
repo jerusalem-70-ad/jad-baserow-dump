@@ -52253,6 +52253,71 @@
         },
         "next": {
           "id": "jad_work__745",
+          "label": "Tractatus super quatuor Evangelia "
+        }
+      },
+      {
+        "id": 745,
+        "name": "Tractatus super quatuor Evangelia ",
+        "jad_id": "jad_work__745",
+        "author": [
+          {
+            "id": 445,
+            "name": "Joachim of Fiore",
+            "jad_id": "jad_author__445",
+            "gnd_url": "https://d-nb.info/gnd/118557564",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Joachimi, Abbt zu Hor in Calabria | Joachim, de Fiore | Flore, Joachim de | Joachimus, Abbas Cisterciensis | Flore, Joachim von | Joachim, di Fiore | Joachim, de Celico | Joachim, Florensis | Joachimi, Abt zu Hor in Calabria | Ioachimus, Florensis | Ioachim, Abbas Florensis | Pseudo-Joachim, de Flore | Gioacchino, da Fiore | Joachimus, aus Celico | Joachim, of Fiore | Joachimus, de Celico | Joachimus, Abbas | Joachim, le Prophète | Joaquín, de Fiore | Fiore, Gioacchino da | Fiore, Giacomo da | Giacchino, da Fiore | Gioachino, Abbate | Joachim, Abbas | Ps.-Joachim, de Flore | Joachimus de Floris | Joachim, Abt | Joachimus aus Celico | Flores, Juan de | Joachinus, Abbas | Pseudo-Joachim, Florensis | Ps.-Joachim, Florensis | Joachimus, Calaber | Gioachino, da Fiore | Fiore, Joachim von | Joachimus, Magnus Propheta | Joachim, of Flora | Joachin, Abbas | Joachim, de Floris | Joachim, de Flore | Floris, Joachim von | Gioachino, di Fiore | Joachimus, Florensis | Gioachino, Abbas | Ioachim, Abbas | Joachimus, Flor, Abbt | Joachim, von Floris | Joachimus, Abbas Florensis",
+            "date_of_birth": "1130",
+            "date_of_death": "1202",
+            "place": [
+              {
+                "id": 240,
+                "value": "Sicily"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Tractatus super quatuor Evangelia",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "https://gallica.bnf.fr/ark:/12148/bpt6k3183423",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "ed. Ernesto Buonaiuti (Rome 1930)",
+        "other_editions": "",
+        "view_label": "Tractatus super quatuor Evangelia ",
+        "prev": {
+          "id": "jad_work__744",
+          "label": "Enchiridion super Apocalypsim "
+        },
+        "next": {
+          "id": "jad_work__746",
           "label": " "
         }
       }

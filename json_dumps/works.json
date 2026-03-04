@@ -28713,22 +28713,44 @@
   "745": {
     "id": 745,
     "order": "624.00000000000000000000",
-    "name": " ",
+    "name": "Tractatus super quatuor Evangelia ",
     "jad_id": "jad_work__745",
-    "author": [],
+    "author": [
+      {
+        "id": 445,
+        "value": "Joachim of Fiore",
+        "order": "291.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Tractatus super quatuor Evangelia",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
-    "link_digital_editions": "",
-    "author_certainty": false,
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://gallica.bnf.fr/ark:/12148/bpt6k3183423",
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "ed. Ernesto Buonaiuti (Rome 1930)",
     "other_editions": ""
   },
   "746": {
