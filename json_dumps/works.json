@@ -28756,22 +28756,44 @@
   "746": {
     "id": 746,
     "order": "625.00000000000000000000",
-    "name": " ",
+    "name": "Visio Wettini ",
     "jad_id": "jad_work__746",
-    "author": [],
+    "author": [
+      {
+        "id": 82,
+        "value": "Walafrid Strabo",
+        "order": "81.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Visio Wettini",
+    "genre": {
+      "id": 18451,
+      "value": "Poetry",
+      "color": "orange"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
-    "link_digital_editions": "",
-    "author_certainty": false,
+    "published_edition": [
+      {
+        "id": 14,
+        "value": "MGH",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 6,
+        "value": "early 9th cen.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://www.dmgh.de/mgh_poetae_2/index.htm#page/311/mode/1up",
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "Poetae 2",
     "other_editions": ""
   },
   "747": {

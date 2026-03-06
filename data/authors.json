@@ -25813,6 +25813,71 @@
           "id": "jad_work__46",
           "label": "Commentary Kings "
         }
+      },
+      {
+        "id": 746,
+        "name": "Visio Wettini ",
+        "jad_id": "jad_work__746",
+        "author": [
+          {
+            "id": 82,
+            "name": "Walafrid Strabo",
+            "jad_id": "jad_author__82",
+            "gnd_url": "https://d-nb.info/gnd/118628550",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Strabus, Gallus | Strabus, Walahfrid | Walafrid, Strabus | Strabus, Walafridus | Valafrido, Strabone | Strabo, Walafridus | Gualafridus, Strabus Fuldensis | Strabus, Fuldensis | Strabo, Walafrid | Walahfridus, Strabo | Walafried, Strabo | Strabo, Walahfridus | Walafridus, Strabus | Walahfrid, von der Reichenau | Strabus, Fulgensis | Walafridus, Strabo | Strabo, Gallus | Walahfrid, Strabo | Galfredus, Reichnauvensis | Walafried, von Reichenau | Walafridus Strabo | Strabo, Walahfrid | Strabus von Fulda | Walahfriedus, Strabo | Walafrid, Strabon",
+            "date_of_birth": "0808",
+            "date_of_death": "0849",
+            "place": [
+              {
+                "id": 48,
+                "value": "Reichenau"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Visio Wettini",
+        "genre": {
+          "id": 18451,
+          "value": "Poetry",
+          "color": "orange"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 14,
+            "name": "MGH",
+            "jad_id": "jad_sources_occurrences__14",
+            "digi_url": "https://www.dmgh.de/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 6,
+            "value": "early 9th cen."
+          }
+        ],
+        "link_digital_editions": "https://www.dmgh.de/mgh_poetae_2/index.htm#page/311/mode/1up",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Poetae 2",
+        "other_editions": "",
+        "view_label": "Visio Wettini ",
+        "prev": {
+          "id": "jad_work__745",
+          "label": "Tractatus super quatuor Evangelia "
+        },
+        "next": {
+          "id": "jad_work__747",
+          "label": " "
+        }
       }
     ]
   },
@@ -52318,7 +52383,7 @@
         },
         "next": {
           "id": "jad_work__746",
-          "label": " "
+          "label": "Visio Wettini "
         }
       }
     ]
