@@ -28799,22 +28799,44 @@
   "747": {
     "id": 747,
     "order": "626.00000000000000000000",
-    "name": " ",
+    "name": "Libellus de exordiis et incrementis quarundam in observationibus ecclesiasticis rerum ",
     "jad_id": "jad_work__747",
-    "author": [],
+    "author": [
+      {
+        "id": 82,
+        "value": "Walafrid Strabo",
+        "order": "81.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Libellus de exordiis et incrementis quarundam in observationibus ecclesiasticis rerum",
+    "genre": {
+      "id": 15021,
+      "value": "Liturgical text",
+      "color": "dark-yellow"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 6,
+        "value": "early 9th cen.",
+        "order": "6.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "A.L. Harting-Correa, Walahfrid Strabo’s Libellus de Exordiis et Incrementis Quarundam in Observationibus Ecclesiasticis Rerum: A Translation and Liturgical Commentary (Leiden 1996).",
     "other_editions": ""
   },
   "748": {
