@@ -16885,17 +16885,27 @@
     },
     "next": {
       "id": "jad_occurence__552",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ruinam illius qua a principibus romanis complananda erat"
     }
   },
   "552": {
     "id": 552,
     "jad_id": "jad_occurence__552",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 516,
+        "value": "ruinam illius qua a principibus romanis complananda erat"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 315,
+        "value": "BNF, lat. 14302"
+      }
+    ],
+    "position_in_ms": "106v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b90667660/f107.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -16905,9 +16915,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-25",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-11",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 315,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 14302, f. 106v"
+      }
+    ],
+    "view_label": "ruinam illius qua a principibus romanis complananda erat",
     "prev": {
       "id": "jad_occurence__551",
       "label": "demonstrat in hoc sancto evangelio dominus noster Ihesus Christus quantum gauderet de perditione Iudeorum"
@@ -16939,7 +16957,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__552",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ruinam illius qua a principibus romanis complananda erat"
     },
     "next": {
       "id": "jad_occurence__554",
