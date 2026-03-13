@@ -14770,9 +14770,21 @@
     "id": 553,
     "order": "355.00000000000000000000",
     "jad_id": "jad_occurence__553",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1216,
+        "value": "Titus et Vaspasianus, imperatores Rome, iverunt et obsiderunt civitatem Ierusalem",
+        "order": "1153.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 114,
+        "value": "Lam., MS 352",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "223r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -14784,16 +14796,36 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-25",
-    "ms_locus": []
+    "last_modified_on": "2026-03-12",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 114,
+          "database_table_3497": 6
+        },
+        "value": "Lam., MS 352, f. 223r"
+      }
+    ]
   },
   "554": {
     "id": 554,
     "order": "356.00000000000000000000",
     "jad_id": "jad_occurence__554",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2462,
+        "value": "civitatem Ierusalem et vidit bene quomodo debuit destrui pro sua iniquitate",
+        "order": "2160.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 114,
+        "value": "Lam., MS 352",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "216r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -14805,16 +14837,36 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-25",
-    "ms_locus": []
+    "last_modified_on": "2026-03-12",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 114,
+          "database_table_3497": 6
+        },
+        "value": "Lam., MS 352, f. 216r"
+      }
+    ]
   },
   "555": {
     "id": 555,
     "order": "357.00000000000000000000",
     "jad_id": "jad_occurence__555",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2461,
+        "value": "secundo flevit super civitatem Ierusalem",
+        "order": "2159.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 316,
+        "value": "Bodl., Lat. th. d.1",
+        "order": "200.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "169v",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -14826,8 +14878,16 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-25",
-    "ms_locus": []
+    "last_modified_on": "2026-03-12",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 316,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Lat. th. d.1, f. 169v"
+      }
+    ]
   },
   "556": {
     "id": 556,

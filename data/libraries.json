@@ -2960,7 +2960,7 @@
         },
         "next": {
           "id": "jad_manuscript__316",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Bodl., Lat. th. d.1"
         }
       }
     ]
@@ -5905,6 +5905,61 @@
         "next": {
           "id": "jad_manuscript__241",
           "label": "Vat., Vat. lat. 1282"
+        }
+      },
+      {
+        "id": 316,
+        "name": [
+          {
+            "id": 10,
+            "value": "Bodl., Lat. th. d.1"
+          }
+        ],
+        "jad_id": "jad_manuscript__316",
+        "library": [
+          {
+            "id": 10,
+            "value": "Bodl.",
+            "jad_id": "jad_library__10",
+            "gnd_url": "https://d-nb.info/gnd/38352-1",
+            "full_name": "Bodleian Library",
+            "place": [
+              {
+                "id": 6,
+                "name": "Oxford",
+                "geonames_url": "https://www.geonames.org/2640729/oxford.html",
+                "jad_id": "jad_places__6",
+                "lat": "51.75222",
+                "long": "-1.25596"
+              }
+            ]
+          }
+        ],
+        "idno": "Lat. th. d.1",
+        "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6722",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 77,
+            "value": "early 15th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 10,
+            "value": "Bodleian Library"
+          }
+        ],
+        "view_label": "Bodl., Lat. th. d.1",
+        "prev": {
+          "id": "jad_manuscript__315",
+          "label": "BNF, lat. 14302"
+        },
+        "next": {
+          "id": "jad_manuscript__317",
+          "label": "NO MATCH FOR $..name[0].value"
         }
       }
     ]

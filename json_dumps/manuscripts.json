@@ -7418,16 +7418,38 @@
   "316": {
     "id": 316,
     "order": "200.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 10,
+        "value": "Bodl., Lat. th. d.1"
+      }
+    ],
     "jad_id": "jad_manuscript__316",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 10,
+        "value": "Bodl.",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "idno": "Lat. th. d.1",
+    "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6722",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 77,
+        "value": "early 15th cen.",
+        "order": "76.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 10,
+        "value": "Bodleian Library"
+      }
+    ]
   },
   "317": {
     "id": 317,

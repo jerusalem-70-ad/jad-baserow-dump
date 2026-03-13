@@ -2751,9 +2751,9 @@
         "institutional_context": [],
         "published_edition": [
           {
-            "id": 1,
-            "name": "None",
-            "jad_id": "jad_sources_occurrences__1",
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
             "digi_url": ""
           }
         ],
@@ -2767,7 +2767,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "Holly Johnson, The Grammar of Good Friday: Macaronic Sermons of Late Medieval England (Turnhout 2012).",
         "other_editions": null,
         "view_label": "Sermones ",
         "prev": {
@@ -5411,6 +5411,71 @@
         "next": {
           "id": "jad_work__741",
           "label": "Prognosticorum futuri saeculi libri tres "
+        }
+      },
+      {
+        "id": 748,
+        "name": "Sermones ",
+        "jad_id": "jad_work__748",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 316,
+            "value": "Bodl., Lat. th. d.1"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 77,
+            "value": "early 15th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Holly Johnson, The Grammar of Good Friday: Macaronic Sermons of Late Medieval England (Turnhout 2012).",
+        "other_editions": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__747",
+          "label": "Libellus de exordiis et incrementis quarundam in observationibus ecclesiasticis rerum "
+        },
+        "next": {
+          "id": "jad_work__749",
+          "label": "Adversus Iudeos "
         }
       }
     ]
@@ -21048,7 +21113,7 @@
         "view_label": "Chronicon ",
         "prev": {
           "id": "jad_work__749",
-          "label": " "
+          "label": "Adversus Iudeos "
         },
         "next": {
           "id": "jad_work__750",
@@ -21142,7 +21207,7 @@
         "other_editions": null,
         "view_label": "Collectanea in omnes B. Pauli epistolas ",
         "prev": {
-          "id": "jad_work__750",
+          "id": "jad_work__755",
           "label": " "
         },
         "next": {
@@ -25941,7 +26006,7 @@
         },
         "next": {
           "id": "jad_work__748",
-          "label": " "
+          "label": "Sermones "
         }
       }
     ]
@@ -52449,6 +52514,71 @@
         "next": {
           "id": "jad_work__746",
           "label": "Visio Wettini "
+        }
+      },
+      {
+        "id": 749,
+        "name": "Adversus Iudeos ",
+        "jad_id": "jad_work__749",
+        "author": [
+          {
+            "id": 445,
+            "name": "Joachim of Fiore",
+            "jad_id": "jad_author__445",
+            "gnd_url": "https://d-nb.info/gnd/118557564",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Joachimi, Abbt zu Hor in Calabria | Joachim, de Fiore | Flore, Joachim de | Joachimus, Abbas Cisterciensis | Flore, Joachim von | Joachim, di Fiore | Joachim, de Celico | Joachim, Florensis | Joachimi, Abt zu Hor in Calabria | Ioachimus, Florensis | Ioachim, Abbas Florensis | Pseudo-Joachim, de Flore | Gioacchino, da Fiore | Joachimus, aus Celico | Joachim, of Fiore | Joachimus, de Celico | Joachimus, Abbas | Joachim, le Prophète | Joaquín, de Fiore | Fiore, Gioacchino da | Fiore, Giacomo da | Giacchino, da Fiore | Gioachino, Abbate | Joachim, Abbas | Ps.-Joachim, de Flore | Joachimus de Floris | Joachim, Abt | Joachimus aus Celico | Flores, Juan de | Joachinus, Abbas | Pseudo-Joachim, Florensis | Ps.-Joachim, Florensis | Joachimus, Calaber | Gioachino, da Fiore | Fiore, Joachim von | Joachimus, Magnus Propheta | Joachim, of Flora | Joachin, Abbas | Joachim, de Floris | Joachim, de Flore | Floris, Joachim von | Gioachino, di Fiore | Joachimus, Florensis | Gioachino, Abbas | Ioachim, Abbas | Joachimus, Flor, Abbt | Joachim, von Floris | Joachimus, Abbas Florensis",
+            "date_of_birth": "1130",
+            "date_of_death": "1202",
+            "place": [
+              {
+                "id": 240,
+                "value": "Sicily"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Adversus Iudeos",
+        "genre": {
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Frugoni (Rome 1957)",
+        "other_editions": "",
+        "view_label": "Adversus Iudeos ",
+        "prev": {
+          "id": "jad_work__748",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__75",
+          "label": "Chronicon "
         }
       }
     ]

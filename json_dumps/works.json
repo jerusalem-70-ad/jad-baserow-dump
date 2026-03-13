@@ -19806,9 +19806,9 @@
     "institutional_context": [],
     "published_edition": [
       {
-        "id": 1,
-        "value": "None",
-        "order": "1.00000000000000000000"
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
       }
     ],
     "date_certainty": true,
@@ -19822,7 +19822,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "Holly Johnson, The Grammar of Good Friday: Macaronic Sermons of Late Medieval England (Turnhout 2012).",
     "other_editions": null
   },
   "435": {
@@ -28842,43 +28842,93 @@
   "748": {
     "id": 748,
     "order": "627.00000000000000000000",
-    "name": " ",
+    "name": "Sermones ",
     "jad_id": "jad_work__748",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 316,
+        "value": "Bodl., Lat. th. d.1",
+        "order": "200.00000000000000000000"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 77,
+        "value": "early 15th cen.",
+        "order": "76.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "Holly Johnson, The Grammar of Good Friday: Macaronic Sermons of Late Medieval England (Turnhout 2012).",
     "other_editions": ""
   },
   "749": {
     "id": 749,
     "order": "628.00000000000000000000",
-    "name": " ",
+    "name": "Adversus Iudeos ",
     "jad_id": "jad_work__749",
-    "author": [],
+    "author": [
+      {
+        "id": 445,
+        "value": "Joachim of Fiore",
+        "order": "291.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Adversus Iudeos",
+    "genre": {
+      "id": 14728,
+      "value": "Anti-Jewish treatise",
+      "color": "darker-purple"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "Frugoni (Rome 1957)",
     "other_editions": ""
   },
   "750": {
@@ -28886,6 +28936,111 @@
     "order": "629.00000000000000000000",
     "name": " ",
     "jad_id": "jad_work__750",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "751": {
+    "id": 751,
+    "order": "630.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__751",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "752": {
+    "id": 752,
+    "order": "631.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__752",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "753": {
+    "id": 753,
+    "order": "632.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__753",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "754": {
+    "id": 754,
+    "order": "633.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__754",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "755": {
+    "id": 755,
+    "order": "634.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__755",
     "author": [],
     "manuscripts": [],
     "title": "",

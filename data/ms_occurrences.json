@@ -16932,15 +16932,25 @@
     },
     "next": {
       "id": "jad_occurence__553",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Titus et Vaspasianus, imperatores Rome, iverunt et obsiderunt civitatem Ierusalem"
     }
   },
   "553": {
     "id": 553,
     "jad_id": "jad_occurence__553",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1216,
+        "value": "Titus et Vaspasianus, imperatores Rome, iverunt et obsiderunt civitatem Ierusalem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 114,
+        "value": "Lam., MS 352"
+      }
+    ],
+    "position_in_ms": "223r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -16952,24 +16962,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-25",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-12",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 114,
+          "database_table_3497": 6
+        },
+        "value": "Lam., MS 352, f. 223r"
+      }
+    ],
+    "view_label": "Titus et Vaspasianus, imperatores Rome, iverunt et obsiderunt civitatem Ierusalem",
     "prev": {
       "id": "jad_occurence__552",
       "label": "ruinam illius qua a principibus romanis complananda erat"
     },
     "next": {
       "id": "jad_occurence__554",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "civitatem Ierusalem et vidit bene quomodo debuit destrui pro sua iniquitate"
     }
   },
   "554": {
     "id": 554,
     "jad_id": "jad_occurence__554",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2462,
+        "value": "civitatem Ierusalem et vidit bene quomodo debuit destrui pro sua iniquitate"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 114,
+        "value": "Lam., MS 352"
+      }
+    ],
+    "position_in_ms": "216r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -16981,24 +17009,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-25",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-12",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 114,
+          "database_table_3497": 6
+        },
+        "value": "Lam., MS 352, f. 216r"
+      }
+    ],
+    "view_label": "civitatem Ierusalem et vidit bene quomodo debuit destrui pro sua iniquitate",
     "prev": {
       "id": "jad_occurence__553",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Titus et Vaspasianus, imperatores Rome, iverunt et obsiderunt civitatem Ierusalem"
     },
     "next": {
       "id": "jad_occurence__555",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "secundo flevit super civitatem Ierusalem"
     }
   },
   "555": {
     "id": 555,
     "jad_id": "jad_occurence__555",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2461,
+        "value": "secundo flevit super civitatem Ierusalem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 316,
+        "value": "Bodl., Lat. th. d.1"
+      }
+    ],
+    "position_in_ms": "169v",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -17010,12 +17056,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-25",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-12",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 316,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Lat. th. d.1, f. 169v"
+      }
+    ],
+    "view_label": "secundo flevit super civitatem Ierusalem",
     "prev": {
       "id": "jad_occurence__554",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "civitatem Ierusalem et vidit bene quomodo debuit destrui pro sua iniquitate"
     },
     "next": {
       "id": "jad_occurence__556",
@@ -17044,7 +17098,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__555",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "secundo flevit super civitatem Ierusalem"
     },
     "next": {
       "id": "jad_occurence__557",
