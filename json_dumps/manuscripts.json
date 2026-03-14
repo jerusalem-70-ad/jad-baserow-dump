@@ -7454,36 +7454,212 @@
   "317": {
     "id": 317,
     "order": "201.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, NAL 736"
+      }
+    ],
     "jad_id": "jad_manuscript__317",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "NAL 736",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc714387",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": []
+    "date_written": [
+      {
+        "id": 2,
+        "value": "12th cen.",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "format": "19 x 12, 117 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
   },
   "318": {
     "id": 318,
     "order": "202.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, lat. 2910"
+      }
+    ],
     "jad_id": "jad_manuscript__318",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "lat. 2910",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc60724b",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": []
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "format": "17 x 13, 232 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
   },
   "319": {
     "id": 319,
     "order": "203.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 4,
+        "value": "St. Gen., MS 2775"
+      }
+    ],
     "jad_id": "jad_manuscript__319",
+    "library": [
+      {
+        "id": 4,
+        "value": "St. Gen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "idno": "MS 2775",
+    "catalog_url": "https://calames.abes.fr/pub/bsg.aspx#details?id=BSGC10531",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bibliothèque Sainte-Geneviève"
+      }
+    ]
+  },
+  "320": {
+    "id": 320,
+    "order": "204.00000000000000000000",
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 9603"
+      }
+    ],
+    "jad_id": "jad_manuscript__320",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "Latin 9603",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc776013",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 1,
+        "value": "9th cen.",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "format": "26 x 20, 100 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
+  },
+  "321": {
+    "id": 321,
+    "order": "205.00000000000000000000",
+    "name": [
+      {
+        "id": 35,
+        "value": "Berlin Staatsbibl., theol. lat. fol. 46"
+      }
+    ],
+    "jad_id": "jad_manuscript__321",
+    "library": [
+      {
+        "id": 35,
+        "value": "Berlin Staatsbibl.",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "idno": "theol. lat. fol. 46",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 35,
+        "value": "Staatsbibliothek zu Berlin. Handschriftenabteilung"
+      }
+    ]
+  },
+  "322": {
+    "id": 322,
+    "order": "206.00000000000000000000",
+    "name": [
+      {
+        "id": 35,
+        "value": "Berlin Staatsbibl., theol. lat. fol. 49"
+      }
+    ],
+    "jad_id": "jad_manuscript__322",
+    "library": [
+      {
+        "id": 35,
+        "value": "Berlin Staatsbibl.",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "idno": "theol. lat. fol. 49",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 35,
+        "value": "Staatsbibliothek zu Berlin. Handschriftenabteilung"
+      }
+    ]
+  },
+  "323": {
+    "id": 323,
+    "order": "207.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__323",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -7493,11 +7669,95 @@
     "format": "",
     "library_full": []
   },
-  "320": {
-    "id": 320,
-    "order": "204.00000000000000000000",
+  "324": {
+    "id": 324,
+    "order": "208.00000000000000000000",
     "name": [],
-    "jad_id": "jad_manuscript__320",
+    "jad_id": "jad_manuscript__324",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "325": {
+    "id": 325,
+    "order": "209.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__325",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "326": {
+    "id": 326,
+    "order": "210.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__326",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "327": {
+    "id": 327,
+    "order": "211.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__327",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "328": {
+    "id": 328,
+    "order": "212.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__328",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "329": {
+    "id": 329,
+    "order": "213.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__329",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "330": {
+    "id": 330,
+    "order": "214.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__330",
     "library": [],
     "idno": "",
     "catalog_url": "",

@@ -5477,6 +5477,136 @@
           "id": "jad_work__749",
           "label": "Adversus Iudeos "
         }
+      },
+      {
+        "id": 750,
+        "name": "Sermones ",
+        "jad_id": "jad_work__750",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 317,
+            "value": "BNF, NAL 736"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 2,
+            "value": "12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__75",
+          "label": "Chronicon "
+        },
+        "next": {
+          "id": "jad_work__751",
+          "label": "Sermones "
+        }
+      },
+      {
+        "id": 754,
+        "name": "Sermones ",
+        "jad_id": "jad_work__754",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 320,
+            "value": "BNF, Latin 9603"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 1,
+            "value": "9th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__753",
+          "label": "Commentary Deuteronomium "
+        },
+        "next": {
+          "id": "jad_work__755",
+          "label": " "
+        }
       }
     ]
   },
@@ -6279,6 +6409,216 @@
         "next": {
           "id": "jad_work__328",
           "label": "De panibus "
+        }
+      },
+      {
+        "id": 751,
+        "name": "Sermones ",
+        "jad_id": "jad_work__751",
+        "author": [
+          {
+            "id": 4,
+            "name": "Petrus Cantor",
+            "jad_id": "jad_author__4",
+            "gnd_url": "https://d-nb.info/gnd/118790625",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": "Pietro Cantore | Pierre de Paris | Petrus, Rhemensis | Cantor, Petrus | Pierre, le Grand-Chantre | Petrus Parisiensis | Pierre, de Reims | Pierre, le Chantre | Petrus Remensis | Petrus, Parisiensis | Petrus Cantor, Parisiensis | Petrus, Hosdenc | Hosdenc, Petrus | Petrus, Remensis | Pierre de Reims | Petrus Praecantor | Petrus, Praecantor | Pierre, le Picard | Petri Cantoris, Parisiensis | Pietro, il Cantore | Peter, the Chanter | Pierre, de Paris | Cantore, Pietro",
+            "date_of_birth": "1130",
+            "date_of_death": "1197",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": false,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 319,
+            "value": "St. Gen., MS 2775"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__750",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__752",
+          "label": "Commentary Kings "
+        }
+      },
+      {
+        "id": 752,
+        "name": "Commentary Kings ",
+        "jad_id": "jad_work__752",
+        "author": [
+          {
+            "id": 4,
+            "name": "Petrus Cantor",
+            "jad_id": "jad_author__4",
+            "gnd_url": "https://d-nb.info/gnd/118790625",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": "Pietro Cantore | Pierre de Paris | Petrus, Rhemensis | Cantor, Petrus | Pierre, le Grand-Chantre | Petrus Parisiensis | Pierre, de Reims | Pierre, le Chantre | Petrus Remensis | Petrus, Parisiensis | Petrus Cantor, Parisiensis | Petrus, Hosdenc | Hosdenc, Petrus | Petrus, Remensis | Pierre de Reims | Petrus Praecantor | Petrus, Praecantor | Pierre, le Picard | Petri Cantoris, Parisiensis | Pietro, il Cantore | Peter, the Chanter | Pierre, de Paris | Cantore, Pietro",
+            "date_of_birth": "1130",
+            "date_of_death": "1197",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": false,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 32,
+            "value": "Arsenal, MS 44"
+          }
+        ],
+        "title": "Commentary Kings",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Kings ",
+        "prev": {
+          "id": "jad_work__751",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__753",
+          "label": "Commentary Deuteronomium "
+        }
+      },
+      {
+        "id": 753,
+        "name": "Commentary Deuteronomium ",
+        "jad_id": "jad_work__753",
+        "author": [
+          {
+            "id": 4,
+            "name": "Petrus Cantor",
+            "jad_id": "jad_author__4",
+            "gnd_url": "https://d-nb.info/gnd/118790625",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": "Pietro Cantore | Pierre de Paris | Petrus, Rhemensis | Cantor, Petrus | Pierre, le Grand-Chantre | Petrus Parisiensis | Pierre, de Reims | Pierre, le Chantre | Petrus Remensis | Petrus, Parisiensis | Petrus Cantor, Parisiensis | Petrus, Hosdenc | Hosdenc, Petrus | Petrus, Remensis | Pierre de Reims | Petrus Praecantor | Petrus, Praecantor | Pierre, le Picard | Petri Cantoris, Parisiensis | Pietro, il Cantore | Peter, the Chanter | Pierre, de Paris | Cantore, Pietro",
+            "date_of_birth": "1130",
+            "date_of_death": "1197",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": false,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 32,
+            "value": "Arsenal, MS 44"
+          }
+        ],
+        "title": "Commentary Deuteronomium",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Deuteronomium ",
+        "prev": {
+          "id": "jad_work__752",
+          "label": "Commentary Kings "
+        },
+        "next": {
+          "id": "jad_work__754",
+          "label": "Sermones "
         }
       }
     ]
@@ -18760,8 +19100,8 @@
         "other_editions": null,
         "view_label": "Expositio in Cantica canticorum ",
         "prev": {
-          "id": "jad_work__76",
-          "label": "Collectanea in omnes B. Pauli epistolas "
+          "id": "jad_work__765",
+          "label": " "
         },
         "next": {
           "id": "jad_work__78",
@@ -21117,7 +21457,7 @@
         },
         "next": {
           "id": "jad_work__750",
-          "label": " "
+          "label": "Sermones "
         }
       }
     ]
@@ -21207,12 +21547,12 @@
         "other_editions": null,
         "view_label": "Collectanea in omnes B. Pauli epistolas ",
         "prev": {
-          "id": "jad_work__755",
+          "id": "jad_work__759",
           "label": " "
         },
         "next": {
-          "id": "jad_work__77",
-          "label": "Expositio in Cantica canticorum "
+          "id": "jad_work__760",
+          "label": " "
         }
       },
       {

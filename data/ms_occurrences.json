@@ -2624,11 +2624,11 @@
     "view_label": "Et missis exercitibus inter litteris exponere de captivitate facta per romanos, gloriosa de eterna dampnatione",
     "prev": {
       "id": "jad_occurence__559",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "opus tuum malum pronuntiat et te a deo seperatum affirmat"
     },
     "next": {
       "id": "jad_occurence__560",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "flens super Ierusalem perituram"
     }
   },
   "57": {
@@ -2670,12 +2670,12 @@
     ],
     "view_label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae",
     "prev": {
-      "id": "jad_occurence__560",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "id": "jad_occurence__569",
+      "label": "per spiritum prophetalem perpessuram romanis Iudeam"
     },
     "next": {
-      "id": "jad_occurence__58",
-      "label": "De Tyto et Vespasiano"
+      "id": "jad_occurence__570",
+      "label": "romanis autem nondum venerat in captivitatem, licet iam et ipsa immineret ultrix"
     }
   },
   "58": {
@@ -2717,12 +2717,12 @@
     ],
     "view_label": "De Tyto et Vespasiano",
     "prev": {
-      "id": "jad_occurence__57",
-      "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae"
+      "id": "jad_occurence__579",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__59",
-      "label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
+      "id": "jad_occurence__580",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "59": {
@@ -2764,8 +2764,8 @@
     ],
     "view_label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus",
     "prev": {
-      "id": "jad_occurence__58",
-      "label": "De Tyto et Vespasiano"
+      "id": "jad_occurence__580",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__6",
@@ -7733,7 +7733,7 @@
     },
     "next": {
       "id": "jad_occurence__166",
-      "label": "??"
+      "label": "videns civitatem flevit super illam"
     }
   },
   "166": {
@@ -7742,11 +7742,16 @@
     "occurrence": [
       {
         "id": 1235,
-        "value": "??"
+        "value": "videns civitatem flevit super illam"
       }
     ],
-    "manuscript": [],
-    "position_in_ms": "?? Paris Hs.",
+    "manuscript": [
+      {
+        "id": 318,
+        "value": "BNF, lat. 2910"
+      }
+    ],
+    "position_in_ms": "169v",
     "main_ms": true,
     "facsimile_position": "",
     "created_by": {
@@ -7758,16 +7763,24 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-19",
-    "ms_locus": [],
-    "view_label": "??",
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 318,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 2910, f. 169v"
+      }
+    ],
+    "view_label": "videns civitatem flevit super illam",
     "prev": {
       "id": "jad_occurence__165",
       "label": "videns Ihesus civitatem flevit super illam"
     },
     "next": {
       "id": "jad_occurence__167",
-      "label": "??"
+      "label": "videns civitatem flevit super illam"
     }
   },
   "167": {
@@ -7776,7 +7789,7 @@
     "occurrence": [
       {
         "id": 1235,
-        "value": "??"
+        "value": "videns civitatem flevit super illam"
       }
     ],
     "manuscript": [
@@ -7807,14 +7820,14 @@
         "value": "Vat., Borgh. 6, f. 97r"
       }
     ],
-    "view_label": "??",
+    "view_label": "videns civitatem flevit super illam",
     "prev": {
       "id": "jad_occurence__166",
-      "label": "??"
+      "label": "videns civitatem flevit super illam"
     },
     "next": {
       "id": "jad_occurence__168",
-      "label": "??"
+      "label": "videns civitatem flevit super illam"
     }
   },
   "168": {
@@ -7823,7 +7836,7 @@
     "occurrence": [
       {
         "id": 1235,
-        "value": "??"
+        "value": "videns civitatem flevit super illam"
       }
     ],
     "manuscript": [
@@ -7854,10 +7867,10 @@
         "value": "BL, Arundel 132, f. 106r-107r"
       }
     ],
-    "view_label": "??",
+    "view_label": "videns civitatem flevit super illam",
     "prev": {
       "id": "jad_occurence__167",
-      "label": "??"
+      "label": "videns civitatem flevit super illam"
     },
     "next": {
       "id": "jad_occurence__169",
@@ -7904,7 +7917,7 @@
     "view_label": "deus civitati Ierusalem super ventura mala previdens enim flebat",
     "prev": {
       "id": "jad_occurence__168",
-      "label": "??"
+      "label": "videns civitatem flevit super illam"
     },
     "next": {
       "id": "jad_occurence__17",
@@ -17073,16 +17086,26 @@
     },
     "next": {
       "id": "jad_occurence__556",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Ierusalem multis vicibus erat destructa, novissime autem a tyto et a vaspasiano"
     }
   },
   "556": {
     "id": 556,
     "jad_id": "jad_occurence__556",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2464,
+        "value": "Ierusalem multis vicibus erat destructa, novissime autem a tyto et a vaspasiano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 317,
+        "value": "BNF, NAL 736"
+      }
+    ],
+    "position_in_ms": "63r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -17093,25 +17116,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-25",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 317,
+          "database_table_3497": 2
+        },
+        "value": "BNF, NAL 736, f. 63r"
+      }
+    ],
+    "view_label": "Ierusalem multis vicibus erat destructa, novissime autem a tyto et a vaspasiano",
     "prev": {
       "id": "jad_occurence__555",
       "label": "secundo flevit super civitatem Ierusalem"
     },
     "next": {
       "id": "jad_occurence__557",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos dominus duos romanorum principes, vaspasinum et titum"
     }
   },
   "557": {
     "id": 557,
     "jad_id": "jad_occurence__557",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2465,
+        "value": "suscitavit adversus eos dominus duos romanorum principes, vaspasinum et titum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 317,
+        "value": "BNF, NAL 736"
+      }
+    ],
+    "position_in_ms": "85r-86v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -17122,25 +17163,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-25",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 317,
+          "database_table_3497": 2
+        },
+        "value": "BNF, NAL 736, f. 85r-86v"
+      }
+    ],
+    "view_label": "suscitavit adversus eos dominus duos romanorum principes, vaspasinum et titum",
     "prev": {
       "id": "jad_occurence__556",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Ierusalem multis vicibus erat destructa, novissime autem a tyto et a vaspasiano"
     },
     "next": {
       "id": "jad_occurence__558",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "in hac prudentia misere Ierusalem que tempus visitationis sue non cognovit"
     }
   },
   "558": {
     "id": 558,
     "jad_id": "jad_occurence__558",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2466,
+        "value": "in hac prudentia misere Ierusalem que tempus visitationis sue non cognovit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 318,
+        "value": "BNF, lat. 2910"
+      }
+    ],
+    "position_in_ms": "167v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -17151,25 +17210,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-25",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 318,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 2910, f. 167v"
+      }
+    ],
+    "view_label": "in hac prudentia misere Ierusalem que tempus visitationis sue non cognovit",
     "prev": {
       "id": "jad_occurence__557",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos dominus duos romanorum principes, vaspasinum et titum"
     },
     "next": {
       "id": "jad_occurence__559",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "opus tuum malum pronuntiat et te a deo seperatum affirmat"
     }
   },
   "559": {
     "id": 559,
     "jad_id": "jad_occurence__559",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2467,
+        "value": "opus tuum malum pronuntiat et te a deo seperatum affirmat"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 318,
+        "value": "BNF, lat. 2910"
+      }
+    ],
+    "position_in_ms": "168v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -17180,12 +17257,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-25",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 318,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 2910, f. 168v"
+      }
+    ],
+    "view_label": "opus tuum malum pronuntiat et te a deo seperatum affirmat",
     "prev": {
       "id": "jad_occurence__558",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "in hac prudentia misere Ierusalem que tempus visitationis sue non cognovit"
     },
     "next": {
       "id": "jad_occurence__56",
@@ -17195,10 +17280,20 @@
   "560": {
     "id": 560,
     "jad_id": "jad_occurence__560",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2468,
+        "value": "flens super Ierusalem perituram"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 318,
+        "value": "BNF, lat. 2910"
+      }
+    ],
+    "position_in_ms": "209v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -17209,16 +17304,838 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-02-25",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 318,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 2910, f. 209v"
+      }
+    ],
+    "view_label": "flens super Ierusalem perituram",
     "prev": {
       "id": "jad_occurence__56",
       "label": "Et missis exercitibus inter litteris exponere de captivitate facta per romanos, gloriosa de eterna dampnatione"
     },
     "next": {
+      "id": "jad_occurence__561",
+      "label": "missis exercitibus romanis, sub tito et vaspasiano perdidit homicidias illos Iudeos"
+    }
+  },
+  "561": {
+    "id": 561,
+    "jad_id": "jad_occurence__561",
+    "occurrence": [
+      {
+        "id": 2469,
+        "value": "missis exercitibus romanis, sub tito et vaspasiano perdidit homicidias illos Iudeos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 318,
+        "value": "BNF, lat. 2910"
+      }
+    ],
+    "position_in_ms": "211v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 318,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 2910, f. 211v"
+      }
+    ],
+    "view_label": "missis exercitibus romanis, sub tito et vaspasiano perdidit homicidias illos Iudeos",
+    "prev": {
+      "id": "jad_occurence__560",
+      "label": "flens super Ierusalem perituram"
+    },
+    "next": {
+      "id": "jad_occurence__562",
+      "label": "videns Ihesus civitatem flevit super illam"
+    }
+  },
+  "562": {
+    "id": 562,
+    "jad_id": "jad_occurence__562",
+    "occurrence": [
+      {
+        "id": 2470,
+        "value": "videns Ihesus civitatem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 319,
+        "value": "St. Gen., MS 2775"
+      }
+    ],
+    "position_in_ms": "93v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 319,
+          "database_table_3497": 4
+        },
+        "value": "St. Gen., MS 2775, f. 93v"
+      }
+    ],
+    "view_label": "videns Ihesus civitatem flevit super illam",
+    "prev": {
+      "id": "jad_occurence__561",
+      "label": "missis exercitibus romanis, sub tito et vaspasiano perdidit homicidias illos Iudeos"
+    },
+    "next": {
+      "id": "jad_occurence__563",
+      "label": "videns Ihesus civitatem flevit super illam"
+    }
+  },
+  "563": {
+    "id": 563,
+    "jad_id": "jad_occurence__563",
+    "occurrence": [
+      {
+        "id": 2471,
+        "value": "videns Ihesus civitatem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 319,
+        "value": "St. Gen., MS 2775"
+      }
+    ],
+    "position_in_ms": "95r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 319,
+          "database_table_3497": 4
+        },
+        "value": "St. Gen., MS 2775, f. 95r"
+      }
+    ],
+    "view_label": "videns Ihesus civitatem flevit super illam",
+    "prev": {
+      "id": "jad_occurence__562",
+      "label": "videns Ihesus civitatem flevit super illam"
+    },
+    "next": {
+      "id": "jad_occurence__564",
+      "label": "XLII anno inmisit duos ursos de silvis gentilium, scilicet titum et vaspasianum"
+    }
+  },
+  "564": {
+    "id": 564,
+    "jad_id": "jad_occurence__564",
+    "occurrence": [
+      {
+        "id": 2472,
+        "value": "XLII anno inmisit duos ursos de silvis gentilium, scilicet titum et vaspasianum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 32,
+        "value": "Arsenal, MS 44"
+      }
+    ],
+    "position_in_ms": "402",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 32,
+          "database_table_3497": 13
+        },
+        "value": "Arsenal, MS 44, f. 402"
+      }
+    ],
+    "view_label": "XLII anno inmisit duos ursos de silvis gentilium, scilicet titum et vaspasianum",
+    "prev": {
+      "id": "jad_occurence__563",
+      "label": "videns Ihesus civitatem flevit super illam"
+    },
+    "next": {
+      "id": "jad_occurence__565",
+      "label": "corpora exivat hostes spirituales vel romanos"
+    }
+  },
+  "565": {
+    "id": 565,
+    "jad_id": "jad_occurence__565",
+    "occurrence": [
+      {
+        "id": 2473,
+        "value": "corpora exivat hostes spirituales vel romanos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 32,
+        "value": "Arsenal, MS 44"
+      }
+    ],
+    "position_in_ms": "331",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 32,
+          "database_table_3497": 13
+        },
+        "value": "Arsenal, MS 44, f. 331"
+      }
+    ],
+    "view_label": "corpora exivat hostes spirituales vel romanos",
+    "prev": {
+      "id": "jad_occurence__564",
+      "label": "XLII anno inmisit duos ursos de silvis gentilium, scilicet titum et vaspasianum"
+    },
+    "next": {
+      "id": "jad_occurence__566",
+      "label": "temporalium et spiritualium adducet semper tegentem caldeos, vel romanos"
+    }
+  },
+  "566": {
+    "id": 566,
+    "jad_id": "jad_occurence__566",
+    "occurrence": [
+      {
+        "id": 2474,
+        "value": "temporalium et spiritualium adducet semper tegentem caldeos, vel romanos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 32,
+        "value": "Arsenal, MS 44"
+      }
+    ],
+    "position_in_ms": "332",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 32,
+          "database_table_3497": 13
+        },
+        "value": "Arsenal, MS 44, f. 332"
+      }
+    ],
+    "view_label": "temporalium et spiritualium adducet semper tegentem caldeos, vel romanos",
+    "prev": {
+      "id": "jad_occurence__565",
+      "label": "corpora exivat hostes spirituales vel romanos"
+    },
+    "next": {
+      "id": "jad_occurence__567",
+      "label": "iuxta litteram autem domus et templum quod augustus inter illos habebatur desertum est"
+    }
+  },
+  "567": {
+    "id": 567,
+    "jad_id": "jad_occurence__567",
+    "occurrence": [
+      {
+        "id": 2475,
+        "value": "iuxta litteram autem domus et templum quod augustus inter illos habebatur desertum est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 143,
+        "value": "BNF, lat. 3782"
+      }
+    ],
+    "position_in_ms": "18r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 143,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 3782, f. 18r"
+      }
+    ],
+    "view_label": "iuxta litteram autem domus et templum quod augustus inter illos habebatur desertum est",
+    "prev": {
+      "id": "jad_occurence__566",
+      "label": "temporalium et spiritualium adducet semper tegentem caldeos, vel romanos"
+    },
+    "next": {
+      "id": "jad_occurence__568",
+      "label": "post domini resurrectionem exigentibus romanis, non solum gentem et regnum, verum etiam et templum"
+    }
+  },
+  "568": {
+    "id": 568,
+    "jad_id": "jad_occurence__568",
+    "occurrence": [
+      {
+        "id": 2476,
+        "value": "post domini resurrectionem exigentibus romanis, non solum gentem et regnum, verum etiam et templum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 143,
+        "value": "BNF, lat. 3782"
+      }
+    ],
+    "position_in_ms": "187r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 143,
+          "database_table_3497": 2
+        },
+        "value": "BNF, lat. 3782, f. 187r"
+      }
+    ],
+    "view_label": "post domini resurrectionem exigentibus romanis, non solum gentem et regnum, verum etiam et templum",
+    "prev": {
+      "id": "jad_occurence__567",
+      "label": "iuxta litteram autem domus et templum quod augustus inter illos habebatur desertum est"
+    },
+    "next": {
+      "id": "jad_occurence__569",
+      "label": "per spiritum prophetalem perpessuram romanis Iudeam"
+    }
+  },
+  "569": {
+    "id": 569,
+    "jad_id": "jad_occurence__569",
+    "occurrence": [
+      {
+        "id": 2477,
+        "value": "per spiritum prophetalem perpessuram romanis Iudeam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 320,
+        "value": "BNF, Latin 9603"
+      }
+    ],
+    "position_in_ms": "37v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 320,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 9603, f. 37v"
+      }
+    ],
+    "view_label": "per spiritum prophetalem perpessuram romanis Iudeam",
+    "prev": {
+      "id": "jad_occurence__568",
+      "label": "post domini resurrectionem exigentibus romanis, non solum gentem et regnum, verum etiam et templum"
+    },
+    "next": {
       "id": "jad_occurence__57",
       "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae"
+    }
+  },
+  "570": {
+    "id": 570,
+    "jad_id": "jad_occurence__570",
+    "occurrence": [
+      {
+        "id": 2478,
+        "value": "romanis autem nondum venerat in captivitatem, licet iam et ipsa immineret ultrix"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 320,
+        "value": "BNF, Latin 9603"
+      }
+    ],
+    "position_in_ms": "62v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 320,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 9603, f. 62v"
+      }
+    ],
+    "view_label": "romanis autem nondum venerat in captivitatem, licet iam et ipsa immineret ultrix",
+    "prev": {
+      "id": "jad_occurence__57",
+      "label": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit… (cf. Lc. XIX, 41). Sciens Dominus Jerusalem esse subvertendam a Romanis propter peccatum mortis suae"
+    },
+    "next": {
+      "id": "jad_occurence__571",
+      "label": "ruinam perfide civitatis, que eis ob enormitatem malitie sue a tito et vespasiano principibus illata est"
+    }
+  },
+  "571": {
+    "id": 571,
+    "jad_id": "jad_occurence__571",
+    "occurrence": [
+      {
+        "id": 2479,
+        "value": "ruinam perfide civitatis, que eis ob enormitatem malitie sue a tito et vespasiano principibus illata est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 320,
+        "value": "BNF, Latin 9603"
+      }
+    ],
+    "position_in_ms": "80r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 320,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 9603, f. 80r"
+      }
+    ],
+    "view_label": "ruinam perfide civitatis, que eis ob enormitatem malitie sue a tito et vespasiano principibus illata est",
+    "prev": {
+      "id": "jad_occurence__570",
+      "label": "romanis autem nondum venerat in captivitatem, licet iam et ipsa immineret ultrix"
+    },
+    "next": {
+      "id": "jad_occurence__572",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    }
+  },
+  "572": {
+    "id": 572,
+    "jad_id": "jad_occurence__572",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 321,
+        "value": "Berlin Staatsbibl., theol. lat. fol. 46"
+      }
+    ],
+    "position_in_ms": "89v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 321,
+          "database_table_3497": 35
+        },
+        "value": "Berlin Staatsbibl., theol. lat. fol. 46, f. 89v"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+    "prev": {
+      "id": "jad_occurence__571",
+      "label": "ruinam perfide civitatis, que eis ob enormitatem malitie sue a tito et vespasiano principibus illata est"
+    },
+    "next": {
+      "id": "jad_occurence__573",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    }
+  },
+  "573": {
+    "id": 573,
+    "jad_id": "jad_occurence__573",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 322,
+        "value": "Berlin Staatsbibl., theol. lat. fol. 49"
+      }
+    ],
+    "position_in_ms": "104r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 322,
+          "database_table_3497": 35
+        },
+        "value": "Berlin Staatsbibl., theol. lat. fol. 49, f. 104r"
+      }
+    ],
+    "view_label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est",
+    "prev": {
+      "id": "jad_occurence__572",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    },
+    "next": {
+      "id": "jad_occurence__574",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "574": {
+    "id": 574,
+    "jad_id": "jad_occurence__574",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__573",
+      "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
+    },
+    "next": {
+      "id": "jad_occurence__575",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "575": {
+    "id": 575,
+    "jad_id": "jad_occurence__575",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__574",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__576",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "576": {
+    "id": 576,
+    "jad_id": "jad_occurence__576",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__575",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__577",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "577": {
+    "id": 577,
+    "jad_id": "jad_occurence__577",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__576",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__578",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "578": {
+    "id": 578,
+    "jad_id": "jad_occurence__578",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__577",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__579",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "579": {
+    "id": 579,
+    "jad_id": "jad_occurence__579",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__578",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__58",
+      "label": "De Tyto et Vespasiano"
+    }
+  },
+  "580": {
+    "id": 580,
+    "jad_id": "jad_occurence__580",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-13",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-13",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__58",
+      "label": "De Tyto et Vespasiano"
+    },
+    "next": {
+      "id": "jad_occurence__59",
+      "label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
     }
   }
 }

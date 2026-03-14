@@ -2077,11 +2077,11 @@
     "view_label": "Arsenal, MS 44",
     "prev": {
       "id": "jad_manuscript__319",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "St. Gen., MS 2775"
     },
     "next": {
       "id": "jad_manuscript__320",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, Latin 9603"
     }
   },
   "33": {
@@ -2131,12 +2131,12 @@
     ],
     "view_label": "Arsenal, MS 400",
     "prev": {
-      "id": "jad_manuscript__320",
+      "id": "jad_manuscript__329",
       "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
-      "id": "jad_manuscript__34",
-      "label": "Maz., MS 698"
+      "id": "jad_manuscript__330",
+      "label": "NO MATCH FOR $..name[0].value"
     }
   },
   "34": {
@@ -2206,8 +2206,8 @@
     ],
     "view_label": "Maz., MS 698",
     "prev": {
-      "id": "jad_manuscript__33",
-      "label": "Arsenal, MS 400"
+      "id": "jad_manuscript__330",
+      "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
       "id": "jad_manuscript__35",
@@ -11756,69 +11756,168 @@
     },
     "next": {
       "id": "jad_manuscript__317",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, NAL 736"
     }
   },
   "317": {
     "id": 317,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, NAL 736"
+      }
+    ],
     "jad_id": "jad_manuscript__317",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "NAL 736",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc714387",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "date_written": [
+      {
+        "id": 2,
+        "value": "12th cen."
+      }
+    ],
+    "format": "19 x 12, 117 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, NAL 736",
     "prev": {
       "id": "jad_manuscript__316",
       "label": "Bodl., Lat. th. d.1"
     },
     "next": {
       "id": "jad_manuscript__318",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, lat. 2910"
     }
   },
   "318": {
     "id": 318,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, lat. 2910"
+      }
+    ],
     "jad_id": "jad_manuscript__318",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "lat. 2910",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc60724b",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen."
+      }
+    ],
+    "format": "17 x 13, 232 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, lat. 2910",
     "prev": {
       "id": "jad_manuscript__317",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, NAL 736"
     },
     "next": {
       "id": "jad_manuscript__319",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "St. Gen., MS 2775"
     }
   },
   "319": {
     "id": 319,
-    "name": [],
+    "name": [
+      {
+        "id": 4,
+        "value": "St. Gen., MS 2775"
+      }
+    ],
     "jad_id": "jad_manuscript__319",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 4,
+        "value": "St. Gen.",
+        "jad_id": "jad_library__4",
+        "gnd_url": "https://d-nb.info/gnd/1022123-2",
+        "full_name": "Bibliothèque Sainte-Geneviève",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "MS 2775",
+    "catalog_url": "https://calames.abes.fr/pub/bsg.aspx#details?id=BSGC10531",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen."
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 4,
+        "value": "Bibliothèque Sainte-Geneviève"
+      }
+    ],
+    "view_label": "St. Gen., MS 2775",
     "prev": {
       "id": "jad_manuscript__318",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, lat. 2910"
     },
     "next": {
       "id": "jad_manuscript__32",
@@ -11827,8 +11926,163 @@
   },
   "320": {
     "id": 320,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 9603"
+      }
+    ],
     "jad_id": "jad_manuscript__320",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "Latin 9603",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc776013",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 1,
+        "value": "9th cen."
+      }
+    ],
+    "format": "26 x 20, 100 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Latin 9603",
+    "prev": {
+      "id": "jad_manuscript__32",
+      "label": "Arsenal, MS 44"
+    },
+    "next": {
+      "id": "jad_manuscript__321",
+      "label": "Berlin Staatsbibl., theol. lat. fol. 46"
+    }
+  },
+  "321": {
+    "id": 321,
+    "name": [
+      {
+        "id": 35,
+        "value": "Berlin Staatsbibl., theol. lat. fol. 46"
+      }
+    ],
+    "jad_id": "jad_manuscript__321",
+    "library": [
+      {
+        "id": 35,
+        "value": "Berlin Staatsbibl.",
+        "jad_id": "jad_library__35",
+        "gnd_url": "https://d-nb.info/gnd/2118116-0",
+        "full_name": "Staatsbibliothek zu Berlin. Handschriftenabteilung",
+        "place": [
+          {
+            "id": 13,
+            "name": "Berlin",
+            "geonames_url": "https://www.geonames.org/2950159/berlin.html",
+            "jad_id": "jad_places__13",
+            "lat": "52.52437",
+            "long": "13.41053"
+          }
+        ]
+      }
+    ],
+    "idno": "theol. lat. fol. 46",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 35,
+        "value": "Staatsbibliothek zu Berlin. Handschriftenabteilung"
+      }
+    ],
+    "view_label": "Berlin Staatsbibl., theol. lat. fol. 46",
+    "prev": {
+      "id": "jad_manuscript__320",
+      "label": "BNF, Latin 9603"
+    },
+    "next": {
+      "id": "jad_manuscript__322",
+      "label": "Berlin Staatsbibl., theol. lat. fol. 49"
+    }
+  },
+  "322": {
+    "id": 322,
+    "name": [
+      {
+        "id": 35,
+        "value": "Berlin Staatsbibl., theol. lat. fol. 49"
+      }
+    ],
+    "jad_id": "jad_manuscript__322",
+    "library": [
+      {
+        "id": 35,
+        "value": "Berlin Staatsbibl.",
+        "jad_id": "jad_library__35",
+        "gnd_url": "https://d-nb.info/gnd/2118116-0",
+        "full_name": "Staatsbibliothek zu Berlin. Handschriftenabteilung",
+        "place": [
+          {
+            "id": 13,
+            "name": "Berlin",
+            "geonames_url": "https://www.geonames.org/2950159/berlin.html",
+            "jad_id": "jad_places__13",
+            "lat": "52.52437",
+            "long": "13.41053"
+          }
+        ]
+      }
+    ],
+    "idno": "theol. lat. fol. 49",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 35,
+        "value": "Staatsbibliothek zu Berlin. Handschriftenabteilung"
+      }
+    ],
+    "view_label": "Berlin Staatsbibl., theol. lat. fol. 49",
+    "prev": {
+      "id": "jad_manuscript__321",
+      "label": "Berlin Staatsbibl., theol. lat. fol. 46"
+    },
+    "next": {
+      "id": "jad_manuscript__323",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "323": {
+    "id": 323,
+    "name": [],
+    "jad_id": "jad_manuscript__323",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -11839,12 +12093,166 @@
     "library_full": [],
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
-      "id": "jad_manuscript__32",
-      "label": "Arsenal, MS 44"
+      "id": "jad_manuscript__322",
+      "label": "Berlin Staatsbibl., theol. lat. fol. 49"
+    },
+    "next": {
+      "id": "jad_manuscript__324",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "324": {
+    "id": 324,
+    "name": [],
+    "jad_id": "jad_manuscript__324",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__323",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__325",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "325": {
+    "id": 325,
+    "name": [],
+    "jad_id": "jad_manuscript__325",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__324",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__326",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "326": {
+    "id": 326,
+    "name": [],
+    "jad_id": "jad_manuscript__326",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__325",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__327",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "327": {
+    "id": 327,
+    "name": [],
+    "jad_id": "jad_manuscript__327",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__326",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__328",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "328": {
+    "id": 328,
+    "name": [],
+    "jad_id": "jad_manuscript__328",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__327",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__329",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "329": {
+    "id": 329,
+    "name": [],
+    "jad_id": "jad_manuscript__329",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__328",
+      "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
       "id": "jad_manuscript__33",
       "label": "Arsenal, MS 400"
+    }
+  },
+  "330": {
+    "id": 330,
+    "name": [],
+    "jad_id": "jad_manuscript__330",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__33",
+      "label": "Arsenal, MS 400"
+    },
+    "next": {
+      "id": "jad_manuscript__34",
+      "label": "Maz., MS 698"
     }
   }
 }
