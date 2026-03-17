@@ -108,7 +108,7 @@
         "value": "BNF, Latin 3301C"
       }
     ],
-    "position_in_ms": "102v",
+    "position_in_ms": "102v-103r",
     "main_ms": true,
     "facsimile_position": "",
     "created_by": {
@@ -120,14 +120,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2024-08-02",
+    "last_modified_on": "2026-03-16",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 25,
           "database_table_3497": 2
         },
-        "value": "BNF, Latin 3301C, f. 102v"
+        "value": "BNF, Latin 3301C, f. 102v-103r"
       }
     ],
     "view_label": "destructionem civitatis sancte iam factam, aliam per romanos predicit futuram",
@@ -17932,16 +17932,26 @@
     },
     "next": {
       "id": "jad_occurence__574",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ad litteram propheta desolationem Iudee et paucitatem virorum futuram in spiritu minabatur"
     }
   },
   "574": {
     "id": 574,
     "jad_id": "jad_occurence__574",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2480,
+        "value": "ad litteram propheta desolationem Iudee et paucitatem virorum futuram in spiritu minabatur"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 25,
+        "value": "BNF, Latin 3301C"
+      }
+    ],
+    "position_in_ms": "69v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -17952,9 +17962,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 25,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 3301C, f. 69v"
+      }
+    ],
+    "view_label": "ad litteram propheta desolationem Iudee et paucitatem virorum futuram in spiritu minabatur",
     "prev": {
       "id": "jad_occurence__573",
       "label": "Quod flente Domino illa Ierosolymorum subversio describatur, quae a Vespasiano et Tito romanis principibus facta est"
@@ -17986,7 +18004,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__574",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ad litteram propheta desolationem Iudee et paucitatem virorum futuram in spiritu minabatur"
     },
     "next": {
       "id": "jad_occurence__576",
