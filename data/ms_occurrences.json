@@ -61,7 +61,7 @@
         "value": "BNF, Latin 492"
       }
     ],
-    "position_in_ms": "2r",
+    "position_in_ms": "2r-v",
     "main_ms": true,
     "facsimile_position": "",
     "created_by": {
@@ -73,14 +73,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2024-08-05",
+    "last_modified_on": "2026-03-17",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 6,
           "database_table_3497": 2
         },
-        "value": "BNF, Latin 492, f. 2r"
+        "value": "BNF, Latin 492, f. 2r-v"
       }
     ],
     "view_label": "quatuor regna, scilicet assyriorum, babiloniorum, grecorum, et romanorum, qui destruxerunt Iudeos",
@@ -273,8 +273,8 @@
     ],
     "view_label": "hec destructio ab imperatoribus romanis a tyto et vaspasiano ob perfidiam Iudeorum",
     "prev": {
-      "id": "jad_occurence__59",
-      "label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
+      "id": "jad_occurence__590",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__60",
@@ -2764,12 +2764,12 @@
     ],
     "view_label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus",
     "prev": {
-      "id": "jad_occurence__580",
+      "id": "jad_occurence__589",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__6",
-      "label": "hec destructio ab imperatoribus romanis a tyto et vaspasiano ob perfidiam Iudeorum"
+      "id": "jad_occurence__590",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "60": {
@@ -17979,16 +17979,26 @@
     },
     "next": {
       "id": "jad_occurence__575",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "primo nabuzardan, postea tytus destruxit templum"
     }
   },
   "575": {
     "id": 575,
     "jad_id": "jad_occurence__575",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2481,
+        "value": "primo nabuzardan, postea tytus destruxit templum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 23,
+        "value": "Maz., MS 178"
+      }
+    ],
+    "position_in_ms": "226r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -17999,25 +18009,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 23,
+          "database_table_3497": 5
+        },
+        "value": "Maz., MS 178, f. 226r"
+      }
+    ],
+    "view_label": "primo nabuzardan, postea tytus destruxit templum",
     "prev": {
       "id": "jad_occurence__574",
       "label": "ad litteram propheta desolationem Iudee et paucitatem virorum futuram in spiritu minabatur"
     },
     "next": {
       "id": "jad_occurence__576",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     }
   },
   "576": {
     "id": 576,
     "jad_id": "jad_occurence__576",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2482,
+        "value": "??"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 24,
+        "value": "Maz., MS 999"
+      }
+    ],
+    "position_in_ms": "94v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -18028,24 +18056,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 24,
+          "database_table_3497": 5
+        },
+        "value": "Maz., MS 999, f. 94v"
+      }
+    ],
+    "view_label": "??",
     "prev": {
       "id": "jad_occurence__575",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "primo nabuzardan, postea tytus destruxit templum"
     },
     "next": {
       "id": "jad_occurence__577",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "romanis obsidentibus civitatem"
     }
   },
   "577": {
     "id": 577,
     "jad_id": "jad_occurence__577",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 6,
+        "value": "romanis obsidentibus civitatem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 7,
+        "value": "Maz., MS 177"
+      }
+    ],
+    "position_in_ms": "156r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -18057,12 +18103,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 7,
+          "database_table_3497": 5
+        },
+        "value": "Maz., MS 177, f. 156r"
+      }
+    ],
+    "view_label": "romanis obsidentibus civitatem",
     "prev": {
       "id": "jad_occurence__576",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     },
     "next": {
       "id": "jad_occurence__578",
@@ -18091,7 +18145,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__577",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "romanis obsidentibus civitatem"
     },
     "next": {
       "id": "jad_occurence__579",
@@ -18152,8 +18206,298 @@
       "label": "De Tyto et Vespasiano"
     },
     "next": {
+      "id": "jad_occurence__581",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "581": {
+    "id": 581,
+    "jad_id": "jad_occurence__581",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__580",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__582",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "582": {
+    "id": 582,
+    "jad_id": "jad_occurence__582",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__581",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__583",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "583": {
+    "id": 583,
+    "jad_id": "jad_occurence__583",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__582",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__584",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "584": {
+    "id": 584,
+    "jad_id": "jad_occurence__584",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__583",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__585",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "585": {
+    "id": 585,
+    "jad_id": "jad_occurence__585",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__584",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__586",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "586": {
+    "id": 586,
+    "jad_id": "jad_occurence__586",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__585",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__587",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "587": {
+    "id": 587,
+    "jad_id": "jad_occurence__587",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__586",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__588",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "588": {
+    "id": 588,
+    "jad_id": "jad_occurence__588",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__587",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__589",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "589": {
+    "id": 589,
+    "jad_id": "jad_occurence__589",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__588",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
       "id": "jad_occurence__59",
       "label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
+    }
+  },
+  "590": {
+    "id": 590,
+    "jad_id": "jad_occurence__590",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-03-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-03-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__59",
+      "label": "sciendum vero quod civitas illa Ierusalem ad litteram et si frequenter ordinante domino passavit tribulationes [...] tertiam a tito et vespasiano romanis principibus"
+    },
+    "next": {
+      "id": "jad_occurence__6",
+      "label": "hec destructio ab imperatoribus romanis a tyto et vaspasiano ob perfidiam Iudeorum"
     }
   }
 }

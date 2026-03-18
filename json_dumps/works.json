@@ -29179,20 +29179,48 @@
   "755": {
     "id": 755,
     "order": "634.00000000000000000000",
-    "name": " ",
+    "name": "Commentary Zacharias ",
     "jad_id": "jad_work__755",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 4,
+        "value": "Petrus Cantor",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 23,
+        "value": "Maz., MS 178",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Zacharias",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""

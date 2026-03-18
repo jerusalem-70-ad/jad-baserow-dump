@@ -536,11 +536,11 @@
     "view_label": "Mt. 27,25",
     "prev": {
       "id": "jad_biblical_reference__319",
-      "label": ""
+      "label": "Amos 5,18"
     },
     "next": {
       "id": "jad_biblical_reference__320",
-      "label": ""
+      "label": "2 Cor. 6,2"
     }
   },
   "33": {
@@ -553,7 +553,7 @@
     "view_label": "Lk. 21,6",
     "prev": {
       "id": "jad_biblical_reference__320",
-      "label": ""
+      "label": "2 Cor. 6,2"
     },
     "next": {
       "id": "jad_biblical_reference__34",
@@ -573,8 +573,8 @@
       "label": "Lk. 21,6"
     },
     "next": {
-      "id": "jad_biblical_reference__35",
-      "label": "Lk. 23,21"
+      "id": "jad_biblical_reference__345",
+      "label": ""
     }
   },
   "35": {
@@ -586,12 +586,12 @@
     "description": null,
     "view_label": "Lk. 23,21",
     "prev": {
-      "id": "jad_biblical_reference__34",
-      "label": "Lk. 21,20"
+      "id": "jad_biblical_reference__349",
+      "label": ""
     },
     "next": {
-      "id": "jad_biblical_reference__36",
-      "label": "Joh. 11,48"
+      "id": "jad_biblical_reference__350",
+      "label": ""
     }
   },
   "36": {
@@ -603,8 +603,8 @@
     "description": null,
     "view_label": "Joh. 11,48",
     "prev": {
-      "id": "jad_biblical_reference__35",
-      "label": "Lk. 23,21"
+      "id": "jad_biblical_reference__352",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__37",
@@ -4705,17 +4705,17 @@
     },
     "next": {
       "id": "jad_biblical_reference__319",
-      "label": ""
+      "label": "Amos 5,18"
     }
   },
   "319": {
     "id": 319,
-    "name": "",
+    "name": "Amos 5,18",
     "jad_id": "jad_biblical_reference__319",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
-    "view_label": "",
+    "view_label": "Amos 5,18",
     "prev": {
       "id": "jad_biblical_reference__318",
       "label": "Ps. 54,11"
@@ -4727,12 +4727,12 @@
   },
   "320": {
     "id": 320,
-    "name": "",
+    "name": "2 Cor. 6,2",
     "jad_id": "jad_biblical_reference__320",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
-    "view_label": "",
+    "view_label": "2 Cor. 6,2",
     "prev": {
       "id": "jad_biblical_reference__32",
       "label": "Mt. 27,25"
@@ -4740,6 +4740,142 @@
     "next": {
       "id": "jad_biblical_reference__33",
       "label": "Lk. 21,6"
+    }
+  },
+  "345": {
+    "id": 345,
+    "name": "",
+    "jad_id": "jad_biblical_reference__345",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__34",
+      "label": "Lk. 21,20"
+    },
+    "next": {
+      "id": "jad_biblical_reference__346",
+      "label": ""
+    }
+  },
+  "346": {
+    "id": 346,
+    "name": "",
+    "jad_id": "jad_biblical_reference__346",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__345",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__347",
+      "label": ""
+    }
+  },
+  "347": {
+    "id": 347,
+    "name": "",
+    "jad_id": "jad_biblical_reference__347",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__346",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__348",
+      "label": ""
+    }
+  },
+  "348": {
+    "id": 348,
+    "name": "",
+    "jad_id": "jad_biblical_reference__348",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__347",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__349",
+      "label": ""
+    }
+  },
+  "349": {
+    "id": 349,
+    "name": "",
+    "jad_id": "jad_biblical_reference__349",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__348",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__35",
+      "label": "Lk. 23,21"
+    }
+  },
+  "350": {
+    "id": 350,
+    "name": "",
+    "jad_id": "jad_biblical_reference__350",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__35",
+      "label": "Lk. 23,21"
+    },
+    "next": {
+      "id": "jad_biblical_reference__351",
+      "label": ""
+    }
+  },
+  "351": {
+    "id": 351,
+    "name": "",
+    "jad_id": "jad_biblical_reference__351",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__350",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__352",
+      "label": ""
+    }
+  },
+  "352": {
+    "id": 352,
+    "name": "",
+    "jad_id": "jad_biblical_reference__352",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__351",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__36",
+      "label": "Joh. 11,48"
     }
   }
 }

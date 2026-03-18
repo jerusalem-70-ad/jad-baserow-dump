@@ -5605,7 +5605,7 @@
         },
         "next": {
           "id": "jad_work__755",
-          "label": " "
+          "label": "Commentary Zacharias "
         }
       }
     ]
@@ -6619,6 +6619,76 @@
         "next": {
           "id": "jad_work__754",
           "label": "Sermones "
+        }
+      },
+      {
+        "id": 755,
+        "name": "Commentary Zacharias ",
+        "jad_id": "jad_work__755",
+        "author": [
+          {
+            "id": 4,
+            "name": "Petrus Cantor",
+            "jad_id": "jad_author__4",
+            "gnd_url": "https://d-nb.info/gnd/118790625",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": "Pietro Cantore | Pierre de Paris | Petrus, Rhemensis | Cantor, Petrus | Pierre, le Grand-Chantre | Petrus Parisiensis | Pierre, de Reims | Pierre, le Chantre | Petrus Remensis | Petrus, Parisiensis | Petrus Cantor, Parisiensis | Petrus, Hosdenc | Hosdenc, Petrus | Petrus, Remensis | Pierre de Reims | Petrus Praecantor | Petrus, Praecantor | Pierre, le Picard | Petri Cantoris, Parisiensis | Pietro, il Cantore | Peter, the Chanter | Pierre, de Paris | Cantore, Pietro",
+            "date_of_birth": "1130",
+            "date_of_death": "1197",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": false,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 23,
+            "value": "Maz., MS 178"
+          }
+        ],
+        "title": "Commentary Zacharias",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 5,
+            "value": "late 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Zacharias ",
+        "prev": {
+          "id": "jad_work__754",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__756",
+          "label": " "
         }
       }
     ]
