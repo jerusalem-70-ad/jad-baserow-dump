@@ -2396,7 +2396,7 @@
             "value": "around 1000"
           }
         ],
-        "format": "",
+        "format": "34 x 26, 199 ff.",
         "library_full": [
           {
             "id": 2,
@@ -3127,6 +3127,61 @@
           "id": "jad_manuscript__321",
           "label": "Berlin Staatsbibl., theol. lat. fol. 46"
         }
+      },
+      {
+        "id": 323,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 2911A"
+          }
+        ],
+        "jad_id": "jad_manuscript__323",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1",
+                "lat": "48.85341",
+                "long": "2.34880"
+              }
+            ]
+          }
+        ],
+        "idno": "Latin 2911A",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc60726t",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          }
+        ],
+        "format": "27 x 18, 140 ff.",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, Latin 2911A",
+        "prev": {
+          "id": "jad_manuscript__322",
+          "label": "Berlin Staatsbibl., theol. lat. fol. 49"
+        },
+        "next": {
+          "id": "jad_manuscript__324",
+          "label": "Arsenal, MS 543"
+        }
       }
     ]
   },
@@ -3512,7 +3567,7 @@
             "value": "13th cen."
           }
         ],
-        "format": "",
+        "format": "13 x 9, 272 ff.",
         "library_full": [
           {
             "id": 4,
@@ -7234,7 +7289,7 @@
             "value": "13th cen."
           }
         ],
-        "format": null,
+        "format": "32 x 24, 456 pp.",
         "library_full": [
           {
             "id": 13,
@@ -7303,6 +7358,61 @@
         },
         "next": {
           "id": "jad_manuscript__330",
+          "label": "NO MATCH FOR $..name[0].value"
+        }
+      },
+      {
+        "id": 324,
+        "name": [
+          {
+            "id": 13,
+            "value": "Arsenal, MS 543"
+          }
+        ],
+        "jad_id": "jad_manuscript__324",
+        "library": [
+          {
+            "id": 13,
+            "value": "Arsenal",
+            "jad_id": "jad_library__13",
+            "gnd_url": "https://d-nb.info/gnd/1056486-X",
+            "full_name": "Bibliothèque de l'Arsenal",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1",
+                "lat": "48.85341",
+                "long": "2.34880"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 543",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc79743v",
+        "digi_url": "",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "format": "29 x 21, 245 ff.",
+        "library_full": [
+          {
+            "id": 13,
+            "value": "Bibliothèque de l'Arsenal"
+          }
+        ],
+        "view_label": "Arsenal, MS 543",
+        "prev": {
+          "id": "jad_manuscript__323",
+          "label": "BNF, Latin 2911A"
+        },
+        "next": {
+          "id": "jad_manuscript__325",
           "label": "NO MATCH FOR $..name[0].value"
         }
       }
@@ -10056,7 +10166,7 @@
         },
         "next": {
           "id": "jad_manuscript__323",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "BNF, Latin 2911A"
         }
       }
     ]

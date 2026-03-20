@@ -2718,11 +2718,11 @@
     "view_label": "De Tyto et Vespasiano",
     "prev": {
       "id": "jad_occurence__579",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "opus tuum malum pronuntiat et te a deo seperatum affirmat"
     },
     "next": {
       "id": "jad_occurence__580",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns civitatem flevit super illam"
     }
   },
   "59": {
@@ -7751,7 +7751,7 @@
         "value": "BNF, lat. 2910"
       }
     ],
-    "position_in_ms": "169v",
+    "position_in_ms": "169v-170r",
     "main_ms": true,
     "facsimile_position": "",
     "created_by": {
@@ -7763,14 +7763,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-13",
+    "last_modified_on": "2026-03-19",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 318,
           "database_table_3497": 2
         },
-        "value": "BNF, lat. 2910, f. 169v"
+        "value": "BNF, lat. 2910, f. 169v-170r"
       }
     ],
     "view_label": "videns civitatem flevit super illam",
@@ -18120,15 +18120,25 @@
     },
     "next": {
       "id": "jad_occurence__578",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "in hac prudentia misere Ierusalem que tempus visitationis sue non cognovit"
     }
   },
   "578": {
     "id": 578,
     "jad_id": "jad_occurence__578",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2466,
+        "value": "in hac prudentia misere Ierusalem que tempus visitationis sue non cognovit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 323,
+        "value": "BNF, Latin 2911A"
+      }
+    ],
+    "position_in_ms": "99r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -18140,24 +18150,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 323,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 2911A, f. 99r"
+      }
+    ],
+    "view_label": "in hac prudentia misere Ierusalem que tempus visitationis sue non cognovit",
     "prev": {
       "id": "jad_occurence__577",
       "label": "romanis obsidentibus civitatem"
     },
     "next": {
       "id": "jad_occurence__579",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "opus tuum malum pronuntiat et te a deo seperatum affirmat"
     }
   },
   "579": {
     "id": 579,
     "jad_id": "jad_occurence__579",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2467,
+        "value": "opus tuum malum pronuntiat et te a deo seperatum affirmat"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 323,
+        "value": "BNF, Latin 2911A"
+      }
+    ],
+    "position_in_ms": "99v",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -18169,12 +18197,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 323,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 2911A, f. 99v"
+      }
+    ],
+    "view_label": "opus tuum malum pronuntiat et te a deo seperatum affirmat",
     "prev": {
       "id": "jad_occurence__578",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "in hac prudentia misere Ierusalem que tempus visitationis sue non cognovit"
     },
     "next": {
       "id": "jad_occurence__58",
@@ -18184,9 +18220,19 @@
   "580": {
     "id": 580,
     "jad_id": "jad_occurence__580",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1235,
+        "value": "videns civitatem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 323,
+        "value": "BNF, Latin 2911A"
+      }
+    ],
+    "position_in_ms": "100v",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -18198,24 +18244,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-13",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 323,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 2911A, f. 100v"
+      }
+    ],
+    "view_label": "videns civitatem flevit super illam",
     "prev": {
       "id": "jad_occurence__58",
       "label": "De Tyto et Vespasiano"
     },
     "next": {
       "id": "jad_occurence__581",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "missis exercitibus romanis, sub tito et vaspasiano perdidit homicidias illos Iudeos"
     }
   },
   "581": {
     "id": 581,
     "jad_id": "jad_occurence__581",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2469,
+        "value": "missis exercitibus romanis, sub tito et vaspasiano perdidit homicidias illos Iudeos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 323,
+        "value": "BNF, Latin 2911A"
+      }
+    ],
+    "position_in_ms": "128r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -18227,24 +18291,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-17",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 323,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 2911A, f. 128r"
+      }
+    ],
+    "view_label": "missis exercitibus romanis, sub tito et vaspasiano perdidit homicidias illos Iudeos",
     "prev": {
       "id": "jad_occurence__580",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns civitatem flevit super illam"
     },
     "next": {
       "id": "jad_occurence__582",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns Ihesus civitatem flevit super illam"
     }
   },
   "582": {
     "id": 582,
     "jad_id": "jad_occurence__582",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2471,
+        "value": "videns Ihesus civitatem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 324,
+        "value": "Arsenal, MS 543"
+      }
+    ],
+    "position_in_ms": "142r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -18256,24 +18338,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-17",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 324,
+          "database_table_3497": 13
+        },
+        "value": "Arsenal, MS 543, f. 142r"
+      }
+    ],
+    "view_label": "videns Ihesus civitatem flevit super illam",
     "prev": {
       "id": "jad_occurence__581",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "missis exercitibus romanis, sub tito et vaspasiano perdidit homicidias illos Iudeos"
     },
     "next": {
       "id": "jad_occurence__583",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "predixit David destructionem urbis Ierusalem factam per romanos"
     }
   },
   "583": {
     "id": 583,
     "jad_id": "jad_occurence__583",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 7,
+        "value": "predixit David destructionem urbis Ierusalem factam per romanos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 324,
+        "value": "Arsenal, MS 543"
+      }
+    ],
+    "position_in_ms": "238r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -18285,12 +18385,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-17",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-19",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 324,
+          "database_table_3497": 13
+        },
+        "value": "Arsenal, MS 543, f. 238r"
+      }
+    ],
+    "view_label": "predixit David destructionem urbis Ierusalem factam per romanos",
     "prev": {
       "id": "jad_occurence__582",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "videns Ihesus civitatem flevit super illam"
     },
     "next": {
       "id": "jad_occurence__584",
@@ -18319,7 +18427,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__583",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "predixit David destructionem urbis Ierusalem factam per romanos"
     },
     "next": {
       "id": "jad_occurence__585",

@@ -1203,7 +1203,7 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "format": null,
+    "format": "32 x 24, 456 pp.",
     "library_full": [
       {
         "id": 13,
@@ -5151,7 +5151,7 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "format": "",
+    "format": "34 x 26, 199 ff.",
     "library_full": [
       {
         "id": 2,
@@ -7551,7 +7551,7 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "format": "",
+    "format": "13 x 9, 272 ff.",
     "library_full": [
       {
         "id": 4,
@@ -7658,30 +7658,74 @@
   "323": {
     "id": 323,
     "order": "207.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 2911A"
+      }
+    ],
     "jad_id": "jad_manuscript__323",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "Latin 2911A",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc60726t",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": []
+    "date_written": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "format": "27 x 18, 140 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
   },
   "324": {
     "id": 324,
     "order": "208.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 13,
+        "value": "Arsenal, MS 543"
+      }
+    ],
     "jad_id": "jad_manuscript__324",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 13,
+        "value": "Arsenal",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "idno": "MS 543",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc79743v",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": []
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "format": "29 x 21, 245 ff.",
+    "library_full": [
+      {
+        "id": 13,
+        "value": "Bibliothèque de l'Arsenal"
+      }
+    ]
   },
   "325": {
     "id": 325,
