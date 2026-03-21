@@ -2,7 +2,7 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "name": "Crusades",
+    "name": "Crusading",
     "short_description": "An occurrence appearing either in a crusade-specific source, or in a text by an author of whom we know that he was active in the crusades, or a text that we can otherwise relate to this phenomenon.",
     "jad_id": "jad_keyword__1",
     "part_of": []
@@ -16,7 +16,7 @@
     "part_of": [
       {
         "id": 1,
-        "value": "Crusades",
+        "value": "Crusading",
         "order": "1.00000000000000000000"
       }
     ]
@@ -41,7 +41,7 @@
     "id": 5,
     "order": "5.00000000000000000000",
     "name": "Preaching",
-    "short_description": "",
+    "short_description": "The Roman conquest occurs in a sermon or in other preaching material (such as Distinctiones), or alternatively, it is placed alongside a discussion of preaching (e.g., in a biblical commentary).",
     "jad_id": "jad_keyword__5",
     "part_of": []
   },
@@ -49,7 +49,7 @@
     "id": 6,
     "order": "6.00000000000000000000",
     "name": "Apocalypticism",
-    "short_description": "The occurrence is entangled with eschatological or apocalyptic ideas. This often means that the conquest provides a resource for imagining and conceiving of the End of Times.",
+    "short_description": "The occurrence is entangled with eschatological or apocalyptic ideas. This often means that the conquest provides a resource for imagining and conceiving of the End of Times, often it is directly understood as a typological prefiguration of it.",
     "jad_id": "jad_keyword__6",
     "part_of": []
   },
@@ -95,7 +95,7 @@
     "part_of": [
       {
         "id": 1,
-        "value": "Crusades",
+        "value": "Crusading",
         "order": "1.00000000000000000000"
       }
     ]
@@ -104,7 +104,7 @@
     "id": 10,
     "order": "10.00000000000000000000",
     "name": "Typology",
-    "short_description": "",
+    "short_description": "A typological connection between the Roman conquest and another event or often specifically conquest of the city is established. In many cases, Old Testament prophecies are asserted as having been fulfilled in the Roman conquest.",
     "jad_id": "jad_keyword__10",
     "part_of": []
   },
@@ -142,7 +142,7 @@
     "id": 14,
     "order": "14.00000000000000000000",
     "name": "Carolingian correctio",
-    "short_description": "",
+    "short_description": "A text belonging to the historical context of Carolingian correctio, that is, extensive reform efforts meant to reshape the whole Carolingian Empire into a more firmly Christian and more unified society.",
     "jad_id": "jad_keyword__14",
     "part_of": []
   },
@@ -150,7 +150,7 @@
     "id": 15,
     "order": "15.00000000000000000000",
     "name": "Vengeance",
-    "short_description": "",
+    "short_description": "The conquest is presented as an act of vengeance on the Jews for the crucifxion of Christ.",
     "jad_id": "jad_keyword__15",
     "part_of": []
   },
@@ -158,7 +158,7 @@
     "id": 16,
     "order": "16.00000000000000000000",
     "name": "Concurrence Easter",
-    "short_description": "The text claims that the conquest happened on Easter, in order to mirror Christ's crucifixion, though it actually happened in the summer of 70 AD (as one reads, for example, in Josephus).",
+    "short_description": "The text claims that the conquest happened on Easter, in order to mirror Christ's crucifixion, though it actually happened in the summer of 70 CE (as one can read in Flavius Josephus).",
     "jad_id": "jad_keyword__16",
     "part_of": []
   },
@@ -166,7 +166,7 @@
     "id": 17,
     "order": "17.00000000000000000000",
     "name": "Eschatological conversion Jews",
-    "short_description": "",
+    "short_description": "The text relates the Roman conquest to the idea that (some) Jews would convert in the End of Time.",
     "jad_id": "jad_keyword__17",
     "part_of": [
       {
@@ -179,7 +179,7 @@
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "name": "Greek conquest of Jerusalem (168 BC)",
+    "name": "Greek conquest of Jerusalem (168 BCE)",
     "short_description": "",
     "jad_id": "jad_keyword__18",
     "part_of": [
@@ -232,15 +232,15 @@
     "id": 23,
     "order": "23.00000000000000000000",
     "name": "Temple",
-    "short_description": "The Temple is mentioned at the occurrence (there are many others where the Temple is not present, but often it is just \"Jerusalem\").",
+    "short_description": "The Temple is mentioned explicitely in the passage (there are many others where the Temple is not present, but often it is just \"Jerusalem\").",
     "jad_id": "jad_keyword__23",
     "part_of": []
   },
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
-    "name": "Destruction Sodom and Gomorah",
-    "short_description": "",
+    "name": "Destruction of Sodom and Gomorah",
+    "short_description": "The Roman conquest is entangled with another divine punishment: the one of Sodom and Gomohrah, found in Gen. 18-19.",
     "jad_id": "jad_keyword__24",
     "part_of": []
   },
@@ -248,7 +248,7 @@
     "id": 25,
     "order": "25.00000000000000000000",
     "name": "Idol worshop, paganism",
-    "short_description": "",
+    "short_description": "The Roman conquest is entangled with discussions of paganism and idolatry: this could refer to a variety of groups and stories, including, e.g., the Romans themselves, several Old Testament references, or the Muslims who were mostly understood as pagans.",
     "jad_id": "jad_keyword__25",
     "part_of": []
   },
@@ -264,7 +264,7 @@
     "id": 27,
     "order": "27.00000000000000000000",
     "name": "Spiritual exegesis",
-    "short_description": "The focus is on a spiritual exegesis, therefore the historical dimensions of the conquest only present in passing",
+    "short_description": "The focus is on a spiritual exegesis, whereas the historical dimensions of the conquest are only present in passing, if at all.",
     "jad_id": "jad_keyword__27",
     "part_of": []
   },
@@ -279,8 +279,8 @@
   "29": {
     "id": 29,
     "order": "29.00000000000000000000",
-    "name": "40 or 42 years of penance",
-    "short_description": "The period between Christ's death and the Roman conquest are explained as a period of potential penance that God granted the Jews, but which they did not seize",
+    "name": "40-43 years of penance",
+    "short_description": "The period between Christ's death and the Roman conquest is explained as a period of potential penance that God granted the Jews, an opportunity which they did not seize. Dating varies between 40 and 43 years after the Passion, but mostly it is 42 years, a number deriving from a story in 4 Reg. 2,23-24, which often aligned with the Roman conquest in numerous texts.",
     "jad_id": "jad_keyword__29",
     "part_of": []
   },
@@ -352,7 +352,7 @@
     "id": 38,
     "order": "38.00000000000000000000",
     "name": "Textual recycling",
-    "short_description": "Textual elements actually used for describing the Roman conquest (that is, primarily by Josephus himself) are repurposed for describing something else",
+    "short_description": "Textual elements actually used for describing the Roman conquest (that is, primarily by Josephus himself) are repurposed for describing something else.",
     "jad_id": "jad_keyword__38",
     "part_of": []
   },
@@ -408,7 +408,7 @@
     "id": 45,
     "order": "45.00000000000000000000",
     "name": "Talmud burning (1242)",
-    "short_description": "",
+    "short_description": "The text belongs to the historical context of the Talmud disputations in Paris and subsequent burning of thousands of Talmud copies in 1242. Mostly, this designates that the Roman conquest appears here in the text of an author of whose involvement in the Talmud disputations we know.",
     "jad_id": "jad_keyword__45",
     "part_of": []
   },
@@ -488,7 +488,7 @@
     "id": 55,
     "order": "55.00000000000000000000",
     "name": "Antichrist",
-    "short_description": "",
+    "short_description": "Discussions about the Antichrist are entangled with those about the Roman conquest.",
     "jad_id": "jad_keyword__55",
     "part_of": []
   },
@@ -512,7 +512,7 @@
     "id": 58,
     "order": "58.00000000000000000000",
     "name": "The very last conquest",
-    "short_description": "The passage makes the claim that the Roman conquest was the last conquest of Jerusalem - a puzzling claim considering the multiple conquests that happened after that",
+    "short_description": "The passage makes the claim that the Roman conquest was the last conquest of Jerusalem, sometimes even in the superlative \"the very last\" - a puzzling claim considering the multiple conquests that happened thereafter",
     "jad_id": "jad_keyword__58",
     "part_of": []
   },
@@ -528,7 +528,7 @@
     "id": 60,
     "order": "60.00000000000000000000",
     "name": "70 weeks (septuaginta hebdomades)",
-    "short_description": "The passage makes a nexus to the 70 weeks of Dan. 9,24 as a measure for ordering Salvation History",
+    "short_description": "The passage makes a nexus to the 70 weeks addressed in Dan. 9,24 as a measure for ordering Salvation History",
     "jad_id": "jad_keyword__60",
     "part_of": []
   },
@@ -616,7 +616,7 @@
     "id": 99,
     "order": "71.00000000000000000000",
     "name": "Exodus",
-    "short_description": "The Roman conquest is entangled with the story of the Exodus, that is, the Israelites' journey to and taking of the Holy Land.",
+    "short_description": "The Roman conquest is entangled with the story of the Exodus, that is, the Israelites' journey to and taking of the Holy Land. This adds a necessary movement to the Holy Land to the story of the Roman conquest, especially telling for the age of the crusades.",
     "jad_id": "jad_keyword__99",
     "part_of": []
   },
@@ -632,7 +632,7 @@
     "id": 101,
     "order": "73.00000000000000000000",
     "name": "Pre-Christian",
-    "short_description": "A text that dates before Christianity became the official and dominant religion of the Roman Empire",
+    "short_description": "A text penned by a non-Christian, that is, usually dating before Christianity became the official and dominant religion of the Roman Empire.",
     "jad_id": "jad_keyword__101",
     "part_of": []
   },
@@ -640,7 +640,7 @@
     "id": 102,
     "order": "74.00000000000000000000",
     "name": "Non-Latin",
-    "short_description": "A text beyond the Latin tradition, either in the vernacular languages or a completely different one such as Greek or Hebrew",
+    "short_description": "A text beyond the Latin tradition, either in the vernacular languages or a completely different language such as Greek or Hebrew",
     "jad_id": "jad_keyword__102",
     "part_of": []
   },
@@ -663,7 +663,7 @@
   "105": {
     "id": 105,
     "order": "77.00000000000000000000",
-    "name": "",
+    "name": "Elaborate discussion",
     "short_description": "",
     "jad_id": "jad_keyword__105",
     "part_of": []
