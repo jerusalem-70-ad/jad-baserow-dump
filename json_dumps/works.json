@@ -29228,20 +29228,42 @@
   "756": {
     "id": 756,
     "order": "635.00000000000000000000",
-    "name": " ",
+    "name": "De civitate Dei ",
     "jad_id": "jad_work__756",
-    "author": [],
+    "author": [
+      {
+        "id": 72,
+        "value": "Augustinus Aurelius",
+        "order": "71.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "De civitate Dei",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 16,
+        "value": "CSEL",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 128,
+        "value": "early 5th cen",
+        "order": "96.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""

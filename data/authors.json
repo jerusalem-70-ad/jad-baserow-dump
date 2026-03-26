@@ -6688,7 +6688,7 @@
         },
         "next": {
           "id": "jad_work__756",
-          "label": " "
+          "label": "De civitate Dei "
         }
       }
     ]
@@ -24799,6 +24799,71 @@
         "next": {
           "id": "jad_work__436",
           "label": "Sermones de tempore "
+        }
+      },
+      {
+        "id": 756,
+        "name": "De civitate Dei ",
+        "jad_id": "jad_work__756",
+        "author": [
+          {
+            "id": 72,
+            "name": "Augustinus Aurelius",
+            "jad_id": "jad_author__72",
+            "gnd_url": "https://d-nb.info/gnd/118505114",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Agostino, Aurelio | Augustine, of Hippo | Augustinus, Aurel | Aurelius Augustinus | Agustin | Augustine, St. | Augustijn, Sinte | Agustin, San | Augustinus, Hyppon, Bischof | Augustin, Sfîntul | Augustin, Sankt | Augustinos, Hieros | Augustyn, Świe̜ty | Augustinus, von Thagaste | Augustin, z Hippo | Heiliger Augustinus | Augustin | Augustinus, Beatus | Saint Augustin | St. Augustine | Agustin, de Hipona | Agostino, San | Augustinus, Divus | Augustinus, Episcopus | Aurelius Augustinus, Hipponensis | Augustus, Aurelius | Augustijus | Augustinus, Christian Writer | Augustin, San | Augustine, Aurelius | Augustinus, Hippon, Bischof, Heiliger | Hippone, Augustin d' | Agostino, d'Ippona | Auġusṭīn | Pseudo-Augustinus | Augustine | Aġusṭīnūs | Augustin, Heiliger | Augustinus, Aurelius | Pseudo-Aurelius-Augustinus | Augustinus, Kirchenschriftsteller | Sancti Aurelii Augustini | Ôgostinos | Augustinus, von Hippo | Augustine, Saint | Aurelius, Augustinus | Sant'Agostino | Agustín de Hipona, San | Agostinho, Santo | Augustin, Kirchenvater | Augustýn | Augostino, San | Augustinus, S. Aurelius | Agostino | Ôgûsṭînûs | Augustinus, Sanctus | Augustinus, Hippo, Bischof, Heiliger | Augustinus, Hipponensis | Avgustin, Avrelij | Pseudo-Augustinus, Aurelius | Avgustinvs, Avrelivs | Ágoston, Szent | Saint Augustine | Augustinus, Heiliger | Augustin, Saint | Augustine, Saint, Bishop of Hippo | Augustine, d'Hippone | San Agustín | Agustín, San | Augustinus, Sankt | San Augustín | Agostino, di Ippona | Agostino, Santo | Augustin, d'Hippone | Augustinus, Hippo Regius, Bischof, Heiliger | Pseudo-Agostino | Augustinus | Aurelius Augustinus, Sanctus | Szent Ágoston",
+            "date_of_birth": "0354",
+            "date_of_death": "0430",
+            "place": [
+              {
+                "id": 73,
+                "value": "North Africa"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "De civitate Dei",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 16,
+            "name": "CSEL",
+            "jad_id": "jad_sources_occurrences__16",
+            "digi_url": "https://csel.at/"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 128,
+            "value": "early 5th cen"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "De civitate Dei ",
+        "prev": {
+          "id": "jad_work__755",
+          "label": "Commentary Zacharias "
+        },
+        "next": {
+          "id": "jad_work__757",
+          "label": " "
         }
       }
     ]
