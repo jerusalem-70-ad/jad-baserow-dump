@@ -5965,7 +5965,7 @@
         "value": "BL, Add 18335"
       }
     ],
-    "position_in_ms": "73r",
+    "position_in_ms": "72r-73v",
     "main_ms": true,
     "facsimile_position": "",
     "created_by": {
@@ -5977,14 +5977,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-03-28",
+    "last_modified_on": "2026-03-26",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 76,
           "database_table_3497": 7
         },
-        "value": "BL, Add 18335, f. 73r"
+        "value": "BL, Add 18335, f. 72r-73v"
       }
     ],
     "view_label": "duo ursi tytum et vespasianum de gentilitate venientes",
@@ -6153,7 +6153,7 @@
         "value": "BL, Arundel 231/2"
       }
     ],
-    "position_in_ms": "143r",
+    "position_in_ms": "142v-143r",
     "main_ms": true,
     "facsimile_position": "",
     "created_by": {
@@ -6165,14 +6165,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-03-28",
+    "last_modified_on": "2026-03-26",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 78,
           "database_table_3497": 7
         },
-        "value": "BL, Arundel 231/2, f. 143r"
+        "value": "BL, Arundel 231/2, f. 142v-143r"
       }
     ],
     "view_label": "ad litteram loquitur hic deus de subversione Ierusalem",
@@ -18825,16 +18825,26 @@
     },
     "next": {
       "id": "jad_occurence__593",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "salvator etc fleret super Ierusalem"
     }
   },
   "593": {
     "id": 593,
     "jad_id": "jad_occurence__593",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2492,
+        "value": "salvator etc fleret super Ierusalem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 74,
+        "value": "Cambr. Univ. Libr., Dd.IV.27"
+      }
+    ],
+    "position_in_ms": "120v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -18845,9 +18855,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-26",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 74,
+          "database_table_3497": 34
+        },
+        "value": "Cambr. Univ. Libr., Dd.IV.27, f. 120v"
+      }
+    ],
+    "view_label": "salvator etc fleret super Ierusalem",
     "prev": {
       "id": "jad_occurence__592",
       "label": "videns etenim civitatem Ierusalem flevit super eam"
@@ -18879,7 +18897,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__593",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "salvator etc fleret super Ierusalem"
     },
     "next": {
       "id": "jad_occurence__595",
