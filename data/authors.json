@@ -19170,7 +19170,7 @@
         "other_editions": null,
         "view_label": "Expositio in Cantica canticorum ",
         "prev": {
-          "id": "jad_work__765",
+          "id": "jad_work__767",
           "label": " "
         },
         "next": {
@@ -24863,7 +24863,7 @@
         },
         "next": {
           "id": "jad_work__757",
-          "label": " "
+          "label": "Postilla in Lucam "
         }
       }
     ]
@@ -39632,7 +39632,7 @@
         },
         "next": {
           "id": "jad_work__391",
-          "label": "Postilla in Lucam "
+          "label": "Postilla in Lucam (II) "
         }
       }
     ]
@@ -39667,7 +39667,7 @@
     "related__works": [
       {
         "id": 391,
-        "name": "Postilla in Lucam ",
+        "name": "Postilla in Lucam (II) ",
         "jad_id": "jad_work__391",
         "author": [
           {
@@ -39700,7 +39700,7 @@
             "value": "Bodl., Bodley 412"
           }
         ],
-        "title": "Postilla in Lucam",
+        "title": "Postilla in Lucam (II)",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -39717,7 +39717,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": true,
+        "date_certainty": false,
         "date": [
           {
             "id": 46,
@@ -39725,11 +39725,11 @@
           }
         ],
         "link_digital_editions": "",
-        "author_certainty": true,
+        "author_certainty": false,
         "incipit": "",
         "volume_edition_or_individual_editor": "",
         "other_editions": null,
-        "view_label": "Postilla in Lucam ",
+        "view_label": "Postilla in Lucam (II) ",
         "prev": {
           "id": "jad_work__390",
           "label": "Sermones de evangeliis dominicalibus "
@@ -39807,6 +39807,76 @@
         "next": {
           "id": "jad_work__443",
           "label": "Sermones de tempore "
+        }
+      },
+      {
+        "id": 757,
+        "name": "Postilla in Lucam ",
+        "jad_id": "jad_work__757",
+        "author": [
+          {
+            "id": 183,
+            "name": "Johannes de Rupella (de la Rochelle)",
+            "jad_id": "jad_author__183",
+            "gnd_url": "https://d-nb.info/gnd/100949274",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Johannes, de la Rochelle | John, de Rupella | Johannes, von LaRochelle | Rochelle, Giovanni della | Jean, de LaRochelle | Jean, de la Rochelle | John, de la Rochelle | Johannes, von la Rochelle | Rupella, Johannes de | Johannes, von La Rochelle | Jean, de la Rochelle, OFM | Rochelle, John de la | La Rochelle, John de | Johannes, de Rupella, OFM | LaRochelle, John de | Johannes, von Rupella | Johannes, Petragoricensis | La Rochelle, Jean de | LaRochelle, Jean de | Giovanni, della Rochelle",
+            "date_of_birth": "1200",
+            "date_of_death": "1245",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 92,
+            "value": "Bodl., Bodley 412"
+          }
+        ],
+        "title": "Postilla in Lucam",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Postilla in Lucam ",
+        "prev": {
+          "id": "jad_work__756",
+          "label": "De civitate Dei "
+        },
+        "next": {
+          "id": "jad_work__758",
+          "label": " "
         }
       }
     ]
@@ -39902,7 +39972,7 @@
         "view_label": "Sermones de tempore ",
         "prev": {
           "id": "jad_work__391",
-          "label": "Postilla in Lucam "
+          "label": "Postilla in Lucam (II) "
         },
         "next": {
           "id": "jad_work__393",

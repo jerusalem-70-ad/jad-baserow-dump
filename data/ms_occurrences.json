@@ -9349,7 +9349,7 @@
         "value": "Bodl., Bodley 482"
       }
     ],
-    "position_in_ms": "22r",
+    "position_in_ms": "22r-v",
     "main_ms": true,
     "facsimile_position": "",
     "created_by": {
@@ -9361,14 +9361,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-22",
+    "last_modified_on": "2026-03-30",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 146,
           "database_table_3497": 10
         },
-        "value": "Bodl., Bodley 482, f. 22r"
+        "value": "Bodl., Bodley 482, f. 22r-v"
       }
     ],
     "view_label": "usque ad destructionem Ierusalem et templi, que a tito romanorum imperatore facta fuit",
@@ -9660,7 +9660,7 @@
     },
     "next": {
       "id": "jad_occurence__207",
-      "label": "??"
+      "label": "videritis circumdari ab excercitu Ierusalem"
     }
   },
   "207": {
@@ -9669,7 +9669,7 @@
     "occurrence": [
       {
         "id": 1263,
-        "value": "??"
+        "value": "videritis circumdari ab excercitu Ierusalem"
       }
     ],
     "manuscript": [
@@ -9700,14 +9700,14 @@
         "value": "Bodl., Bodley 482, f. 59r"
       }
     ],
-    "view_label": "??",
+    "view_label": "videritis circumdari ab excercitu Ierusalem",
     "prev": {
       "id": "jad_occurence__206",
       "label": "quando a vespasiano et tito et adriano civitas obsessa"
     },
     "next": {
       "id": "jad_occurence__208",
-      "label": "??"
+      "label": "sanguis eius super nos"
     }
   },
   "208": {
@@ -9716,7 +9716,7 @@
     "occurrence": [
       {
         "id": 1264,
-        "value": "??"
+        "value": "sanguis eius super nos"
       }
     ],
     "manuscript": [
@@ -9747,10 +9747,10 @@
         "value": "Bodl., Bodley 482, f. 60v-61r"
       }
     ],
-    "view_label": "??",
+    "view_label": "sanguis eius super nos",
     "prev": {
       "id": "jad_occurence__207",
-      "label": "??"
+      "label": "videritis circumdari ab excercitu Ierusalem"
     },
     "next": {
       "id": "jad_occurence__209",
@@ -9797,7 +9797,7 @@
     "view_label": "Vindicta Salvatoris",
     "prev": {
       "id": "jad_occurence__208",
-      "label": "??"
+      "label": "sanguis eius super nos"
     },
     "next": {
       "id": "jad_occurence__21",
@@ -10148,7 +10148,7 @@
         "value": "Bodl., Laud Misc. 434"
       }
     ],
-    "position_in_ms": "192v",
+    "position_in_ms": "192v-193r",
     "main_ms": true,
     "facsimile_position": "",
     "created_by": {
@@ -10160,14 +10160,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-22",
+    "last_modified_on": "2026-03-30",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 148,
           "database_table_3497": 10
         },
-        "value": "Bodl., Laud Misc. 434, f. 192v"
+        "value": "Bodl., Laud Misc. 434, f. 192v-193r"
       }
     ],
     "view_label": "consummatio autem seculi prefigurata est in destructione Ierusalem",
@@ -18872,16 +18872,26 @@
     },
     "next": {
       "id": "jad_occurence__594",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "contra te inimici tui miserunt romani principes, scilicet Titus et Vespasianus"
     }
   },
   "594": {
     "id": 594,
     "jad_id": "jad_occurence__594",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2497,
+        "value": "contra te inimici tui miserunt romani principes, scilicet Titus et Vespasianus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bodl., Bodley 412"
+      }
+    ],
+    "position_in_ms": "201v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -18892,25 +18902,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-30",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 92,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 412, f. 201v"
+      }
+    ],
+    "view_label": "contra te inimici tui miserunt romani principes, scilicet Titus et Vespasianus",
     "prev": {
       "id": "jad_occurence__593",
       "label": "salvator etc fleret super Ierusalem"
     },
     "next": {
       "id": "jad_occurence__595",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "venient dies, scilicet tempore vaspasiani et titi"
     }
   },
   "595": {
     "id": 595,
     "jad_id": "jad_occurence__595",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2493,
+        "value": "venient dies, scilicet tempore vaspasiani et titi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bodl., Bodley 412"
+      }
+    ],
+    "position_in_ms": "212v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -18921,25 +18949,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-30",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 92,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 412, f. 212v"
+      }
+    ],
+    "view_label": "venient dies, scilicet tempore vaspasiani et titi",
     "prev": {
       "id": "jad_occurence__594",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "contra te inimici tui miserunt romani principes, scilicet Titus et Vespasianus"
     },
     "next": {
       "id": "jad_occurence__596",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "hic finis desolationis que a romanis facta est"
     }
   },
   "596": {
     "id": 596,
     "jad_id": "jad_occurence__596",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2494,
+        "value": "hic finis desolationis que a romanis facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bodl., Bodley 412"
+      }
+    ],
+    "position_in_ms": "216v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -18950,25 +18996,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-30",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 92,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 412, f. 216v"
+      }
+    ],
+    "view_label": "hic finis desolationis que a romanis facta est",
     "prev": {
       "id": "jad_occurence__595",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "venient dies, scilicet tempore vaspasiani et titi"
     },
     "next": {
       "id": "jad_occurence__597",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Ierusalem quod agentibus romanis"
     }
   },
   "597": {
     "id": 597,
     "jad_id": "jad_occurence__597",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2495,
+        "value": "Ierusalem quod agentibus romanis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bodl., Bodley 412"
+      }
+    ],
+    "position_in_ms": "217r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -18979,25 +19043,43 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-30",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 92,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 412, f. 217r"
+      }
+    ],
+    "view_label": "Ierusalem quod agentibus romanis",
     "prev": {
       "id": "jad_occurence__596",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "hic finis desolationis que a romanis facta est"
     },
     "next": {
       "id": "jad_occurence__598",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ecce venient dies, glossa Bede, scilicet romane obsidionis et captivitatis"
     }
   },
   "598": {
     "id": 598,
     "jad_id": "jad_occurence__598",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2496,
+        "value": "ecce venient dies, glossa Bede, scilicet romane obsidionis et captivitatis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 92,
+        "value": "Bodl., Bodley 412"
+      }
+    ],
+    "position_in_ms": "239v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -19008,12 +19090,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-03-30",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 92,
+          "database_table_3497": 10
+        },
+        "value": "Bodl., Bodley 412, f. 239v"
+      }
+    ],
+    "view_label": "ecce venient dies, glossa Bede, scilicet romane obsidionis et captivitatis",
     "prev": {
       "id": "jad_occurence__597",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Ierusalem quod agentibus romanis"
     },
     "next": {
       "id": "jad_occurence__599",
@@ -19042,7 +19132,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__598",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ecce venient dies, glossa Bede, scilicet romane obsidionis et captivitatis"
     },
     "next": {
       "id": "jad_occurence__6",

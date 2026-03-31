@@ -17787,7 +17787,7 @@
   "391": {
     "id": 391,
     "order": "378.00000000000000000000",
-    "name": "Postilla in Lucam ",
+    "name": "Postilla in Lucam (II) ",
     "jad_id": "jad_work__391",
     "author": [
       {
@@ -17808,7 +17808,7 @@
         "order": "85.00000000000000000000"
       }
     ],
-    "title": "Postilla in Lucam",
+    "title": "Postilla in Lucam (II)",
     "genre": {
       "id": 14727,
       "value": "Commentary",
@@ -17824,7 +17824,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "date_certainty": true,
+    "date_certainty": false,
     "date": [
       {
         "id": 46,
@@ -17833,7 +17833,7 @@
       }
     ],
     "link_digital_editions": "",
-    "author_certainty": true,
+    "author_certainty": false,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": null
@@ -29271,20 +29271,48 @@
   "757": {
     "id": 757,
     "order": "636.00000000000000000000",
-    "name": " ",
+    "name": "Postilla in Lucam ",
     "jad_id": "jad_work__757",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 183,
+        "value": "Johannes de Rupella (de la Rochelle)",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 92,
+        "value": "Bodl., Bodley 412",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "title": "Postilla in Lucam",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -29441,6 +29469,48 @@
     "order": "644.00000000000000000000",
     "name": " ",
     "jad_id": "jad_work__765",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "766": {
+    "id": 766,
+    "order": "645.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__766",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "767": {
+    "id": 767,
+    "order": "646.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__767",
     "author": [],
     "manuscripts": [],
     "title": "",
