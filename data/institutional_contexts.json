@@ -1245,7 +1245,7 @@
             "value": "mid 12th cen."
           }
         ],
-        "format": "",
+        "format": "20 x 28, 126 ff.",
         "library_full": [
           {
             "id": 10,
@@ -1260,6 +1260,71 @@
         "next": {
           "id": "jad_manuscript__10",
           "label": "BNF, Latin 446"
+        }
+      },
+      {
+        "id": 201,
+        "name": [
+          {
+            "id": 12,
+            "value": "BSB, Clm 19108"
+          }
+        ],
+        "jad_id": "jad_manuscript__201",
+        "library": [
+          {
+            "id": 12,
+            "value": "BSB",
+            "jad_id": "jad_library__12",
+            "gnd_url": "https://d-nb.info/gnd/2031351-2",
+            "full_name": "Bayrische Staatsbibliothek",
+            "place": [
+              {
+                "id": 3,
+                "name": "Munich",
+                "geonames_url": "https://www.geonames.org/2867714/munich.html",
+                "jad_id": "jad_places__3",
+                "lat": "48.13743",
+                "long": "11.57549"
+              }
+            ]
+          }
+        ],
+        "idno": "Clm 19108",
+        "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037935679707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%2019108&offset=0",
+        "digi_url": "",
+        "institutional_context": [
+          {
+            "id": 3,
+            "name": "Benedictines",
+            "jad_id": "jad_institutional_context__3",
+            "part_of": [],
+            "gnd_url": "https://d-nb.info/gnd/25880-5",
+            "wikidata": "",
+            "place": []
+          }
+        ],
+        "date_written": [
+          {
+            "id": 2,
+            "value": "12th cen."
+          }
+        ],
+        "format": "20 x 25, 249 ff.",
+        "library_full": [
+          {
+            "id": 12,
+            "value": "Bayrische Staatsbibliothek"
+          }
+        ],
+        "view_label": "BSB, Clm 19108",
+        "prev": {
+          "id": "jad_manuscript__200",
+          "label": "BSB, Clm 14761"
+        },
+        "next": {
+          "id": "jad_manuscript__202",
+          "label": "BSB, Clm 5503"
         }
       }
     ]

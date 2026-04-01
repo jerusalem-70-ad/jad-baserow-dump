@@ -3615,7 +3615,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "format": "",
+    "format": "20 x 28, 126 ff.",
     "library_full": [
       {
         "id": 10,
@@ -5361,7 +5361,7 @@
         "order": "43.00000000000000000000"
       }
     ],
-    "format": "",
+    "format": "22 x 32, 397 ff.",
     "library_full": [
       {
         "id": 44,
@@ -5685,7 +5685,7 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "format": "",
+    "format": "25 x 35, 287 ff.",
     "library_full": [
       {
         "id": 46,
@@ -6129,7 +6129,7 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "format": "",
+    "format": "15 x 25, 155 ff.",
     "library_full": [
       {
         "id": 12,
@@ -6165,7 +6165,7 @@
         "order": "74.00000000000000000000"
       }
     ],
-    "format": "",
+    "format": "20 x 35, 362 ff.",
     "library_full": [
       {
         "id": 12,
@@ -6201,7 +6201,7 @@
         "order": "47.00000000000000000000"
       }
     ],
-    "format": "",
+    "format": "25 x 35, 302 ff.",
     "library_full": [
       {
         "id": 12,
@@ -6237,7 +6237,7 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "format": "",
+    "format": "15 x 20, 188 ff.",
     "library_full": [
       {
         "id": 12,
@@ -6337,7 +6337,13 @@
     "idno": "Clm 19108",
     "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037935679707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,clm%2019108&offset=0",
     "digi_url": "",
-    "institutional_context": [],
+    "institutional_context": [
+      {
+        "id": 3,
+        "value": "Benedictines",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "date_written": [
       {
         "id": 2,
@@ -6345,7 +6351,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "format": "",
+    "format": "20 x 25, 249 ff.",
     "library_full": [
       {
         "id": 12,
@@ -7730,44 +7736,110 @@
   "325": {
     "id": 325,
     "order": "209.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 10,
+        "value": "Bodl., Wood empt. 13"
+      }
+    ],
     "jad_id": "jad_manuscript__325",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 10,
+        "value": "Bodl.",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "idno": "Wood empt. 13",
+    "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_9049",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": []
+    "date_written": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "format": "21 x 15, 160 ff.",
+    "library_full": [
+      {
+        "id": 10,
+        "value": "Bodleian Library"
+      }
+    ]
   },
   "326": {
     "id": 326,
     "order": "210.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 10,
+        "value": "Bodl., Bodley 371"
+      }
+    ],
     "jad_id": "jad_manuscript__326",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 10,
+        "value": "Bodl.",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "idno": "Bodley 371",
+    "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_1400",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": []
+    "date_written": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "format": "36 x 25, 98 ff.",
+    "library_full": [
+      {
+        "id": 10,
+        "value": "Bodleian Library"
+      }
+    ]
   },
   "327": {
     "id": 327,
     "order": "211.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 10,
+        "value": "Bodl., Hatton 101"
+      }
+    ],
     "jad_id": "jad_manuscript__327",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 10,
+        "value": "Bodl.",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "idno": "Hatton 101",
+    "catalog_url": "https://medieval.bodleian.ox.ac.uk/catalog/manuscript_6031",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": []
+    "date_written": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "format": "12 x 15, 801 pp.",
+    "library_full": [
+      {
+        "id": 10,
+        "value": "Bodleian Library"
+      }
+    ]
   },
   "328": {
     "id": 328,

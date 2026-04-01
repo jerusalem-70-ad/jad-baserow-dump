@@ -603,12 +603,12 @@
     "description": null,
     "view_label": "Joh. 11,48",
     "prev": {
-      "id": "jad_biblical_reference__352",
-      "label": ""
+      "id": "jad_biblical_reference__359",
+      "label": "Rev. 13,17"
     },
     "next": {
-      "id": "jad_biblical_reference__37",
-      "label": "Joh. 19,15"
+      "id": "jad_biblical_reference__360",
+      "label": ""
     }
   },
   "37": {
@@ -620,8 +620,8 @@
     "description": null,
     "view_label": "Joh. 19,15",
     "prev": {
-      "id": "jad_biblical_reference__36",
-      "label": "Joh. 11,48"
+      "id": "jad_biblical_reference__362",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__38",
@@ -4798,7 +4798,7 @@
     "name": "Is. 6,1",
     "jad_id": "jad_biblical_reference__348",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "In anno, quo mortuus est rex Ozias, vidi Dominum sedentem super solium excelsum et elevatum; et fimbriae eius replebant templum.",
     "description": "",
     "view_label": "Is. 6,1",
     "prev": {
@@ -4815,7 +4815,7 @@
     "name": "Amos 3,7",
     "jad_id": "jad_biblical_reference__349",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "Nihil enim faciet Dominus Deus,\nnisi revelaverit secretum suum\nad servos suos prophetas.",
     "description": "",
     "view_label": "Amos 3,7",
     "prev": {
@@ -4841,41 +4841,211 @@
     },
     "next": {
       "id": "jad_biblical_reference__351",
-      "label": ""
+      "label": "Lam. 1,3"
     }
   },
   "351": {
     "id": 351,
-    "name": "",
+    "name": "Lam. 1,3",
     "jad_id": "jad_biblical_reference__351",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "GHIMEL. Migravit Iudas prae afflictione\net multitudine servitutis;\nhabitat inter gentes\nnec invenit requiem:\nomnes persecutores eius apprehenderunt eam\ninter angustias.",
     "description": "",
-    "view_label": "",
+    "view_label": "Lam. 1,3",
     "prev": {
       "id": "jad_biblical_reference__350",
       "label": "Lk. 23,29"
     },
     "next": {
       "id": "jad_biblical_reference__352",
-      "label": ""
+      "label": "Lam. 1,14"
     }
   },
   "352": {
     "id": 352,
-    "name": "",
+    "name": "Lam. 1,14",
     "jad_id": "jad_biblical_reference__352",
+    "nova_vulgata_url": "",
+    "text": "NUN. Vigilavit super iniquitates meas,\nin manu eius convolutae sunt\net impositae collo meo;\ndebilitavit virtutem meam:\ndedit me Dominus in manu,\nde qua non potero surgere.",
+    "description": "",
+    "view_label": "Lam. 1,14",
+    "prev": {
+      "id": "jad_biblical_reference__351",
+      "label": "Lam. 1,3"
+    },
+    "next": {
+      "id": "jad_biblical_reference__353",
+      "label": "Lam. 2,7"
+    }
+  },
+  "353": {
+    "id": 353,
+    "name": "Lam. 2,7",
+    "jad_id": "jad_biblical_reference__353",
+    "nova_vulgata_url": "",
+    "text": "ZAIN. Reppulit Dominus altare suum,\nmaledixit sanctuario suo;\ntradidit in manu inimici\nmuros domorum eius:\nvocem dederunt in domo Domini\nsicut in die sollemni.",
+    "description": "",
+    "view_label": "Lam. 2,7",
+    "prev": {
+      "id": "jad_biblical_reference__352",
+      "label": "Lam. 1,14"
+    },
+    "next": {
+      "id": "jad_biblical_reference__354",
+      "label": "Lam. 3,43"
+    }
+  },
+  "354": {
+    "id": 354,
+    "name": "Lam. 3,43",
+    "jad_id": "jad_biblical_reference__354",
+    "nova_vulgata_url": "",
+    "text": "SAMECH. Operuisti in furore et percussisti nos;\noccidisti nec pepercisti.",
+    "description": "",
+    "view_label": "Lam. 3,43",
+    "prev": {
+      "id": "jad_biblical_reference__353",
+      "label": "Lam. 2,7"
+    },
+    "next": {
+      "id": "jad_biblical_reference__355",
+      "label": "Soph. 1,12"
+    }
+  },
+  "355": {
+    "id": 355,
+    "name": "Soph. 1,12",
+    "jad_id": "jad_biblical_reference__355",
+    "nova_vulgata_url": "",
+    "text": "Et erit in tempore illo:\nscrutabor Ierusalem in lucernis\net visitabo super viros\ndefixos in faecibus suis,\nqui dicunt in cordibus suis:\n“Non faciet bene Dominus\net non faciet male”.",
+    "description": "",
+    "view_label": "Soph. 1,12",
+    "prev": {
+      "id": "jad_biblical_reference__354",
+      "label": "Lam. 3,43"
+    },
+    "next": {
+      "id": "jad_biblical_reference__356",
+      "label": "Job 28,5"
+    }
+  },
+  "356": {
+    "id": 356,
+    "name": "Job 28,5",
+    "jad_id": "jad_biblical_reference__356",
+    "nova_vulgata_url": "",
+    "text": "Terra, de qua oriebatur panis,\nin profundo subversa est sicut per ignem.",
+    "description": "",
+    "view_label": "Job 28,5",
+    "prev": {
+      "id": "jad_biblical_reference__355",
+      "label": "Soph. 1,12"
+    },
+    "next": {
+      "id": "jad_biblical_reference__357",
+      "label": "Ez. 5,2"
+    }
+  },
+  "357": {
+    "id": 357,
+    "name": "Ez. 5,2",
+    "jad_id": "jad_biblical_reference__357",
+    "nova_vulgata_url": "",
+    "text": "Tertiam partem igne combures in medio civitatis, post completionem dierum obsidionis; et assumens tertiam partem, concides gladio in circuitu eius; tertiam vero aliam disperges in ventum, et gladium nudabo post eos.",
+    "description": "",
+    "view_label": "Ez. 5,2",
+    "prev": {
+      "id": "jad_biblical_reference__356",
+      "label": "Job 28,5"
+    },
+    "next": {
+      "id": "jad_biblical_reference__358",
+      "label": "Jer. 26,6"
+    }
+  },
+  "358": {
+    "id": 358,
+    "name": "Jer. 26,6",
+    "jad_id": "jad_biblical_reference__358",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Jer. 26,6",
+    "prev": {
+      "id": "jad_biblical_reference__357",
+      "label": "Ez. 5,2"
+    },
+    "next": {
+      "id": "jad_biblical_reference__359",
+      "label": "Rev. 13,17"
+    }
+  },
+  "359": {
+    "id": 359,
+    "name": "Rev. 13,17",
+    "jad_id": "jad_biblical_reference__359",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "Rev. 13,17",
+    "prev": {
+      "id": "jad_biblical_reference__358",
+      "label": "Jer. 26,6"
+    },
+    "next": {
+      "id": "jad_biblical_reference__36",
+      "label": "Joh. 11,48"
+    }
+  },
+  "360": {
+    "id": 360,
+    "name": "",
+    "jad_id": "jad_biblical_reference__360",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
     "view_label": "",
     "prev": {
-      "id": "jad_biblical_reference__351",
+      "id": "jad_biblical_reference__36",
+      "label": "Joh. 11,48"
+    },
+    "next": {
+      "id": "jad_biblical_reference__361",
+      "label": ""
+    }
+  },
+  "361": {
+    "id": 361,
+    "name": "",
+    "jad_id": "jad_biblical_reference__361",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__360",
       "label": ""
     },
     "next": {
-      "id": "jad_biblical_reference__36",
-      "label": "Joh. 11,48"
+      "id": "jad_biblical_reference__362",
+      "label": ""
+    }
+  },
+  "362": {
+    "id": 362,
+    "name": "",
+    "jad_id": "jad_biblical_reference__362",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__361",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__37",
+      "label": "Joh. 19,15"
     }
   }
 }
