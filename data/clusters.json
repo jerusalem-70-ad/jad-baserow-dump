@@ -1,9 +1,9 @@
 {
   "1": {
     "id": 1,
-    "name": "First Crusade",
+    "name": "First Crusade (1095-1099)",
     "jad_id": "jad_cluster__1",
-    "view_label": "First Crusade",
+    "view_label": "First Crusade (1095-1099)",
     "prev": {
       "id": "jad_cluster__9",
       "label": "Anti-Jewish action in 840s"
@@ -15,58 +15,58 @@
   },
   "2": {
     "id": 2,
-    "name": "Third Crusade",
+    "name": "Third Crusade (1187-1192)",
     "jad_id": "jad_cluster__2",
-    "view_label": "Third Crusade",
+    "view_label": "Third Crusade (1187-1192)",
     "prev": {
       "id": "jad_cluster__15",
-      "label": ""
+      "label": "Pre-Christian Rome"
     },
     "next": {
       "id": "jad_cluster__3",
-      "label": "Carolingian correctio"
+      "label": "Carolingian correctio - Crisis (c.830-)"
     }
   },
   "3": {
     "id": 3,
-    "name": "Carolingian correctio",
+    "name": "Carolingian correctio - Crisis (c.830-)",
     "jad_id": "jad_cluster__3",
-    "view_label": "Carolingian correctio",
+    "view_label": "Carolingian correctio - Crisis (c.830-)",
     "prev": {
       "id": "jad_cluster__2",
-      "label": "Third Crusade"
+      "label": "Third Crusade (1187-1192)"
     },
     "next": {
       "id": "jad_cluster__4",
-      "label": "Viking invasions"
+      "label": "Carolingian correctio - Heyday (-c.830)"
     }
   },
   "4": {
     "id": 4,
-    "name": "Viking invasions",
+    "name": "Carolingian correctio - Heyday (-c.830)",
     "jad_id": "jad_cluster__4",
-    "view_label": "Viking invasions",
+    "view_label": "Carolingian correctio - Heyday (-c.830)",
     "prev": {
       "id": "jad_cluster__3",
-      "label": "Carolingian correctio"
+      "label": "Carolingian correctio - Crisis (c.830-)"
     },
     "next": {
-      "id": "jad_cluster__5",
-      "label": "Year 1000"
+      "id": "jad_cluster__46",
+      "label": "Pre-Carolingian"
     }
   },
   "5": {
     "id": 5,
-    "name": "Year 1000",
+    "name": "The Apocalyptic Year 1000",
     "jad_id": "jad_cluster__5",
-    "view_label": "Year 1000",
+    "view_label": "The Apocalyptic Year 1000",
     "prev": {
-      "id": "jad_cluster__4",
-      "label": "Viking invasions"
+      "id": "jad_cluster__49",
+      "label": ""
     },
     "next": {
-      "id": "jad_cluster__6",
-      "label": "Visigothic persecution of Jews"
+      "id": "jad_cluster__50",
+      "label": ""
     }
   },
   "6": {
@@ -75,19 +75,19 @@
     "jad_id": "jad_cluster__6",
     "view_label": "Visigothic persecution of Jews",
     "prev": {
-      "id": "jad_cluster__5",
-      "label": "Year 1000"
+      "id": "jad_cluster__50",
+      "label": ""
     },
     "next": {
       "id": "jad_cluster__7",
-      "label": "Talmud burning in Paris"
+      "label": "Talmud burning in Paris (1242)"
     }
   },
   "7": {
     "id": 7,
-    "name": "Talmud burning in Paris",
+    "name": "Talmud burning in Paris (1242)",
     "jad_id": "jad_cluster__7",
-    "view_label": "Talmud burning in Paris",
+    "view_label": "Talmud burning in Paris (1242)",
     "prev": {
       "id": "jad_cluster__6",
       "label": "Visigothic persecution of Jews"
@@ -104,7 +104,7 @@
     "view_label": "Jerusalem's conquest in 1244",
     "prev": {
       "id": "jad_cluster__7",
-      "label": "Talmud burning in Paris"
+      "label": "Talmud burning in Paris (1242)"
     },
     "next": {
       "id": "jad_cluster__9",
@@ -122,7 +122,7 @@
     },
     "next": {
       "id": "jad_cluster__1",
-      "label": "First Crusade"
+      "label": "First Crusade (1095-1099)"
     }
   },
   "10": {
@@ -132,81 +132,151 @@
     "view_label": "Capture of Acre (1291)",
     "prev": {
       "id": "jad_cluster__1",
-      "label": "First Crusade"
+      "label": "First Crusade (1095-1099)"
     },
     "next": {
       "id": "jad_cluster__11",
-      "label": "Second Crusade"
+      "label": "Second Crusade (1145-1149)"
     }
   },
   "11": {
     "id": 11,
-    "name": "Second Crusade",
+    "name": "Second Crusade (1145-1149)",
     "jad_id": "jad_cluster__11",
-    "view_label": "Second Crusade",
+    "view_label": "Second Crusade (1145-1149)",
     "prev": {
       "id": "jad_cluster__10",
       "label": "Capture of Acre (1291)"
     },
     "next": {
       "id": "jad_cluster__12",
-      "label": "Fifth Crusade"
+      "label": "Fifth Crusade (1213-1221)"
     }
   },
   "12": {
     "id": 12,
-    "name": "Fifth Crusade",
+    "name": "Fifth Crusade (1213-1221)",
     "jad_id": "jad_cluster__12",
-    "view_label": "Fifth Crusade",
+    "view_label": "Fifth Crusade (1213-1221)",
     "prev": {
       "id": "jad_cluster__11",
-      "label": "Second Crusade"
+      "label": "Second Crusade (1145-1149)"
     },
     "next": {
       "id": "jad_cluster__13",
-      "label": ""
+      "label": "Sack of Rome (410)"
     }
   },
   "13": {
     "id": 13,
-    "name": "",
+    "name": "Sack of Rome (410)",
     "jad_id": "jad_cluster__13",
-    "view_label": "",
+    "view_label": "Sack of Rome (410)",
     "prev": {
       "id": "jad_cluster__12",
-      "label": "Fifth Crusade"
+      "label": "Fifth Crusade (1213-1221)"
     },
     "next": {
       "id": "jad_cluster__14",
-      "label": ""
+      "label": "Constantinian Turn"
     }
   },
   "14": {
     "id": 14,
-    "name": "",
+    "name": "Constantinian Turn",
     "jad_id": "jad_cluster__14",
-    "view_label": "",
+    "view_label": "Constantinian Turn",
     "prev": {
       "id": "jad_cluster__13",
-      "label": ""
+      "label": "Sack of Rome (410)"
     },
     "next": {
       "id": "jad_cluster__15",
-      "label": ""
+      "label": "Pre-Christian Rome"
     }
   },
   "15": {
     "id": 15,
-    "name": "",
+    "name": "Pre-Christian Rome",
     "jad_id": "jad_cluster__15",
-    "view_label": "",
+    "view_label": "Pre-Christian Rome",
     "prev": {
       "id": "jad_cluster__14",
-      "label": ""
+      "label": "Constantinian Turn"
     },
     "next": {
       "id": "jad_cluster__2",
-      "label": "Third Crusade"
+      "label": "Third Crusade (1187-1192)"
+    }
+  },
+  "46": {
+    "id": 46,
+    "name": "Pre-Carolingian",
+    "jad_id": "jad_cluster__46",
+    "view_label": "Pre-Carolingian",
+    "prev": {
+      "id": "jad_cluster__4",
+      "label": "Carolingian correctio - Heyday (-c.830)"
+    },
+    "next": {
+      "id": "jad_cluster__47",
+      "label": "Gregorian Reform"
+    }
+  },
+  "47": {
+    "id": 47,
+    "name": "Gregorian Reform",
+    "jad_id": "jad_cluster__47",
+    "view_label": "Gregorian Reform",
+    "prev": {
+      "id": "jad_cluster__46",
+      "label": "Pre-Carolingian"
+    },
+    "next": {
+      "id": "jad_cluster__48",
+      "label": "Age of Expulsions Jews and Black Death"
+    }
+  },
+  "48": {
+    "id": 48,
+    "name": "Age of Expulsions Jews and Black Death",
+    "jad_id": "jad_cluster__48",
+    "view_label": "Age of Expulsions Jews and Black Death",
+    "prev": {
+      "id": "jad_cluster__47",
+      "label": "Gregorian Reform"
+    },
+    "next": {
+      "id": "jad_cluster__49",
+      "label": ""
+    }
+  },
+  "49": {
+    "id": 49,
+    "name": "",
+    "jad_id": "jad_cluster__49",
+    "view_label": "",
+    "prev": {
+      "id": "jad_cluster__48",
+      "label": "Age of Expulsions Jews and Black Death"
+    },
+    "next": {
+      "id": "jad_cluster__5",
+      "label": "The Apocalyptic Year 1000"
+    }
+  },
+  "50": {
+    "id": 50,
+    "name": "",
+    "jad_id": "jad_cluster__50",
+    "view_label": "",
+    "prev": {
+      "id": "jad_cluster__5",
+      "label": "The Apocalyptic Year 1000"
+    },
+    "next": {
+      "id": "jad_cluster__6",
+      "label": "Visigothic persecution of Jews"
     }
   }
 }

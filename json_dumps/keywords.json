@@ -3,7 +3,7 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "name": "Crusading",
-    "short_description": "An occurrence appearing either in a crusade-specific source, or in a text by an author of whom we know that he was active in the crusades, or a text that we can otherwise relate to this phenomenon.",
+    "short_description": "An occurrence appearing either in a crusade-specific source, or in a text by an author of whom we know that he was active in the crusades, or a text that can otherwise be related to this phenomenon.",
     "jad_id": "jad_keyword__1",
     "part_of": []
   },
@@ -25,16 +25,8 @@
     "id": 3,
     "order": "3.00000000000000000000",
     "name": "Anti-Judaism",
-    "short_description": "",
+    "short_description": "The text formulates explicitely an anti-Jewish argument, for example, that they were the killers of Christ.",
     "jad_id": "jad_keyword__3",
-    "part_of": []
-  },
-  "4": {
-    "id": 4,
-    "order": "4.00000000000000000000",
-    "name": "Another conquest of Jerusalem",
-    "short_description": "",
-    "jad_id": "jad_keyword__4",
     "part_of": []
   },
   "5": {
@@ -61,9 +53,9 @@
     "jad_id": "jad_keyword__7",
     "part_of": [
       {
-        "id": 4,
-        "value": "Another conquest of Jerusalem",
-        "order": "4.00000000000000000000"
+        "id": 1,
+        "value": "Crusading",
+        "order": "1.00000000000000000000"
       }
     ]
   },
@@ -78,11 +70,6 @@
         "id": 2,
         "value": "Third Crusade (1187-1192)",
         "order": "2.00000000000000000000"
-      },
-      {
-        "id": 4,
-        "value": "Another conquest of Jerusalem",
-        "order": "4.00000000000000000000"
       }
     ]
   },
@@ -114,7 +101,13 @@
     "name": "Babylonian conquest of Jerusalem (587 BC)",
     "short_description": "",
     "jad_id": "jad_keyword__11",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 10,
+        "value": "Typology",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "12": {
     "id": 12,
@@ -184,9 +177,9 @@
     "jad_id": "jad_keyword__18",
     "part_of": [
       {
-        "id": 4,
-        "value": "Another conquest of Jerusalem",
-        "order": "4.00000000000000000000"
+        "id": 10,
+        "value": "Typology",
+        "order": "10.00000000000000000000"
       }
     ]
   },
@@ -198,9 +191,9 @@
     "jad_id": "jad_keyword__19",
     "part_of": [
       {
-        "id": 4,
-        "value": "Another conquest of Jerusalem",
-        "order": "4.00000000000000000000"
+        "id": 10,
+        "value": "Typology",
+        "order": "10.00000000000000000000"
       }
     ]
   },
@@ -242,7 +235,13 @@
     "name": "Destruction of Sodom and Gomorah",
     "short_description": "The Roman conquest is entangled with another divine punishment: the one of Sodom and Gomohrah, found in Gen. 18-19.",
     "jad_id": "jad_keyword__24",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 10,
+        "value": "Typology",
+        "order": "10.00000000000000000000"
+      }
+    ]
   },
   "25": {
     "id": 25,
@@ -258,7 +257,13 @@
     "name": "Emperor Hadrian (r.117-138)",
     "short_description": "",
     "jad_id": "jad_keyword__26",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 31,
+        "value": "Discussions Roman Empire",
+        "order": "31.00000000000000000000"
+      }
+    ]
   },
   "27": {
     "id": 27,
@@ -266,14 +271,6 @@
     "name": "Spiritual exegesis",
     "short_description": "The focus is on a spiritual exegesis, whereas the historical dimensions of the conquest are only present in passing, if at all.",
     "jad_id": "jad_keyword__27",
-    "part_of": []
-  },
-  "28": {
-    "id": 28,
-    "order": "28.00000000000000000000",
-    "name": "Warfare / Militant imagery",
-    "short_description": "",
-    "jad_id": "jad_keyword__28",
     "part_of": []
   },
   "29": {
@@ -384,7 +381,7 @@
     "id": 42,
     "order": "42.00000000000000000000",
     "name": "Fulfillment prophecy",
-    "short_description": "",
+    "short_description": "The text asserts the fulfillment of prophecy in its own times - a most powerful argument. The fulfillment of biblical prophecy in the Roman conquest, however, is designated via the keyword 'Typology'.",
     "jad_id": "jad_keyword__42",
     "part_of": []
   },
@@ -442,7 +439,13 @@
     "name": "Popular audience",
     "short_description": "The text delivers substantial hints that it was meant for popular audiences",
     "jad_id": "jad_keyword__49",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 5,
+        "value": "Preaching",
+        "order": "5.00000000000000000000"
+      }
+    ]
   },
   "50": {
     "id": 50,
@@ -450,7 +453,13 @@
     "name": "Pompeius Magnus",
     "short_description": "The Roman general who conquered Jerusalem in 63 BCE and thus integrated Palestine into the Roman Empire",
     "jad_id": "jad_keyword__50",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 31,
+        "value": "Discussions Roman Empire",
+        "order": "31.00000000000000000000"
+      }
+    ]
   },
   "51": {
     "id": 51,
@@ -464,7 +473,7 @@
     "id": 52,
     "order": "52.00000000000000000000",
     "name": "Martyrdom",
-    "short_description": "",
+    "short_description": "Discussions of martyrdom appear in the same context, for example, relating to Saint Stephen.",
     "jad_id": "jad_keyword__52",
     "part_of": []
   },
@@ -490,7 +499,13 @@
     "name": "Antichrist",
     "short_description": "Discussions about the Antichrist are entangled with those about the Roman conquest.",
     "jad_id": "jad_keyword__55",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 6,
+        "value": "Apocalypticism",
+        "order": "6.00000000000000000000"
+      }
+    ]
   },
   "56": {
     "id": 56,
@@ -536,7 +551,7 @@
     "id": 61,
     "order": "61.00000000000000000000",
     "name": "Devilish forces",
-    "short_description": "The parties involved are associated with devilish forces",
+    "short_description": "The parties involved are associated with devilish forces.",
     "jad_id": "jad_keyword__61",
     "part_of": []
   },
@@ -544,7 +559,7 @@
     "id": 62,
     "order": "62.00000000000000000000",
     "name": "Computistic concerns",
-    "short_description": "The Roman conquest is discussed in the context of calculating history or clarifying chronological issues",
+    "short_description": "The Roman conquest is discussed in the context of calculating history or clarifying chronological issues.",
     "jad_id": "jad_keyword__62",
     "part_of": []
   },
@@ -552,7 +567,7 @@
     "id": 63,
     "order": "63.00000000000000000000",
     "name": "Current issues Church",
-    "short_description": "",
+    "short_description": "The text entangles the Roman conquest with discussions about current issues within the Church, for example, concerns about corrupt priests.",
     "jad_id": "jad_keyword__63",
     "part_of": []
   },
@@ -578,7 +593,13 @@
     "name": "Florus",
     "short_description": "The Roman procurator over Judea, whose actions were the cause for the Jewish revolt",
     "jad_id": "jad_keyword__66",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 31,
+        "value": "Discussions Roman Empire",
+        "order": "31.00000000000000000000"
+      }
+    ]
   },
   "67": {
     "id": 67,
@@ -586,7 +607,13 @@
     "name": "Second Crusade (1145-1149)",
     "short_description": "",
     "jad_id": "jad_keyword__67",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 1,
+        "value": "Crusading",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "68": {
     "id": 68,
@@ -664,7 +691,7 @@
     "id": 105,
     "order": "77.00000000000000000000",
     "name": "Elaborate discussion",
-    "short_description": "",
+    "short_description": "The text offers an elaborate discussion on the Roman conquest, generelly defined as occupying more than one paragraph.",
     "jad_id": "jad_keyword__105",
     "part_of": []
   },
@@ -672,7 +699,7 @@
     "id": 132,
     "order": "78.00000000000000000000",
     "name": "Corpus Christi",
-    "short_description": "",
+    "short_description": "Discussions about the Corpus Christi, and thus about the peculiar interdependecy of members of the Christian community, appear alongside the Roman conquest.",
     "jad_id": "jad_keyword__132",
     "part_of": []
   },
@@ -682,7 +709,13 @@
     "name": "Fifth Crusade",
     "short_description": "",
     "jad_id": "jad_keyword__133",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 1,
+        "value": "Crusading",
+        "order": "1.00000000000000000000"
+      }
+    ]
   },
   "134": {
     "id": 134,
