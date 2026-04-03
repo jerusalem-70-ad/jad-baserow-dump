@@ -59,8 +59,8 @@
     "description": null,
     "view_label": "Lk. 19,44",
     "prev": {
-      "id": "jad_biblical_reference__39",
-      "label": "Mt. 27,52"
+      "id": "jad_biblical_reference__390",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__40",
@@ -641,8 +641,8 @@
       "label": "Joh. 19,15"
     },
     "next": {
-      "id": "jad_biblical_reference__39",
-      "label": "Mt. 27,52"
+      "id": "jad_biblical_reference__386",
+      "label": ""
     }
   },
   "39": {
@@ -654,12 +654,12 @@
     "description": null,
     "view_label": "Mt. 27,52",
     "prev": {
-      "id": "jad_biblical_reference__38",
-      "label": "Mt. 27,51"
+      "id": "jad_biblical_reference__389",
+      "label": ""
     },
     "next": {
-      "id": "jad_biblical_reference__4",
-      "label": "Lk. 19,44"
+      "id": "jad_biblical_reference__390",
+      "label": ""
     }
   },
   "40": {
@@ -5046,6 +5046,91 @@
     "next": {
       "id": "jad_biblical_reference__37",
       "label": "Joh. 19,15"
+    }
+  },
+  "386": {
+    "id": 386,
+    "name": "",
+    "jad_id": "jad_biblical_reference__386",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__38",
+      "label": "Mt. 27,51"
+    },
+    "next": {
+      "id": "jad_biblical_reference__387",
+      "label": ""
+    }
+  },
+  "387": {
+    "id": 387,
+    "name": "",
+    "jad_id": "jad_biblical_reference__387",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__386",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__388",
+      "label": ""
+    }
+  },
+  "388": {
+    "id": 388,
+    "name": "",
+    "jad_id": "jad_biblical_reference__388",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__387",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__389",
+      "label": ""
+    }
+  },
+  "389": {
+    "id": 389,
+    "name": "",
+    "jad_id": "jad_biblical_reference__389",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__388",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__39",
+      "label": "Mt. 27,52"
+    }
+  },
+  "390": {
+    "id": 390,
+    "name": "",
+    "jad_id": "jad_biblical_reference__390",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__39",
+      "label": "Mt. 27,52"
+    },
+    "next": {
+      "id": "jad_biblical_reference__4",
+      "label": "Lk. 19,44"
     }
   }
 }
