@@ -5965,7 +5965,7 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": null,
+    "volume_edition_or_individual_editor": "Walter Map, De nugis curialium, ed. M.R. James (Oxford 1914).",
     "other_editions": "Walter Map, De nugis curialium, ed M. R. James (Cambridge 2010)."
   },
   "124": {
@@ -13379,9 +13379,9 @@
       }
     ],
     "link_digital_editions": "",
-    "author_certainty": true,
+    "author_certainty": false,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "171",
     "other_editions": null
   },
   "288": {
@@ -29423,22 +29423,44 @@
   "760": {
     "id": 760,
     "order": "639.00000000000000000000",
-    "name": " ",
+    "name": "Pharetra fidei contra iudaeos ",
     "jad_id": "jad_work__760",
-    "author": [],
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Pharetra fidei contra iudaeos",
+    "genre": {
+      "id": 14728,
+      "value": "Anti-Jewish treatise",
+      "color": "darker-purple"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "Isaac Lampurlanés",
     "other_editions": ""
   },
   "761": {

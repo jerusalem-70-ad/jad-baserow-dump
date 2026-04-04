@@ -215,7 +215,7 @@
     "jad_id": "jad_date__14",
     "view_label": "12th cen., second half",
     "prev": {
-      "id": "jad_date__130",
+      "id": "jad_date__132",
       "label": ""
     },
     "next": {
@@ -1577,6 +1577,38 @@
     "prev": {
       "id": "jad_date__13",
       "label": "12th cen., first half"
+    },
+    "next": {
+      "id": "jad_date__131",
+      "label": ""
+    }
+  },
+  "131": {
+    "id": 131,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__131",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__130",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_date__132",
+      "label": ""
+    }
+  },
+  "132": {
+    "id": 132,
+    "name": "",
+    "not_before": null,
+    "not_after": null,
+    "jad_id": "jad_date__132",
+    "view_label": "",
+    "prev": {
+      "id": "jad_date__131",
+      "label": ""
     },
     "next": {
       "id": "jad_date__14",

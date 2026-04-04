@@ -5672,6 +5672,66 @@
           "id": "jad_work__76",
           "label": "Collectanea in omnes B. Pauli epistolas "
         }
+      },
+      {
+        "id": 760,
+        "name": "Pharetra fidei contra iudaeos ",
+        "jad_id": "jad_work__760",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Pharetra fidei contra iudaeos",
+        "genre": {
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Isaac Lampurlanés",
+        "other_editions": "",
+        "view_label": "Pharetra fidei contra iudaeos ",
+        "prev": {
+          "id": "jad_work__76",
+          "label": "Collectanea in omnes B. Pauli epistolas "
+        },
+        "next": {
+          "id": "jad_work__761",
+          "label": " "
+        }
       }
     ]
   },
@@ -19783,15 +19843,15 @@
     "notes": "",
     "lebensdaten": null,
     "alt_name": "Petrus, Sancti Dionysii | Pietro, Riga | Riga, Petrus | Pierre, Raye | Petrus, de Riga | Pierre, Riga | Pierre, de Reims | Petrus, Rigaeus | Petrus, Remensis | Petrus, Reige | Petrus, Raye | Petrus, Rigae | Pierre, Reige",
-    "date_of_birth": null,
-    "date_of_death": null,
+    "date_of_birth": "1140",
+    "date_of_death": "1209",
     "place": [
       {
         "id": 67,
         "value": "Riga"
       }
     ],
-    "date_birth_certainty": true,
+    "date_birth_certainty": false,
     "date_death_certainty": true,
     "view_label": "Petrus de Riga",
     "prev": {
@@ -19816,15 +19876,15 @@
             "notes": "",
             "lebensdaten": null,
             "alt_name": "Petrus, Sancti Dionysii | Pietro, Riga | Riga, Petrus | Pierre, Raye | Petrus, de Riga | Pierre, Riga | Pierre, de Reims | Petrus, Rigaeus | Petrus, Remensis | Petrus, Reige | Petrus, Raye | Petrus, Rigae | Pierre, Reige",
-            "date_of_birth": null,
-            "date_of_death": null,
+            "date_of_birth": "1140",
+            "date_of_death": "1209",
             "place": [
               {
                 "id": 67,
                 "value": "Riga"
               }
             ],
-            "date_birth_certainty": true,
+            "date_birth_certainty": false,
             "date_death_certainty": true
           }
         ],
@@ -21687,7 +21747,7 @@
         },
         "next": {
           "id": "jad_work__760",
-          "label": " "
+          "label": "Pharetra fidei contra iudaeos "
         }
       },
       {
@@ -21765,7 +21825,7 @@
     "notes": "",
     "lebensdaten": null,
     "alt_name": "Wibertus, de Nogent | Novigento, Guibertus de | Guibert, van Nogent | Guibert, de Sainte-Marie de Nogent | Guibertus, Novigentensis | Wibertus, de Novigento | Gilbertus, de Novigento | Nogent, Guibert de | Guibertus, Monasterii Sanctae Mariae Novigenti | Guibertus, de Novigento | Guibert, de Nogent | Wibert, von Nogent | Nogent, Guibert von | Guibertus, Novigentinus | Guiberto, di Nogent | Guitbertus, Abbas Sanctae Mariae Novigenti | Guibertus, Abbas | Nogent, Guibert van | Guitbertus, Abbas | Guibert, of Nogent-sous-Coucy | Guibert, de Nogent-sous-Coucy | Gilbertus, Novigentinus",
-    "date_of_birth": "1055-04-15",
+    "date_of_birth": "1055",
     "date_of_death": "1125",
     "place": [
       {
@@ -21773,7 +21833,7 @@
         "value": "Laon"
       }
     ],
-    "date_birth_certainty": true,
+    "date_birth_certainty": false,
     "date_death_certainty": true,
     "view_label": "Guibert of Nogent",
     "prev": {
@@ -21798,7 +21858,7 @@
             "notes": "",
             "lebensdaten": null,
             "alt_name": "Wibertus, de Nogent | Novigento, Guibertus de | Guibert, van Nogent | Guibert, de Sainte-Marie de Nogent | Guibertus, Novigentensis | Wibertus, de Novigento | Gilbertus, de Novigento | Nogent, Guibert de | Guibertus, Monasterii Sanctae Mariae Novigenti | Guibertus, de Novigento | Guibert, de Nogent | Wibert, von Nogent | Nogent, Guibert von | Guibertus, Novigentinus | Guiberto, di Nogent | Guitbertus, Abbas Sanctae Mariae Novigenti | Guibertus, Abbas | Nogent, Guibert van | Guitbertus, Abbas | Guibert, of Nogent-sous-Coucy | Guibert, de Nogent-sous-Coucy | Gilbertus, Novigentinus",
-            "date_of_birth": "1055-04-15",
+            "date_of_birth": "1055",
             "date_of_death": "1125",
             "place": [
               {
@@ -21806,7 +21866,7 @@
                 "value": "Laon"
               }
             ],
-            "date_birth_certainty": true,
+            "date_birth_certainty": false,
             "date_death_certainty": true
           }
         ],
@@ -21873,7 +21933,7 @@
             "notes": "",
             "lebensdaten": null,
             "alt_name": "Wibertus, de Nogent | Novigento, Guibertus de | Guibert, van Nogent | Guibert, de Sainte-Marie de Nogent | Guibertus, Novigentensis | Wibertus, de Novigento | Gilbertus, de Novigento | Nogent, Guibert de | Guibertus, Monasterii Sanctae Mariae Novigenti | Guibertus, de Novigento | Guibert, de Nogent | Wibert, von Nogent | Nogent, Guibert von | Guibertus, Novigentinus | Guiberto, di Nogent | Guitbertus, Abbas Sanctae Mariae Novigenti | Guibertus, Abbas | Nogent, Guibert van | Guitbertus, Abbas | Guibert, of Nogent-sous-Coucy | Guibert, de Nogent-sous-Coucy | Gilbertus, Novigentinus",
-            "date_of_birth": "1055-04-15",
+            "date_of_birth": "1055",
             "date_of_death": "1125",
             "place": [
               {
@@ -21881,7 +21941,7 @@
                 "value": "Laon"
               }
             ],
-            "date_birth_certainty": true,
+            "date_birth_certainty": false,
             "date_death_certainty": true
           }
         ],
@@ -22861,7 +22921,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "Walter Map, De nugis curialium, ed. M.R. James (Oxford 1914).",
         "other_editions": "Walter Map, De nugis curialium, ed M. R. James (Cambridge 2010).",
         "view_label": "De nugis curialum ",
         "prev": {
@@ -31667,9 +31727,9 @@
           }
         ],
         "link_digital_editions": "",
-        "author_certainty": true,
+        "author_certainty": false,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "171",
         "other_editions": null,
         "view_label": "Sermones ",
         "prev": {
@@ -49877,8 +49937,8 @@
     "notes": "",
     "lebensdaten": "",
     "alt_name": "Letbert, de Saint-Ruf | Lietbertus, Abbas Sancti Rufi | Lietbert, de Saint-Ruf | Lambertus, de Sancto Rufo | Lechbertus, Abbas S. Rufi | Letbert, de Saint-Pierre de Lille | Lethebertus | Lambertus, Insulensis | Lietbertus, de Lille | Lietbertus, Insulensis | Letbert, de Lille | Lietbert, de Lille | Lietbert, von Lille | Lietbert, de Saint-Pierre de Lille | Lambertus, de Lille | Lietbertus, de Sancto Rufo | Insulis, Lietbertus de",
-    "date_of_birth": "",
-    "date_of_death": "",
+    "date_of_birth": "?",
+    "date_of_death": "1110",
     "place": [
       {
         "id": 169,
@@ -49886,7 +49946,7 @@
       }
     ],
     "date_birth_certainty": true,
-    "date_death_certainty": true,
+    "date_death_certainty": false,
     "view_label": "Letbertus de Sancto Rufo",
     "prev": {
       "id": "jad_author__382",
@@ -49910,8 +49970,8 @@
             "notes": "",
             "lebensdaten": "",
             "alt_name": "Letbert, de Saint-Ruf | Lietbertus, Abbas Sancti Rufi | Lietbert, de Saint-Ruf | Lambertus, de Sancto Rufo | Lechbertus, Abbas S. Rufi | Letbert, de Saint-Pierre de Lille | Lethebertus | Lambertus, Insulensis | Lietbertus, de Lille | Lietbertus, Insulensis | Letbert, de Lille | Lietbert, de Lille | Lietbert, von Lille | Lietbert, de Saint-Pierre de Lille | Lambertus, de Lille | Lietbertus, de Sancto Rufo | Insulis, Lietbertus de",
-            "date_of_birth": "",
-            "date_of_death": "",
+            "date_of_birth": "?",
+            "date_of_death": "1110",
             "place": [
               {
                 "id": 169,
@@ -49919,7 +49979,7 @@
               }
             ],
             "date_birth_certainty": true,
-            "date_death_certainty": true
+            "date_death_certainty": false
           }
         ],
         "manuscripts": [],
