@@ -3047,11 +3047,11 @@
     "view_label": "de destructione a babiloniis facta, sed de facta a romanis",
     "prev": {
       "id": "jad_occurence__649",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     },
     "next": {
       "id": "jad_occurence__650",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     }
   },
   "66": {
@@ -19953,17 +19953,27 @@
     },
     "next": {
       "id": "jad_occurence__646",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "deinde a romanis destructa"
     }
   },
   "646": {
     "id": 646,
     "jad_id": "jad_occurence__646",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1032,
+        "value": "deinde a romanis destructa"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 328,
+        "value": "Vat., Vat.lat.1229"
+      }
+    ],
+    "position_in_ms": "201r-203r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.1229/0405",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -19973,26 +19983,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-10",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 328,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.1229, f. 201r-203r"
+      }
+    ],
+    "view_label": "deinde a romanis destructa",
     "prev": {
       "id": "jad_occurence__645",
       "label": "hec interpretatio super Iudeos et usque hodie"
     },
     "next": {
       "id": "jad_occurence__647",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "deinde a romanis destructa"
     }
   },
   "647": {
     "id": 647,
     "jad_id": "jad_occurence__647",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1032,
+        "value": "deinde a romanis destructa"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 329,
+        "value": "Bibl. Laurenziana, Plut.32 sin.7"
+      }
+    ],
+    "position_in_ms": "308r-310v",
+    "main_ms": true,
+    "facsimile_position": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/660953/rec/15",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20002,26 +20030,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-10",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 329,
+          "database_table_3497": 37
+        },
+        "value": "Bibl. Laurenziana, Plut.32 sin.7, f. 308r-310v"
+      }
+    ],
+    "view_label": "deinde a romanis destructa",
     "prev": {
       "id": "jad_occurence__646",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "deinde a romanis destructa"
     },
     "next": {
       "id": "jad_occurence__648",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     }
   },
   "648": {
     "id": 648,
     "jad_id": "jad_occurence__648",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 27,
+        "value": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 330,
+        "value": "BSB, Clm 6217"
+      }
+    ],
+    "position_in_ms": "81v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00115027?page=168,169",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20031,24 +20077,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-10",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 330,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 6217, f. 81v"
+      }
+    ],
+    "view_label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum",
     "prev": {
       "id": "jad_occurence__647",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "deinde a romanis destructa"
     },
     "next": {
       "id": "jad_occurence__649",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     }
   },
   "649": {
     "id": 649,
     "jad_id": "jad_occurence__649",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 27,
+        "value": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 331,
+        "value": "BSB, Clm 14030"
+      }
+    ],
+    "position_in_ms": "97v",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -20060,12 +20124,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-10",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 331,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 14030, f. 97v"
+      }
+    ],
+    "view_label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum",
     "prev": {
       "id": "jad_occurence__648",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     },
     "next": {
       "id": "jad_occurence__65",
@@ -20075,9 +20147,19 @@
   "650": {
     "id": 650,
     "jad_id": "jad_occurence__650",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 27,
+        "value": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 332,
+        "value": "Angers, MS 243"
+      }
+    ],
+    "position_in_ms": "112v",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -20089,26 +20171,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-10",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 332,
+          "database_table_3497": 52
+        },
+        "value": "Angers, MS 243, f. 112v"
+      }
+    ],
+    "view_label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum",
     "prev": {
       "id": "jad_occurence__65",
       "label": "de destructione a babiloniis facta, sed de facta a romanis"
     },
     "next": {
       "id": "jad_occurence__651",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     }
   },
   "651": {
     "id": 651,
     "jad_id": "jad_occurence__651",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 27,
+        "value": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 364,
+        "value": "BNF, Latin 619"
+      }
+    ],
+    "position_in_ms": "187v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10539527x/f382.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20118,26 +20218,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-10",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 364,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 619, f. 187v"
+      }
+    ],
+    "view_label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum",
     "prev": {
       "id": "jad_occurence__650",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     },
     "next": {
       "id": "jad_occurence__652",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     }
   },
   "652": {
     "id": 652,
     "jad_id": "jad_occurence__652",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 27,
+        "value": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 365,
+        "value": "Vat., Vat.lat.8568"
+      }
+    ],
+    "position_in_ms": "96r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.8568/0197",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20147,12 +20265,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-10",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 365,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.8568, f. 96r"
+      }
+    ],
+    "view_label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum",
     "prev": {
       "id": "jad_occurence__651",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     },
     "next": {
       "id": "jad_occurence__653",
@@ -20176,12 +20302,12 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
+    "last_modified_on": "2026-04-10",
     "ms_locus": [],
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__652",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     },
     "next": {
       "id": "jad_occurence__654",

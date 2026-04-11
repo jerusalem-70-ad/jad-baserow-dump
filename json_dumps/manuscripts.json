@@ -7886,50 +7886,254 @@
   "328": {
     "id": 328,
     "order": "212.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Vat.lat.1229"
+      }
+    ],
     "jad_id": "jad_manuscript__328",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Vat.lat.1229",
+    "catalog_url": "https://digi.vatlib.it/mss/detail/Vat.lat.1229",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Vat.lat.1229",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 76,
+        "value": "15th cen.",
+        "order": "75.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
   },
   "329": {
     "id": 329,
     "order": "213.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 37,
+        "value": "Bibl. Laurenziana, Plut.32 sin.7"
+      }
+    ],
     "jad_id": "jad_manuscript__329",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 37,
+        "value": "Bibl. Laurenziana",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Plut.32 sin.7",
+    "catalog_url": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/660953/rec/15",
+    "digi_url": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/660953/rec/15",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 17,
+        "value": "around 1300",
+        "order": "17.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 37,
+        "value": "Biblioteca Medicea Laurenziana"
+      }
+    ]
   },
   "330": {
     "id": 330,
     "order": "214.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 6217"
+      }
+    ],
     "jad_id": "jad_manuscript__330",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "idno": "Clm 6217",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037690219707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%206217&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00115027?page=168,169",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 129,
+        "value": "10th cen., second half",
+        "order": "97.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ]
   },
   "331": {
     "id": 331,
     "order": "215.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 14030"
+      }
+    ],
     "jad_id": "jad_manuscript__331",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "idno": "Clm 14030",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991007731729707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%2014030&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00034102?page=196,197",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 65,
+        "value": "11th cen., second half",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ]
+  },
+  "332": {
+    "id": 332,
+    "order": "216.00000000000000000000",
+    "name": [
+      {
+        "id": 52,
+        "value": "Angers, MS 243"
+      }
+    ],
+    "jad_id": "jad_manuscript__332",
+    "library": [
+      {
+        "id": 52,
+        "value": "Angers",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "idno": "MS 243",
+    "catalog_url": "https://arca.irht.cnrs.fr/ark:/63955/md504x51hn43",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 2,
+        "value": "12th cen.",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 52,
+        "value": ""
+      }
+    ]
+  },
+  "364": {
+    "id": 364,
+    "order": "217.00000000000000000000",
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 619"
+      }
+    ],
+    "jad_id": "jad_manuscript__364",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "Latin 619",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc62074f",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10539527x/f382.item.zoom",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 129,
+        "value": "10th cen., second half",
+        "order": "97.00000000000000000000"
+      }
+    ],
+    "format": "",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
+  },
+  "365": {
+    "id": 365,
+    "order": "218.00000000000000000000",
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Vat.lat.8568"
+      }
+    ],
+    "jad_id": "jad_manuscript__365",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Vat.lat.8568",
+    "catalog_url": "https://opac.vatlib.it/mss/detail/Vat.lat.8568",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Vat.lat.8568",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
+  },
+  "366": {
+    "id": 366,
+    "order": "219.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__366",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -7939,11 +8143,95 @@
     "format": "",
     "library_full": []
   },
-  "332": {
-    "id": 332,
-    "order": "216.00000000000000000000",
+  "367": {
+    "id": 367,
+    "order": "220.00000000000000000000",
     "name": [],
-    "jad_id": "jad_manuscript__332",
+    "jad_id": "jad_manuscript__367",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "368": {
+    "id": 368,
+    "order": "221.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__368",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "369": {
+    "id": 369,
+    "order": "222.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__369",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "370": {
+    "id": 370,
+    "order": "223.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__370",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "371": {
+    "id": 371,
+    "order": "224.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__371",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "372": {
+    "id": 372,
+    "order": "225.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__372",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "373": {
+    "id": 373,
+    "order": "226.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__373",
     "library": [],
     "idno": "",
     "catalog_url": "",
