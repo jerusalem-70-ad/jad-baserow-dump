@@ -29466,20 +29466,48 @@
   "761": {
     "id": 761,
     "order": "640.00000000000000000000",
-    "name": " ",
+    "name": "Commenary Isaiah ",
     "jad_id": "jad_work__761",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 15,
+        "value": "Bruno of Segni",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19",
+        "order": "219.00000000000000000000"
+      }
+    ],
+    "title": "Commenary Isaiah",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 10,
+        "value": "around 1100",
+        "order": "10.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -29487,20 +29515,48 @@
   "762": {
     "id": 762,
     "order": "641.00000000000000000000",
-    "name": " ",
+    "name": "Sermones ",
     "jad_id": "jad_work__762",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 475,
+        "value": "Henry of Cologne",
+        "order": "292.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 367,
+        "value": "Arras, MS 759",
+        "order": "220.00000000000000000000"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -29594,6 +29650,48 @@
     "order": "646.00000000000000000000",
     "name": " ",
     "jad_id": "jad_work__767",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "799": {
+    "id": 799,
+    "order": "647.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__799",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "800": {
+    "id": 800,
+    "order": "648.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__800",
     "author": [],
     "manuscripts": [],
     "title": "",

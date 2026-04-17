@@ -320,8 +320,8 @@
     ],
     "view_label": "romanis obsidentibus civitatem",
     "prev": {
-      "id": "jad_occurence__69",
-      "label": "De destructione templi"
+      "id": "jad_occurence__690",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__70",
@@ -3094,11 +3094,11 @@
     "view_label": "tyto et vespasiano ultione urbs capta est",
     "prev": {
       "id": "jad_occurence__659",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "hec autem sub vespasiano et adriano romanorum principibus Iudeis acciderunt"
     },
     "next": {
       "id": "jad_occurence__660",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "omnia enim hec sub Tito et Vespasiano completa sunt"
     }
   },
   "67": {
@@ -3123,11 +3123,11 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__662",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "venient romani et tollent vobis locum et gentem"
     },
     "next": {
-      "id": "jad_occurence__68",
-      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
+      "id": "jad_occurence__678",
+      "label": "sanguis eius super nos et super filios vestros"
     }
   },
   "68": {
@@ -3169,12 +3169,12 @@
     ],
     "view_label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII",
     "prev": {
-      "id": "jad_occurence__67",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "id": "jad_occurence__679",
+      "label": "per quod intellegimus romanorum exercitum"
     },
     "next": {
-      "id": "jad_occurence__69",
-      "label": "De destructione templi"
+      "id": "jad_occurence__680",
+      "label": "venient romani et tollent vobis et locum et gentem"
     }
   },
   "69": {
@@ -3216,12 +3216,12 @@
     ],
     "view_label": "De destructione templi",
     "prev": {
-      "id": "jad_occurence__68",
-      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
+      "id": "jad_occurence__689",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__7",
-      "label": "romanis obsidentibus civitatem"
+      "id": "jad_occurence__690",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "70": {
@@ -20282,17 +20282,27 @@
     },
     "next": {
       "id": "jad_occurence__653",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Titi et Vespasiani in tantum Iudei sunt contriti"
     }
   },
   "653": {
     "id": 653,
     "jad_id": "jad_occurence__653",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2511,
+        "value": "Titi et Vespasiani in tantum Iudei sunt contriti"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "118r-v",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0237",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20302,26 +20312,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-10",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 118r-v"
+      }
+    ],
+    "view_label": "Titi et Vespasiani in tantum Iudei sunt contriti",
     "prev": {
       "id": "jad_occurence__652",
       "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     },
     "next": {
       "id": "jad_occurence__654",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "in sua perfidia Iudei perdurantes a romano exercitu deleti sunt"
     }
   },
   "654": {
     "id": 654,
     "jad_id": "jad_occurence__654",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2512,
+        "value": "in sua perfidia Iudei perdurantes a romano exercitu deleti sunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "119r",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0239",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20331,26 +20359,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 119r"
+      }
+    ],
+    "view_label": "in sua perfidia Iudei perdurantes a romano exercitu deleti sunt",
     "prev": {
       "id": "jad_occurence__653",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Titi et Vespasiani in tantum Iudei sunt contriti"
     },
     "next": {
       "id": "jad_occurence__655",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "unde et babylonis traditi sunt in captivitatem, quod quidem et post passionem intellegi potest"
     }
   },
   "655": {
     "id": 655,
     "jad_id": "jad_occurence__655",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2513,
+        "value": "unde et babylonis traditi sunt in captivitatem, quod quidem et post passionem intellegi potest"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "120r",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0241",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20360,26 +20406,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 120r"
+      }
+    ],
+    "view_label": "unde et babylonis traditi sunt in captivitatem, quod quidem et post passionem intellegi potest",
     "prev": {
       "id": "jad_occurence__654",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "in sua perfidia Iudei perdurantes a romano exercitu deleti sunt"
     },
     "next": {
       "id": "jad_occurence__656",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "super destructionem Ierusalem que vel a babiloniis vel a romanis facta facta est"
     }
   },
   "656": {
     "id": 656,
     "jad_id": "jad_occurence__656",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2514,
+        "value": "super destructionem Ierusalem que vel a babiloniis vel a romanis facta facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "120v",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0242",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20389,26 +20453,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 120v"
+      }
+    ],
+    "view_label": "super destructionem Ierusalem que vel a babiloniis vel a romanis facta facta est",
     "prev": {
       "id": "jad_occurence__655",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "unde et babylonis traditi sunt in captivitatem, quod quidem et post passionem intellegi potest"
     },
     "next": {
       "id": "jad_occurence__657",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "vel ad romanorum captivitatem referri potest"
     }
   },
   "657": {
     "id": 657,
     "jad_id": "jad_occurence__657",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2515,
+        "value": "vel ad romanorum captivitatem referri potest"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "122r",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0245",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20418,26 +20500,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 122r"
+      }
+    ],
+    "view_label": "vel ad romanorum captivitatem referri potest",
     "prev": {
       "id": "jad_occurence__656",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "super destructionem Ierusalem que vel a babiloniis vel a romanis facta facta est"
     },
     "next": {
       "id": "jad_occurence__658",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "neque et babiloniis neque a romanis essent in captivitatem deducti"
     }
   },
   "658": {
     "id": 658,
     "jad_id": "jad_occurence__658",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2516,
+        "value": "neque et babiloniis neque a romanis essent in captivitatem deducti"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "123v",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0248",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20447,26 +20547,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 123v"
+      }
+    ],
+    "view_label": "neque et babiloniis neque a romanis essent in captivitatem deducti",
     "prev": {
       "id": "jad_occurence__657",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "vel ad romanorum captivitatem referri potest"
     },
     "next": {
       "id": "jad_occurence__659",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "hec autem sub vespasiano et adriano romanorum principibus Iudeis acciderunt"
     }
   },
   "659": {
     "id": 659,
     "jad_id": "jad_occurence__659",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2517,
+        "value": "hec autem sub vespasiano et adriano romanorum principibus Iudeis acciderunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "124r",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0249",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20476,12 +20594,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 124r"
+      }
+    ],
+    "view_label": "hec autem sub vespasiano et adriano romanorum principibus Iudeis acciderunt",
     "prev": {
       "id": "jad_occurence__658",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "neque et babiloniis neque a romanis essent in captivitatem deducti"
     },
     "next": {
       "id": "jad_occurence__66",
@@ -20491,11 +20617,21 @@
   "660": {
     "id": 660,
     "jad_id": "jad_occurence__660",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2548,
+        "value": "omnia enim hec sub Tito et Vespasiano completa sunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "125r",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0251",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20505,26 +20641,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 125r"
+      }
+    ],
+    "view_label": "omnia enim hec sub Tito et Vespasiano completa sunt",
     "prev": {
       "id": "jad_occurence__66",
       "label": "tyto et vespasiano ultione urbs capta est"
     },
     "next": {
       "id": "jad_occurence__661",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "percussi eos dicit dominus et eterne captivitati et romanis traditi"
     }
   },
   "661": {
     "id": 661,
     "jad_id": "jad_occurence__661",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2549,
+        "value": "percussi eos dicit dominus et eterne captivitati et romanis traditi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "174v",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0350",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20534,26 +20688,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 174v"
+      }
+    ],
+    "view_label": "percussi eos dicit dominus et eterne captivitati et romanis traditi",
     "prev": {
       "id": "jad_occurence__660",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "omnia enim hec sub Tito et Vespasiano completa sunt"
     },
     "next": {
       "id": "jad_occurence__662",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "venient romani et tollent vobis locum et gentem"
     }
   },
   "662": {
     "id": 662,
     "jad_id": "jad_occurence__662",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2550,
+        "value": "venient romani et tollent vobis locum et gentem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "178r",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0357",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20563,16 +20735,473 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-03-31",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 178r"
+      }
+    ],
+    "view_label": "venient romani et tollent vobis locum et gentem",
     "prev": {
       "id": "jad_occurence__661",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "percussi eos dicit dominus et eterne captivitati et romanis traditi"
     },
     "next": {
       "id": "jad_occurence__67",
       "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "678": {
+    "id": 678,
+    "jad_id": "jad_occurence__678",
+    "occurrence": [
+      {
+        "id": 2551,
+        "value": "sanguis eius super nos et super filios vestros"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "181r",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0363",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 181r"
+      }
+    ],
+    "view_label": "sanguis eius super nos et super filios vestros",
+    "prev": {
+      "id": "jad_occurence__67",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__679",
+      "label": "per quod intellegimus romanorum exercitum"
+    }
+  },
+  "679": {
+    "id": 679,
+    "jad_id": "jad_occurence__679",
+    "occurrence": [
+      {
+        "id": 2552,
+        "value": "per quod intellegimus romanorum exercitum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "182r",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0365",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 182r"
+      }
+    ],
+    "view_label": "per quod intellegimus romanorum exercitum",
+    "prev": {
+      "id": "jad_occurence__678",
+      "label": "sanguis eius super nos et super filios vestros"
+    },
+    "next": {
+      "id": "jad_occurence__68",
+      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
+    }
+  },
+  "680": {
+    "id": 680,
+    "jad_id": "jad_occurence__680",
+    "occurrence": [
+      {
+        "id": 2553,
+        "value": "venient romani et tollent vobis et locum et gentem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 366,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
+    "position_in_ms": "189v",
+    "main_ms": true,
+    "facsimile_position": "https://manuscripta.at/diglit/AT7400-MIII19/0380",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 366,
+          "database_table_3497": 53
+        },
+        "value": "Salzburg, UB, M III 19, f. 189v"
+      }
+    ],
+    "view_label": "venient romani et tollent vobis et locum et gentem",
+    "prev": {
+      "id": "jad_occurence__68",
+      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
+    },
+    "next": {
+      "id": "jad_occurence__681",
+      "label": "ruinam venturam Ierusalem propter iniquitates"
+    }
+  },
+  "681": {
+    "id": 681,
+    "jad_id": "jad_occurence__681",
+    "occurrence": [
+      {
+        "id": 2554,
+        "value": "ruinam venturam Ierusalem propter iniquitates"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 367,
+        "value": "Arras, MS 759"
+      }
+    ],
+    "position_in_ms": "171r",
+    "main_ms": true,
+    "facsimile_position": "https://arca.irht.cnrs.fr/ark:/63955/md07gq67jq95",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 367,
+          "database_table_3497": 54
+        },
+        "value": "Arras, MS 759, f. 171r"
+      }
+    ],
+    "view_label": "ruinam venturam Ierusalem propter iniquitates",
+    "prev": {
+      "id": "jad_occurence__680",
+      "label": "venient romani et tollent vobis et locum et gentem"
+    },
+    "next": {
+      "id": "jad_occurence__682",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "682": {
+    "id": 682,
+    "jad_id": "jad_occurence__682",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__681",
+      "label": "ruinam venturam Ierusalem propter iniquitates"
+    },
+    "next": {
+      "id": "jad_occurence__683",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "683": {
+    "id": 683,
+    "jad_id": "jad_occurence__683",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__682",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__684",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "684": {
+    "id": 684,
+    "jad_id": "jad_occurence__684",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__683",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__685",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "685": {
+    "id": 685,
+    "jad_id": "jad_occurence__685",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__684",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__686",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "686": {
+    "id": 686,
+    "jad_id": "jad_occurence__686",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__685",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__687",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "687": {
+    "id": 687,
+    "jad_id": "jad_occurence__687",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__686",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__688",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "688": {
+    "id": 688,
+    "jad_id": "jad_occurence__688",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__687",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__689",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "689": {
+    "id": 689,
+    "jad_id": "jad_occurence__689",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__688",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__69",
+      "label": "De destructione templi"
+    }
+  },
+  "690": {
+    "id": 690,
+    "jad_id": "jad_occurence__690",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-16",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-16",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__69",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__7",
+      "label": "romanis obsidentibus civitatem"
     }
   }
 }

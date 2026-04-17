@@ -12695,7 +12695,7 @@
         },
         "next": {
           "id": "jad_manuscript__366",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Salzburg, UB, M III 19"
         }
       }
     ]
@@ -14129,7 +14129,7 @@
     "value": "Angers",
     "jad_id": "jad_library__52",
     "gnd_url": "https://d-nb.info/gnd/5163138-6",
-    "full_name": "",
+    "full_name": "Angers, Bibliothèque Municipale",
     "place": [
       {
         "id": 272,
@@ -14165,7 +14165,7 @@
             "value": "Angers",
             "jad_id": "jad_library__52",
             "gnd_url": "https://d-nb.info/gnd/5163138-6",
-            "full_name": "",
+            "full_name": "Angers, Bibliothèque Municipale",
             "place": [
               {
                 "id": 272,
@@ -14192,7 +14192,7 @@
         "library_full": [
           {
             "id": 52,
-            "value": ""
+            "value": "Angers, Bibliothèque Municipale"
           }
         ],
         "view_label": "Angers, MS 243",
@@ -14209,11 +14209,20 @@
   },
   "53": {
     "id": 53,
-    "value": "",
+    "value": "Salzburg, UB",
     "jad_id": "jad_library__53",
-    "gnd_url": "",
-    "full_name": "",
-    "place": [],
+    "gnd_url": "https://d-nb.info/gnd/17886-X",
+    "full_name": "Salzburg, Universitätsbibliothek",
+    "place": [
+      {
+        "id": 274,
+        "name": "Salzburg",
+        "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
+        "jad_id": "jad_places__274",
+        "lat": "47.79941",
+        "long": "13.04399"
+      }
+    ],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
       "id": "jad_library__52",
@@ -14223,15 +14232,80 @@
       "id": "jad_library__54",
       "label": "NO MATCH FOR $.name"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 366,
+        "name": [
+          {
+            "id": 53,
+            "value": "Salzburg, UB, M III 19"
+          }
+        ],
+        "jad_id": "jad_manuscript__366",
+        "library": [
+          {
+            "id": 53,
+            "value": "Salzburg, UB",
+            "jad_id": "jad_library__53",
+            "gnd_url": "https://d-nb.info/gnd/17886-X",
+            "full_name": "Salzburg, Universitätsbibliothek",
+            "place": [
+              {
+                "id": 274,
+                "name": "Salzburg",
+                "geonames_url": "https://www.geonames.org/2766824/salzburg.html",
+                "jad_id": "jad_places__274",
+                "lat": "47.79941",
+                "long": "13.04399"
+              }
+            ]
+          }
+        ],
+        "idno": "M III 19",
+        "catalog_url": "https://manuscripta.at/hs_detail.php?ID=8454",
+        "digi_url": "https://manuscripta.at/diglit/AT7400-MIII19/0001",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 79,
+            "value": "14th cen., first half"
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 53,
+            "value": "Salzburg, Universitätsbibliothek"
+          }
+        ],
+        "view_label": "Salzburg, UB, M III 19",
+        "prev": {
+          "id": "jad_manuscript__365",
+          "label": "Vat., Vat.lat.8568"
+        },
+        "next": {
+          "id": "jad_manuscript__367",
+          "label": "Arras, MS 759"
+        }
+      }
+    ]
   },
   "54": {
     "id": 54,
-    "value": "",
+    "value": "Arras",
     "jad_id": "jad_library__54",
-    "gnd_url": "",
-    "full_name": "",
-    "place": [],
+    "gnd_url": "https://d-nb.info/gnd/4283504-5",
+    "full_name": "Arras, Bibliothèque municipale",
+    "place": [
+      {
+        "id": 275,
+        "name": "Arras",
+        "geonames_url": "https://www.geonames.org/3036784/arras.html",
+        "jad_id": "jad_places__275",
+        "lat": "50.29301",
+        "long": "2.78186"
+      }
+    ],
     "view_label": "NO MATCH FOR $.name",
     "prev": {
       "id": "jad_library__53",
@@ -14241,7 +14315,63 @@
       "id": "jad_library__55",
       "label": "NO MATCH FOR $.name"
     },
-    "related__manuscripts": []
+    "related__manuscripts": [
+      {
+        "id": 367,
+        "name": [
+          {
+            "id": 54,
+            "value": "Arras, MS 759"
+          }
+        ],
+        "jad_id": "jad_manuscript__367",
+        "library": [
+          {
+            "id": 54,
+            "value": "Arras",
+            "jad_id": "jad_library__54",
+            "gnd_url": "https://d-nb.info/gnd/4283504-5",
+            "full_name": "Arras, Bibliothèque municipale",
+            "place": [
+              {
+                "id": 275,
+                "name": "Arras",
+                "geonames_url": "https://www.geonames.org/3036784/arras.html",
+                "jad_id": "jad_places__275",
+                "lat": "50.29301",
+                "long": "2.78186"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 759",
+        "catalog_url": "https://arca.irht.cnrs.fr/ark:/63955/md07gq67jq95",
+        "digi_url": "https://arca.irht.cnrs.fr/ark:/63955/md07gq67jq95",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 43,
+            "value": "14th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 54,
+            "value": "Arras, Bibliothèque municipale"
+          }
+        ],
+        "view_label": "Arras, MS 759",
+        "prev": {
+          "id": "jad_manuscript__366",
+          "label": "Salzburg, UB, M III 19"
+        },
+        "next": {
+          "id": "jad_manuscript__368",
+          "label": "NO MATCH FOR $..name[0].value"
+        }
+      }
+    ]
   },
   "55": {
     "id": 55,

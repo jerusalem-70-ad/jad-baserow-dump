@@ -8059,7 +8059,7 @@
     "library_full": [
       {
         "id": 52,
-        "value": ""
+        "value": "Angers, Bibliothèque Municipale"
       }
     ]
   },
@@ -8132,30 +8132,74 @@
   "366": {
     "id": 366,
     "order": "219.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 53,
+        "value": "Salzburg, UB, M III 19"
+      }
+    ],
     "jad_id": "jad_manuscript__366",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 53,
+        "value": "Salzburg, UB",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "idno": "M III 19",
+    "catalog_url": "https://manuscripta.at/hs_detail.php?ID=8454",
+    "digi_url": "https://manuscripta.at/diglit/AT7400-MIII19/0001",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 79,
+        "value": "14th cen., first half",
+        "order": "78.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 53,
+        "value": "Salzburg, Universitätsbibliothek"
+      }
+    ]
   },
   "367": {
     "id": 367,
     "order": "220.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 54,
+        "value": "Arras, MS 759"
+      }
+    ],
     "jad_id": "jad_manuscript__367",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 54,
+        "value": "Arras",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "idno": "MS 759",
+    "catalog_url": "https://arca.irht.cnrs.fr/ark:/63955/md07gq67jq95",
+    "digi_url": "https://arca.irht.cnrs.fr/ark:/63955/md07gq67jq95",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 43,
+        "value": "14th cen.",
+        "order": "43.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 54,
+        "value": "Arras, Bibliothèque municipale"
+      }
+    ]
   },
   "368": {
     "id": 368,

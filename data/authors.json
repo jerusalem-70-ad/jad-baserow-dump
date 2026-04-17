@@ -5730,7 +5730,7 @@
         },
         "next": {
           "id": "jad_work__761",
-          "label": " "
+          "label": "Commenary Isaiah "
         }
       }
     ]
@@ -9267,8 +9267,8 @@
         "other_editions": null,
         "view_label": "Sermones ",
         "prev": {
-          "id": "jad_work__79",
-          "label": "De scriptoribus ecclesiasticis "
+          "id": "jad_work__799",
+          "label": " "
         },
         "next": {
           "id": "jad_work__80",
@@ -11200,6 +11200,76 @@
         "next": {
           "id": "jad_work__86",
           "label": "Commentary Revelation "
+        }
+      },
+      {
+        "id": 761,
+        "name": "Commenary Isaiah ",
+        "jad_id": "jad_work__761",
+        "author": [
+          {
+            "id": 15,
+            "name": "Bruno of Segni",
+            "jad_id": "jad_author__15",
+            "gnd_url": "https://d-nb.info/gnd/100938310",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Bruno, de Segni, Heiliger | Bruno, of Segni, Heiliger | Bruno, Signinus, Heiliger | Bruno, Signiensis, Heiliger | Bruno, Sanctus | Bruno, de Monte Cassino, Heiliger | Brunon, Saint | Brun, von Asti, Heiliger | Bruno, of Asti, Heiliger | Asti, Bruno von, Heiliger | Brunone, di Segni, Heiliger | Bruno, Astiensi, Heiliger | Bruno, de Asti, Heiliger | Pseudo-Bruno, Astensis | Bruno, Signiensis | Bruno, von Segni, Heiliger | Bruno, Astensis, Heiliger | Asti, Bruno de, Heiliger",
+            "date_of_birth": "1048",
+            "date_of_death": "1123",
+            "place": [
+              {
+                "id": 19,
+                "value": "Rome"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 366,
+            "value": "Salzburg, UB, M III 19"
+          }
+        ],
+        "title": "Commenary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 10,
+            "value": "around 1100"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commenary Isaiah ",
+        "prev": {
+          "id": "jad_work__760",
+          "label": "Pharetra fidei contra iudaeos "
+        },
+        "next": {
+          "id": "jad_work__762",
+          "label": "Sermones "
         }
       }
     ]
@@ -19429,8 +19499,8 @@
           "label": "Commentary Psalms "
         },
         "next": {
-          "id": "jad_work__8",
-          "label": "Sermones "
+          "id": "jad_work__799",
+          "label": " "
         }
       },
       {
@@ -19494,8 +19564,8 @@
           "label": "Sermones "
         },
         "next": {
-          "id": "jad_work__81",
-          "label": "De imagine mundi "
+          "id": "jad_work__800",
+          "label": " "
         }
       },
       {
@@ -19555,8 +19625,8 @@
         "other_editions": null,
         "view_label": "De imagine mundi ",
         "prev": {
-          "id": "jad_work__80",
-          "label": "Gemma animae "
+          "id": "jad_work__800",
+          "label": " "
         },
         "next": {
           "id": "jad_work__82",
@@ -20814,7 +20884,7 @@
     },
     "next": {
       "id": "jad_author__475",
-      "label": ""
+      "label": "Henry of Cologne"
     },
     "related__works": [
       {
@@ -53364,18 +53434,18 @@
   },
   "475": {
     "id": 475,
-    "name": "",
+    "name": "Henry of Cologne",
     "jad_id": "jad_author__475",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102475768",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
+    "alt_name": "Henricus, Jacobita | Henricus I., de Colonia | Heinrich, von Köln | Teuto, Henricus, Senior | Henricus, de Marsberk | Henricus, de Marsberg | Henricus, Iacobita | Henricus, de Colonia | Henri, de Marbourg | Heinrich, von Marsberg | Henricus, de Marburg | Henricus, de Martismonte | Heinrich, Teuto | Henricus, Teutonicus, Senior | Henricus, Coloniensis",
+    "date_of_birth": "1190",
+    "date_of_death": "1254",
     "place": [],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "",
+    "view_label": "Henry of Cologne",
     "prev": {
       "id": "jad_author__47",
       "label": "Ado of Vienne"
@@ -53384,7 +53454,73 @@
       "id": "jad_author__476",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 762,
+        "name": "Sermones ",
+        "jad_id": "jad_work__762",
+        "author": [
+          {
+            "id": 475,
+            "name": "Henry of Cologne",
+            "jad_id": "jad_author__475",
+            "gnd_url": "https://d-nb.info/gnd/102475768",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Henricus, Jacobita | Henricus I., de Colonia | Heinrich, von Köln | Teuto, Henricus, Senior | Henricus, de Marsberk | Henricus, de Marsberg | Henricus, Iacobita | Henricus, de Colonia | Henri, de Marbourg | Heinrich, von Marsberg | Henricus, de Marburg | Henricus, de Martismonte | Heinrich, Teuto | Henricus, Teutonicus, Senior | Henricus, Coloniensis",
+            "date_of_birth": "1190",
+            "date_of_death": "1254",
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 367,
+            "value": "Arras, MS 759"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__761",
+          "label": "Commenary Isaiah "
+        },
+        "next": {
+          "id": "jad_work__763",
+          "label": " "
+        }
+      }
+    ]
   },
   "476": {
     "id": 476,
@@ -53402,7 +53538,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__475",
-      "label": ""
+      "label": "Henry of Cologne"
     },
     "next": {
       "id": "jad_author__477",
