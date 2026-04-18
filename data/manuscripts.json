@@ -12886,22 +12886,55 @@
     },
     "next": {
       "id": "jad_manuscript__368",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, Latin 1979"
     }
   },
   "368": {
     "id": 368,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 1979"
+      }
+    ],
     "jad_id": "jad_manuscript__368",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "Latin 1979",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc1042698",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b85287638/f257.item.zoom",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 19,
+        "value": "around 900"
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Latin 1979",
     "prev": {
       "id": "jad_manuscript__367",
       "label": "Arras, MS 759"
@@ -12926,7 +12959,7 @@
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
       "id": "jad_manuscript__368",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, Latin 1979"
     },
     "next": {
       "id": "jad_manuscript__37",

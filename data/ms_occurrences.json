@@ -320,7 +320,7 @@
     ],
     "view_label": "romanis obsidentibus civitatem",
     "prev": {
-      "id": "jad_occurence__690",
+      "id": "jad_occurence__697",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
@@ -20940,17 +20940,27 @@
     },
     "next": {
       "id": "jad_occurence__682",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ita cum populo romano civitatem et sanctuarium dissipavit"
     }
   },
   "682": {
     "id": 682,
     "jad_id": "jad_occurence__682",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2555,
+        "value": "ita cum populo romano civitatem et sanctuarium dissipavit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 56,
+        "value": "Karlsruhe, Aug. perg. 208"
+      }
+    ],
+    "position_in_ms": "35r",
+    "main_ms": true,
+    "facsimile_position": "https://digital.blb-karlsruhe.de/blbhs/content/pageview/3303313",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20960,26 +20970,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-17",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 56,
+          "database_table_3497": 27
+        },
+        "value": "Karlsruhe, Aug. perg. 208, f. 35r"
+      }
+    ],
+    "view_label": "ita cum populo romano civitatem et sanctuarium dissipavit",
     "prev": {
       "id": "jad_occurence__681",
       "label": "ruinam venturam Ierusalem propter iniquitates"
     },
     "next": {
       "id": "jad_occurence__683",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "sanguis eius super nos et super filios nostros"
     }
   },
   "683": {
     "id": 683,
     "jad_id": "jad_occurence__683",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2556,
+        "value": "sanguis eius super nos et super filios nostros"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 56,
+        "value": "Karlsruhe, Aug. perg. 208"
+      }
+    ],
+    "position_in_ms": "37r-v",
+    "main_ms": true,
+    "facsimile_position": "https://digital.blb-karlsruhe.de/blbhs/content/pageview/3303318",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20989,26 +21017,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-17",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 56,
+          "database_table_3497": 27
+        },
+        "value": "Karlsruhe, Aug. perg. 208, f. 37r-v"
+      }
+    ],
+    "view_label": "sanguis eius super nos et super filios nostros",
     "prev": {
       "id": "jad_occurence__682",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ita cum populo romano civitatem et sanctuarium dissipavit"
     },
     "next": {
       "id": "jad_occurence__684",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "de Iudaici populi et civitatis vastatione super illa hereditate intellegere debemus"
     }
   },
   "684": {
     "id": 684,
     "jad_id": "jad_occurence__684",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2557,
+        "value": "de Iudaici populi et civitatis vastatione super illa hereditate intellegere debemus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 368,
+        "value": "BNF, Latin 1979"
+      }
+    ],
+    "position_in_ms": "125r",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b85287638/f257.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21018,26 +21064,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-17",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 368,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 1979, f. 125r"
+      }
+    ],
+    "view_label": "de Iudaici populi et civitatis vastatione super illa hereditate intellegere debemus",
     "prev": {
       "id": "jad_occurence__683",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "sanguis eius super nos et super filios nostros"
     },
     "next": {
       "id": "jad_occurence__685",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "eversa est gens Iudaea"
     }
   },
   "685": {
     "id": 685,
     "jad_id": "jad_occurence__685",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2558,
+        "value": "eversa est gens Iudaea"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 368,
+        "value": "BNF, Latin 1979"
+      }
+    ],
+    "position_in_ms": "127v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b85287638/f262.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21047,26 +21111,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-17",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 368,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 1979, f. 127v"
+      }
+    ],
+    "view_label": "eversa est gens Iudaea",
     "prev": {
       "id": "jad_occurence__684",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "de Iudaici populi et civitatis vastatione super illa hereditate intellegere debemus"
     },
     "next": {
       "id": "jad_occurence__686",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "crimen sanguinis Christi responderunt, sanguis eius super nos et super filios nostros"
     }
   },
   "686": {
     "id": 686,
     "jad_id": "jad_occurence__686",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2559,
+        "value": "crimen sanguinis Christi responderunt, sanguis eius super nos et super filios nostros"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 368,
+        "value": "BNF, Latin 1979"
+      }
+    ],
+    "position_in_ms": "85r",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b85287638/f177.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21076,12 +21158,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-17",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 368,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 1979, f. 85r"
+      }
+    ],
+    "view_label": "crimen sanguinis Christi responderunt, sanguis eius super nos et super filios nostros",
     "prev": {
       "id": "jad_occurence__685",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "eversa est gens Iudaea"
     },
     "next": {
       "id": "jad_occurence__687",
@@ -21110,7 +21200,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__686",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "crimen sanguinis Christi responderunt, sanguis eius super nos et super filios nostros"
     },
     "next": {
       "id": "jad_occurence__688",
@@ -21198,6 +21288,209 @@
     "prev": {
       "id": "jad_occurence__69",
       "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__691",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "691": {
+    "id": 691,
+    "jad_id": "jad_occurence__691",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__690",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__692",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "692": {
+    "id": 692,
+    "jad_id": "jad_occurence__692",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__691",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__693",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "693": {
+    "id": 693,
+    "jad_id": "jad_occurence__693",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__692",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__694",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "694": {
+    "id": 694,
+    "jad_id": "jad_occurence__694",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__693",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__695",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "695": {
+    "id": 695,
+    "jad_id": "jad_occurence__695",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__694",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__696",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "696": {
+    "id": 696,
+    "jad_id": "jad_occurence__696",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__695",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__697",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "697": {
+    "id": 697,
+    "jad_id": "jad_occurence__697",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-17",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-17",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__696",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__7",
