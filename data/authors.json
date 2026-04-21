@@ -40147,6 +40147,76 @@
           "id": "jad_work__758",
           "label": "Sermones "
         }
+      },
+      {
+        "id": 764,
+        "name": "Commentary Matthew ",
+        "jad_id": "jad_work__764",
+        "author": [
+          {
+            "id": 183,
+            "name": "Johannes de Rupella (de la Rochelle)",
+            "jad_id": "jad_author__183",
+            "gnd_url": "https://d-nb.info/gnd/100949274",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Johannes, de la Rochelle | John, de Rupella | Johannes, von LaRochelle | Rochelle, Giovanni della | Jean, de LaRochelle | Jean, de la Rochelle | John, de la Rochelle | Johannes, von la Rochelle | Rupella, Johannes de | Johannes, von La Rochelle | Jean, de la Rochelle, OFM | Rochelle, John de la | La Rochelle, John de | Johannes, de Rupella, OFM | LaRochelle, John de | Johannes, von Rupella | Johannes, Petragoricensis | La Rochelle, Jean de | LaRochelle, Jean de | Giovanni, della Rochelle",
+            "date_of_birth": "1200",
+            "date_of_death": "1245",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": false,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 371,
+            "value": "BNF, Latin 625"
+          }
+        ],
+        "title": "Commentary Matthew",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Matthew ",
+        "prev": {
+          "id": "jad_work__763",
+          "label": "Explanatio in duodecim Prophetas minores "
+        },
+        "next": {
+          "id": "jad_work__765",
+          "label": " "
+        }
       }
     ]
   },
@@ -53452,7 +53522,7 @@
     },
     "next": {
       "id": "jad_author__476",
-      "label": ""
+      "label": "Robert of Bridlington"
     },
     "related__works": [
       {
@@ -53517,25 +53587,25 @@
         },
         "next": {
           "id": "jad_work__763",
-          "label": " "
+          "label": "Explanatio in duodecim Prophetas minores "
         }
       }
     ]
   },
   "476": {
     "id": 476,
-    "name": "",
+    "name": "Robert of Bridlington",
     "jad_id": "jad_author__476",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100959709",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Robertus, Berlinctone | Robert, le Scribe | Roberto, Bridlingtonensis | Robertus, Scriba | Bredlintona, Robertus de | Robertus, Bridlingtonus | Robert, of Bridlington | Robertus, de Bridlington",
     "date_of_birth": "",
-    "date_of_death": "",
+    "date_of_death": "1180",
     "place": [],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "",
+    "view_label": "Robert of Bridlington",
     "prev": {
       "id": "jad_author__475",
       "label": "Henry of Cologne"
@@ -53544,7 +53614,73 @@
       "id": "jad_author__477",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 763,
+        "name": "Explanatio in duodecim Prophetas minores ",
+        "jad_id": "jad_work__763",
+        "author": [
+          {
+            "id": 476,
+            "name": "Robert of Bridlington",
+            "jad_id": "jad_author__476",
+            "gnd_url": "https://d-nb.info/gnd/100959709",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Robertus, Berlinctone | Robert, le Scribe | Roberto, Bridlingtonensis | Robertus, Scriba | Bredlintona, Robertus de | Robertus, Bridlingtonus | Robert, of Bridlington | Robertus, de Bridlington",
+            "date_of_birth": "",
+            "date_of_death": "1180",
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 370,
+            "value": "Troyes, MS 224"
+          }
+        ],
+        "title": "Explanatio in duodecim Prophetas minores",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Explanatio in duodecim Prophetas minores ",
+        "prev": {
+          "id": "jad_work__762",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__764",
+          "label": "Commentary Matthew "
+        }
+      }
+    ]
   },
   "477": {
     "id": 477,
@@ -53562,7 +53698,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__476",
-      "label": ""
+      "label": "Robert of Bridlington"
     },
     "next": {
       "id": "jad_author__478",

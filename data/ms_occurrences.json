@@ -320,8 +320,8 @@
     ],
     "view_label": "romanis obsidentibus civitatem",
     "prev": {
-      "id": "jad_occurence__697",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "id": "jad_occurence__699",
+      "label": "ad litteram missis romanis, sub tyto et vespasiano, vel angelis"
     },
     "next": {
       "id": "jad_occurence__70",
@@ -3217,11 +3217,11 @@
     "view_label": "De destructione templi",
     "prev": {
       "id": "jad_occurence__689",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "sanguis eius super nos et super filios nostros, huc usque servire romanis"
     },
     "next": {
       "id": "jad_occurence__690",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "qui propter offensam seminis dei romane captivitatis traditis"
     }
   },
   "70": {
@@ -3267,8 +3267,8 @@
       "label": "romanis obsidentibus civitatem"
     },
     "next": {
-      "id": "jad_occurence__71",
-      "label": "De destructione templi"
+      "id": "jad_occurence__700",
+      "label": "ad litteram templum vel civitas deserta, divino auxilio destituta, romanis tollentibus gentem et locum"
     }
   },
   "71": {
@@ -3310,12 +3310,12 @@
     ],
     "view_label": "De destructione templi",
     "prev": {
-      "id": "jad_occurence__70",
-      "label": "De destructione templi"
+      "id": "jad_occurence__709",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__72",
-      "label": "De destructione templi"
+      "id": "jad_occurence__710",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "72": {
@@ -3357,8 +3357,8 @@
     ],
     "view_label": "De destructione templi",
     "prev": {
-      "id": "jad_occurence__71",
-      "label": "De destructione templi"
+      "id": "jad_occurence__710",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__73",
@@ -21175,17 +21175,27 @@
     },
     "next": {
       "id": "jad_occurence__687",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "quinta sub Antiocho Epiphane, sexta sub Tito, et Vespasiano, septima sub Elio Hadriano"
     }
   },
   "687": {
     "id": 687,
     "jad_id": "jad_occurence__687",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1075,
+        "value": "quinta sub Antiocho Epiphane, sexta sub Tito, et Vespasiano, septima sub Elio Hadriano"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 369,
+        "value": "Vat., Vat.lat.997"
+      }
+    ],
+    "position_in_ms": "3r",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.997/0005",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21195,26 +21205,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 369,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.997, f. 3r"
+      }
+    ],
+    "view_label": "quinta sub Antiocho Epiphane, sexta sub Tito, et Vespasiano, septima sub Elio Hadriano",
     "prev": {
       "id": "jad_occurence__686",
       "label": "crimen sanguinis Christi responderunt, sanguis eius super nos et super filios nostros"
     },
     "next": {
       "id": "jad_occurence__688",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ultio sanguinis eius, refertur ad domini passionem, propter quam universum regnum Israel dicitur subvertendum"
     }
   },
   "688": {
     "id": 688,
     "jad_id": "jad_occurence__688",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2560,
+        "value": "ultio sanguinis eius, refertur ad domini passionem, propter quam universum regnum Israel dicitur subvertendum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "3r",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21224,26 +21252,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 3r"
+      }
+    ],
+    "view_label": "ultio sanguinis eius, refertur ad domini passionem, propter quam universum regnum Israel dicitur subvertendum",
     "prev": {
       "id": "jad_occurence__687",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "quinta sub Antiocho Epiphane, sexta sub Tito, et Vespasiano, septima sub Elio Hadriano"
     },
     "next": {
       "id": "jad_occurence__689",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "sanguis eius super nos et super filios nostros, huc usque servire romanis"
     }
   },
   "689": {
     "id": 689,
     "jad_id": "jad_occurence__689",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2561,
+        "value": "sanguis eius super nos et super filios nostros, huc usque servire romanis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "3v",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21253,12 +21299,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 3v"
+      }
+    ],
+    "view_label": "sanguis eius super nos et super filios nostros, huc usque servire romanis",
     "prev": {
       "id": "jad_occurence__688",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ultio sanguinis eius, refertur ad domini passionem, propter quam universum regnum Israel dicitur subvertendum"
     },
     "next": {
       "id": "jad_occurence__69",
@@ -21268,11 +21322,21 @@
   "690": {
     "id": 690,
     "jad_id": "jad_occurence__690",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2562,
+        "value": "qui propter offensam seminis dei romane captivitatis traditis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "4r",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21282,26 +21346,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-16",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 4r"
+      }
+    ],
+    "view_label": "qui propter offensam seminis dei romane captivitatis traditis",
     "prev": {
       "id": "jad_occurence__69",
       "label": "De destructione templi"
     },
     "next": {
       "id": "jad_occurence__691",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "sic destructa Ierusalem et templo per romanos"
     }
   },
   "691": {
     "id": 691,
     "jad_id": "jad_occurence__691",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2563,
+        "value": "sic destructa Ierusalem et templo per romanos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "7r",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21311,26 +21393,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-17",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 7r"
+      }
+    ],
+    "view_label": "sic destructa Ierusalem et templo per romanos",
     "prev": {
       "id": "jad_occurence__690",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "qui propter offensam seminis dei romane captivitatis traditis"
     },
     "next": {
       "id": "jad_occurence__692",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "sine sacrificio, et sine altari, quia subverso templo, et incensa Ierusalem"
     }
   },
   "692": {
     "id": 692,
     "jad_id": "jad_occurence__692",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2564,
+        "value": "sine sacrificio, et sine altari, quia subverso templo, et incensa Ierusalem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "9r",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21340,26 +21440,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-17",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 9r"
+      }
+    ],
+    "view_label": "sine sacrificio, et sine altari, quia subverso templo, et incensa Ierusalem",
     "prev": {
       "id": "jad_occurence__691",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "sic destructa Ierusalem et templo per romanos"
     },
     "next": {
       "id": "jad_occurence__693",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "sicut communi consilio mortem eius tractaverunt, ita pariter in festo paschali ab hostibus cesi sunt"
     }
   },
   "693": {
     "id": 693,
     "jad_id": "jad_occurence__693",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2565,
+        "value": "sicut communi consilio mortem eius tractaverunt, ita pariter in festo paschali ab hostibus cesi sunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "19r",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21369,26 +21487,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-17",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 19r"
+      }
+    ],
+    "view_label": "sicut communi consilio mortem eius tractaverunt, ita pariter in festo paschali ab hostibus cesi sunt",
     "prev": {
       "id": "jad_occurence__692",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "sine sacrificio, et sine altari, quia subverso templo, et incensa Ierusalem"
     },
     "next": {
       "id": "jad_occurence__694",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "qui quoniam mortem Christi inclamaverunt, ideo deus percussit eos"
     }
   },
   "694": {
     "id": 694,
     "jad_id": "jad_occurence__694",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2566,
+        "value": "qui quoniam mortem Christi inclamaverunt, ideo deus percussit eos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "24v",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21398,12 +21534,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-17",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 24v"
+      }
+    ],
+    "view_label": "qui quoniam mortem Christi inclamaverunt, ideo deus percussit eos",
     "prev": {
       "id": "jad_occurence__693",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "sicut communi consilio mortem eius tractaverunt, ita pariter in festo paschali ab hostibus cesi sunt"
     },
     "next": {
       "id": "jad_occurence__695",
@@ -21414,10 +21558,15 @@
     "id": 695,
     "jad_id": "jad_occurence__695",
     "occurrence": [],
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
     "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21427,12 +21576,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-17",
-    "ms_locus": [],
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. "
+      }
+    ],
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__694",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "qui quoniam mortem Christi inclamaverunt, ideo deus percussit eos"
     },
     "next": {
       "id": "jad_occurence__696",
@@ -21443,10 +21600,15 @@
     "id": 696,
     "jad_id": "jad_occurence__696",
     "occurrence": [],
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
     "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21456,8 +21618,16 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-17",
-    "ms_locus": [],
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. "
+      }
+    ],
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__695",
@@ -21472,10 +21642,15 @@
     "id": 697,
     "jad_id": "jad_occurence__697",
     "occurrence": [],
-    "manuscript": [],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
     "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21485,16 +21660,545 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-17",
-    "ms_locus": [],
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. "
+      }
+    ],
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_occurence__696",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
+      "id": "jad_occurence__698",
+      "label": "venient romani et tollunt locum nostrum"
+    }
+  },
+  "698": {
+    "id": 698,
+    "jad_id": "jad_occurence__698",
+    "occurrence": [
+      {
+        "id": 2570,
+        "value": "venient romani et tollunt locum nostrum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 371,
+        "value": "BNF, Latin 625"
+      }
+    ],
+    "position_in_ms": "155r",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10084087z/f160.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 371,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 625, f. 155r"
+      }
+    ],
+    "view_label": "venient romani et tollunt locum nostrum",
+    "prev": {
+      "id": "jad_occurence__697",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__699",
+      "label": "ad litteram missis romanis, sub tyto et vespasiano, vel angelis"
+    }
+  },
+  "699": {
+    "id": 699,
+    "jad_id": "jad_occurence__699",
+    "occurrence": [
+      {
+        "id": 2571,
+        "value": "ad litteram missis romanis, sub tyto et vespasiano, vel angelis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 371,
+        "value": "BNF, Latin 625"
+      }
+    ],
+    "position_in_ms": "157r-v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10084087z/f162.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 371,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 625, f. 157r-v"
+      }
+    ],
+    "view_label": "ad litteram missis romanis, sub tyto et vespasiano, vel angelis",
+    "prev": {
+      "id": "jad_occurence__698",
+      "label": "venient romani et tollunt locum nostrum"
+    },
+    "next": {
       "id": "jad_occurence__7",
       "label": "romanis obsidentibus civitatem"
+    }
+  },
+  "700": {
+    "id": 700,
+    "jad_id": "jad_occurence__700",
+    "occurrence": [
+      {
+        "id": 2572,
+        "value": "ad litteram templum vel civitas deserta, divino auxilio destituta, romanis tollentibus gentem et locum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 371,
+        "value": "BNF, Latin 625"
+      }
+    ],
+    "position_in_ms": "168r-v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10084087z/f174.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 371,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 625, f. 168r-v"
+      }
+    ],
+    "view_label": "ad litteram templum vel civitas deserta, divino auxilio destituta, romanis tollentibus gentem et locum",
+    "prev": {
+      "id": "jad_occurence__70",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__701",
+      "label": "item consummatio seculi, figurata est in destructione civitatis Ierusalem et templi"
+    }
+  },
+  "701": {
+    "id": 701,
+    "jad_id": "jad_occurence__701",
+    "occurrence": [
+      {
+        "id": 2573,
+        "value": "item consummatio seculi, figurata est in destructione civitatis Ierusalem et templi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 371,
+        "value": "BNF, Latin 625"
+      }
+    ],
+    "position_in_ms": "168v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10084087z/f174.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 371,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 625, f. 168v"
+      }
+    ],
+    "view_label": "item consummatio seculi, figurata est in destructione civitatis Ierusalem et templi",
+    "prev": {
+      "id": "jad_occurence__700",
+      "label": "ad litteram templum vel civitas deserta, divino auxilio destituta, romanis tollentibus gentem et locum"
+    },
+    "next": {
+      "id": "jad_occurence__702",
+      "label": "hoc factum est in parte, XLII anno post passionem domini a vespasiano et tyto, postea ex toto per helium adrianum"
+    }
+  },
+  "702": {
+    "id": 702,
+    "jad_id": "jad_occurence__702",
+    "occurrence": [
+      {
+        "id": 2574,
+        "value": "hoc factum est in parte, XLII anno post passionem domini a vespasiano et tyto, postea ex toto per helium adrianum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 371,
+        "value": "BNF, Latin 625"
+      }
+    ],
+    "position_in_ms": "169r",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10084087z/f174.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 371,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 625, f. 169r"
+      }
+    ],
+    "view_label": "hoc factum est in parte, XLII anno post passionem domini a vespasiano et tyto, postea ex toto per helium adrianum",
+    "prev": {
+      "id": "jad_occurence__701",
+      "label": "item consummatio seculi, figurata est in destructione civitatis Ierusalem et templi"
+    },
+    "next": {
+      "id": "jad_occurence__703",
+      "label": "unde in figura destructionis templi, per quam figuratur destructio mundi"
+    }
+  },
+  "703": {
+    "id": 703,
+    "jad_id": "jad_occurence__703",
+    "occurrence": [
+      {
+        "id": 2575,
+        "value": "unde in figura destructionis templi, per quam figuratur destructio mundi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 371,
+        "value": "BNF, Latin 625"
+      }
+    ],
+    "position_in_ms": "169v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10084087z/f175.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 371,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 625, f. 169v"
+      }
+    ],
+    "view_label": "unde in figura destructionis templi, per quam figuratur destructio mundi",
+    "prev": {
+      "id": "jad_occurence__702",
+      "label": "hoc factum est in parte, XLII anno post passionem domini a vespasiano et tyto, postea ex toto per helium adrianum"
+    },
+    "next": {
+      "id": "jad_occurence__704",
+      "label": "cuius prefiguratio fuit in destructione Ierusalem"
+    }
+  },
+  "704": {
+    "id": 704,
+    "jad_id": "jad_occurence__704",
+    "occurrence": [
+      {
+        "id": 2576,
+        "value": "cuius prefiguratio fuit in destructione Ierusalem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 371,
+        "value": "BNF, Latin 625"
+      }
+    ],
+    "position_in_ms": "170v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10084087z/f176.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 371,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 625, f. 170v"
+      }
+    ],
+    "view_label": "cuius prefiguratio fuit in destructione Ierusalem",
+    "prev": {
+      "id": "jad_occurence__703",
+      "label": "unde in figura destructionis templi, per quam figuratur destructio mundi"
+    },
+    "next": {
+      "id": "jad_occurence__705",
+      "label": "cum appropinquante exterminio Iudeorum"
+    }
+  },
+  "705": {
+    "id": 705,
+    "jad_id": "jad_occurence__705",
+    "occurrence": [
+      {
+        "id": 2577,
+        "value": "cum appropinquante exterminio Iudeorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 371,
+        "value": "BNF, Latin 625"
+      }
+    ],
+    "position_in_ms": "171r",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10084087z/f176.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 371,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 625, f. 171r"
+      }
+    ],
+    "view_label": "cum appropinquante exterminio Iudeorum",
+    "prev": {
+      "id": "jad_occurence__704",
+      "label": "cuius prefiguratio fuit in destructione Ierusalem"
+    },
+    "next": {
+      "id": "jad_occurence__706",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "706": {
+    "id": 706,
+    "jad_id": "jad_occurence__706",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__705",
+      "label": "cum appropinquante exterminio Iudeorum"
+    },
+    "next": {
+      "id": "jad_occurence__707",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "707": {
+    "id": 707,
+    "jad_id": "jad_occurence__707",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__706",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__708",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "708": {
+    "id": 708,
+    "jad_id": "jad_occurence__708",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__707",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__709",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "709": {
+    "id": 709,
+    "jad_id": "jad_occurence__709",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__708",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__71",
+      "label": "De destructione templi"
+    }
+  },
+  "710": {
+    "id": 710,
+    "jad_id": "jad_occurence__710",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-20",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-20",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__71",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__72",
+      "label": "De destructione templi"
     }
   }
 }

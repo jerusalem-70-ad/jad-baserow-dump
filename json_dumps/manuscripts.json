@@ -8240,44 +8240,110 @@
   "369": {
     "id": 369,
     "order": "222.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Vat.lat.997"
+      }
+    ],
     "jad_id": "jad_manuscript__369",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Vat.lat.997",
+    "catalog_url": "https://opac.vatlib.it/mss/detail/241575",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Vat.lat.997",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
   },
   "370": {
     "id": 370,
     "order": "223.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 9,
+        "value": "Troyes, MS 224"
+      }
+    ],
     "jad_id": "jad_manuscript__370",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 9,
+        "value": "Troyes",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "idno": "MS 224",
+    "catalog_url": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "digi_url": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 2,
+        "value": "12th cen.",
+        "order": "2.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 9,
+        "value": "Bibliothèque municipale (Troyes)"
+      }
+    ]
   },
   "371": {
     "id": 371,
     "order": "224.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 625"
+      }
+    ],
     "jad_id": "jad_manuscript__371",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "Latin 625",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc62081x",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10084087z",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": []
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "format": "32 x 23, 215 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
   },
   "372": {
     "id": 372,
@@ -8298,6 +8364,146 @@
     "order": "226.00000000000000000000",
     "name": [],
     "jad_id": "jad_manuscript__373",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "374": {
+    "id": 374,
+    "order": "227.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__374",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "375": {
+    "id": 375,
+    "order": "228.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__375",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "376": {
+    "id": 376,
+    "order": "229.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__376",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "377": {
+    "id": 377,
+    "order": "230.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__377",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "378": {
+    "id": 378,
+    "order": "231.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__378",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "379": {
+    "id": 379,
+    "order": "232.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__379",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "380": {
+    "id": 380,
+    "order": "233.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__380",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "381": {
+    "id": 381,
+    "order": "234.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__381",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "382": {
+    "id": 382,
+    "order": "235.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__382",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": []
+  },
+  "383": {
+    "id": 383,
+    "order": "236.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__383",
     "library": [],
     "idno": "",
     "catalog_url": "",

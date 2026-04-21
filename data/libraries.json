@@ -3290,6 +3290,61 @@
         },
         "next": {
           "id": "jad_manuscript__369",
+          "label": "Vat., Vat.lat.997"
+        }
+      },
+      {
+        "id": 371,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 625"
+          }
+        ],
+        "jad_id": "jad_manuscript__371",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1",
+                "lat": "48.85341",
+                "long": "2.34880"
+              }
+            ]
+          }
+        ],
+        "idno": "Latin 625",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc62081x",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10084087z",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "format": "32 x 23, 215 ff.",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, Latin 625",
+        "prev": {
+          "id": "jad_manuscript__370",
+          "label": "Troyes, MS 224"
+        },
+        "next": {
+          "id": "jad_manuscript__372",
           "label": "NO MATCH FOR $..name[0].value"
         }
       }
@@ -5803,6 +5858,61 @@
           "id": "jad_manuscript__315",
           "label": "BNF, lat. 14302"
         }
+      },
+      {
+        "id": 370,
+        "name": [
+          {
+            "id": 9,
+            "value": "Troyes, MS 224"
+          }
+        ],
+        "jad_id": "jad_manuscript__370",
+        "library": [
+          {
+            "id": 9,
+            "value": "Troyes",
+            "jad_id": "jad_library__9",
+            "gnd_url": "https://d-nb.info/gnd/1026092-4",
+            "full_name": "Bibliothèque municipale (Troyes)",
+            "place": [
+              {
+                "id": 9,
+                "name": "Troyes",
+                "geonames_url": "https://www.geonames.org/2971549/troyes.html",
+                "jad_id": "jad_places__9",
+                "lat": "48.30073",
+                "long": "4.08524"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 224",
+        "catalog_url": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+        "digi_url": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 2,
+            "value": "12th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 9,
+            "value": "Bibliothèque municipale (Troyes)"
+          }
+        ],
+        "view_label": "Troyes, MS 224",
+        "prev": {
+          "id": "jad_manuscript__37",
+          "label": "BSB, Clm 3721"
+        },
+        "next": {
+          "id": "jad_manuscript__371",
+          "label": "BNF, Latin 625"
+        }
       }
     ]
   },
@@ -6666,11 +6776,11 @@
         "view_label": "BSB, Clm 3721",
         "prev": {
           "id": "jad_manuscript__369",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Vat., Vat.lat.997"
         },
         "next": {
           "id": "jad_manuscript__370",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "Troyes, MS 224"
         }
       },
       {
@@ -8052,12 +8162,12 @@
         ],
         "view_label": "Jena, UB, El. f. 32",
         "prev": {
-          "id": "jad_manuscript__373",
+          "id": "jad_manuscript__379",
           "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
-          "id": "jad_manuscript__39",
-          "label": "Erlangen, UB, 63/1"
+          "id": "jad_manuscript__380",
+          "label": "NO MATCH FOR $..name[0].value"
         }
       }
     ]
@@ -8135,8 +8245,8 @@
         ],
         "view_label": "Erlangen, UB, 63/1",
         "prev": {
-          "id": "jad_manuscript__38",
-          "label": "Jena, UB, El. f. 32"
+          "id": "jad_manuscript__383",
+          "label": "NO MATCH FOR $..name[0].value"
         },
         "next": {
           "id": "jad_manuscript__4",
@@ -12751,6 +12861,61 @@
         "next": {
           "id": "jad_manuscript__366",
           "label": "Salzburg, UB, M III 19"
+        }
+      },
+      {
+        "id": 369,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., Vat.lat.997"
+          }
+        ],
+        "jad_id": "jad_manuscript__369",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19",
+                "lat": "41.89193",
+                "long": "12.51133"
+              }
+            ]
+          }
+        ],
+        "idno": "Vat.lat.997",
+        "catalog_url": "https://opac.vatlib.it/mss/detail/241575",
+        "digi_url": "https://digi.vatlib.it/view/MSS_Vat.lat.997",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., Vat.lat.997",
+        "prev": {
+          "id": "jad_manuscript__368",
+          "label": "BNF, Latin 1979"
+        },
+        "next": {
+          "id": "jad_manuscript__37",
+          "label": "BSB, Clm 3721"
         }
       }
     ]

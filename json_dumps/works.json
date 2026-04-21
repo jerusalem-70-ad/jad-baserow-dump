@@ -29564,20 +29564,48 @@
   "763": {
     "id": 763,
     "order": "642.00000000000000000000",
-    "name": " ",
+    "name": "Explanatio in duodecim Prophetas minores ",
     "jad_id": "jad_work__763",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 476,
+        "value": "Robert of Bridlington",
+        "order": "293.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224",
+        "order": "223.00000000000000000000"
+      }
+    ],
+    "title": "Explanatio in duodecim Prophetas minores",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -29585,20 +29613,48 @@
   "764": {
     "id": 764,
     "order": "643.00000000000000000000",
-    "name": " ",
+    "name": "Commentary Matthew ",
     "jad_id": "jad_work__764",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 183,
+        "value": "Johannes de Rupella (de la Rochelle)",
+        "order": "168.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 371,
+        "value": "BNF, Latin 625",
+        "order": "224.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Matthew",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
