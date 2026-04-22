@@ -3311,11 +3311,11 @@
     "view_label": "De destructione templi",
     "prev": {
       "id": "jad_occurence__709",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "advenientibus romanis et superantibus festa eorum et cantica in luctum planctumque mutata sunt"
     },
     "next": {
       "id": "jad_occurence__710",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "possunt hec accipi de eversione Iudeorum per romanos"
     }
   },
   "72": {
@@ -3357,12 +3357,12 @@
     ],
     "view_label": "De destructione templi",
     "prev": {
-      "id": "jad_occurence__710",
+      "id": "jad_occurence__719",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__73",
-      "label": "De destructione templi"
+      "id": "jad_occurence__720",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "73": {
@@ -3404,8 +3404,8 @@
     ],
     "view_label": "De destructione templi",
     "prev": {
-      "id": "jad_occurence__72",
-      "label": "De destructione templi"
+      "id": "jad_occurence__720",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__74",
@@ -21551,20 +21551,25 @@
     },
     "next": {
       "id": "jad_occurence__695",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "imperium romanorum qui IIII et ultimi in tantum oppressere Iudeos, ut subversis urbibus, templum domini succenderent"
     }
   },
   "695": {
     "id": 695,
     "jad_id": "jad_occurence__695",
-    "occurrence": [],
+    "occurrence": [
+      {
+        "id": 2567,
+        "value": "imperium romanorum qui IIII et ultimi in tantum oppressere Iudeos, ut subversis urbibus, templum domini succenderent"
+      }
+    ],
     "manuscript": [
       {
         "id": 370,
         "value": "Troyes, MS 224"
       }
     ],
-    "position_in_ms": "",
+    "position_in_ms": "37v",
     "main_ms": true,
     "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
@@ -21576,37 +21581,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-20",
+    "last_modified_on": "2026-04-21",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 370,
           "database_table_3497": 9
         },
-        "value": "Troyes, MS 224, f. "
+        "value": "Troyes, MS 224, f. 37v"
       }
     ],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "view_label": "imperium romanorum qui IIII et ultimi in tantum oppressere Iudeos, ut subversis urbibus, templum domini succenderent",
     "prev": {
       "id": "jad_occurence__694",
       "label": "qui quoniam mortem Christi inclamaverunt, ideo deus percussit eos"
     },
     "next": {
       "id": "jad_occurence__696",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "sive ad ultimum romanorum, quorum omnium crudelitas in populum dei feritas describitur sub metaphora locustarum"
     }
   },
   "696": {
     "id": 696,
     "jad_id": "jad_occurence__696",
-    "occurrence": [],
+    "occurrence": [
+      {
+        "id": 2568,
+        "value": "sive ad ultimum romanorum, quorum omnium crudelitas in populum dei feritas describitur sub metaphora locustarum"
+      }
+    ],
     "manuscript": [
       {
         "id": 370,
         "value": "Troyes, MS 224"
       }
     ],
-    "position_in_ms": "",
+    "position_in_ms": "38r",
     "main_ms": true,
     "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
@@ -21618,37 +21628,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-20",
+    "last_modified_on": "2026-04-21",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 370,
           "database_table_3497": 9
         },
-        "value": "Troyes, MS 224, f. "
+        "value": "Troyes, MS 224, f. 38r"
       }
     ],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "view_label": "sive ad ultimum romanorum, quorum omnium crudelitas in populum dei feritas describitur sub metaphora locustarum",
     "prev": {
       "id": "jad_occurence__695",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "imperium romanorum qui IIII et ultimi in tantum oppressere Iudeos, ut subversis urbibus, templum domini succenderent"
     },
     "next": {
       "id": "jad_occurence__697",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "quando Ierusalem fame et ferro et fuga a romanis vastata est"
     }
   },
   "697": {
     "id": 697,
     "jad_id": "jad_occurence__697",
-    "occurrence": [],
+    "occurrence": [
+      {
+        "id": 2569,
+        "value": "quando Ierusalem fame et ferro et fuga a romanis vastata est"
+      }
+    ],
     "manuscript": [
       {
         "id": 370,
         "value": "Troyes, MS 224"
       }
     ],
-    "position_in_ms": "",
+    "position_in_ms": "39r",
     "main_ms": true,
     "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
@@ -21660,20 +21675,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-20",
+    "last_modified_on": "2026-04-21",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 370,
           "database_table_3497": 9
         },
-        "value": "Troyes, MS 224, f. "
+        "value": "Troyes, MS 224, f. 39r"
       }
     ],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "view_label": "quando Ierusalem fame et ferro et fuga a romanis vastata est",
     "prev": {
       "id": "jad_occurence__696",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "sive ad ultimum romanorum, quorum omnium crudelitas in populum dei feritas describitur sub metaphora locustarum"
     },
     "next": {
       "id": "jad_occurence__698",
@@ -21720,7 +21735,7 @@
     "view_label": "venient romani et tollunt locum nostrum",
     "prev": {
       "id": "jad_occurence__697",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "quando Ierusalem fame et ferro et fuga a romanis vastata est"
     },
     "next": {
       "id": "jad_occurence__699",
@@ -22053,17 +22068,27 @@
     },
     "next": {
       "id": "jad_occurence__706",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "possunt hec omnia referri ad assyrios et chaldeos, medos et persas, macedones et romanos, qui in iudicio damnabuntur, propter hec quem intulerunt Iudeis"
     }
   },
   "706": {
     "id": 706,
     "jad_id": "jad_occurence__706",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2578,
+        "value": "possunt hec omnia referri ad assyrios et chaldeos, medos et persas, macedones et romanos, qui in iudicio damnabuntur, propter hec quem intulerunt Iudeis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "46v",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -22073,26 +22098,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 46v"
+      }
+    ],
+    "view_label": "possunt hec omnia referri ad assyrios et chaldeos, medos et persas, macedones et romanos, qui in iudicio damnabuntur, propter hec quem intulerunt Iudeis",
     "prev": {
       "id": "jad_occurence__705",
       "label": "cum appropinquante exterminio Iudeorum"
     },
     "next": {
       "id": "jad_occurence__707",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "quando Iudei victi sunt a romanis"
     }
   },
   "707": {
     "id": 707,
     "jad_id": "jad_occurence__707",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2579,
+        "value": "quando Iudei victi sunt a romanis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "47v",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -22102,26 +22145,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 47v"
+      }
+    ],
+    "view_label": "quando Iudei victi sunt a romanis",
     "prev": {
       "id": "jad_occurence__706",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "possunt hec omnia referri ad assyrios et chaldeos, medos et persas, macedones et romanos, qui in iudicio damnabuntur, propter hec quem intulerunt Iudeis"
     },
     "next": {
       "id": "jad_occurence__708",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "hec manifestius et verius post adventum domini dicuntur populo Iudeorum, qui destructo templo et altari, hostias deo offerre se credunt"
     }
   },
   "708": {
     "id": 708,
     "jad_id": "jad_occurence__708",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2580,
+        "value": "hec manifestius et verius post adventum domini dicuntur populo Iudeorum, qui destructo templo et altari, hostias deo offerre se credunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "64v",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -22131,26 +22192,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 64v"
+      }
+    ],
+    "view_label": "hec manifestius et verius post adventum domini dicuntur populo Iudeorum, qui destructo templo et altari, hostias deo offerre se credunt",
     "prev": {
       "id": "jad_occurence__707",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "quando Iudei victi sunt a romanis"
     },
     "next": {
       "id": "jad_occurence__709",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "advenientibus romanis et superantibus festa eorum et cantica in luctum planctumque mutata sunt"
     }
   },
   "709": {
     "id": 709,
     "jad_id": "jad_occurence__709",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2581,
+        "value": "advenientibus romanis et superantibus festa eorum et cantica in luctum planctumque mutata sunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "71r",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -22160,12 +22239,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 71r"
+      }
+    ],
+    "view_label": "advenientibus romanis et superantibus festa eorum et cantica in luctum planctumque mutata sunt",
     "prev": {
       "id": "jad_occurence__708",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "hec manifestius et verius post adventum domini dicuntur populo Iudeorum, qui destructo templo et altari, hostias deo offerre se credunt"
     },
     "next": {
       "id": "jad_occurence__71",
@@ -22175,11 +22262,21 @@
   "710": {
     "id": 710,
     "jad_id": "jad_occurence__710",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2582,
+        "value": "possunt hec accipi de eversione Iudeorum per romanos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "90r",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -22189,15 +22286,437 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-20",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 90r"
+      }
+    ],
+    "view_label": "possunt hec accipi de eversione Iudeorum per romanos",
     "prev": {
       "id": "jad_occurence__71",
       "label": "De destructione templi"
     },
     "next": {
+      "id": "jad_occurence__711",
+      "label": "de extrema captivitate Iudeorum a romanis facta"
+    }
+  },
+  "711": {
+    "id": 711,
+    "jad_id": "jad_occurence__711",
+    "occurrence": [
+      {
+        "id": 2583,
+        "value": "de extrema captivitate Iudeorum a romanis facta"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "90v",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 90v"
+      }
+    ],
+    "view_label": "de extrema captivitate Iudeorum a romanis facta",
+    "prev": {
+      "id": "jad_occurence__710",
+      "label": "possunt hec accipi de eversione Iudeorum per romanos"
+    },
+    "next": {
+      "id": "jad_occurence__712",
+      "label": "captivitate videlicet babylonica vel romana in ultionem sanguinis Christi"
+    }
+  },
+  "712": {
+    "id": 712,
+    "jad_id": "jad_occurence__712",
+    "occurrence": [
+      {
+        "id": 2584,
+        "value": "captivitate videlicet babylonica vel romana in ultionem sanguinis Christi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "91v",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 91v"
+      }
+    ],
+    "view_label": "captivitate videlicet babylonica vel romana in ultionem sanguinis Christi",
+    "prev": {
+      "id": "jad_occurence__711",
+      "label": "de extrema captivitate Iudeorum a romanis facta"
+    },
+    "next": {
+      "id": "jad_occurence__713",
+      "label": "sic in die captivitatis babylonie sive romane"
+    }
+  },
+  "713": {
+    "id": 713,
+    "jad_id": "jad_occurence__713",
+    "occurrence": [
+      {
+        "id": 2585,
+        "value": "sic in die captivitatis babylonie sive romane"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "92v",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 92v"
+      }
+    ],
+    "view_label": "sic in die captivitatis babylonie sive romane",
+    "prev": {
+      "id": "jad_occurence__712",
+      "label": "captivitate videlicet babylonica vel romana in ultionem sanguinis Christi"
+    },
+    "next": {
+      "id": "jad_occurence__714",
+      "label": "putavit enim Israel occiso Christo se obtinere imperium, sed repente vastatus est"
+    }
+  },
+  "714": {
+    "id": 714,
+    "jad_id": "jad_occurence__714",
+    "occurrence": [
+      {
+        "id": 2586,
+        "value": "putavit enim Israel occiso Christo se obtinere imperium, sed repente vastatus est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "94v",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 94v"
+      }
+    ],
+    "view_label": "putavit enim Israel occiso Christo se obtinere imperium, sed repente vastatus est",
+    "prev": {
+      "id": "jad_occurence__713",
+      "label": "sic in die captivitatis babylonie sive romane"
+    },
+    "next": {
+      "id": "jad_occurence__715",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "715": {
+    "id": 715,
+    "jad_id": "jad_occurence__715",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__714",
+      "label": "putavit enim Israel occiso Christo se obtinere imperium, sed repente vastatus est"
+    },
+    "next": {
+      "id": "jad_occurence__716",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "716": {
+    "id": 716,
+    "jad_id": "jad_occurence__716",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__715",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__717",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "717": {
+    "id": 717,
+    "jad_id": "jad_occurence__717",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__716",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__718",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "718": {
+    "id": 718,
+    "jad_id": "jad_occurence__718",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__717",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__719",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "719": {
+    "id": 719,
+    "jad_id": "jad_occurence__719",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__718",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
       "id": "jad_occurence__72",
+      "label": "De destructione templi"
+    }
+  },
+  "720": {
+    "id": 720,
+    "jad_id": "jad_occurence__720",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-21",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-21",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__72",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__73",
       "label": "De destructione templi"
     }
   }
