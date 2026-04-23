@@ -3358,11 +3358,11 @@
     "view_label": "De destructione templi",
     "prev": {
       "id": "jad_occurence__719",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "effugere captivitatem que vel a babyloniis vel a romanis populo Iudeorum inferenda est"
     },
     "next": {
       "id": "jad_occurence__720",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ad regni destructionem quod postea per chaldeos et deinceps per romanos perdiderunt"
     }
   },
   "73": {
@@ -3404,12 +3404,12 @@
     ],
     "view_label": "De destructione templi",
     "prev": {
-      "id": "jad_occurence__720",
+      "id": "jad_occurence__729",
       "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__74",
-      "label": "De destructione templi"
+      "id": "jad_occurence__730",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "74": {
@@ -3451,8 +3451,8 @@
     ],
     "view_label": "De destructione templi",
     "prev": {
-      "id": "jad_occurence__73",
-      "label": "De destructione templi"
+      "id": "jad_occurence__737",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__75",
@@ -22491,20 +22491,25 @@
     },
     "next": {
       "id": "jad_occurence__715",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "in tempore captivitatis Iudaice vel a babyloniis vel a romanis"
     }
   },
   "715": {
     "id": 715,
     "jad_id": "jad_occurence__715",
-    "occurrence": [],
+    "occurrence": [
+      {
+        "id": 2587,
+        "value": "in tempore captivitatis Iudaice vel a babyloniis vel a romanis"
+      }
+    ],
     "manuscript": [
       {
         "id": 370,
         "value": "Troyes, MS 224"
       }
     ],
-    "position_in_ms": "",
+    "position_in_ms": "120r",
     "main_ms": true,
     "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
@@ -22516,37 +22521,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-21",
+    "last_modified_on": "2026-04-22",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 370,
           "database_table_3497": 9
         },
-        "value": "Troyes, MS 224, f. "
+        "value": "Troyes, MS 224, f. 120r"
       }
     ],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "view_label": "in tempore captivitatis Iudaice vel a babyloniis vel a romanis",
     "prev": {
       "id": "jad_occurence__714",
       "label": "putavit enim Israel occiso Christo se obtinere imperium, sed repente vastatus est"
     },
     "next": {
       "id": "jad_occurence__716",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "patet in utraque captivitate omnem Iudeorum cesum fuisse exercitum"
     }
   },
   "716": {
     "id": 716,
     "jad_id": "jad_occurence__716",
-    "occurrence": [],
+    "occurrence": [
+      {
+        "id": 2588,
+        "value": "patet in utraque captivitate omnem Iudeorum cesum fuisse exercitum"
+      }
+    ],
     "manuscript": [
       {
         "id": 370,
         "value": "Troyes, MS 224"
       }
     ],
-    "position_in_ms": "",
+    "position_in_ms": "120v",
     "main_ms": true,
     "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
@@ -22558,37 +22568,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-21",
+    "last_modified_on": "2026-04-22",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 370,
           "database_table_3497": 9
         },
-        "value": "Troyes, MS 224, f. "
+        "value": "Troyes, MS 224, f. 120v"
       }
     ],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "view_label": "patet in utraque captivitate omnem Iudeorum cesum fuisse exercitum",
     "prev": {
       "id": "jad_occurence__715",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "in tempore captivitatis Iudaice vel a babyloniis vel a romanis"
     },
     "next": {
       "id": "jad_occurence__717",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "nam post XLII annos dominice crucis circumdata est ab exercitu Ierusalem"
     }
   },
   "717": {
     "id": 717,
     "jad_id": "jad_occurence__717",
-    "occurrence": [],
+    "occurrence": [
+      {
+        "id": 2589,
+        "value": "nam post XLII annos dominice crucis circumdata est ab exercitu Ierusalem"
+      }
+    ],
     "manuscript": [
       {
         "id": 370,
         "value": "Troyes, MS 224"
       }
     ],
-    "position_in_ms": "",
+    "position_in_ms": "121r",
     "main_ms": true,
     "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
@@ -22600,37 +22615,42 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-21",
+    "last_modified_on": "2026-04-22",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 370,
           "database_table_3497": 9
         },
-        "value": "Troyes, MS 224, f. "
+        "value": "Troyes, MS 224, f. 121r"
       }
     ],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "view_label": "nam post XLII annos dominice crucis circumdata est ab exercitu Ierusalem",
     "prev": {
       "id": "jad_occurence__716",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "patet in utraque captivitate omnem Iudeorum cesum fuisse exercitum"
     },
     "next": {
       "id": "jad_occurence__718",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "in die captivitatis Iudaice sive a babyloniis sive a romanis"
     }
   },
   "718": {
     "id": 718,
     "jad_id": "jad_occurence__718",
-    "occurrence": [],
+    "occurrence": [
+      {
+        "id": 2590,
+        "value": "in die captivitatis Iudaice sive a babyloniis sive a romanis"
+      }
+    ],
     "manuscript": [
       {
         "id": 370,
         "value": "Troyes, MS 224"
       }
     ],
-    "position_in_ms": "",
+    "position_in_ms": "121v",
     "main_ms": true,
     "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
@@ -22642,34 +22662,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-21",
+    "last_modified_on": "2026-04-22",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 370,
           "database_table_3497": 9
         },
-        "value": "Troyes, MS 224, f. "
+        "value": "Troyes, MS 224, f. 121v"
       }
     ],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "view_label": "in die captivitatis Iudaice sive a babyloniis sive a romanis",
     "prev": {
       "id": "jad_occurence__717",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "nam post XLII annos dominice crucis circumdata est ab exercitu Ierusalem"
     },
     "next": {
       "id": "jad_occurence__719",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "effugere captivitatem que vel a babyloniis vel a romanis populo Iudeorum inferenda est"
     }
   },
   "719": {
     "id": 719,
     "jad_id": "jad_occurence__719",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2591,
+        "value": "effugere captivitatem que vel a babyloniis vel a romanis populo Iudeorum inferenda est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "122r",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -22679,12 +22709,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-21",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 122r"
+      }
+    ],
+    "view_label": "effugere captivitatem que vel a babyloniis vel a romanis populo Iudeorum inferenda est",
     "prev": {
       "id": "jad_occurence__718",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "in die captivitatis Iudaice sive a babyloniis sive a romanis"
     },
     "next": {
       "id": "jad_occurence__72",
@@ -22694,11 +22732,21 @@
   "720": {
     "id": 720,
     "jad_id": "jad_occurence__720",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2592,
+        "value": "ad regni destructionem quod postea per chaldeos et deinceps per romanos perdiderunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "123r",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -22708,15 +22756,581 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-21",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. 123r"
+      }
+    ],
+    "view_label": "ad regni destructionem quod postea per chaldeos et deinceps per romanos perdiderunt",
     "prev": {
       "id": "jad_occurence__72",
       "label": "De destructione templi"
     },
     "next": {
+      "id": "jad_occurence__721",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "721": {
+    "id": 721,
+    "jad_id": "jad_occurence__721",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__720",
+      "label": "ad regni destructionem quod postea per chaldeos et deinceps per romanos perdiderunt"
+    },
+    "next": {
+      "id": "jad_occurence__722",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "722": {
+    "id": 722,
+    "jad_id": "jad_occurence__722",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__721",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__723",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "723": {
+    "id": 723,
+    "jad_id": "jad_occurence__723",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__722",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__724",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "724": {
+    "id": 724,
+    "jad_id": "jad_occurence__724",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__723",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__725",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "725": {
+    "id": 725,
+    "jad_id": "jad_occurence__725",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 370,
+        "value": "Troyes, MS 224"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 370,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 224, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__724",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__726",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "726": {
+    "id": 726,
+    "jad_id": "jad_occurence__726",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__725",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__727",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "727": {
+    "id": 727,
+    "jad_id": "jad_occurence__727",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__726",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__728",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "728": {
+    "id": 728,
+    "jad_id": "jad_occurence__728",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__727",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__729",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "729": {
+    "id": 729,
+    "jad_id": "jad_occurence__729",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__728",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
       "id": "jad_occurence__73",
+      "label": "De destructione templi"
+    }
+  },
+  "730": {
+    "id": 730,
+    "jad_id": "jad_occurence__730",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__73",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__731",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "731": {
+    "id": 731,
+    "jad_id": "jad_occurence__731",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__730",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__732",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "732": {
+    "id": 732,
+    "jad_id": "jad_occurence__732",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__731",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__733",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "733": {
+    "id": 733,
+    "jad_id": "jad_occurence__733",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__732",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__734",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "734": {
+    "id": 734,
+    "jad_id": "jad_occurence__734",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__733",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__735",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "735": {
+    "id": 735,
+    "jad_id": "jad_occurence__735",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__734",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__736",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "736": {
+    "id": 736,
+    "jad_id": "jad_occurence__736",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__735",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__737",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "737": {
+    "id": 737,
+    "jad_id": "jad_occurence__737",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-22",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-22",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__736",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__74",
       "label": "De destructione templi"
     }
   }
