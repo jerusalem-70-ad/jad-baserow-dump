@@ -23,7 +23,10 @@ for x in tqdm(items, total=len(items)):
     person_item = PyLobidPerson(gnd)
     ent_dict = person_item.ent_dict
     enriched[ent_id] = ent_dict
-    alt_names = " | ".join(ent_dict["variantName"])
+    try:
+        alt_names = " | ".join(ent_dict["variantName"])
+    except KeyError:
+        alt_names = ""
     payload["alt_name"] = alt_names
     try:
         payload["date_of_birth"] = "".join(ent_dict["dateOfBirth"])
