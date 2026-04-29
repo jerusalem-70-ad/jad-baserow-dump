@@ -229,6 +229,61 @@
           "id": "jad_manuscript__166",
           "label": "BSB, Clm 4552"
         }
+      },
+      {
+        "id": 375,
+        "name": [
+          {
+            "id": 1,
+            "value": "ÖNB, MS 1179"
+          }
+        ],
+        "jad_id": "jad_manuscript__375",
+        "library": [
+          {
+            "id": 1,
+            "value": "ÖNB",
+            "jad_id": "jad_library__1",
+            "gnd_url": "https://d-nb.info/gnd/2020893-5",
+            "full_name": "Österreichische Nationalbibliothek",
+            "place": [
+              {
+                "id": 4,
+                "name": "Vienna",
+                "geonames_url": "https://www.geonames.org/2761369/vienna.html",
+                "jad_id": "jad_places__4",
+                "lat": "48.20849",
+                "long": "16.37208"
+              }
+            ]
+          }
+        ],
+        "idno": "MS 1179",
+        "catalog_url": "https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma21302404680003338&context=L&vid=ONB&lang=de_DE&search_scope=ONB_gesamtbestand&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,cod.%201179&mode=basic&offset=50",
+        "digi_url": "https://viewer.onb.ac.at/13229F2B",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 1,
+            "value": "Österreichische Nationalbibliothek"
+          }
+        ],
+        "view_label": "ÖNB, MS 1179",
+        "prev": {
+          "id": "jad_manuscript__374",
+          "label": "Vat., Vat.lat.4959"
+        },
+        "next": {
+          "id": "jad_manuscript__376",
+          "label": "BNF, Latin 16506"
+        }
       }
     ]
   },
@@ -3345,7 +3400,62 @@
         },
         "next": {
           "id": "jad_manuscript__372",
-          "label": "NO MATCH FOR $..name[0].value"
+          "label": "BSB, Clm 311"
+        }
+      },
+      {
+        "id": 376,
+        "name": [
+          {
+            "id": 2,
+            "value": "BNF, Latin 16506"
+          }
+        ],
+        "jad_id": "jad_manuscript__376",
+        "library": [
+          {
+            "id": 2,
+            "value": "BNF",
+            "jad_id": "jad_library__2",
+            "gnd_url": "https://d-nb.info/gnd/5156217-0",
+            "full_name": "Bibliothèque Nationale de France",
+            "place": [
+              {
+                "id": 1,
+                "name": "Paris",
+                "geonames_url": "https://www.geonames.org/2988507/paris.html",
+                "jad_id": "jad_places__1",
+                "lat": "48.85341",
+                "long": "2.34880"
+              }
+            ]
+          }
+        ],
+        "idno": "Latin 16506",
+        "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc769391",
+        "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b90671615/f196.item.zoom",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 2,
+            "value": "Bibliothèque Nationale de France"
+          }
+        ],
+        "view_label": "BNF, Latin 16506",
+        "prev": {
+          "id": "jad_manuscript__375",
+          "label": "ÖNB, MS 1179"
+        },
+        "next": {
+          "id": "jad_manuscript__377",
+          "label": "BSB, Clm 4453"
         }
       }
     ]
@@ -7726,6 +7836,171 @@
         "next": {
           "id": "jad_manuscript__332",
           "label": "Angers, MS 243"
+        }
+      },
+      {
+        "id": 372,
+        "name": [
+          {
+            "id": 12,
+            "value": "BSB, Clm 311"
+          }
+        ],
+        "jad_id": "jad_manuscript__372",
+        "library": [
+          {
+            "id": 12,
+            "value": "BSB",
+            "jad_id": "jad_library__12",
+            "gnd_url": "https://d-nb.info/gnd/2031351-2",
+            "full_name": "Bayrische Staatsbibliothek",
+            "place": [
+              {
+                "id": 3,
+                "name": "Munich",
+                "geonames_url": "https://www.geonames.org/2867714/munich.html",
+                "jad_id": "jad_places__3",
+                "lat": "48.13743",
+                "long": "11.57549"
+              }
+            ]
+          }
+        ],
+        "idno": "Clm 311",
+        "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991013528449707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%20311&offset=0",
+        "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00039848?page=2,3",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 41,
+            "value": "13th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 12,
+            "value": "Bayrische Staatsbibliothek"
+          }
+        ],
+        "view_label": "BSB, Clm 311",
+        "prev": {
+          "id": "jad_manuscript__371",
+          "label": "BNF, Latin 625"
+        },
+        "next": {
+          "id": "jad_manuscript__373",
+          "label": "BSB, Clm 9558"
+        }
+      },
+      {
+        "id": 373,
+        "name": [
+          {
+            "id": 12,
+            "value": "BSB, Clm 9558"
+          }
+        ],
+        "jad_id": "jad_manuscript__373",
+        "library": [
+          {
+            "id": 12,
+            "value": "BSB",
+            "jad_id": "jad_library__12",
+            "gnd_url": "https://d-nb.info/gnd/2031351-2",
+            "full_name": "Bayrische Staatsbibliothek",
+            "place": [
+              {
+                "id": 3,
+                "name": "Munich",
+                "geonames_url": "https://www.geonames.org/2867714/munich.html",
+                "jad_id": "jad_places__3",
+                "lat": "48.13743",
+                "long": "11.57549"
+              }
+            ]
+          }
+        ],
+        "idno": "Clm 9558",
+        "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037774789707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%209558&offset=0",
+        "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00162504?page=,1",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 70,
+            "value": "around 1400"
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 12,
+            "value": "Bayrische Staatsbibliothek"
+          }
+        ],
+        "view_label": "BSB, Clm 9558",
+        "prev": {
+          "id": "jad_manuscript__372",
+          "label": "BSB, Clm 311"
+        },
+        "next": {
+          "id": "jad_manuscript__374",
+          "label": "Vat., Vat.lat.4959"
+        }
+      },
+      {
+        "id": 377,
+        "name": [
+          {
+            "id": 12,
+            "value": "BSB, Clm 4453"
+          }
+        ],
+        "jad_id": "jad_manuscript__377",
+        "library": [
+          {
+            "id": 12,
+            "value": "BSB",
+            "jad_id": "jad_library__12",
+            "gnd_url": "https://d-nb.info/gnd/2031351-2",
+            "full_name": "Bayrische Staatsbibliothek",
+            "place": [
+              {
+                "id": 3,
+                "name": "Munich",
+                "geonames_url": "https://www.geonames.org/2867714/munich.html",
+                "jad_id": "jad_places__3",
+                "lat": "48.13743",
+                "long": "11.57549"
+              }
+            ]
+          }
+        ],
+        "idno": "Clm 4453",
+        "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991029081979707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%204453&offset=0",
+        "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00161981?page=380,381",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 18,
+            "value": "around 1000"
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 12,
+            "value": "Bayrische Staatsbibliothek"
+          }
+        ],
+        "view_label": "BSB, Clm 4453",
+        "prev": {
+          "id": "jad_manuscript__376",
+          "label": "BNF, Latin 16506"
+        },
+        "next": {
+          "id": "jad_manuscript__378",
+          "label": "NO MATCH FOR $..name[0].value"
         }
       }
     ]
@@ -12916,6 +13191,61 @@
         "next": {
           "id": "jad_manuscript__37",
           "label": "BSB, Clm 3721"
+        }
+      },
+      {
+        "id": 374,
+        "name": [
+          {
+            "id": 38,
+            "value": "Vat., Vat.lat.4959"
+          }
+        ],
+        "jad_id": "jad_manuscript__374",
+        "library": [
+          {
+            "id": 38,
+            "value": "Vat.",
+            "jad_id": "jad_library__38",
+            "gnd_url": "https://d-nb.info/gnd/1003302-6",
+            "full_name": "Biblioteca Apostolica Vaticana",
+            "place": [
+              {
+                "id": 19,
+                "name": "Rome",
+                "geonames_url": "https://www.geonames.org/3169070/rome.html",
+                "jad_id": "jad_places__19",
+                "lat": "41.89193",
+                "long": "12.51133"
+              }
+            ]
+          }
+        ],
+        "idno": "Vat.lat.4959",
+        "catalog_url": "https://opac.vatlib.it/mss/detail/Vat.lat.4959",
+        "digi_url": "https://digi.vatlib.it/view/MSS_Vat.lat.4959",
+        "institutional_context": [],
+        "date_written": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "format": "",
+        "library_full": [
+          {
+            "id": 38,
+            "value": "Biblioteca Apostolica Vaticana"
+          }
+        ],
+        "view_label": "Vat., Vat.lat.4959",
+        "prev": {
+          "id": "jad_manuscript__373",
+          "label": "BSB, Clm 9558"
+        },
+        "next": {
+          "id": "jad_manuscript__375",
+          "label": "ÖNB, MS 1179"
         }
       }
     ]

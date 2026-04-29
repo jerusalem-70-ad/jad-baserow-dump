@@ -6202,8 +6202,14 @@
     "alt_name": "Henricus, Jacobita | Henricus I., de Colonia | Heinrich, von Köln | Teuto, Henricus, Senior | Henricus, de Marsberk | Henricus, de Marsberg | Henricus, Iacobita | Henricus, de Colonia | Henri, de Marbourg | Heinrich, von Marsberg | Henricus, de Marburg | Henricus, de Martismonte | Heinrich, Teuto | Henricus, Teutonicus, Senior | Henricus, Coloniensis",
     "date_of_birth": "1190",
     "date_of_death": "1254",
-    "place": [],
-    "date_birth_certainty": true,
+    "place": [
+      {
+        "id": 1,
+        "value": "Paris",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_birth_certainty": false,
     "date_death_certainty": true
   },
   "476": {
@@ -6215,39 +6221,57 @@
     "notes": "",
     "lebensdaten": "",
     "alt_name": "Robertus, Berlinctone | Robert, le Scribe | Roberto, Bridlingtonensis | Robertus, Scriba | Bredlintona, Robertus de | Robertus, Bridlingtonus | Robert, of Bridlington | Robertus, de Bridlington",
-    "date_of_birth": "",
+    "date_of_birth": "?",
     "date_of_death": "1180",
-    "place": [],
+    "place": [
+      {
+        "id": 124,
+        "value": "York",
+        "order": "124.00000000000000000000"
+      }
+    ],
     "date_birth_certainty": true,
-    "date_death_certainty": true
+    "date_death_certainty": false
   },
   "477": {
     "id": 477,
     "order": "294.00000000000000000000",
-    "name": "",
+    "name": "Passauer Anonymus",
     "jad_id": "jad_author__477",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4550095-2",
     "notes": "",
     "lebensdaten": "",
     "alt_name": "",
     "date_of_birth": "",
     "date_of_death": "",
-    "place": [],
+    "place": [
+      {
+        "id": 139,
+        "value": "Passau",
+        "order": "139.00000000000000000000"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true
   },
   "478": {
     "id": 478,
     "order": "295.00000000000000000000",
-    "name": "",
+    "name": "Otto III, emperor",
     "jad_id": "jad_author__478",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118590766",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "alt_name": "Otton III, Emperor of the Roman-German Empire | Otton III, Kaiser des Römisch-deutschen Reiches | Otto III, Empereur de l'Empire Romain-Germanique | Otto III, Imperator, Germania | Otho III, Emperor, Germany | Otho III., Germany, Emperor | Otton III, Empereur de l'Empire Romain-Germanique | Otto III., Germania, Imperator | Otton, la Merveille du Monde | Otto III, Kaiser des Römisch-deutschen Reiches | Otto III, Kaiser des Römisch-Deutschen Reichs | Otto III, Emperor of the Roman-German Empire",
+    "date_of_birth": "0980",
+    "date_of_death": "1002",
+    "place": [
+      {
+        "id": 39,
+        "value": "Aachen",
+        "order": "39.00000000000000000000"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true
   },

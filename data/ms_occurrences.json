@@ -3404,12 +3404,12 @@
     ],
     "view_label": "De destructione templi",
     "prev": {
-      "id": "jad_occurence__729",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "id": "jad_occurence__728",
+      "label": "hec passos non esse romanos qui Ierusalem subverterunt"
     },
     "next": {
       "id": "jad_occurence__730",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "De vindicta pro nece Christi"
     }
   },
   "74": {
@@ -3451,12 +3451,12 @@
     ],
     "view_label": "De destructione templi",
     "prev": {
-      "id": "jad_occurence__737",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "id": "jad_occurence__739",
+      "label": "apostoli omnes multo ante excidium Iude provincie ad predicandum evangelium"
     },
     "next": {
-      "id": "jad_occurence__75",
-      "label": "De destructione templi"
+      "id": "jad_occurence__740",
+      "label": "adpropinquantero mano bello exterminio iudaice gentis"
     }
   },
   "75": {
@@ -3498,12 +3498,12 @@
     ],
     "view_label": "De destructione templi",
     "prev": {
-      "id": "jad_occurence__74",
-      "label": "De destructione templi"
+      "id": "jad_occurence__749",
+      "label": "quidam hoc referunt ad romanos, syriam et Ierosolimam invadentes"
     },
     "next": {
-      "id": "jad_occurence__76",
-      "label": "ruinam illius qua a principibus romanis complananda erat"
+      "id": "jad_occurence__750",
+      "label": "referendum est ad romanos, et theotonicos"
     }
   },
   "76": {
@@ -3545,12 +3545,12 @@
     ],
     "view_label": "ruinam illius qua a principibus romanis complananda erat",
     "prev": {
-      "id": "jad_occurence__75",
-      "label": "De destructione templi"
+      "id": "jad_occurence__759",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
-      "id": "jad_occurence__77",
-      "label": "poena que a romanis principibus imminebat"
+      "id": "jad_occurence__760",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     }
   },
   "77": {
@@ -3592,8 +3592,8 @@
     ],
     "view_label": "poena que a romanis principibus imminebat",
     "prev": {
-      "id": "jad_occurence__76",
-      "label": "ruinam illius qua a principibus romanis complananda erat"
+      "id": "jad_occurence__767",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__78",
@@ -23102,20 +23102,25 @@
     },
     "next": {
       "id": "jad_occurence__728",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "hec passos non esse romanos qui Ierusalem subverterunt"
     }
   },
   "728": {
     "id": 728,
     "jad_id": "jad_occurence__728",
-    "occurrence": [],
+    "occurrence": [
+      {
+        "id": 2600,
+        "value": "hec passos non esse romanos qui Ierusalem subverterunt"
+      }
+    ],
     "manuscript": [
       {
         "id": 370,
         "value": "Troyes, MS 224"
       }
     ],
-    "position_in_ms": "",
+    "position_in_ms": "159r",
     "main_ms": true,
     "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
@@ -23127,62 +23132,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-23",
+    "last_modified_on": "2026-04-24",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 370,
           "database_table_3497": 9
         },
-        "value": "Troyes, MS 224, f. "
+        "value": "Troyes, MS 224, f. 159r"
       }
     ],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "view_label": "hec passos non esse romanos qui Ierusalem subverterunt",
     "prev": {
       "id": "jad_occurence__727",
       "label": "crescat populus Iudeorum, qui postea ab hostibus occidendus est, quem sine dolore et misericordia interficiebant romani"
-    },
-    "next": {
-      "id": "jad_occurence__729",
-      "label": "NO MATCH FOR $..occurrence[0].value"
-    }
-  },
-  "729": {
-    "id": 729,
-    "jad_id": "jad_occurence__729",
-    "occurrence": [],
-    "manuscript": [
-      {
-        "id": 370,
-        "value": "Troyes, MS 224"
-      }
-    ],
-    "position_in_ms": "",
-    "main_ms": true,
-    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
-    "created_by": {
-      "id": 85,
-      "name": "amarx"
-    },
-    "created_on": "2026-04-22",
-    "last_modified_by": {
-      "id": 85,
-      "name": "amarx"
-    },
-    "last_modified_on": "2026-04-23",
-    "ms_locus": [
-      {
-        "ids": {
-          "database_table_3496": 370,
-          "database_table_3497": 9
-        },
-        "value": "Troyes, MS 224, f. "
-      }
-    ],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
-    "prev": {
-      "id": "jad_occurence__728",
-      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_occurence__73",
@@ -23192,11 +23155,21 @@
   "730": {
     "id": 730,
     "jad_id": "jad_occurence__730",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2602,
+        "value": "De vindicta pro nece Christi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 372,
+        "value": "BSB, Clm 311"
+      }
+    ],
+    "position_in_ms": "56r-v",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00039848?page=114,115",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -23206,26 +23179,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 372,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 311, f. 56r-v"
+      }
+    ],
+    "view_label": "De vindicta pro nece Christi",
     "prev": {
       "id": "jad_occurence__73",
       "label": "De destructione templi"
     },
     "next": {
       "id": "jad_occurence__731",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "dicit Iosephus quod propter mortem eius Ierusalem destructa"
     }
   },
   "731": {
     "id": 731,
     "jad_id": "jad_occurence__731",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2603,
+        "value": "dicit Iosephus quod propter mortem eius Ierusalem destructa"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 372,
+        "value": "BSB, Clm 311"
+      }
+    ],
+    "position_in_ms": "56v",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00039848?page=116,117",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -23235,26 +23226,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 372,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 311, f. 56v"
+      }
+    ],
+    "view_label": "dicit Iosephus quod propter mortem eius Ierusalem destructa",
     "prev": {
       "id": "jad_occurence__730",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "De vindicta pro nece Christi"
     },
     "next": {
       "id": "jad_occurence__732",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "De vindicta pro nece Christi"
     }
   },
   "732": {
     "id": 732,
     "jad_id": "jad_occurence__732",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2602,
+        "value": "De vindicta pro nece Christi"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 373,
+        "value": "BSB, Clm 9558"
+      }
+    ],
+    "position_in_ms": "73v-74r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00162504?page=152,153",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -23264,26 +23273,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 373,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 9558, f. 73v-74r"
+      }
+    ],
+    "view_label": "De vindicta pro nece Christi",
     "prev": {
       "id": "jad_occurence__731",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "dicit Iosephus quod propter mortem eius Ierusalem destructa"
     },
     "next": {
       "id": "jad_occurence__733",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "dicit Iosephus quod propter mortem eius Ierusalem destructa"
     }
   },
   "733": {
     "id": 733,
     "jad_id": "jad_occurence__733",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2603,
+        "value": "dicit Iosephus quod propter mortem eius Ierusalem destructa"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 373,
+        "value": "BSB, Clm 9558"
+      }
+    ],
+    "position_in_ms": "74r-v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00162504?page=154,155",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -23293,26 +23320,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 373,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 9558, f. 74r-v"
+      }
+    ],
+    "view_label": "dicit Iosephus quod propter mortem eius Ierusalem destructa",
     "prev": {
       "id": "jad_occurence__732",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "De vindicta pro nece Christi"
     },
     "next": {
       "id": "jad_occurence__734",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Iherusalem destructa est a romanis"
     }
   },
   "734": {
     "id": 734,
     "jad_id": "jad_occurence__734",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2604,
+        "value": "Iherusalem destructa est a romanis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676"
+      }
+    ],
+    "position_in_ms": "247",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -23322,26 +23367,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 247"
+      }
+    ],
+    "view_label": "Iherusalem destructa est a romanis",
     "prev": {
       "id": "jad_occurence__733",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "dicit Iosephus quod propter mortem eius Ierusalem destructa"
     },
     "next": {
       "id": "jad_occurence__735",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "veniet super vos omnis sanguis iustus qui effusus est super terram"
     }
   },
   "735": {
     "id": 735,
     "jad_id": "jad_occurence__735",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2605,
+        "value": "veniet super vos omnis sanguis iustus qui effusus est super terram"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676"
+      }
+    ],
+    "position_in_ms": "262-263",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -23351,26 +23414,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 262-263"
+      }
+    ],
+    "view_label": "veniet super vos omnis sanguis iustus qui effusus est super terram",
     "prev": {
       "id": "jad_occurence__734",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Iherusalem destructa est a romanis"
     },
     "next": {
       "id": "jad_occurence__736",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "previdens eidem civitatem plagam et ruinam non solum temporalem quae a romanis ventura fuerat super populum illum"
     }
   },
   "736": {
     "id": 736,
     "jad_id": "jad_occurence__736",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2606,
+        "value": "previdens eidem civitatem plagam et ruinam non solum temporalem quae a romanis ventura fuerat super populum illum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676"
+      }
+    ],
+    "position_in_ms": "264",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -23380,26 +23461,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 264"
+      }
+    ],
+    "view_label": "previdens eidem civitatem plagam et ruinam non solum temporalem quae a romanis ventura fuerat super populum illum",
     "prev": {
       "id": "jad_occurence__735",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "veniet super vos omnis sanguis iustus qui effusus est super terram"
     },
     "next": {
       "id": "jad_occurence__737",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "non relinquetur hic lapis super lapidem qui non destruatur"
     }
   },
   "737": {
     "id": 737,
     "jad_id": "jad_occurence__737",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2607,
+        "value": "non relinquetur hic lapis super lapidem qui non destruatur"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676"
+      }
+    ],
+    "position_in_ms": "265",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -23409,16 +23508,1306 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 265"
+      }
+    ],
+    "view_label": "non relinquetur hic lapis super lapidem qui non destruatur",
     "prev": {
       "id": "jad_occurence__736",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "previdens eidem civitatem plagam et ruinam non solum temporalem quae a romanis ventura fuerat super populum illum"
+    },
+    "next": {
+      "id": "jad_occurence__738",
+      "label": "idem desolatio provincie ultimumque urbis ac templum sequatur excidium"
+    }
+  },
+  "738": {
+    "id": 738,
+    "jad_id": "jad_occurence__738",
+    "occurrence": [
+      {
+        "id": 2608,
+        "value": "idem desolatio provincie ultimumque urbis ac templum sequatur excidium"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676"
+      }
+    ],
+    "position_in_ms": "266",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 266"
+      }
+    ],
+    "view_label": "idem desolatio provincie ultimumque urbis ac templum sequatur excidium",
+    "prev": {
+      "id": "jad_occurence__737",
+      "label": "non relinquetur hic lapis super lapidem qui non destruatur"
+    },
+    "next": {
+      "id": "jad_occurence__739",
+      "label": "apostoli omnes multo ante excidium Iude provincie ad predicandum evangelium"
+    }
+  },
+  "739": {
+    "id": 739,
+    "jad_id": "jad_occurence__739",
+    "occurrence": [
+      {
+        "id": 2609,
+        "value": "apostoli omnes multo ante excidium Iude provincie ad predicandum evangelium"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676"
+      }
+    ],
+    "position_in_ms": "267",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 267"
+      }
+    ],
+    "view_label": "apostoli omnes multo ante excidium Iude provincie ad predicandum evangelium",
+    "prev": {
+      "id": "jad_occurence__738",
+      "label": "idem desolatio provincie ultimumque urbis ac templum sequatur excidium"
     },
     "next": {
       "id": "jad_occurence__74",
       "label": "De destructione templi"
+    }
+  },
+  "740": {
+    "id": 740,
+    "jad_id": "jad_occurence__740",
+    "occurrence": [
+      {
+        "id": 2610,
+        "value": "adpropinquantero mano bello exterminio iudaice gentis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676"
+      }
+    ],
+    "position_in_ms": "268",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 268"
+      }
+    ],
+    "view_label": "adpropinquantero mano bello exterminio iudaice gentis",
+    "prev": {
+      "id": "jad_occurence__74",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__741",
+      "label": "ad captivitatem Iudaicam, quae a romanis facta est"
+    }
+  },
+  "741": {
+    "id": 741,
+    "jad_id": "jad_occurence__741",
+    "occurrence": [
+      {
+        "id": 2611,
+        "value": "ad captivitatem Iudaicam, quae a romanis facta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676"
+      }
+    ],
+    "position_in_ms": "269-270",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 269-270"
+      }
+    ],
+    "view_label": "ad captivitatem Iudaicam, quae a romanis facta est",
+    "prev": {
+      "id": "jad_occurence__740",
+      "label": "adpropinquantero mano bello exterminio iudaice gentis"
+    },
+    "next": {
+      "id": "jad_occurence__742",
+      "label": "petrae scisse sunt ut vindicarent duritiam Iudeorum"
+    }
+  },
+  "742": {
+    "id": 742,
+    "jad_id": "jad_occurence__742",
+    "occurrence": [
+      {
+        "id": 2612,
+        "value": "petrae scisse sunt ut vindicarent duritiam Iudeorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676"
+      }
+    ],
+    "position_in_ms": "321",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 321"
+      }
+    ],
+    "view_label": "petrae scisse sunt ut vindicarent duritiam Iudeorum",
+    "prev": {
+      "id": "jad_occurence__741",
+      "label": "ad captivitatem Iudaicam, quae a romanis facta est"
+    },
+    "next": {
+      "id": "jad_occurence__743",
+      "label": "gladius devorabit vos, scilicet romanorum"
+    }
+  },
+  "743": {
+    "id": 743,
+    "jad_id": "jad_occurence__743",
+    "occurrence": [
+      {
+        "id": 2613,
+        "value": "gladius devorabit vos, scilicet romanorum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "5v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0017",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 5v"
+      }
+    ],
+    "view_label": "gladius devorabit vos, scilicet romanorum",
+    "prev": {
+      "id": "jad_occurence__742",
+      "label": "petrae scisse sunt ut vindicarent duritiam Iudeorum"
+    },
+    "next": {
+      "id": "jad_occurence__744",
+      "label": "abductis ceteris ab chaldeis, vel ad eos qui venundati sunt a romanis"
+    }
+  },
+  "744": {
+    "id": 744,
+    "jad_id": "jad_occurence__744",
+    "occurrence": [
+      {
+        "id": 2614,
+        "value": "abductis ceteris ab chaldeis, vel ad eos qui venundati sunt a romanis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "8r",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0022",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 8r"
+      }
+    ],
+    "view_label": "abductis ceteris ab chaldeis, vel ad eos qui venundati sunt a romanis",
+    "prev": {
+      "id": "jad_occurence__743",
+      "label": "gladius devorabit vos, scilicet romanorum"
+    },
+    "next": {
+      "id": "jad_occurence__745",
+      "label": "venerunt romani Ierusalem, et Ierusalem destruxerunt, maiores Iudeos occiderunt"
+    }
+  },
+  "745": {
+    "id": 745,
+    "jad_id": "jad_occurence__745",
+    "occurrence": [
+      {
+        "id": 2617,
+        "value": "venerunt romani Ierusalem, et Ierusalem destruxerunt, maiores Iudeos occiderunt"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 375,
+        "value": "ÖNB, MS 1179"
+      }
+    ],
+    "position_in_ms": "198r",
+    "main_ms": true,
+    "facsimile_position": "https://viewer.onb.ac.at/13229F2B/404",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 375,
+          "database_table_3497": 1
+        },
+        "value": "ÖNB, MS 1179, f. 198r"
+      }
+    ],
+    "view_label": "venerunt romani Ierusalem, et Ierusalem destruxerunt, maiores Iudeos occiderunt",
+    "prev": {
+      "id": "jad_occurence__744",
+      "label": "abductis ceteris ab chaldeis, vel ad eos qui venundati sunt a romanis"
+    },
+    "next": {
+      "id": "jad_occurence__746",
+      "label": "vindictam quam deus exercuit de Iudeis pro morte Iesu"
+    }
+  },
+  "746": {
+    "id": 746,
+    "jad_id": "jad_occurence__746",
+    "occurrence": [
+      {
+        "id": 2618,
+        "value": "vindictam quam deus exercuit de Iudeis pro morte Iesu"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 375,
+        "value": "ÖNB, MS 1179"
+      }
+    ],
+    "position_in_ms": "218r",
+    "main_ms": true,
+    "facsimile_position": "https://viewer.onb.ac.at/13229F2B/444",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 375,
+          "database_table_3497": 1
+        },
+        "value": "ÖNB, MS 1179, f. 218r"
+      }
+    ],
+    "view_label": "vindictam quam deus exercuit de Iudeis pro morte Iesu",
+    "prev": {
+      "id": "jad_occurence__745",
+      "label": "venerunt romani Ierusalem, et Ierusalem destruxerunt, maiores Iudeos occiderunt"
+    },
+    "next": {
+      "id": "jad_occurence__747",
+      "label": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu"
+    }
+  },
+  "747": {
+    "id": 747,
+    "jad_id": "jad_occurence__747",
+    "occurrence": [
+      {
+        "id": 1140,
+        "value": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 376,
+        "value": "BNF, Latin 16506"
+      }
+    ],
+    "position_in_ms": "193v-195r",
+    "main_ms": false,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b90671615/f196.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 376,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 16506, f. 193v-195r"
+      }
+    ],
+    "view_label": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu",
+    "prev": {
+      "id": "jad_occurence__746",
+      "label": "vindictam quam deus exercuit de Iudeis pro morte Iesu"
+    },
+    "next": {
+      "id": "jad_occurence__748",
+      "label": "a vespasiano et thito synagoga Iudeorum absorta est"
+    }
+  },
+  "748": {
+    "id": 748,
+    "jad_id": "jad_occurence__748",
+    "occurrence": [
+      {
+        "id": 2615,
+        "value": "a vespasiano et thito synagoga Iudeorum absorta est"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "8v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0023",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 8v"
+      }
+    ],
+    "view_label": "a vespasiano et thito synagoga Iudeorum absorta est",
+    "prev": {
+      "id": "jad_occurence__747",
+      "label": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu"
+    },
+    "next": {
+      "id": "jad_occurence__749",
+      "label": "quidam hoc referunt ad romanos, syriam et Ierosolimam invadentes"
+    }
+  },
+  "749": {
+    "id": 749,
+    "jad_id": "jad_occurence__749",
+    "occurrence": [
+      {
+        "id": 2616,
+        "value": "quidam hoc referunt ad romanos, syriam et Ierosolimam invadentes"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "10v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0027",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 10v"
+      }
+    ],
+    "view_label": "quidam hoc referunt ad romanos, syriam et Ierosolimam invadentes",
+    "prev": {
+      "id": "jad_occurence__748",
+      "label": "a vespasiano et thito synagoga Iudeorum absorta est"
+    },
+    "next": {
+      "id": "jad_occurence__75",
+      "label": "De destructione templi"
+    }
+  },
+  "750": {
+    "id": 750,
+    "jad_id": "jad_occurence__750",
+    "occurrence": [
+      {
+        "id": 2620,
+        "value": "referendum est ad romanos, et theotonicos"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "30v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0067",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 30v"
+      }
+    ],
+    "view_label": "referendum est ad romanos, et theotonicos",
+    "prev": {
+      "id": "jad_occurence__75",
+      "label": "De destructione templi"
+    },
+    "next": {
+      "id": "jad_occurence__751",
+      "label": "et evangelium clamitat adversus Ierusalem, sub typo ecclesie non relinquitur lapidem super lapidem"
+    }
+  },
+  "751": {
+    "id": 751,
+    "jad_id": "jad_occurence__751",
+    "occurrence": [
+      {
+        "id": 2621,
+        "value": "et evangelium clamitat adversus Ierusalem, sub typo ecclesie non relinquitur lapidem super lapidem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "33r",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0072",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 33r"
+      }
+    ],
+    "view_label": "et evangelium clamitat adversus Ierusalem, sub typo ecclesie non relinquitur lapidem super lapidem",
+    "prev": {
+      "id": "jad_occurence__750",
+      "label": "referendum est ad romanos, et theotonicos"
+    },
+    "next": {
+      "id": "jad_occurence__752",
+      "label": "ad dispersionem Iudaycam per Tytum Vespasianumque referri"
+    }
+  },
+  "752": {
+    "id": 752,
+    "jad_id": "jad_occurence__752",
+    "occurrence": [
+      {
+        "id": 2622,
+        "value": "ad dispersionem Iudaycam per Tytum Vespasianumque referri"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "35v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0077",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 35v"
+      }
+    ],
+    "view_label": "ad dispersionem Iudaycam per Tytum Vespasianumque referri",
+    "prev": {
+      "id": "jad_occurence__751",
+      "label": "et evangelium clamitat adversus Ierusalem, sub typo ecclesie non relinquitur lapidem super lapidem"
+    },
+    "next": {
+      "id": "jad_occurence__753",
+      "label": "videns civitatem flevit super illam"
+    }
+  },
+  "753": {
+    "id": 753,
+    "jad_id": "jad_occurence__753",
+    "occurrence": [
+      {
+        "id": 2624,
+        "value": "videns civitatem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 377,
+        "value": "BSB, Clm 4453"
+      }
+    ],
+    "position_in_ms": "188v",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00161981?page=380,381",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 377,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 4453, f. 188v"
+      }
+    ],
+    "view_label": "videns civitatem flevit super illam",
+    "prev": {
+      "id": "jad_occurence__752",
+      "label": "ad dispersionem Iudaycam per Tytum Vespasianumque referri"
+    },
+    "next": {
+      "id": "jad_occurence__754",
+      "label": "romanum populum intellegere, qui sua feritate non solum obe (?) pertulit, iudaycum populum pro federis dissolutione contrivit"
+    }
+  },
+  "754": {
+    "id": 754,
+    "jad_id": "jad_occurence__754",
+    "occurrence": [
+      {
+        "id": 2623,
+        "value": "romanum populum intellegere, qui sua feritate non solum obe (?) pertulit, iudaycum populum pro federis dissolutione contrivit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "37r",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0080",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 37r"
+      }
+    ],
+    "view_label": "romanum populum intellegere, qui sua feritate non solum obe (?) pertulit, iudaycum populum pro federis dissolutione contrivit",
+    "prev": {
+      "id": "jad_occurence__753",
+      "label": "videns civitatem flevit super illam"
+    },
+    "next": {
+      "id": "jad_occurence__755",
+      "label": "profecto Tytum et Vaspasianum respicit visio prophetalis,  quod eam de terra promissionis evulsam"
+    }
+  },
+  "755": {
+    "id": 755,
+    "jad_id": "jad_occurence__755",
+    "occurrence": [
+      {
+        "id": 2625,
+        "value": "profecto Tytum et Vaspasianum respicit visio prophetalis,  quod eam de terra promissionis evulsam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "38v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0083",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 38v"
+      }
+    ],
+    "view_label": "profecto Tytum et Vaspasianum respicit visio prophetalis,  quod eam de terra promissionis evulsam",
+    "prev": {
+      "id": "jad_occurence__754",
+      "label": "romanum populum intellegere, qui sua feritate non solum obe (?) pertulit, iudaycum populum pro federis dissolutione contrivit"
+    },
+    "next": {
+      "id": "jad_occurence__756",
+      "label": "luctum lamentabilem super tyrum, tamen urbs ipsa primo contrita legitur ab assiriis, deinde a chaldeis, exinde a romanis, et ad ultimum a soldanis"
+    }
+  },
+  "756": {
+    "id": 756,
+    "jad_id": "jad_occurence__756",
+    "occurrence": [
+      {
+        "id": 2626,
+        "value": "luctum lamentabilem super tyrum, tamen urbs ipsa primo contrita legitur ab assiriis, deinde a chaldeis, exinde a romanis, et ad ultimum a soldanis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "40v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0087",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 40v"
+      }
+    ],
+    "view_label": "luctum lamentabilem super tyrum, tamen urbs ipsa primo contrita legitur ab assiriis, deinde a chaldeis, exinde a romanis, et ad ultimum a soldanis",
+    "prev": {
+      "id": "jad_occurence__755",
+      "label": "profecto Tytum et Vaspasianum respicit visio prophetalis,  quod eam de terra promissionis evulsam"
+    },
+    "next": {
+      "id": "jad_occurence__757",
+      "label": "ipsa postmodum vastata est a romanis"
+    }
+  },
+  "757": {
+    "id": 757,
+    "jad_id": "jad_occurence__757",
+    "occurrence": [
+      {
+        "id": 2627,
+        "value": "ipsa postmodum vastata est a romanis"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "44r",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0094",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 44r"
+      }
+    ],
+    "view_label": "ipsa postmodum vastata est a romanis",
+    "prev": {
+      "id": "jad_occurence__756",
+      "label": "luctum lamentabilem super tyrum, tamen urbs ipsa primo contrita legitur ab assiriis, deinde a chaldeis, exinde a romanis, et ad ultimum a soldanis"
+    },
+    "next": {
+      "id": "jad_occurence__758",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "758": {
+    "id": 758,
+    "jad_id": "jad_occurence__758",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__757",
+      "label": "ipsa postmodum vastata est a romanis"
+    },
+    "next": {
+      "id": "jad_occurence__759",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "759": {
+    "id": 759,
+    "jad_id": "jad_occurence__759",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__758",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__76",
+      "label": "ruinam illius qua a principibus romanis complananda erat"
+    }
+  },
+  "760": {
+    "id": 760,
+    "jad_id": "jad_occurence__760",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__76",
+      "label": "ruinam illius qua a principibus romanis complananda erat"
+    },
+    "next": {
+      "id": "jad_occurence__761",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "761": {
+    "id": 761,
+    "jad_id": "jad_occurence__761",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. "
+      }
+    ],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__760",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__762",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "762": {
+    "id": 762,
+    "jad_id": "jad_occurence__762",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__761",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__763",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "763": {
+    "id": 763,
+    "jad_id": "jad_occurence__763",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__762",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__764",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "764": {
+    "id": 764,
+    "jad_id": "jad_occurence__764",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__763",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__765",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "765": {
+    "id": 765,
+    "jad_id": "jad_occurence__765",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__764",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__766",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "766": {
+    "id": 766,
+    "jad_id": "jad_occurence__766",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__765",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__767",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "767": {
+    "id": 767,
+    "jad_id": "jad_occurence__767",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_occurence__766",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_occurence__77",
+      "label": "poena que a romanis principibus imminebat"
     }
   }
 }

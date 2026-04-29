@@ -5732,6 +5732,71 @@
           "id": "jad_work__761",
           "label": "Commenary Isaiah "
         }
+      },
+      {
+        "id": 767,
+        "name": "Bible moralisée ",
+        "jad_id": "jad_work__767",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 375,
+            "value": "ÖNB, MS 1179"
+          }
+        ],
+        "title": "Bible moralisée",
+        "genre": {
+          "id": 23022,
+          "value": "Bible",
+          "color": "deep-dark-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 20,
+            "value": "early 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Bible moralisée ",
+        "prev": {
+          "id": "jad_work__766",
+          "label": "Commentary Isaiah "
+        },
+        "next": {
+          "id": "jad_work__77",
+          "label": "Expositio in Cantica canticorum "
+        }
       }
     ]
   },
@@ -9268,7 +9333,7 @@
         "view_label": "Sermones ",
         "prev": {
           "id": "jad_work__799",
-          "label": " "
+          "label": "Gospel "
         },
         "next": {
           "id": "jad_work__80",
@@ -19366,7 +19431,7 @@
         "view_label": "Expositio in Cantica canticorum ",
         "prev": {
           "id": "jad_work__767",
-          "label": " "
+          "label": "Bible moralisée "
         },
         "next": {
           "id": "jad_work__78",
@@ -19500,7 +19565,7 @@
         },
         "next": {
           "id": "jad_work__799",
-          "label": " "
+          "label": "Gospel "
         }
       },
       {
@@ -40215,7 +40280,7 @@
         },
         "next": {
           "id": "jad_work__765",
-          "label": " "
+          "label": "Passauer Anonymus "
         }
       }
     ]
@@ -53499,6 +53564,76 @@
           "id": "jad_work__75",
           "label": "Chronicon "
         }
+      },
+      {
+        "id": 766,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__766",
+        "author": [
+          {
+            "id": 445,
+            "name": "Joachim of Fiore",
+            "jad_id": "jad_author__445",
+            "gnd_url": "https://d-nb.info/gnd/118557564",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Joachimi, Abbt zu Hor in Calabria | Joachim, de Fiore | Flore, Joachim de | Joachimus, Abbas Cisterciensis | Flore, Joachim von | Joachim, di Fiore | Joachim, de Celico | Joachim, Florensis | Joachimi, Abt zu Hor in Calabria | Ioachimus, Florensis | Ioachim, Abbas Florensis | Pseudo-Joachim, de Flore | Gioacchino, da Fiore | Joachimus, aus Celico | Joachim, of Fiore | Joachimus, de Celico | Joachimus, Abbas | Joachim, le Prophète | Joaquín, de Fiore | Fiore, Gioacchino da | Fiore, Giacomo da | Giacchino, da Fiore | Gioachino, Abbate | Joachim, Abbas | Ps.-Joachim, de Flore | Joachimus de Floris | Joachim, Abt | Joachimus aus Celico | Flores, Juan de | Joachinus, Abbas | Pseudo-Joachim, Florensis | Ps.-Joachim, Florensis | Joachimus, Calaber | Gioachino, da Fiore | Fiore, Joachim von | Joachimus, Magnus Propheta | Joachim, of Flora | Joachin, Abbas | Joachim, de Floris | Joachim, de Flore | Floris, Joachim von | Gioachino, di Fiore | Joachimus, Florensis | Gioachino, Abbas | Ioachim, Abbas | Joachimus, Flor, Abbt | Joachim, von Floris | Joachimus, Abbas Florensis",
+            "date_of_birth": "1130",
+            "date_of_death": "1202",
+            "place": [
+              {
+                "id": 240,
+                "value": "Sicily"
+              }
+            ],
+            "date_birth_certainty": false,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 374,
+            "value": "Vat., Vat.lat.4959"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": false,
+        "date": [
+          {
+            "id": 9,
+            "value": "around 1200"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Isaiah ",
+        "prev": {
+          "id": "jad_work__765",
+          "label": "Passauer Anonymus "
+        },
+        "next": {
+          "id": "jad_work__767",
+          "label": "Bible moralisée "
+        }
       }
     ]
   },
@@ -53512,8 +53647,13 @@
     "alt_name": "Henricus, Jacobita | Henricus I., de Colonia | Heinrich, von Köln | Teuto, Henricus, Senior | Henricus, de Marsberk | Henricus, de Marsberg | Henricus, Iacobita | Henricus, de Colonia | Henri, de Marbourg | Heinrich, von Marsberg | Henricus, de Marburg | Henricus, de Martismonte | Heinrich, Teuto | Henricus, Teutonicus, Senior | Henricus, Coloniensis",
     "date_of_birth": "1190",
     "date_of_death": "1254",
-    "place": [],
-    "date_birth_certainty": true,
+    "place": [
+      {
+        "id": 1,
+        "value": "Paris"
+      }
+    ],
+    "date_birth_certainty": false,
     "date_death_certainty": true,
     "view_label": "Henry of Cologne",
     "prev": {
@@ -53540,8 +53680,13 @@
             "alt_name": "Henricus, Jacobita | Henricus I., de Colonia | Heinrich, von Köln | Teuto, Henricus, Senior | Henricus, de Marsberk | Henricus, de Marsberg | Henricus, Iacobita | Henricus, de Colonia | Henri, de Marbourg | Heinrich, von Marsberg | Henricus, de Marburg | Henricus, de Martismonte | Heinrich, Teuto | Henricus, Teutonicus, Senior | Henricus, Coloniensis",
             "date_of_birth": "1190",
             "date_of_death": "1254",
-            "place": [],
-            "date_birth_certainty": true,
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": false,
             "date_death_certainty": true
           }
         ],
@@ -53600,11 +53745,16 @@
     "notes": "",
     "lebensdaten": "",
     "alt_name": "Robertus, Berlinctone | Robert, le Scribe | Roberto, Bridlingtonensis | Robertus, Scriba | Bredlintona, Robertus de | Robertus, Bridlingtonus | Robert, of Bridlington | Robertus, de Bridlington",
-    "date_of_birth": "",
+    "date_of_birth": "?",
     "date_of_death": "1180",
-    "place": [],
+    "place": [
+      {
+        "id": 124,
+        "value": "York"
+      }
+    ],
     "date_birth_certainty": true,
-    "date_death_certainty": true,
+    "date_death_certainty": false,
     "view_label": "Robert of Bridlington",
     "prev": {
       "id": "jad_author__475",
@@ -53612,7 +53762,7 @@
     },
     "next": {
       "id": "jad_author__477",
-      "label": ""
+      "label": "Passauer Anonymus"
     },
     "related__works": [
       {
@@ -53628,11 +53778,16 @@
             "notes": "",
             "lebensdaten": "",
             "alt_name": "Robertus, Berlinctone | Robert, le Scribe | Roberto, Bridlingtonensis | Robertus, Scriba | Bredlintona, Robertus de | Robertus, Bridlingtonus | Robert, of Bridlington | Robertus, de Bridlington",
-            "date_of_birth": "",
+            "date_of_birth": "?",
             "date_of_death": "1180",
-            "place": [],
+            "place": [
+              {
+                "id": 124,
+                "value": "York"
+              }
+            ],
             "date_birth_certainty": true,
-            "date_death_certainty": true
+            "date_death_certainty": false
           }
         ],
         "manuscripts": [
@@ -53684,51 +53839,207 @@
   },
   "477": {
     "id": 477,
-    "name": "",
+    "name": "Passauer Anonymus",
     "jad_id": "jad_author__477",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/4550095-2",
     "notes": "",
     "lebensdaten": "",
     "alt_name": "",
     "date_of_birth": "",
     "date_of_death": "",
-    "place": [],
+    "place": [
+      {
+        "id": 139,
+        "value": "Passau"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "",
+    "view_label": "Passauer Anonymus",
     "prev": {
       "id": "jad_author__476",
       "label": "Robert of Bridlington"
     },
     "next": {
       "id": "jad_author__478",
-      "label": ""
+      "label": "Otto III, emperor"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 765,
+        "name": "Passauer Anonymus ",
+        "jad_id": "jad_work__765",
+        "author": [
+          {
+            "id": 477,
+            "name": "Passauer Anonymus",
+            "jad_id": "jad_author__477",
+            "gnd_url": "https://d-nb.info/gnd/4550095-2",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": [
+              {
+                "id": 139,
+                "value": "Passau"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 372,
+            "value": "BSB, Clm 311"
+          },
+          {
+            "id": 373,
+            "value": "BSB, Clm 9558"
+          }
+        ],
+        "title": "Passauer Anonymus",
+        "genre": {
+          "id": 14728,
+          "value": "Anti-Jewish treatise",
+          "color": "darker-purple"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Passauer Anonymus ",
+        "prev": {
+          "id": "jad_work__764",
+          "label": "Commentary Matthew "
+        },
+        "next": {
+          "id": "jad_work__766",
+          "label": "Commentary Isaiah "
+        }
+      }
+    ]
   },
   "478": {
     "id": 478,
-    "name": "",
+    "name": "Otto III, emperor",
     "jad_id": "jad_author__478",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118590766",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "alt_name": "Otton III, Emperor of the Roman-German Empire | Otton III, Kaiser des Römisch-deutschen Reiches | Otto III, Empereur de l'Empire Romain-Germanique | Otto III, Imperator, Germania | Otho III, Emperor, Germany | Otho III., Germany, Emperor | Otton III, Empereur de l'Empire Romain-Germanique | Otto III., Germania, Imperator | Otton, la Merveille du Monde | Otto III, Kaiser des Römisch-deutschen Reiches | Otto III, Kaiser des Römisch-Deutschen Reichs | Otto III, Emperor of the Roman-German Empire",
+    "date_of_birth": "0980",
+    "date_of_death": "1002",
+    "place": [
+      {
+        "id": 39,
+        "value": "Aachen"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "",
+    "view_label": "Otto III, emperor",
     "prev": {
       "id": "jad_author__477",
-      "label": ""
+      "label": "Passauer Anonymus"
     },
     "next": {
       "id": "jad_author__479",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 799,
+        "name": "Gospel ",
+        "jad_id": "jad_work__799",
+        "author": [
+          {
+            "id": 478,
+            "name": "Otto III, emperor",
+            "jad_id": "jad_author__478",
+            "gnd_url": "https://d-nb.info/gnd/118590766",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Otton III, Emperor of the Roman-German Empire | Otton III, Kaiser des Römisch-deutschen Reiches | Otto III, Empereur de l'Empire Romain-Germanique | Otto III, Imperator, Germania | Otho III, Emperor, Germany | Otho III., Germany, Emperor | Otton III, Empereur de l'Empire Romain-Germanique | Otto III., Germania, Imperator | Otton, la Merveille du Monde | Otto III, Kaiser des Römisch-deutschen Reiches | Otto III, Kaiser des Römisch-Deutschen Reichs | Otto III, Emperor of the Roman-German Empire",
+            "date_of_birth": "0980",
+            "date_of_death": "1002",
+            "place": [
+              {
+                "id": 39,
+                "value": "Aachen"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 377,
+            "value": "BSB, Clm 4453"
+          }
+        ],
+        "title": "Gospel",
+        "genre": {
+          "id": 23022,
+          "value": "Bible",
+          "color": "deep-dark-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 18,
+            "value": "around 1000"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": false,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Gospel ",
+        "prev": {
+          "id": "jad_work__79",
+          "label": "De scriptoribus ecclesiasticis "
+        },
+        "next": {
+          "id": "jad_work__8",
+          "label": "Sermones "
+        }
+      }
+    ]
   },
   "479": {
     "id": 479,
@@ -53746,7 +54057,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__478",
-      "label": ""
+      "label": "Otto III, emperor"
     },
     "next": {
       "id": "jad_author__48",

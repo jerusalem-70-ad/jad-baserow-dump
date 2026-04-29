@@ -20155,7 +20155,13 @@
     "id": 728,
     "order": "486.00000000000000000000",
     "jad_id": "jad_occurence__728",
-    "occurrence": [],
+    "occurrence": [
+      {
+        "id": 2600,
+        "value": "hec passos non esse romanos qui Ierusalem subverterunt",
+        "order": "2268.00000000000000000000"
+      }
+    ],
     "manuscript": [
       {
         "id": 370,
@@ -20163,7 +20169,7 @@
         "order": "223.00000000000000000000"
       }
     ],
-    "position_in_ms": "",
+    "position_in_ms": "159r",
     "main_ms": true,
     "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
     "created_by": {
@@ -20175,49 +20181,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-23",
+    "last_modified_on": "2026-04-24",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 370,
           "database_table_3497": 9
         },
-        "value": "Troyes, MS 224, f. "
-      }
-    ]
-  },
-  "729": {
-    "id": 729,
-    "order": "487.00000000000000000000",
-    "jad_id": "jad_occurence__729",
-    "occurrence": [],
-    "manuscript": [
-      {
-        "id": 370,
-        "value": "Troyes, MS 224",
-        "order": "223.00000000000000000000"
-      }
-    ],
-    "position_in_ms": "",
-    "main_ms": true,
-    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=*#recordId=2.548",
-    "created_by": {
-      "id": 85,
-      "name": "amarx"
-    },
-    "created_on": "2026-04-22",
-    "last_modified_by": {
-      "id": 85,
-      "name": "amarx"
-    },
-    "last_modified_on": "2026-04-23",
-    "ms_locus": [
-      {
-        "ids": {
-          "database_table_3496": 370,
-          "database_table_3497": 9
-        },
-        "value": "Troyes, MS 224, f. "
+        "value": "Troyes, MS 224, f. 159r"
       }
     ]
   },
@@ -20225,11 +20196,23 @@
     "id": 730,
     "order": "488.00000000000000000000",
     "jad_id": "jad_occurence__730",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2602,
+        "value": "De vindicta pro nece Christi",
+        "order": "2270.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 372,
+        "value": "BSB, Clm 311",
+        "order": "225.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "56r-v",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00039848?page=114,115",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20239,18 +20222,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": []
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 372,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 311, f. 56r-v"
+      }
+    ]
   },
   "731": {
     "id": 731,
     "order": "489.00000000000000000000",
     "jad_id": "jad_occurence__731",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2603,
+        "value": "dicit Iosephus quod propter mortem eius Ierusalem destructa",
+        "order": "2271.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 372,
+        "value": "BSB, Clm 311",
+        "order": "225.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "56v",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00039848?page=116,117",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20260,18 +20263,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": []
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 372,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 311, f. 56v"
+      }
+    ]
   },
   "732": {
     "id": 732,
     "order": "490.00000000000000000000",
     "jad_id": "jad_occurence__732",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2602,
+        "value": "De vindicta pro nece Christi",
+        "order": "2270.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 373,
+        "value": "BSB, Clm 9558",
+        "order": "226.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "73v-74r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00162504?page=152,153",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20281,18 +20304,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": []
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 373,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 9558, f. 73v-74r"
+      }
+    ]
   },
   "733": {
     "id": 733,
     "order": "491.00000000000000000000",
     "jad_id": "jad_occurence__733",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2603,
+        "value": "dicit Iosephus quod propter mortem eius Ierusalem destructa",
+        "order": "2271.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 373,
+        "value": "BSB, Clm 9558",
+        "order": "226.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "74r-v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00162504?page=154,155",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20302,18 +20345,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": []
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 373,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 9558, f. 74r-v"
+      }
+    ]
   },
   "734": {
     "id": 734,
     "order": "492.00000000000000000000",
     "jad_id": "jad_occurence__734",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2604,
+        "value": "Iherusalem destructa est a romanis",
+        "order": "2272.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "247",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20323,18 +20386,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": []
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 247"
+      }
+    ]
   },
   "735": {
     "id": 735,
     "order": "493.00000000000000000000",
     "jad_id": "jad_occurence__735",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2605,
+        "value": "veniet super vos omnis sanguis iustus qui effusus est super terram",
+        "order": "2273.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "262-263",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20344,18 +20427,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": []
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 262-263"
+      }
+    ]
   },
   "736": {
     "id": 736,
     "order": "494.00000000000000000000",
     "jad_id": "jad_occurence__736",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2606,
+        "value": "previdens eidem civitatem plagam et ruinam non solum temporalem quae a romanis ventura fuerat super populum illum",
+        "order": "2274.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "264",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20365,18 +20468,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
-    "ms_locus": []
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 264"
+      }
+    ]
   },
   "737": {
     "id": 737,
     "order": "495.00000000000000000000",
     "jad_id": "jad_occurence__737",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 2607,
+        "value": "non relinquetur hic lapis super lapidem qui non destruatur",
+        "order": "2275.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "265",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -20386,7 +20509,1101 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-22",
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 265"
+      }
+    ]
+  },
+  "738": {
+    "id": 738,
+    "order": "496.00000000000000000000",
+    "jad_id": "jad_occurence__738",
+    "occurrence": [
+      {
+        "id": 2608,
+        "value": "idem desolatio provincie ultimumque urbis ac templum sequatur excidium",
+        "order": "2276.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "266",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 266"
+      }
+    ]
+  },
+  "739": {
+    "id": 739,
+    "order": "497.00000000000000000000",
+    "jad_id": "jad_occurence__739",
+    "occurrence": [
+      {
+        "id": 2609,
+        "value": "apostoli omnes multo ante excidium Iude provincie ad predicandum evangelium",
+        "order": "2277.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "267",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 267"
+      }
+    ]
+  },
+  "740": {
+    "id": 740,
+    "order": "498.00000000000000000000",
+    "jad_id": "jad_occurence__740",
+    "occurrence": [
+      {
+        "id": 2610,
+        "value": "adpropinquantero mano bello exterminio iudaice gentis",
+        "order": "2278.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "268",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 268"
+      }
+    ]
+  },
+  "741": {
+    "id": 741,
+    "order": "499.00000000000000000000",
+    "jad_id": "jad_occurence__741",
+    "occurrence": [
+      {
+        "id": 2611,
+        "value": "ad captivitatem Iudaicam, quae a romanis facta est",
+        "order": "2279.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "269-270",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 269-270"
+      }
+    ]
+  },
+  "742": {
+    "id": 742,
+    "order": "500.00000000000000000000",
+    "jad_id": "jad_occurence__742",
+    "occurrence": [
+      {
+        "id": 2612,
+        "value": "petrae scisse sunt ut vindicarent duritiam Iudeorum",
+        "order": "2280.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 203,
+        "value": "Troyes, MS 676",
+        "order": "171.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "321",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.2594",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-24",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 203,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 676, f. 321"
+      }
+    ]
+  },
+  "743": {
+    "id": 743,
+    "order": "501.00000000000000000000",
+    "jad_id": "jad_occurence__743",
+    "occurrence": [
+      {
+        "id": 2613,
+        "value": "gladius devorabit vos, scilicet romanorum",
+        "order": "2281.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "5v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0017",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 5v"
+      }
+    ]
+  },
+  "744": {
+    "id": 744,
+    "order": "502.00000000000000000000",
+    "jad_id": "jad_occurence__744",
+    "occurrence": [
+      {
+        "id": 2614,
+        "value": "abductis ceteris ab chaldeis, vel ad eos qui venundati sunt a romanis",
+        "order": "2282.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "8r",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0022",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-27",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 8r"
+      }
+    ]
+  },
+  "745": {
+    "id": 745,
+    "order": "503.00000000000000000000",
+    "jad_id": "jad_occurence__745",
+    "occurrence": [
+      {
+        "id": 2617,
+        "value": "venerunt romani Ierusalem, et Ierusalem destruxerunt, maiores Iudeos occiderunt",
+        "order": "2285.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 375,
+        "value": "ÖNB, MS 1179",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "198r",
+    "main_ms": true,
+    "facsimile_position": "https://viewer.onb.ac.at/13229F2B/404",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 375,
+          "database_table_3497": 1
+        },
+        "value": "ÖNB, MS 1179, f. 198r"
+      }
+    ]
+  },
+  "746": {
+    "id": 746,
+    "order": "504.00000000000000000000",
+    "jad_id": "jad_occurence__746",
+    "occurrence": [
+      {
+        "id": 2618,
+        "value": "vindictam quam deus exercuit de Iudeis pro morte Iesu",
+        "order": "2286.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 375,
+        "value": "ÖNB, MS 1179",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "218r",
+    "main_ms": true,
+    "facsimile_position": "https://viewer.onb.ac.at/13229F2B/444",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 375,
+          "database_table_3497": 1
+        },
+        "value": "ÖNB, MS 1179, f. 218r"
+      }
+    ]
+  },
+  "747": {
+    "id": 747,
+    "order": "505.00000000000000000000",
+    "jad_id": "jad_occurence__747",
+    "occurrence": [
+      {
+        "id": 1140,
+        "value": "statim porte aperte sunt civitatis, et ingressus titus cum omni exercitu",
+        "order": "1077.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 376,
+        "value": "BNF, Latin 16506",
+        "order": "229.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "193v-195r",
+    "main_ms": false,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b90671615/f196.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-24",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 376,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 16506, f. 193v-195r"
+      }
+    ]
+  },
+  "748": {
+    "id": 748,
+    "order": "506.00000000000000000000",
+    "jad_id": "jad_occurence__748",
+    "occurrence": [
+      {
+        "id": 2615,
+        "value": "a vespasiano et thito synagoga Iudeorum absorta est",
+        "order": "2283.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "8v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0023",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 8v"
+      }
+    ]
+  },
+  "749": {
+    "id": 749,
+    "order": "507.00000000000000000000",
+    "jad_id": "jad_occurence__749",
+    "occurrence": [
+      {
+        "id": 2616,
+        "value": "quidam hoc referunt ad romanos, syriam et Ierosolimam invadentes",
+        "order": "2284.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "10v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0027",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 10v"
+      }
+    ]
+  },
+  "750": {
+    "id": 750,
+    "order": "508.00000000000000000000",
+    "jad_id": "jad_occurence__750",
+    "occurrence": [
+      {
+        "id": 2620,
+        "value": "referendum est ad romanos, et theotonicos",
+        "order": "2288.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "30v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0067",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 30v"
+      }
+    ]
+  },
+  "751": {
+    "id": 751,
+    "order": "509.00000000000000000000",
+    "jad_id": "jad_occurence__751",
+    "occurrence": [
+      {
+        "id": 2621,
+        "value": "et evangelium clamitat adversus Ierusalem, sub typo ecclesie non relinquitur lapidem super lapidem",
+        "order": "2289.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "33r",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0072",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 33r"
+      }
+    ]
+  },
+  "752": {
+    "id": 752,
+    "order": "510.00000000000000000000",
+    "jad_id": "jad_occurence__752",
+    "occurrence": [
+      {
+        "id": 2622,
+        "value": "ad dispersionem Iudaycam per Tytum Vespasianumque referri",
+        "order": "2290.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "35v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0077",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 35v"
+      }
+    ]
+  },
+  "753": {
+    "id": 753,
+    "order": "511.00000000000000000000",
+    "jad_id": "jad_occurence__753",
+    "occurrence": [
+      {
+        "id": 2624,
+        "value": "videns civitatem flevit super illam",
+        "order": "2292.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 377,
+        "value": "BSB, Clm 4453",
+        "order": "230.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "188v",
+    "main_ms": true,
+    "facsimile_position": "https://www.digitale-sammlungen.de/de/view/bsb00161981?page=380,381",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 377,
+          "database_table_3497": 12
+        },
+        "value": "BSB, Clm 4453, f. 188v"
+      }
+    ]
+  },
+  "754": {
+    "id": 754,
+    "order": "512.00000000000000000000",
+    "jad_id": "jad_occurence__754",
+    "occurrence": [
+      {
+        "id": 2623,
+        "value": "romanum populum intellegere, qui sua feritate non solum obe (?) pertulit, iudaycum populum pro federis dissolutione contrivit",
+        "order": "2291.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "37r",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0080",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 37r"
+      }
+    ]
+  },
+  "755": {
+    "id": 755,
+    "order": "513.00000000000000000000",
+    "jad_id": "jad_occurence__755",
+    "occurrence": [
+      {
+        "id": 2625,
+        "value": "profecto Tytum et Vaspasianum respicit visio prophetalis,  quod eam de terra promissionis evulsam",
+        "order": "2293.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "38v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0083",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 38v"
+      }
+    ]
+  },
+  "756": {
+    "id": 756,
+    "order": "514.00000000000000000000",
+    "jad_id": "jad_occurence__756",
+    "occurrence": [
+      {
+        "id": 2626,
+        "value": "luctum lamentabilem super tyrum, tamen urbs ipsa primo contrita legitur ab assiriis, deinde a chaldeis, exinde a romanis, et ad ultimum a soldanis",
+        "order": "2294.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "40v",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0087",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 40v"
+      }
+    ]
+  },
+  "757": {
+    "id": 757,
+    "order": "515.00000000000000000000",
+    "jad_id": "jad_occurence__757",
+    "occurrence": [
+      {
+        "id": 2627,
+        "value": "ipsa postmodum vastata est a romanis",
+        "order": "2295.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "44r",
+    "main_ms": true,
+    "facsimile_position": "https://digi.vatlib.it/view/MSS_Vat.lat.4959/0094",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. 44r"
+      }
+    ]
+  },
+  "758": {
+    "id": 758,
+    "order": "516.00000000000000000000",
+    "jad_id": "jad_occurence__758",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. "
+      }
+    ]
+  },
+  "759": {
+    "id": 759,
+    "order": "517.00000000000000000000",
+    "jad_id": "jad_occurence__759",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. "
+      }
+    ]
+  },
+  "760": {
+    "id": 760,
+    "order": "518.00000000000000000000",
+    "jad_id": "jad_occurence__760",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. "
+      }
+    ]
+  },
+  "761": {
+    "id": 761,
+    "order": "519.00000000000000000000",
+    "jad_id": "jad_occurence__761",
+    "occurrence": [],
+    "manuscript": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 374,
+          "database_table_3497": 38
+        },
+        "value": "Vat., Vat.lat.4959, f. "
+      }
+    ]
+  },
+  "762": {
+    "id": 762,
+    "order": "520.00000000000000000000",
+    "jad_id": "jad_occurence__762",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": []
+  },
+  "763": {
+    "id": 763,
+    "order": "521.00000000000000000000",
+    "jad_id": "jad_occurence__763",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": []
+  },
+  "764": {
+    "id": 764,
+    "order": "522.00000000000000000000",
+    "jad_id": "jad_occurence__764",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": []
+  },
+  "765": {
+    "id": 765,
+    "order": "523.00000000000000000000",
+    "jad_id": "jad_occurence__765",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": []
+  },
+  "766": {
+    "id": 766,
+    "order": "524.00000000000000000000",
+    "jad_id": "jad_occurence__766",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
+    "ms_locus": []
+  },
+  "767": {
+    "id": 767,
+    "order": "525.00000000000000000000",
+    "jad_id": "jad_occurence__767",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-04-28",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-04-28",
     "ms_locus": []
   }
 }

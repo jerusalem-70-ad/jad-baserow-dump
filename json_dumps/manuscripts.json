@@ -8348,86 +8348,218 @@
   "372": {
     "id": 372,
     "order": "225.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 311"
+      }
+    ],
     "jad_id": "jad_manuscript__372",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "idno": "Clm 311",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991013528449707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%20311&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00039848?page=2,3",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ]
   },
   "373": {
     "id": 373,
     "order": "226.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 9558"
+      }
+    ],
     "jad_id": "jad_manuscript__373",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "idno": "Clm 9558",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991037774789707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%209558&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00162504?page=,1",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 70,
+        "value": "around 1400",
+        "order": "69.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ]
   },
   "374": {
     "id": 374,
     "order": "227.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 38,
+        "value": "Vat., Vat.lat.4959"
+      }
+    ],
     "jad_id": "jad_manuscript__374",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 38,
+        "value": "Vat.",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "idno": "Vat.lat.4959",
+    "catalog_url": "https://opac.vatlib.it/mss/detail/Vat.lat.4959",
+    "digi_url": "https://digi.vatlib.it/view/MSS_Vat.lat.4959",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 38,
+        "value": "Biblioteca Apostolica Vaticana"
+      }
+    ]
   },
   "375": {
     "id": 375,
     "order": "228.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 1,
+        "value": "ÖNB, MS 1179"
+      }
+    ],
     "jad_id": "jad_manuscript__375",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 1,
+        "value": "ÖNB",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "idno": "MS 1179",
+    "catalog_url": "https://search.onb.ac.at/primo-explore/fulldisplay?docid=ONB_alma21302404680003338&context=L&vid=ONB&lang=de_DE&search_scope=ONB_gesamtbestand&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,cod.%201179&mode=basic&offset=50",
+    "digi_url": "https://viewer.onb.ac.at/13229F2B",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 1,
+        "value": "Österreichische Nationalbibliothek"
+      }
+    ]
   },
   "376": {
     "id": 376,
     "order": "229.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 16506"
+      }
+    ],
     "jad_id": "jad_manuscript__376",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "Latin 16506",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc769391",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b90671615/f196.item.zoom",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen.",
+        "order": "41.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
   },
   "377": {
     "id": 377,
     "order": "230.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 12,
+        "value": "BSB, Clm 4453"
+      }
+    ],
     "jad_id": "jad_manuscript__377",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 12,
+        "value": "BSB",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "idno": "Clm 4453",
+    "catalog_url": "https://opacplus.bsb-muenchen.de/discovery/fulldisplay?docid=alma991029081979707356&context=L&vid=49BVB_BSB:VU1&lang=de&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clm%204453&offset=0",
+    "digi_url": "https://www.digitale-sammlungen.de/de/view/bsb00161981?page=380,381",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 18,
+        "value": "around 1000",
+        "order": "18.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 12,
+        "value": "Bayrische Staatsbibliothek"
+      }
+    ]
   },
   "378": {
     "id": 378,

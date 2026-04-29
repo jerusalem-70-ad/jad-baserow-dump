@@ -29662,20 +29662,53 @@
   "765": {
     "id": 765,
     "order": "644.00000000000000000000",
-    "name": " ",
+    "name": "Passauer Anonymus ",
     "jad_id": "jad_work__765",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 477,
+        "value": "Passauer Anonymus",
+        "order": "294.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 372,
+        "value": "BSB, Clm 311",
+        "order": "225.00000000000000000000"
+      },
+      {
+        "id": 373,
+        "value": "BSB, Clm 9558",
+        "order": "226.00000000000000000000"
+      }
+    ],
+    "title": "Passauer Anonymus",
+    "genre": {
+      "id": 14728,
+      "value": "Anti-Jewish treatise",
+      "color": "darker-purple"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -29683,18 +29716,46 @@
   "766": {
     "id": 766,
     "order": "645.00000000000000000000",
-    "name": " ",
+    "name": "Commentary Isaiah ",
     "jad_id": "jad_work__766",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 445,
+        "value": "Joachim of Fiore",
+        "order": "291.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 374,
+        "value": "Vat., Vat.lat.4959",
+        "order": "227.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Isaiah",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 9,
+        "value": "around 1200",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": false,
     "incipit": "",
@@ -29704,20 +29765,48 @@
   "767": {
     "id": 767,
     "order": "646.00000000000000000000",
-    "name": " ",
+    "name": "Bible moralisée ",
     "jad_id": "jad_work__767",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 375,
+        "value": "ÖNB, MS 1179",
+        "order": "228.00000000000000000000"
+      }
+    ],
+    "title": "Bible moralisée",
+    "genre": {
+      "id": 23022,
+      "value": "Bible",
+      "color": "deep-dark-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -29725,18 +29814,46 @@
   "799": {
     "id": 799,
     "order": "647.00000000000000000000",
-    "name": " ",
+    "name": "Gospel ",
     "jad_id": "jad_work__799",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 478,
+        "value": "Otto III, emperor",
+        "order": "295.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 377,
+        "value": "BSB, Clm 4453",
+        "order": "230.00000000000000000000"
+      }
+    ],
+    "title": "Gospel",
+    "genre": {
+      "id": 23022,
+      "value": "Bible",
+      "color": "deep-dark-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 18,
+        "value": "around 1000",
+        "order": "18.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": false,
     "incipit": "",
