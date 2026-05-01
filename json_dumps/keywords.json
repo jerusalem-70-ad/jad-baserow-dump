@@ -3,7 +3,7 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "name": "Crusading",
-    "short_description": "An occurrence appearing either in a crusade-specific source, or in a text by an author of whom we know that he was active in the crusades, or a text that can otherwise be related to this phenomenon.",
+    "short_description": "The passage formulates a crusade-specific argument (such as a call to travel to Jerusalem), or it stems from a crusade-specific source, or from a text by an author of whom we know that he was active in the crusades, or from a text that can otherwise be related to this historical phenomenon.",
     "jad_id": "jad_keyword__1",
     "part_of": []
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "order": "2.00000000000000000000",
     "name": "Third Crusade (1187-1192)",
-    "short_description": "",
+    "short_description": "The passage belongs not only to this temporal context, but either the specific argument formulated or the activities of the author can be related to the Third Crusade.",
     "jad_id": "jad_keyword__2",
     "part_of": [
       {
@@ -25,7 +25,7 @@
     "id": 3,
     "order": "3.00000000000000000000",
     "name": "Anti-Judaism",
-    "short_description": "The text formulates explicitely an anti-Jewish argument, for example, that they were the killers of Christ.",
+    "short_description": "The passage explicitely formulates an anti-Jewish argument, for example, that they were the killers of Christ.",
     "jad_id": "jad_keyword__3",
     "part_of": []
   },
@@ -33,7 +33,7 @@
     "id": 5,
     "order": "5.00000000000000000000",
     "name": "Preaching",
-    "short_description": "The Roman conquest occurs in a sermon or in other preaching material (such as Distinctiones), or alternatively, it is placed alongside a discussion of preaching (e.g., in a biblical commentary).",
+    "short_description": "The Roman conquest occurs in a sermon or in other preaching material (such as a collection of Distinctiones), or alternatively, it is placed alongside a discussion of preaching (e.g., in a biblical commentary).",
     "jad_id": "jad_keyword__5",
     "part_of": []
   },
@@ -77,7 +77,7 @@
     "id": 9,
     "order": "9.00000000000000000000",
     "name": "First Crusade (1095-1099)",
-    "short_description": "",
+    "short_description": "The passage belongs not only to this temporal context, but either the specific argument formulated or the activities of the author can be related to the First Crusade.",
     "jad_id": "jad_keyword__9",
     "part_of": [
       {
@@ -91,7 +91,7 @@
     "id": 10,
     "order": "10.00000000000000000000",
     "name": "Typology",
-    "short_description": "A typological connection between the Roman conquest and another event or often specifically conquest of the city is established. In many cases, Old Testament prophecies are asserted as having been fulfilled in the Roman conquest.",
+    "short_description": "A typological connection between the Roman conquest and another event, often specifically another conquest of the holy city, is established. In many cases, Old Testament prophecies are asserted as having been fulfilled in the Roman conquest.",
     "jad_id": "jad_keyword__10",
     "part_of": []
   },
@@ -99,7 +99,7 @@
     "id": 11,
     "order": "11.00000000000000000000",
     "name": "Babylonian conquest of Jerusalem (587 BC)",
-    "short_description": "",
+    "short_description": "The Babylonian conquest in 587 BC, commanded by king Nebukadnezar, appears alongside the Roman conquest. This often expresses a typological connection between the two. The Babylonian conquest entailed the destruction of the First Temple as well as the 70-year exile of the Jewish people.",
     "jad_id": "jad_keyword__11",
     "part_of": [
       {
@@ -113,7 +113,7 @@
     "id": 12,
     "order": "12.00000000000000000000",
     "name": "Christ cleansing Temple",
-    "short_description": "",
+    "short_description": "The story of Christ expelling the moneylenders from the Temple appears alongside the Roman conquest; it forms another typical episode for tackling the just punishment of Jews. Entangling the Roman conquest and the Temple's cleansing is already established in the Gospel narratives.",
     "jad_id": "jad_keyword__12",
     "part_of": [
       {
@@ -143,7 +143,7 @@
     "id": 15,
     "order": "15.00000000000000000000",
     "name": "Vengeance",
-    "short_description": "The conquest is presented as an act of vengeance on the Jews for the crucifxion of Christ.",
+    "short_description": "The conquest is presented as an act of vengeance on the Jews for the crucifxion of Christ, usually depicting the figures of Titus and Vespasian as the avengers (though sometimes including the remark that they were not aware of their providential role).",
     "jad_id": "jad_keyword__15",
     "part_of": []
   },
@@ -151,7 +151,7 @@
     "id": 16,
     "order": "16.00000000000000000000",
     "name": "Concurrence Easter",
-    "short_description": "The text claims that the conquest happened on Easter, in order to mirror Christ's crucifixion, though it actually happened in the summer of 70 CE (as one can read in Flavius Josephus).",
+    "short_description": "The passage claims that the conquest happened on Easter, in order to mirror Christ's crucifixion, though it actually happened in the summer of 70 CE (as one can read in Flavius Josephus). Yet, it seems to be indeed historical that the siege started around the feat of Jewish Passover.",
     "jad_id": "jad_keyword__16",
     "part_of": []
   },
@@ -159,7 +159,7 @@
     "id": 17,
     "order": "17.00000000000000000000",
     "name": "Eschatological conversion Jews",
-    "short_description": "The text relates the Roman conquest to the idea that (some) Jews would convert in the End of Time.",
+    "short_description": "The passage relates the Roman conquest to the idea that (some) Jews would convert in the End of Time, thus nuancing an entirely anti-Jewish attitude (as inherent in the episode of the Roman conquest).",
     "jad_id": "jad_keyword__17",
     "part_of": [
       {
@@ -172,8 +172,8 @@
   "18": {
     "id": 18,
     "order": "18.00000000000000000000",
-    "name": "Greek conquest of Jerusalem (168 BCE)",
-    "short_description": "",
+    "name": "Greek conquest of Jerusalem (168 BC)",
+    "short_description": "The conquest of Jerusalem under Antiochus IV Epiphanes in 168 BC appears alongside the Roman conquest. This can include the role-model of the Maccabees who acted in the context of this conquest. The is often accompanied by discussions of pollution and idol worship, since the Greeks erected pagan idols in the Jewish Temple.",
     "jad_id": "jad_keyword__18",
     "part_of": [
       {
@@ -223,7 +223,7 @@
     "id": 22,
     "order": "22.00000000000000000000",
     "name": "Heresy",
-    "short_description": "The Roman conquest is entangled with discussions of heretics",
+    "short_description": "The Roman conquest is entangled with a discussion about heretics, a notable entanglement - given that it has no basis in the actual events, including Flavius Josephus's report about them.",
     "jad_id": "jad_keyword__22",
     "part_of": []
   },
@@ -253,7 +253,7 @@
     "id": 25,
     "order": "25.00000000000000000000",
     "name": "Idol worshop, paganism",
-    "short_description": "The Roman conquest is entangled with discussions of paganism and idolatry: this could refer to a variety of groups and stories, including, e.g., the Romans themselves, several Old Testament references, or the Muslims who were mostly understood as pagans.",
+    "short_description": "The Roman conquest is entangled with discussions of paganism and idolatry: this could refer to a variety of groups and stories, including, e.g., the Romans themselves, several Old Testament references, or the Muslims who were mostly understood as pagans in the medieval period.",
     "jad_id": "jad_keyword__25",
     "part_of": []
   },
@@ -275,7 +275,7 @@
     "id": 27,
     "order": "27.00000000000000000000",
     "name": "Spiritual exegesis",
-    "short_description": "The focus is on a spiritual exegesis, whereas the historical dimensions of the conquest are only present in passing, if at all.",
+    "short_description": "The passage's focus is on a spiritual exegesis, whereas the historical dimensions of the conquest are only present in passing, if at all. This is most notable in the case of sermons on the Tenth Sunday after Holy Trinity, since it was actually devoted to the historical event.",
     "jad_id": "jad_keyword__27",
     "part_of": []
   },
@@ -283,7 +283,7 @@
     "id": 29,
     "order": "29.00000000000000000000",
     "name": "40-43 years of penance",
-    "short_description": "The period between Christ's death and the Roman conquest is explained as a period of potential penance that God granted the Jews, an opportunity which they did not seize. Dating varies between 40 and 43 years after the Passion, but mostly it is 42 years, a number deriving from a story in 4 Reg. 2,23-24, which often aligned with the Roman conquest in numerous texts.",
+    "short_description": "The period between Christ's death and the Roman conquest is explained as a period of potential penance that God had granted to the Jews, an opportunity which they did not seize. The dating varies mostly between 40 and 43 years after the Passion, but 42 years is most common, a number deriving from a story in 4 Reg. 2,23-24, which was aligned with the Roman conquest in numerous texts.",
     "jad_id": "jad_keyword__29",
     "part_of": []
   },
@@ -291,7 +291,7 @@
     "id": 30,
     "order": "30.00000000000000000000",
     "name": "Vision of violence or extinction",
-    "short_description": "The text formulates an explicit vision of annihilating a particular group",
+    "short_description": "The passage describes the violent aspects of the Roman conquest, broaching various kinds of destructions and bloodshed (a feature already prominent in Flavius Josephus's account); or it even formulates an explicit vision of annihilating a particular group, mostly with reference to the Jews, but this could have been extended to other groups as well.",
     "jad_id": "jad_keyword__30",
     "part_of": []
   },
@@ -299,7 +299,7 @@
     "id": 31,
     "order": "31.00000000000000000000",
     "name": "Discussions Roman Empire",
-    "short_description": "The texts elaborates on the historical context of the Roman Empire beyond the Roman conquest",
+    "short_description": "The passage elaborates on the historical context of the Roman Empire beyond the Roman conquest itself, for example, talking  about emperor Nero (who first sent Vespasian as a general to Jerusalem), or about how Pompeius first integrated Palestine into the Roman Empire.",
     "jad_id": "jad_keyword__31",
     "part_of": []
   },
@@ -307,7 +307,7 @@
     "id": 32,
     "order": "32.00000000000000000000",
     "name": "Christian emperors",
-    "short_description": "The text claims that Titus and/or Vespasian were already Christian, partly depicting their baptism as a prelude to the conquest",
+    "short_description": "The passage claims that Titus and/or Vespasian were already Christian, partly depicting their baptism as a prelude to the conquest.",
     "jad_id": "jad_keyword__32",
     "part_of": []
   },
@@ -315,7 +315,7 @@
     "id": 33,
     "order": "33.00000000000000000000",
     "name": "Prolonged siege",
-    "short_description": "The text claims that the Roman siege lasted for several years",
+    "short_description": "The passage claims that the Roman siege lasted for several years, even though it actually only took a few months - a noteworthy ahistorical detail.",
     "jad_id": "jad_keyword__33",
     "part_of": []
   },
@@ -347,7 +347,7 @@
     "id": 37,
     "order": "37.00000000000000000000",
     "name": "Destruction Gaza and Ascalon",
-    "short_description": "Fulfillment prophecy of Amos 1,7-8",
+    "short_description": "Fulfillment of the prophecy of Amos 1,7-8",
     "jad_id": "jad_keyword__37",
     "part_of": []
   },
@@ -355,7 +355,7 @@
     "id": 38,
     "order": "38.00000000000000000000",
     "name": "Textual recycling",
-    "short_description": "Textual elements actually used for describing the Roman conquest (that is, primarily by Josephus himself) are repurposed for describing something else.",
+    "short_description": "Textual elements actually used for describing the Roman conquest (that is, primarily pieces deriving from Josephus himself) are repurposed for describing something else.",
     "jad_id": "jad_keyword__38",
     "part_of": []
   },
@@ -387,7 +387,7 @@
     "id": 42,
     "order": "42.00000000000000000000",
     "name": "Fulfillment prophecy",
-    "short_description": "The text asserts the fulfillment of prophecy in its own times - a most powerful argument. The fulfillment of biblical prophecy in the Roman conquest, however, is designated via the keyword 'Typology'.",
+    "short_description": "The text asserts the fulfillment of prophecy in its own times - a most powerful argument. However, the common argument that biblical prophecy, mostly from the Old Testament, has been fulfilled in the Roman conquest is designated via the keyword 'Typology'.",
     "jad_id": "jad_keyword__42",
     "part_of": []
   },
@@ -427,7 +427,7 @@
     "id": 47,
     "order": "47.00000000000000000000",
     "name": "Absence of conquest",
-    "short_description": "The Roman conquest remains absent despite a text or an occasion where it is strongly expected, such as a sermon on the 10th Sunday after Holy Trinity or an anti-Jewish treatise",
+    "short_description": "The Roman conquest remains absent despite a text or an occasion where it is strongly expected, such as a sermon on the 10th Sunday after Holy Trinity or an anti-Jewish treatise.",
     "jad_id": "jad_keyword__47",
     "part_of": []
   },
@@ -443,7 +443,7 @@
     "id": 49,
     "order": "49.00000000000000000000",
     "name": "Popular audience",
-    "short_description": "The text delivers substantial hints that it was meant for popular audiences",
+    "short_description": "The text delivers substantial hints that it was meant for popular audiences.",
     "jad_id": "jad_keyword__49",
     "part_of": [
       {
@@ -457,7 +457,7 @@
     "id": 50,
     "order": "50.00000000000000000000",
     "name": "Pompeius Magnus",
-    "short_description": "The Roman general who conquered Jerusalem in 63 BCE and thus integrated Palestine into the Roman Empire",
+    "short_description": "The Roman general, who conquered Jerusalem in 63 BCE and thus integrated Palestine into the Roman Empire, appears in the passage as well.",
     "jad_id": "jad_keyword__50",
     "part_of": [
       {
@@ -487,7 +487,7 @@
     "id": 53,
     "order": "53.00000000000000000000",
     "name": "Four realms in world history",
-    "short_description": "The text connects the Roman conquest with the idea that the Roman Empire would be the last of four suceeding realms in world history (mostly identified as Babylonian, Persian, Greek, and Roman).",
+    "short_description": "The passage connects the Roman conquest with the idea that the Roman Empire would be the last of four suceeding realms in world history (mostly identified as Babylonian, Persian, Greek, and Roman).",
     "jad_id": "jad_keyword__53",
     "part_of": []
   },
@@ -533,7 +533,7 @@
     "id": 58,
     "order": "58.00000000000000000000",
     "name": "The very last conquest",
-    "short_description": "The passage makes the claim that the Roman conquest was the last conquest of Jerusalem, sometimes even in the superlative \"the very last\" - a puzzling claim considering the multiple conquests that happened thereafter",
+    "short_description": "The passage makes the claim that the Roman conquest was the last conquest of Jerusalem, sometimes even in the superlative \"the very last\" - a puzzling claim considering the multiple conquests that happened thereafter.",
     "jad_id": "jad_keyword__58",
     "part_of": []
   },
@@ -541,7 +541,7 @@
     "id": 59,
     "order": "59.00000000000000000000",
     "name": "Muslim occupation Jerusalem",
-    "short_description": "",
+    "short_description": "The passage refers in one way or another to the fact that Muslims or \"pagans\" currently occupy Jerusalem or generally the Holy Land. This can relate to various historical contexts from the early to the late Middle Ages.",
     "jad_id": "jad_keyword__59",
     "part_of": []
   },
@@ -549,7 +549,7 @@
     "id": 60,
     "order": "60.00000000000000000000",
     "name": "70 weeks (septuaginta hebdomades)",
-    "short_description": "The passage makes a nexus to the 70 weeks addressed in Dan. 9,24 as a measure for ordering Salvation History",
+    "short_description": "The passage creates a nexus to the 70 weeks (septuaginta hebdomades) addressed in Dan. 9,24 as a measure for ordering Salvation History.",
     "jad_id": "jad_keyword__60",
     "part_of": []
   },
@@ -573,7 +573,7 @@
     "id": 63,
     "order": "63.00000000000000000000",
     "name": "Current issues Church",
-    "short_description": "The text entangles the Roman conquest with discussions about current issues within the Church, for example, concerns about corrupt priests.",
+    "short_description": "The text entangles the Roman conquest with discussions about current issues within the Church, for example, with concerns about corrupt priests.",
     "jad_id": "jad_keyword__63",
     "part_of": []
   },
@@ -597,7 +597,7 @@
     "id": 66,
     "order": "66.00000000000000000000",
     "name": "Florus",
-    "short_description": "The Roman procurator over Judea, whose actions were the cause for the Jewish revolt",
+    "short_description": "The Roman procurator over Judea, whose actions were the cause for the Jewish revolt, appears in the passage as well.",
     "jad_id": "jad_keyword__66",
     "part_of": [
       {
@@ -641,7 +641,7 @@
     "id": 70,
     "order": "70.00000000000000000000",
     "name": "Flavius Josephus",
-    "short_description": "The text names Josephus explicitely as a source, but this does not necessarily mean that he was (directly) used; in fact, Pseudo-Hegesippus, Eusebius of Caesarea, or other derivatives may have been the source as well.",
+    "short_description": "The passage names Flavius Josephus explicitely as a source, but this does not necessarily mean that he was (directly) used; in fact, Pseudo-Hegesippus, Eusebius of Caesarea, or other derivatives may have been the source as well.",
     "jad_id": "jad_keyword__70",
     "part_of": []
   },
@@ -649,7 +649,7 @@
     "id": 99,
     "order": "71.00000000000000000000",
     "name": "Exodus",
-    "short_description": "The Roman conquest is entangled with the story of the Exodus, that is, the Israelites' journey to and taking of the Holy Land. This adds a necessary movement to the Holy Land to the story of the Roman conquest, especially telling for the age of the crusades.",
+    "short_description": "The Roman conquest is entangled here with the story of the Exodus, that is, the Israelites' journey to, and taking of the Holy Land. This adds the element of a requisite movement to the Holy Land to the story of the Roman conquest; this conjunction is especially telling for the age of the crusades.",
     "jad_id": "jad_keyword__99",
     "part_of": []
   },
@@ -763,7 +763,7 @@
     "id": 169,
     "order": "83.00000000000000000000",
     "name": "Three defenders of Jerusalem",
-    "short_description": "The three defenders of Jerusalem - Eleazar, Simon, and John - representing three different factions within the city, are broached, information that derives from Josephus himself.",
+    "short_description": "The three defenders of Jerusalem - Eleazar, Simon, and John - representing three different factions within the city, are broached in the passage; information on them derives from Josephus's account.",
     "jad_id": "jad_keyword__169",
     "part_of": []
   },
@@ -787,7 +787,7 @@
     "id": 203,
     "order": "86.00000000000000000000",
     "name": "Graphical depiction",
-    "short_description": "The text is accompanied by a graphical depiction of the Roman conquest",
+    "short_description": "The passage is accompanied by a graphical depiction of the Roman conquest.",
     "jad_id": "jad_keyword__203",
     "part_of": []
   },
