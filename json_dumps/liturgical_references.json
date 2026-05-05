@@ -4,49 +4,49 @@
     "order": "1.00000000000000000000",
     "name": "X Sunday after Holy Trinity",
     "jad_id": "jad_liturgical_reference__1",
-    "description": "The tenth Sunday after the Sunday of the Trinity (that is, the Sunday after Pentecost). The tenth Sunday is specifically devoted to the Roman conquest."
+    "description": "Dominica decima: The 10th Sunday after the Sunday of the Holy Trinity (that is, the Sunday after Pentecost). The tenth Sunday is specifically devoted to the Roman conquest. Sometimes also counted as the 11th Sunday after Pentecost."
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "name": "XX Sunday after Holy Trinity",
     "jad_id": "jad_liturgical_reference__2",
-    "description": "The 20th Sunday after the Sunday of the Trinity (that is, the Sunday after Pentecost)."
+    "description": "Dominica vicesima: The 20th Sunday after the Sunday of the Holy Trinity (that is, the Sunday after Pentecost). Sometimes also counted as the 21st Sunday after Pentecost."
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
     "name": "Palm Sunday",
     "jad_id": "jad_liturgical_reference__3",
-    "description": "Palm Sunday (In ramis palmarum), the Sunday before Easter."
+    "description": "In ramis palmarum: The Sunday a week before Easter, devoted to Christ's entering of Jerusalem, riding on a donkey, and how the inhabitants welcomed him with palm branches."
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
     "name": "Maundy Thursday",
     "jad_id": "jad_liturgical_reference__4",
-    "description": ""
+    "description": "In coena domini: The Thursday before Easter, devoted to the Last Supper, where the Disciples shared bread and wine, epitomizing Christ's body and blood respectively, thus the constitutional narrative of the Eucharist and the Corpus Christi."
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
     "name": "Easter",
     "jad_id": "jad_liturgical_reference__5",
-    "description": null
+    "description": "This label encompasses the days from Good Friday (In parasceve) to Easter Sunday (De resurrectione domini)."
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
     "name": "Pentecost",
     "jad_id": "jad_liturgical_reference__6",
-    "description": ""
+    "description": "In die Pentecosten"
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
     "name": "Feast of Archangel Michael",
     "jad_id": "jad_liturgical_reference__7",
-    "description": "29 Sept."
+    "description": "In festo sancti Michaelis, 29 Sept"
   },
   "8": {
     "id": 8,
@@ -60,7 +60,7 @@
     "order": "9.00000000000000000000",
     "name": "V Sunday Post Natale Apostolorum",
     "jad_id": "jad_liturgical_reference__9",
-    "description": "The fifth Sunday after the Sunday of Peter and Paul; depending on exact counting, this Sunday can be identical with the tenth Sunday after Holy Trinity"
+    "description": "The 5th Sunday after the Sunday of Peter and Paul; depending on exact counting, this Sunday can be identical with the 10th Sunday after Holy Trinity."
   },
   "10": {
     "id": 10,
@@ -74,28 +74,28 @@
     "order": "11.00000000000000000000",
     "name": "Advent",
     "jad_id": "jad_liturgical_reference__11",
-    "description": "One of the four Sundays in Advent, that is, in December"
+    "description": "De adventu domini: One of the four Sundays in Advent, that is, the month of December, leading up to Christmas, and with notable eschatological overtones."
   },
   "12": {
     "id": 12,
     "order": "12.00000000000000000000",
-    "name": "In natale domini",
+    "name": "Christmas",
     "jad_id": "jad_liturgical_reference__12",
-    "description": "Christmas"
+    "description": "In natale domini"
   },
   "13": {
     "id": 13,
     "order": "13.00000000000000000000",
     "name": "In natale sancti Stephani",
     "jad_id": "jad_liturgical_reference__13",
-    "description": "The 26th Dec., the feast for the first martyr Stephen"
+    "description": "The 26th Dec, the feast for the first martyr Stephen"
   },
   "14": {
     "id": 14,
     "order": "14.00000000000000000000",
     "name": "Laetare Jerusalem",
     "jad_id": "jad_liturgical_reference__14",
-    "description": "The fourth Sunday in the Lenten season, that is, two Sundays before Easter"
+    "description": "The 4th Sunday in the Lenten season, that is, two Sundays before Easter"
   },
   "15": {
     "id": 15,
@@ -144,7 +144,7 @@
     "order": "21.00000000000000000000",
     "name": "In feria VI post passionem",
     "jad_id": "jad_liturgical_reference__21",
-    "description": null
+    "description": "The Friday before Palm Sunday, counted as the 6th day after the Passion Sunday (which is the first day of the week in medieval counting)."
   },
   "22": {
     "id": 22,
@@ -158,14 +158,14 @@
     "order": "23.00000000000000000000",
     "name": "Title lacking (space blank)",
     "jad_id": "jad_liturgical_reference__23",
-    "description": ""
+    "description": "The text does not bear a title in its manuscript, but space for it has been left blank, meaning that the manuscript's production has remained incomplete."
   },
   "24": {
     "id": 24,
     "order": "24.00000000000000000000",
     "name": "Title lacking (no space)",
     "jad_id": "jad_liturgical_reference__24",
-    "description": ""
+    "description": "The text does not bear a title in its manuscript, neither has space for it been left blank - apparently the title was not deemed too important."
   },
   "25": {
     "id": 25,
@@ -179,14 +179,14 @@
     "order": "26.00000000000000000000",
     "name": "II Sunday Advent",
     "jad_id": "jad_liturgical_reference__26",
-    "description": ""
+    "description": "Dominica secunda in adventu domini, a Sunday in Advent specifically devoted to apocalyptic dimensions."
   },
   "27": {
     "id": 27,
     "order": "27.00000000000000000000",
     "name": "II Sunday after Holy Trinity",
     "jad_id": "jad_liturgical_reference__27",
-    "description": ""
+    "description": "Dominica secunda"
   },
   "28": {
     "id": 28,
@@ -221,14 +221,14 @@
     "order": "32.00000000000000000000",
     "name": "In dominica septuagesimae",
     "jad_id": "jad_liturgical_reference__32",
-    "description": ""
+    "description": "The Sunday in the Lenten season located seven weeks before Easter."
   },
   "33": {
     "id": 33,
     "order": "33.00000000000000000000",
     "name": "III Sunday after Holy Trinity",
     "jad_id": "jad_liturgical_reference__33",
-    "description": ""
+    "description": "Dominica tertius"
   },
   "34": {
     "id": 34,
@@ -242,27 +242,55 @@
     "order": "35.00000000000000000000",
     "name": "Ad monachos",
     "jad_id": "jad_liturgical_reference__35",
-    "description": ""
+    "description": "A sermon with an ad status- title, that is, a text specifically designed for this audience (though often the same text has a different title in another manuscript)."
   },
   "36": {
     "id": 36,
     "order": "36.00000000000000000000",
     "name": "Feria IV Pentecostes",
     "jad_id": "jad_liturgical_reference__36",
-    "description": ""
+    "description": "The Wednesday after Pentecost (counting in the Middle Ages starts with the Sunday)."
   },
   "37": {
     "id": 37,
     "order": "37.00000000000000000000",
     "name": "Dominica III post pascha",
     "jad_id": "jad_liturgical_reference__37",
-    "description": ""
+    "description": "The 3rd Sunday after Easter."
   },
   "38": {
     "id": 38,
     "order": "38.00000000000000000000",
     "name": "",
     "jad_id": "jad_liturgical_reference__38",
+    "description": ""
+  },
+  "39": {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "name": "",
+    "jad_id": "jad_liturgical_reference__39",
+    "description": ""
+  },
+  "40": {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "name": "",
+    "jad_id": "jad_liturgical_reference__40",
+    "description": ""
+  },
+  "41": {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "name": "",
+    "jad_id": "jad_liturgical_reference__41",
+    "description": ""
+  },
+  "42": {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "name": "",
+    "jad_id": "jad_liturgical_reference__42",
     "description": ""
   }
 }
