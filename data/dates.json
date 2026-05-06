@@ -40,7 +40,7 @@
     "view_label": "early 12th cen.",
     "prev": {
       "id": "jad_date__29",
-      "label": "870s"
+      "label": "860s"
     },
     "next": {
       "id": "jad_date__30",
@@ -204,7 +204,7 @@
     },
     "next": {
       "id": "jad_date__130",
-      "label": ""
+      "label": "early 2nd cen."
     }
   },
   "14": {
@@ -428,35 +428,35 @@
     },
     "next": {
       "id": "jad_date__28",
-      "label": "860s"
+      "label": "860s-870s"
     }
   },
   "28": {
     "id": 28,
-    "name": "860s",
+    "name": "860s-870s",
     "not_before": "860",
-    "not_after": "869",
+    "not_after": "879",
     "jad_id": "jad_date__28",
-    "view_label": "860s",
+    "view_label": "860s-870s",
     "prev": {
       "id": "jad_date__27",
       "label": "late 7th cen."
     },
     "next": {
       "id": "jad_date__29",
-      "label": "870s"
+      "label": "860s"
     }
   },
   "29": {
     "id": 29,
-    "name": "870s",
-    "not_before": "870",
-    "not_after": "879",
+    "name": "860s",
+    "not_before": "860",
+    "not_after": "869",
     "jad_id": "jad_date__29",
-    "view_label": "870s",
+    "view_label": "860s",
     "prev": {
       "id": "jad_date__28",
-      "label": "860s"
+      "label": "860s-870s"
     },
     "next": {
       "id": "jad_date__3",
@@ -1569,11 +1569,11 @@
   },
   "130": {
     "id": 130,
-    "name": "",
-    "not_before": null,
-    "not_after": null,
+    "name": "early 2nd cen.",
+    "not_before": "201",
+    "not_after": "230",
     "jad_id": "jad_date__130",
-    "view_label": "",
+    "view_label": "early 2nd cen.",
     "prev": {
       "id": "jad_date__13",
       "label": "12th cen., first half"
@@ -1592,7 +1592,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_date__130",
-      "label": ""
+      "label": "early 2nd cen."
     },
     "next": {
       "id": "jad_date__132",
