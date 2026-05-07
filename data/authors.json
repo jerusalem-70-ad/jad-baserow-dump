@@ -24,7 +24,7 @@
     },
     "next": {
       "id": "jad_author__10",
-      "label": "Stephen Langton"
+      "label": "Stephen Langton, archbishop of Canterbury"
     },
     "related__works": [
       {
@@ -254,10 +254,10 @@
             "value": "late 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/2407/6658/11707",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "207",
         "other_editions": null,
         "view_label": "Contra perfidiam Judaeorum ",
         "prev": {
@@ -296,7 +296,7 @@
     },
     "next": {
       "id": "jad_author__20",
-      "label": "Baldwin of Canterbury"
+      "label": "Baldwin of Canterbury, archbishop"
     },
     "related__works": [
       {
@@ -1030,7 +1030,7 @@
         ],
         "date_certainty": false,
         "date": [],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=459/7014",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "17",
@@ -1392,7 +1392,7 @@
         },
         "next": {
           "id": "jad_work__137",
-          "label": "Commentary Lamentations "
+          "label": "Commentary Lamentationes "
         }
       },
       {
@@ -1440,10 +1440,10 @@
             "value": "late 11th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://www.dmgh.de/mgh_ss_13/index.htm#page/39/mode/1up",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "SS 13",
         "other_editions": null,
         "view_label": "Annales Stabulenses ",
         "prev": {
@@ -1452,7 +1452,7 @@
         },
         "next": {
           "id": "jad_work__228",
-          "label": "Expositio in Psalmos "
+          "label": "Commentary Psalms "
         }
       },
       {
@@ -1503,7 +1503,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "Huygens",
+        "volume_edition_or_individual_editor": "Robert B.C. Huygens, \"Inventio Patriarcharum,\" Crusades 4 (2005), 131–156.",
         "other_editions": null,
         "view_label": "Inventio Patriarcharum ",
         "prev": {
@@ -2387,7 +2387,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "Oftestad",
+        "volume_edition_or_individual_editor": "ed. Oftestad",
         "other_editions": null,
         "view_label": "Descriptio Lateranensis Ecclesiae ",
         "prev": {
@@ -2802,7 +2802,7 @@
         "manuscripts": [
           {
             "id": 138,
-            "value": "BNF, lat.  3804"
+            "value": "BNF, Latin 3804"
           }
         ],
         "title": "Italian Homiliary",
@@ -2932,7 +2932,7 @@
         "manuscripts": [
           {
             "id": 143,
-            "value": "BNF, lat. 3782"
+            "value": "BNF, Latin 3782"
           }
         ],
         "title": "Sermones",
@@ -2967,7 +2967,7 @@
         "view_label": "Sermones ",
         "prev": {
           "id": "jad_work__463",
-          "label": "Commentary Lamentations "
+          "label": "Commentary Lamentationes "
         },
         "next": {
           "id": "jad_work__465",
@@ -3361,7 +3361,7 @@
       },
       {
         "id": 564,
-        "name": "Expositio in libros Regum ",
+        "name": "Commentary Kings ",
         "jad_id": "jad_work__564",
         "author": [
           {
@@ -3385,7 +3385,7 @@
             "value": "Karlsruhe, Aug. perg. 135"
           }
         ],
-        "title": "Expositio in libros Regum",
+        "title": "Commentary Kings",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -3414,7 +3414,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "",
         "other_editions": "",
-        "view_label": "Expositio in libros Regum ",
+        "view_label": "Commentary Kings ",
         "prev": {
           "id": "jad_work__563",
           "label": "Liber de XII gemmis rationalis summi sacerdotis Hebraeorum "
@@ -3477,7 +3477,7 @@
         "view_label": "Hystoria Atile dicti flagellum Dei ",
         "prev": {
           "id": "jad_work__564",
-          "label": "Expositio in libros Regum "
+          "label": "Commentary Kings "
         },
         "next": {
           "id": "jad_work__566",
@@ -3602,7 +3602,7 @@
         "view_label": "Commentary Matthew ",
         "prev": {
           "id": "jad_work__632",
-          "label": "Postilla super evangelium Matthaei "
+          "label": "Commentary Matthew "
         },
         "next": {
           "id": "jad_work__635",
@@ -3632,9 +3632,9 @@
         "manuscripts": [],
         "title": "Haec est praefatio de Iesu Christo domino inter Vespasianum et Titum quomodo vindicaverunt Christum",
         "genre": {
-          "id": 18451,
-          "value": "Poetry",
-          "color": "orange"
+          "id": 23064,
+          "value": "Treatise on Roman conquest",
+          "color": "darker-cyan"
         },
         "notes": "",
         "notes__author": "",
@@ -4522,9 +4522,9 @@
         "manuscripts": [],
         "title": "Wolfenbütteler Rapularius",
         "genre": {
-          "id": 14732,
-          "value": "Idiosyncratic work",
-          "color": "dark-red"
+          "id": 22499,
+          "value": "Miscellany",
+          "color": "light-gray"
         },
         "notes": "",
         "notes__author": "",
@@ -5302,11 +5302,11 @@
         "manuscripts": [
           {
             "id": 133,
-            "value": "BNF, lat. 3785"
+            "value": "BNF, Latin 3785"
           },
           {
             "id": 207,
-            "value": "BAV, S.Maria.Magg.122"
+            "value": "BAV, S.Maria.Magg. 122"
           }
         ],
         "title": "Sermones",
@@ -5371,7 +5371,7 @@
         "manuscripts": [
           {
             "id": 280,
-            "value": "BNF, lat. 742"
+            "value": "BNF, Latin 742"
           }
         ],
         "title": "Breviarium benedictinum",
@@ -5406,7 +5406,7 @@
         "view_label": "Breviarium benedictinum ",
         "prev": {
           "id": "jad_work__74",
-          "label": "Commentarius in Nahum "
+          "label": "Commentary Nahum "
         },
         "next": {
           "id": "jad_work__741",
@@ -5670,7 +5670,7 @@
         },
         "next": {
           "id": "jad_work__76",
-          "label": "Collectanea in omnes B. Pauli epistolas "
+          "label": "Commentary Paul's Letters "
         }
       },
       {
@@ -5726,7 +5726,7 @@
         "view_label": "Pharetra fidei contra iudaeos ",
         "prev": {
           "id": "jad_work__76",
-          "label": "Collectanea in omnes B. Pauli epistolas "
+          "label": "Commentary Paul's Letters "
         },
         "next": {
           "id": "jad_work__761",
@@ -6881,7 +6881,7 @@
   },
   "5": {
     "id": 5,
-    "name": "Hrabanus Maurus",
+    "name": "Hrabanus Maurus, archbishop of Mainz",
     "jad_id": "jad_author__5",
     "gnd_url": "https://d-nb.info/gnd/118553909",
     "notes": null,
@@ -6897,10 +6897,10 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Hrabanus Maurus",
+    "view_label": "Hrabanus Maurus, archbishop of Mainz",
     "prev": {
       "id": "jad_author__49",
-      "label": "Amulo Lugdunensis, archbishop of Lyon"
+      "label": "Amulo of Lyon, archbishop"
     },
     "next": {
       "id": "jad_author__50",
@@ -6914,7 +6914,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -6979,7 +6979,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7022,7 +7022,7 @@
             "value": "mid 9th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1518/3881/8904",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "109",
@@ -7034,7 +7034,7 @@
         },
         "next": {
           "id": "jad_work__100",
-          "label": "Commentary Deutoronomy "
+          "label": "Commentary Deuteronomium "
         }
       },
       {
@@ -7044,7 +7044,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7087,7 +7087,7 @@
             "value": "mid 9th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1518/3882/8905",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "109",
@@ -7109,7 +7109,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7174,7 +7174,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7239,7 +7239,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7309,7 +7309,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7374,7 +7374,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7439,7 +7439,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7504,7 +7504,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7569,7 +7569,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7634,7 +7634,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7704,7 +7704,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7725,7 +7725,7 @@
         "manuscripts": [
           {
             "id": 39,
-            "value": "Erlangen, UB, 63/1"
+            "value": "Erlangen, UB, MS 63/1"
           }
         ],
         "title": "Commentary Isaiah (I)",
@@ -7774,7 +7774,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7795,7 +7795,7 @@
         "manuscripts": [
           {
             "id": 40,
-            "value": "Erlangen, UB, 63/2"
+            "value": "Erlangen, UB, MS 63/2"
           }
         ],
         "title": "Commentary Isaiah (II)",
@@ -7844,7 +7844,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7914,7 +7914,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -7979,7 +7979,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -8044,7 +8044,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -8109,7 +8109,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -8174,7 +8174,7 @@
         "author": [
           {
             "id": 5,
-            "name": "Hrabanus Maurus",
+            "name": "Hrabanus Maurus, archbishop of Mainz",
             "jad_id": "jad_author__5",
             "gnd_url": "https://d-nb.info/gnd/118553909",
             "notes": null,
@@ -8580,7 +8580,7 @@
         "view_label": "Allegorica expositio in Samuelem ",
         "prev": {
           "id": "jad_work__137",
-          "label": "Commentary Lamentations "
+          "label": "Commentary Lamentationes "
         },
         "next": {
           "id": "jad_work__139",
@@ -9111,7 +9111,7 @@
   },
   "7": {
     "id": 7,
-    "name": "Lambertus Sancti Bertini",
+    "name": "Lambert of St Bertin",
     "jad_id": "jad_author__7",
     "gnd_url": "https://d-nb.info/gnd/102511721",
     "notes": "same as Lambertus de Sancto-Audomaro",
@@ -9127,10 +9127,10 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Lambertus Sancti Bertini",
+    "view_label": "Lambert of St Bertin",
     "prev": {
       "id": "jad_author__69",
-      "label": "Claudius of Turin"
+      "label": "Claudius of Turin, bishop"
     },
     "next": {
       "id": "jad_author__70",
@@ -9144,7 +9144,7 @@
         "author": [
           {
             "id": 7,
-            "name": "Lambertus Sancti Bertini",
+            "name": "Lambert of St Bertin",
             "jad_id": "jad_author__7",
             "gnd_url": "https://d-nb.info/gnd/102511721",
             "notes": "same as Lambertus de Sancto-Audomaro",
@@ -9265,7 +9265,7 @@
         "manuscripts": [
           {
             "id": 28,
-            "value": "Maz., Ms 1026"
+            "value": "Maz., MS 1026"
           },
           {
             "id": 29,
@@ -9429,7 +9429,7 @@
         "manuscripts": [
           {
             "id": 89,
-            "value": "BNF, lat. 2529"
+            "value": "BNF, Latin 2529"
           }
         ],
         "title": "Postilla in Lucam",
@@ -9650,7 +9650,7 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/2356/6528/11576",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "198",
@@ -9835,7 +9835,7 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=11575",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "198",
@@ -9949,7 +9949,7 @@
   },
   "10": {
     "id": 10,
-    "name": "Stephen Langton",
+    "name": "Stephen Langton, archbishop of Canterbury",
     "jad_id": "jad_author__10",
     "gnd_url": "https://d-nb.info/gnd/118778714",
     "notes": "",
@@ -9965,7 +9965,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Stephen Langton",
+    "view_label": "Stephen Langton, archbishop of Canterbury",
     "prev": {
       "id": "jad_author__1",
       "label": "Petrus of Blois"
@@ -9982,7 +9982,7 @@
         "author": [
           {
             "id": 10,
-            "name": "Stephen Langton",
+            "name": "Stephen Langton, archbishop of Canterbury",
             "jad_id": "jad_author__10",
             "gnd_url": "https://d-nb.info/gnd/118778714",
             "notes": "",
@@ -10081,7 +10081,7 @@
         "author": [
           {
             "id": 10,
-            "name": "Stephen Langton",
+            "name": "Stephen Langton, archbishop of Canterbury",
             "jad_id": "jad_author__10",
             "gnd_url": "https://d-nb.info/gnd/118778714",
             "notes": "",
@@ -10176,7 +10176,7 @@
         "author": [
           {
             "id": 10,
-            "name": "Stephen Langton",
+            "name": "Stephen Langton, archbishop of Canterbury",
             "jad_id": "jad_author__10",
             "gnd_url": "https://d-nb.info/gnd/118778714",
             "notes": "",
@@ -10271,7 +10271,7 @@
         "author": [
           {
             "id": 10,
-            "name": "Stephen Langton",
+            "name": "Stephen Langton, archbishop of Canterbury",
             "jad_id": "jad_author__10",
             "gnd_url": "https://d-nb.info/gnd/118778714",
             "notes": "",
@@ -10352,7 +10352,7 @@
         "view_label": "Commentary Kings ",
         "prev": {
           "id": "jad_work__459",
-          "label": "Expositio super Psalmos "
+          "label": "Commentary Psalms "
         },
         "next": {
           "id": "jad_work__460",
@@ -10361,12 +10361,12 @@
       },
       {
         "id": 137,
-        "name": "Commentary Lamentations ",
+        "name": "Commentary Lamentationes ",
         "jad_id": "jad_work__137",
         "author": [
           {
             "id": 10,
-            "name": "Stephen Langton",
+            "name": "Stephen Langton, archbishop of Canterbury",
             "jad_id": "jad_author__10",
             "gnd_url": "https://d-nb.info/gnd/118778714",
             "notes": "",
@@ -10390,7 +10390,7 @@
             "value": "Maz., MS 177"
           }
         ],
-        "title": "Commentary Lamentations",
+        "title": "Commentary Lamentationes",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -10444,7 +10444,7 @@
         "incipit": null,
         "volume_edition_or_individual_editor": null,
         "other_editions": null,
-        "view_label": "Commentary Lamentations ",
+        "view_label": "Commentary Lamentationes ",
         "prev": {
           "id": "jad_work__136",
           "label": "Sermones "
@@ -10702,7 +10702,7 @@
     "view_label": "Maurice of Sully, bishop of Paris",
     "prev": {
       "id": "jad_author__129",
-      "label": "Hildebert of Lavardin"
+      "label": "Hildebert of Lavardin, archbishop of Tours"
     },
     "next": {
       "id": "jad_author__130",
@@ -10937,7 +10937,7 @@
   },
   "15": {
     "id": 15,
-    "name": "Bruno of Segni",
+    "name": "Bruno of Segni, cardinal bishop",
     "jad_id": "jad_author__15",
     "gnd_url": "https://d-nb.info/gnd/100938310",
     "notes": "",
@@ -10953,7 +10953,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Bruno of Segni",
+    "view_label": "Bruno of Segni, cardinal bishop",
     "prev": {
       "id": "jad_author__149",
       "label": "Origenes"
@@ -10970,7 +10970,7 @@
         "author": [
           {
             "id": 15,
-            "name": "Bruno of Segni",
+            "name": "Bruno of Segni, cardinal bishop",
             "jad_id": "jad_author__15",
             "gnd_url": "https://d-nb.info/gnd/100938310",
             "notes": "",
@@ -11045,7 +11045,7 @@
         "author": [
           {
             "id": 15,
-            "name": "Bruno of Segni",
+            "name": "Bruno of Segni, cardinal bishop",
             "jad_id": "jad_author__15",
             "gnd_url": "https://d-nb.info/gnd/100938310",
             "notes": "",
@@ -11120,7 +11120,7 @@
         "author": [
           {
             "id": 15,
-            "name": "Bruno of Segni",
+            "name": "Bruno of Segni, cardinal bishop",
             "jad_id": "jad_author__15",
             "gnd_url": "https://d-nb.info/gnd/100938310",
             "notes": "",
@@ -11195,7 +11195,7 @@
         "author": [
           {
             "id": 15,
-            "name": "Bruno of Segni",
+            "name": "Bruno of Segni, cardinal bishop",
             "jad_id": "jad_author__15",
             "gnd_url": "https://d-nb.info/gnd/100938310",
             "notes": "",
@@ -11270,7 +11270,7 @@
         "author": [
           {
             "id": 15,
-            "name": "Bruno of Segni",
+            "name": "Bruno of Segni, cardinal bishop",
             "jad_id": "jad_author__15",
             "gnd_url": "https://d-nb.info/gnd/100938310",
             "notes": "",
@@ -11337,7 +11337,7 @@
   },
   "16": {
     "id": 16,
-    "name": "Rupert of Deutz",
+    "name": "Rupert of Deutz, abbot",
     "jad_id": "jad_author__16",
     "gnd_url": "https://d-nb.info/gnd/118604198",
     "notes": "",
@@ -11353,14 +11353,14 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Rupert of Deutz",
+    "view_label": "Rupert of Deutz, abbot",
     "prev": {
       "id": "jad_author__159",
       "label": "Roger of Wendover"
     },
     "next": {
       "id": "jad_author__160",
-      "label": "Sicard of Cremona"
+      "label": "Sicard of Cremona, bishop"
     },
     "related__works": [
       {
@@ -11370,7 +11370,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -11445,7 +11445,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -11520,7 +11520,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -11595,7 +11595,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -11670,7 +11670,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -11745,7 +11745,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -11820,7 +11820,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -11895,7 +11895,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -11970,7 +11970,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -12045,7 +12045,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -12120,7 +12120,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -12190,12 +12190,12 @@
       },
       {
         "id": 100,
-        "name": "Commentary Deutoronomy ",
+        "name": "Commentary Deuteronomium ",
         "jad_id": "jad_work__100",
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -12214,7 +12214,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Commentary Deutoronomy",
+        "title": "Commentary Deuteronomium",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -12253,7 +12253,7 @@
         "incipit": null,
         "volume_edition_or_individual_editor": "167",
         "other_editions": null,
-        "view_label": "Commentary Deutoronomy ",
+        "view_label": "Commentary Deuteronomium ",
         "prev": {
           "id": "jad_work__10",
           "label": "Commentary Maccabees "
@@ -12270,7 +12270,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -12331,7 +12331,7 @@
         "view_label": "Commentary Kings ",
         "prev": {
           "id": "jad_work__100",
-          "label": "Commentary Deutoronomy "
+          "label": "Commentary Deuteronomium "
         },
         "next": {
           "id": "jad_work__102",
@@ -12345,7 +12345,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -12420,7 +12420,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -12495,7 +12495,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -12570,7 +12570,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -12645,7 +12645,7 @@
         "author": [
           {
             "id": 16,
-            "name": "Rupert of Deutz",
+            "name": "Rupert of Deutz, abbot",
             "jad_id": "jad_author__16",
             "gnd_url": "https://d-nb.info/gnd/118604198",
             "notes": "",
@@ -12717,7 +12717,7 @@
   },
   "17": {
     "id": 17,
-    "name": "Paschasius Radbertus",
+    "name": "Paschasius Radbertus, abbot",
     "jad_id": "jad_author__17",
     "gnd_url": "https://d-nb.info/gnd/118739409",
     "notes": "",
@@ -12733,7 +12733,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Paschasius Radbertus",
+    "view_label": "Paschasius Radbertus, abbot",
     "prev": {
       "id": "jad_author__169",
       "label": "William of Malmesbury"
@@ -12750,7 +12750,7 @@
         "author": [
           {
             "id": 17,
-            "name": "Paschasius Radbertus",
+            "name": "Paschasius Radbertus, abbot",
             "jad_id": "jad_author__17",
             "gnd_url": "https://d-nb.info/gnd/118739409",
             "notes": "",
@@ -12813,7 +12813,7 @@
             "value": "mid 9th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1550/4091/9114",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "120",
@@ -12835,7 +12835,7 @@
         "author": [
           {
             "id": 17,
-            "name": "Paschasius Radbertus",
+            "name": "Paschasius Radbertus, abbot",
             "jad_id": "jad_author__17",
             "gnd_url": "https://d-nb.info/gnd/118739409",
             "notes": "",
@@ -12925,7 +12925,7 @@
         "author": [
           {
             "id": 17,
-            "name": "Paschasius Radbertus",
+            "name": "Paschasius Radbertus, abbot",
             "jad_id": "jad_author__17",
             "gnd_url": "https://d-nb.info/gnd/118739409",
             "notes": "",
@@ -13515,7 +13515,7 @@
     },
     "next": {
       "id": "jad_author__190",
-      "label": "Nicolaus de Aquaevilla"
+      "label": "Nicolas de Aquaevilla"
     },
     "related__works": [
       {
@@ -13651,7 +13651,7 @@
         "view_label": "Epistolae ",
         "prev": {
           "id": "jad_work__228",
-          "label": "Expositio in Psalmos "
+          "label": "Commentary Psalms "
         },
         "next": {
           "id": "jad_work__23",
@@ -13708,10 +13708,10 @@
             "value": "mid 11th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/928/5029/10061",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "145",
         "other_editions": null,
         "view_label": "Antilogus contra Judaeos ad Honestum ",
         "prev": {
@@ -13773,10 +13773,10 @@
             "value": "mid 11th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/928/5082/10114",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "145",
         "other_editions": null,
         "view_label": "Dialogus inter Judaeum et Christianum ad Honestum ",
         "prev": {
@@ -13838,10 +13838,10 @@
             "value": "mid 11th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/928/5034/10066",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "145",
         "other_editions": null,
         "view_label": "Collectanea in Vetus Testamentum ",
         "prev": {
@@ -13857,7 +13857,7 @@
   },
   "20": {
     "id": 20,
-    "name": "Baldwin of Canterbury",
+    "name": "Baldwin of Canterbury, archbishop",
     "jad_id": "jad_author__20",
     "gnd_url": "https://d-nb.info/gnd/119268531",
     "notes": "",
@@ -13873,7 +13873,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Baldwin of Canterbury",
+    "view_label": "Baldwin of Canterbury, archbishop",
     "prev": {
       "id": "jad_author__2",
       "label": "Martin of León"
@@ -13890,7 +13890,7 @@
         "author": [
           {
             "id": 20,
-            "name": "Baldwin of Canterbury",
+            "name": "Baldwin of Canterbury, archbishop",
             "jad_id": "jad_author__20",
             "gnd_url": "https://d-nb.info/gnd/119268531",
             "notes": "",
@@ -13974,7 +13974,7 @@
         "author": [
           {
             "id": 20,
-            "name": "Baldwin of Canterbury",
+            "name": "Baldwin of Canterbury, archbishop",
             "jad_id": "jad_author__20",
             "gnd_url": "https://d-nb.info/gnd/119268531",
             "notes": "",
@@ -14074,7 +14074,7 @@
     "view_label": "Aelred of Rievaulx",
     "prev": {
       "id": "jad_author__209",
-      "label": "Nicolaus of Lyra"
+      "label": "Nicolas of Lyra"
     },
     "next": {
       "id": "jad_author__210",
@@ -14160,7 +14160,7 @@
   },
   "22": {
     "id": 22,
-    "name": "Alcuin",
+    "name": "Alcuin of York",
     "jad_id": "jad_author__22",
     "gnd_url": "https://d-nb.info/gnd/118502026",
     "notes": "",
@@ -14176,7 +14176,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Alcuin",
+    "view_label": "Alcuin of York",
     "prev": {
       "id": "jad_author__219",
       "label": "Guibert of Tournai"
@@ -14193,7 +14193,7 @@
         "author": [
           {
             "id": 22,
-            "name": "Alcuin",
+            "name": "Alcuin of York",
             "jad_id": "jad_author__22",
             "gnd_url": "https://d-nb.info/gnd/118502026",
             "notes": "",
@@ -14268,7 +14268,7 @@
         "author": [
           {
             "id": 22,
-            "name": "Alcuin",
+            "name": "Alcuin of York",
             "jad_id": "jad_author__22",
             "gnd_url": "https://d-nb.info/gnd/118502026",
             "notes": "",
@@ -14426,7 +14426,7 @@
             "value": "early 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=10528",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "155",
@@ -14641,7 +14641,7 @@
             "value": "mid 9th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1543/4049/9072",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "116",
@@ -14726,7 +14726,7 @@
             "value": "mid 9th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1543/4063/9086",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "118",
@@ -14734,7 +14734,7 @@
         "view_label": "Sermones ",
         "prev": {
           "id": "jad_work__269",
-          "label": "Commentaria in epistolas Pauli "
+          "label": "Commentary Paul's Letters "
         },
         "next": {
           "id": "jad_work__270",
@@ -15486,10 +15486,10 @@
             "value": "mid 9th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1543/4056/9079",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "117",
         "other_editions": null,
         "view_label": "Commentary Paul's Letter to Romans ",
         "prev": {
@@ -15594,7 +15594,7 @@
         "manuscripts": [
           {
             "id": 161,
-            "value": "BNF, lat. 12302"
+            "value": "BNF, Latin 12302"
           }
         ],
         "title": "Annotatio libri ezechielis imperfecta",
@@ -16232,12 +16232,12 @@
         },
         "next": {
           "id": "jad_work__163",
-          "label": "Commentary Michaea "
+          "label": "Commentary Michea "
         }
       },
       {
         "id": 163,
-        "name": "Commentary Michaea ",
+        "name": "Commentary Michea ",
         "jad_id": "jad_work__163",
         "author": [
           {
@@ -16261,7 +16261,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Commentary Michaea",
+        "title": "Commentary Michea",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -16290,7 +16290,7 @@
         "incipit": null,
         "volume_edition_or_individual_editor": "25",
         "other_editions": null,
-        "view_label": "Commentary Michaea ",
+        "view_label": "Commentary Michea ",
         "prev": {
           "id": "jad_work__162",
           "label": "Commentary Ezechiel "
@@ -16358,7 +16358,7 @@
         "view_label": "Commentary Joel ",
         "prev": {
           "id": "jad_work__163",
-          "label": "Commentary Michaea "
+          "label": "Commentary Michea "
         },
         "next": {
           "id": "jad_work__165",
@@ -16887,7 +16887,7 @@
       },
       {
         "id": 295,
-        "name": "In Lamentationes Jeremiae ",
+        "name": "Commentary Lamentationes ",
         "jad_id": "jad_work__295",
         "author": [
           {
@@ -16911,7 +16911,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "In Lamentationes Jeremiae",
+        "title": "Commentary Lamentationes",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -16935,12 +16935,12 @@
             "value": "around 400"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=7173",
         "author_certainty": false,
         "incipit": "",
         "volume_edition_or_individual_editor": "25",
         "other_editions": null,
-        "view_label": "In Lamentationes Jeremiae ",
+        "view_label": "Commentary Lamentationes ",
         "prev": {
           "id": "jad_work__294",
           "label": "Adnotatiunculae in Threnos "
@@ -17143,7 +17143,7 @@
         "view_label": "Homiliae ",
         "prev": {
           "id": "jad_work__577",
-          "label": "Speculum diuinorum et quorundam naturalium "
+          "label": "Speculum divinorum et quorundam naturalium "
         },
         "next": {
           "id": "jad_work__579",
@@ -17529,7 +17529,7 @@
             "value": "around 900"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1626/4321/9349",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "131",
@@ -17719,7 +17719,7 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/2330/6421/11469",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "193-194",
@@ -18297,7 +18297,7 @@
     "view_label": "Angelomus Luxovensis",
     "prev": {
       "id": "jad_author__322",
-      "label": "Anastasius Bibliothecarius"
+      "label": "Anastasius Bibliothecarius, antipope"
     },
     "next": {
       "id": "jad_author__34",
@@ -18461,7 +18461,7 @@
     },
     "next": {
       "id": "jad_author__35",
-      "label": "Jacques de Vitry"
+      "label": "Jacques de Vitry, bishop of Acre"
     },
     "related__works": [
       {
@@ -18570,7 +18570,7 @@
         },
         "next": {
           "id": "jad_work__370",
-          "label": "Quaestiones super libros Regum "
+          "label": "Commentary Kings "
         }
       },
       {
@@ -18969,7 +18969,7 @@
   },
   "35": {
     "id": 35,
-    "name": "Jacques de Vitry",
+    "name": "Jacques de Vitry, bishop of Acre",
     "jad_id": "jad_author__35",
     "gnd_url": "https://d-nb.info/gnd/118711563",
     "notes": "",
@@ -18985,7 +18985,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Jacques de Vitry",
+    "view_label": "Jacques de Vitry, bishop of Acre",
     "prev": {
       "id": "jad_author__34",
       "label": "Bonaventura"
@@ -19002,7 +19002,7 @@
         "author": [
           {
             "id": 35,
-            "name": "Jacques de Vitry",
+            "name": "Jacques de Vitry, bishop of Acre",
             "jad_id": "jad_author__35",
             "gnd_url": "https://d-nb.info/gnd/118711563",
             "notes": "",
@@ -19092,7 +19092,7 @@
         "author": [
           {
             "id": 35,
-            "name": "Jacques de Vitry",
+            "name": "Jacques de Vitry, bishop of Acre",
             "jad_id": "jad_author__35",
             "gnd_url": "https://d-nb.info/gnd/118711563",
             "notes": "",
@@ -19350,7 +19350,7 @@
             "value": "early 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/2211/5961/11000",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "172",
@@ -20059,7 +20059,7 @@
   },
   "41": {
     "id": 41,
-    "name": "Peter Lombard",
+    "name": "Peter Lombard, bishop of Paris",
     "jad_id": "jad_author__41",
     "gnd_url": "https://d-nb.info/gnd/11859334X",
     "notes": "",
@@ -20075,14 +20075,14 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Peter Lombard",
+    "view_label": "Peter Lombard, bishop of Paris",
     "prev": {
       "id": "jad_author__405",
       "label": "Eike of Repgow"
     },
     "next": {
       "id": "jad_author__42",
-      "label": "William of Tyre"
+      "label": "William of Tyre, archbishop"
     },
     "related__works": [
       {
@@ -20092,7 +20092,7 @@
         "author": [
           {
             "id": 41,
-            "name": "Peter Lombard",
+            "name": "Peter Lombard, bishop of Paris",
             "jad_id": "jad_author__41",
             "gnd_url": "https://d-nb.info/gnd/11859334X",
             "notes": "",
@@ -20177,12 +20177,12 @@
       },
       {
         "id": 297,
-        "name": "Collectanea in epistolas Pauli ",
+        "name": "Commentary Paul's Letters ",
         "jad_id": "jad_work__297",
         "author": [
           {
             "id": 41,
-            "name": "Peter Lombard",
+            "name": "Peter Lombard, bishop of Paris",
             "jad_id": "jad_author__41",
             "gnd_url": "https://d-nb.info/gnd/11859334X",
             "notes": "",
@@ -20201,7 +20201,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Collectanea in epistolas Pauli",
+        "title": "Commentary Paul's Letters",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -20225,12 +20225,12 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2327/6406/11454",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "191-192",
         "other_editions": null,
-        "view_label": "Collectanea in epistolas Pauli ",
+        "view_label": "Commentary Paul's Letters ",
         "prev": {
           "id": "jad_work__296",
           "label": "Sermones "
@@ -20244,7 +20244,7 @@
   },
   "42": {
     "id": 42,
-    "name": "William of Tyre",
+    "name": "William of Tyre, archbishop",
     "jad_id": "jad_author__42",
     "gnd_url": "https://d-nb.info/gnd/11863304X",
     "notes": "",
@@ -20260,10 +20260,10 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "William of Tyre",
+    "view_label": "William of Tyre, archbishop",
     "prev": {
       "id": "jad_author__41",
-      "label": "Peter Lombard"
+      "label": "Peter Lombard, bishop of Paris"
     },
     "next": {
       "id": "jad_author__43",
@@ -20277,7 +20277,7 @@
         "author": [
           {
             "id": 42,
-            "name": "William of Tyre",
+            "name": "William of Tyre, archbishop",
             "jad_id": "jad_author__42",
             "gnd_url": "https://d-nb.info/gnd/11863304X",
             "notes": "",
@@ -20363,7 +20363,7 @@
     "view_label": "Josephus Latinus  / Pseudo-Hegesippus",
     "prev": {
       "id": "jad_author__42",
-      "label": "William of Tyre"
+      "label": "William of Tyre, archbishop"
     },
     "next": {
       "id": "jad_author__437",
@@ -20415,10 +20415,10 @@
             "value": "4th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://verlag.oeaw.ac.at/produkt/hegesippi-qui-dicitur-historiae-libri-v-pars-prior-textum-criticum-continens/601296?name=hegesippi-qui-dicitur-historiae-libri-v-pars-prior-textum-criticum-continens&product_form=5072",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "66",
         "other_editions": null,
         "view_label": "De excidio urbis Hierosolymitanae ",
         "prev": {
@@ -20434,7 +20434,7 @@
   },
   "44": {
     "id": 44,
-    "name": "Petrus Venerabilis, abbot Cluny",
+    "name": "Petrus Venerabilis, abbot of Cluny",
     "jad_id": "jad_author__44",
     "gnd_url": "https://d-nb.info/gnd/11880328X",
     "notes": "",
@@ -20450,7 +20450,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Petrus Venerabilis, abbot Cluny",
+    "view_label": "Petrus Venerabilis, abbot of Cluny",
     "prev": {
       "id": "jad_author__439",
       "label": "Albertus Bohemus"
@@ -20467,7 +20467,7 @@
         "author": [
           {
             "id": 44,
-            "name": "Petrus Venerabilis, abbot Cluny",
+            "name": "Petrus Venerabilis, abbot of Cluny",
             "jad_id": "jad_author__44",
             "gnd_url": "https://d-nb.info/gnd/11880328X",
             "notes": "",
@@ -20722,12 +20722,12 @@
         },
         "next": {
           "id": "jad_work__551",
-          "label": "Super duodecim prophetas "
+          "label": "Commentary Twelve Minor Prophets "
         }
       },
       {
         "id": 551,
-        "name": "Super duodecim prophetas ",
+        "name": "Commentary Twelve Minor Prophets ",
         "jad_id": "jad_work__551",
         "author": [
           {
@@ -20751,7 +20751,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Super duodecim prophetas",
+        "title": "Commentary Twelve Minor Prophets",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -20780,7 +20780,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "",
         "other_editions": "",
-        "view_label": "Super duodecim prophetas ",
+        "view_label": "Commentary Twelve Minor Prophets ",
         "prev": {
           "id": "jad_work__550",
           "label": "Commentary Daniel "
@@ -21104,7 +21104,7 @@
   },
   "49": {
     "id": 49,
-    "name": "Amulo Lugdunensis, archbishop of Lyon",
+    "name": "Amulo of Lyon, archbishop",
     "jad_id": "jad_author__49",
     "gnd_url": "https://d-nb.info/gnd/100729754",
     "notes": "",
@@ -21120,14 +21120,14 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Amulo Lugdunensis, archbishop of Lyon",
+    "view_label": "Amulo of Lyon, archbishop",
     "prev": {
       "id": "jad_author__480",
       "label": ""
     },
     "next": {
       "id": "jad_author__5",
-      "label": "Hrabanus Maurus"
+      "label": "Hrabanus Maurus, archbishop of Mainz"
     },
     "related__works": [
       {
@@ -21137,7 +21137,7 @@
         "author": [
           {
             "id": 49,
-            "name": "Amulo Lugdunensis, archbishop of Lyon",
+            "name": "Amulo of Lyon, archbishop",
             "jad_id": "jad_author__49",
             "gnd_url": "https://d-nb.info/gnd/100729754",
             "notes": "",
@@ -21218,7 +21218,7 @@
     "view_label": "Atto of Vercelli",
     "prev": {
       "id": "jad_author__5",
-      "label": "Hrabanus Maurus"
+      "label": "Hrabanus Maurus, archbishop of Mainz"
     },
     "next": {
       "id": "jad_author__508",
@@ -21227,7 +21227,7 @@
     "related__works": [
       {
         "id": 62,
-        "name": "Expositio epistolarum S. Pauli ",
+        "name": "Commentary Paul's Letters ",
         "jad_id": "jad_work__62",
         "author": [
           {
@@ -21251,7 +21251,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Expositio epistolarum S. Pauli",
+        "title": "Commentary Paul's Letters",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -21280,7 +21280,7 @@
         "incipit": null,
         "volume_edition_or_individual_editor": "134",
         "other_editions": null,
-        "view_label": "Expositio epistolarum S. Pauli ",
+        "view_label": "Commentary Paul's Letters ",
         "prev": {
           "id": "jad_work__619",
           "label": "Peregrinatio "
@@ -21341,13 +21341,13 @@
     },
     "next": {
       "id": "jad_author__54",
-      "label": "Smaragdus Sancti Michaelis"
+      "label": "Smaragdus of St Michel"
     },
     "related__works": []
   },
   "54": {
     "id": 54,
-    "name": "Smaragdus Sancti Michaelis",
+    "name": "Smaragdus of St Michel",
     "jad_id": "jad_author__54",
     "gnd_url": "https://d-nb.info/gnd/118614983",
     "notes": "",
@@ -21363,14 +21363,14 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": false,
-    "view_label": "Smaragdus Sancti Michaelis",
+    "view_label": "Smaragdus of St Michel",
     "prev": {
       "id": "jad_author__52",
       "label": "uncertain"
     },
     "next": {
       "id": "jad_author__55",
-      "label": "Julianus Toletanus, archbishop of Toledo"
+      "label": "Julianus of Toledo, archbishop"
     },
     "related__works": [
       {
@@ -21380,7 +21380,7 @@
         "author": [
           {
             "id": 54,
-            "name": "Smaragdus Sancti Michaelis",
+            "name": "Smaragdus of St Michel",
             "jad_id": "jad_author__54",
             "gnd_url": "https://d-nb.info/gnd/118614983",
             "notes": "",
@@ -21442,7 +21442,7 @@
   },
   "55": {
     "id": 55,
-    "name": "Julianus Toletanus, archbishop of Toledo",
+    "name": "Julianus of Toledo, archbishop",
     "jad_id": "jad_author__55",
     "gnd_url": "https://d-nb.info/gnd/119525577",
     "notes": "",
@@ -21458,10 +21458,10 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Julianus Toletanus, archbishop of Toledo",
+    "view_label": "Julianus of Toledo, archbishop",
     "prev": {
       "id": "jad_author__54",
-      "label": "Smaragdus Sancti Michaelis"
+      "label": "Smaragdus of St Michel"
     },
     "next": {
       "id": "jad_author__56",
@@ -21475,7 +21475,7 @@
         "author": [
           {
             "id": 55,
-            "name": "Julianus Toletanus, archbishop of Toledo",
+            "name": "Julianus of Toledo, archbishop",
             "jad_id": "jad_author__55",
             "gnd_url": "https://d-nb.info/gnd/119525577",
             "notes": "",
@@ -21545,12 +21545,12 @@
       },
       {
         "id": 74,
-        "name": "Commentarius in Nahum ",
+        "name": "Commentary Nahum ",
         "jad_id": "jad_work__74",
         "author": [
           {
             "id": 55,
-            "name": "Julianus Toletanus, archbishop of Toledo",
+            "name": "Julianus of Toledo, archbishop",
             "jad_id": "jad_author__55",
             "gnd_url": "https://d-nb.info/gnd/119525577",
             "notes": "",
@@ -21569,7 +21569,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Commentarius in Nahum",
+        "title": "Commentary Nahum",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -21608,7 +21608,7 @@
         "incipit": null,
         "volume_edition_or_individual_editor": "96",
         "other_editions": null,
-        "view_label": "Commentarius in Nahum ",
+        "view_label": "Commentary Nahum ",
         "prev": {
           "id": "jad_work__739",
           "label": "Liber de predicatione "
@@ -21625,7 +21625,7 @@
         "author": [
           {
             "id": 55,
-            "name": "Julianus Toletanus, archbishop of Toledo",
+            "name": "Julianus of Toledo, archbishop",
             "jad_id": "jad_author__55",
             "gnd_url": "https://d-nb.info/gnd/119525577",
             "notes": "",
@@ -21706,7 +21706,7 @@
     "view_label": "Hugh of Flavigny",
     "prev": {
       "id": "jad_author__55",
-      "label": "Julianus Toletanus, archbishop of Toledo"
+      "label": "Julianus of Toledo, archbishop"
     },
     "next": {
       "id": "jad_author__57",
@@ -21810,7 +21810,7 @@
     "related__works": [
       {
         "id": 76,
-        "name": "Collectanea in omnes B. Pauli epistolas ",
+        "name": "Commentary Paul's Letters ",
         "jad_id": "jad_work__76",
         "author": [
           {
@@ -21834,7 +21834,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Collectanea in omnes B. Pauli epistolas",
+        "title": "Commentary Paul's Letters",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -21863,7 +21863,7 @@
         "incipit": null,
         "volume_edition_or_individual_editor": "103",
         "other_editions": null,
-        "view_label": "Collectanea in omnes B. Pauli epistolas ",
+        "view_label": "Commentary Paul's Letters ",
         "prev": {
           "id": "jad_work__759",
           "label": "Sermones "
@@ -22798,10 +22798,10 @@
             "value": "early 4th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/21578/21530/21415",
         "author_certainty": false,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "27",
         "other_editions": null,
         "view_label": "Interpretatio Chronicae Eusebii ",
         "prev": {
@@ -23658,10 +23658,10 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2353/6515/11563",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "197",
         "other_editions": null,
         "view_label": "Scivias Hildegardis sive libri visionum ac revelationum ",
         "prev": {
@@ -23918,7 +23918,7 @@
     },
     "next": {
       "id": "jad_author__69",
-      "label": "Claudius of Turin"
+      "label": "Claudius of Turin, bishop"
     },
     "related__works": [
       {
@@ -24315,7 +24315,7 @@
   },
   "69": {
     "id": 69,
-    "name": "Claudius of Turin",
+    "name": "Claudius of Turin, bishop",
     "jad_id": "jad_author__69",
     "gnd_url": "https://d-nb.info/gnd/100939112",
     "notes": "",
@@ -24331,14 +24331,14 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Claudius of Turin",
+    "view_label": "Claudius of Turin, bishop",
     "prev": {
       "id": "jad_author__68",
       "label": "Thomas of Aquin"
     },
     "next": {
       "id": "jad_author__7",
-      "label": "Lambertus Sancti Bertini"
+      "label": "Lambert of St Bertin"
     },
     "related__works": [
       {
@@ -24348,7 +24348,7 @@
         "author": [
           {
             "id": 69,
-            "name": "Claudius of Turin",
+            "name": "Claudius of Turin, bishop",
             "jad_id": "jad_author__69",
             "gnd_url": "https://d-nb.info/gnd/100939112",
             "notes": "",
@@ -24413,7 +24413,7 @@
         "author": [
           {
             "id": 69,
-            "name": "Claudius of Turin",
+            "name": "Claudius of Turin, bishop",
             "jad_id": "jad_author__69",
             "gnd_url": "https://d-nb.info/gnd/100939112",
             "notes": "",
@@ -24478,7 +24478,7 @@
         "author": [
           {
             "id": 69,
-            "name": "Claudius of Turin",
+            "name": "Claudius of Turin, bishop",
             "jad_id": "jad_author__69",
             "gnd_url": "https://d-nb.info/gnd/100939112",
             "notes": "",
@@ -24564,11 +24564,11 @@
     "view_label": "Paulus Orosius",
     "prev": {
       "id": "jad_author__7",
-      "label": "Lambertus Sancti Bertini"
+      "label": "Lambert of St Bertin"
     },
     "next": {
       "id": "jad_author__71",
-      "label": "Caesarius of Arles"
+      "label": "Caesarius of Arles, archbishop"
     },
     "related__works": [
       {
@@ -24640,7 +24640,7 @@
   },
   "71": {
     "id": 71,
-    "name": "Caesarius of Arles",
+    "name": "Caesarius of Arles, archbishop",
     "jad_id": "jad_author__71",
     "gnd_url": "https://d-nb.info/gnd/118666509",
     "notes": "",
@@ -24656,7 +24656,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Caesarius of Arles",
+    "view_label": "Caesarius of Arles, archbishop",
     "prev": {
       "id": "jad_author__70",
       "label": "Paulus Orosius"
@@ -24673,7 +24673,7 @@
         "author": [
           {
             "id": 71,
-            "name": "Caesarius of Arles",
+            "name": "Caesarius of Arles, archbishop",
             "jad_id": "jad_author__71",
             "gnd_url": "https://d-nb.info/gnd/118666509",
             "notes": "",
@@ -24738,7 +24738,7 @@
         "author": [
           {
             "id": 71,
-            "name": "Caesarius of Arles",
+            "name": "Caesarius of Arles, archbishop",
             "jad_id": "jad_author__71",
             "gnd_url": "https://d-nb.info/gnd/118666509",
             "notes": "",
@@ -24819,7 +24819,7 @@
     "view_label": "Aurelius Augustinus",
     "prev": {
       "id": "jad_author__71",
-      "label": "Caesarius of Arles"
+      "label": "Caesarius of Arles, archbishop"
     },
     "next": {
       "id": "jad_author__73",
@@ -25083,7 +25083,7 @@
         },
         "next": {
           "id": "jad_work__757",
-          "label": "Postilla in Lucam "
+          "label": "Commentary Luke "
         }
       }
     ]
@@ -25303,7 +25303,7 @@
     },
     "next": {
       "id": "jad_author__76",
-      "label": "Jacques de Voragine"
+      "label": "Jacques de Voragine, archbishop of Genoa"
     },
     "related__works": [
       {
@@ -25440,7 +25440,7 @@
   },
   "76": {
     "id": 76,
-    "name": "Jacques de Voragine",
+    "name": "Jacques de Voragine, archbishop of Genoa",
     "jad_id": "jad_author__76",
     "gnd_url": "https://d-nb.info/gnd/118556401",
     "notes": "",
@@ -25456,7 +25456,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Jacques de Voragine",
+    "view_label": "Jacques de Voragine, archbishop of Genoa",
     "prev": {
       "id": "jad_author__75",
       "label": "Alan of Lille"
@@ -25473,7 +25473,7 @@
         "author": [
           {
             "id": 76,
-            "name": "Jacques de Voragine",
+            "name": "Jacques de Voragine, archbishop of Genoa",
             "jad_id": "jad_author__76",
             "gnd_url": "https://d-nb.info/gnd/118556401",
             "notes": "",
@@ -25538,7 +25538,7 @@
         "author": [
           {
             "id": 76,
-            "name": "Jacques de Voragine",
+            "name": "Jacques de Voragine, archbishop of Genoa",
             "jad_id": "jad_author__76",
             "gnd_url": "https://d-nb.info/gnd/118556401",
             "notes": "",
@@ -25619,7 +25619,7 @@
     "view_label": "Roger of Salisbury",
     "prev": {
       "id": "jad_author__76",
-      "label": "Jacques de Voragine"
+      "label": "Jacques de Voragine, archbishop of Genoa"
     },
     "next": {
       "id": "jad_author__78",
@@ -25752,7 +25752,7 @@
         "manuscripts": [
           {
             "id": 140,
-            "value": "BNF, lat.  3816"
+            "value": "BNF, Latin 3816"
           }
         ],
         "title": "Homiliarium Narbonae",
@@ -25817,7 +25817,7 @@
         "manuscripts": [
           {
             "id": 144,
-            "value": "BNF, lat. 3792"
+            "value": "BNF, Latin 3792"
           }
         ],
         "title": "Homiliae",
@@ -25865,12 +25865,12 @@
     "id": 79,
     "name": "Josephus Latinus / Rufinus",
     "jad_id": "jad_author__79",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118640003",
     "notes": "",
     "lebensdaten": null,
-    "alt_name": null,
-    "date_of_birth": "?",
-    "date_of_death": "fl. c.400",
+    "alt_name": "Flavius Josèphe | Josefo, Flavio | Flavius Josephus | Flavius, Josephus | Giuseppe, Storico Ebreo | Josephus | Iosephus, Flavius | Flave, Josephe | Josippus | Yosefus, Ṭiṭus Flaṿius | Josephus, Historicus | Josephus, Romanus | Flavij, Iosif | Josèphe, Flavius | Flavio, Gioseffo | Iōsēpos, Phlabios | Josephus, Flavius | Josephus, Hebraeus | Josèphe, le Juif | Giuseppe, Flavio | Iosephus, Historicus | Joseph, Flave | Ioseb, P'laviosi | Yosef ben Matityahu | Phlabios, Iōsēpos | Josephos | Josephus, Latinus | Josèphe, Flavien | Флавий, Иосиф | Yosef Ben Matityahu | Flavius Iosephus | Hovsepos, P'lavios | יוסף בן מתתיהו | Yosefus, Ṭiṭus Flaṿyus | Flaṿiyus, Yosefus | Flavius, Iosephus | Yosef ben Matityahu, ha-Kohen | Fławius, J. | Yôsēf Ben-Mattityāhû | Josephus, Palaestinus | Josephos, Flavius | Yosefus, Flaṿyus | Josif, Flavij | Flavius, Joseph | Josepus, Flavius | Josephus, Titus Flavius | Gioseffo, Flavio | Flavius, Josèphe | Flavius Josephus Hebraeus | Flavio, Giuseppe | Joseph ben Mathitjahu | Flavien Josèphe | Josef, Syn Mattitʹjachu",
+    "date_of_birth": "0037",
+    "date_of_death": "0100",
     "place": [
       {
         "id": 19,
@@ -25898,12 +25898,12 @@
             "id": 79,
             "name": "Josephus Latinus / Rufinus",
             "jad_id": "jad_author__79",
-            "gnd_url": "",
+            "gnd_url": "https://d-nb.info/gnd/118640003",
             "notes": "",
             "lebensdaten": null,
-            "alt_name": null,
-            "date_of_birth": "?",
-            "date_of_death": "fl. c.400",
+            "alt_name": "Flavius Josèphe | Josefo, Flavio | Flavius Josephus | Flavius, Josephus | Giuseppe, Storico Ebreo | Josephus | Iosephus, Flavius | Flave, Josephe | Josippus | Yosefus, Ṭiṭus Flaṿius | Josephus, Historicus | Josephus, Romanus | Flavij, Iosif | Josèphe, Flavius | Flavio, Gioseffo | Iōsēpos, Phlabios | Josephus, Flavius | Josephus, Hebraeus | Josèphe, le Juif | Giuseppe, Flavio | Iosephus, Historicus | Joseph, Flave | Ioseb, P'laviosi | Yosef ben Matityahu | Phlabios, Iōsēpos | Josephos | Josephus, Latinus | Josèphe, Flavien | Флавий, Иосиф | Yosef Ben Matityahu | Flavius Iosephus | Hovsepos, P'lavios | יוסף בן מתתיהו | Yosefus, Ṭiṭus Flaṿyus | Flaṿiyus, Yosefus | Flavius, Iosephus | Yosef ben Matityahu, ha-Kohen | Fławius, J. | Yôsēf Ben-Mattityāhû | Josephus, Palaestinus | Josephos, Flavius | Yosefus, Flaṿyus | Josif, Flavij | Flavius, Joseph | Josepus, Flavius | Josephus, Titus Flavius | Gioseffo, Flavio | Flavius, Josèphe | Flavius Josephus Hebraeus | Flavio, Giuseppe | Joseph ben Mathitjahu | Flavien Josèphe | Josef, Syn Mattitʹjachu",
+            "date_of_birth": "0037",
+            "date_of_death": "0100",
             "place": [
               {
                 "id": 19,
@@ -25939,10 +25939,10 @@
             "value": "late 4th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://www.latinjosephus.org/",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "ed. Pollard",
         "other_editions": null,
         "view_label": "De bello Iudaico ",
         "prev": {
@@ -26176,7 +26176,7 @@
     },
     "next": {
       "id": "jad_author__82",
-      "label": "Walafrid Strabo"
+      "label": "Walafrid Strabo, abbot of Reichenau"
     },
     "related__works": [
       {
@@ -26248,7 +26248,7 @@
   },
   "82": {
     "id": 82,
-    "name": "Walafrid Strabo",
+    "name": "Walafrid Strabo, abbot of Reichenau",
     "jad_id": "jad_author__82",
     "gnd_url": "https://d-nb.info/gnd/118628550",
     "notes": "",
@@ -26264,7 +26264,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Walafrid Strabo",
+    "view_label": "Walafrid Strabo, abbot of Reichenau",
     "prev": {
       "id": "jad_author__81",
       "label": "William of Bourges"
@@ -26281,7 +26281,7 @@
         "author": [
           {
             "id": 82,
-            "name": "Walafrid Strabo",
+            "name": "Walafrid Strabo, abbot of Reichenau",
             "jad_id": "jad_author__82",
             "gnd_url": "https://d-nb.info/gnd/118628550",
             "notes": "",
@@ -26371,7 +26371,7 @@
         "author": [
           {
             "id": 82,
-            "name": "Walafrid Strabo",
+            "name": "Walafrid Strabo, abbot of Reichenau",
             "jad_id": "jad_author__82",
             "gnd_url": "https://d-nb.info/gnd/118628550",
             "notes": "",
@@ -26456,7 +26456,7 @@
         "author": [
           {
             "id": 82,
-            "name": "Walafrid Strabo",
+            "name": "Walafrid Strabo, abbot of Reichenau",
             "jad_id": "jad_author__82",
             "gnd_url": "https://d-nb.info/gnd/118628550",
             "notes": "",
@@ -26516,12 +26516,12 @@
       },
       {
         "id": 459,
-        "name": "Expositio super Psalmos ",
+        "name": "Commentary Psalms ",
         "jad_id": "jad_work__459",
         "author": [
           {
             "id": 82,
-            "name": "Walafrid Strabo",
+            "name": "Walafrid Strabo, abbot of Reichenau",
             "jad_id": "jad_author__82",
             "gnd_url": "https://d-nb.info/gnd/118628550",
             "notes": "",
@@ -26545,7 +26545,7 @@
             "value": "Karlsruhe, Aug. perg. 192"
           }
         ],
-        "title": "Expositio super Psalmos",
+        "title": "Commentary Psalms",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -26574,7 +26574,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "",
         "other_editions": null,
-        "view_label": "Expositio super Psalmos ",
+        "view_label": "Commentary Psalms ",
         "prev": {
           "id": "jad_work__458",
           "label": "Commentary Twelve Minor Prophets "
@@ -26591,7 +26591,7 @@
         "author": [
           {
             "id": 82,
-            "name": "Walafrid Strabo",
+            "name": "Walafrid Strabo, abbot of Reichenau",
             "jad_id": "jad_author__82",
             "gnd_url": "https://d-nb.info/gnd/118628550",
             "notes": "",
@@ -26656,7 +26656,7 @@
         "author": [
           {
             "id": 82,
-            "name": "Walafrid Strabo",
+            "name": "Walafrid Strabo, abbot of Reichenau",
             "jad_id": "jad_author__82",
             "gnd_url": "https://d-nb.info/gnd/118628550",
             "notes": "",
@@ -26737,7 +26737,7 @@
     "view_label": "Otfrid of Weißenburg",
     "prev": {
       "id": "jad_author__82",
-      "label": "Walafrid Strabo"
+      "label": "Walafrid Strabo, abbot of Reichenau"
     },
     "next": {
       "id": "jad_author__84",
@@ -27006,7 +27006,7 @@
     },
     "next": {
       "id": "jad_author__86",
-      "label": "Odo of Cluny"
+      "label": "Odo of Cluny, abbot"
     },
     "related__works": [
       {
@@ -27078,7 +27078,7 @@
   },
   "86": {
     "id": 86,
-    "name": "Odo of Cluny",
+    "name": "Odo of Cluny, abbot",
     "jad_id": "jad_author__86",
     "gnd_url": "https://d-nb.info/gnd/100955916",
     "notes": "",
@@ -27094,14 +27094,14 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Odo of Cluny",
+    "view_label": "Odo of Cluny, abbot",
     "prev": {
       "id": "jad_author__85",
       "label": "Philippus de Harvengt"
     },
     "next": {
       "id": "jad_author__87",
-      "label": "Odilo of Cluny"
+      "label": "Odilo of Cluny, abbot"
     },
     "related__works": [
       {
@@ -27111,7 +27111,7 @@
         "author": [
           {
             "id": 86,
-            "name": "Odo of Cluny",
+            "name": "Odo of Cluny, abbot",
             "jad_id": "jad_author__86",
             "gnd_url": "https://d-nb.info/gnd/100955916",
             "notes": "",
@@ -27154,10 +27154,10 @@
             "value": "10th cen., first half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1669/4399/9428",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "133",
         "other_editions": null,
         "view_label": "Moralia in Job ",
         "prev": {
@@ -27173,7 +27173,7 @@
   },
   "87": {
     "id": 87,
-    "name": "Odilo of Cluny",
+    "name": "Odilo of Cluny, abbot",
     "jad_id": "jad_author__87",
     "gnd_url": "https://d-nb.info/gnd/100955835",
     "notes": "",
@@ -27189,10 +27189,10 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Odilo of Cluny",
+    "view_label": "Odilo of Cluny, abbot",
     "prev": {
       "id": "jad_author__86",
-      "label": "Odo of Cluny"
+      "label": "Odo of Cluny, abbot"
     },
     "next": {
       "id": "jad_author__88",
@@ -27206,7 +27206,7 @@
         "author": [
           {
             "id": 87,
-            "name": "Odilo of Cluny",
+            "name": "Odilo of Cluny, abbot",
             "jad_id": "jad_author__87",
             "gnd_url": "https://d-nb.info/gnd/100955835",
             "notes": "",
@@ -27249,10 +27249,10 @@
             "value": "11th cen., first half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1846/4927/9959",
         "author_certainty": false,
         "incipit": "",
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "142",
         "other_editions": null,
         "view_label": "Vita Maioli ",
         "prev": {
@@ -27287,7 +27287,7 @@
     "view_label": "Petrus Alfonsi",
     "prev": {
       "id": "jad_author__87",
-      "label": "Odilo of Cluny"
+      "label": "Odilo of Cluny, abbot"
     },
     "next": {
       "id": "jad_author__89",
@@ -27344,10 +27344,10 @@
             "value": "early 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=2097/5555/10592",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "157",
         "other_editions": null,
         "view_label": "Dialogus ",
         "prev": {
@@ -27439,10 +27439,10 @@
             "value": "9th cen., first half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/20449/3789/8812",
         "author_certainty": false,
         "incipit": "",
-        "volume_edition_or_individual_editor": null,
+        "volume_edition_or_individual_editor": "104",
         "other_editions": null,
         "view_label": "Commentary Kings ",
         "prev": {
@@ -27486,7 +27486,7 @@
     "related__works": [
       {
         "id": 228,
-        "name": "Expositio in Psalmos ",
+        "name": "Commentary Psalms ",
         "jad_id": "jad_work__228",
         "author": [
           {
@@ -27510,7 +27510,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Expositio in Psalmos",
+        "title": "Commentary Psalms",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -27539,7 +27539,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "152",
         "other_editions": null,
-        "view_label": "Expositio in Psalmos ",
+        "view_label": "Commentary Psalms ",
         "prev": {
           "id": "jad_work__227",
           "label": "Annales Stabulenses "
@@ -27551,7 +27551,7 @@
       },
       {
         "id": 262,
-        "name": "Expositio in epistolas Pauli ",
+        "name": "Commentary Paul's Letters ",
         "jad_id": "jad_work__262",
         "author": [
           {
@@ -27575,7 +27575,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Expositio in epistolas Pauli",
+        "title": "Commentary Paul's Letters",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -27599,12 +27599,12 @@
             "value": "late 11th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2035/5448/10482",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "153",
         "other_editions": null,
-        "view_label": "Expositio in epistolas Pauli ",
+        "view_label": "Commentary Paul's Letters ",
         "prev": {
           "id": "jad_work__261",
           "label": "Chronicon "
@@ -27697,7 +27697,7 @@
         "link_digital_editions": "",
         "author_certainty": false,
         "incipit": "",
-        "volume_edition_or_individual_editor": "Hans Martin Schaller, ‘Zur Kreuzzugsenzyklika Papst Sergius’ IV’, in Papsttum, Kirche und Recht im Mittelalter. Festschrift für Horst Fuhrmann, ed. Hubert Mordek (Tübingen 1991).",
+        "volume_edition_or_individual_editor": "Hans Martin Schaller, \"Zur Kreuzzugsenzyklika Papst Sergius’ IV,\" in Papsttum, Kirche und Recht im Mittelalter. Festschrift für Horst Fuhrmann, ed. Hubert Mordek (Tübingen 1991).",
         "other_editions": null,
         "view_label": "Crusade letter ",
         "prev": {
@@ -28237,12 +28237,12 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "ed. Balthazar Bellère, Bibliotheca mundi seu Speculi maioris [...] tomus primus, qui Speculum naturale inscribitur (Duaci 1624)",
+        "volume_edition_or_individual_editor": "ed. Balthazar Bellère, Bibliotheca mundi seu Speculi maioris [...] tomus primus, qui Speculum naturale inscribitur (Douai 1624)",
         "other_editions": "",
         "view_label": "Speculum naturale ",
         "prev": {
           "id": "jad_work__621",
-          "label": "In unum ex quatuor "
+          "label": "Commentary Gospels (In unum ex quatuor) "
         },
         "next": {
           "id": "jad_work__623",
@@ -28622,7 +28622,7 @@
     "view_label": "Robertus de Cricklade",
     "prev": {
       "id": "jad_author__10",
-      "label": "Stephen Langton"
+      "label": "Stephen Langton, archbishop of Canterbury"
     },
     "next": {
       "id": "jad_author__101",
@@ -28726,13 +28726,13 @@
     },
     "next": {
       "id": "jad_author__102",
-      "label": "Nicolaus de Hanapis, patriarch of Jerusalem"
+      "label": "Nicolas de Hanapis, patriarch of Jerusalem"
     },
     "related__works": []
   },
   "102": {
     "id": 102,
-    "name": "Nicolaus de Hanapis, patriarch of Jerusalem",
+    "name": "Nicolas de Hanapis, patriarch of Jerusalem",
     "jad_id": "jad_author__102",
     "gnd_url": "https://d-nb.info/gnd/100954820",
     "notes": "",
@@ -28748,7 +28748,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Nicolaus de Hanapis, patriarch of Jerusalem",
+    "view_label": "Nicolas de Hanapis, patriarch of Jerusalem",
     "prev": {
       "id": "jad_author__101",
       "label": "Vindicta Salvatoris"
@@ -28765,7 +28765,7 @@
         "author": [
           {
             "id": 102,
-            "name": "Nicolaus de Hanapis, patriarch of Jerusalem",
+            "name": "Nicolas de Hanapis, patriarch of Jerusalem",
             "jad_id": "jad_author__102",
             "gnd_url": "https://d-nb.info/gnd/100954820",
             "notes": "",
@@ -28851,7 +28851,7 @@
     "view_label": "William de Montibus",
     "prev": {
       "id": "jad_author__102",
-      "label": "Nicolaus de Hanapis, patriarch of Jerusalem"
+      "label": "Nicolas de Hanapis, patriarch of Jerusalem"
     },
     "next": {
       "id": "jad_author__104",
@@ -29241,7 +29241,7 @@
         "view_label": "Sermones ",
         "prev": {
           "id": "jad_work__757",
-          "label": "Postilla in Lucam "
+          "label": "Commentary Luke "
         },
         "next": {
           "id": "jad_work__759",
@@ -29340,7 +29340,7 @@
         },
         "next": {
           "id": "jad_work__254",
-          "label": "Expositio Evangelii secundum Lucam "
+          "label": "Commentary Luke "
         }
       }
     ]
@@ -29370,7 +29370,7 @@
     },
     "next": {
       "id": "jad_author__108",
-      "label": "Ambrosius of Milan"
+      "label": "Ambrosius of Milan, bishop"
     },
     "related__works": [
       {
@@ -29442,7 +29442,7 @@
   },
   "108": {
     "id": 108,
-    "name": "Ambrosius of Milan",
+    "name": "Ambrosius of Milan, bishop",
     "jad_id": "jad_author__108",
     "gnd_url": "https://d-nb.info/gnd/11850245X",
     "notes": "",
@@ -29458,7 +29458,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Ambrosius of Milan",
+    "view_label": "Ambrosius of Milan, bishop",
     "prev": {
       "id": "jad_author__107",
       "label": "Ammonius Alexandrinus"
@@ -29470,12 +29470,12 @@
     "related__works": [
       {
         "id": 254,
-        "name": "Expositio Evangelii secundum Lucam ",
+        "name": "Commentary Luke ",
         "jad_id": "jad_work__254",
         "author": [
           {
             "id": 108,
-            "name": "Ambrosius of Milan",
+            "name": "Ambrosius of Milan, bishop",
             "jad_id": "jad_author__108",
             "gnd_url": "https://d-nb.info/gnd/11850245X",
             "notes": "",
@@ -29494,7 +29494,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Expositio Evangelii secundum Lucam",
+        "title": "Commentary Luke",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -29521,9 +29521,9 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "15",
         "other_editions": null,
-        "view_label": "Expositio Evangelii secundum Lucam ",
+        "view_label": "Commentary Luke ",
         "prev": {
           "id": "jad_work__253",
           "label": "De locis sanctis "
@@ -29540,7 +29540,7 @@
         "author": [
           {
             "id": 108,
-            "name": "Ambrosius of Milan",
+            "name": "Ambrosius of Milan, bishop",
             "jad_id": "jad_author__108",
             "gnd_url": "https://d-nb.info/gnd/11850245X",
             "notes": "",
@@ -29583,15 +29583,15 @@
             "value": "around 400"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/958/411/6966",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "15",
         "other_editions": null,
         "view_label": "Expositio in psalmum David ",
         "prev": {
           "id": "jad_work__254",
-          "label": "Expositio Evangelii secundum Lucam "
+          "label": "Commentary Luke "
         },
         "next": {
           "id": "jad_work__256",
@@ -29621,7 +29621,7 @@
     "view_label": "Balderich of Bourgueil",
     "prev": {
       "id": "jad_author__108",
-      "label": "Ambrosius of Milan"
+      "label": "Ambrosius of Milan, bishop"
     },
     "next": {
       "id": "jad_author__11",
@@ -29678,10 +29678,10 @@
             "value": "1110s"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2129/5798/10837",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "166",
         "other_editions": null,
         "view_label": "Historia Hierosolymitana ",
         "prev": {
@@ -29773,10 +29773,10 @@
             "value": "after 1187"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2436/6755/11805",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "213",
         "other_editions": "Corpus Christianorum",
         "view_label": "De penitentia ",
         "prev": {
@@ -29868,10 +29868,10 @@
             "value": "late 11th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1941/21464/21338",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "148",
         "other_editions": null,
         "view_label": "Chronicon ",
         "prev": {
@@ -29880,7 +29880,7 @@
         },
         "next": {
           "id": "jad_work__262",
-          "label": "Expositio in epistolas Pauli "
+          "label": "Commentary Paul's Letters "
         }
       }
     ]
@@ -29963,7 +29963,7 @@
             "value": "mid 13th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://www.dmgh.de/mgh_qq_zur_geistesgesch_1/index.htm#page/(III)/mode/1up",
         "author_certainty": true,
         "incipit": "",
         "volume_edition_or_individual_editor": "QQ zur Geistesgesch. 1",
@@ -29971,7 +29971,7 @@
         "view_label": "Expositio in Apocalypsim ",
         "prev": {
           "id": "jad_work__262",
-          "label": "Expositio in epistolas Pauli "
+          "label": "Commentary Paul's Letters "
         },
         "next": {
           "id": "jad_work__264",
@@ -30058,10 +30058,10 @@
             "value": "early 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://www.dmgh.de/mgh_qq_zur_geistesgesch_19/index.htm#page/(III)/mode/1up",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "QQ zur Geistesgesch. 19",
         "other_editions": null,
         "view_label": "De decursu temporum ",
         "prev": {
@@ -30153,10 +30153,10 @@
             "value": "mid 6th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1027/2924/21404",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "70",
         "other_editions": null,
         "view_label": "Commentary Psalms ",
         "prev": {
@@ -30218,10 +30218,10 @@
             "value": "mid 6th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1027/2907/7905",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "69",
         "other_editions": null,
         "view_label": "Chronicon ",
         "prev": {
@@ -30283,10 +30283,10 @@
             "value": "mid 6th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1027/2919/7917",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "70",
         "other_editions": null,
         "view_label": "Complexiones in epistulis apostolorum ",
         "prev": {
@@ -30378,10 +30378,10 @@
             "value": "12th cen., first half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2262/6140/11181",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "181",
         "other_editions": null,
         "view_label": "Commentary Isaiah ",
         "prev": {
@@ -30390,12 +30390,12 @@
         },
         "next": {
           "id": "jad_work__269",
-          "label": "Commentaria in epistolas Pauli "
+          "label": "Commentary Paul's Letters "
         }
       },
       {
         "id": 269,
-        "name": "Commentaria in epistolas Pauli ",
+        "name": "Commentary Paul's Letters ",
         "jad_id": "jad_work__269",
         "author": [
           {
@@ -30419,7 +30419,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Commentaria in epistolas Pauli",
+        "title": "Commentary Paul's Letters",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -30443,12 +30443,12 @@
             "value": "12th cen., first half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2262/6141/11182",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "181",
         "other_editions": null,
-        "view_label": "Commentaria in epistolas Pauli ",
+        "view_label": "Commentary Paul's Letters ",
         "prev": {
           "id": "jad_work__268",
           "label": "Commentary Isaiah "
@@ -30538,10 +30538,10 @@
             "value": "11th cen., first half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1835/4907/9939",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "142",
         "other_editions": null,
         "view_label": "Commentary Psalms ",
         "prev": {
@@ -30832,10 +30832,10 @@
             "value": "5th cen., first half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1068/2563/7549",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "50",
         "other_editions": null,
         "view_label": "Formulae spiritalis intelligentiae ",
         "prev": {
@@ -30897,10 +30897,10 @@
             "value": "5th cen., first half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1068/2565/7551",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "50",
         "other_editions": null,
         "view_label": "Instructiones ",
         "prev": {
@@ -30992,10 +30992,10 @@
             "value": "mid 4th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/935/343/6898",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "12",
         "other_editions": null,
         "view_label": "Evangelium ",
         "prev": {
@@ -31034,7 +31034,7 @@
     },
     "next": {
       "id": "jad_author__122",
-      "label": "Fulbert of Chartres"
+      "label": "Fulbert of Chartres, bishop"
     },
     "related__works": [
       {
@@ -31087,10 +31087,10 @@
             "value": "mid 10th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1542/4436/9465",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "135",
         "other_editions": null,
         "view_label": "De triumphis Christi apud Italiam ",
         "prev": {
@@ -31106,7 +31106,7 @@
   },
   "122": {
     "id": 122,
-    "name": "Fulbert of Chartres",
+    "name": "Fulbert of Chartres, bishop",
     "jad_id": "jad_author__122",
     "gnd_url": "https://d-nb.info/gnd/118703528",
     "notes": "",
@@ -31122,7 +31122,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Fulbert of Chartres",
+    "view_label": "Fulbert of Chartres, bishop",
     "prev": {
       "id": "jad_author__121",
       "label": "Flodoard of Reims"
@@ -31139,7 +31139,7 @@
         "author": [
           {
             "id": 122,
-            "name": "Fulbert of Chartres",
+            "name": "Fulbert of Chartres, bishop",
             "jad_id": "jad_author__122",
             "gnd_url": "https://d-nb.info/gnd/118703528",
             "notes": "",
@@ -31182,10 +31182,10 @@
             "value": "around 1000"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1811/4850/9882",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "141",
         "other_editions": null,
         "view_label": "Tractatus contra Judaeos ",
         "prev": {
@@ -31220,7 +31220,7 @@
     "view_label": "Walter of Chatillon",
     "prev": {
       "id": "jad_author__122",
-      "label": "Fulbert of Chartres"
+      "label": "Fulbert of Chartres, bishop"
     },
     "next": {
       "id": "jad_author__124",
@@ -31277,10 +31277,10 @@
             "value": "late 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2414/6682/11731",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "209",
         "other_editions": null,
         "view_label": "Tractatus contra Judaeos ",
         "prev": {
@@ -31372,10 +31372,10 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2337/6463/11511",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "195",
         "other_editions": null,
         "view_label": "Historia Anglorum ",
         "prev": {
@@ -31467,10 +31467,10 @@
             "value": "after 1187"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2388/6615/11664",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "204",
         "other_editions": null,
         "view_label": "De peregrinante civitate Dei ",
         "prev": {
@@ -31699,7 +31699,7 @@
     },
     "next": {
       "id": "jad_author__129",
-      "label": "Hildebert of Lavardin"
+      "label": "Hildebert of Lavardin, archbishop of Tours"
     },
     "related__works": [
       {
@@ -31771,7 +31771,7 @@
   },
   "129": {
     "id": 129,
-    "name": "Hildebert of Lavardin",
+    "name": "Hildebert of Lavardin, archbishop of Tours",
     "jad_id": "jad_author__129",
     "gnd_url": "https://d-nb.info/gnd/118704710",
     "notes": "",
@@ -31787,7 +31787,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Hildebert of Lavardin",
+    "view_label": "Hildebert of Lavardin, archbishop of Tours",
     "prev": {
       "id": "jad_author__128",
       "label": "Hilarius of Poitiers"
@@ -31804,7 +31804,7 @@
         "author": [
           {
             "id": 129,
-            "name": "Hildebert of Lavardin",
+            "name": "Hildebert of Lavardin, archbishop of Tours",
             "jad_id": "jad_author__129",
             "gnd_url": "https://d-nb.info/gnd/118704710",
             "notes": "",
@@ -31889,7 +31889,7 @@
     },
     "next": {
       "id": "jad_author__131",
-      "label": "Geoffrey, prior of the templum domini"
+      "label": "Geoffrey, prior of the Templum Domini"
     },
     "related__works": [
       {
@@ -31942,10 +31942,10 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2373/6568/11617",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "202",
         "other_editions": null,
         "view_label": "De anima corpore exuta ",
         "prev": {
@@ -31961,7 +31961,7 @@
   },
   "131": {
     "id": 131,
-    "name": "Geoffrey, prior of the templum domini",
+    "name": "Geoffrey, prior of the Templum Domini",
     "jad_id": "jad_author__131",
     "gnd_url": "",
     "notes": "",
@@ -31977,7 +31977,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": false,
-    "view_label": "Geoffrey, prior of the templum domini",
+    "view_label": "Geoffrey, prior of the Templum Domini",
     "prev": {
       "id": "jad_author__130",
       "label": "Eterianus Hugo"
@@ -31994,7 +31994,7 @@
         "author": [
           {
             "id": 131,
-            "name": "Geoffrey, prior of the templum domini",
+            "name": "Geoffrey, prior of the Templum Domini",
             "jad_id": "jad_author__131",
             "gnd_url": "",
             "notes": "",
@@ -32050,7 +32050,7 @@
         "link_digital_editions": "https://www.tandfonline.com/doi/full/10.1080/28327861.2014.12220391",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "Yolles",
+        "volume_edition_or_individual_editor": "ed. Yolles",
         "other_editions": null,
         "view_label": "De septem libris Iosephi ",
         "prev": {
@@ -32069,7 +32069,7 @@
         "author": [
           {
             "id": 131,
-            "name": "Geoffrey, prior of the templum domini",
+            "name": "Geoffrey, prior of the Templum Domini",
             "jad_id": "jad_author__131",
             "gnd_url": "",
             "notes": "",
@@ -32130,7 +32130,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "Lehmann, Paul, ‘Die mittellateinischen Dichtungen der Prioren des Tempels von Jerusalem Acardus und Gaufridus’, in Corona Quernea. Festgabe Karl Strecker zum 80. Geburtstage dargebracht (Leipzig 1941), pp. 296–330.",
+        "volume_edition_or_individual_editor": "Paul Lehmann, \"Die mittellateinischen Dichtungen der Prioren des Tempels von Jerusalem Acardus und Gaufridus,\" in: Corona Quernea. Festgabe Karl Strecker zum 80. Geburtstage dargebracht (Leipzig 1941), pp. 296–330.",
         "other_editions": null,
         "view_label": "Super templo Salomonis ",
         "prev": {
@@ -32165,7 +32165,7 @@
     "view_label": "Hugh of Fleury",
     "prev": {
       "id": "jad_author__131",
-      "label": "Geoffrey, prior of the templum domini"
+      "label": "Geoffrey, prior of the Templum Domini"
     },
     "next": {
       "id": "jad_author__133",
@@ -32382,10 +32382,10 @@
             "value": "early 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2230/6021/11061",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "175",
         "other_editions": null,
         "view_label": "De scripturis et scriptoribus sacris ",
         "prev": {
@@ -32447,10 +32447,10 @@
             "value": "early 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2230/6017/11057",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "175",
         "other_editions": null,
         "view_label": "Adnotatiunculae in Joelem ",
         "prev": {
@@ -32512,10 +32512,10 @@
             "value": "early 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2230/6018/11058",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "175",
         "other_editions": null,
         "view_label": "Adnotatiunculae in Threnos ",
         "prev": {
@@ -32524,7 +32524,7 @@
         },
         "next": {
           "id": "jad_work__295",
-          "label": "In Lamentationes Jeremiae "
+          "label": "Commentary Lamentationes "
         }
       },
       {
@@ -32577,10 +32577,10 @@
             "value": "12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=11052",
         "author_certainty": false,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "175",
         "other_editions": null,
         "view_label": "Posteriores excerptiones ",
         "prev": {
@@ -32642,10 +32642,10 @@
             "value": "12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=11093",
         "author_certainty": false,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "177",
         "other_editions": null,
         "view_label": "Miscellanea ",
         "prev": {
@@ -32737,19 +32737,19 @@
             "value": "early 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=2239/6085/11126",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "178",
         "other_editions": null,
         "view_label": "Sermones ",
         "prev": {
           "id": "jad_work__295",
-          "label": "In Lamentationes Jeremiae "
+          "label": "Commentary Lamentationes "
         },
         "next": {
           "id": "jad_work__297",
-          "label": "Collectanea in epistolas Pauli "
+          "label": "Commentary Paul's Letters "
         }
       },
       {
@@ -32789,10 +32789,10 @@
         "institutional_context": [],
         "published_edition": [
           {
-            "id": 2,
-            "name": "Patrologia Latina",
-            "jad_id": "jad_sources_occurrences__2",
-            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+            "id": 7,
+            "name": "Corpus Christianorum",
+            "jad_id": "jad_sources_occurrences__7",
+            "digi_url": ""
           }
         ],
         "date_certainty": true,
@@ -32802,10 +32802,10 @@
             "value": "early 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=2330",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "112",
         "other_editions": null,
         "view_label": "Theologica Christiana ",
         "prev": {
@@ -32970,7 +32970,7 @@
         "view_label": "Sententiae ",
         "prev": {
           "id": "jad_work__297",
-          "label": "Collectanea in epistolas Pauli "
+          "label": "Commentary Paul's Letters "
         },
         "next": {
           "id": "jad_work__299",
@@ -33614,12 +33614,12 @@
         },
         "next": {
           "id": "jad_work__307",
-          "label": "Enarratio in evangelium secundum Lucam "
+          "label": "Commentary Luke "
         }
       },
       {
         "id": 307,
-        "name": "Enarratio in evangelium secundum Lucam ",
+        "name": "Commentary Luke ",
         "jad_id": "jad_work__307",
         "author": [
           {
@@ -33643,7 +33643,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Enarratio in evangelium secundum Lucam",
+        "title": "Commentary Luke",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -33672,7 +33672,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "opera omnia, vol. 11, 1900",
         "other_editions": null,
-        "view_label": "Enarratio in evangelium secundum Lucam ",
+        "view_label": "Commentary Luke ",
         "prev": {
           "id": "jad_work__306",
           "label": "Commentary Daniel "
@@ -33740,7 +33740,7 @@
         "view_label": "Enarratio in euangelium secundum Iohannem ",
         "prev": {
           "id": "jad_work__586",
-          "label": "In libros Macchabaeorum "
+          "label": "Commentary Macchabees "
         },
         "next": {
           "id": "jad_work__588",
@@ -34784,12 +34784,12 @@
         },
         "next": {
           "id": "jad_work__604",
-          "label": "Lamentationes Ieremiae "
+          "label": "Commentary Lamentationes "
         }
       },
       {
         "id": 604,
-        "name": "Lamentationes Ieremiae ",
+        "name": "Commentary Lamentationes ",
         "jad_id": "jad_work__604",
         "author": [
           {
@@ -34813,7 +34813,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Lamentationes Ieremiae",
+        "title": "Commentary Lamentationes",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -34842,7 +34842,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "opera omnia, vol. 9, 1900",
         "other_editions": "",
-        "view_label": "Lamentationes Ieremiae ",
+        "view_label": "Commentary Lamentationes ",
         "prev": {
           "id": "jad_work__603",
           "label": "Enarrationes in omnes beati Pauli Epistulas "
@@ -34932,15 +34932,15 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2374/6570/11619",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "202",
         "other_editions": "Corpus Christianorum",
         "view_label": "Rationale divinorum officiorum ",
         "prev": {
           "id": "jad_work__307",
-          "label": "Enarratio in evangelium secundum Lucam "
+          "label": "Commentary Luke "
         },
         "next": {
           "id": "jad_work__309",
@@ -35027,10 +35027,10 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=11585",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "199",
         "other_editions": null,
         "view_label": "Polycraticus ",
         "prev": {
@@ -35092,10 +35092,10 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/2360/6535/11583",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "199",
         "other_editions": null,
         "view_label": "Epistolae ",
         "prev": {
@@ -35187,10 +35187,10 @@
             "value": "early 4th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/902/252/6807",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "6",
         "other_editions": null,
         "view_label": "Divinae institutiones ",
         "prev": {
@@ -35252,10 +35252,10 @@
             "value": "early 4th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/902/259/6814",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "6",
         "other_editions": null,
         "view_label": "Epitome Divinarum institutionum ",
         "prev": {
@@ -35347,10 +35347,10 @@
             "value": "around 1000"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1404/3515/8532",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "95",
         "other_editions": null,
         "view_label": "Historia miscella ",
         "prev": {
@@ -35442,10 +35442,10 @@
             "value": "mid 5th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1098/2649/7637",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "55",
         "other_editions": null,
         "view_label": "De haeresi et historia Manichaeorum ",
         "prev": {
@@ -35484,7 +35484,7 @@
     },
     "next": {
       "id": "jad_author__146",
-      "label": "Nikolaus I, pope"
+      "label": "Nicolas I, pope"
     },
     "related__works": [
       {
@@ -35537,10 +35537,10 @@
             "value": "11th cen., second half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1932/5195/10228",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "147",
         "other_editions": null,
         "view_label": "Chronicon ",
         "prev": {
@@ -35556,7 +35556,7 @@
   },
   "146": {
     "id": 146,
-    "name": "Nikolaus I, pope",
+    "name": "Nicolas I, pope",
     "jad_id": "jad_author__146",
     "gnd_url": "https://d-nb.info/gnd/118588044",
     "notes": "",
@@ -35572,14 +35572,14 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Nikolaus I, pope",
+    "view_label": "Nicolas I, pope",
     "prev": {
       "id": "jad_author__145",
       "label": "Marianus Scotus"
     },
     "next": {
       "id": "jad_author__147",
-      "label": "Odo Astensis"
+      "label": "Odo of Asti"
     },
     "related__works": [
       {
@@ -35589,7 +35589,7 @@
         "author": [
           {
             "id": 146,
-            "name": "Nikolaus I, pope",
+            "name": "Nicolas I, pope",
             "jad_id": "jad_author__146",
             "gnd_url": "https://d-nb.info/gnd/118588044",
             "notes": "",
@@ -35632,10 +35632,10 @@
             "value": "860s"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/21584/21513/21397",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "119",
         "other_editions": null,
         "view_label": "Epistolae et decreta ",
         "prev": {
@@ -35651,7 +35651,7 @@
   },
   "147": {
     "id": 147,
-    "name": "Odo Astensis",
+    "name": "Odo of Asti",
     "jad_id": "jad_author__147",
     "gnd_url": "https://d-nb.info/gnd/100955851",
     "notes": "",
@@ -35667,14 +35667,14 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": false,
-    "view_label": "Odo Astensis",
+    "view_label": "Odo of Asti",
     "prev": {
       "id": "jad_author__146",
-      "label": "Nikolaus I, pope"
+      "label": "Nicolas I, pope"
     },
     "next": {
       "id": "jad_author__148",
-      "label": "Optatus of Milet"
+      "label": "Optatus of Milet, bishop"
     },
     "related__works": [
       {
@@ -35684,7 +35684,7 @@
         "author": [
           {
             "id": 147,
-            "name": "Odo Astensis",
+            "name": "Odo of Asti",
             "jad_id": "jad_author__147",
             "gnd_url": "https://d-nb.info/gnd/100955851",
             "notes": "",
@@ -35746,7 +35746,7 @@
   },
   "148": {
     "id": 148,
-    "name": "Optatus of Milet",
+    "name": "Optatus of Milet, bishop",
     "jad_id": "jad_author__148",
     "gnd_url": "https://d-nb.info/gnd/118736493",
     "notes": "",
@@ -35762,10 +35762,10 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": false,
-    "view_label": "Optatus of Milet",
+    "view_label": "Optatus of Milet, bishop",
     "prev": {
       "id": "jad_author__147",
-      "label": "Odo Astensis"
+      "label": "Odo of Asti"
     },
     "next": {
       "id": "jad_author__149",
@@ -35779,7 +35779,7 @@
         "author": [
           {
             "id": 148,
-            "name": "Optatus of Milet",
+            "name": "Optatus of Milet, bishop",
             "jad_id": "jad_author__148",
             "gnd_url": "https://d-nb.info/gnd/118736493",
             "notes": "",
@@ -35822,10 +35822,10 @@
             "value": "late 4th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/932/337/6892",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "11",
         "other_editions": null,
         "view_label": "De schismate Donatistarum ",
         "prev": {
@@ -35860,11 +35860,11 @@
     "view_label": "Origenes",
     "prev": {
       "id": "jad_author__148",
-      "label": "Optatus of Milet"
+      "label": "Optatus of Milet, bishop"
     },
     "next": {
       "id": "jad_author__15",
-      "label": "Bruno of Segni"
+      "label": "Bruno of Segni, cardinal bishop"
     },
     "related__works": [
       {
@@ -35912,10 +35912,10 @@
         ],
         "date_certainty": false,
         "date": [],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1049/636/7192",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "26",
         "other_editions": null,
         "view_label": "Homiliae ",
         "prev": {
@@ -35950,7 +35950,7 @@
     "view_label": "Paulinus of Nola",
     "prev": {
       "id": "jad_author__15",
-      "label": "Bruno of Segni"
+      "label": "Bruno of Segni, cardinal bishop"
     },
     "next": {
       "id": "jad_author__151",
@@ -36007,10 +36007,10 @@
             "value": "around 400"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1131/2727/7719",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "61",
         "other_editions": null,
         "view_label": "Excerpta ex operibus deperditis S. Paulini ",
         "prev": {
@@ -36102,10 +36102,10 @@
             "value": "mid 9th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1564/4128/9151",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "121",
         "other_editions": null,
         "view_label": "Epistolae ",
         "prev": {
@@ -36197,10 +36197,10 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/2375/6572/11621",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "202",
         "other_editions": null,
         "view_label": "De panibus ",
         "prev": {
@@ -36262,10 +36262,10 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/2375/6576/11625",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "202",
         "other_editions": null,
         "view_label": "Sermones ",
         "prev": {
@@ -36304,7 +36304,7 @@
     },
     "next": {
       "id": "jad_author__154",
-      "label": "Peter des Vaux-de-Cernay"
+      "label": "Petrus des Vaux-de-Cernay"
     },
     "related__works": [
       {
@@ -36357,10 +36357,10 @@
             "value": "5th cen., first half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1083/2610/7597",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "52",
         "other_editions": null,
         "view_label": "Sermones ",
         "prev": {
@@ -36376,7 +36376,7 @@
   },
   "154": {
     "id": 154,
-    "name": "Peter des Vaux-de-Cernay",
+    "name": "Petrus des Vaux-de-Cernay",
     "jad_id": "jad_author__154",
     "gnd_url": "https://d-nb.info/gnd/100957994",
     "notes": "",
@@ -36392,7 +36392,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Peter des Vaux-de-Cernay",
+    "view_label": "Petrus des Vaux-de-Cernay",
     "prev": {
       "id": "jad_author__153",
       "label": "Petrus Chrysologus"
@@ -36409,7 +36409,7 @@
         "author": [
           {
             "id": 154,
-            "name": "Peter des Vaux-de-Cernay",
+            "name": "Petrus des Vaux-de-Cernay",
             "jad_id": "jad_author__154",
             "gnd_url": "https://d-nb.info/gnd/100957994",
             "notes": "",
@@ -36452,10 +36452,10 @@
             "value": "early 13th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/2437/6758/11808",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "213",
         "other_editions": null,
         "view_label": "Historia Albigensium ",
         "prev": {
@@ -36490,7 +36490,7 @@
     "view_label": "Petrus Diaconus",
     "prev": {
       "id": "jad_author__154",
-      "label": "Peter des Vaux-de-Cernay"
+      "label": "Petrus des Vaux-de-Cernay"
     },
     "next": {
       "id": "jad_author__156",
@@ -36567,10 +36567,10 @@
             "value": "1130s"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=1388/5987/11026",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "173",
         "other_editions": null,
         "view_label": "De locis sanctis ",
         "prev": {
@@ -36662,10 +36662,10 @@
             "value": "5th cen., first half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/1016/2587/7573",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "51",
         "other_editions": null,
         "view_label": "Chronicum integrum ",
         "prev": {
@@ -36822,10 +36822,10 @@
             "value": "around 200"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/867/159/62",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "2",
         "other_editions": null,
         "view_label": "Adversus Judaeos ",
         "prev": {
@@ -36887,10 +36887,10 @@
             "value": "around 200"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/867/160/63",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "2",
         "other_editions": null,
         "view_label": "Adversus Marcionem ",
         "prev": {
@@ -36952,10 +36952,10 @@
             "value": "around 200"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/867/140/43",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "1",
         "other_editions": null,
         "view_label": "Apologeticus adversus gentes ",
         "prev": {
@@ -37089,7 +37089,7 @@
     },
     "next": {
       "id": "jad_author__16",
-      "label": "Rupert of Deutz"
+      "label": "Rupert of Deutz, abbot"
     },
     "related__works": [
       {
@@ -37161,7 +37161,7 @@
   },
   "160": {
     "id": 160,
-    "name": "Sicard of Cremona",
+    "name": "Sicard of Cremona, bishop",
     "jad_id": "jad_author__160",
     "gnd_url": "https://d-nb.info/gnd/118996088",
     "notes": "",
@@ -37177,10 +37177,10 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Sicard of Cremona",
+    "view_label": "Sicard of Cremona, bishop",
     "prev": {
       "id": "jad_author__16",
-      "label": "Rupert of Deutz"
+      "label": "Rupert of Deutz, abbot"
     },
     "next": {
       "id": "jad_author__161",
@@ -37194,7 +37194,7 @@
         "author": [
           {
             "id": 160,
-            "name": "Sicard of Cremona",
+            "name": "Sicard of Cremona, bishop",
             "jad_id": "jad_author__160",
             "gnd_url": "https://d-nb.info/gnd/118996088",
             "notes": "",
@@ -37237,10 +37237,10 @@
             "value": "around 1200"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2438/6760/11810",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "213",
         "other_editions": null,
         "view_label": "Summa de officiis ecclesiasticis ",
         "prev": {
@@ -37259,7 +37259,7 @@
         "author": [
           {
             "id": 160,
-            "name": "Sicard of Cremona",
+            "name": "Sicard of Cremona, bishop",
             "jad_id": "jad_author__160",
             "gnd_url": "https://d-nb.info/gnd/118996088",
             "notes": "",
@@ -37302,10 +37302,10 @@
             "value": "around 1200"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2438/6759/11809",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "213",
         "other_editions": null,
         "view_label": "Chronicon ",
         "prev": {
@@ -37340,7 +37340,7 @@
     "view_label": "Rodolfus Glaber",
     "prev": {
       "id": "jad_author__160",
-      "label": "Sicard of Cremona"
+      "label": "Sicard of Cremona, bishop"
     },
     "next": {
       "id": "jad_author__162",
@@ -37439,7 +37439,7 @@
     },
     "next": {
       "id": "jad_author__163",
-      "label": "Hugh of Langres"
+      "label": "Hugh of Langres, archbishop"
     },
     "related__works": [
       {
@@ -37492,10 +37492,10 @@
             "value": "1110s"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2082/5524/10560",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "155",
         "other_editions": "Hill",
         "view_label": "Historia Francorum qui ceperunt Jerusalem ",
         "prev": {
@@ -37511,7 +37511,7 @@
   },
   "163": {
     "id": 163,
-    "name": "Hugh of Langres",
+    "name": "Hugh of Langres, archbishop",
     "jad_id": "jad_author__163",
     "gnd_url": "https://d-nb.info/gnd/100946402",
     "notes": "",
@@ -37527,7 +37527,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Hugh of Langres",
+    "view_label": "Hugh of Langres, archbishop",
     "prev": {
       "id": "jad_author__162",
       "label": "Raymond of Aguilers"
@@ -37544,7 +37544,7 @@
         "author": [
           {
             "id": 163,
-            "name": "Hugh of Langres",
+            "name": "Hugh of Langres, archbishop",
             "jad_id": "jad_author__163",
             "gnd_url": "https://d-nb.info/gnd/100946402",
             "notes": "",
@@ -37634,7 +37634,7 @@
     "view_label": "Garnerius of Clairvaux, abbot",
     "prev": {
       "id": "jad_author__163",
-      "label": "Hugh of Langres"
+      "label": "Hugh of Langres, archbishop"
     },
     "next": {
       "id": "jad_author__165",
@@ -37711,10 +37711,10 @@
             "value": "late 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1518/3905/8928",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "112",
         "other_editions": null,
         "view_label": "Allegoriae in universam sacram scripturam ",
         "prev": {
@@ -37838,7 +37838,7 @@
     },
     "next": {
       "id": "jad_author__166",
-      "label": "Rudolfus Sancti Trudonis"
+      "label": "Rudolfus of St Trond"
     },
     "related__works": [
       {
@@ -37891,10 +37891,10 @@
             "value": "12th cen., first half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2293/6322/11369",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "186",
         "other_editions": null,
         "view_label": "Sententiae ",
         "prev": {
@@ -37980,7 +37980,7 @@
   },
   "166": {
     "id": 166,
-    "name": "Rudolfus Sancti Trudonis",
+    "name": "Rudolfus of St Trond",
     "jad_id": "jad_author__166",
     "gnd_url": "https://d-nb.info/gnd/118840258",
     "notes": "",
@@ -37996,7 +37996,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Rudolfus Sancti Trudonis",
+    "view_label": "Rudolfus of St Trond",
     "prev": {
       "id": "jad_author__165",
       "label": "Robertus Pullus"
@@ -38013,7 +38013,7 @@
         "author": [
           {
             "id": 166,
-            "name": "Rudolfus Sancti Trudonis",
+            "name": "Rudolfus of St Trond",
             "jad_id": "jad_author__166",
             "gnd_url": "https://d-nb.info/gnd/118840258",
             "notes": "",
@@ -38056,10 +38056,10 @@
             "value": "early 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2224/21523/21408",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "173",
         "other_editions": null,
         "view_label": "Gesta abbatum Trudonis ",
         "prev": {
@@ -38094,7 +38094,7 @@
     "view_label": "Sozomenus Salaminius Hermias",
     "prev": {
       "id": "jad_author__166",
-      "label": "Rudolfus Sancti Trudonis"
+      "label": "Rudolfus of St Trond"
     },
     "next": {
       "id": "jad_author__168",
@@ -38288,7 +38288,7 @@
     },
     "next": {
       "id": "jad_author__17",
-      "label": "Paschasius Radbertus"
+      "label": "Paschasius Radbertus, abbot"
     },
     "related__works": [
       {
@@ -38341,10 +38341,10 @@
             "value": "early 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2253/6113/11154",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "179",
         "other_editions": null,
         "view_label": "Gesta regum Anglorum ",
         "prev": {
@@ -38444,7 +38444,7 @@
     "view_label": "Pseudo-Augustine",
     "prev": {
       "id": "jad_author__17",
-      "label": "Paschasius Radbertus"
+      "label": "Paschasius Radbertus, abbot"
     },
     "next": {
       "id": "jad_author__171",
@@ -38551,10 +38551,10 @@
         ],
         "date_certainty": false,
         "date": [],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=758/7316",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "35",
         "other_editions": null,
         "view_label": "Expositio in Apocalypsim Joannis ",
         "prev": {
@@ -38703,7 +38703,7 @@
     "related__works": [
       {
         "id": 370,
-        "name": "Quaestiones super libros Regum ",
+        "name": "Commentary Kings ",
         "jad_id": "jad_work__370",
         "author": [
           {
@@ -38722,7 +38722,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Quaestiones super libros Regum",
+        "title": "Commentary Kings",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -38746,7 +38746,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "",
         "other_editions": null,
-        "view_label": "Quaestiones super libros Regum ",
+        "view_label": "Commentary Kings ",
         "prev": {
           "id": "jad_work__37",
           "label": "Sermones dominicales "
@@ -38804,7 +38804,7 @@
         "view_label": "Commentary Psalms ",
         "prev": {
           "id": "jad_work__370",
-          "label": "Quaestiones super libros Regum "
+          "label": "Commentary Kings "
         },
         "next": {
           "id": "jad_work__372",
@@ -38903,7 +38903,7 @@
         },
         "next": {
           "id": "jad_work__373",
-          "label": "In Lamentationes Jeremiae "
+          "label": "Commentary Lamentationes "
         }
       }
     ]
@@ -38933,7 +38933,7 @@
     "related__works": [
       {
         "id": 373,
-        "name": "In Lamentationes Jeremiae ",
+        "name": "Commentary Lamentationes ",
         "jad_id": "jad_work__373",
         "author": [
           {
@@ -38952,7 +38952,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "In Lamentationes Jeremiae",
+        "title": "Commentary Lamentationes",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -38976,7 +38976,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "",
         "other_editions": null,
-        "view_label": "In Lamentationes Jeremiae ",
+        "view_label": "Commentary Lamentationes ",
         "prev": {
           "id": "jad_work__372",
           "label": "Computus de Pascha "
@@ -39034,7 +39034,7 @@
         "view_label": "Expositio Evangeliorum ",
         "prev": {
           "id": "jad_work__373",
-          "label": "In Lamentationes Jeremiae "
+          "label": "Commentary Lamentationes "
         },
         "next": {
           "id": "jad_work__375",
@@ -39782,7 +39782,7 @@
     },
     "next": {
       "id": "jad_author__182",
-      "label": "Wilhelm Peyraut/ of Lyon, prior"
+      "label": "William Peyraut/ of Lyon, prior"
     },
     "related__works": [
       {
@@ -39863,7 +39863,7 @@
   },
   "182": {
     "id": 182,
-    "name": "Wilhelm Peyraut/ of Lyon, prior",
+    "name": "William Peyraut/ of Lyon, prior",
     "jad_id": "jad_author__182",
     "gnd_url": "https://d-nb.info/gnd/118719351",
     "notes": "",
@@ -39879,7 +39879,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Wilhelm Peyraut/ of Lyon, prior",
+    "view_label": "William Peyraut/ of Lyon, prior",
     "prev": {
       "id": "jad_author__181",
       "label": "Odo of Cheriton"
@@ -39896,7 +39896,7 @@
         "author": [
           {
             "id": 182,
-            "name": "Wilhelm Peyraut/ of Lyon, prior",
+            "name": "William Peyraut/ of Lyon, prior",
             "jad_id": "jad_author__182",
             "gnd_url": "https://d-nb.info/gnd/118719351",
             "notes": "",
@@ -39982,7 +39982,7 @@
     "view_label": "Johannes de Rupella (de la Rochelle)",
     "prev": {
       "id": "jad_author__182",
-      "label": "Wilhelm Peyraut/ of Lyon, prior"
+      "label": "William Peyraut/ of Lyon, prior"
     },
     "next": {
       "id": "jad_author__184",
@@ -40091,7 +40091,7 @@
         "manuscripts": [
           {
             "id": 120,
-            "value": "BNF, lat. 3573"
+            "value": "BNF, Latin 3573"
           }
         ],
         "title": "Sermones de tempore",
@@ -40135,7 +40135,7 @@
       },
       {
         "id": 757,
-        "name": "Postilla in Lucam ",
+        "name": "Commentary Luke ",
         "jad_id": "jad_work__757",
         "author": [
           {
@@ -40164,7 +40164,7 @@
             "value": "Bodl., Bodley 412"
           }
         ],
-        "title": "Postilla in Lucam",
+        "title": "Commentary Luke",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -40193,7 +40193,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "",
         "other_editions": "",
-        "view_label": "Postilla in Lucam ",
+        "view_label": "Commentary Luke ",
         "prev": {
           "id": "jad_work__756",
           "label": "De civitate Dei "
@@ -40565,7 +40565,7 @@
         },
         "next": {
           "id": "jad_work__395",
-          "label": "In Lucam "
+          "label": "Commentary Luke "
         }
       }
     ]
@@ -40600,7 +40600,7 @@
     "related__works": [
       {
         "id": 395,
-        "name": "In Lucam ",
+        "name": "Commentary Luke ",
         "jad_id": "jad_work__395",
         "author": [
           {
@@ -40624,7 +40624,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "In Lucam",
+        "title": "Commentary Luke",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -40653,7 +40653,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "Paris 1895",
         "other_editions": null,
-        "view_label": "In Lucam ",
+        "view_label": "Commentary Luke ",
         "prev": {
           "id": "jad_work__394",
           "label": "Sermones dominicales "
@@ -40751,7 +40751,7 @@
         "view_label": "Opus expositionis evangeliorum totius anni ",
         "prev": {
           "id": "jad_work__395",
-          "label": "In Lucam "
+          "label": "Commentary Luke "
         },
         "next": {
           "id": "jad_work__397",
@@ -40862,7 +40862,7 @@
   },
   "190": {
     "id": 190,
-    "name": "Nicolaus de Aquaevilla",
+    "name": "Nicolas de Aquaevilla",
     "jad_id": "jad_author__190",
     "gnd_url": "https://d-nb.info/gnd/102551200",
     "notes": "",
@@ -40873,7 +40873,7 @@
     "place": [],
     "date_birth_certainty": true,
     "date_death_certainty": false,
-    "view_label": "Nicolaus de Aquaevilla",
+    "view_label": "Nicolas de Aquaevilla",
     "prev": {
       "id": "jad_author__19",
       "label": "Petrus Damiani"
@@ -40890,7 +40890,7 @@
         "author": [
           {
             "id": 190,
-            "name": "Nicolaus de Aquaevilla",
+            "name": "Nicolas de Aquaevilla",
             "jad_id": "jad_author__190",
             "gnd_url": "https://d-nb.info/gnd/102551200",
             "notes": "",
@@ -40966,7 +40966,7 @@
     "view_label": "Petrus de Cava, abbot",
     "prev": {
       "id": "jad_author__190",
-      "label": "Nicolaus de Aquaevilla"
+      "label": "Nicolas de Aquaevilla"
     },
     "next": {
       "id": "jad_author__192",
@@ -41280,7 +41280,7 @@
     },
     "next": {
       "id": "jad_author__195",
-      "label": "Antonius de Parma"
+      "label": "Antonius of Parma"
     },
     "related__works": [
       {
@@ -41367,7 +41367,7 @@
   },
   "195": {
     "id": 195,
-    "name": "Antonius de Parma",
+    "name": "Antonius of Parma",
     "jad_id": "jad_author__195",
     "gnd_url": "https://d-nb.info/gnd/102422125",
     "notes": "",
@@ -41383,14 +41383,14 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": false,
-    "view_label": "Antonius de Parma",
+    "view_label": "Antonius of Parma",
     "prev": {
       "id": "jad_author__194",
       "label": "Konrad of Waldhausen"
     },
     "next": {
       "id": "jad_author__196",
-      "label": "Nikolaus IV, pope"
+      "label": "Nicolas IV, pope"
     },
     "related__works": [
       {
@@ -41400,7 +41400,7 @@
         "author": [
           {
             "id": 195,
-            "name": "Antonius de Parma",
+            "name": "Antonius of Parma",
             "jad_id": "jad_author__195",
             "gnd_url": "https://d-nb.info/gnd/102422125",
             "notes": "",
@@ -41467,7 +41467,7 @@
   },
   "196": {
     "id": 196,
-    "name": "Nikolaus IV, pope",
+    "name": "Nicolas IV, pope",
     "jad_id": "jad_author__196",
     "gnd_url": "https://d-nb.info/gnd/11878627X",
     "notes": "",
@@ -41483,10 +41483,10 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Nikolaus IV, pope",
+    "view_label": "Nicolas IV, pope",
     "prev": {
       "id": "jad_author__195",
-      "label": "Antonius de Parma"
+      "label": "Antonius of Parma"
     },
     "next": {
       "id": "jad_author__197",
@@ -41500,7 +41500,7 @@
         "author": [
           {
             "id": 196,
-            "name": "Nikolaus IV, pope",
+            "name": "Nicolas IV, pope",
             "jad_id": "jad_author__196",
             "gnd_url": "https://d-nb.info/gnd/11878627X",
             "notes": "",
@@ -41586,7 +41586,7 @@
     "view_label": "Peregrinus de Oppeln",
     "prev": {
       "id": "jad_author__196",
-      "label": "Nikolaus IV, pope"
+      "label": "Nicolas IV, pope"
     },
     "next": {
       "id": "jad_author__198",
@@ -41896,7 +41896,7 @@
     "view_label": "Jacobus de Paradiso",
     "prev": {
       "id": "jad_author__20",
-      "label": "Baldwin of Canterbury"
+      "label": "Baldwin of Canterbury, archbishop"
     },
     "next": {
       "id": "jad_author__201",
@@ -42290,7 +42290,7 @@
     },
     "next": {
       "id": "jad_author__205",
-      "label": "Benzo of Alba"
+      "label": "Benzo of Alba, bishop"
     },
     "related__works": [
       {
@@ -42330,10 +42330,10 @@
         "institutional_context": [],
         "published_edition": [
           {
-            "id": 2,
-            "name": "Patrologia Latina",
-            "jad_id": "jad_sources_occurrences__2",
-            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
           }
         ],
         "date_certainty": true,
@@ -42343,10 +42343,10 @@
             "value": "late 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/15767/15427",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "ed. Michele Maccarrone (Luca 1955).",
         "other_editions": null,
         "view_label": "De miseria humane conditionis ",
         "prev": {
@@ -42362,7 +42362,7 @@
   },
   "205": {
     "id": 205,
-    "name": "Benzo of Alba",
+    "name": "Benzo of Alba, bishop",
     "jad_id": "jad_author__205",
     "gnd_url": "https://d-nb.info/gnd/119433559",
     "notes": "",
@@ -42378,7 +42378,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": false,
-    "view_label": "Benzo of Alba",
+    "view_label": "Benzo of Alba, bishop",
     "prev": {
       "id": "jad_author__204",
       "label": "Innocent III, pope"
@@ -42395,7 +42395,7 @@
         "author": [
           {
             "id": 205,
-            "name": "Benzo of Alba",
+            "name": "Benzo of Alba, bishop",
             "jad_id": "jad_author__205",
             "gnd_url": "https://d-nb.info/gnd/119433559",
             "notes": "",
@@ -42438,10 +42438,10 @@
             "value": "11th cen., second half"
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_germ_65/index.htm#page/(III)/mode/1up",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "SS rer. Germ. 65",
         "other_editions": null,
         "view_label": "Ad Heinricum IV imperatorem libri VII ",
         "prev": {
@@ -42476,7 +42476,7 @@
     "view_label": "Moses Bergamensis",
     "prev": {
       "id": "jad_author__205",
-      "label": "Benzo of Alba"
+      "label": "Benzo of Alba, bishop"
     },
     "next": {
       "id": "jad_author__207",
@@ -42665,7 +42665,7 @@
     },
     "next": {
       "id": "jad_author__209",
-      "label": "Nicolaus of Lyra"
+      "label": "Nicolas of Lyra"
     },
     "related__works": [
       {
@@ -42757,7 +42757,7 @@
   },
   "209": {
     "id": 209,
-    "name": "Nicolaus of Lyra",
+    "name": "Nicolas of Lyra",
     "jad_id": "jad_author__209",
     "gnd_url": "https://d-nb.info/gnd/119238683",
     "notes": "",
@@ -42773,7 +42773,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Nicolaus of Lyra",
+    "view_label": "Nicolas of Lyra",
     "prev": {
       "id": "jad_author__208",
       "label": "Nicolas de Wormuth"
@@ -42790,7 +42790,7 @@
         "author": [
           {
             "id": 209,
-            "name": "Nicolaus of Lyra",
+            "name": "Nicolas of Lyra",
             "jad_id": "jad_author__209",
             "gnd_url": "https://d-nb.info/gnd/119238683",
             "notes": "",
@@ -42875,7 +42875,7 @@
     },
     "next": {
       "id": "jad_author__211",
-      "label": "Nicolaus de Gorran"
+      "label": "Nicolas de Gorran"
     },
     "related__works": [
       {
@@ -42952,7 +42952,7 @@
   },
   "211": {
     "id": 211,
-    "name": "Nicolaus de Gorran",
+    "name": "Nicolas de Gorran",
     "jad_id": "jad_author__211",
     "gnd_url": "https://d-nb.info/gnd/100954812",
     "notes": "",
@@ -42968,14 +42968,14 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Nicolaus de Gorran",
+    "view_label": "Nicolas de Gorran",
     "prev": {
       "id": "jad_author__210",
       "label": "Magister Matthias Linköping"
     },
     "next": {
       "id": "jad_author__212",
-      "label": "Petrus de Sancto Benedicto (Saint-Benoit)"
+      "label": "Petrus of St Benoit"
     },
     "related__works": [
       {
@@ -42985,7 +42985,7 @@
         "author": [
           {
             "id": 211,
-            "name": "Nicolaus de Gorran",
+            "name": "Nicolas de Gorran",
             "jad_id": "jad_author__211",
             "gnd_url": "https://d-nb.info/gnd/100954812",
             "notes": "",
@@ -43050,7 +43050,7 @@
         "author": [
           {
             "id": 211,
-            "name": "Nicolaus de Gorran",
+            "name": "Nicolas de Gorran",
             "jad_id": "jad_author__211",
             "gnd_url": "https://d-nb.info/gnd/100954812",
             "notes": "",
@@ -43120,7 +43120,7 @@
         "author": [
           {
             "id": 211,
-            "name": "Nicolaus de Gorran",
+            "name": "Nicolas de Gorran",
             "jad_id": "jad_author__211",
             "gnd_url": "https://d-nb.info/gnd/100954812",
             "notes": "",
@@ -43190,7 +43190,7 @@
         "author": [
           {
             "id": 211,
-            "name": "Nicolaus de Gorran",
+            "name": "Nicolas de Gorran",
             "jad_id": "jad_author__211",
             "gnd_url": "https://d-nb.info/gnd/100954812",
             "notes": "",
@@ -43260,7 +43260,7 @@
         "author": [
           {
             "id": 211,
-            "name": "Nicolaus de Gorran",
+            "name": "Nicolas de Gorran",
             "jad_id": "jad_author__211",
             "gnd_url": "https://d-nb.info/gnd/100954812",
             "notes": "",
@@ -43320,7 +43320,7 @@
         },
         "next": {
           "id": "jad_work__459",
-          "label": "Expositio super Psalmos "
+          "label": "Commentary Psalms "
         }
       },
       {
@@ -43330,7 +43330,7 @@
         "author": [
           {
             "id": 211,
-            "name": "Nicolaus de Gorran",
+            "name": "Nicolas de Gorran",
             "jad_id": "jad_author__211",
             "gnd_url": "https://d-nb.info/gnd/100954812",
             "notes": "",
@@ -43390,14 +43390,14 @@
         },
         "next": {
           "id": "jad_work__632",
-          "label": "Postilla super evangelium Matthaei "
+          "label": "Commentary Matthew "
         }
       }
     ]
   },
   "212": {
     "id": 212,
-    "name": "Petrus de Sancto Benedicto (Saint-Benoit)",
+    "name": "Petrus of St Benoit",
     "jad_id": "jad_author__212",
     "gnd_url": "https://d-nb.info/gnd/102514933",
     "notes": "",
@@ -43408,10 +43408,10 @@
     "place": [],
     "date_birth_certainty": true,
     "date_death_certainty": false,
-    "view_label": "Petrus de Sancto Benedicto (Saint-Benoit)",
+    "view_label": "Petrus of St Benoit",
     "prev": {
       "id": "jad_author__211",
-      "label": "Nicolaus de Gorran"
+      "label": "Nicolas de Gorran"
     },
     "next": {
       "id": "jad_author__213",
@@ -43425,7 +43425,7 @@
         "author": [
           {
             "id": 212,
-            "name": "Petrus de Sancto Benedicto (Saint-Benoit)",
+            "name": "Petrus of St Benoit",
             "jad_id": "jad_author__212",
             "gnd_url": "https://d-nb.info/gnd/102514933",
             "notes": "",
@@ -43510,7 +43510,7 @@
     "view_label": "John of Wales",
     "prev": {
       "id": "jad_author__212",
-      "label": "Petrus de Sancto Benedicto (Saint-Benoit)"
+      "label": "Petrus of St Benoit"
     },
     "next": {
       "id": "jad_author__214",
@@ -43979,7 +43979,7 @@
     },
     "next": {
       "id": "jad_author__218",
-      "label": "Conradus, de Saxonia / Holtnicker"
+      "label": "Conradus de Saxonia / Holtnicker"
     },
     "related__works": [
       {
@@ -44056,7 +44056,7 @@
   },
   "218": {
     "id": 218,
-    "name": "Conradus, de Saxonia / Holtnicker",
+    "name": "Conradus de Saxonia / Holtnicker",
     "jad_id": "jad_author__218",
     "gnd_url": "https://d-nb.info/gnd/118840738",
     "notes": "",
@@ -44072,7 +44072,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Conradus, de Saxonia / Holtnicker",
+    "view_label": "Conradus de Saxonia / Holtnicker",
     "prev": {
       "id": "jad_author__217",
       "label": "Gerardus de Malliaco"
@@ -44089,7 +44089,7 @@
         "author": [
           {
             "id": 218,
-            "name": "Conradus, de Saxonia / Holtnicker",
+            "name": "Conradus de Saxonia / Holtnicker",
             "jad_id": "jad_author__218",
             "gnd_url": "https://d-nb.info/gnd/118840738",
             "notes": "",
@@ -44175,11 +44175,11 @@
     "view_label": "Guibert of Tournai",
     "prev": {
       "id": "jad_author__218",
-      "label": "Conradus, de Saxonia / Holtnicker"
+      "label": "Conradus de Saxonia / Holtnicker"
     },
     "next": {
       "id": "jad_author__22",
-      "label": "Alcuin"
+      "label": "Alcuin of York"
     },
     "related__works": [
       {
@@ -44275,7 +44275,7 @@
     "view_label": "John of Opreno",
     "prev": {
       "id": "jad_author__22",
-      "label": "Alcuin"
+      "label": "Alcuin of York"
     },
     "next": {
       "id": "jad_author__221",
@@ -44609,7 +44609,7 @@
     },
     "next": {
       "id": "jad_author__224",
-      "label": "Guerricus de Sancto Quintino (Saint-Quentin)"
+      "label": "Guerricus of St Quentin"
     },
     "related__works": [
       {
@@ -44686,7 +44686,7 @@
   },
   "224": {
     "id": 224,
-    "name": "Guerricus de Sancto Quintino (Saint-Quentin)",
+    "name": "Guerricus of St Quentin",
     "jad_id": "jad_author__224",
     "gnd_url": "https://d-nb.info/gnd/102474141",
     "notes": "",
@@ -44702,7 +44702,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Guerricus de Sancto Quintino (Saint-Quentin)",
+    "view_label": "Guerricus of St Quentin",
     "prev": {
       "id": "jad_author__223",
       "label": "Bartholomew of Exeter, bishop"
@@ -44719,7 +44719,7 @@
         "author": [
           {
             "id": 224,
-            "name": "Guerricus de Sancto Quintino (Saint-Quentin)",
+            "name": "Guerricus of St Quentin",
             "jad_id": "jad_author__224",
             "gnd_url": "https://d-nb.info/gnd/102474141",
             "notes": "",
@@ -44779,17 +44779,17 @@
         },
         "next": {
           "id": "jad_work__463",
-          "label": "Commentary Lamentations "
+          "label": "Commentary Lamentationes "
         }
       },
       {
         "id": 463,
-        "name": "Commentary Lamentations ",
+        "name": "Commentary Lamentationes ",
         "jad_id": "jad_work__463",
         "author": [
           {
             "id": 224,
-            "name": "Guerricus de Sancto Quintino (Saint-Quentin)",
+            "name": "Guerricus of St Quentin",
             "jad_id": "jad_author__224",
             "gnd_url": "https://d-nb.info/gnd/102474141",
             "notes": "",
@@ -44813,7 +44813,7 @@
             "value": "New Coll., MS 40"
           }
         ],
-        "title": "Commentary Lamentations",
+        "title": "Commentary Lamentationes",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -44842,7 +44842,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "",
         "other_editions": null,
-        "view_label": "Commentary Lamentations ",
+        "view_label": "Commentary Lamentationes ",
         "prev": {
           "id": "jad_work__462",
           "label": "Commentary Isaiah "
@@ -44875,7 +44875,7 @@
     "view_label": "William of Newburgh",
     "prev": {
       "id": "jad_author__224",
-      "label": "Guerricus de Sancto Quintino (Saint-Quentin)"
+      "label": "Guerricus of St Quentin"
     },
     "next": {
       "id": "jad_author__23",
@@ -45572,10 +45572,10 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://mlat.uzh.ch/browser?path=/2350/6503/11551",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "",
+        "volume_edition_or_individual_editor": "196",
         "other_editions": "",
         "view_label": "Expositio de tabernaculo ",
         "prev": {
@@ -46544,7 +46544,7 @@
     },
     "next": {
       "id": "jad_author__322",
-      "label": "Anastasius Bibliothecarius"
+      "label": "Anastasius Bibliothecarius, antipope"
     },
     "related__works": [
       {
@@ -46616,7 +46616,7 @@
   },
   "322": {
     "id": 322,
-    "name": "Anastasius Bibliothecarius",
+    "name": "Anastasius Bibliothecarius, antipope",
     "jad_id": "jad_author__322",
     "gnd_url": "https://d-nb.info/gnd/118965808",
     "notes": "",
@@ -46632,7 +46632,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "view_label": "Anastasius Bibliothecarius",
+    "view_label": "Anastasius Bibliothecarius, antipope",
     "prev": {
       "id": "jad_author__321",
       "label": "Ammianus Marcellinus"
@@ -46649,7 +46649,7 @@
         "author": [
           {
             "id": 322,
-            "name": "Anastasius Bibliothecarius",
+            "name": "Anastasius Bibliothecarius, antipope",
             "jad_id": "jad_author__322",
             "gnd_url": "https://d-nb.info/gnd/118965808",
             "notes": "",
@@ -46730,7 +46730,7 @@
     "view_label": "John Wyclif",
     "prev": {
       "id": "jad_author__35",
-      "label": "Jacques de Vitry"
+      "label": "Jacques de Vitry, bishop of Acre"
     },
     "next": {
       "id": "jad_author__352",
@@ -46795,7 +46795,7 @@
         "view_label": "De veritate sacrae scripturae ",
         "prev": {
           "id": "jad_work__551",
-          "label": "Super duodecim prophetas "
+          "label": "Commentary Twelve Minor Prophets "
         },
         "next": {
           "id": "jad_work__553",
@@ -47059,12 +47059,12 @@
         },
         "next": {
           "id": "jad_work__626",
-          "label": "Opus euangelicum "
+          "label": "Opus evangelicum "
         }
       },
       {
         "id": 626,
-        "name": "Opus euangelicum ",
+        "name": "Opus evangelicum ",
         "jad_id": "jad_work__626",
         "author": [
           {
@@ -47088,7 +47088,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Opus euangelicum",
+        "title": "Opus evangelicum",
         "genre": {
           "id": 15024,
           "value": "Theological treatise",
@@ -47117,7 +47117,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "ed. Johannes Loserth 1895-1896",
         "other_editions": "",
-        "view_label": "Opus euangelicum ",
+        "view_label": "Opus evangelicum ",
         "prev": {
           "id": "jad_work__625",
           "label": "De ecclesia "
@@ -47185,16 +47185,16 @@
         "view_label": "Trialogus ",
         "prev": {
           "id": "jad_work__626",
-          "label": "Opus euangelicum "
+          "label": "Opus evangelicum "
         },
         "next": {
           "id": "jad_work__628",
-          "label": "Tractatus de mandatis diuinis "
+          "label": "Tractatus de mandatis divinis "
         }
       },
       {
         "id": 628,
-        "name": "Tractatus de mandatis diuinis ",
+        "name": "Tractatus de mandatis divinis ",
         "jad_id": "jad_work__628",
         "author": [
           {
@@ -47218,7 +47218,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Tractatus de mandatis diuinis",
+        "title": "Tractatus de mandatis divinis",
         "genre": {
           "id": 15024,
           "value": "Theological treatise",
@@ -47247,7 +47247,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "ed. Johann Loserth et Frederic David Matthew 1922",
         "other_editions": "",
-        "view_label": "Tractatus de mandatis diuinis ",
+        "view_label": "Tractatus de mandatis divinis ",
         "prev": {
           "id": "jad_work__627",
           "label": "Trialogus "
@@ -47315,7 +47315,7 @@
         "view_label": "Expositio textus Matthaei XXIV ",
         "prev": {
           "id": "jad_work__628",
-          "label": "Tractatus de mandatis diuinis "
+          "label": "Tractatus de mandatis divinis "
         },
         "next": {
           "id": "jad_work__63",
@@ -47539,7 +47539,7 @@
     },
     "next": {
       "id": "jad_author__355",
-      "label": "Bartholomaeus of Urbino"
+      "label": "Bartholomew of Urbino"
     },
     "related__works": [
       {
@@ -47676,7 +47676,7 @@
   },
   "355": {
     "id": 355,
-    "name": "Bartholomaeus of Urbino",
+    "name": "Bartholomew of Urbino",
     "jad_id": "jad_author__355",
     "gnd_url": "https://d-nb.info/gnd/100937403",
     "notes": "",
@@ -47692,7 +47692,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": false,
-    "view_label": "Bartholomaeus of Urbino",
+    "view_label": "Bartholomew of Urbino",
     "prev": {
       "id": "jad_author__354",
       "label": "Aurelius Victor Sextus"
@@ -47709,7 +47709,7 @@
         "author": [
           {
             "id": 355,
-            "name": "Bartholomaeus of Urbino",
+            "name": "Bartholomew of Urbino",
             "jad_id": "jad_author__355",
             "gnd_url": "https://d-nb.info/gnd/100937403",
             "notes": "",
@@ -47790,7 +47790,7 @@
     "view_label": "Conrad of Mure",
     "prev": {
       "id": "jad_author__355",
-      "label": "Bartholomaeus of Urbino"
+      "label": "Bartholomew of Urbino"
     },
     "next": {
       "id": "jad_author__357",
@@ -48134,7 +48134,7 @@
         },
         "next": {
           "id": "jad_work__564",
-          "label": "Expositio in libros Regum "
+          "label": "Commentary Kings "
         }
       }
     ]
@@ -48544,7 +48544,7 @@
     },
     "next": {
       "id": "jad_author__365",
-      "label": "Fortunatianus Aquileiensis"
+      "label": "Fortunatianus of Aquileia"
     },
     "related__works": [
       {
@@ -48616,7 +48616,7 @@
   },
   "365": {
     "id": 365,
-    "name": "Fortunatianus Aquileiensis",
+    "name": "Fortunatianus of Aquileia",
     "jad_id": "jad_author__365",
     "gnd_url": "https://d-nb.info/gnd/102393672",
     "notes": "",
@@ -48632,7 +48632,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": false,
-    "view_label": "Fortunatianus Aquileiensis",
+    "view_label": "Fortunatianus of Aquileia",
     "prev": {
       "id": "jad_author__364",
       "label": "Eutropius"
@@ -48649,7 +48649,7 @@
         "author": [
           {
             "id": 365,
-            "name": "Fortunatianus Aquileiensis",
+            "name": "Fortunatianus of Aquileia",
             "jad_id": "jad_author__365",
             "gnd_url": "https://d-nb.info/gnd/102393672",
             "notes": "",
@@ -48692,7 +48692,7 @@
             "value": "mid 4th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://www.degruyterbrill.com/de/document/doi/10.1515/9783110471540/html",
         "author_certainty": true,
         "incipit": "",
         "volume_edition_or_individual_editor": "103",
@@ -48730,7 +48730,7 @@
     "view_label": "Fulgentius Fabius Planciades",
     "prev": {
       "id": "jad_author__365",
-      "label": "Fortunatianus Aquileiensis"
+      "label": "Fortunatianus of Aquileia"
     },
     "next": {
       "id": "jad_author__367",
@@ -48894,7 +48894,7 @@
         },
         "next": {
           "id": "jad_work__574",
-          "label": "Commentarium in sancti Pauli epistulas "
+          "label": "Commentary Paul's Letters "
         }
       }
     ]
@@ -48929,7 +48929,7 @@
     "related__works": [
       {
         "id": 574,
-        "name": "Commentarium in sancti Pauli epistulas ",
+        "name": "Commentary Paul's Letters ",
         "jad_id": "jad_work__574",
         "author": [
           {
@@ -48953,7 +48953,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Commentarium in sancti Pauli epistulas",
+        "title": "Commentary Paul's Letters",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -48982,7 +48982,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "ed. Karlfried Froehlich, provided via Library of Latin Texts",
         "other_editions": "",
-        "view_label": "Commentarium in sancti Pauli epistulas ",
+        "view_label": "Commentary Paul's Letters ",
         "prev": {
           "id": "jad_work__573",
           "label": "Expositio in Cantica Canticorum "
@@ -49070,7 +49070,7 @@
         "view_label": "Commentarius interpolatus ad Isaiam ",
         "prev": {
           "id": "jad_work__574",
-          "label": "Commentarium in sancti Pauli epistulas "
+          "label": "Commentary Paul's Letters "
         },
         "next": {
           "id": "jad_work__576",
@@ -49169,7 +49169,7 @@
         },
         "next": {
           "id": "jad_work__577",
-          "label": "Speculum diuinorum et quorundam naturalium "
+          "label": "Speculum divinorum et quorundam naturalium "
         }
       }
     ]
@@ -49199,12 +49199,12 @@
     },
     "next": {
       "id": "jad_author__373",
-      "label": "Hermannus Werdensis"
+      "label": "Hermannus of Werden"
     },
     "related__works": [
       {
         "id": 577,
-        "name": "Speculum diuinorum et quorundam naturalium ",
+        "name": "Speculum divinorum et quorundam naturalium ",
         "jad_id": "jad_work__577",
         "author": [
           {
@@ -49228,7 +49228,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Speculum diuinorum et quorundam naturalium",
+        "title": "Speculum divinorum et quorundam naturalium",
         "genre": {
           "id": 15024,
           "value": "Theological treatise",
@@ -49257,7 +49257,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "ed. H. Boese and C. Steel, 1990; as well as G. Guldentops 2002",
         "other_editions": "",
-        "view_label": "Speculum diuinorum et quorundam naturalium ",
+        "view_label": "Speculum divinorum et quorundam naturalium ",
         "prev": {
           "id": "jad_work__576",
           "label": "Tractatus de philosophica interpretatione sacrae scripturae "
@@ -49271,7 +49271,7 @@
   },
   "373": {
     "id": 373,
-    "name": "Hermannus Werdensis",
+    "name": "Hermannus of Werden",
     "jad_id": "jad_author__373",
     "gnd_url": "https://d-nb.info/gnd/102500061",
     "notes": "",
@@ -49287,7 +49287,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "view_label": "Hermannus Werdensis",
+    "view_label": "Hermannus of Werden",
     "prev": {
       "id": "jad_author__372",
       "label": "Henricus Bate"
@@ -49304,7 +49304,7 @@
         "author": [
           {
             "id": 373,
-            "name": "Hermannus Werdensis",
+            "name": "Hermannus of Werden",
             "jad_id": "jad_author__373",
             "gnd_url": "https://d-nb.info/gnd/102500061",
             "notes": "",
@@ -49385,7 +49385,7 @@
     "view_label": "Jan Hus",
     "prev": {
       "id": "jad_author__373",
-      "label": "Hermannus Werdensis"
+      "label": "Hermannus of Werden"
     },
     "next": {
       "id": "jad_author__375",
@@ -49800,9 +49800,9 @@
         "manuscripts": [],
         "title": "Tractatus de divisione regnorum",
         "genre": {
-          "id": 14732,
-          "value": "Idiosyncratic work",
-          "color": "dark-red"
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
         },
         "notes": "",
         "notes__author": "",
@@ -49919,12 +49919,12 @@
         },
         "next": {
           "id": "jad_work__586",
-          "label": "In libros Macchabaeorum "
+          "label": "Commentary Macchabees "
         }
       },
       {
         "id": 586,
-        "name": "In libros Macchabaeorum ",
+        "name": "Commentary Macchabees ",
         "jad_id": "jad_work__586",
         "author": [
           {
@@ -49943,7 +49943,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "In libros Macchabaeorum",
+        "title": "Commentary Macchabees",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -49972,7 +49972,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "Sancti Thomae doctoris angelici ordinis Praedicatorum opera omnia, vol. 23 (Parma 1869)",
         "other_editions": "",
-        "view_label": "In libros Macchabaeorum ",
+        "view_label": "Commentary Macchabees ",
         "prev": {
           "id": "jad_work__585",
           "label": "Commentary Daniel "
@@ -50060,7 +50060,7 @@
         "view_label": "Chronica Gothorum Pseudo-Isidoriana ",
         "prev": {
           "id": "jad_work__604",
-          "label": "Lamentationes Ieremiae "
+          "label": "Commentary Lamentationes "
         },
         "next": {
           "id": "jad_work__606",
@@ -50189,7 +50189,7 @@
     },
     "next": {
       "id": "jad_author__383",
-      "label": "Letbertus de Sancto Rufo"
+      "label": "Letbertus of St Ruf"
     },
     "related__works": [
       {
@@ -50245,7 +50245,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "Iacobus Latomus, Opera quae praecipue aduersus horum temporum haereses (Louvain 1550)",
+        "volume_edition_or_individual_editor": "Jacobus Latomus, Opera quae praecipue aduersus horum temporum haereses (Leuven 1550)",
         "other_editions": "",
         "view_label": "Articulorum doctrinae fratris Martini Lutheri per theologos Louanienses damnatorum ratio ",
         "prev": {
@@ -50261,7 +50261,7 @@
   },
   "383": {
     "id": 383,
-    "name": "Letbertus de Sancto Rufo",
+    "name": "Letbertus of St Ruf",
     "jad_id": "jad_author__383",
     "gnd_url": "https://d-nb.info/gnd/102507104",
     "notes": "",
@@ -50277,7 +50277,7 @@
     ],
     "date_birth_certainty": true,
     "date_death_certainty": false,
-    "view_label": "Letbertus de Sancto Rufo",
+    "view_label": "Letbertus of St Ruf",
     "prev": {
       "id": "jad_author__382",
       "label": "Jacobus Latomus"
@@ -50294,7 +50294,7 @@
         "author": [
           {
             "id": 383,
-            "name": "Letbertus de Sancto Rufo",
+            "name": "Letbertus of St Ruf",
             "jad_id": "jad_author__383",
             "gnd_url": "https://d-nb.info/gnd/102507104",
             "notes": "",
@@ -50375,7 +50375,7 @@
     "view_label": "Petrus Johannis Olivi",
     "prev": {
       "id": "jad_author__383",
-      "label": "Letbertus de Sancto Rufo"
+      "label": "Letbertus of St Ruf"
     },
     "next": {
       "id": "jad_author__385",
@@ -51048,7 +51048,7 @@
         },
         "next": {
           "id": "jad_work__617",
-          "label": "De uita Caesarum "
+          "label": "De vita Caesarum "
         }
       }
     ]
@@ -51112,7 +51112,7 @@
     "related__works": [
       {
         "id": 617,
-        "name": "De uita Caesarum ",
+        "name": "De vita Caesarum ",
         "jad_id": "jad_work__617",
         "author": [
           {
@@ -51136,7 +51136,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "De uita Caesarum",
+        "title": "De vita Caesarum",
         "genre": {
           "id": 15028,
           "value": "Hagiography",
@@ -51165,7 +51165,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "Teubner 1908",
         "other_editions": "",
-        "view_label": "De uita Caesarum ",
+        "view_label": "De vita Caesarum ",
         "prev": {
           "id": "jad_work__616",
           "label": "Peregrinatio "
@@ -51253,7 +51253,7 @@
         "view_label": "Postilla in librum Geneseos ",
         "prev": {
           "id": "jad_work__617",
-          "label": "De uita Caesarum "
+          "label": "De vita Caesarum "
         },
         "next": {
           "id": "jad_work__619",
@@ -51352,7 +51352,7 @@
         },
         "next": {
           "id": "jad_work__62",
-          "label": "Expositio epistolarum S. Pauli "
+          "label": "Commentary Paul's Letters "
         }
       }
     ]
@@ -51443,11 +51443,11 @@
         "view_label": "Historiae ",
         "prev": {
           "id": "jad_work__62",
-          "label": "Expositio epistolarum S. Pauli "
+          "label": "Commentary Paul's Letters "
         },
         "next": {
           "id": "jad_work__621",
-          "label": "In unum ex quatuor "
+          "label": "Commentary Gospels (In unum ex quatuor) "
         }
       }
     ]
@@ -51482,7 +51482,7 @@
     "related__works": [
       {
         "id": 621,
-        "name": "In unum ex quatuor ",
+        "name": "Commentary Gospels (In unum ex quatuor) ",
         "jad_id": "jad_work__621",
         "author": [
           {
@@ -51506,7 +51506,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "In unum ex quatuor",
+        "title": "Commentary Gospels (In unum ex quatuor)",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -51535,7 +51535,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "186",
         "other_editions": "",
-        "view_label": "In unum ex quatuor ",
+        "view_label": "Commentary Gospels (In unum ex quatuor) ",
         "prev": {
           "id": "jad_work__620",
           "label": "Historiae "
@@ -51577,7 +51577,7 @@
     "related__works": [
       {
         "id": 632,
-        "name": "Postilla super evangelium Matthaei ",
+        "name": "Commentary Matthew ",
         "jad_id": "jad_work__632",
         "author": [
           {
@@ -51606,7 +51606,7 @@
             "value": "BSB, Clm 7941"
           }
         ],
-        "title": "Postilla super evangelium Matthaei",
+        "title": "Commentary Matthew",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -51635,7 +51635,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "",
         "other_editions": "",
-        "view_label": "Postilla super evangelium Matthaei ",
+        "view_label": "Commentary Matthew ",
         "prev": {
           "id": "jad_work__631",
           "label": "Commentary Pentateuch "
@@ -52497,7 +52497,7 @@
     },
     "next": {
       "id": "jad_author__41",
-      "label": "Peter Lombard"
+      "label": "Peter Lombard, bishop of Paris"
     },
     "related__works": [
       {
@@ -52657,7 +52657,7 @@
         },
         "next": {
           "id": "jad_work__706",
-          "label": "Emonis et Menkonis Werumensium Chronica "
+          "label": "Chronica "
         }
       }
     ]
@@ -52692,7 +52692,7 @@
     "related__works": [
       {
         "id": 706,
-        "name": "Emonis et Menkonis Werumensium Chronica ",
+        "name": "Chronica ",
         "jad_id": "jad_work__706",
         "author": [
           {
@@ -52716,7 +52716,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Emonis et Menkonis Werumensium Chronica",
+        "title": "Chronica",
         "genre": {
           "id": 14731,
           "value": "Chronicle",
@@ -52745,7 +52745,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "SS 23",
         "other_editions": "",
-        "view_label": "Emonis et Menkonis Werumensium Chronica ",
+        "view_label": "Chronica ",
         "prev": {
           "id": "jad_work__705",
           "label": "Chronica "
@@ -52782,7 +52782,7 @@
     },
     "next": {
       "id": "jad_author__44",
-      "label": "Petrus Venerabilis, abbot Cluny"
+      "label": "Petrus Venerabilis, abbot of Cluny"
     },
     "related__works": [
       {
@@ -52843,7 +52843,7 @@
         "view_label": "Brief- und Memorialbuch ",
         "prev": {
           "id": "jad_work__706",
-          "label": "Emonis et Menkonis Werumensium Chronica "
+          "label": "Chronica "
         },
         "next": {
           "id": "jad_work__708",
@@ -52873,7 +52873,7 @@
     "view_label": "Pseudo-Methodius",
     "prev": {
       "id": "jad_author__44",
-      "label": "Petrus Venerabilis, abbot Cluny"
+      "label": "Petrus Venerabilis, abbot of Cluny"
     },
     "next": {
       "id": "jad_author__441",
@@ -53322,7 +53322,7 @@
         },
         "next": {
           "id": "jad_work__74",
-          "label": "Commentarius in Nahum "
+          "label": "Commentary Nahum "
         }
       }
     ]
@@ -53708,7 +53708,7 @@
         "manuscripts": [
           {
             "id": 374,
-            "value": "BAV, Vat.lat.4959"
+            "value": "BAV, Vat. lat. 4959"
           }
         ],
         "title": "Commentary Isaiah",
@@ -54200,7 +54200,7 @@
     },
     "next": {
       "id": "jad_author__49",
-      "label": "Amulo Lugdunensis, archbishop of Lyon"
+      "label": "Amulo of Lyon, archbishop"
     },
     "related__works": []
   },
