@@ -437,7 +437,7 @@
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "name": "Sermones ",
+    "name": "Sermones (unpublished) ",
     "jad_id": "jad_work__9",
     "author": [
       {
@@ -458,7 +458,7 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "title": "Sermones",
+    "title": "Sermones (unpublished)",
     "genre": {
       "id": 14726,
       "value": "Sermons",
@@ -475,9 +475,9 @@
     ],
     "published_edition": [
       {
-        "id": 2,
-        "value": "Patrologia Latina",
-        "order": "2.00000000000000000000"
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
       }
     ],
     "date_certainty": true,
@@ -488,10 +488,10 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/2356/6528/11576",
+    "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": "198",
+    "volume_edition_or_individual_editor": "",
     "other_editions": null
   },
   "10": {
@@ -2202,7 +2202,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=11575",
+    "link_digital_editions": "https://mlat.uzh.ch/browser/11575",
     "author_certainty": true,
     "incipit": null,
     "volume_edition_or_individual_editor": "198",
@@ -16614,7 +16614,13 @@
       }
     ],
     "date_certainty": false,
-    "date": [],
+    "date": [
+      {
+        "id": 9,
+        "value": "around 1200",
+        "order": "9.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
@@ -22992,9 +22998,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 41,
-        "value": "13th cen.",
-        "order": "41.00000000000000000000"
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -26350,10 +26356,10 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "link_digital_editions": "",
+    "link_digital_editions": "https://www.dmgh.de/mgh_poetae_4_23/index.htm#page/542/mode/1up",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "Poetae 5",
+    "volume_edition_or_individual_editor": "Poetae 4",
     "other_editions": ""
   },
   "641": {
@@ -27045,9 +27051,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 21,
-        "value": "mid 13th cen.",
-        "order": "21.00000000000000000000"
+        "id": 55,
+        "value": "early 14th cen.",
+        "order": "55.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -27131,9 +27137,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 4,
-        "value": "mid 12th cen.",
-        "order": "4.00000000000000000000"
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -27174,9 +27180,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 5,
-        "value": "late 12th cen.",
-        "order": "5.00000000000000000000"
+        "id": 20,
+        "value": "early 13th cen.",
+        "order": "20.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -27733,9 +27739,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 21,
-        "value": "mid 13th cen.",
-        "order": "21.00000000000000000000"
+        "id": 33,
+        "value": "mid 11th cen.",
+        "order": "33.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -28163,9 +28169,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 21,
-        "value": "mid 13th cen.",
-        "order": "21.00000000000000000000"
+        "id": 17,
+        "value": "around 1300",
+        "order": "17.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -28335,9 +28341,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 41,
-        "value": "13th cen.",
-        "order": "41.00000000000000000000"
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -28389,9 +28395,9 @@
     "date_certainty": false,
     "date": [
       {
-        "id": 18,
-        "value": "around 1000",
-        "order": "18.00000000000000000000"
+        "id": 33,
+        "value": "mid 11th cen.",
+        "order": "33.00000000000000000000"
       }
     ],
     "link_digital_editions": "",
@@ -29912,6 +29918,49 @@
     "author_certainty": false,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "836": {
+    "id": 836,
+    "order": "653.00000000000000000000",
+    "name": "Sermones (published) ",
+    "jad_id": "jad_work__836",
+    "author": [
+      {
+        "id": 9,
+        "value": "Petrus Comestor",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Sermones (published)",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 4,
+        "value": "mid 12th cen.",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://mlat.uzh.ch/browser/11576",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "198",
     "other_editions": ""
   }
 }

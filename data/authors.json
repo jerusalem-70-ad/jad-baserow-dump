@@ -2263,7 +2263,12 @@
           }
         ],
         "date_certainty": false,
-        "date": [],
+        "date": [
+          {
+            "id": 9,
+            "value": "around 1200"
+          }
+        ],
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
@@ -3340,8 +3345,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 41,
-            "value": "13th cen."
+            "id": 21,
+            "value": "mid 13th cen."
           }
         ],
         "link_digital_editions": "",
@@ -3654,10 +3659,10 @@
             "value": "9th cen."
           }
         ],
-        "link_digital_editions": "",
+        "link_digital_editions": "https://www.dmgh.de/mgh_poetae_4_23/index.htm#page/542/mode/1up",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "Poetae 5",
+        "volume_edition_or_individual_editor": "Poetae 4",
         "other_editions": "",
         "view_label": "Haec est praefatio de Iesu Christo domino inter Vespasianum et Titum quomodo vindicaverunt Christum ",
         "prev": {
@@ -4300,8 +4305,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 21,
-            "value": "mid 13th cen."
+            "id": 55,
+            "value": "early 14th cen."
           }
         ],
         "link_digital_editions": "",
@@ -4360,8 +4365,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 4,
-            "value": "mid 12th cen."
+            "id": 5,
+            "value": "late 12th cen."
           }
         ],
         "link_digital_editions": "",
@@ -4420,8 +4425,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 5,
-            "value": "late 12th cen."
+            "id": 20,
+            "value": "early 13th cen."
           }
         ],
         "link_digital_editions": "",
@@ -5020,8 +5025,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 21,
-            "value": "mid 13th cen."
+            "id": 33,
+            "value": "mid 11th cen."
           }
         ],
         "link_digital_editions": "",
@@ -5140,8 +5145,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 21,
-            "value": "mid 13th cen."
+            "id": 17,
+            "value": "around 1300"
           }
         ],
         "link_digital_editions": "",
@@ -5260,8 +5265,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 41,
-            "value": "13th cen."
+            "id": 21,
+            "value": "mid 13th cen."
           }
         ],
         "link_digital_editions": "",
@@ -5329,8 +5334,8 @@
         "date_certainty": false,
         "date": [
           {
-            "id": 18,
-            "value": "around 1000"
+            "id": 33,
+            "value": "mid 11th cen."
           }
         ],
         "link_digital_editions": "",
@@ -9568,7 +9573,7 @@
     "related__works": [
       {
         "id": 9,
-        "name": "Sermones ",
+        "name": "Sermones (unpublished) ",
         "jad_id": "jad_work__9",
         "author": [
           {
@@ -9601,7 +9606,7 @@
             "value": "BNF, Latin 3301C"
           }
         ],
-        "title": "Sermones",
+        "title": "Sermones (unpublished)",
         "genre": {
           "id": 14726,
           "value": "Sermons",
@@ -9637,10 +9642,10 @@
         ],
         "published_edition": [
           {
-            "id": 2,
-            "name": "Patrologia Latina",
-            "jad_id": "jad_sources_occurrences__2",
-            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
           }
         ],
         "date_certainty": true,
@@ -9650,12 +9655,12 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=/2356/6528/11576",
+        "link_digital_editions": "",
         "author_certainty": true,
         "incipit": null,
-        "volume_edition_or_individual_editor": "198",
+        "volume_edition_or_individual_editor": "",
         "other_editions": null,
-        "view_label": "Sermones ",
+        "view_label": "Sermones (unpublished) ",
         "prev": {
           "id": "jad_work__89",
           "label": "Commentary Matthew "
@@ -9835,7 +9840,7 @@
             "value": "mid 12th cen."
           }
         ],
-        "link_digital_editions": "https://mlat.uzh.ch/browser/11585:4?path=11575",
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11575",
         "author_certainty": true,
         "incipit": null,
         "volume_edition_or_individual_editor": "198",
@@ -9943,6 +9948,71 @@
         "next": {
           "id": "jad_work__637",
           "label": "Commentary Matthew "
+        }
+      },
+      {
+        "id": 836,
+        "name": "Sermones (published) ",
+        "jad_id": "jad_work__836",
+        "author": [
+          {
+            "id": 9,
+            "name": "Petrus Comestor",
+            "jad_id": "jad_author__9",
+            "gnd_url": "https://d-nb.info/gnd/118828851",
+            "notes": "",
+            "lebensdaten": null,
+            "alt_name": "Petrus, Manducator | Pierre, Comestor | Petrus, Prespiter | Comestore, Pietro | Peter, Comestor | Comestor, Petr | Pseudo-Petrus, Comestor | Petrus, Edax | Manducator, Petrus | Comestor, Pierre | Petrus, Comestor-Manducator | Petr, Comestor | Petrus, Tricassinus | Pietro, Comestore | Pierre, de Troyes | Petrus, Trecensis | Pierre, le Mangeur | Comestor, Petrus",
+            "date_of_birth": "1100",
+            "date_of_death": "1179",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": false,
+            "date_death_certainty": true
+          }
+        ],
+        "manuscripts": [],
+        "title": "Sermones (published)",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 4,
+            "value": "mid 12th cen."
+          }
+        ],
+        "link_digital_editions": "https://mlat.uzh.ch/browser/11576",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "198",
+        "other_editions": "",
+        "view_label": "Sermones (published) ",
+        "prev": {
+          "id": "jad_work__835",
+          "label": " "
+        },
+        "next": {
+          "id": "jad_work__84",
+          "label": "Commentary Psalms "
         }
       }
     ]
@@ -11180,8 +11250,8 @@
         "other_editions": null,
         "view_label": "Commentary Psalms ",
         "prev": {
-          "id": "jad_work__835",
-          "label": " "
+          "id": "jad_work__836",
+          "label": "Sermones (published) "
         },
         "next": {
           "id": "jad_work__85",
@@ -11660,7 +11730,7 @@
         },
         "next": {
           "id": "jad_work__9",
-          "label": "Sermones "
+          "label": "Sermones (unpublished) "
         }
       },
       {
@@ -11731,7 +11801,7 @@
         "view_label": "De divinis officiis ",
         "prev": {
           "id": "jad_work__9",
-          "label": "Sermones "
+          "label": "Sermones (unpublished) "
         },
         "next": {
           "id": "jad_work__91",
@@ -42472,7 +42542,7 @@
       }
     ],
     "date_birth_certainty": true,
-    "date_death_certainty": false,
+    "date_death_certainty": true,
     "view_label": "Moses Bergamensis",
     "prev": {
       "id": "jad_author__205",
@@ -42505,7 +42575,7 @@
               }
             ],
             "date_birth_certainty": true,
-            "date_death_certainty": false
+            "date_death_certainty": true
           }
         ],
         "manuscripts": [],
@@ -47872,11 +47942,11 @@
     "notes": "",
     "lebensdaten": "",
     "alt_name": "Kosmas, Vestitor | Bestetor, Kosmas | Kosmas, Bestetor | Vestitor, Cosmas",
-    "date_of_birth": "0730",
-    "date_of_death": "0850",
+    "date_of_birth": "?",
+    "date_of_death": "fl. c.800",
     "place": [],
-    "date_birth_certainty": false,
-    "date_death_certainty": false,
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
     "view_label": "Cosmas Vestitor",
     "prev": {
       "id": "jad_author__356",
@@ -47900,11 +47970,11 @@
             "notes": "",
             "lebensdaten": "",
             "alt_name": "Kosmas, Vestitor | Bestetor, Kosmas | Kosmas, Bestetor | Vestitor, Cosmas",
-            "date_of_birth": "0730",
-            "date_of_death": "0850",
+            "date_of_birth": "?",
+            "date_of_death": "fl. c.800",
             "place": [],
-            "date_birth_certainty": false,
-            "date_death_certainty": false
+            "date_birth_certainty": true,
+            "date_death_certainty": true
           }
         ],
         "manuscripts": [],

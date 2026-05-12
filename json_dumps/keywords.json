@@ -806,16 +806,22 @@
   "204": {
     "id": 204,
     "order": "87.00000000000000000000",
-    "name": "",
-    "short_description": "",
+    "name": "Emperor Nero (r.54-68)",
+    "short_description": "Emperor Nero, who first sent Vespasian as a general to Jerusalem, in order to deal with the Jewish revolt, appears in the passage as well. Given Nero's reputation, this brings in an ambivalent coloring of the Romans - whereas with the Roman conquest itself, the coloring is exclusively positive.",
     "jad_id": "jad_keyword__204",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 31,
+        "value": "Discussions Roman Empire",
+        "order": "31.00000000000000000000"
+      }
+    ]
   },
   "205": {
     "id": 205,
     "order": "88.00000000000000000000",
-    "name": "",
-    "short_description": "",
+    "name": "Fall of Mankind",
+    "short_description": "The Fall of Mankind, that is, Adam and Eve being expelled from Paradise after eating from the forbidden tree, appears in the passage as well.",
     "jad_id": "jad_keyword__205",
     "part_of": []
   },
