@@ -909,12 +909,12 @@
     "description": null,
     "view_label": "Ps. 13,15",
     "prev": {
-      "id": "jad_biblical_reference__535",
-      "label": ""
+      "id": "jad_biblical_reference__539",
+      "label": "Prov. 28,14"
     },
     "next": {
-      "id": "jad_biblical_reference__55",
-      "label": "Gen. 37,28"
+      "id": "jad_biblical_reference__540",
+      "label": "Ps. 44,8"
     }
   },
   "55": {
@@ -926,12 +926,12 @@
     "description": null,
     "view_label": "Gen. 37,28",
     "prev": {
-      "id": "jad_biblical_reference__54",
-      "label": "Ps. 13,15"
+      "id": "jad_biblical_reference__549",
+      "label": "Is. 63,5"
     },
     "next": {
-      "id": "jad_biblical_reference__56",
-      "label": "Ps. 78,1"
+      "id": "jad_biblical_reference__550",
+      "label": "Ps. 68,27"
     }
   },
   "56": {
@@ -943,12 +943,12 @@
     "description": null,
     "view_label": "Ps. 78,1",
     "prev": {
-      "id": "jad_biblical_reference__55",
-      "label": "Gen. 37,28"
+      "id": "jad_biblical_reference__559",
+      "label": "2 Reg. 5,9"
     },
     "next": {
-      "id": "jad_biblical_reference__57",
-      "label": "Is. 63"
+      "id": "jad_biblical_reference__560",
+      "label": "Ps. 17,46"
     }
   },
   "57": {
@@ -960,8 +960,8 @@
     "description": null,
     "view_label": "Is. 63",
     "prev": {
-      "id": "jad_biblical_reference__56",
-      "label": "Ps. 78,1"
+      "id": "jad_biblical_reference__567",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__58",
@@ -1474,23 +1474,6 @@
       "label": "1 Thes. 2,16"
     },
     "next": {
-      "id": "jad_biblical_reference__88",
-      "label": "Mt. 21,13"
-    }
-  },
-  "88": {
-    "id": 88,
-    "name": "Mt. 21,13",
-    "jad_id": "jad_biblical_reference__88",
-    "nova_vulgata_url": "https://www.die-bibel.de/bibel/VUL/MAT.21.13",
-    "text": "et dicit eis: “ Scriptum est: \"Domus mea domus orationis vocabitur\". Vos autem facitis eam speluncam latronum ”.",
-    "description": null,
-    "view_label": "Mt. 21,13",
-    "prev": {
-      "id": "jad_biblical_reference__87",
-      "label": "Ez. 7,22"
-    },
-    "next": {
       "id": "jad_biblical_reference__89",
       "label": "Jer. 1,13"
     }
@@ -1504,8 +1487,8 @@
     "description": null,
     "view_label": "Jer. 1,13",
     "prev": {
-      "id": "jad_biblical_reference__88",
-      "label": "Mt. 21,13"
+      "id": "jad_biblical_reference__87",
+      "label": "Ez. 7,22"
     },
     "next": {
       "id": "jad_biblical_reference__9",
@@ -4747,7 +4730,7 @@
     "name": "Ps. 73,12",
     "jad_id": "jad_biblical_reference__345",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "Deus autem rex noster ante saecula,\noperatus est salutes in medio terrae.",
     "description": "",
     "view_label": "Ps. 73,12",
     "prev": {
@@ -6005,7 +5988,7 @@
     "name": "Mt. 22,6",
     "jad_id": "jad_biblical_reference__515",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "reliqui vero tenuerunt servos eius et contumelia affectos occiderunt.",
     "description": "",
     "view_label": "Mt. 22,6",
     "prev": {
@@ -6337,24 +6320,568 @@
     },
     "next": {
       "id": "jad_biblical_reference__535",
-      "label": ""
+      "label": "Lk. 13,32"
     }
   },
   "535": {
     "id": 535,
-    "name": "",
+    "name": "Lk. 13,32",
     "jad_id": "jad_biblical_reference__535",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
-    "view_label": "",
+    "view_label": "Lk. 13,32",
     "prev": {
       "id": "jad_biblical_reference__534",
       "label": "Ps. 108,13"
     },
     "next": {
+      "id": "jad_biblical_reference__536",
+      "label": "Is. 19,19"
+    }
+  },
+  "536": {
+    "id": 536,
+    "name": "Is. 19,19",
+    "jad_id": "jad_biblical_reference__536",
+    "nova_vulgata_url": "",
+    "text": "In die illa erit altare Domino in medio terrae Aegypti, et titulus iuxta terminum eius Domino.",
+    "description": "",
+    "view_label": "Is. 19,19",
+    "prev": {
+      "id": "jad_biblical_reference__535",
+      "label": "Lk. 13,32"
+    },
+    "next": {
+      "id": "jad_biblical_reference__537",
+      "label": "Is. 1,8"
+    }
+  },
+  "537": {
+    "id": 537,
+    "name": "Is. 1,8",
+    "jad_id": "jad_biblical_reference__537",
+    "nova_vulgata_url": "",
+    "text": "Et derelinquetur filia Sion\nut umbraculum in vinea,\nsicut tugurium in cucumerario,\nsicut civitas, quae obsessa est.",
+    "description": "",
+    "view_label": "Is. 1,8",
+    "prev": {
+      "id": "jad_biblical_reference__536",
+      "label": "Is. 19,19"
+    },
+    "next": {
+      "id": "jad_biblical_reference__538",
+      "label": "Mt. 7,21"
+    }
+  },
+  "538": {
+    "id": 538,
+    "name": "Mt. 7,21",
+    "jad_id": "jad_biblical_reference__538",
+    "nova_vulgata_url": "",
+    "text": "Non omnis, qui dicit mihi: “Domine, Domine”, intrabit in regnum caelorum, sed qui facit voluntatem Patris mei, qui in caelis est.",
+    "description": "",
+    "view_label": "Mt. 7,21",
+    "prev": {
+      "id": "jad_biblical_reference__537",
+      "label": "Is. 1,8"
+    },
+    "next": {
+      "id": "jad_biblical_reference__539",
+      "label": "Prov. 28,14"
+    }
+  },
+  "539": {
+    "id": 539,
+    "name": "Prov. 28,14",
+    "jad_id": "jad_biblical_reference__539",
+    "nova_vulgata_url": "",
+    "text": "Beatus homo, qui semper est pavidus;\nqui vero indurat cor suum, corruet in malum.",
+    "description": "",
+    "view_label": "Prov. 28,14",
+    "prev": {
+      "id": "jad_biblical_reference__538",
+      "label": "Mt. 7,21"
+    },
+    "next": {
       "id": "jad_biblical_reference__54",
       "label": "Ps. 13,15"
+    }
+  },
+  "540": {
+    "id": 540,
+    "name": "Ps. 44,8",
+    "jad_id": "jad_biblical_reference__540",
+    "nova_vulgata_url": "",
+    "text": "Dilexisti iustitiam et odisti iniquitatem,\npropterea unxit te Deus, Deus tuus, oleo laetitiae prae consortibus tuis",
+    "description": "",
+    "view_label": "Ps. 44,8",
+    "prev": {
+      "id": "jad_biblical_reference__54",
+      "label": "Ps. 13,15"
+    },
+    "next": {
+      "id": "jad_biblical_reference__541",
+      "label": "Lev. 11,44"
+    }
+  },
+  "541": {
+    "id": 541,
+    "name": "Lev. 11,44",
+    "jad_id": "jad_biblical_reference__541",
+    "nova_vulgata_url": "",
+    "text": "Ego enim sum Dominus Deus vester; sanctificamini et sancti estote, quoniam et ego sanctus sum. Ne polluatis animas vestras in omni reptili, quod movetur super terram.",
+    "description": "",
+    "view_label": "Lev. 11,44",
+    "prev": {
+      "id": "jad_biblical_reference__540",
+      "label": "Ps. 44,8"
+    },
+    "next": {
+      "id": "jad_biblical_reference__542",
+      "label": "Lk. 11,28"
+    }
+  },
+  "542": {
+    "id": 542,
+    "name": "Lk. 11,28",
+    "jad_id": "jad_biblical_reference__542",
+    "nova_vulgata_url": "",
+    "text": "At ille dixit: “ Quinimmo beati, qui audiunt verbum Dei et custodiunt! ”.",
+    "description": "",
+    "view_label": "Lk. 11,28",
+    "prev": {
+      "id": "jad_biblical_reference__541",
+      "label": "Lev. 11,44"
+    },
+    "next": {
+      "id": "jad_biblical_reference__543",
+      "label": "Rev. 16,6"
+    }
+  },
+  "543": {
+    "id": 543,
+    "name": "Rev. 16,6",
+    "jad_id": "jad_biblical_reference__543",
+    "nova_vulgata_url": "",
+    "text": "quia sanguinem sanctorum et prophetarum fuderunt, et sanguinem eis dedisti bibere: digni sunt!",
+    "description": "",
+    "view_label": "Rev. 16,6",
+    "prev": {
+      "id": "jad_biblical_reference__542",
+      "label": "Lk. 11,28"
+    },
+    "next": {
+      "id": "jad_biblical_reference__544",
+      "label": "2 Thes. 2,4"
+    }
+  },
+  "544": {
+    "id": 544,
+    "name": "2 Thes. 2,4",
+    "jad_id": "jad_biblical_reference__544",
+    "nova_vulgata_url": "",
+    "text": "qui adversatur et extollitur supra omne, quod dicitur Deus aut quod colitur, ita ut in templo Dei sedeat, ostendens se quia sit Deus.",
+    "description": "",
+    "view_label": "2 Thes. 2,4",
+    "prev": {
+      "id": "jad_biblical_reference__543",
+      "label": "Rev. 16,6"
+    },
+    "next": {
+      "id": "jad_biblical_reference__545",
+      "label": "Gen. 12,1"
+    }
+  },
+  "545": {
+    "id": 545,
+    "name": "Gen. 12,1",
+    "jad_id": "jad_biblical_reference__545",
+    "nova_vulgata_url": "",
+    "text": "Dixit autem Dominus ad Abram:\n“Egredere de terra tua et de cognatione tua\net de domo patris tui\nin terram, quam monstrabo tibi.",
+    "description": "",
+    "view_label": "Gen. 12,1",
+    "prev": {
+      "id": "jad_biblical_reference__544",
+      "label": "2 Thes. 2,4"
+    },
+    "next": {
+      "id": "jad_biblical_reference__546",
+      "label": "Rom. 2,15"
+    }
+  },
+  "546": {
+    "id": 546,
+    "name": "Rom. 2,15",
+    "jad_id": "jad_biblical_reference__546",
+    "nova_vulgata_url": "",
+    "text": "qui ostendunt opus legis scriptum in cordibus suis, testimonium simul reddente illis conscientia ipsorum, et inter se invicem cogitationibus accusantibus aut etiam defendentibus,",
+    "description": "",
+    "view_label": "Rom. 2,15",
+    "prev": {
+      "id": "jad_biblical_reference__545",
+      "label": "Gen. 12,1"
+    },
+    "next": {
+      "id": "jad_biblical_reference__547",
+      "label": "Rom. 2,16"
+    }
+  },
+  "547": {
+    "id": 547,
+    "name": "Rom. 2,16",
+    "jad_id": "jad_biblical_reference__547",
+    "nova_vulgata_url": "",
+    "text": "in die, cum iudicabit Deus occulta hominum secundum evangelium meum per Christum Iesum",
+    "description": "",
+    "view_label": "Rom. 2,16",
+    "prev": {
+      "id": "jad_biblical_reference__546",
+      "label": "Rom. 2,15"
+    },
+    "next": {
+      "id": "jad_biblical_reference__548",
+      "label": "Rom. 6,10"
+    }
+  },
+  "548": {
+    "id": 548,
+    "name": "Rom. 6,10",
+    "jad_id": "jad_biblical_reference__548",
+    "nova_vulgata_url": "",
+    "text": "Quod enim mortuus est, peccato mortuus est semel; quod autem vivit, vivit Deo.",
+    "description": "",
+    "view_label": "Rom. 6,10",
+    "prev": {
+      "id": "jad_biblical_reference__547",
+      "label": "Rom. 2,16"
+    },
+    "next": {
+      "id": "jad_biblical_reference__549",
+      "label": "Is. 63,5"
+    }
+  },
+  "549": {
+    "id": 549,
+    "name": "Is. 63,5",
+    "jad_id": "jad_biblical_reference__549",
+    "nova_vulgata_url": "",
+    "text": "Circumspexi, et non erat auxiliator,\nmiratus sum, et non fuit qui adiuvaret;\net salvavit mihi brachium meum,",
+    "description": "",
+    "view_label": "Is. 63,5",
+    "prev": {
+      "id": "jad_biblical_reference__548",
+      "label": "Rom. 6,10"
+    },
+    "next": {
+      "id": "jad_biblical_reference__55",
+      "label": "Gen. 37,28"
+    }
+  },
+  "550": {
+    "id": 550,
+    "name": "Ps. 68,27",
+    "jad_id": "jad_biblical_reference__550",
+    "nova_vulgata_url": "",
+    "text": "Quoniam, quem tu percussisti, persecuti sunt,\net super dolorem eius, quem vulnerasti, addiderunt.",
+    "description": "",
+    "view_label": "Ps. 68,27",
+    "prev": {
+      "id": "jad_biblical_reference__55",
+      "label": "Gen. 37,28"
+    },
+    "next": {
+      "id": "jad_biblical_reference__551",
+      "label": "Phil. 2,10"
+    }
+  },
+  "551": {
+    "id": 551,
+    "name": "Phil. 2,10",
+    "jad_id": "jad_biblical_reference__551",
+    "nova_vulgata_url": "",
+    "text": "ut in nomine Iesu omne genu flectatur\ncaelestium et terrestrium et infernorum",
+    "description": "",
+    "view_label": "Phil. 2,10",
+    "prev": {
+      "id": "jad_biblical_reference__550",
+      "label": "Ps. 68,27"
+    },
+    "next": {
+      "id": "jad_biblical_reference__552",
+      "label": "Is. 9,5"
+    }
+  },
+  "552": {
+    "id": 552,
+    "name": "Is. 9,5",
+    "jad_id": "jad_biblical_reference__552",
+    "nova_vulgata_url": "",
+    "text": "Parvulus enim natus est nobis,\nfilius datus est nobis;\net factus est principatus super umerum eius;\net vocabitur nomen eius\nadmirabilis Consiliarius, Deus fortis,\nPater aeternitatis, Princeps pacis.",
+    "description": "",
+    "view_label": "Is. 9,5",
+    "prev": {
+      "id": "jad_biblical_reference__551",
+      "label": "Phil. 2,10"
+    },
+    "next": {
+      "id": "jad_biblical_reference__553",
+      "label": "Hab. 3,4"
+    }
+  },
+  "553": {
+    "id": 553,
+    "name": "Hab. 3,4",
+    "jad_id": "jad_biblical_reference__553",
+    "nova_vulgata_url": "",
+    "text": "Splendor eius ut lux erit,\nradii ex manibus eius:\nibi abscondita est fortitudo eius.",
+    "description": "",
+    "view_label": "Hab. 3,4",
+    "prev": {
+      "id": "jad_biblical_reference__552",
+      "label": "Is. 9,5"
+    },
+    "next": {
+      "id": "jad_biblical_reference__554",
+      "label": "Mt. 27,45"
+    }
+  },
+  "554": {
+    "id": 554,
+    "name": "Mt. 27,45",
+    "jad_id": "jad_biblical_reference__554",
+    "nova_vulgata_url": "",
+    "text": "A sexta autem hora tenebrae factae sunt super universam terram usque ad horam nonam.",
+    "description": "",
+    "view_label": "Mt. 27,45",
+    "prev": {
+      "id": "jad_biblical_reference__553",
+      "label": "Hab. 3,4"
+    },
+    "next": {
+      "id": "jad_biblical_reference__555",
+      "label": "Ex. 4,22"
+    }
+  },
+  "555": {
+    "id": 555,
+    "name": "Ex. 4,22",
+    "jad_id": "jad_biblical_reference__555",
+    "nova_vulgata_url": "",
+    "text": "Dicesque ad eum: Haec dicit Dominus: Filius meus primogenitus Israel",
+    "description": "",
+    "view_label": "Ex. 4,22",
+    "prev": {
+      "id": "jad_biblical_reference__554",
+      "label": "Mt. 27,45"
+    },
+    "next": {
+      "id": "jad_biblical_reference__556",
+      "label": "Jer. 11,19"
+    }
+  },
+  "556": {
+    "id": 556,
+    "name": "Jer. 11,19",
+    "jad_id": "jad_biblical_reference__556",
+    "nova_vulgata_url": "",
+    "text": "Et ego quasi agnus mansuetus, qui portatur ad victimam; et non cognovi quia super me cogitaverunt consilia: “ Caedamus lignum in vigore eius et eradamus eum de terra viventium, et nomen eius non memoretur amplius ”.",
+    "description": "",
+    "view_label": "Jer. 11,19",
+    "prev": {
+      "id": "jad_biblical_reference__555",
+      "label": "Ex. 4,22"
+    },
+    "next": {
+      "id": "jad_biblical_reference__557",
+      "label": "Zach. 13,7"
+    }
+  },
+  "557": {
+    "id": 557,
+    "name": "Zach. 13,7",
+    "jad_id": "jad_biblical_reference__557",
+    "nova_vulgata_url": "",
+    "text": "Framea, suscitare super pastorem meum\net super virum cohaerentem mihi,\ndicit Dominus exercituum.\nPercute pastorem, et dispergentur oves,\net convertam manum meam contra parvulo",
+    "description": "",
+    "view_label": "Zach. 13,7",
+    "prev": {
+      "id": "jad_biblical_reference__556",
+      "label": "Jer. 11,19"
+    },
+    "next": {
+      "id": "jad_biblical_reference__558",
+      "label": "Sir. 3,12"
+    }
+  },
+  "558": {
+    "id": 558,
+    "name": "Sir. 3,12",
+    "jad_id": "jad_biblical_reference__558",
+    "nova_vulgata_url": "",
+    "text": "Ne glorieris in contumelia patris tui,\nnon est enim tibi gloria eius confusio;",
+    "description": "",
+    "view_label": "Sir. 3,12",
+    "prev": {
+      "id": "jad_biblical_reference__557",
+      "label": "Zach. 13,7"
+    },
+    "next": {
+      "id": "jad_biblical_reference__559",
+      "label": "2 Reg. 5,9"
+    }
+  },
+  "559": {
+    "id": 559,
+    "name": "2 Reg. 5,9",
+    "jad_id": "jad_biblical_reference__559",
+    "nova_vulgata_url": "",
+    "text": "Habitavit autem David in arce et vocavit eam Civitatem David; et aedificavit per gyrum a Mello et intrinsecus.",
+    "description": "",
+    "view_label": "2 Reg. 5,9",
+    "prev": {
+      "id": "jad_biblical_reference__558",
+      "label": "Sir. 3,12"
+    },
+    "next": {
+      "id": "jad_biblical_reference__56",
+      "label": "Ps. 78,1"
+    }
+  },
+  "560": {
+    "id": 560,
+    "name": "Ps. 17,46",
+    "jad_id": "jad_biblical_reference__560",
+    "nova_vulgata_url": "",
+    "text": "filii alieni inveterati sunt,\ncontremuerunt in abditis suis.",
+    "description": "",
+    "view_label": "Ps. 17,46",
+    "prev": {
+      "id": "jad_biblical_reference__56",
+      "label": "Ps. 78,1"
+    },
+    "next": {
+      "id": "jad_biblical_reference__561",
+      "label": "Mt. 10,33"
+    }
+  },
+  "561": {
+    "id": 561,
+    "name": "Mt. 10,33",
+    "jad_id": "jad_biblical_reference__561",
+    "nova_vulgata_url": "",
+    "text": "qui autem negaverit me coram hominibus, negabo et ego eum coram Patre meo, qui est in caelis.",
+    "description": "",
+    "view_label": "Mt. 10,33",
+    "prev": {
+      "id": "jad_biblical_reference__560",
+      "label": "Ps. 17,46"
+    },
+    "next": {
+      "id": "jad_biblical_reference__562",
+      "label": "Is. 11,11"
+    }
+  },
+  "562": {
+    "id": 562,
+    "name": "Is. 11,11",
+    "jad_id": "jad_biblical_reference__562",
+    "nova_vulgata_url": "",
+    "text": "Et erit in die illa: rursus extendet Dominus manum suam\nad possidendum residuum populi sui,\nquod relictum erit ab Assyria et ab Aegypto\net a Phatros et ab Aethiopia\net ab Elam et a Sennaar\net ab Emath et ab insulis maris;",
+    "description": "",
+    "view_label": "Is. 11,11",
+    "prev": {
+      "id": "jad_biblical_reference__561",
+      "label": "Mt. 10,33"
+    },
+    "next": {
+      "id": "jad_biblical_reference__563",
+      "label": "Ex. 14,30"
+    }
+  },
+  "563": {
+    "id": 563,
+    "name": "Ex. 14,30",
+    "jad_id": "jad_biblical_reference__563",
+    "nova_vulgata_url": "",
+    "text": "Liberavitque Dominus in die illo Israel de manu Aegyptiorum. Et viderunt Aegyptios mortuos super litus maris",
+    "description": "",
+    "view_label": "Ex. 14,30",
+    "prev": {
+      "id": "jad_biblical_reference__562",
+      "label": "Is. 11,11"
+    },
+    "next": {
+      "id": "jad_biblical_reference__564",
+      "label": "Jer. 25,11"
+    }
+  },
+  "564": {
+    "id": 564,
+    "name": "Jer. 25,11",
+    "jad_id": "jad_biblical_reference__564",
+    "nova_vulgata_url": "",
+    "text": "et erit universa terra haec in solitudinem et in stuporem, et servient omnes gentes istae regi Babylonis septuaginta annis",
+    "description": "",
+    "view_label": "Jer. 25,11",
+    "prev": {
+      "id": "jad_biblical_reference__563",
+      "label": "Ex. 14,30"
+    },
+    "next": {
+      "id": "jad_biblical_reference__565",
+      "label": "Is. 54,11"
+    }
+  },
+  "565": {
+    "id": 565,
+    "name": "Is. 54,11",
+    "jad_id": "jad_biblical_reference__565",
+    "nova_vulgata_url": "",
+    "text": "Paupercula, tempestate convulsa absque ulla consolatione,\necce ego sternam super carbunculos lapides tuos\net fundabo te in sapphiris;",
+    "description": "",
+    "view_label": "Is. 54,11",
+    "prev": {
+      "id": "jad_biblical_reference__564",
+      "label": "Jer. 25,11"
+    },
+    "next": {
+      "id": "jad_biblical_reference__566",
+      "label": "Dan. 7,13"
+    }
+  },
+  "566": {
+    "id": 566,
+    "name": "Dan. 7,13",
+    "jad_id": "jad_biblical_reference__566",
+    "nova_vulgata_url": "",
+    "text": "Aspiciebam ergo in visione noctis:\net ecce cum nubibus caeli\nquasi Filius hominis veniebat\net usque ad Antiquum dierum pervenit,\net in conspectu eius obtulerunt eum;",
+    "description": "",
+    "view_label": "Dan. 7,13",
+    "prev": {
+      "id": "jad_biblical_reference__565",
+      "label": "Is. 54,11"
+    },
+    "next": {
+      "id": "jad_biblical_reference__567",
+      "label": ""
+    }
+  },
+  "567": {
+    "id": 567,
+    "name": "",
+    "jad_id": "jad_biblical_reference__567",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__566",
+      "label": "Dan. 7,13"
+    },
+    "next": {
+      "id": "jad_biblical_reference__57",
+      "label": "Is. 63"
     }
   }
 }

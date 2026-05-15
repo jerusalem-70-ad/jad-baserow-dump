@@ -949,7 +949,7 @@
     "occurrence": [
       {
         "id": 53,
-        "value": "hierosolime ciuitatis subuersio describebatur, que a vespasiano et tito romanis principibus post quandraginta annorum tempus passionis Christi facta est",
+        "value": "Hierusolime civitatis subversio describebatur quae a Vespasiano et Tito romanis principibus post quadraginta annorum tempus passionis Christi facta est",
         "order": "53.00000000000000000000"
       }
     ],
@@ -990,7 +990,7 @@
     "occurrence": [
       {
         "id": 54,
-        "value": "Cum appropinquaret Jesus Jerusalem, videns civitatem flevit. Quod flente Domino ille Jerosolymorum subversio describatur",
+        "value": "subversio describatur que a Vespasiano et Tyto romanis principibus facta est",
         "order": "54.00000000000000000000"
       }
     ],
@@ -1003,7 +1003,7 @@
     ],
     "position_in_ms": "32v",
     "main_ms": true,
-    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b52521779w/f71.item",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b52521779w/f70.item",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -1013,7 +1013,7 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-08-23",
+    "last_modified_on": "2026-05-14",
     "ms_locus": [
       {
         "ids": {
@@ -1151,13 +1151,7 @@
     "id": 29,
     "order": "29.00000000000000000000",
     "jad_id": "jad_ms_occurence__29",
-    "occurrence": [
-      {
-        "id": 70,
-        "value": "conculcavi populos, Judaeos scilicet, in furore meo, et inebriavi eos, id est replevi afflictione, et miseria per Romanos",
-        "order": "70.00000000000000000000"
-      }
-    ],
+    "occurrence": [],
     "manuscript": [
       {
         "id": 3,
@@ -1236,7 +1230,7 @@
     "occurrence": [
       {
         "id": 72,
-        "value": "reliquias ejus dabo in gladio (Jer. XV), quod factum est per Vespasianum et Titum",
+        "value": "reliquias ejus dabo in gladio, quod factum est per Vespasianum et Titum",
         "order": "72.00000000000000000000"
       }
     ],
@@ -1400,7 +1394,7 @@
     "occurrence": [
       {
         "id": 76,
-        "value": "negligentes contriti, advenientibus Romanis, et malae conscientiae tinea devorati sunt.",
+        "value": "negligentes contriti, advenientibus Romanis, et malae conscientiae tinea devorati sunt",
         "order": "76.00000000000000000000"
       }
     ],
@@ -1482,7 +1476,7 @@
     "occurrence": [
       {
         "id": 78,
-        "value": "duo ursi, per hos tytus et vespasianus qui destruxerunt Iudeos",
+        "value": "duo ursi, per hos Tytus et Vespasianus qui destruxerunt Iudeos",
         "order": "78.00000000000000000000"
       }
     ],
@@ -1851,7 +1845,7 @@
     "occurrence": [
       {
         "id": 97,
-        "value": "captam conservata per romanos helium adam et titum et vespasianum",
+        "value": "captas consummata per romanos Helium Adriani et Titum et Vaspasianum",
         "order": "97.00000000000000000000"
       }
     ],
@@ -2097,7 +2091,7 @@
     "occurrence": [
       {
         "id": 103,
-        "value": "duce tito et vaspasiano vasti, destructio omnioda (?)",
+        "value": "duce tito et vaspasiano vastati, destructio omnioda (?)",
         "order": "103.00000000000000000000"
       }
     ],
@@ -21405,10 +21399,22 @@
     "id": 760,
     "order": "518.00000000000000000000",
     "jad_id": "jad_ms_occurence__760",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2632,
+        "value": "triplex legitur fuisse captivitas Iudeorum, sub nabugodonosor, sub antioquo epiphanie, sub romanis",
+        "order": "2300.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 68,
+        "value": "BL, Royal 10 C V",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "97r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -21419,18 +21425,38 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-29",
-    "ms_locus": []
+    "last_modified_on": "2026-05-14",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 68,
+          "database_table_3497": 7
+        },
+        "value": "BL, Royal 10 C V, f. 97r"
+      }
+    ]
   },
   "761": {
     "id": 761,
     "order": "519.00000000000000000000",
     "jad_id": "jad_ms_occurence__761",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 2632,
+        "value": "triplex legitur fuisse captivitas Iudeorum, sub nabugodonosor, sub antioquo epiphanie, sub romanis",
+        "order": "2300.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 14426",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "62v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b9078089g/f64.item",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -21440,8 +21466,16 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-29",
-    "ms_locus": []
+    "last_modified_on": "2026-05-14",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 2,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14426, f. 62v"
+      }
+    ]
   },
   "762": {
     "id": 762,
