@@ -113,7 +113,7 @@
     "id": 13,
     "order": "13.00000000000000000000",
     "name": "Viking invasions",
-    "short_description": "",
+    "short_description": "Either the passage itself or the work in its entirely, or alteratively also the activities of its author, can be related to the various invasions of Vikings in Europe, primarily in the ninth century, and notably the sack of Paris in 845.",
     "jad_id": "jad_keyword__13",
     "part_of": []
   },
@@ -173,7 +173,7 @@
     "id": 19,
     "order": "19.00000000000000000000",
     "name": "Persian conquest Jerusalem (614)",
-    "short_description": "",
+    "short_description": "The Persian conquest appears in the context as well, when the Byzantines lost the relic of the True Cross to the Persians, before Emperor Heraclius was able to reclaim it.",
     "jad_id": "jad_keyword__19",
     "part_of": [
       {
@@ -441,7 +441,7 @@
     "id": 52,
     "order": "52.00000000000000000000",
     "name": "Martyrdom",
-    "short_description": "Discussions of martyrdom appear in the same context, for example, relating to St Stephen, the first martyr.",
+    "short_description": "Discussions of martyrdom appear in the same context, for example, relating to St Stephen, the first martyr, or to that of the Apostles Peter and Paul.",
     "jad_id": "jad_keyword__52",
     "part_of": []
   },
@@ -601,7 +601,7 @@
     "id": 70,
     "order": "70.00000000000000000000",
     "name": "Flavius Josephus (c.38-c.100)",
-    "short_description": "The passage names Flavius Josephus explicitely as a source, but this does not necessarily mean that he was (directly) used; in fact, Pseudo-Hegesippus, Eusebius of Caesarea, or other derivatives may have been the source as well. This question thus needs to be determined for each text anew. Yet, the frequent appearance of his name shows how renowned Josephus was throughout the medieval period.",
+    "short_description": "The passage names Flavius Josephus explicitely as a source, but this does not necessarily mean that he was (directly) used; in fact, Pseudo-Hegesippus, Eusebius of Caesarea, or other derivatives may have been the source as well. This question thus needs to be determined for each text anew. Yet, the frequent appearance of his name shows how renowned Josephus was throughout the medieval period. The keyword is applied as well if Josephus himself appears as part of the narrative (being first reponsible for the defense of Judea, and then a captive in the Roman camp).",
     "jad_id": "jad_keyword__70",
     "part_of": []
   },
@@ -801,7 +801,13 @@
     "name": "Judas",
     "short_description": "",
     "jad_id": "jad_keyword__208",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      }
+    ]
   },
   "209": {
     "id": 209,
@@ -809,12 +815,18 @@
     "name": "St Stephen, first martyr",
     "short_description": "",
     "jad_id": "jad_keyword__209",
-    "part_of": []
+    "part_of": [
+      {
+        "id": 52,
+        "value": "Martyrdom",
+        "order": "52.00000000000000000000"
+      }
+    ]
   },
   "210": {
     "id": 210,
     "order": "93.00000000000000000000",
-    "name": "",
+    "name": "St Veronica",
     "short_description": "",
     "jad_id": "jad_keyword__210",
     "part_of": []
@@ -825,6 +837,14 @@
     "name": "",
     "short_description": "",
     "jad_id": "jad_keyword__211",
+    "part_of": []
+  },
+  "212": {
+    "id": 212,
+    "order": "95.00000000000000000000",
+    "name": "",
+    "short_description": "",
+    "jad_id": "jad_keyword__212",
     "part_of": []
   }
 }
