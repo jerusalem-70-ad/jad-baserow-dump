@@ -1130,12 +1130,12 @@
     "description": null,
     "view_label": "Lk. 23,18",
     "prev": {
-      "id": "jad_biblical_reference__664",
+      "id": "jad_biblical_reference__669",
       "label": ""
     },
     "next": {
-      "id": "jad_biblical_reference__68",
-      "label": "Ps. 140,2"
+      "id": "jad_biblical_reference__670",
+      "label": ""
     }
   },
   "68": {
@@ -1147,8 +1147,8 @@
     "description": null,
     "view_label": "Ps. 140,2",
     "prev": {
-      "id": "jad_biblical_reference__67",
-      "label": "Lk. 23,18"
+      "id": "jad_biblical_reference__670",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__69",
@@ -8513,24 +8513,126 @@
     },
     "next": {
       "id": "jad_biblical_reference__664",
-      "label": ""
+      "label": "1 Cor. 1,24"
     }
   },
   "664": {
     "id": 664,
-    "name": "",
+    "name": "1 Cor. 1,24",
     "jad_id": "jad_biblical_reference__664",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "ipsis autem vocatis, Iudaeis atque Graecis, Christum Dei virtutem et Dei sapientiam",
     "description": "",
-    "view_label": "",
+    "view_label": "1 Cor. 1,24",
     "prev": {
       "id": "jad_biblical_reference__663",
       "label": "Rev. 6,14"
     },
     "next": {
+      "id": "jad_biblical_reference__665",
+      "label": "Hos. 7,4"
+    }
+  },
+  "665": {
+    "id": 665,
+    "name": "Hos. 7,4",
+    "jad_id": "jad_biblical_reference__665",
+    "nova_vulgata_url": "",
+    "text": "Omnes adulterantes;\nquasi clibanus succensus illi,\npistor cessat excitare ignem\na commixtione fermenti, donec fermentetur totum.",
+    "description": "",
+    "view_label": "Hos. 7,4",
+    "prev": {
+      "id": "jad_biblical_reference__664",
+      "label": "1 Cor. 1,24"
+    },
+    "next": {
+      "id": "jad_biblical_reference__666",
+      "label": "Is. 27,4"
+    }
+  },
+  "666": {
+    "id": 666,
+    "name": "Is. 27,4",
+    "jad_id": "jad_biblical_reference__666",
+    "nova_vulgata_url": "",
+    "text": "Indignatio non est mihi.\nQuis dabit mihi spinam et veprem?\nIn proelio gradiar super eam,\nsuccendam eam pariter",
+    "description": "",
+    "view_label": "Is. 27,4",
+    "prev": {
+      "id": "jad_biblical_reference__665",
+      "label": "Hos. 7,4"
+    },
+    "next": {
+      "id": "jad_biblical_reference__667",
+      "label": "John 14,31"
+    }
+  },
+  "667": {
+    "id": 667,
+    "name": "John 14,31",
+    "jad_id": "jad_biblical_reference__667",
+    "nova_vulgata_url": "",
+    "text": "sed, ut cognoscat mundus quia diligo Patrem, et sicut mandatum dedit mihi Pater, sic facio. Surgite, eamus hinc.",
+    "description": "",
+    "view_label": "John 14,31",
+    "prev": {
+      "id": "jad_biblical_reference__666",
+      "label": "Is. 27,4"
+    },
+    "next": {
+      "id": "jad_biblical_reference__668",
+      "label": ""
+    }
+  },
+  "668": {
+    "id": 668,
+    "name": "",
+    "jad_id": "jad_biblical_reference__668",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__667",
+      "label": "John 14,31"
+    },
+    "next": {
+      "id": "jad_biblical_reference__669",
+      "label": ""
+    }
+  },
+  "669": {
+    "id": 669,
+    "name": "",
+    "jad_id": "jad_biblical_reference__669",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__668",
+      "label": ""
+    },
+    "next": {
       "id": "jad_biblical_reference__67",
       "label": "Lk. 23,18"
+    }
+  },
+  "670": {
+    "id": 670,
+    "name": "",
+    "jad_id": "jad_biblical_reference__670",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__67",
+      "label": "Lk. 23,18"
+    },
+    "next": {
+      "id": "jad_biblical_reference__68",
+      "label": "Ps. 140,2"
     }
   }
 }
