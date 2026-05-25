@@ -1267,11 +1267,11 @@
     "view_label": "Is. 3,1",
     "prev": {
       "id": "jad_biblical_reference__749",
-      "label": ""
+      "label": "Mt. 6,3"
     },
     "next": {
-      "id": "jad_biblical_reference__76",
-      "label": "Is. 10"
+      "id": "jad_biblical_reference__750",
+      "label": "Rev. 13,2"
     }
   },
   "76": {
@@ -1283,8 +1283,8 @@
     "description": null,
     "view_label": "Is. 10",
     "prev": {
-      "id": "jad_biblical_reference__75",
-      "label": "Is. 3,1"
+      "id": "jad_biblical_reference__753",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__77",
@@ -9567,17 +9567,17 @@
     },
     "next": {
       "id": "jad_biblical_reference__749",
-      "label": ""
+      "label": "Mt. 6,3"
     }
   },
   "749": {
     "id": 749,
-    "name": "",
+    "name": "Mt. 6,3",
     "jad_id": "jad_biblical_reference__749",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "Te autem faciente eleemosynam, nesciat sinistra tua quid faciat dextera tua",
     "description": "",
-    "view_label": "",
+    "view_label": "Mt. 6,3",
     "prev": {
       "id": "jad_biblical_reference__748",
       "label": "Jer. 22,30"
@@ -9585,6 +9585,74 @@
     "next": {
       "id": "jad_biblical_reference__75",
       "label": "Is. 3,1"
+    }
+  },
+  "750": {
+    "id": 750,
+    "name": "Rev. 13,2",
+    "jad_id": "jad_biblical_reference__750",
+    "nova_vulgata_url": "",
+    "text": "Et bestia, quam vidi, similis erat pardo, et pedes eius sicut ursi, et os eius sicut os leonis. Et dedit illi draco virtutem suam et thronum suum et potestatem magnam",
+    "description": "",
+    "view_label": "Rev. 13,2",
+    "prev": {
+      "id": "jad_biblical_reference__75",
+      "label": "Is. 3,1"
+    },
+    "next": {
+      "id": "jad_biblical_reference__751",
+      "label": ""
+    }
+  },
+  "751": {
+    "id": 751,
+    "name": "",
+    "jad_id": "jad_biblical_reference__751",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__750",
+      "label": "Rev. 13,2"
+    },
+    "next": {
+      "id": "jad_biblical_reference__752",
+      "label": ""
+    }
+  },
+  "752": {
+    "id": 752,
+    "name": "",
+    "jad_id": "jad_biblical_reference__752",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__751",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__753",
+      "label": ""
+    }
+  },
+  "753": {
+    "id": 753,
+    "name": "",
+    "jad_id": "jad_biblical_reference__753",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__752",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__76",
+      "label": "Is. 10"
     }
   }
 }
