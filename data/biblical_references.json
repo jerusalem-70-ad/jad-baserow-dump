@@ -1373,7 +1373,7 @@
     },
     "next": {
       "id": "jad_biblical_reference__810",
-      "label": ""
+      "label": "Num. 24,7"
     }
   },
   "82": {
@@ -1385,12 +1385,12 @@
     "description": null,
     "view_label": "1 Macc. 2",
     "prev": {
-      "id": "jad_biblical_reference__810",
-      "label": ""
+      "id": "jad_biblical_reference__819",
+      "label": "Ps. 100,8"
     },
     "next": {
-      "id": "jad_biblical_reference__83",
-      "label": "1 Macc. 3"
+      "id": "jad_biblical_reference__820",
+      "label": "Koh. 12,2"
     }
   },
   "83": {
@@ -1402,12 +1402,12 @@
     "description": null,
     "view_label": "1 Macc. 3",
     "prev": {
-      "id": "jad_biblical_reference__82",
-      "label": "1 Macc. 2"
+      "id": "jad_biblical_reference__829",
+      "label": "Ps. 69,2"
     },
     "next": {
-      "id": "jad_biblical_reference__84",
-      "label": "1 Macc. 4"
+      "id": "jad_biblical_reference__830",
+      "label": "Ex. 33,3"
     }
   },
   "84": {
@@ -1419,8 +1419,8 @@
     "description": null,
     "view_label": "1 Macc. 4",
     "prev": {
-      "id": "jad_biblical_reference__83",
-      "label": "1 Macc. 3"
+      "id": "jad_biblical_reference__839",
+      "label": "Lev. 26,19"
     },
     "next": {
       "id": "jad_biblical_reference__85",
@@ -10595,7 +10595,7 @@
     "name": "Mt. 22,3",
     "jad_id": "jad_biblical_reference__809",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "Et misit servos suos vocare invitatos ad nuptias, et nolebant venire.",
     "description": "",
     "view_label": "Mt. 22,3",
     "prev": {
@@ -10609,19 +10609,512 @@
   },
   "810": {
     "id": 810,
-    "name": "",
+    "name": "Num. 24,7",
     "jad_id": "jad_biblical_reference__810",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "Fluet aqua de situlis eius,\net semen illius erit in aquis multis. Extolletur super Agag rex eius,\net elevabitur regnum illius.",
     "description": "",
-    "view_label": "",
+    "view_label": "Num. 24,7",
     "prev": {
       "id": "jad_biblical_reference__81",
       "label": "Gal. 5,15"
     },
     "next": {
+      "id": "jad_biblical_reference__811",
+      "label": "Num. 24,8"
+    }
+  },
+  "811": {
+    "id": 811,
+    "name": "Num. 24,8",
+    "jad_id": "jad_biblical_reference__811",
+    "nova_vulgata_url": "",
+    "text": "Deus eduxit illum de Aegypto,\nsicut cornua bubali est ei.\nDevorabit gentes, hostes suos,\nossaque eorum confringet\net perforabit sagittis.",
+    "description": "",
+    "view_label": "Num. 24,8",
+    "prev": {
+      "id": "jad_biblical_reference__810",
+      "label": "Num. 24,7"
+    },
+    "next": {
+      "id": "jad_biblical_reference__812",
+      "label": "Lk. 12,20"
+    }
+  },
+  "812": {
+    "id": 812,
+    "name": "Lk. 12,20",
+    "jad_id": "jad_biblical_reference__812",
+    "nova_vulgata_url": "",
+    "text": "Dixit autem illi Deus: “Stulte! Hac nocte animam tuam repetunt a te; quae autem parasti, cuius erunt?”.",
+    "description": "",
+    "view_label": "Lk. 12,20",
+    "prev": {
+      "id": "jad_biblical_reference__811",
+      "label": "Num. 24,8"
+    },
+    "next": {
+      "id": "jad_biblical_reference__813",
+      "label": "Ps. 48,18"
+    }
+  },
+  "813": {
+    "id": 813,
+    "name": "Ps. 48,18",
+    "jad_id": "jad_biblical_reference__813",
+    "nova_vulgata_url": "",
+    "text": "quoniam, cum interierit, non sumet omnia,\nneque descendet cum eo gloria eius.",
+    "description": "",
+    "view_label": "Ps. 48,18",
+    "prev": {
+      "id": "jad_biblical_reference__812",
+      "label": "Lk. 12,20"
+    },
+    "next": {
+      "id": "jad_biblical_reference__814",
+      "label": "Ps. 70,16"
+    }
+  },
+  "814": {
+    "id": 814,
+    "name": "Ps. 70,16",
+    "jad_id": "jad_biblical_reference__814",
+    "nova_vulgata_url": "",
+    "text": "Veniam ad potentias Domini;\nDomine, memorabor iustitiae tuae solius",
+    "description": "",
+    "view_label": "Ps. 70,16",
+    "prev": {
+      "id": "jad_biblical_reference__813",
+      "label": "Ps. 48,18"
+    },
+    "next": {
+      "id": "jad_biblical_reference__815",
+      "label": "Koh. 3,2"
+    }
+  },
+  "815": {
+    "id": 815,
+    "name": "Koh. 3,2",
+    "jad_id": "jad_biblical_reference__815",
+    "nova_vulgata_url": "",
+    "text": "tempus nascendi et tempus moriendi,\ntempus plantandi et tempus evellendi quod plantatum est,",
+    "description": "",
+    "view_label": "Koh. 3,2",
+    "prev": {
+      "id": "jad_biblical_reference__814",
+      "label": "Ps. 70,16"
+    },
+    "next": {
+      "id": "jad_biblical_reference__816",
+      "label": "Koh. 3,3"
+    }
+  },
+  "816": {
+    "id": 816,
+    "name": "Koh. 3,3",
+    "jad_id": "jad_biblical_reference__816",
+    "nova_vulgata_url": "",
+    "text": "tempus occidendi et tempus sanandi,\ntempus destruendi et tempus aedificandi,",
+    "description": "",
+    "view_label": "Koh. 3,3",
+    "prev": {
+      "id": "jad_biblical_reference__815",
+      "label": "Koh. 3,2"
+    },
+    "next": {
+      "id": "jad_biblical_reference__817",
+      "label": "Mt. 10,6"
+    }
+  },
+  "817": {
+    "id": 817,
+    "name": "Mt. 10,6",
+    "jad_id": "jad_biblical_reference__817",
+    "nova_vulgata_url": "",
+    "text": "sed potius ite ad oves, quae perierunt domus Israel.",
+    "description": "",
+    "view_label": "Mt. 10,6",
+    "prev": {
+      "id": "jad_biblical_reference__816",
+      "label": "Koh. 3,3"
+    },
+    "next": {
+      "id": "jad_biblical_reference__818",
+      "label": "Deut. 32,39"
+    }
+  },
+  "818": {
+    "id": 818,
+    "name": "Deut. 32,39",
+    "jad_id": "jad_biblical_reference__818",
+    "nova_vulgata_url": "",
+    "text": "Videte nunc quod ego sim solus,\net non sit Deus praeter me.\nEgo occidam et ego vivere faciam;\npercutiam et ego sanabo;\net non est qui de manu mea possit eruere.",
+    "description": "",
+    "view_label": "Deut. 32,39",
+    "prev": {
+      "id": "jad_biblical_reference__817",
+      "label": "Mt. 10,6"
+    },
+    "next": {
+      "id": "jad_biblical_reference__819",
+      "label": "Ps. 100,8"
+    }
+  },
+  "819": {
+    "id": 819,
+    "name": "Ps. 100,8",
+    "jad_id": "jad_biblical_reference__819",
+    "nova_vulgata_url": "",
+    "text": "In matutino cessare faciam omnes peccatores terrae,\nut disperdam de civitate Domini omnes operantes iniquitatem.",
+    "description": "",
+    "view_label": "Ps. 100,8",
+    "prev": {
+      "id": "jad_biblical_reference__818",
+      "label": "Deut. 32,39"
+    },
+    "next": {
       "id": "jad_biblical_reference__82",
       "label": "1 Macc. 2"
+    }
+  },
+  "820": {
+    "id": 820,
+    "name": "Koh. 12,2",
+    "jad_id": "jad_biblical_reference__820",
+    "nova_vulgata_url": "",
+    "text": "antequam tenebrescat\nsol et lumen et luna et stellae,\net revertantur nubes post pluviam",
+    "description": "",
+    "view_label": "Koh. 12,2",
+    "prev": {
+      "id": "jad_biblical_reference__82",
+      "label": "1 Macc. 2"
+    },
+    "next": {
+      "id": "jad_biblical_reference__821",
+      "label": "Jer. 48,17"
+    }
+  },
+  "821": {
+    "id": 821,
+    "name": "Jer. 48,17",
+    "jad_id": "jad_biblical_reference__821",
+    "nova_vulgata_url": "",
+    "text": "Lugete super eum,\nomnes, qui estis in circuitu eius;\net universi, qui scitis nomen eius,\ndicite: “Quomodo confracta est virga fortis,\nbaculus gloriosus?”.",
+    "description": "",
+    "view_label": "Jer. 48,17",
+    "prev": {
+      "id": "jad_biblical_reference__820",
+      "label": "Koh. 12,2"
+    },
+    "next": {
+      "id": "jad_biblical_reference__822",
+      "label": "Lev. 25,10"
+    }
+  },
+  "822": {
+    "id": 822,
+    "name": "Lev. 25,10",
+    "jad_id": "jad_biblical_reference__822",
+    "nova_vulgata_url": "",
+    "text": "Sanctificabitisque annum quinquagesimum et vocabitis remissionem in terra cunctis habitatoribus eius: ipse est enim iobeleus. Revertemini unusquisque ad possessionem suam, et unusquisque rediet ad familiam pristinam.",
+    "description": "",
+    "view_label": "Lev. 25,10",
+    "prev": {
+      "id": "jad_biblical_reference__821",
+      "label": "Jer. 48,17"
+    },
+    "next": {
+      "id": "jad_biblical_reference__823",
+      "label": "Is. 49,14"
+    }
+  },
+  "823": {
+    "id": 823,
+    "name": "Is. 49,14",
+    "jad_id": "jad_biblical_reference__823",
+    "nova_vulgata_url": "",
+    "text": "Et dixit Sion: “ Dereliquit me Dominus,\net Dominus oblitus est mei ”.",
+    "description": "",
+    "view_label": "Is. 49,14",
+    "prev": {
+      "id": "jad_biblical_reference__822",
+      "label": "Lev. 25,10"
+    },
+    "next": {
+      "id": "jad_biblical_reference__824",
+      "label": "Is. 49,15"
+    }
+  },
+  "824": {
+    "id": 824,
+    "name": "Is. 49,15",
+    "jad_id": "jad_biblical_reference__824",
+    "nova_vulgata_url": "",
+    "text": "Numquid oblivisci potest mulier infantem suum,\nut non misereatur filio uteri sui?\nEt si illa oblita fuerit,\nego tamen non obliviscar tui.",
+    "description": "",
+    "view_label": "Is. 49,15",
+    "prev": {
+      "id": "jad_biblical_reference__823",
+      "label": "Is. 49,14"
+    },
+    "next": {
+      "id": "jad_biblical_reference__825",
+      "label": "Gen. 15,16"
+    }
+  },
+  "825": {
+    "id": 825,
+    "name": "Gen. 15,16",
+    "jad_id": "jad_biblical_reference__825",
+    "nova_vulgata_url": "",
+    "text": "Generatione autem quarta revertentur huc; necdum enim completae sunt iniquitates Amorraeorum usque ad praesens tempus”",
+    "description": "",
+    "view_label": "Gen. 15,16",
+    "prev": {
+      "id": "jad_biblical_reference__824",
+      "label": "Is. 49,15"
+    },
+    "next": {
+      "id": "jad_biblical_reference__826",
+      "label": "Ez. 5,12"
+    }
+  },
+  "826": {
+    "id": 826,
+    "name": "Ez. 5,12",
+    "jad_id": "jad_biblical_reference__826",
+    "nova_vulgata_url": "",
+    "text": "Tertia tui pars peste morietur et fame consumetur in medio tui, et tertia tui pars in gladio cadet in circuitu tuo, tertiam vero partem tuam in omnem ventum dispergam et gladium evaginabo post eos.",
+    "description": "",
+    "view_label": "Ez. 5,12",
+    "prev": {
+      "id": "jad_biblical_reference__825",
+      "label": "Gen. 15,16"
+    },
+    "next": {
+      "id": "jad_biblical_reference__827",
+      "label": "Mk. 7,31"
+    }
+  },
+  "827": {
+    "id": 827,
+    "name": "Mk. 7,31",
+    "jad_id": "jad_biblical_reference__827",
+    "nova_vulgata_url": "",
+    "text": "Et iterum exiens de finibus Tyri venit per Sidonem ad mare Galilaeae inter medios fines Decapoleos",
+    "description": "",
+    "view_label": "Mk. 7,31",
+    "prev": {
+      "id": "jad_biblical_reference__826",
+      "label": "Ez. 5,12"
+    },
+    "next": {
+      "id": "jad_biblical_reference__828",
+      "label": "Gen. 22,12"
+    }
+  },
+  "828": {
+    "id": 828,
+    "name": "Gen. 22,12",
+    "jad_id": "jad_biblical_reference__828",
+    "nova_vulgata_url": "",
+    "text": "Dixitque: “Non extendas manum tuam super puerum neque facias illi quidquam. Nunc cognovi quod times Deum et non pepercisti filio tuo unigenito propter me”.",
+    "description": "",
+    "view_label": "Gen. 22,12",
+    "prev": {
+      "id": "jad_biblical_reference__827",
+      "label": "Mk. 7,31"
+    },
+    "next": {
+      "id": "jad_biblical_reference__829",
+      "label": "Ps. 69,2"
+    }
+  },
+  "829": {
+    "id": 829,
+    "name": "Ps. 69,2",
+    "jad_id": "jad_biblical_reference__829",
+    "nova_vulgata_url": "",
+    "text": "Deus, in adiutorium meum intende;\nDomine, ad adiuvandum me festina.",
+    "description": "",
+    "view_label": "Ps. 69,2",
+    "prev": {
+      "id": "jad_biblical_reference__828",
+      "label": "Gen. 22,12"
+    },
+    "next": {
+      "id": "jad_biblical_reference__83",
+      "label": "1 Macc. 3"
+    }
+  },
+  "830": {
+    "id": 830,
+    "name": "Ex. 33,3",
+    "jad_id": "jad_biblical_reference__830",
+    "nova_vulgata_url": "",
+    "text": "et intres in terram fluentem lacte et melle. Non enim ascendam tecum, quia populus durae cervicis es, ne forte disperdam te in via",
+    "description": "",
+    "view_label": "Ex. 33,3",
+    "prev": {
+      "id": "jad_biblical_reference__83",
+      "label": "1 Macc. 3"
+    },
+    "next": {
+      "id": "jad_biblical_reference__831",
+      "label": "Ex. 32,14"
+    }
+  },
+  "831": {
+    "id": 831,
+    "name": "Ex. 32,14",
+    "jad_id": "jad_biblical_reference__831",
+    "nova_vulgata_url": "",
+    "text": "Placatusque est Dominus, ne faceret malum, quod locutus fuerat adversus populum suum",
+    "description": "",
+    "view_label": "Ex. 32,14",
+    "prev": {
+      "id": "jad_biblical_reference__830",
+      "label": "Ex. 33,3"
+    },
+    "next": {
+      "id": "jad_biblical_reference__832",
+      "label": "Ez. 33,11"
+    }
+  },
+  "832": {
+    "id": 832,
+    "name": "Ez. 33,11",
+    "jad_id": "jad_biblical_reference__832",
+    "nova_vulgata_url": "",
+    "text": "Dic ad eos: Vivo ego, dicit Dominus Deus; nolo mortem impii, sed ut revertatur impius a via sua et vivat. Convertimini, convertimini a viis vestris pessimis; et quare moriemini, domus Israel?",
+    "description": "",
+    "view_label": "Ez. 33,11",
+    "prev": {
+      "id": "jad_biblical_reference__831",
+      "label": "Ex. 32,14"
+    },
+    "next": {
+      "id": "jad_biblical_reference__833",
+      "label": "Is. 2,9"
+    }
+  },
+  "833": {
+    "id": 833,
+    "name": "Is. 2,9",
+    "jad_id": "jad_biblical_reference__833",
+    "nova_vulgata_url": "",
+    "text": "Et incurvavit se homo,\net humiliatus est vir:\nne dimittas eis.",
+    "description": "",
+    "view_label": "Is. 2,9",
+    "prev": {
+      "id": "jad_biblical_reference__832",
+      "label": "Ez. 33,11"
+    },
+    "next": {
+      "id": "jad_biblical_reference__834",
+      "label": "John 13,23"
+    }
+  },
+  "834": {
+    "id": 834,
+    "name": "John 13,23",
+    "jad_id": "jad_biblical_reference__834",
+    "nova_vulgata_url": "",
+    "text": "Erat recumbens unus ex discipulis eius in sinu Iesu, quem diligebat Iesus.",
+    "description": "",
+    "view_label": "John 13,23",
+    "prev": {
+      "id": "jad_biblical_reference__833",
+      "label": "Is. 2,9"
+    },
+    "next": {
+      "id": "jad_biblical_reference__835",
+      "label": "Rev. 1,9"
+    }
+  },
+  "835": {
+    "id": 835,
+    "name": "Rev. 1,9",
+    "jad_id": "jad_biblical_reference__835",
+    "nova_vulgata_url": "",
+    "text": "Ego Ioannes, frater vester et particeps in tribulatione et regno et patientia in Iesu, fui in insula, quae appellatur Patmos, propter verbum Dei et testimonium Iesu.",
+    "description": "",
+    "view_label": "Rev. 1,9",
+    "prev": {
+      "id": "jad_biblical_reference__834",
+      "label": "John 13,23"
+    },
+    "next": {
+      "id": "jad_biblical_reference__836",
+      "label": "Jac. 5,7"
+    }
+  },
+  "836": {
+    "id": 836,
+    "name": "Jac. 5,7",
+    "jad_id": "jad_biblical_reference__836",
+    "nova_vulgata_url": "",
+    "text": "Patientes igitur estote, fratres, usque ad adventum Domini. Ecce agricola exspectat pretiosum fructum terrae, patienter ferens, donec accipiat imbrem temporaneum et serotinum.",
+    "description": "",
+    "view_label": "Jac. 5,7",
+    "prev": {
+      "id": "jad_biblical_reference__835",
+      "label": "Rev. 1,9"
+    },
+    "next": {
+      "id": "jad_biblical_reference__837",
+      "label": "Ps. 68,22"
+    }
+  },
+  "837": {
+    "id": 837,
+    "name": "Ps. 68,22",
+    "jad_id": "jad_biblical_reference__837",
+    "nova_vulgata_url": "",
+    "text": "Et dederunt in escam meam fel\net in siti mea potaverunt me aceto.",
+    "description": "",
+    "view_label": "Ps. 68,22",
+    "prev": {
+      "id": "jad_biblical_reference__836",
+      "label": "Jac. 5,7"
+    },
+    "next": {
+      "id": "jad_biblical_reference__838",
+      "label": "Ps. 120,4"
+    }
+  },
+  "838": {
+    "id": 838,
+    "name": "Ps. 120,4",
+    "jad_id": "jad_biblical_reference__838",
+    "nova_vulgata_url": "",
+    "text": "Ecce non dormitabit neque dormiet,\nqui custodit Israel.",
+    "description": "",
+    "view_label": "Ps. 120,4",
+    "prev": {
+      "id": "jad_biblical_reference__837",
+      "label": "Ps. 68,22"
+    },
+    "next": {
+      "id": "jad_biblical_reference__839",
+      "label": "Lev. 26,19"
+    }
+  },
+  "839": {
+    "id": 839,
+    "name": "Lev. 26,19",
+    "jad_id": "jad_biblical_reference__839",
+    "nova_vulgata_url": "",
+    "text": "et conteram superbiam duritiae vestrae. Daboque caelum vobis desuper sicut ferrum et terram aeneam",
+    "description": "",
+    "view_label": "Lev. 26,19",
+    "prev": {
+      "id": "jad_biblical_reference__838",
+      "label": "Ps. 120,4"
+    },
+    "next": {
+      "id": "jad_biblical_reference__84",
+      "label": "1 Macc. 4"
     }
   }
 }
