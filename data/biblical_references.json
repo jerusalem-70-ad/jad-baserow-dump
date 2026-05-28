@@ -1457,8 +1457,8 @@
       "label": "Ex. 12,40"
     },
     "next": {
-      "id": "jad_biblical_reference__87",
-      "label": "Ez. 7,22"
+      "id": "jad_biblical_reference__867",
+      "label": "Rev. 18,5"
     }
   },
   "87": {
@@ -1470,12 +1470,12 @@
     "description": null,
     "view_label": "Ez. 7,22",
     "prev": {
-      "id": "jad_biblical_reference__86",
-      "label": "1 Thes. 2,16"
+      "id": "jad_biblical_reference__869",
+      "label": "Mt. 23,32"
     },
     "next": {
-      "id": "jad_biblical_reference__89",
-      "label": "Jer. 1,13"
+      "id": "jad_biblical_reference__870",
+      "label": "Mt. 22,8"
     }
   },
   "89": {
@@ -1487,8 +1487,8 @@
     "description": null,
     "view_label": "Jer. 1,13",
     "prev": {
-      "id": "jad_biblical_reference__87",
-      "label": "Ez. 7,22"
+      "id": "jad_biblical_reference__874",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__9",
@@ -11115,6 +11115,142 @@
     "next": {
       "id": "jad_biblical_reference__84",
       "label": "1 Macc. 4"
+    }
+  },
+  "867": {
+    "id": 867,
+    "name": "Rev. 18,5",
+    "jad_id": "jad_biblical_reference__867",
+    "nova_vulgata_url": "",
+    "text": "quoniam pervenerunt peccata eius usque ad caelum, et recordatus est Deus iniquitatum eius",
+    "description": "",
+    "view_label": "Rev. 18,5",
+    "prev": {
+      "id": "jad_biblical_reference__86",
+      "label": "1 Thes. 2,16"
+    },
+    "next": {
+      "id": "jad_biblical_reference__868",
+      "label": "1 Thes. 2,14"
+    }
+  },
+  "868": {
+    "id": 868,
+    "name": "1 Thes. 2,14",
+    "jad_id": "jad_biblical_reference__868",
+    "nova_vulgata_url": "",
+    "text": "Vos enim imitatores facti estis, fratres, ecclesiarum Dei, quae sunt in Iudaea in Christo Iesu; quia eadem passi estis et vos a contribulibus vestris, sicut et ipsi a Iudaeis",
+    "description": "",
+    "view_label": "1 Thes. 2,14",
+    "prev": {
+      "id": "jad_biblical_reference__867",
+      "label": "Rev. 18,5"
+    },
+    "next": {
+      "id": "jad_biblical_reference__869",
+      "label": "Mt. 23,32"
+    }
+  },
+  "869": {
+    "id": 869,
+    "name": "Mt. 23,32",
+    "jad_id": "jad_biblical_reference__869",
+    "nova_vulgata_url": "",
+    "text": "Et vos implete mensuram patrum vestrorum.",
+    "description": "",
+    "view_label": "Mt. 23,32",
+    "prev": {
+      "id": "jad_biblical_reference__868",
+      "label": "1 Thes. 2,14"
+    },
+    "next": {
+      "id": "jad_biblical_reference__87",
+      "label": "Ez. 7,22"
+    }
+  },
+  "870": {
+    "id": 870,
+    "name": "Mt. 22,8",
+    "jad_id": "jad_biblical_reference__870",
+    "nova_vulgata_url": "",
+    "text": "Tunc ait servis suis: “Nuptiae quidem paratae sunt, sed qui invitati erant, non fuerunt digni",
+    "description": "",
+    "view_label": "Mt. 22,8",
+    "prev": {
+      "id": "jad_biblical_reference__87",
+      "label": "Ez. 7,22"
+    },
+    "next": {
+      "id": "jad_biblical_reference__871",
+      "label": "John 1,29"
+    }
+  },
+  "871": {
+    "id": 871,
+    "name": "John 1,29",
+    "jad_id": "jad_biblical_reference__871",
+    "nova_vulgata_url": "",
+    "text": "Altera die videt Iesum venientem ad se et ait: “ Ecce agnus Dei, qui tollit peccatum mundi.",
+    "description": "",
+    "view_label": "John 1,29",
+    "prev": {
+      "id": "jad_biblical_reference__870",
+      "label": "Mt. 22,8"
+    },
+    "next": {
+      "id": "jad_biblical_reference__872",
+      "label": "Is. 25,2"
+    }
+  },
+  "872": {
+    "id": 872,
+    "name": "Is. 25,2",
+    "jad_id": "jad_biblical_reference__872",
+    "nova_vulgata_url": "",
+    "text": "Quia posuisti civitatem in tumulum,\nurbem munitam in ruinam:\narx superborum non amplius est civitas,\nin sempiternum non reaedificabitur",
+    "description": "",
+    "view_label": "Is. 25,2",
+    "prev": {
+      "id": "jad_biblical_reference__871",
+      "label": "John 1,29"
+    },
+    "next": {
+      "id": "jad_biblical_reference__873",
+      "label": ""
+    }
+  },
+  "873": {
+    "id": 873,
+    "name": "",
+    "jad_id": "jad_biblical_reference__873",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__872",
+      "label": "Is. 25,2"
+    },
+    "next": {
+      "id": "jad_biblical_reference__874",
+      "label": ""
+    }
+  },
+  "874": {
+    "id": 874,
+    "name": "",
+    "jad_id": "jad_biblical_reference__874",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__873",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__89",
+      "label": "Jer. 1,13"
     }
   }
 }
