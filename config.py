@@ -72,9 +72,19 @@ MODEL_CONFIG = [
         "table_label": "KEYWORDS",
         "label_lookup_expression": "$.name",
         "final_file": [DATA_FOLDER, "keywords.json"],
-        "orig_file": "keywords.json",
-        "fields": [],
-      
+        "fields": [
+            {
+                "field_name": "part_of_deprecated",
+                "seed_file": [JSON_FOLDER, "keywords.json"],
+                "source_file": [JSON_FOLDER, "keywords.json"],
+            }
+        ],
+        "related_objects": [
+            {
+                "source_file": "passages",
+                "lookup_field": "keywords",
+            },
+        ],
     },
     {
         "table_label": "INSTITUTIONS",
