@@ -79,12 +79,7 @@ MODEL_CONFIG = [
                 "source_file": [JSON_FOLDER, "keywords.json"],
             }
         ],
-        "related_objects": [
-            {
-                "source_file": "passages",
-                "lookup_field": "keywords",
-            },
-        ],
+      
     },
     {
         "table_label": "INSTITUTIONS",
