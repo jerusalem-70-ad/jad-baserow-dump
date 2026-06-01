@@ -72,6 +72,7 @@ MODEL_CONFIG = [
         "table_label": "KEYWORDS",
         "label_lookup_expression": "$.name",
         "final_file": [DATA_FOLDER, "keywords.json"],
+        "orig_file": "keywords.json",
         "fields": [],
       
     },
