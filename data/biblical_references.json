@@ -8,8 +8,8 @@
     "description": null,
     "view_label": "Lk. 19,41",
     "prev": {
-      "id": "jad_biblical_reference__99",
-      "label": "Ps. 34,2"
+      "id": "jad_biblical_reference__999",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__10",
@@ -1624,7 +1624,7 @@
     "view_label": "Cant. 8,6",
     "prev": {
       "id": "jad_biblical_reference__967",
-      "label": ""
+      "label": "Is. 10,5"
     },
     "next": {
       "id": "jad_biblical_reference__98",
@@ -1661,8 +1661,8 @@
       "label": "Ps. 34,3"
     },
     "next": {
-      "id": "jad_biblical_reference__1",
-      "label": "Lk. 19,41"
+      "id": "jad_biblical_reference__997",
+      "label": ""
     }
   },
   "100": {
@@ -1678,8 +1678,8 @@
       "label": "Is. 61,2"
     },
     "next": {
-      "id": "jad_biblical_reference__101",
-      "label": "Mt. 24,2"
+      "id": "jad_biblical_reference__1000",
+      "label": ""
     }
   },
   "101": {
@@ -1691,8 +1691,8 @@
     "description": null,
     "view_label": "Mt. 24,2",
     "prev": {
-      "id": "jad_biblical_reference__100",
-      "label": "Mt. 24,1"
+      "id": "jad_biblical_reference__1002",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__102",
@@ -12355,17 +12355,17 @@
     },
     "next": {
       "id": "jad_biblical_reference__967",
-      "label": ""
+      "label": "Is. 10,5"
     }
   },
   "967": {
     "id": 967,
-    "name": "",
+    "name": "Is. 10,5",
     "jad_id": "jad_biblical_reference__967",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "Vae Assur, virga furoris mei\net baculus in manu mea, indignatio mea!",
     "description": "",
-    "view_label": "",
+    "view_label": "Is. 10,5",
     "prev": {
       "id": "jad_biblical_reference__966",
       "label": "Zach. 7,5"
@@ -12373,6 +12373,108 @@
     "next": {
       "id": "jad_biblical_reference__97",
       "label": "Cant. 8,6"
+    }
+  },
+  "997": {
+    "id": 997,
+    "name": "",
+    "jad_id": "jad_biblical_reference__997",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__99",
+      "label": "Ps. 34,2"
+    },
+    "next": {
+      "id": "jad_biblical_reference__998",
+      "label": ""
+    }
+  },
+  "998": {
+    "id": 998,
+    "name": "",
+    "jad_id": "jad_biblical_reference__998",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__997",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__999",
+      "label": ""
+    }
+  },
+  "999": {
+    "id": 999,
+    "name": "",
+    "jad_id": "jad_biblical_reference__999",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__998",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__1",
+      "label": "Lk. 19,41"
+    }
+  },
+  "1000": {
+    "id": 1000,
+    "name": "",
+    "jad_id": "jad_biblical_reference__1000",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__100",
+      "label": "Mt. 24,1"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1001",
+      "label": ""
+    }
+  },
+  "1001": {
+    "id": 1001,
+    "name": "",
+    "jad_id": "jad_biblical_reference__1001",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__1000",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__1002",
+      "label": ""
+    }
+  },
+  "1002": {
+    "id": 1002,
+    "name": "",
+    "jad_id": "jad_biblical_reference__1002",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__1001",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__101",
+      "label": "Mt. 24,2"
     }
   }
 }
