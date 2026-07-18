@@ -1682,23 +1682,6 @@
       "label": ""
     }
   },
-  "101": {
-    "id": 101,
-    "name": "Mt. 24,2",
-    "jad_id": "jad_biblical_reference__101",
-    "nova_vulgata_url": "https://www.die-bibel.de/bibel/VUL/MAT.24.2",
-    "text": "ipse autem respondens dixit eis: “ Non videtis haec omnia? Amen dico vobis: Non relinquetur hic lapis super lapidem, qui non destruetur ”.",
-    "description": null,
-    "view_label": "Mt. 24,2",
-    "prev": {
-      "id": "jad_biblical_reference__1002",
-      "label": ""
-    },
-    "next": {
-      "id": "jad_biblical_reference__102",
-      "label": "Mt. 21,12"
-    }
-  },
   "102": {
     "id": 102,
     "name": "Mt. 21,12",
@@ -1708,8 +1691,8 @@
     "description": null,
     "view_label": "Mt. 21,12",
     "prev": {
-      "id": "jad_biblical_reference__101",
-      "label": "Mt. 24,2"
+      "id": "jad_biblical_reference__1002",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__103",
@@ -12473,8 +12456,8 @@
       "label": ""
     },
     "next": {
-      "id": "jad_biblical_reference__101",
-      "label": "Mt. 24,2"
+      "id": "jad_biblical_reference__102",
+      "label": "Mt. 21,12"
     }
   }
 }
