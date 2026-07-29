@@ -24619,15 +24619,25 @@
     },
     "next": {
       "id": "jad_ms_occurence__762",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     }
   },
   "762": {
     "id": 762,
     "jad_id": "jad_ms_occurence__762",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 27,
+        "value": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 378,
+        "value": "St Gallen, Cod. Sang. 333"
+      }
+    ],
+    "position_in_ms": "??",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -24639,9 +24649,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-28",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-07-28",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 378,
+          "database_table_3497": 25
+        },
+        "value": "St Gallen, Cod. Sang. 333, f. ??"
+      }
+    ],
+    "view_label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum",
     "prev": {
       "id": "jad_ms_occurence__761",
       "label": "triplex legitur fuisse captivitas Iudeorum, sub nabugodonosor, sub antioquo epiphanie, sub romanis"
@@ -24673,7 +24691,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_ms_occurence__762",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     },
     "next": {
       "id": "jad_ms_occurence__764",

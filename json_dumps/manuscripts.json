@@ -8606,16 +8606,38 @@
   "378": {
     "id": 378,
     "order": "231.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 25,
+        "value": "St Gallen, Cod. Sang. 333"
+      }
+    ],
     "jad_id": "jad_manuscript__378",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 25,
+        "value": "St Gallen",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "idno": "Cod. Sang. 333",
+    "catalog_url": "https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0333",
+    "digi_url": "https://www.e-codices.unifr.ch/en/csg/0333/2",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": []
+    "date_written": [
+      {
+        "id": 18,
+        "value": "around 1000",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "format": "36 x 27, 552 pp.",
+    "library_full": [
+      {
+        "id": 25,
+        "value": "Stiftsbibliothek St Gallen (Benedictines)"
+      }
+    ]
   },
   "379": {
     "id": 379,

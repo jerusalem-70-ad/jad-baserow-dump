@@ -13471,22 +13471,55 @@
     },
     "next": {
       "id": "jad_manuscript__378",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "St Gallen, Cod. Sang. 333"
     }
   },
   "378": {
     "id": 378,
-    "name": [],
+    "name": [
+      {
+        "id": 25,
+        "value": "St Gallen, Cod. Sang. 333"
+      }
+    ],
     "jad_id": "jad_manuscript__378",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 25,
+        "value": "St Gallen",
+        "jad_id": "jad_library__25",
+        "gnd_url": "https://d-nb.info/gnd/2089619-0",
+        "full_name": "Stiftsbibliothek St Gallen (Benedictines)",
+        "place": [
+          {
+            "id": 20,
+            "name": "St Gallen",
+            "geonames_url": "https://www.geonames.org/2658822/sankt-gallen.html",
+            "jad_id": "jad_places__20",
+            "lat": "47.42391",
+            "long": "9.37477"
+          }
+        ]
+      }
+    ],
+    "idno": "Cod. Sang. 333",
+    "catalog_url": "https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0333",
+    "digi_url": "https://www.e-codices.unifr.ch/en/csg/0333/2",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "date_written": [
+      {
+        "id": 18,
+        "value": "around 1000"
+      }
+    ],
+    "format": "36 x 27, 552 pp.",
+    "library_full": [
+      {
+        "id": 25,
+        "value": "Stiftsbibliothek St Gallen (Benedictines)"
+      }
+    ],
+    "view_label": "St Gallen, Cod. Sang. 333",
     "prev": {
       "id": "jad_manuscript__377",
       "label": "BSB, Clm 4453"
@@ -13511,7 +13544,7 @@
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
       "id": "jad_manuscript__378",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "St Gallen, Cod. Sang. 333"
     },
     "next": {
       "id": "jad_manuscript__38",
