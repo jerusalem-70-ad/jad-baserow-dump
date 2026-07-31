@@ -11350,7 +11350,7 @@
         },
         "next": {
           "id": "jad_work__832",
-          "label": " "
+          "label": "Liber Secretorum Fidelium Crucis "
         }
       },
       {
@@ -19992,7 +19992,7 @@
         },
         "next": {
           "id": "jad_work__800",
-          "label": " "
+          "label": "Ystoriola Longobardorum Beneventum degentium "
         }
       },
       {
@@ -20054,7 +20054,7 @@
         "view_label": "De imagine mundi ",
         "prev": {
           "id": "jad_work__800",
-          "label": " "
+          "label": "Ystoriola Longobardorum Beneventum degentium "
         },
         "next": {
           "id": "jad_work__82",
@@ -21424,11 +21424,11 @@
     "view_label": "Ekkehart of Aura",
     "prev": {
       "id": "jad_author__479",
-      "label": ""
+      "label": "Erchempert of Montecassino"
     },
     "next": {
       "id": "jad_author__480",
-      "label": ""
+      "label": "Sanutus Marinus"
     },
     "related__works": [
       {
@@ -21521,7 +21521,7 @@
     "view_label": "Amulo of Lyon",
     "prev": {
       "id": "jad_author__480",
-      "label": ""
+      "label": "Sanutus Marinus"
     },
     "next": {
       "id": "jad_author__5",
@@ -55114,7 +55114,7 @@
     },
     "next": {
       "id": "jad_author__479",
-      "label": ""
+      "label": "Erchempert of Montecassino"
     },
     "related__works": [
       {
@@ -55192,19 +55192,24 @@
   },
   "479": {
     "id": 479,
-    "name": "",
+    "name": "Erchempert of Montecassino",
     "jad_id": "jad_author__479",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100940617",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Erchempert, de Bénévent | Erchempert | Erchempertus, Casinensis | Erchembertus, Casinensis | Erempertus | Erchenbert | Erchambertus, Casinensis | Erchembert, von Montecassino | Erchempertus | Erchembert, von Monte Cassino | Erchemperto | Herembertus, Casinensis | Archempertus | Erchempert, von Montecassino | Erchembertus, of Monte Cassino | Erembertus | Erchempert, von Monte Cassino | Erchenbertus, of Monte Cassino | Rembertus, Casinensis | Herempertus, Casinensis | Herchembert",
     "date_of_birth": "",
     "date_of_death": "",
-    "place": [],
+    "place": [
+      {
+        "id": 46,
+        "value": "Monte Cassino"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "occupation": null,
-    "view_label": "",
+    "occupation": "Benedictine",
+    "view_label": "Erchempert of Montecassino",
     "prev": {
       "id": "jad_author__478",
       "label": "Otto III"
@@ -55213,23 +55218,95 @@
       "id": "jad_author__48",
       "label": "Ekkehart of Aura"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 800,
+        "name": "Ystoriola Longobardorum Beneventum degentium ",
+        "jad_id": "jad_work__800",
+        "author": [
+          {
+            "id": 479,
+            "name": "Erchempert of Montecassino",
+            "jad_id": "jad_author__479",
+            "gnd_url": "https://d-nb.info/gnd/100940617",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Erchempert, de Bénévent | Erchempert | Erchempertus, Casinensis | Erchembertus, Casinensis | Erempertus | Erchenbert | Erchambertus, Casinensis | Erchembert, von Montecassino | Erchempertus | Erchembert, von Monte Cassino | Erchemperto | Herembertus, Casinensis | Archempertus | Erchempert, von Montecassino | Erchembertus, of Monte Cassino | Erembertus | Erchempert, von Monte Cassino | Erchenbertus, of Monte Cassino | Rembertus, Casinensis | Herempertus, Casinensis | Herchembert",
+            "date_of_birth": "",
+            "date_of_death": "",
+            "place": [
+              {
+                "id": 46,
+                "value": "Monte Cassino"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true,
+            "occupation": "Benedictine"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Ystoriola Longobardorum Beneventum degentium",
+        "genre": {
+          "id": 14731,
+          "value": "Chronicle",
+          "color": "red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 16,
+            "value": "9th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Luigi Andrea Berto 2022",
+        "other_editions": "",
+        "view_label": "Ystoriola Longobardorum Beneventum degentium ",
+        "prev": {
+          "id": "jad_work__80",
+          "label": "Gemma animae "
+        },
+        "next": {
+          "id": "jad_work__81",
+          "label": "De imagine mundi "
+        }
+      }
+    ]
   },
   "480": {
     "id": 480,
-    "name": "",
+    "name": "Sanutus Marinus",
     "jad_id": "jad_author__480",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/104160748",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "alt_name": "Marinus, Torsello | Marinus, Sanutus | Marino, Sanudo Torsello | Marin, Sanudo, Senior | Sanudo, Marino, der Ältere, Kartograph und Chronist | Sanudo, Torsello | Sanuto, Marino, Kartograph und Chronist | Marinus, Sanutus, Senior | Marin, Torsello | Sanudo, Marino, Torsello, Kartograph und Chronist | Sanudo, Marino, Kartograph und Chronist | Sanuto, Marin | Sanudo, Marin, der Ältere, Kartograph und Chronist | Sanudo, Marin | Sanuto, Marinus, Torsellus, Kartograph und Chronist | Marino, Sanudo, der Ältere | Marin, Sanudo, l'Ancien | Sanudo, Marino | Torsello | Sanuto, Marin, Kartograph und Chronist | Sanuto, Marino | Sanudo, Marin, l'Ancien | Sanutus, Marinus, Senior | Marin, Sanuto Torsello | Marino, Sanuto | Marinus, Torsellus | Sanutus, Marinus, Kartograph und Chronist | Marinus, Senior | Sanudo, Marin, Kartograph und Chronist | Marin, Sanuto, il Vecchio | Sanudo, Marino, der Ältere",
+    "date_of_birth": "1270",
+    "date_of_death": "1343",
+    "place": [
+      {
+        "id": 273,
+        "value": "Venice"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
     "occupation": null,
-    "view_label": "",
+    "view_label": "Sanutus Marinus",
     "prev": {
       "id": "jad_author__48",
       "label": "Ekkehart of Aura"
@@ -55238,7 +55315,74 @@
       "id": "jad_author__49",
       "label": "Amulo of Lyon"
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 832,
+        "name": "Liber Secretorum Fidelium Crucis ",
+        "jad_id": "jad_work__832",
+        "author": [
+          {
+            "id": 480,
+            "name": "Sanutus Marinus",
+            "jad_id": "jad_author__480",
+            "gnd_url": "https://d-nb.info/gnd/104160748",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Marinus, Torsello | Marinus, Sanutus | Marino, Sanudo Torsello | Marin, Sanudo, Senior | Sanudo, Marino, der Ältere, Kartograph und Chronist | Sanudo, Torsello | Sanuto, Marino, Kartograph und Chronist | Marinus, Sanutus, Senior | Marin, Torsello | Sanudo, Marino, Torsello, Kartograph und Chronist | Sanudo, Marino, Kartograph und Chronist | Sanuto, Marin | Sanudo, Marin, der Ältere, Kartograph und Chronist | Sanudo, Marin | Sanuto, Marinus, Torsellus, Kartograph und Chronist | Marino, Sanudo, der Ältere | Marin, Sanudo, l'Ancien | Sanudo, Marino | Torsello | Sanuto, Marin, Kartograph und Chronist | Sanuto, Marino | Sanudo, Marin, l'Ancien | Sanutus, Marinus, Senior | Marin, Sanuto Torsello | Marino, Sanuto | Marinus, Torsellus | Sanutus, Marinus, Kartograph und Chronist | Marinus, Senior | Sanudo, Marin, Kartograph und Chronist | Marin, Sanuto, il Vecchio | Sanudo, Marino, der Ältere",
+            "date_of_birth": "1270",
+            "date_of_death": "1343",
+            "place": [
+              {
+                "id": 273,
+                "value": "Venice"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true,
+            "occupation": null
+          }
+        ],
+        "manuscripts": [],
+        "title": "Liber Secretorum Fidelium Crucis",
+        "genre": {
+          "id": 14732,
+          "value": "Idiosyncratic work",
+          "color": "dark-red"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 12,
+            "name": "Other edition",
+            "jad_id": "jad_sources_occurrences__12",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 55,
+            "value": "early 14th cen."
+          }
+        ],
+        "link_digital_editions": "https://gdz.sub.uni-goettingen.de/id/PPN597634351?tify=%7B%22pages%22%3A%5B134%5D%2C%22pan%22%3A%7B%22x%22%3A0.525%2C%22y%22%3A0.785%7D%2C%22view%22%3A%22info%22%2C%22zoom%22%3A1.202%7D",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "Hannover 1611",
+        "other_editions": "",
+        "view_label": "Liber Secretorum Fidelium Crucis ",
+        "prev": {
+          "id": "jad_work__83",
+          "label": "Commentary Matthew "
+        },
+        "next": {
+          "id": "jad_work__833",
+          "label": " "
+        }
+      }
+    ]
   },
   "508": {
     "id": 508,

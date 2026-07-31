@@ -29818,43 +29818,87 @@
   "800": {
     "id": 800,
     "order": "648.00000000000000000000",
-    "name": " ",
+    "name": "Ystoriola Longobardorum Beneventum degentium ",
     "jad_id": "jad_work__800",
-    "author": [],
+    "author": [
+      {
+        "id": 479,
+        "value": "Erchempert of Montecassino",
+        "order": "296.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Ystoriola Longobardorum Beneventum degentium",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 16,
+        "value": "9th cen., second half",
+        "order": "16.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "Luigi Andrea Berto 2022",
     "other_editions": ""
   },
   "832": {
     "id": 832,
     "order": "649.00000000000000000000",
-    "name": " ",
+    "name": "Liber Secretorum Fidelium Crucis ",
     "jad_id": "jad_work__832",
-    "author": [],
+    "author": [
+      {
+        "id": 480,
+        "value": "Sanutus Marinus",
+        "order": "297.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Liber Secretorum Fidelium Crucis",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
-    "link_digital_editions": "",
-    "author_certainty": false,
+    "published_edition": [
+      {
+        "id": 12,
+        "value": "Other edition",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 55,
+        "value": "early 14th cen.",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "https://gdz.sub.uni-goettingen.de/id/PPN597634351?tify=%7B%22pages%22%3A%5B134%5D%2C%22pan%22%3A%7B%22x%22%3A0.525%2C%22y%22%3A0.785%7D%2C%22view%22%3A%22info%22%2C%22zoom%22%3A1.202%7D",
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "Hannover 1611",
     "other_editions": ""
   },
   "833": {

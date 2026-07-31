@@ -6682,31 +6682,43 @@
   "479": {
     "id": 479,
     "order": "296.00000000000000000000",
-    "name": "",
+    "name": "Erchempert of Montecassino",
     "jad_id": "jad_author__479",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/100940617",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
+    "alt_name": "Erchempert, de Bénévent | Erchempert | Erchempertus, Casinensis | Erchembertus, Casinensis | Erempertus | Erchenbert | Erchambertus, Casinensis | Erchembert, von Montecassino | Erchempertus | Erchembert, von Monte Cassino | Erchemperto | Herembertus, Casinensis | Archempertus | Erchempert, von Montecassino | Erchembertus, of Monte Cassino | Erembertus | Erchempert, von Monte Cassino | Erchenbertus, of Monte Cassino | Rembertus, Casinensis | Herempertus, Casinensis | Herchembert",
     "date_of_birth": "",
     "date_of_death": "",
-    "place": [],
+    "place": [
+      {
+        "id": 46,
+        "value": "Monte Cassino",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "occupation": null
+    "occupation": "Benedictine"
   },
   "480": {
     "id": 480,
     "order": "297.00000000000000000000",
-    "name": "",
+    "name": "Sanutus Marinus",
     "jad_id": "jad_author__480",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/104160748",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "alt_name": "Marinus, Torsello | Marinus, Sanutus | Marino, Sanudo Torsello | Marin, Sanudo, Senior | Sanudo, Marino, der Ältere, Kartograph und Chronist | Sanudo, Torsello | Sanuto, Marino, Kartograph und Chronist | Marinus, Sanutus, Senior | Marin, Torsello | Sanudo, Marino, Torsello, Kartograph und Chronist | Sanudo, Marino, Kartograph und Chronist | Sanuto, Marin | Sanudo, Marin, der Ältere, Kartograph und Chronist | Sanudo, Marin | Sanuto, Marinus, Torsellus, Kartograph und Chronist | Marino, Sanudo, der Ältere | Marin, Sanudo, l'Ancien | Sanudo, Marino | Torsello | Sanuto, Marin, Kartograph und Chronist | Sanuto, Marino | Sanudo, Marin, l'Ancien | Sanutus, Marinus, Senior | Marin, Sanuto Torsello | Marino, Sanuto | Marinus, Torsellus | Sanutus, Marinus, Kartograph und Chronist | Marinus, Senior | Sanudo, Marin, Kartograph und Chronist | Marin, Sanuto, il Vecchio | Sanudo, Marino, der Ältere",
+    "date_of_birth": "1270",
+    "date_of_death": "1343",
+    "place": [
+      {
+        "id": 273,
+        "value": "Venice",
+        "order": "158.00000000000000000000"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
     "occupation": null

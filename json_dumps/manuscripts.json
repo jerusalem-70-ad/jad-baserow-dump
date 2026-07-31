@@ -8642,16 +8642,38 @@
   "379": {
     "id": 379,
     "order": "232.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin  15958"
+      }
+    ],
     "jad_id": "jad_manuscript__379",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "idno": "Latin  15958",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc76459k",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10032535n",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "format": "",
-    "library_full": []
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ]
   },
   "380": {
     "id": 380,
