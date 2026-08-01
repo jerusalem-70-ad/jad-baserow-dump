@@ -24666,17 +24666,27 @@
     },
     "next": {
       "id": "jad_ms_occurence__763",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "duo ursi fuerunt principes romani Vespasianus et Tytus"
     }
   },
   "763": {
     "id": 763,
     "jad_id": "jad_ms_occurence__763",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1182,
+        "value": "duo ursi fuerunt principes romani Vespasianus et Tytus"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 379,
+        "value": "BNF, Latin  15958"
+      }
+    ],
+    "position_in_ms": "163r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10032535n/f163.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -24686,26 +24696,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-28",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-07-31",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 379,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin  15958, f. 163r"
+      }
+    ],
+    "view_label": "duo ursi fuerunt principes romani Vespasianus et Tytus",
     "prev": {
       "id": "jad_ms_occurence__762",
       "label": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum"
     },
     "next": {
       "id": "jad_ms_occurence__764",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     }
   },
   "764": {
     "id": 764,
     "jad_id": "jad_ms_occurence__764",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
-    "facsimile_position": "",
+    "occurrence": [
+      {
+        "id": 1243,
+        "value": "??"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 380,
+        "value": "BNF, Latin 15941"
+      }
+    ],
+    "position_in_ms": "19r",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b9065937n/f21.item.zoom#",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -24715,12 +24743,20 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-28",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-07-31",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 380,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 15941, f. 19r"
+      }
+    ],
+    "view_label": "??",
     "prev": {
       "id": "jad_ms_occurence__763",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "duo ursi fuerunt principes romani Vespasianus et Tytus"
     },
     "next": {
       "id": "jad_ms_occurence__765",
@@ -24749,7 +24785,7 @@
     "view_label": "NO MATCH FOR $..occurrence[0].value",
     "prev": {
       "id": "jad_ms_occurence__764",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "??"
     },
     "next": {
       "id": "jad_ms_occurence__766",
