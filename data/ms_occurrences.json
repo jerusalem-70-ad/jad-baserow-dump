@@ -3558,12 +3558,12 @@
     ],
     "view_label": "poena que a romanis principibus imminebat",
     "prev": {
-      "id": "jad_ms_occurence__767",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "id": "jad_ms_occurence__769",
+      "label": "cum appropinquaret Ihesus Iherosolimam"
     },
     "next": {
-      "id": "jad_ms_occurence__78",
-      "label": "in uindictam dominicae crucis Romanis uastantibus"
+      "id": "jad_ms_occurence__770",
+      "label": "translatus est Iuda de terra sua"
     }
   },
   "78": {
@@ -3605,8 +3605,8 @@
     ],
     "view_label": "in uindictam dominicae crucis Romanis uastantibus",
     "prev": {
-      "id": "jad_ms_occurence__77",
-      "label": "poena que a romanis principibus imminebat"
+      "id": "jad_ms_occurence__779",
+      "label": "NO MATCH FOR $..occurrence[0].value"
     },
     "next": {
       "id": "jad_ms_occurence__79",
@@ -24760,17 +24760,27 @@
     },
     "next": {
       "id": "jad_ms_occurence__765",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Videns Ihesus civitatem. A Tyto et Vaspasiano pro sceleribus suis non multum post destruendam, flevit super illam"
     }
   },
   "765": {
     "id": 765,
     "jad_id": "jad_ms_occurence__765",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 293,
+        "value": "Videns Ihesus civitatem. A Tyto et Vaspasiano pro sceleribus suis non multum post destruendam, flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 29,
+        "value": "BNF, Latin 3728"
+      }
+    ],
+    "position_in_ms": "172r-v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b53200095q/f351.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -24780,26 +24790,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-28",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 29,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 3728, f. 172r-v"
+      }
+    ],
+    "view_label": "Videns Ihesus civitatem. A Tyto et Vaspasiano pro sceleribus suis non multum post destruendam, flevit super illam",
     "prev": {
       "id": "jad_ms_occurence__764",
       "label": "??"
     },
     "next": {
       "id": "jad_ms_occurence__766",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "cum appropinquasset Ihesus Ierusalem, flevit, videns civitatem flevit"
     }
   },
   "766": {
     "id": 766,
     "jad_id": "jad_ms_occurence__766",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1238,
+        "value": "cum appropinquasset Ihesus Ierusalem, flevit, videns civitatem flevit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 381,
+        "value": "BNF, Latin 15940"
+      }
+    ],
+    "position_in_ms": "93r",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b100363714/f103.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -24809,26 +24837,44 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-28",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 381,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 15940, f. 93r"
+      }
+    ],
+    "view_label": "cum appropinquasset Ihesus Ierusalem, flevit, videns civitatem flevit",
     "prev": {
       "id": "jad_ms_occurence__765",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "Videns Ihesus civitatem. A Tyto et Vaspasiano pro sceleribus suis non multum post destruendam, flevit super illam"
     },
     "next": {
       "id": "jad_ms_occurence__767",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "ecce dies veniunt et circumdabit te inimici tui vallo etc, Luc XIX, de civitate Ierusalem deus illa in lamentatione predixit"
     }
   },
   "767": {
     "id": 767,
     "jad_id": "jad_ms_occurence__767",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 1239,
+        "value": "ecce dies veniunt et circumdabit te inimici tui vallo etc, Luc XIX, de civitate Ierusalem deus illa in lamentatione predixit"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 381,
+        "value": "BNF, Latin 15940"
+      }
+    ],
+    "position_in_ms": "93v",
     "main_ms": false,
-    "facsimile_position": "",
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b100363714/f104.item.zoom",
     "created_by": {
       "id": 85,
       "name": "amarx"
@@ -24838,16 +24884,498 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-04-28",
-    "ms_locus": [],
-    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 381,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 15940, f. 93v"
+      }
+    ],
+    "view_label": "ecce dies veniunt et circumdabit te inimici tui vallo etc, Luc XIX, de civitate Ierusalem deus illa in lamentatione predixit",
     "prev": {
       "id": "jad_ms_occurence__766",
-      "label": "NO MATCH FOR $..occurrence[0].value"
+      "label": "cum appropinquasset Ihesus Ierusalem, flevit, videns civitatem flevit"
+    },
+    "next": {
+      "id": "jad_ms_occurence__768",
+      "label": "videns Ihesus civitatem"
+    }
+  },
+  "768": {
+    "id": 768,
+    "jad_id": "jad_ms_occurence__768",
+    "occurrence": [
+      {
+        "id": 2692,
+        "value": "videns Ihesus civitatem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 381,
+        "value": "BNF, Latin 15940"
+      }
+    ],
+    "position_in_ms": "335r",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b100363714/f346.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 381,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 15940, f. 335r"
+      }
+    ],
+    "view_label": "videns Ihesus civitatem",
+    "prev": {
+      "id": "jad_ms_occurence__767",
+      "label": "ecce dies veniunt et circumdabit te inimici tui vallo etc, Luc XIX, de civitate Ierusalem deus illa in lamentatione predixit"
+    },
+    "next": {
+      "id": "jad_ms_occurence__769",
+      "label": "cum appropinquaret Ihesus Iherosolimam"
+    }
+  },
+  "769": {
+    "id": 769,
+    "jad_id": "jad_ms_occurence__769",
+    "occurrence": [
+      {
+        "id": 2693,
+        "value": "cum appropinquaret Ihesus Iherosolimam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 381,
+        "value": "BNF, Latin 15940"
+      }
+    ],
+    "position_in_ms": "336r",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b100363714/f347.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 381,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 15940, f. 336r"
+      }
+    ],
+    "view_label": "cum appropinquaret Ihesus Iherosolimam",
+    "prev": {
+      "id": "jad_ms_occurence__768",
+      "label": "videns Ihesus civitatem"
     },
     "next": {
       "id": "jad_ms_occurence__77",
       "label": "poena que a romanis principibus imminebat"
+    }
+  },
+  "770": {
+    "id": 770,
+    "jad_id": "jad_ms_occurence__770",
+    "occurrence": [
+      {
+        "id": 2694,
+        "value": "translatus est Iuda de terra sua"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 381,
+        "value": "BNF, Latin 15940"
+      }
+    ],
+    "position_in_ms": "359r-v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b100363714/f369.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 381,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 15940, f. 359r-v"
+      }
+    ],
+    "view_label": "translatus est Iuda de terra sua",
+    "prev": {
+      "id": "jad_ms_occurence__77",
+      "label": "poena que a romanis principibus imminebat"
+    },
+    "next": {
+      "id": "jad_ms_occurence__771",
+      "label": "non delinquent in te lapidem"
+    }
+  },
+  "771": {
+    "id": 771,
+    "jad_id": "jad_ms_occurence__771",
+    "occurrence": [
+      {
+        "id": 2691,
+        "value": "non delinquent in te lapidem"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 29,
+        "value": "BNF, Latin 3728"
+      }
+    ],
+    "position_in_ms": "174r",
+    "main_ms": false,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b53200095q/f355.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 29,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 3728, f. 174r"
+      }
+    ],
+    "view_label": "non delinquent in te lapidem",
+    "prev": {
+      "id": "jad_ms_occurence__770",
+      "label": "translatus est Iuda de terra sua"
+    },
+    "next": {
+      "id": "jad_ms_occurence__772",
+      "label": "videns civitatem flevit super illam"
+    }
+  },
+  "772": {
+    "id": 772,
+    "jad_id": "jad_ms_occurence__772",
+    "occurrence": [
+      {
+        "id": 2696,
+        "value": "videns civitatem flevit super illam"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 281,
+        "value": "Troyes, MS 271"
+      }
+    ],
+    "position_in_ms": "265v",
+    "main_ms": true,
+    "facsimile_position": "https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search&p=a7028339-2d1d-462f-af7b-5f79cff72ad6#recordId=2.763",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 281,
+          "database_table_3497": 9
+        },
+        "value": "Troyes, MS 271, f. 265v"
+      }
+    ],
+    "view_label": "videns civitatem flevit super illam",
+    "prev": {
+      "id": "jad_ms_occurence__771",
+      "label": "non delinquent in te lapidem"
+    },
+    "next": {
+      "id": "jad_ms_occurence__773",
+      "label": "super Ierusalem periturus Iudeis compatiendo"
+    }
+  },
+  "773": {
+    "id": 773,
+    "jad_id": "jad_ms_occurence__773",
+    "occurrence": [
+      {
+        "id": 2688,
+        "value": "super Ierusalem periturus Iudeis compatiendo"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 379,
+        "value": "BNF, Latin  15958"
+      }
+    ],
+    "position_in_ms": "30v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10032535n/f31.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 379,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin  15958, f. 30v"
+      }
+    ],
+    "view_label": "super Ierusalem periturus Iudeis compatiendo",
+    "prev": {
+      "id": "jad_ms_occurence__772",
+      "label": "videns civitatem flevit super illam"
+    },
+    "next": {
+      "id": "jad_ms_occurence__774",
+      "label": "sanguis eius super nos et super filios nostros"
+    }
+  },
+  "774": {
+    "id": 774,
+    "jad_id": "jad_ms_occurence__774",
+    "occurrence": [
+      {
+        "id": 2689,
+        "value": "sanguis eius super nos et super filios nostros"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 379,
+        "value": "BNF, Latin  15958"
+      }
+    ],
+    "position_in_ms": "31v",
+    "main_ms": true,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10032535n/f32.item.zoom",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 379,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin  15958, f. 31v"
+      }
+    ],
+    "view_label": "sanguis eius super nos et super filios nostros",
+    "prev": {
+      "id": "jad_ms_occurence__773",
+      "label": "super Ierusalem periturus Iudeis compatiendo"
+    },
+    "next": {
+      "id": "jad_ms_occurence__775",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "775": {
+    "id": 775,
+    "jad_id": "jad_ms_occurence__775",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_ms_occurence__774",
+      "label": "sanguis eius super nos et super filios nostros"
+    },
+    "next": {
+      "id": "jad_ms_occurence__776",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "776": {
+    "id": 776,
+    "jad_id": "jad_ms_occurence__776",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_ms_occurence__775",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_ms_occurence__777",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "777": {
+    "id": 777,
+    "jad_id": "jad_ms_occurence__777",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_ms_occurence__776",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_ms_occurence__778",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "778": {
+    "id": 778,
+    "jad_id": "jad_ms_occurence__778",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_ms_occurence__777",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_ms_occurence__779",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    }
+  },
+  "779": {
+    "id": 779,
+    "jad_id": "jad_ms_occurence__779",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-01",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-01",
+    "ms_locus": [],
+    "view_label": "NO MATCH FOR $..occurrence[0].value",
+    "prev": {
+      "id": "jad_ms_occurence__778",
+      "label": "NO MATCH FOR $..occurrence[0].value"
+    },
+    "next": {
+      "id": "jad_ms_occurence__78",
+      "label": "in uindictam dominicae crucis Romanis uastantibus"
     }
   }
 }

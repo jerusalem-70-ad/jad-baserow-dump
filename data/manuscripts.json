@@ -13636,22 +13636,55 @@
     },
     "next": {
       "id": "jad_manuscript__381",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, Latin 15940"
     }
   },
   "381": {
     "id": 381,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 15940"
+      }
+    ],
     "jad_id": "jad_manuscript__381",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "Latin 15940",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc764445",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b100363714/f103.item.zoom",
     "institutional_context": [],
-    "date_written": [],
+    "date_written": [
+      {
+        "id": 47,
+        "value": "13th cen., second half"
+      }
+    ],
     "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Latin 15940",
     "prev": {
       "id": "jad_manuscript__380",
       "label": "BNF, Latin 15941"
@@ -13676,7 +13709,7 @@
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
       "id": "jad_manuscript__381",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, Latin 15940"
     },
     "next": {
       "id": "jad_manuscript__383",
