@@ -29953,20 +29953,48 @@
   "834": {
     "id": 834,
     "order": "651.00000000000000000000",
-    "name": " ",
+    "name": "Commentary Isaiah ",
     "jad_id": "jad_work__834",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 211,
+        "value": "Nicolas de Gorran",
+        "order": "196.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Isaiah",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -29974,20 +30002,48 @@
   "835": {
     "id": 835,
     "order": "652.00000000000000000000",
-    "name": " ",
+    "name": "Commentary Psalms ",
     "jad_id": "jad_work__835",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 211,
+        "value": "Nicolas de Gorran",
+        "order": "196.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 388,
+        "value": "BNF, Latin 14253",
+        "order": "241.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Psalms",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -30033,6 +30089,188 @@
     "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "198",
+    "other_editions": ""
+  },
+  "869": {
+    "id": 869,
+    "order": "654.00000000000000000000",
+    "name": "Commentary Matthew ",
+    "jad_id": "jad_work__869",
+    "author": [
+      {
+        "id": 508,
+        "value": "Petrus de Scala",
+        "order": "298.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 389,
+        "value": "BNF, Latin 12022",
+        "order": "242.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Matthew",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "870": {
+    "id": 870,
+    "order": "655.00000000000000000000",
+    "name": "Sermones ",
+    "jad_id": "jad_work__870",
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 390,
+        "value": "BNF, Latin 13581",
+        "order": "243.00000000000000000000"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "871": {
+    "id": 871,
+    "order": "656.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__871",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "872": {
+    "id": 872,
+    "order": "657.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__872",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "873": {
+    "id": 873,
+    "order": "658.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__873",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "874": {
+    "id": 874,
+    "order": "659.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__874",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
     "other_editions": ""
   }
 }

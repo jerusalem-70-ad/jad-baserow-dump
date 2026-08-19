@@ -201,8 +201,8 @@
     ],
     "view_label": "BNF, Latin 8865",
     "prev": {
-      "id": "jad_manuscript__39",
-      "label": "Erlangen, UB, MS 63/1"
+      "id": "jad_manuscript__393",
+      "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
       "id": "jad_manuscript__40",
@@ -2481,12 +2481,12 @@
     ],
     "view_label": "Erlangen, UB, MS 63/1",
     "prev": {
-      "id": "jad_manuscript__383",
-      "label": "NO MATCH FOR $..name[0].value"
+      "id": "jad_manuscript__389",
+      "label": "BNF, Latin 12022"
     },
     "next": {
-      "id": "jad_manuscript__4",
-      "label": "BNF, Latin 8865"
+      "id": "jad_manuscript__390",
+      "label": "BNF, Latin 13581"
     }
   },
   "40": {
@@ -13563,11 +13563,11 @@
     "institutional_context": [],
     "date_written": [
       {
-        "id": 21,
-        "value": "mid 13th cen."
+        "id": 131,
+        "value": "1270s"
       }
     ],
-    "format": "",
+    "format": "20 x 30, 324 ff.",
     "library_full": [
       {
         "id": 2,
@@ -13691,35 +13691,508 @@
     },
     "next": {
       "id": "jad_manuscript__382",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, Latin 3828"
     }
   },
   "382": {
     "id": 382,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 3828"
+      }
+    ],
     "jad_id": "jad_manuscript__382",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "Latin 3828",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61793p",
     "digi_url": "",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": [],
-    "view_label": "NO MATCH FOR $..name[0].value",
+    "date_written": [
+      {
+        "id": 41,
+        "value": "13th cen."
+      }
+    ],
+    "format": "23 x 15, 239 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Latin 3828",
     "prev": {
       "id": "jad_manuscript__381",
       "label": "BNF, Latin 15940"
     },
     "next": {
       "id": "jad_manuscript__383",
-      "label": "NO MATCH FOR $..name[0].value"
+      "label": "BNF, Latin 12306"
     }
   },
   "383": {
     "id": 383,
-    "name": [],
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 12306"
+      }
+    ],
     "jad_id": "jad_manuscript__383",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "Latin 12306",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc73621z",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 68,
+        "value": "11th cen."
+      }
+    ],
+    "format": "36 x 25, 248 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Latin 12306",
+    "prev": {
+      "id": "jad_manuscript__382",
+      "label": "BNF, Latin 3828"
+    },
+    "next": {
+      "id": "jad_manuscript__384",
+      "label": "BNF, Latin 12305"
+    }
+  },
+  "384": {
+    "id": 384,
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 12305"
+      }
+    ],
+    "jad_id": "jad_manuscript__384",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "Latin 12305",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc73620q",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 50,
+        "value": "10th cen."
+      }
+    ],
+    "format": "18 x 25, 247 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Latin 12305",
+    "prev": {
+      "id": "jad_manuscript__383",
+      "label": "BNF, Latin 12306"
+    },
+    "next": {
+      "id": "jad_manuscript__385",
+      "label": "BNF, Latin 16819"
+    }
+  },
+  "385": {
+    "id": 385,
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 16819"
+      }
+    ],
+    "jad_id": "jad_manuscript__385",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "Latin 16819",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc68190w",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 7,
+        "value": "mid 9th cen."
+      }
+    ],
+    "format": "24 x 33, 334 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Latin 16819",
+    "prev": {
+      "id": "jad_manuscript__384",
+      "label": "BNF, Latin 12305"
+    },
+    "next": {
+      "id": "jad_manuscript__386",
+      "label": "BNF, Latin 14431"
+    }
+  },
+  "386": {
+    "id": 386,
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 14431"
+      }
+    ],
+    "jad_id": "jad_manuscript__386",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "Latin 14431",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc75185k",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b100381623",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 22,
+        "value": "late 13th cen."
+      }
+    ],
+    "format": "22 x 32, 226 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Latin 14431",
+    "prev": {
+      "id": "jad_manuscript__385",
+      "label": "BNF, Latin 16819"
+    },
+    "next": {
+      "id": "jad_manuscript__387",
+      "label": "BNF, Latin 15948"
+    }
+  },
+  "387": {
+    "id": 387,
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 15948"
+      }
+    ],
+    "jad_id": "jad_manuscript__387",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "Latin 15948",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc76449c",
+    "digi_url": "https://gallica.bnf.fr/ark:/12148/btv1b10084143w",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 47,
+        "value": "13th cen., second half"
+      }
+    ],
+    "format": "20 x 25, 207 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Latin 15948",
+    "prev": {
+      "id": "jad_manuscript__386",
+      "label": "BNF, Latin 14431"
+    },
+    "next": {
+      "id": "jad_manuscript__388",
+      "label": "BNF, Latin 14253"
+    }
+  },
+  "388": {
+    "id": 388,
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 14253"
+      }
+    ],
+    "jad_id": "jad_manuscript__388",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "Latin 14253",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc75033w",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 22,
+        "value": "late 13th cen."
+      }
+    ],
+    "format": "27 x 37, 491 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Latin 14253",
+    "prev": {
+      "id": "jad_manuscript__387",
+      "label": "BNF, Latin 15948"
+    },
+    "next": {
+      "id": "jad_manuscript__389",
+      "label": "BNF, Latin 12022"
+    }
+  },
+  "389": {
+    "id": 389,
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 12022"
+      }
+    ],
+    "jad_id": "jad_manuscript__389",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "Latin 12022",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc73380f",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 22,
+        "value": "late 13th cen."
+      }
+    ],
+    "format": "24 x 34, 223 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Latin 12022",
+    "prev": {
+      "id": "jad_manuscript__388",
+      "label": "BNF, Latin 14253"
+    },
+    "next": {
+      "id": "jad_manuscript__39",
+      "label": "Erlangen, UB, MS 63/1"
+    }
+  },
+  "390": {
+    "id": 390,
+    "name": [
+      {
+        "id": 2,
+        "value": "BNF, Latin 13581"
+      }
+    ],
+    "jad_id": "jad_manuscript__390",
+    "library": [
+      {
+        "id": 2,
+        "value": "BNF",
+        "jad_id": "jad_library__2",
+        "gnd_url": "https://d-nb.info/gnd/5156217-0",
+        "full_name": "Bibliothèque Nationale de France",
+        "place": [
+          {
+            "id": 1,
+            "name": "Paris",
+            "geonames_url": "https://www.geonames.org/2988507/paris.html",
+            "jad_id": "jad_places__1",
+            "lat": "48.85341",
+            "long": "2.34880"
+          }
+        ]
+      }
+    ],
+    "idno": "Latin 13581",
+    "catalog_url": "https://archivesetmanuscrits.bnf.fr/ark:/12148/cc74516x",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 47,
+        "value": "13th cen., second half"
+      }
+    ],
+    "format": "23 x 16, 78 ff.",
+    "library_full": [
+      {
+        "id": 2,
+        "value": "Bibliothèque Nationale de France"
+      }
+    ],
+    "view_label": "BNF, Latin 13581",
+    "prev": {
+      "id": "jad_manuscript__39",
+      "label": "Erlangen, UB, MS 63/1"
+    },
+    "next": {
+      "id": "jad_manuscript__391",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "391": {
+    "id": 391,
+    "name": [],
+    "jad_id": "jad_manuscript__391",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -13730,12 +14203,56 @@
     "library_full": [],
     "view_label": "NO MATCH FOR $..name[0].value",
     "prev": {
-      "id": "jad_manuscript__382",
+      "id": "jad_manuscript__390",
+      "label": "BNF, Latin 13581"
+    },
+    "next": {
+      "id": "jad_manuscript__392",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "392": {
+    "id": 392,
+    "name": [],
+    "jad_id": "jad_manuscript__392",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__391",
       "label": "NO MATCH FOR $..name[0].value"
     },
     "next": {
-      "id": "jad_manuscript__39",
-      "label": "Erlangen, UB, MS 63/1"
+      "id": "jad_manuscript__393",
+      "label": "NO MATCH FOR $..name[0].value"
+    }
+  },
+  "393": {
+    "id": 393,
+    "name": [],
+    "jad_id": "jad_manuscript__393",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "view_label": "NO MATCH FOR $..name[0].value",
+    "prev": {
+      "id": "jad_manuscript__392",
+      "label": "NO MATCH FOR $..name[0].value"
+    },
+    "next": {
+      "id": "jad_manuscript__4",
+      "label": "BNF, Latin 8865"
     }
   }
 }

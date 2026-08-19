@@ -21536,7 +21536,7 @@
         "order": "232.00000000000000000000"
       }
     ],
-    "position_in_ms": "163r",
+    "position_in_ms": "163r-v",
     "main_ms": false,
     "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10032535n/f163.item.zoom",
     "created_by": {
@@ -21548,14 +21548,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-07-31",
+    "last_modified_on": "2026-08-18",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 379,
           "database_table_3497": 2
         },
-        "value": "BNF, Latin  15958, f. 163r"
+        "value": "BNF, Latin  15958, f. 163r-v"
       }
     ]
   },
@@ -21894,7 +21894,7 @@
     "occurrence": [
       {
         "id": 2696,
-        "value": "videns civitatem flevit super illam",
+        "value": "circumdabunt te inimici tui vallo",
         "order": "2313.00000000000000000000"
       }
     ],
@@ -21946,7 +21946,7 @@
         "order": "232.00000000000000000000"
       }
     ],
-    "position_in_ms": "30v",
+    "position_in_ms": "31r",
     "main_ms": true,
     "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10032535n/f31.item.zoom",
     "created_by": {
@@ -21958,14 +21958,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-08-01",
+    "last_modified_on": "2026-08-18",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 379,
           "database_table_3497": 2
         },
-        "value": "BNF, Latin  15958, f. 30v"
+        "value": "BNF, Latin  15958, f. 31r"
       }
     ]
   },
@@ -21987,7 +21987,7 @@
         "order": "232.00000000000000000000"
       }
     ],
-    "position_in_ms": "31v",
+    "position_in_ms": "32r",
     "main_ms": true,
     "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10032535n/f32.item.zoom",
     "created_by": {
@@ -21999,14 +21999,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-08-01",
+    "last_modified_on": "2026-08-18",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 379,
           "database_table_3497": 2
         },
-        "value": "BNF, Latin  15958, f. 31v"
+        "value": "BNF, Latin  15958, f. 32r"
       }
     ]
   },
@@ -22014,9 +22014,21 @@
     "id": 775,
     "order": "533.00000000000000000000",
     "jad_id": "jad_ms_occurence__775",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 27,
+        "value": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 382,
+        "value": "BNF, Latin 3828",
+        "order": "235.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "187r-190v",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -22028,16 +22040,36 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-08-01",
-    "ms_locus": []
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 382,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 3828, f. 187r-190v"
+      }
+    ]
   },
   "776": {
     "id": 776,
     "order": "534.00000000000000000000",
     "jad_id": "jad_ms_occurence__776",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 28,
+        "value": "duos Romanorum principes cum exercitibus suis: Vespasianum scilicet et Titum",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 382,
+        "value": "BNF, Latin 3828",
+        "order": "235.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "225v",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -22049,16 +22081,36 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-08-01",
-    "ms_locus": []
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 382,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 3828, f. 225v"
+      }
+    ]
   },
   "777": {
     "id": 777,
     "order": "535.00000000000000000000",
     "jad_id": "jad_ms_occurence__777",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
+    "occurrence": [
+      {
+        "id": 27,
+        "value": "suscitavit adversus eos Dominus duos Romanorum principes, Vespasianum scilicet et Titum",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 383,
+        "value": "BNF, Latin 12306",
+        "order": "236.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "204v-208r",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -22070,17 +22122,37 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-08-01",
-    "ms_locus": []
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 383,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12306, f. 204v-208r"
+      }
+    ]
   },
   "778": {
     "id": 778,
     "order": "536.00000000000000000000",
     "jad_id": "jad_ms_occurence__778",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 436,
+        "value": "destructa est a Tito et Vespasiano",
+        "order": "425.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 383,
+        "value": "BNF, Latin 12306",
+        "order": "236.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "27v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -22091,17 +22163,37 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-08-01",
-    "ms_locus": []
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 383,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12306, f. 27v"
+      }
+    ]
   },
   "779": {
     "id": 779,
     "order": "537.00000000000000000000",
     "jad_id": "jad_ms_occurence__779",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2697,
+        "value": "sanguis ejus super nos et super filios nostros",
+        "order": "2314.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 383,
+        "value": "BNF, Latin 12306",
+        "order": "236.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "125r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -22112,7 +22204,1883 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-08-01",
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 383,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12306, f. 125r"
+      }
+    ]
+  },
+  "780": {
+    "id": 780,
+    "order": "538.00000000000000000000",
+    "jad_id": "jad_ms_occurence__780",
+    "occurrence": [
+      {
+        "id": 28,
+        "value": "duos Romanorum principes cum exercitibus suis: Vespasianum scilicet et Titum",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 383,
+        "value": "BNF, Latin 12306",
+        "order": "236.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "236r-239v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 383,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12306, f. 236r-239v"
+      }
+    ]
+  },
+  "781": {
+    "id": 781,
+    "order": "539.00000000000000000000",
+    "jad_id": "jad_ms_occurence__781",
+    "occurrence": [
+      {
+        "id": 436,
+        "value": "destructa est a Tito et Vespasiano",
+        "order": "425.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 384,
+        "value": "BNF, Latin 12305",
+        "order": "237.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "9r-14r",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 384,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12305, f. 9r-14r"
+      }
+    ]
+  },
+  "782": {
+    "id": 782,
+    "order": "540.00000000000000000000",
+    "jad_id": "jad_ms_occurence__782",
+    "occurrence": [
+      {
+        "id": 436,
+        "value": "destructa est a Tito et Vespasiano",
+        "order": "425.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 385,
+        "value": "BNF, Latin 16819",
+        "order": "238.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "36v-41v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 385,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 16819, f. 36v-41v"
+      }
+    ]
+  },
+  "783": {
+    "id": 783,
+    "order": "541.00000000000000000000",
+    "jad_id": "jad_ms_occurence__783",
+    "occurrence": [
+      {
+        "id": 45,
+        "value": "Quod flente Domino illa Jerosolymerum subversio describatur, quae a Vespasiano et Tito Romanis principibus facta est",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 385,
+        "value": "BNF, Latin 16819",
+        "order": "238.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "247r-249v",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 385,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 16819, f. 247r-249v"
+      }
+    ]
+  },
+  "784": {
+    "id": 784,
+    "order": "542.00000000000000000000",
+    "jad_id": "jad_ms_occurence__784",
+    "occurrence": [
+      {
+        "id": 2698,
+        "value": "derelinquetur filia Syon sicut umbraculum etc, scilicet in captivitate facta per romanos",
+        "order": "2315.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "4r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 4r"
+      }
+    ]
+  },
+  "785": {
+    "id": 785,
+    "order": "543.00000000000000000000",
+    "jad_id": "jad_ms_occurence__785",
+    "occurrence": [
+      {
+        "id": 2699,
+        "value": "scilicet captivitatis per babilonios et postea per romanos",
+        "order": "2316.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "6r-v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 6r-v"
+      }
+    ]
+  },
+  "786": {
+    "id": 786,
+    "order": "544.00000000000000000000",
+    "jad_id": "jad_ms_occurence__786",
+    "occurrence": [
+      {
+        "id": 2700,
+        "value": "terra vestra desolabitur, est ad litteram, primo per babilonios, et postea per romanos",
+        "order": "2317.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "7r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 7r"
+      }
+    ]
+  },
+  "787": {
+    "id": 787,
+    "order": "545.00000000000000000000",
+    "jad_id": "jad_ms_occurence__787",
+    "occurrence": [
+      {
+        "id": 2702,
+        "value": "de romanis qui victoriam habentes de Iudeis",
+        "order": "2319.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "13r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 13r"
+      }
+    ]
+  },
+  "788": {
+    "id": 788,
+    "order": "546.00000000000000000000",
+    "jad_id": "jad_ms_occurence__788",
+    "occurrence": [
+      {
+        "id": 2703,
+        "value": "romanis eicientibus Iudeos in Iudea habitaverunt",
+        "order": "2320.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "13v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 13v"
+      }
+    ]
+  },
+  "789": {
+    "id": 789,
+    "order": "547.00000000000000000000",
+    "jad_id": "jad_ms_occurence__789",
+    "occurrence": [
+      {
+        "id": 2704,
+        "value": "a facie babyloniorum vel romanorum",
+        "order": "2321.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "14r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 14r"
+      }
+    ]
+  },
+  "790": {
+    "id": 790,
+    "order": "548.00000000000000000000",
+    "jad_id": "jad_ms_occurence__790",
+    "occurrence": [
+      {
+        "id": 2705,
+        "value": "in ultima enim captivitate facta per romanos",
+        "order": "2322.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "14v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 14v"
+      }
+    ]
+  },
+  "791": {
+    "id": 791,
+    "order": "549.00000000000000000000",
+    "jad_id": "jad_ms_occurence__791",
+    "occurrence": [
+      {
+        "id": 2706,
+        "value": "per exercitum caldeorum vel romanorum",
+        "order": "2323.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "15r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 15r"
+      }
+    ]
+  },
+  "792": {
+    "id": 792,
+    "order": "550.00000000000000000000",
+    "jad_id": "jad_ms_occurence__792",
+    "occurrence": [
+      {
+        "id": 2707,
+        "value": "Christus quod patet quia potenter puniet, scilicet per romanos",
+        "order": "2324.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "16r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 16r"
+      }
+    ]
+  },
+  "793": {
+    "id": 793,
+    "order": "551.00000000000000000000",
+    "jad_id": "jad_ms_occurence__793",
+    "occurrence": [
+      {
+        "id": 2708,
+        "value": "romani Iudeorum loca destruxerunt",
+        "order": "2325.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "17r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 17r"
+      }
+    ]
+  },
+  "794": {
+    "id": 794,
+    "order": "552.00000000000000000000",
+    "jad_id": "jad_ms_occurence__794",
+    "occurrence": [
+      {
+        "id": 2709,
+        "value": "ad puniendum in presenti per caldeos vel romanos",
+        "order": "2326.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "18r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 18r"
+      }
+    ]
+  },
+  "795": {
+    "id": 795,
+    "order": "553.00000000000000000000",
+    "jad_id": "jad_ms_occurence__795",
+    "occurrence": [
+      {
+        "id": 2710,
+        "value": "in die illa, scilicet captivitatis per caldeos vel per romanos",
+        "order": "2327.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "19r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 19r"
+      }
+    ]
+  },
+  "796": {
+    "id": 796,
+    "order": "554.00000000000000000000",
+    "jad_id": "jad_ms_occurence__796",
+    "occurrence": [
+      {
+        "id": 2711,
+        "value": "gladio caldeorum vel romanorum cadent interfecti",
+        "order": "2328.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "20r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 20r"
+      }
+    ]
+  },
+  "797": {
+    "id": 797,
+    "order": "555.00000000000000000000",
+    "jad_id": "jad_ms_occurence__797",
+    "occurrence": [
+      {
+        "id": 2712,
+        "value": "contriti sunt per romanos, peccatores, id est Iudei Christum negantes",
+        "order": "2329.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "151r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 151r"
+      }
+    ]
+  },
+  "798": {
+    "id": 798,
+    "order": "556.00000000000000000000",
+    "jad_id": "jad_ms_occurence__798",
+    "occurrence": [
+      {
+        "id": 2713,
+        "value": "propter quam captivati sunt a romanis",
+        "order": "2330.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "22r-v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 22r-v"
+      }
+    ]
+  },
+  "799": {
+    "id": 799,
+    "order": "557.00000000000000000000",
+    "jad_id": "jad_ms_occurence__799",
+    "occurrence": [
+      {
+        "id": 2714,
+        "value": "per annum ante obsidionem romanorum audite sunt in aere voces angelorum",
+        "order": "2331.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "23r-v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 23r-v"
+      }
+    ]
+  },
+  "800": {
+    "id": 800,
+    "order": "558.00000000000000000000",
+    "jad_id": "jad_ms_occurence__800",
+    "occurrence": [
+      {
+        "id": 2715,
+        "value": "conturbarentur, scilicet impetu babiloniorum et romanorum",
+        "order": "2332.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "26v-27r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 26v-27r"
+      }
+    ]
+  },
+  "801": {
+    "id": 801,
+    "order": "559.00000000000000000000",
+    "jad_id": "jad_ms_occurence__801",
+    "occurrence": [
+      {
+        "id": 2716,
+        "value": "sagitte eius, id est romani exercitus acute",
+        "order": "2333.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "27v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 27v"
+      }
+    ]
+  },
+  "802": {
+    "id": 802,
+    "order": "560.00000000000000000000",
+    "jad_id": "jad_ms_occurence__802",
+    "occurrence": [
+      {
+        "id": 2717,
+        "value": "sic romanus exercitus Iudeos voce et comminatione sua",
+        "order": "2334.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "28r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 28r"
+      }
+    ]
+  },
+  "803": {
+    "id": 803,
+    "order": "561.00000000000000000000",
+    "jad_id": "jad_ms_occurence__803",
+    "occurrence": [
+      {
+        "id": 2718,
+        "value": "sic videbatur Ysaie in signum future subversionis Iherusalem et templi per romanos",
+        "order": "2335.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "30r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 30r"
+      }
+    ]
+  },
+  "804": {
+    "id": 804,
+    "order": "562.00000000000000000000",
+    "jad_id": "jad_ms_occurence__804",
+    "occurrence": [
+      {
+        "id": 2719,
+        "value": "factum est per Tytum et Vaspasianum",
+        "order": "2336.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 386,
+        "value": "BNF, Latin 14431",
+        "order": "239.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "32r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 386,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14431, f. 32r"
+      }
+    ]
+  },
+  "805": {
+    "id": 805,
+    "order": "563.00000000000000000000",
+    "jad_id": "jad_ms_occurence__805",
+    "occurrence": [
+      {
+        "id": 2402,
+        "value": "flevit deus excidium tunc futurum per romanos, flevit deus excidium factum per babilonios, hoc significat excidium cotidianum",
+        "order": "2129.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 387,
+        "value": "BNF, Latin 15948",
+        "order": "240.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "73r",
+    "main_ms": false,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10084143w/f75.item",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 387,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 15948, f. 73r"
+      }
+    ]
+  },
+  "806": {
+    "id": 806,
+    "order": "564.00000000000000000000",
+    "jad_id": "jad_ms_occurence__806",
+    "occurrence": [
+      {
+        "id": 2720,
+        "value": "totius excidii Iherosolimitani causa exstiterit",
+        "order": "2337.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 387,
+        "value": "BNF, Latin 15948",
+        "order": "240.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "153v",
+    "main_ms": false,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10084143w/f151.item",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 387,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 15948, f. 153v"
+      }
+    ]
+  },
+  "807": {
+    "id": 807,
+    "order": "565.00000000000000000000",
+    "jad_id": "jad_ms_occurence__807",
+    "occurrence": [
+      {
+        "id": 2696,
+        "value": "circumdabunt te inimici tui vallo",
+        "order": "2313.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 387,
+        "value": "BNF, Latin 15948",
+        "order": "240.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "71r-73r",
+    "main_ms": false,
+    "facsimile_position": "https://gallica.bnf.fr/ark:/12148/btv1b10084143w/f73.item",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 387,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 15948, f. 71r-73r"
+      }
+    ]
+  },
+  "808": {
+    "id": 808,
+    "order": "566.00000000000000000000",
+    "jad_id": "jad_ms_occurence__808",
+    "occurrence": [
+      {
+        "id": 2721,
+        "value": "sic ille populus capiatur a Tyto et Vespasiano",
+        "order": "2338.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 388,
+        "value": "BNF, Latin 14253",
+        "order": "241.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "110r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 388,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14253, f. 110r"
+      }
+    ]
+  },
+  "809": {
+    "id": 809,
+    "order": "567.00000000000000000000",
+    "jad_id": "jad_ms_occurence__809",
+    "occurrence": [
+      {
+        "id": 2722,
+        "value": "hic sermo imprecatur civitatis et templi destructionem in quo maxime apparuit ira dei",
+        "order": "2339.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 388,
+        "value": "BNF, Latin 14253",
+        "order": "241.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "243v-244r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 388,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14253, f. 243v-244r"
+      }
+    ]
+  },
+  "810": {
+    "id": 810,
+    "order": "568.00000000000000000000",
+    "jad_id": "jad_ms_occurence__810",
+    "occurrence": [
+      {
+        "id": 2723,
+        "value": "tunc Tytus et Vaspasianus exercitu romano intraverunt urbem",
+        "order": "2340.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 388,
+        "value": "BNF, Latin 14253",
+        "order": "241.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "262r-v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 388,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14253, f. 262r-v"
+      }
+    ]
+  },
+  "811": {
+    "id": 811,
+    "order": "569.00000000000000000000",
+    "jad_id": "jad_ms_occurence__811",
+    "occurrence": [
+      {
+        "id": 2724,
+        "value": "si possent referri ad captivitatem babilonicam vel ad illam que facta est per romanos",
+        "order": "2341.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 388,
+        "value": "BNF, Latin 14253",
+        "order": "241.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "285r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 388,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14253, f. 285r"
+      }
+    ]
+  },
+  "812": {
+    "id": 812,
+    "order": "570.00000000000000000000",
+    "jad_id": "jad_ms_occurence__812",
+    "occurrence": [
+      {
+        "id": 2725,
+        "value": "secundo quod a Tyto fuit tandem penitus consumpta",
+        "order": "2342.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 388,
+        "value": "BNF, Latin 14253",
+        "order": "241.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "289v-290r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 388,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 14253, f. 289v-290r"
+      }
+    ]
+  },
+  "813": {
+    "id": 813,
+    "order": "571.00000000000000000000",
+    "jad_id": "jad_ms_occurence__813",
+    "occurrence": [
+      {
+        "id": 2726,
+        "value": "factum est XLII anno post passionem domini a romanis",
+        "order": "2343.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 389,
+        "value": "BNF, Latin 12022",
+        "order": "242.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "173v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 389,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12022, f. 173v"
+      }
+    ]
+  },
+  "814": {
+    "id": 814,
+    "order": "572.00000000000000000000",
+    "jad_id": "jad_ms_occurence__814",
+    "occurrence": [
+      {
+        "id": 2727,
+        "value": "inminente Ierusalem excidio",
+        "order": "2344.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 389,
+        "value": "BNF, Latin 12022",
+        "order": "242.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "174r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 389,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12022, f. 174r"
+      }
+    ]
+  },
+  "815": {
+    "id": 815,
+    "order": "573.00000000000000000000",
+    "jad_id": "jad_ms_occurence__815",
+    "occurrence": [
+      {
+        "id": 2728,
+        "value": "tempore Iudaice seditionis ante ultimam provincie eversionem sicut patet per Iosephum",
+        "order": "2345.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 389,
+        "value": "BNF, Latin 12022",
+        "order": "242.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "174v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 389,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12022, f. 174v"
+      }
+    ]
+  },
+  "816": {
+    "id": 816,
+    "order": "574.00000000000000000000",
+    "jad_id": "jad_ms_occurence__816",
+    "occurrence": [
+      {
+        "id": 2729,
+        "value": "quare deus magis punient hos",
+        "order": "2346.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 389,
+        "value": "BNF, Latin 12022",
+        "order": "242.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "175v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 389,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12022, f. 175v"
+      }
+    ]
+  },
+  "817": {
+    "id": 817,
+    "order": "575.00000000000000000000",
+    "jad_id": "jad_ms_occurence__817",
+    "occurrence": [
+      {
+        "id": 2730,
+        "value": "potest etiam exponi de excidio urbis secundum Ieronimum",
+        "order": "2347.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 389,
+        "value": "BNF, Latin 12022",
+        "order": "242.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "176r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 389,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12022, f. 176r"
+      }
+    ]
+  },
+  "818": {
+    "id": 818,
+    "order": "576.00000000000000000000",
+    "jad_id": "jad_ms_occurence__818",
+    "occurrence": [
+      {
+        "id": 2731,
+        "value": "ad litteram templum et civitas deserta, dei auxilio",
+        "order": "2348.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 389,
+        "value": "BNF, Latin 12022",
+        "order": "242.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "172v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 389,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12022, f. 172v"
+      }
+    ]
+  },
+  "819": {
+    "id": 819,
+    "order": "577.00000000000000000000",
+    "jad_id": "jad_ms_occurence__819",
+    "occurrence": [
+      {
+        "id": 2732,
+        "value": "et missis exercitibus suis, secundum Ieronimum, id est romanis, sub Tyto et Vaspasiano",
+        "order": "2349.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 389,
+        "value": "BNF, Latin 12022",
+        "order": "242.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "159r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 389,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12022, f. 159r"
+      }
+    ]
+  },
+  "820": {
+    "id": 820,
+    "order": "578.00000000000000000000",
+    "jad_id": "jad_ms_occurence__820",
+    "occurrence": [
+      {
+        "id": 2733,
+        "value": "narrat etiam Iosephus virtutes angelicas tunc presides templi clamasse",
+        "order": "2350.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 389,
+        "value": "BNF, Latin 12022",
+        "order": "242.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "217r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 389,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 12022, f. 217r"
+      }
+    ]
+  },
+  "821": {
+    "id": 821,
+    "order": "579.00000000000000000000",
+    "jad_id": "jad_ms_occurence__821",
+    "occurrence": [
+      {
+        "id": 2734,
+        "value": "videns Ihesus civitatem a Tito et Vaspasiano pro sceleribus",
+        "order": "2351.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 390,
+        "value": "BNF, Latin 13581",
+        "order": "243.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "33r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 390,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 13581, f. 33r"
+      }
+    ]
+  },
+  "822": {
+    "id": 822,
+    "order": "580.00000000000000000000",
+    "jad_id": "jad_ms_occurence__822",
+    "occurrence": [
+      {
+        "id": 2735,
+        "value": "Iudas dilexit eum XXX argenteos, et ipsi dant cum pro uno deum",
+        "order": "2352.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 390,
+        "value": "BNF, Latin 13581",
+        "order": "243.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "44v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 390,
+          "database_table_3497": 2
+        },
+        "value": "BNF, Latin 13581, f. 44v"
+      }
+    ]
+  },
+  "823": {
+    "id": 823,
+    "order": "581.00000000000000000000",
+    "jad_id": "jad_ms_occurence__823",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": []
+  },
+  "824": {
+    "id": 824,
+    "order": "582.00000000000000000000",
+    "jad_id": "jad_ms_occurence__824",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": []
+  },
+  "825": {
+    "id": 825,
+    "order": "583.00000000000000000000",
+    "jad_id": "jad_ms_occurence__825",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": []
+  },
+  "826": {
+    "id": 826,
+    "order": "584.00000000000000000000",
+    "jad_id": "jad_ms_occurence__826",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
+    "ms_locus": []
+  },
+  "827": {
+    "id": 827,
+    "order": "585.00000000000000000000",
+    "jad_id": "jad_ms_occurence__827",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-08-18",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-08-18",
     "ms_locus": []
   }
 }

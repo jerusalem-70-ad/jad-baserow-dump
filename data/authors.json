@@ -5957,6 +5957,72 @@
         },
         "next": {
           "id": "jad_work__834",
+          "label": "Commentary Isaiah "
+        }
+      },
+      {
+        "id": 870,
+        "name": "Sermones ",
+        "jad_id": "jad_work__870",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true,
+            "occupation": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 390,
+            "value": "BNF, Latin 13581"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__87",
+          "label": "Commentary Ezekiel "
+        },
+        "next": {
+          "id": "jad_work__871",
           "label": " "
         }
       }
@@ -10227,7 +10293,7 @@
         "view_label": "Sermones (published) ",
         "prev": {
           "id": "jad_work__835",
-          "label": " "
+          "label": "Commentary Psalms "
         },
         "next": {
           "id": "jad_work__84",
@@ -11745,8 +11811,8 @@
           "label": "Commentary Revelation "
         },
         "next": {
-          "id": "jad_work__87",
-          "label": "Commentary Ezekiel "
+          "id": "jad_work__869",
+          "label": "Commentary Matthew "
         }
       },
       {
@@ -11817,12 +11883,12 @@
         "other_editions": null,
         "view_label": "Commentary Ezekiel ",
         "prev": {
-          "id": "jad_work__86",
-          "label": "Commentary Revelation "
+          "id": "jad_work__869",
+          "label": "Commentary Matthew "
         },
         "next": {
-          "id": "jad_work__88",
-          "label": "Commentary Isaiah "
+          "id": "jad_work__870",
+          "label": "Sermones "
         }
       },
       {
@@ -11893,8 +11959,8 @@
         "other_editions": null,
         "view_label": "Commentary Isaiah ",
         "prev": {
-          "id": "jad_work__87",
-          "label": "Commentary Ezekiel "
+          "id": "jad_work__874",
+          "label": " "
         },
         "next": {
           "id": "jad_work__89",
@@ -21688,7 +21754,7 @@
     },
     "next": {
       "id": "jad_author__508",
-      "label": ""
+      "label": "Petrus de Scala"
     },
     "related__works": [
       {
@@ -44276,6 +44342,148 @@
           "id": "jad_work__632",
           "label": "Commentary Matthew "
         }
+      },
+      {
+        "id": 834,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__834",
+        "author": [
+          {
+            "id": 211,
+            "name": "Nicolas de Gorran",
+            "jad_id": "jad_author__211",
+            "gnd_url": "https://d-nb.info/gnd/100954812",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Nicolas, de Gorran | Nicolaus, de Gorgant | Nicolaus, de Gorham | Nicolaus, Gorranus | Gorra, Nicolaus de | Gorranus, Nicolaus | Nicolaus aus Gorran | Nicolas, de Tournai | Nicolaus, Cenomanensis | Nicolaus, de Gorrant | Nicolaus, de Gorram | Nicolaus, Gorraeus | Gorrain, Nicolaus de | Nicolaus, Gorraus | Nicolaus, Tornacensis | Nicolaus, Gorhamus | Nicolaus, Gallus | Nicolaus, Gorrenc | Nicolaus, Sanderus | Nicolaus, de Gorran | Nicolaus, du Mans | Nicolas, de Mans | Nikolaus, von Gorran | Nicolaus, de Gorron | Nicolaus, de Gorena | Nicolaus, de Marinis",
+            "date_of_birth": "1210",
+            "date_of_death": "1295",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": false,
+            "date_death_certainty": true,
+            "occupation": "Paris master"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 386,
+            "value": "BNF, Latin 14431"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Isaiah ",
+        "prev": {
+          "id": "jad_work__833",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__835",
+          "label": "Commentary Psalms "
+        }
+      },
+      {
+        "id": 835,
+        "name": "Commentary Psalms ",
+        "jad_id": "jad_work__835",
+        "author": [
+          {
+            "id": 211,
+            "name": "Nicolas de Gorran",
+            "jad_id": "jad_author__211",
+            "gnd_url": "https://d-nb.info/gnd/100954812",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Nicolas, de Gorran | Nicolaus, de Gorgant | Nicolaus, de Gorham | Nicolaus, Gorranus | Gorra, Nicolaus de | Gorranus, Nicolaus | Nicolaus aus Gorran | Nicolas, de Tournai | Nicolaus, Cenomanensis | Nicolaus, de Gorrant | Nicolaus, de Gorram | Nicolaus, Gorraeus | Gorrain, Nicolaus de | Nicolaus, Gorraus | Nicolaus, Tornacensis | Nicolaus, Gorhamus | Nicolaus, Gallus | Nicolaus, Gorrenc | Nicolaus, Sanderus | Nicolaus, de Gorran | Nicolaus, du Mans | Nicolas, de Mans | Nikolaus, von Gorran | Nicolaus, de Gorron | Nicolaus, de Gorena | Nicolaus, de Marinis",
+            "date_of_birth": "1210",
+            "date_of_death": "1295",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": false,
+            "date_death_certainty": true,
+            "occupation": "Paris master"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 388,
+            "value": "BNF, Latin 14253"
+          }
+        ],
+        "title": "Commentary Psalms",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 47,
+            "value": "13th cen., second half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Psalms ",
+        "prev": {
+          "id": "jad_work__834",
+          "label": "Commentary Isaiah "
+        },
+        "next": {
+          "id": "jad_work__836",
+          "label": "Sermones (published) "
+        }
       }
     ]
   },
@@ -55264,8 +55472,8 @@
     "notes": "",
     "lebensdaten": "",
     "alt_name": "Erchempert, de Bénévent | Erchempert | Erchempertus, Casinensis | Erchembertus, Casinensis | Erempertus | Erchenbert | Erchambertus, Casinensis | Erchembert, von Montecassino | Erchempertus | Erchembert, von Monte Cassino | Erchemperto | Herembertus, Casinensis | Archempertus | Erchempert, von Montecassino | Erchembertus, of Monte Cassino | Erembertus | Erchempert, von Monte Cassino | Erchenbertus, of Monte Cassino | Rembertus, Casinensis | Herempertus, Casinensis | Herchembert",
-    "date_of_birth": "",
-    "date_of_death": "",
+    "date_of_birth": "?",
+    "date_of_death": "900",
     "place": [
       {
         "id": 46,
@@ -55273,7 +55481,7 @@
       }
     ],
     "date_birth_certainty": true,
-    "date_death_certainty": true,
+    "date_death_certainty": false,
     "occupation": "Benedictine",
     "view_label": "Erchempert of Montecassino",
     "prev": {
@@ -55298,8 +55506,8 @@
             "notes": "",
             "lebensdaten": "",
             "alt_name": "Erchempert, de Bénévent | Erchempert | Erchempertus, Casinensis | Erchembertus, Casinensis | Erempertus | Erchenbert | Erchambertus, Casinensis | Erchembert, von Montecassino | Erchempertus | Erchembert, von Monte Cassino | Erchemperto | Herembertus, Casinensis | Archempertus | Erchempert, von Montecassino | Erchembertus, of Monte Cassino | Erembertus | Erchempert, von Monte Cassino | Erchenbertus, of Monte Cassino | Rembertus, Casinensis | Herempertus, Casinensis | Herchembert",
-            "date_of_birth": "",
-            "date_of_death": "",
+            "date_of_birth": "?",
+            "date_of_death": "900",
             "place": [
               {
                 "id": 46,
@@ -55307,7 +55515,7 @@
               }
             ],
             "date_birth_certainty": true,
-            "date_death_certainty": true,
+            "date_death_certainty": false,
             "occupation": "Benedictine"
           }
         ],
@@ -55369,7 +55577,7 @@
         "value": "Venice"
       }
     ],
-    "date_birth_certainty": true,
+    "date_birth_certainty": false,
     "date_death_certainty": true,
     "occupation": null,
     "view_label": "Sanutus Marinus",
@@ -55403,7 +55611,7 @@
                 "value": "Venice"
               }
             ],
-            "date_birth_certainty": true,
+            "date_birth_certainty": false,
             "date_death_certainty": true,
             "occupation": null
           }
@@ -55452,19 +55660,24 @@
   },
   "508": {
     "id": 508,
-    "name": "",
+    "name": "Petrus de Scala",
     "jad_id": "jad_author__508",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102514968",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "alt_name": "Scaliger, Petrus | Petrus, de Bergamo | Scala, Petrus de | Petrus, de Scala de Bergamo | Petrus, Scaliger de Bergamo | Pietro, della Scala | Petrus, de Scala, Bergomensis | Petrus, Veronensis",
+    "date_of_birth": "[12XX]",
+    "date_of_death": "1295",
+    "place": [
+      {
+        "id": 121,
+        "value": "Bergamo"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "occupation": null,
-    "view_label": "",
+    "occupation": "Dominican",
+    "view_label": "Petrus de Scala",
     "prev": {
       "id": "jad_author__50",
       "label": "Atto of Vercelli"
@@ -55473,7 +55686,79 @@
       "id": "jad_author__509",
       "label": ""
     },
-    "related__works": []
+    "related__works": [
+      {
+        "id": 869,
+        "name": "Commentary Matthew ",
+        "jad_id": "jad_work__869",
+        "author": [
+          {
+            "id": 508,
+            "name": "Petrus de Scala",
+            "jad_id": "jad_author__508",
+            "gnd_url": "https://d-nb.info/gnd/102514968",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Scaliger, Petrus | Petrus, de Bergamo | Scala, Petrus de | Petrus, de Scala de Bergamo | Petrus, Scaliger de Bergamo | Pietro, della Scala | Petrus, de Scala, Bergomensis | Petrus, Veronensis",
+            "date_of_birth": "[12XX]",
+            "date_of_death": "1295",
+            "place": [
+              {
+                "id": 121,
+                "value": "Bergamo"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true,
+            "occupation": "Dominican"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 389,
+            "value": "BNF, Latin 12022"
+          }
+        ],
+        "title": "Commentary Matthew",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 22,
+            "value": "late 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Matthew ",
+        "prev": {
+          "id": "jad_work__86",
+          "label": "Commentary Revelation "
+        },
+        "next": {
+          "id": "jad_work__87",
+          "label": "Commentary Ezekiel "
+        }
+      }
+    ]
   },
   "509": {
     "id": 509,
@@ -55492,7 +55777,7 @@
     "view_label": "",
     "prev": {
       "id": "jad_author__508",
-      "label": ""
+      "label": "Petrus de Scala"
     },
     "next": {
       "id": "jad_author__51",

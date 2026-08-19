@@ -6688,8 +6688,8 @@
     "notes": "",
     "lebensdaten": "",
     "alt_name": "Erchempert, de Bénévent | Erchempert | Erchempertus, Casinensis | Erchembertus, Casinensis | Erempertus | Erchenbert | Erchambertus, Casinensis | Erchembert, von Montecassino | Erchempertus | Erchembert, von Monte Cassino | Erchemperto | Herembertus, Casinensis | Archempertus | Erchempert, von Montecassino | Erchembertus, of Monte Cassino | Erembertus | Erchempert, von Monte Cassino | Erchenbertus, of Monte Cassino | Rembertus, Casinensis | Herempertus, Casinensis | Herchembert",
-    "date_of_birth": "",
-    "date_of_death": "",
+    "date_of_birth": "?",
+    "date_of_death": "900",
     "place": [
       {
         "id": 46,
@@ -6698,7 +6698,7 @@
       }
     ],
     "date_birth_certainty": true,
-    "date_death_certainty": true,
+    "date_death_certainty": false,
     "occupation": "Benedictine"
   },
   "480": {
@@ -6719,25 +6719,31 @@
         "order": "158.00000000000000000000"
       }
     ],
-    "date_birth_certainty": true,
+    "date_birth_certainty": false,
     "date_death_certainty": true,
     "occupation": null
   },
   "508": {
     "id": 508,
     "order": "298.00000000000000000000",
-    "name": "",
+    "name": "Petrus de Scala",
     "jad_id": "jad_author__508",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/102514968",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "alt_name": "Scaliger, Petrus | Petrus, de Bergamo | Scala, Petrus de | Petrus, de Scala de Bergamo | Petrus, Scaliger de Bergamo | Pietro, della Scala | Petrus, de Scala, Bergomensis | Petrus, Veronensis",
+    "date_of_birth": "[12XX]",
+    "date_of_death": "1295",
+    "place": [
+      {
+        "id": 121,
+        "value": "Bergamo",
+        "order": "121.00000000000000000000"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "occupation": null
+    "occupation": "Dominican"
   },
   "509": {
     "id": 509,
