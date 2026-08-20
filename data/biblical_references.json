@@ -1760,11 +1760,11 @@
     "view_label": "Rev. 6,13",
     "prev": {
       "id": "jad_biblical_reference__1059",
-      "label": ""
+      "label": "Mt. 28,13"
     },
     "next": {
       "id": "jad_biblical_reference__1060",
-      "label": ""
+      "label": "Amos 7,9"
     }
   },
   "107": {
@@ -1776,12 +1776,12 @@
     "description": null,
     "view_label": "Ps. 19,8",
     "prev": {
-      "id": "jad_biblical_reference__1062",
-      "label": ""
+      "id": "jad_biblical_reference__1069",
+      "label": "John 11,52"
     },
     "next": {
-      "id": "jad_biblical_reference__108",
-      "label": "Ps. 19,9"
+      "id": "jad_biblical_reference__1070",
+      "label": "Is. 11,12"
     }
   },
   "108": {
@@ -1793,12 +1793,12 @@
     "description": null,
     "view_label": "Ps. 19,9",
     "prev": {
-      "id": "jad_biblical_reference__107",
-      "label": "Ps. 19,8"
+      "id": "jad_biblical_reference__1079",
+      "label": "Mt. 23,39"
     },
     "next": {
-      "id": "jad_biblical_reference__109",
-      "label": "Ez. 16,13"
+      "id": "jad_biblical_reference__1080",
+      "label": ""
     }
   },
   "109": {
@@ -1810,8 +1810,8 @@
     "description": null,
     "view_label": "Ez. 16,13",
     "prev": {
-      "id": "jad_biblical_reference__108",
-      "label": "Ps. 19,9"
+      "id": "jad_biblical_reference__1080",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__11",
@@ -9626,7 +9626,7 @@
     "name": "Ps. 136,1",
     "jad_id": "jad_biblical_reference__753",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "Super flumina Babylonis,\nillic sedimus et flevimus,\ncum recordaremur Sion.",
     "description": "",
     "view_label": "Ps. 136,1",
     "prev": {
@@ -12933,37 +12933,37 @@
     },
     "next": {
       "id": "jad_biblical_reference__1058",
-      "label": ""
+      "label": "Hebr. 6,6"
     }
   },
   "1058": {
     "id": 1058,
-    "name": "",
+    "name": "Hebr. 6,6",
     "jad_id": "jad_biblical_reference__1058",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "et prolapsi sunt, rursus renovari ad paenitentiam, rursum crucifigentes sibimetipsis Filium Dei et ostentui habentes",
     "description": "",
-    "view_label": "",
+    "view_label": "Hebr. 6,6",
     "prev": {
       "id": "jad_biblical_reference__1057",
       "label": "Lam. 4,12"
     },
     "next": {
       "id": "jad_biblical_reference__1059",
-      "label": ""
+      "label": "Mt. 28,13"
     }
   },
   "1059": {
     "id": 1059,
-    "name": "",
+    "name": "Mt. 28,13",
     "jad_id": "jad_biblical_reference__1059",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "dicentes: “ Dicite: “Discipuli eius nocte venerunt et furati sunt eum, nobis dormientibus”.",
     "description": "",
-    "view_label": "",
+    "view_label": "Mt. 28,13",
     "prev": {
       "id": "jad_biblical_reference__1058",
-      "label": ""
+      "label": "Hebr. 6,6"
     },
     "next": {
       "id": "jad_biblical_reference__106",
@@ -12972,53 +12972,359 @@
   },
   "1060": {
     "id": 1060,
-    "name": "",
+    "name": "Amos 7,9",
     "jad_id": "jad_biblical_reference__1060",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "Et demolientur excelsa Isaac, et sanctuaria Israel desolabuntur, et consurgam super domum Ieroboam in gladio",
     "description": "",
-    "view_label": "",
+    "view_label": "Amos 7,9",
     "prev": {
       "id": "jad_biblical_reference__106",
       "label": "Rev. 6,13"
     },
     "next": {
       "id": "jad_biblical_reference__1061",
-      "label": ""
+      "label": "Soph. 1,15"
     }
   },
   "1061": {
     "id": 1061,
-    "name": "",
+    "name": "Soph. 1,15",
     "jad_id": "jad_biblical_reference__1061",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "Dies irae dies illa,\ndies tribulationis et angustiae,\ndies vastitatis et desolationis,\ndies tenebrarum et caliginis,\ndies nebulae et turbinis",
     "description": "",
-    "view_label": "",
+    "view_label": "Soph. 1,15",
     "prev": {
       "id": "jad_biblical_reference__1060",
-      "label": ""
+      "label": "Amos 7,9"
     },
     "next": {
       "id": "jad_biblical_reference__1062",
-      "label": ""
+      "label": "Soph. 1,16"
     }
   },
   "1062": {
     "id": 1062,
-    "name": "",
+    "name": "Soph. 1,16",
     "jad_id": "jad_biblical_reference__1062",
+    "nova_vulgata_url": "",
+    "text": "dies tubae et clangoris\nsuper civitates munitas\net super angulos excelsos",
+    "description": "",
+    "view_label": "Soph. 1,16",
+    "prev": {
+      "id": "jad_biblical_reference__1061",
+      "label": "Soph. 1,15"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1063",
+      "label": "Mt. 27,46"
+    }
+  },
+  "1063": {
+    "id": 1063,
+    "name": "Mt. 27,46",
+    "jad_id": "jad_biblical_reference__1063",
+    "nova_vulgata_url": "",
+    "text": "Et circa horam nonam clamavit Iesus voce magna dicens: “ Eli, Eli, lema sabacthani? ”, hoc est: “ Deus meus, Deus meus, ut quid dereliquisti me? ”.",
+    "description": "",
+    "view_label": "Mt. 27,46",
+    "prev": {
+      "id": "jad_biblical_reference__1062",
+      "label": "Soph. 1,16"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1064",
+      "label": "Joel 2,11"
+    }
+  },
+  "1064": {
+    "id": 1064,
+    "name": "Joel 2,11",
+    "jad_id": "jad_biblical_reference__1064",
+    "nova_vulgata_url": "",
+    "text": "Et Dominus dedit vocem suam ante faciem exercitus sui,\nquia multa sunt nimis castra eius,\nquia fortia et facientia verbum eius;\nmagnus enim dies Domini\net terribilis valde, et quis sustinebit eum?",
+    "description": "",
+    "view_label": "Joel 2,11",
+    "prev": {
+      "id": "jad_biblical_reference__1063",
+      "label": "Mt. 27,46"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1065",
+      "label": "Amos 4,13"
+    }
+  },
+  "1065": {
+    "id": 1065,
+    "name": "Amos 4,13",
+    "jad_id": "jad_biblical_reference__1065",
+    "nova_vulgata_url": "",
+    "text": "quia ecce formans montes et creans ventum\net annuntians homini cogitationem eius,\nfaciens auroram et tenebras\net gradiens super excelsa terrae;\nDominus, Deus exercituum, nomen eius.",
+    "description": "",
+    "view_label": "Amos 4,13",
+    "prev": {
+      "id": "jad_biblical_reference__1064",
+      "label": "Joel 2,11"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1066",
+      "label": "Amos 5,1"
+    }
+  },
+  "1066": {
+    "id": 1066,
+    "name": "Amos 5,1",
+    "jad_id": "jad_biblical_reference__1066",
+    "nova_vulgata_url": "",
+    "text": "Audite verbum istud,\nquod ego levo super vos,\nplanctum, domus Israel:",
+    "description": "",
+    "view_label": "Amos 5,1",
+    "prev": {
+      "id": "jad_biblical_reference__1065",
+      "label": "Amos 4,13"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1067",
+      "label": "Amos 5,2"
+    }
+  },
+  "1067": {
+    "id": 1067,
+    "name": "Amos 5,2",
+    "jad_id": "jad_biblical_reference__1067",
+    "nova_vulgata_url": "",
+    "text": "Cecidit, non adiciet ut resurgat\nvirgo Israel;\nproiecta est in terram suam,\nnon est qui suscitet eam.",
+    "description": "",
+    "view_label": "Amos 5,2",
+    "prev": {
+      "id": "jad_biblical_reference__1066",
+      "label": "Amos 5,1"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1068",
+      "label": "John 11,49"
+    }
+  },
+  "1068": {
+    "id": 1068,
+    "name": "John 11,49",
+    "jad_id": "jad_biblical_reference__1068",
+    "nova_vulgata_url": "",
+    "text": "Unus autem ex ipsis, Caiphas, cum esset pontifex anni illius, dixit eis: “ Vos nescitis quidquam",
+    "description": "",
+    "view_label": "John 11,49",
+    "prev": {
+      "id": "jad_biblical_reference__1067",
+      "label": "Amos 5,2"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1069",
+      "label": "John 11,52"
+    }
+  },
+  "1069": {
+    "id": 1069,
+    "name": "John 11,52",
+    "jad_id": "jad_biblical_reference__1069",
+    "nova_vulgata_url": "",
+    "text": "et non tantum pro gente, sed et ut filios Dei, qui erant dispersi, congregaret in unum.",
+    "description": "",
+    "view_label": "John 11,52",
+    "prev": {
+      "id": "jad_biblical_reference__1068",
+      "label": "John 11,49"
+    },
+    "next": {
+      "id": "jad_biblical_reference__107",
+      "label": "Ps. 19,8"
+    }
+  },
+  "1070": {
+    "id": 1070,
+    "name": "Is. 11,12",
+    "jad_id": "jad_biblical_reference__1070",
+    "nova_vulgata_url": "",
+    "text": "et levabit signum in nationes\net congregabit profugos Israel\net dispersos Iudae colliget a quattuor plagis terrae.",
+    "description": "",
+    "view_label": "Is. 11,12",
+    "prev": {
+      "id": "jad_biblical_reference__107",
+      "label": "Ps. 19,8"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1071",
+      "label": "Is. 5,24"
+    }
+  },
+  "1071": {
+    "id": 1071,
+    "name": "Is. 5,24",
+    "jad_id": "jad_biblical_reference__1071",
+    "nova_vulgata_url": "",
+    "text": "Propter hoc, sicut devorat stipulam lingua ignis,\net palea flamma consumitur,\nsic radix eorum quasi tabes erit,\net flos eorum sicut putredo ascendet;\nabiecerunt enim legem Domini exercituum\net eloquium Sancti Israel blasphemaverunt.",
+    "description": "",
+    "view_label": "Is. 5,24",
+    "prev": {
+      "id": "jad_biblical_reference__1070",
+      "label": "Is. 11,12"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1072",
+      "label": "Is. 5,25"
+    }
+  },
+  "1072": {
+    "id": 1072,
+    "name": "Is. 5,25",
+    "jad_id": "jad_biblical_reference__1072",
+    "nova_vulgata_url": "",
+    "text": "Ideo exarsit furor Domini in populum suum,\net extendit manum suam super eum et percussit eum,\net conturbati sunt montes;\net facta sunt morticina eorum quasi stercus in medio platearum.\nIn his omnibus non est aversus furor eius,\nsed adhuc manus eius extenta.",
+    "description": "",
+    "view_label": "Is. 5,25",
+    "prev": {
+      "id": "jad_biblical_reference__1071",
+      "label": "Is. 5,24"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1073",
+      "label": "Is. 5,28"
+    }
+  },
+  "1073": {
+    "id": 1073,
+    "name": "Is. 5,28",
+    "jad_id": "jad_biblical_reference__1073",
+    "nova_vulgata_url": "",
+    "text": "Sagittae eius acutae, et omnes arcus eius extenti;\nungulae equorum eius ut silex reputantur,\net rotae eius quasi impetus tempestatis.",
+    "description": "",
+    "view_label": "Is. 5,28",
+    "prev": {
+      "id": "jad_biblical_reference__1072",
+      "label": "Is. 5,25"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1074",
+      "label": "Is. 1,9"
+    }
+  },
+  "1074": {
+    "id": 1074,
+    "name": "Is. 1,9",
+    "jad_id": "jad_biblical_reference__1074",
+    "nova_vulgata_url": "",
+    "text": "Nisi Dominus exercituum reliquisset nobis semen,\nquasi Sodoma fuissemus\net quasi Gomorra similes essemus.",
+    "description": "",
+    "view_label": "Is. 1,9",
+    "prev": {
+      "id": "jad_biblical_reference__1073",
+      "label": "Is. 5,28"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1075",
+      "label": "Is. 50,11"
+    }
+  },
+  "1075": {
+    "id": 1075,
+    "name": "Is. 50,11",
+    "jad_id": "jad_biblical_reference__1075",
+    "nova_vulgata_url": "",
+    "text": "Ecce vos omnes, qui accenditis ignem,\naccincti sagittis,\nambulate in lumine ignis vestri\net in sagittis, quas succendistis.\nDe manu mea factum est hoc vobis;\nin doloribus recumbetis.",
+    "description": "",
+    "view_label": "Is. 50,11",
+    "prev": {
+      "id": "jad_biblical_reference__1074",
+      "label": "Is. 1,9"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1076",
+      "label": "Mt. 7,22"
+    }
+  },
+  "1076": {
+    "id": 1076,
+    "name": "Mt. 7,22",
+    "jad_id": "jad_biblical_reference__1076",
+    "nova_vulgata_url": "",
+    "text": "Multi dicent mihi in illa die: “Domine, Domine, nonne in tuo nomine prophetavimus, et in tuo nomine daemonia eiecimus, et in tuo nomine virtutes multas fecimus?”.",
+    "description": "",
+    "view_label": "Mt. 7,22",
+    "prev": {
+      "id": "jad_biblical_reference__1075",
+      "label": "Is. 50,11"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1077",
+      "label": "Mt. 22,15"
+    }
+  },
+  "1077": {
+    "id": 1077,
+    "name": "Mt. 22,15",
+    "jad_id": "jad_biblical_reference__1077",
+    "nova_vulgata_url": "",
+    "text": "Tunc abeuntes pharisaei consilium inierunt, ut caperent eum in sermone.",
+    "description": "",
+    "view_label": "Mt. 22,15",
+    "prev": {
+      "id": "jad_biblical_reference__1076",
+      "label": "Mt. 7,22"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1078",
+      "label": "Ps. 134,6"
+    }
+  },
+  "1078": {
+    "id": 1078,
+    "name": "Ps. 134,6",
+    "jad_id": "jad_biblical_reference__1078",
+    "nova_vulgata_url": "",
+    "text": "Omnia, quaecumque voluit,\nDominus fecit in caelo et in terra,\nin mari et in omnibus abyssis.",
+    "description": "",
+    "view_label": "Ps. 134,6",
+    "prev": {
+      "id": "jad_biblical_reference__1077",
+      "label": "Mt. 22,15"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1079",
+      "label": "Mt. 23,39"
+    }
+  },
+  "1079": {
+    "id": 1079,
+    "name": "Mt. 23,39",
+    "jad_id": "jad_biblical_reference__1079",
+    "nova_vulgata_url": "",
+    "text": "Dico enim vobis: Non me videbitis amodo, donec dicatis: \"Benedictus, qui venit in nomine Dominil\"",
+    "description": "",
+    "view_label": "Mt. 23,39",
+    "prev": {
+      "id": "jad_biblical_reference__1078",
+      "label": "Ps. 134,6"
+    },
+    "next": {
+      "id": "jad_biblical_reference__108",
+      "label": "Ps. 19,9"
+    }
+  },
+  "1080": {
+    "id": 1080,
+    "name": "",
+    "jad_id": "jad_biblical_reference__1080",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
     "view_label": "",
     "prev": {
-      "id": "jad_biblical_reference__1061",
-      "label": ""
+      "id": "jad_biblical_reference__108",
+      "label": "Ps. 19,9"
     },
     "next": {
-      "id": "jad_biblical_reference__107",
-      "label": "Ps. 19,8"
+      "id": "jad_biblical_reference__109",
+      "label": "Ez. 16,13"
     }
   }
 }

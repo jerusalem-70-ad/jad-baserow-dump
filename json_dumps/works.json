@@ -1076,6 +1076,11 @@
         "id": 23,
         "value": "Maz., MS 178",
         "order": "23.00000000000000000000"
+      },
+      {
+        "id": 391,
+        "value": "BNF, Latin 17988",
+        "order": "244.00000000000000000000"
       }
     ],
     "title": "Commentary Ezekiel",
@@ -1186,6 +1191,11 @@
         "id": 23,
         "value": "Maz., MS 178",
         "order": "23.00000000000000000000"
+      },
+      {
+        "id": 391,
+        "value": "BNF, Latin 17988",
+        "order": "244.00000000000000000000"
       }
     ],
     "title": "Commentary Daniel",
@@ -29139,7 +29149,7 @@
   "755": {
     "id": 755,
     "order": "634.00000000000000000000",
-    "name": "Commentary Zacharias ",
+    "name": "Commentary Twelve Minor Prophets ",
     "jad_id": "jad_work__755",
     "author": [
       {
@@ -29153,9 +29163,14 @@
         "id": 23,
         "value": "Maz., MS 178",
         "order": "23.00000000000000000000"
+      },
+      {
+        "id": 391,
+        "value": "BNF, Latin 17988",
+        "order": "244.00000000000000000000"
       }
     ],
-    "title": "Commentary Zacharias",
+    "title": "Commentary Twelve Minor Prophets",
     "genre": {
       "id": 14727,
       "value": "Commentary",
@@ -30192,20 +30207,48 @@
   "871": {
     "id": 871,
     "order": "656.00000000000000000000",
-    "name": " ",
+    "name": "Sermones ",
     "jad_id": "jad_work__871",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 509,
+        "value": "William of Auvergne",
+        "order": "299.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 393,
+        "value": "BNF, Latin 15964",
+        "order": "246.00000000000000000000"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -30213,20 +30256,48 @@
   "872": {
     "id": 872,
     "order": "657.00000000000000000000",
-    "name": " ",
+    "name": "Sermones ",
     "jad_id": "jad_work__872",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 3,
+        "value": "anonymous",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 393,
+        "value": "BNF, Latin 15964",
+        "order": "246.00000000000000000000"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 46,
+        "value": "13th cen., first half",
+        "order": "46.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -30234,20 +30305,48 @@
   "873": {
     "id": 873,
     "order": "658.00000000000000000000",
-    "name": " ",
+    "name": "Commentary Isaiah ",
     "jad_id": "jad_work__873",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 541,
+        "value": "William of Altona",
+        "order": "300.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 394,
+        "value": "BNF, Latin 573",
+        "order": "247.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Isaiah",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""
@@ -30255,20 +30354,48 @@
   "874": {
     "id": 874,
     "order": "659.00000000000000000000",
-    "name": " ",
+    "name": "Commentary Lamentationes ",
     "jad_id": "jad_work__874",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 541,
+        "value": "William of Altona",
+        "order": "300.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 394,
+        "value": "BNF, Latin 573",
+        "order": "247.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Lamentationes",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 21,
+        "value": "mid 13th cen.",
+        "order": "21.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""

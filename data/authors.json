@@ -5698,7 +5698,7 @@
         },
         "next": {
           "id": "jad_work__755",
-          "label": "Commentary Zacharias "
+          "label": "Commentary Twelve Minor Prophets "
         }
       },
       {
@@ -6023,7 +6023,73 @@
         },
         "next": {
           "id": "jad_work__871",
-          "label": " "
+          "label": "Sermones "
+        }
+      },
+      {
+        "id": 872,
+        "name": "Sermones ",
+        "jad_id": "jad_work__872",
+        "author": [
+          {
+            "id": 3,
+            "name": "anonymous",
+            "jad_id": "jad_author__3",
+            "gnd_url": "",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": null,
+            "date_of_birth": null,
+            "date_of_death": null,
+            "place": [],
+            "date_birth_certainty": true,
+            "date_death_certainty": true,
+            "occupation": null
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 393,
+            "value": "BNF, Latin 15964"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__871",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__873",
+          "label": "Commentary Isaiah "
         }
       }
     ]
@@ -6283,6 +6349,10 @@
           {
             "id": 23,
             "value": "Maz., MS 178"
+          },
+          {
+            "id": 391,
+            "value": "BNF, Latin 17988"
           }
         ],
         "title": "Commentary Ezekiel",
@@ -6475,6 +6545,10 @@
           {
             "id": 23,
             "value": "Maz., MS 178"
+          },
+          {
+            "id": 391,
+            "value": "BNF, Latin 17988"
           }
         ],
         "title": "Commentary Daniel",
@@ -7050,7 +7124,7 @@
       },
       {
         "id": 755,
-        "name": "Commentary Zacharias ",
+        "name": "Commentary Twelve Minor Prophets ",
         "jad_id": "jad_work__755",
         "author": [
           {
@@ -7078,9 +7152,13 @@
           {
             "id": 23,
             "value": "Maz., MS 178"
+          },
+          {
+            "id": 391,
+            "value": "BNF, Latin 17988"
           }
         ],
-        "title": "Commentary Zacharias",
+        "title": "Commentary Twelve Minor Prophets",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -7109,7 +7187,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "",
         "other_editions": "",
-        "view_label": "Commentary Zacharias ",
+        "view_label": "Commentary Twelve Minor Prophets ",
         "prev": {
           "id": "jad_work__754",
           "label": "Sermones "
@@ -11960,7 +12038,7 @@
         "view_label": "Commentary Isaiah ",
         "prev": {
           "id": "jad_work__874",
-          "label": " "
+          "label": "Commentary Lamentationes "
         },
         "next": {
           "id": "jad_work__89",
@@ -21847,7 +21925,7 @@
     "view_label": "Johannes Chrysostomus",
     "prev": {
       "id": "jad_author__509",
-      "label": ""
+      "label": "William of Auvergne"
     },
     "next": {
       "id": "jad_author__52",
@@ -21905,8 +21983,8 @@
       "label": "uncertain"
     },
     "next": {
-      "id": "jad_author__55",
-      "label": "Julianus of Toledo"
+      "id": "jad_author__541",
+      "label": "William of Altona"
     },
     "related__works": [
       {
@@ -21998,8 +22076,8 @@
     "occupation": "Archbishop of Toledo",
     "view_label": "Julianus of Toledo",
     "prev": {
-      "id": "jad_author__54",
-      "label": "Smaragdus of St Michel"
+      "id": "jad_author__543",
+      "label": ""
     },
     "next": {
       "id": "jad_author__56",
@@ -25679,7 +25757,7 @@
         "view_label": "De civitate Dei ",
         "prev": {
           "id": "jad_work__755",
-          "label": "Commentary Zacharias "
+          "label": "Commentary Twelve Minor Prophets "
         },
         "next": {
           "id": "jad_work__757",
@@ -55666,7 +55744,7 @@
     "notes": "",
     "lebensdaten": "",
     "alt_name": "Scaliger, Petrus | Petrus, de Bergamo | Scala, Petrus de | Petrus, de Scala de Bergamo | Petrus, Scaliger de Bergamo | Pietro, della Scala | Petrus, de Scala, Bergomensis | Petrus, Veronensis",
-    "date_of_birth": "[12XX]",
+    "date_of_birth": "?",
     "date_of_death": "1295",
     "place": [
       {
@@ -55684,7 +55762,7 @@
     },
     "next": {
       "id": "jad_author__509",
-      "label": ""
+      "label": "William of Auvergne"
     },
     "related__works": [
       {
@@ -55700,7 +55778,7 @@
             "notes": "",
             "lebensdaten": "",
             "alt_name": "Scaliger, Petrus | Petrus, de Bergamo | Scala, Petrus de | Petrus, de Scala de Bergamo | Petrus, Scaliger de Bergamo | Pietro, della Scala | Petrus, de Scala, Bergomensis | Petrus, Veronensis",
-            "date_of_birth": "[12XX]",
+            "date_of_birth": "?",
             "date_of_death": "1295",
             "place": [
               {
@@ -55762,8 +55840,283 @@
   },
   "509": {
     "id": 509,
-    "name": "",
+    "name": "William of Auvergne",
     "jad_id": "jad_author__509",
+    "gnd_url": "https://d-nb.info/gnd/118632981",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Pseudo-Guillelmus | Guilelmus, von Aurillac | Guillemus, Alverniensis | Wilhelm, von Paris | William, of Paris | Wilhelmus, Alvernus | Guillermus, Parisiensis | Guilelmus, Alvernus | Guillelmus | Guillelmus, Alvernus | Guilielmus, Alvernus | Auvergne, Guillaume, d' | Guilelmus, de Auvergne | Pseudo-Guilelmus, Arvernus | Wilhelm, Paris, Bischof | Guillaume, d'Auvergne | Guillermus, Episcopus Parisiensis | Guilelmus, of Paris | Wilhelmus, Parisiensis | Guilelmus, Averniae Parisiensis | Wilhelm, Bischof von Paris | Alvernus, Wilhelmus | Guglielmo, d'Alvernia | Guilelmus, Alverniae Parisiensis | Wilhelm, von Auvergne | Guilielmus, Arvernus | Arvernus, Guilelmus | William, Bishop of Paris | Guilelmus, Parisiensis | Guilelmus, d'Auvergne | Guillaume, Arvernus | Guilelmus, Arvenus | Guilermus, Paris, Bischof | Guilielmus, Parisiensis | William, of Auvergne | Guilelmus, Avernus | Guilelmus, de Alvernia | William, of Alvernia",
+    "date_of_birth": "1180",
+    "date_of_death": "1249-03-30",
+    "place": [
+      {
+        "id": 1,
+        "value": "Paris"
+      }
+    ],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "occupation": "Bishop of Paris",
+    "view_label": "William of Auvergne",
+    "prev": {
+      "id": "jad_author__508",
+      "label": "Petrus de Scala"
+    },
+    "next": {
+      "id": "jad_author__51",
+      "label": "Johannes Chrysostomus"
+    },
+    "related__works": [
+      {
+        "id": 871,
+        "name": "Sermones ",
+        "jad_id": "jad_work__871",
+        "author": [
+          {
+            "id": 509,
+            "name": "William of Auvergne",
+            "jad_id": "jad_author__509",
+            "gnd_url": "https://d-nb.info/gnd/118632981",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Pseudo-Guillelmus | Guilelmus, von Aurillac | Guillemus, Alverniensis | Wilhelm, von Paris | William, of Paris | Wilhelmus, Alvernus | Guillermus, Parisiensis | Guilelmus, Alvernus | Guillelmus | Guillelmus, Alvernus | Guilielmus, Alvernus | Auvergne, Guillaume, d' | Guilelmus, de Auvergne | Pseudo-Guilelmus, Arvernus | Wilhelm, Paris, Bischof | Guillaume, d'Auvergne | Guillermus, Episcopus Parisiensis | Guilelmus, of Paris | Wilhelmus, Parisiensis | Guilelmus, Averniae Parisiensis | Wilhelm, Bischof von Paris | Alvernus, Wilhelmus | Guglielmo, d'Alvernia | Guilelmus, Alverniae Parisiensis | Wilhelm, von Auvergne | Guilielmus, Arvernus | Arvernus, Guilelmus | William, Bishop of Paris | Guilelmus, Parisiensis | Guilelmus, d'Auvergne | Guillaume, Arvernus | Guilelmus, Arvenus | Guilermus, Paris, Bischof | Guilielmus, Parisiensis | William, of Auvergne | Guilelmus, Avernus | Guilelmus, de Alvernia | William, of Alvernia",
+            "date_of_birth": "1180",
+            "date_of_death": "1249-03-30",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true,
+            "occupation": "Bishop of Paris"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 393,
+            "value": "BNF, Latin 15964"
+          }
+        ],
+        "title": "Sermones",
+        "genre": {
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 46,
+            "value": "13th cen., first half"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Sermones ",
+        "prev": {
+          "id": "jad_work__870",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__872",
+          "label": "Sermones "
+        }
+      }
+    ]
+  },
+  "541": {
+    "id": 541,
+    "name": "William of Altona",
+    "jad_id": "jad_author__541",
+    "gnd_url": "https://d-nb.info/gnd/102475555",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Guillaume, d'Anton | Guilelmus, de Alton | William, of Alton | Guilelmus, d'Alton | Guillaume, de Winchester | Guilelmus, de Haltona | Altona, Guilelmus de | Guilelmus, Altonus | Guilelmus, de Southampton | Guilelmus, de Antona | Guilelmus, Anglicus | Guilelmus, Antonus | Wilhelm, von Antona | Wilhelm, von Altona | Guillaume, d'Alton | Wilhelm, von Alton | Guilelmus, Alchonus | Guilelmus, de Alcono | Guilelmus, de Halton",
+    "date_of_birth": "",
+    "date_of_death": "1265",
+    "place": [
+      {
+        "id": 1,
+        "value": "Paris"
+      }
+    ],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "occupation": "Dominican",
+    "view_label": "William of Altona",
+    "prev": {
+      "id": "jad_author__54",
+      "label": "Smaragdus of St Michel"
+    },
+    "next": {
+      "id": "jad_author__542",
+      "label": ""
+    },
+    "related__works": [
+      {
+        "id": 873,
+        "name": "Commentary Isaiah ",
+        "jad_id": "jad_work__873",
+        "author": [
+          {
+            "id": 541,
+            "name": "William of Altona",
+            "jad_id": "jad_author__541",
+            "gnd_url": "https://d-nb.info/gnd/102475555",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Guillaume, d'Anton | Guilelmus, de Alton | William, of Alton | Guilelmus, d'Alton | Guillaume, de Winchester | Guilelmus, de Haltona | Altona, Guilelmus de | Guilelmus, Altonus | Guilelmus, de Southampton | Guilelmus, de Antona | Guilelmus, Anglicus | Guilelmus, Antonus | Wilhelm, von Antona | Wilhelm, von Altona | Guillaume, d'Alton | Wilhelm, von Alton | Guilelmus, Alchonus | Guilelmus, de Alcono | Guilelmus, de Halton",
+            "date_of_birth": "",
+            "date_of_death": "1265",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true,
+            "occupation": "Dominican"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 394,
+            "value": "BNF, Latin 573"
+          }
+        ],
+        "title": "Commentary Isaiah",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Isaiah ",
+        "prev": {
+          "id": "jad_work__872",
+          "label": "Sermones "
+        },
+        "next": {
+          "id": "jad_work__874",
+          "label": "Commentary Lamentationes "
+        }
+      },
+      {
+        "id": 874,
+        "name": "Commentary Lamentationes ",
+        "jad_id": "jad_work__874",
+        "author": [
+          {
+            "id": 541,
+            "name": "William of Altona",
+            "jad_id": "jad_author__541",
+            "gnd_url": "https://d-nb.info/gnd/102475555",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Guillaume, d'Anton | Guilelmus, de Alton | William, of Alton | Guilelmus, d'Alton | Guillaume, de Winchester | Guilelmus, de Haltona | Altona, Guilelmus de | Guilelmus, Altonus | Guilelmus, de Southampton | Guilelmus, de Antona | Guilelmus, Anglicus | Guilelmus, Antonus | Wilhelm, von Antona | Wilhelm, von Altona | Guillaume, d'Alton | Wilhelm, von Alton | Guilelmus, Alchonus | Guilelmus, de Alcono | Guilelmus, de Halton",
+            "date_of_birth": "",
+            "date_of_death": "1265",
+            "place": [
+              {
+                "id": 1,
+                "value": "Paris"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true,
+            "occupation": "Dominican"
+          }
+        ],
+        "manuscripts": [
+          {
+            "id": 394,
+            "value": "BNF, Latin 573"
+          }
+        ],
+        "title": "Commentary Lamentationes",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 1,
+            "name": "None",
+            "jad_id": "jad_sources_occurrences__1",
+            "digi_url": ""
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 21,
+            "value": "mid 13th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Lamentationes ",
+        "prev": {
+          "id": "jad_work__873",
+          "label": "Commentary Isaiah "
+        },
+        "next": {
+          "id": "jad_work__88",
+          "label": "Commentary Isaiah "
+        }
+      }
+    ]
+  },
+  "542": {
+    "id": 542,
+    "name": "",
+    "jad_id": "jad_author__542",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
@@ -55773,15 +56126,40 @@
     "place": [],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "occupation": null,
+    "occupation": "",
     "view_label": "",
     "prev": {
-      "id": "jad_author__508",
-      "label": "Petrus de Scala"
+      "id": "jad_author__541",
+      "label": "William of Altona"
     },
     "next": {
-      "id": "jad_author__51",
-      "label": "Johannes Chrysostomus"
+      "id": "jad_author__543",
+      "label": ""
+    },
+    "related__works": []
+  },
+  "543": {
+    "id": 543,
+    "name": "",
+    "jad_id": "jad_author__543",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "occupation": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_author__542",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_author__55",
+      "label": "Julianus of Toledo"
     },
     "related__works": []
   }

@@ -6732,7 +6732,7 @@
     "notes": "",
     "lebensdaten": "",
     "alt_name": "Scaliger, Petrus | Petrus, de Bergamo | Scala, Petrus de | Petrus, de Scala de Bergamo | Petrus, Scaliger de Bergamo | Pietro, della Scala | Petrus, de Scala, Bergomensis | Petrus, Veronensis",
-    "date_of_birth": "[12XX]",
+    "date_of_birth": "?",
     "date_of_death": "1295",
     "place": [
       {
@@ -6748,8 +6748,52 @@
   "509": {
     "id": 509,
     "order": "299.00000000000000000000",
-    "name": "",
+    "name": "William of Auvergne",
     "jad_id": "jad_author__509",
+    "gnd_url": "https://d-nb.info/gnd/118632981",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Pseudo-Guillelmus | Guilelmus, von Aurillac | Guillemus, Alverniensis | Wilhelm, von Paris | William, of Paris | Wilhelmus, Alvernus | Guillermus, Parisiensis | Guilelmus, Alvernus | Guillelmus | Guillelmus, Alvernus | Guilielmus, Alvernus | Auvergne, Guillaume, d' | Guilelmus, de Auvergne | Pseudo-Guilelmus, Arvernus | Wilhelm, Paris, Bischof | Guillaume, d'Auvergne | Guillermus, Episcopus Parisiensis | Guilelmus, of Paris | Wilhelmus, Parisiensis | Guilelmus, Averniae Parisiensis | Wilhelm, Bischof von Paris | Alvernus, Wilhelmus | Guglielmo, d'Alvernia | Guilelmus, Alverniae Parisiensis | Wilhelm, von Auvergne | Guilielmus, Arvernus | Arvernus, Guilelmus | William, Bishop of Paris | Guilelmus, Parisiensis | Guilelmus, d'Auvergne | Guillaume, Arvernus | Guilelmus, Arvenus | Guilermus, Paris, Bischof | Guilielmus, Parisiensis | William, of Auvergne | Guilelmus, Avernus | Guilelmus, de Alvernia | William, of Alvernia",
+    "date_of_birth": "1180",
+    "date_of_death": "1249-03-30",
+    "place": [
+      {
+        "id": 1,
+        "value": "Paris",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "occupation": "Bishop of Paris"
+  },
+  "541": {
+    "id": 541,
+    "order": "300.00000000000000000000",
+    "name": "William of Altona",
+    "jad_id": "jad_author__541",
+    "gnd_url": "https://d-nb.info/gnd/102475555",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "Guillaume, d'Anton | Guilelmus, de Alton | William, of Alton | Guilelmus, d'Alton | Guillaume, de Winchester | Guilelmus, de Haltona | Altona, Guilelmus de | Guilelmus, Altonus | Guilelmus, de Southampton | Guilelmus, de Antona | Guilelmus, Anglicus | Guilelmus, Antonus | Wilhelm, von Antona | Wilhelm, von Altona | Guillaume, d'Alton | Wilhelm, von Alton | Guilelmus, Alchonus | Guilelmus, de Alcono | Guilelmus, de Halton",
+    "date_of_birth": "",
+    "date_of_death": "1265",
+    "place": [
+      {
+        "id": 1,
+        "value": "Paris",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "occupation": "Dominican"
+  },
+  "542": {
+    "id": 542,
+    "order": "301.00000000000000000000",
+    "name": "",
+    "jad_id": "jad_author__542",
     "gnd_url": "",
     "notes": "",
     "lebensdaten": "",
@@ -6759,6 +6803,22 @@
     "place": [],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "occupation": null
+    "occupation": ""
+  },
+  "543": {
+    "id": 543,
+    "order": "302.00000000000000000000",
+    "name": "",
+    "jad_id": "jad_author__543",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "occupation": ""
   }
 }
