@@ -107,8 +107,8 @@
       "label": "Pentecost"
     },
     "next": {
-      "id": "jad_liturgical_reference__8",
-      "label": "XXIII Sunday after Holy Trinity"
+      "id": "jad_liturgical_reference__72",
+      "label": ""
     }
   },
   "8": {
@@ -119,8 +119,8 @@
     "Date": "1099-11-12",
     "view_label": "XXIII Sunday after Holy Trinity",
     "prev": {
-      "id": "jad_liturgical_reference__7",
-      "label": "Feast of Archangel Michael"
+      "id": "jad_liturgical_reference__73",
+      "label": ""
     },
     "next": {
       "id": "jad_liturgical_reference__9",
@@ -636,16 +636,16 @@
     },
     "next": {
       "id": "jad_liturgical_reference__41",
-      "label": ""
+      "label": "In epiphania domini"
     }
   },
   "41": {
     "id": 41,
-    "name": "",
+    "name": "In epiphania domini",
     "jad_id": "jad_liturgical_reference__41",
     "description": "",
-    "Date": null,
-    "view_label": "",
+    "Date": "1099-01-06",
+    "view_label": "In epiphania domini",
     "prev": {
       "id": "jad_liturgical_reference__40",
       "label": "In natale Petri et Pauli"
@@ -664,11 +664,43 @@
     "view_label": "",
     "prev": {
       "id": "jad_liturgical_reference__41",
-      "label": ""
+      "label": "In epiphania domini"
     },
     "next": {
       "id": "jad_liturgical_reference__5",
       "label": "Easter"
+    }
+  },
+  "72": {
+    "id": 72,
+    "name": "",
+    "jad_id": "jad_liturgical_reference__72",
+    "description": "",
+    "Date": null,
+    "view_label": "",
+    "prev": {
+      "id": "jad_liturgical_reference__7",
+      "label": "Feast of Archangel Michael"
+    },
+    "next": {
+      "id": "jad_liturgical_reference__73",
+      "label": ""
+    }
+  },
+  "73": {
+    "id": 73,
+    "name": "",
+    "jad_id": "jad_liturgical_reference__73",
+    "description": "",
+    "Date": null,
+    "view_label": "",
+    "prev": {
+      "id": "jad_liturgical_reference__72",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_liturgical_reference__8",
+      "label": "XXIII Sunday after Holy Trinity"
     }
   }
 }

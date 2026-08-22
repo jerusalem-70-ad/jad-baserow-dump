@@ -1265,7 +1265,7 @@
     "id": 211,
     "order": "94.00000000000000000000",
     "name": "Ten lost tribes",
-    "short_description": "The passage also refers to the ten lost tribes of Israel (of twelve tribes altogether), supposedly lost since the Assyrian conquest in 720 BC, and often accompanied by beliefs as to where they are hidding, or when they might resurface on the world's stage.",
+    "short_description": "The passage also refers to the ten lost tribes of Israel (of twelve tribes altogether), supposedly lost since the Assyrian conquests in the region around 720 BC, and often accompanied by beliefs as to where they are still hidding, or when they might resurface on the world's stage.",
     "jad_id": "jad_keyword__211",
     "part_of_deprecated": [],
     "part_of": {
@@ -1278,7 +1278,7 @@
     "id": 212,
     "order": "95.00000000000000000000",
     "name": "Flagship",
-    "short_description": "This passage represents a flagship in the textual traditions surrounding the Roman conquest, meaning that it significantly developed specific arguments, which were then received by a substantial number of later authors.",
+    "short_description": "This passage represents a flagship in the textual traditions evolving around the Roman conquest, meaning that it significantly developed specific arguments, which were then received by a substantial number of later authors.",
     "jad_id": "jad_keyword__212",
     "part_of_deprecated": [],
     "part_of": {
@@ -1291,7 +1291,7 @@
     "id": 213,
     "order": "96.00000000000000000000",
     "name": "God as warlord",
-    "short_description": "",
+    "short_description": "God or Christ appears as a warlord leading them into battle, an imagery that evokes specifically Rev. 19 where Christ rides into the last of all battles, to slay all unbelievers with the sword coming out of his mouth, but also referring to many Old Testament episodes (often with the expression dominus exercituum). This imagery is especially resonant with, and powerful in the crusading context.",
     "jad_id": "jad_keyword__213",
     "part_of_deprecated": [],
     "part_of": {
@@ -1303,9 +1303,35 @@
   "214": {
     "id": 214,
     "order": "97.00000000000000000000",
-    "name": "Cross signing",
-    "short_description": "",
+    "name": "God's rage",
+    "short_description": "God's rage (ira or furor) appears as an element in narrating the events of the Roman conquest, often connected to other manifestations of his rage, such as in the Old Testament or the Last Judgment.",
     "jad_id": "jad_keyword__214",
+    "part_of_deprecated": [],
+    "part_of": {
+      "id": 23150,
+      "value": "Elements Roman conquest",
+      "color": "darker-yellow"
+    }
+  },
+  "215": {
+    "id": 215,
+    "order": "98.00000000000000000000",
+    "name": "Anticipating signs",
+    "short_description": "The passage speaks about signs that announced the destruction of Jerusalem, an element already prominent in Josephus's account, and evocative for the audience, which is likewise supposed to watch out for signs of things coming.",
+    "jad_id": "jad_keyword__215",
+    "part_of_deprecated": [],
+    "part_of": {
+      "id": 23150,
+      "value": "Elements Roman conquest",
+      "color": "darker-yellow"
+    }
+  },
+  "216": {
+    "id": 216,
+    "order": "99.00000000000000000000",
+    "name": "Cross signing/taking",
+    "short_description": "The passage refers to people being signed with the cross, or calling them ot take the cross, an element that refers to crusading practices.",
+    "jad_id": "jad_keyword__216",
     "part_of_deprecated": [],
     "part_of": {
       "id": 23153,
@@ -1313,21 +1339,21 @@
       "color": "light-purple"
     }
   },
-  "215": {
-    "id": 215,
-    "order": "98.00000000000000000000",
+  "217": {
+    "id": 217,
+    "order": "100.00000000000000000000",
     "name": "",
     "short_description": "",
-    "jad_id": "jad_keyword__215",
+    "jad_id": "jad_keyword__217",
     "part_of_deprecated": [],
     "part_of": null
   },
-  "216": {
-    "id": 216,
-    "order": "99.00000000000000000000",
+  "218": {
+    "id": 218,
+    "order": "101.00000000000000000000",
     "name": "",
     "short_description": "",
-    "jad_id": "jad_keyword__216",
+    "jad_id": "jad_keyword__218",
     "part_of_deprecated": [],
     "part_of": null
   }
