@@ -3102,7 +3102,7 @@
     "occurrence": [
       {
         "id": 480,
-        "value": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
+        "value": "Hystoriam de Tyto et Vespasiano"
       }
     ],
     "manuscript": [
@@ -3111,8 +3111,8 @@
         "value": "Göttweig, MS 149"
       }
     ],
-    "position_in_ms": "",
-    "main_ms": false,
+    "position_in_ms": "0v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -3123,17 +3123,17 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-01-15",
+    "last_modified_on": "2026-08-22",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 41,
           "database_table_3497": 18
         },
-        "value": "Göttweig, MS 149, f. "
+        "value": "Göttweig, MS 149, f. 0v"
       }
     ],
-    "view_label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII",
+    "view_label": "Hystoriam de Tyto et Vespasiano",
     "prev": {
       "id": "jad_ms_occurence__679",
       "label": "per quod intellegimus romanorum exercitum"
@@ -9532,7 +9532,7 @@
     },
     "next": {
       "id": "jad_ms_occurence__205",
-      "label": "donec civitates Iudee a vespasiano titoque pugnantibus penitus subvertuntur"
+      "label": "donec civitates Iudee a Vespasiano Titoque pugnantibus penitus subvertuntur"
     }
   },
   "205": {
@@ -9541,7 +9541,7 @@
     "occurrence": [
       {
         "id": 1261,
-        "value": "donec civitates Iudee a vespasiano titoque pugnantibus penitus subvertuntur"
+        "value": "donec civitates Iudee a Vespasiano Titoque pugnantibus penitus subvertuntur"
       }
     ],
     "manuscript": [
@@ -9572,7 +9572,7 @@
         "value": "Bodl., Bodley 482, f. 49r"
       }
     ],
-    "view_label": "donec civitates Iudee a vespasiano titoque pugnantibus penitus subvertuntur",
+    "view_label": "donec civitates Iudee a Vespasiano Titoque pugnantibus penitus subvertuntur",
     "prev": {
       "id": "jad_ms_occurence__204",
       "label": "hee et his similes divine vindicte post passionem Christi"
@@ -9622,7 +9622,7 @@
     "view_label": "quando a vespasiano et tito et adriano civitas obsessa",
     "prev": {
       "id": "jad_ms_occurence__205",
-      "label": "donec civitates Iudee a vespasiano titoque pugnantibus penitus subvertuntur"
+      "label": "donec civitates Iudee a Vespasiano Titoque pugnantibus penitus subvertuntur"
     },
     "next": {
       "id": "jad_ms_occurence__207",
@@ -20812,7 +20812,7 @@
     },
     "next": {
       "id": "jad_ms_occurence__68",
-      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
+      "label": "Hystoriam de Tyto et Vespasiano"
     }
   },
   "680": {
@@ -20855,7 +20855,7 @@
     "view_label": "venient romani et tollent vobis et locum et gentem",
     "prev": {
       "id": "jad_ms_occurence__68",
-      "label": "Hystoriam de Tyto et Vespasiano quomodo venerunt Ierusalem quere Phyllippi et Iacobi C XLII"
+      "label": "Hystoriam de Tyto et Vespasiano"
     },
     "next": {
       "id": "jad_ms_occurence__681",

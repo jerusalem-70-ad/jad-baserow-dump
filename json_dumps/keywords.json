@@ -317,7 +317,7 @@
     "id": 23,
     "order": "23.00000000000000000000",
     "name": "Temple",
-    "short_description": "The Jewish Temple is mentioned explicitely in the passage (there are many others where the Temple is not present; often it is just \"Jerusalem\").",
+    "short_description": "The Jewish Temple is mentioned explicitely in the passage (there are many others where the Temple is not present; often it is just \"Jerusalem\"). Often this refers to its destruction in 70 CE, but sometimes also more broadly to its previous history.",
     "jad_id": "jad_keyword__23",
     "part_of_deprecated": [],
     "part_of": {
@@ -897,7 +897,7 @@
   "68": {
     "id": 68,
     "order": "68.00000000000000000000",
-    "name": "Leper Titus",
+    "name": "Leper Titus/ Vespasian",
     "short_description": "The text claims that Titus suffered from leprosy - an idea first promulgated by the Vindicta Salvatoris (probably c.800) - and since God healed him from it, he went on to punish the Jews.",
     "jad_id": "jad_keyword__68",
     "part_of_deprecated": [],
@@ -1342,18 +1342,44 @@
   "217": {
     "id": 217,
     "order": "100.00000000000000000000",
-    "name": "",
-    "short_description": "",
+    "name": "Paratext",
+    "short_description": "The Roman conquest appears within a paratext, that is, a title of a work or chapter, a table of contents, or as a gloss in a manuscript.",
     "jad_id": "jad_keyword__217",
     "part_of_deprecated": [],
-    "part_of": null
+    "part_of": {
+      "id": 23153,
+      "value": "Contemporary pertinence",
+      "color": "light-purple"
+    }
   },
   "218": {
     "id": 218,
     "order": "101.00000000000000000000",
+    "name": "Gates to Jerusalem",
+    "short_description": "The gates into Jerusalem appear in the passage as well. This is a meaningful motif designating to an audience how they could reach (the heavenly) Jerusalem, a motif that was increasingly understood in literal terms from the late eleventh century onwards (if not earlier).",
+    "jad_id": "jad_keyword__218",
+    "part_of_deprecated": [],
+    "part_of": {
+      "id": 23153,
+      "value": "Contemporary pertinence",
+      "color": "light-purple"
+    }
+  },
+  "219": {
+    "id": 219,
+    "order": "102.00000000000000000000",
     "name": "",
     "short_description": "",
-    "jad_id": "jad_keyword__218",
+    "jad_id": "jad_keyword__219",
+    "part_of_deprecated": [],
+    "part_of": null
+  },
+  "220": {
+    "id": 220,
+    "order": "103.00000000000000000000",
+    "name": "",
+    "short_description": "",
+    "jad_id": "jad_keyword__220",
     "part_of_deprecated": [],
     "part_of": null
   }
