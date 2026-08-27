@@ -229,8 +229,8 @@
     "description": null,
     "view_label": "Is. 63,4",
     "prev": {
-      "id": "jad_biblical_reference__139",
-      "label": "Deut. 32,24"
+      "id": "jad_biblical_reference__1391",
+      "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__140",
@@ -2320,12 +2320,12 @@
     "description": null,
     "view_label": "Deut. 32,24",
     "prev": {
-      "id": "jad_biblical_reference__1385",
+      "id": "jad_biblical_reference__1389",
       "label": ""
     },
     "next": {
-      "id": "jad_biblical_reference__14",
-      "label": "Is. 63,4"
+      "id": "jad_biblical_reference__1390",
+      "label": ""
     }
   },
   "140": {
@@ -18390,41 +18390,143 @@
     },
     "next": {
       "id": "jad_biblical_reference__1384",
-      "label": ""
+      "label": "Is. 59,17"
     }
   },
   "1384": {
     "id": 1384,
-    "name": "",
+    "name": "Is. 59,17",
     "jad_id": "jad_biblical_reference__1384",
     "nova_vulgata_url": "",
-    "text": "",
+    "text": "Indutus est iustitia ut lorica,\net galea salutis in capite eius;\nindutus est vestimentis ultionis\net operuit se zelo quasi pallio.",
     "description": "",
-    "view_label": "",
+    "view_label": "Is. 59,17",
     "prev": {
       "id": "jad_biblical_reference__1383",
       "label": "Rom. 11,11"
     },
     "next": {
       "id": "jad_biblical_reference__1385",
-      "label": ""
+      "label": "Is. 59,18"
     }
   },
   "1385": {
     "id": 1385,
-    "name": "",
+    "name": "Is. 59,18",
     "jad_id": "jad_biblical_reference__1385",
+    "nova_vulgata_url": "",
+    "text": "Secundum opera sic retribuet:\niram hostibus suis,\nretributionem inimicis suis,\ninsulis vicem reddet.",
+    "description": "",
+    "view_label": "Is. 59,18",
+    "prev": {
+      "id": "jad_biblical_reference__1384",
+      "label": "Is. 59,17"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1386",
+      "label": "Prov. 1,7"
+    }
+  },
+  "1386": {
+    "id": 1386,
+    "name": "Prov. 1,7",
+    "jad_id": "jad_biblical_reference__1386",
+    "nova_vulgata_url": "",
+    "text": "Timor Domini principium scientiae.\nSapientiam atque doctrinam stulti despiciunt.",
+    "description": "",
+    "view_label": "Prov. 1,7",
+    "prev": {
+      "id": "jad_biblical_reference__1385",
+      "label": "Is. 59,18"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1387",
+      "label": ""
+    }
+  },
+  "1387": {
+    "id": 1387,
+    "name": "",
+    "jad_id": "jad_biblical_reference__1387",
     "nova_vulgata_url": "",
     "text": "",
     "description": "",
     "view_label": "",
     "prev": {
-      "id": "jad_biblical_reference__1384",
+      "id": "jad_biblical_reference__1386",
+      "label": "Prov. 1,7"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1388",
+      "label": ""
+    }
+  },
+  "1388": {
+    "id": 1388,
+    "name": "",
+    "jad_id": "jad_biblical_reference__1388",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__1387",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__1389",
+      "label": ""
+    }
+  },
+  "1389": {
+    "id": 1389,
+    "name": "",
+    "jad_id": "jad_biblical_reference__1389",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__1388",
       "label": ""
     },
     "next": {
       "id": "jad_biblical_reference__139",
       "label": "Deut. 32,24"
+    }
+  },
+  "1390": {
+    "id": 1390,
+    "name": "",
+    "jad_id": "jad_biblical_reference__1390",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__139",
+      "label": "Deut. 32,24"
+    },
+    "next": {
+      "id": "jad_biblical_reference__1391",
+      "label": ""
+    }
+  },
+  "1391": {
+    "id": 1391,
+    "name": "",
+    "jad_id": "jad_biblical_reference__1391",
+    "nova_vulgata_url": "",
+    "text": "",
+    "description": "",
+    "view_label": "",
+    "prev": {
+      "id": "jad_biblical_reference__1390",
+      "label": ""
+    },
+    "next": {
+      "id": "jad_biblical_reference__14",
+      "label": "Is. 63,4"
     }
   }
 }
