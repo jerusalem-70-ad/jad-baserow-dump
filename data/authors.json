@@ -1576,7 +1576,7 @@
             "digi_url": ""
           }
         ],
-        "date_certainty": true,
+        "date_certainty": false,
         "date": [
           {
             "id": 50,
@@ -1586,7 +1586,7 @@
         "link_digital_editions": "",
         "author_certainty": true,
         "incipit": "",
-        "volume_edition_or_individual_editor": "Dobschütz",
+        "volume_edition_or_individual_editor": "Dobschütz, in: Journ. of Theological Stud. 16, 1914/15, 1-27.",
         "other_editions": null,
         "view_label": "Somnium Neronis ",
         "prev": {
@@ -9759,77 +9759,6 @@
         "next": {
           "id": "jad_work__193",
           "label": "Sermones de diversis "
-        }
-      },
-      {
-        "id": 232,
-        "name": "Postilla in Lucam ",
-        "jad_id": "jad_work__232",
-        "author": [
-          {
-            "id": 8,
-            "name": "Hugh of St Cher",
-            "jad_id": "jad_author__8",
-            "gnd_url": "https://d-nb.info/gnd/118707957",
-            "notes": "",
-            "lebensdaten": null,
-            "alt_name": "Hugo, de Vienna | Hugo, de Sancto Charo | Hugh, of St. Cher | Hugo, von Sankt Cher | Pseudo-Hugo, de Sancto Caro | Hugo, de Sancto Theoderico | Hugo, de Saint-Cher | Ugo, de Sancto Caro | Hugo, Carensis | Sancto Caro, Hugo de | Hugo, de Saint Theoderio | Hugo, de Saint Theuderico | Hugo, de Celidorio | Hugh, of Saint-Cher | Hugo, de Sancto Theuderico | Hugo, Cardinalis | Hugues, de Saint-Cher | Hugo, Viennensis | Hugues, de St. Cher | Hugo, de Sancto Caro | Hugo, a Sancto Caro | Hugo, aus Saint-Cher",
-            "date_of_birth": "1200",
-            "date_of_death": "1263",
-            "place": [
-              {
-                "id": 1,
-                "value": "Paris"
-              }
-            ],
-            "date_birth_certainty": false,
-            "date_death_certainty": true,
-            "occupation": null
-          }
-        ],
-        "manuscripts": [
-          {
-            "id": 89,
-            "value": "BNF, Latin 2529"
-          }
-        ],
-        "title": "Postilla in Lucam",
-        "genre": {
-          "id": 14727,
-          "value": "Commentary",
-          "color": "darker-green"
-        },
-        "notes": "",
-        "notes__author": "Venedig 1732",
-        "institutional_context": [],
-        "published_edition": [
-          {
-            "id": 12,
-            "name": "Other edition",
-            "jad_id": "jad_sources_occurrences__12",
-            "digi_url": ""
-          }
-        ],
-        "date_certainty": true,
-        "date": [
-          {
-            "id": 72,
-            "value": "1230s"
-          }
-        ],
-        "link_digital_editions": "https://www.digitale-sammlungen.de/de/view/bsb11403225?page=,1",
-        "author_certainty": true,
-        "incipit": "",
-        "volume_edition_or_individual_editor": "Venedig 1732",
-        "other_editions": null,
-        "view_label": "Postilla in Lucam ",
-        "prev": {
-          "id": "jad_work__231",
-          "label": "Homiliae "
-        },
-        "next": {
-          "id": "jad_work__233",
-          "label": "Glossae biblicae "
         }
       },
       {
@@ -23280,8 +23209,8 @@
         "other_editions": null,
         "view_label": "Glossae biblicae ",
         "prev": {
-          "id": "jad_work__232",
-          "label": "Postilla in Lucam "
+          "id": "jad_work__231",
+          "label": "Homiliae "
         },
         "next": {
           "id": "jad_work__234",
@@ -28529,8 +28458,8 @@
           "label": "Commentary Daniel "
         },
         "next": {
-          "id": "jad_work__232",
-          "label": "Postilla in Lucam "
+          "id": "jad_work__233",
+          "label": "Glossae biblicae "
         }
       }
     ]
