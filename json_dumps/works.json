@@ -5633,49 +5633,6 @@
     "volume_edition_or_individual_editor": "92",
     "other_editions": null
   },
-  "117": {
-    "id": 117,
-    "order": "116.00000000000000000000",
-    "name": "Commentary Pentateuch ",
-    "jad_id": "jad_work__117",
-    "author": [
-      {
-        "id": 6,
-        "value": "Beda Venerabilis",
-        "order": "6.00000000000000000000"
-      }
-    ],
-    "manuscripts": [],
-    "title": "Commentary Pentateuch",
-    "genre": {
-      "id": 14727,
-      "value": "Commentary",
-      "color": "darker-green"
-    },
-    "notes": "",
-    "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [
-      {
-        "id": 2,
-        "value": "Patrologia Latina",
-        "order": "2.00000000000000000000"
-      }
-    ],
-    "date_certainty": true,
-    "date": [
-      {
-        "id": 12,
-        "value": "early 8th cen.",
-        "order": "12.00000000000000000000"
-      }
-    ],
-    "link_digital_editions": "",
-    "author_certainty": true,
-    "incipit": null,
-    "volume_edition_or_individual_editor": "91",
-    "other_editions": null
-  },
   "118": {
     "id": 118,
     "order": "117.00000000000000000000",
@@ -8149,7 +8106,7 @@
   "172": {
     "id": 172,
     "order": "170.00000000000000000000",
-    "name": "Commentary Isaiah (I) ",
+    "name": "Commentary Isaiah ",
     "jad_id": "jad_work__172",
     "author": [
       {
@@ -8163,9 +8120,14 @@
         "id": 39,
         "value": "Erlangen, UB, MS 63/1",
         "order": "39.00000000000000000000"
+      },
+      {
+        "id": 40,
+        "value": "Erlangen, UB, MS 63/2",
+        "order": "40.00000000000000000000"
       }
     ],
-    "title": "Commentary Isaiah (I)",
+    "title": "Commentary Isaiah",
     "genre": {
       "id": 14727,
       "value": "Commentary",
@@ -11869,9 +11831,9 @@
     "manuscripts": [],
     "title": "Expositio in psalmum David",
     "genre": {
-      "id": 14727,
-      "value": "Commentary",
-      "color": "darker-green"
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
     },
     "notes": "",
     "notes__author": "",
@@ -18737,7 +18699,7 @@
   "413": {
     "id": 413,
     "order": "400.00000000000000000000",
-    "name": "Super Euangelium Iohannis reportatio ",
+    "name": "Super Evangelium Iohannis reportatio ",
     "jad_id": "jad_work__413",
     "author": [
       {
@@ -18747,7 +18709,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "Super Euangelium Iohannis reportatio",
+    "title": "Super Evangelium Iohannis reportatio",
     "genre": {
       "id": 14727,
       "value": "Commentary",
@@ -18780,7 +18742,7 @@
   "414": {
     "id": 414,
     "order": "401.00000000000000000000",
-    "name": "Super Euangelium Matthaei reportatio ",
+    "name": "Super Evangelium Matthaei reportatio ",
     "jad_id": "jad_work__414",
     "author": [
       {
@@ -18790,7 +18752,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "Super Euangelium Matthaei reportatio",
+    "title": "Super Evangelium Matthaei reportatio",
     "genre": {
       "id": 14727,
       "value": "Commentary",
@@ -21725,9 +21687,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 19,
-        "value": "around 900",
-        "order": "19.00000000000000000000"
+        "id": 18,
+        "value": "around 1000",
+        "order": "18.00000000000000000000"
       }
     ],
     "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_lang_1/index.htm#page/(III)/mode/1up",
@@ -21768,9 +21730,9 @@
     "date_certainty": true,
     "date": [
       {
-        "id": 19,
-        "value": "around 900",
-        "order": "19.00000000000000000000"
+        "id": 18,
+        "value": "around 1000",
+        "order": "18.00000000000000000000"
       }
     ],
     "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_lang_1/index.htm#page/(III)/mode/1up",
@@ -22795,7 +22757,7 @@
   "558": {
     "id": 558,
     "order": "488.00000000000000000000",
-    "name": "Milleloquium ueritatis Augustini ",
+    "name": "Milleloquium veritatis Augustini ",
     "jad_id": "jad_work__558",
     "author": [
       {
@@ -22805,7 +22767,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "Milleloquium ueritatis Augustini",
+    "title": "Milleloquium veritatis Augustini",
     "genre": {
       "id": 15024,
       "value": "Theological treatise",
@@ -23323,7 +23285,7 @@
   "570": {
     "id": 570,
     "order": "500.00000000000000000000",
-    "name": "Breuiarium ab urbe condita ",
+    "name": "Breviarium ab urbe condita ",
     "jad_id": "jad_work__570",
     "author": [
       {
@@ -23333,7 +23295,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "Breuiarium ab urbe condita",
+    "title": "Breviarium ab urbe condita",
     "genre": {
       "id": 14731,
       "value": "Chronicle",
@@ -30347,6 +30309,176 @@
     ],
     "link_digital_editions": "",
     "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "875": {
+    "id": 875,
+    "order": "660.00000000000000000000",
+    "name": "Commentary Lamentationes ",
+    "jad_id": "jad_work__875",
+    "author": [
+      {
+        "id": 5,
+        "value": "Hrabanus Maurus",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Commentary Lamentationes",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 7,
+        "value": "mid 9th cen.",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "876": {
+    "id": 876,
+    "order": "661.00000000000000000000",
+    "name": "Enarrationes in XII psalmos Davidicos ",
+    "jad_id": "jad_work__876",
+    "author": [
+      {
+        "id": 108,
+        "value": "Ambrosius of Milan",
+        "order": "107.00000000000000000000"
+      }
+    ],
+    "manuscripts": [],
+    "title": "Enarrationes in XII psalmos Davidicos",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [
+      {
+        "id": 2,
+        "value": "Patrologia Latina",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "link_digital_editions": "",
+    "author_certainty": true,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "877": {
+    "id": 877,
+    "order": "662.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__877",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "878": {
+    "id": 878,
+    "order": "663.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__878",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "879": {
+    "id": 879,
+    "order": "664.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__879",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": ""
+  },
+  "880": {
+    "id": 880,
+    "order": "665.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__880",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": ""

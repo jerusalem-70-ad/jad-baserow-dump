@@ -7951,8 +7951,8 @@
         "other_editions": null,
         "view_label": "Commentary Numeri ",
         "prev": {
-          "id": "jad_work__117",
-          "label": "Commentary Pentateuch "
+          "id": "jad_work__116",
+          "label": "Commentary Matthew "
         },
         "next": {
           "id": "jad_work__119",
@@ -8027,12 +8027,12 @@
         },
         "next": {
           "id": "jad_work__172",
-          "label": "Commentary Isaiah (I) "
+          "label": "Commentary Isaiah "
         }
       },
       {
         "id": 172,
-        "name": "Commentary Isaiah (I) ",
+        "name": "Commentary Isaiah ",
         "jad_id": "jad_work__172",
         "author": [
           {
@@ -8060,9 +8060,13 @@
           {
             "id": 39,
             "value": "Erlangen, UB, MS 63/1"
+          },
+          {
+            "id": 40,
+            "value": "Erlangen, UB, MS 63/2"
           }
         ],
-        "title": "Commentary Isaiah (I)",
+        "title": "Commentary Isaiah",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -8091,7 +8095,7 @@
         "incipit": null,
         "volume_edition_or_individual_editor": null,
         "other_editions": null,
-        "view_label": "Commentary Isaiah (I) ",
+        "view_label": "Commentary Isaiah ",
         "prev": {
           "id": "jad_work__171",
           "label": "Sermones (unpublished) "
@@ -8165,7 +8169,7 @@
         "view_label": "Commentary Isaiah (II) ",
         "prev": {
           "id": "jad_work__172",
-          "label": "Commentary Isaiah (I) "
+          "label": "Commentary Isaiah "
         },
         "next": {
           "id": "jad_work__174",
@@ -8572,6 +8576,72 @@
           "id": "jad_work__636",
           "label": "Historia Scholastica, Appendix on Acts of Apostels "
         }
+      },
+      {
+        "id": 875,
+        "name": "Commentary Lamentationes ",
+        "jad_id": "jad_work__875",
+        "author": [
+          {
+            "id": 5,
+            "name": "Hrabanus Maurus",
+            "jad_id": "jad_author__5",
+            "gnd_url": "https://d-nb.info/gnd/118553909",
+            "notes": null,
+            "lebensdaten": null,
+            "alt_name": "Rabbanus, Abbas | Mauro, Rabano | Rabano Mauro, Erzbischof | Rhabanus, Moguntinus | Rabano Mauro, Archbishop | Pseudo-Hrabanus, Maurus | Hrabanus Maurus, Archbishop | Magnentius Hrabanus Maurus, Erzbischof | Hraban Maur, Erzbischof | Maurus, Hrabanus, Archbishop | Rabano, Mauro | Magnentius Hrabanus Maurus, Archevêque | Hrabanus, Magnentius Maurus | Hrabanus Maurus, Archevêque | Raban, Maur | Maurus, Rabanus | Rabanus Maurus | Hraban Maur, Archbishop | Rabani, Mauri | Rabanus | Rabanus, Maurus | Rhabanus Maurus, Archevêque | Maurus, Hrabanus | Rhabanus, Archiepiscopus | Rhabanus Maurus, Erzbischof | Rabbanus, Maurus | Rabanus Magnentius, Erzbischof | Raban | Rhabanus, Maurus | Rabanus, Mogontiacensis episcopus | Hraban | Hrabanus Maurus, Erzbischof | Hrabanus Magnentius Maurus, Archbishop, Germany | Magnentius Hrabanus Maurus, Archbishop | Magnentius Hrabanus, Maurus | Rhabanus Maurus, Archbishop | Hrabanus Magnentius Maurus, Erzbischof | Hraban Maur, Archevêque | Hrabanus Magnentius, Maurus | Raban Maur, Archevêque | Rabanus, Magnentius | Hrabanus Maurus, Magnentius | Rabanus Maurus, Erzbischof von Mainz | Rabanus Maurus, Archbishop | Maurus, Hrabanus, Archevêque | Hraban, von Mainz | Hrabanus Magnentius Maurus, Archevêque | Rabanus Maurus, Erzbischof | Hrabanus, Magnentius | Rabanus Magnentius, Archevêque | Maurus, Hrabanus, Erzbischof | Maur, Raban | Rabanus Maurus, Archevêque | Raban Maur, Erzbischof | Raban Maur, Archbishop | Rabanus Magnentius, Archbishop | Rabano Mauro, Archevêque",
+            "date_of_birth": "0780",
+            "date_of_death": "0856",
+            "place": [
+              {
+                "id": 34,
+                "value": "Mainz"
+              }
+            ],
+            "date_birth_certainty": false,
+            "date_death_certainty": true,
+            "occupation": "Archbishop of Mainz"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Commentary Lamentationes",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 7,
+            "value": "mid 9th cen."
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Commentary Lamentationes ",
+        "prev": {
+          "id": "jad_work__874",
+          "label": "Commentary Lamentationes "
+        },
+        "next": {
+          "id": "jad_work__876",
+          "label": "Enarrationes in XII psalmos Davidicos "
+        }
       }
     ]
   },
@@ -8796,72 +8866,6 @@
         "prev": {
           "id": "jad_work__115",
           "label": "Sermones "
-        },
-        "next": {
-          "id": "jad_work__117",
-          "label": "Commentary Pentateuch "
-        }
-      },
-      {
-        "id": 117,
-        "name": "Commentary Pentateuch ",
-        "jad_id": "jad_work__117",
-        "author": [
-          {
-            "id": 6,
-            "name": "Beda Venerabilis",
-            "jad_id": "jad_author__6",
-            "gnd_url": "https://d-nb.info/gnd/118508237",
-            "notes": null,
-            "lebensdaten": null,
-            "alt_name": "Bede, Venerable | Beda, Anglus | Beda, Sanctus | Beda Venerabilis | Pseudo-Bède | Beda, Venerabilis | Beda, der Ehrwürdige | Bede, the Venerable | Bedanus, Venerabilis | Beda, Czcigodny | Beda, Presbyter | Beada | Pseudo-Beda, Venerabilis | Beda, Anglicus | Bède, le Vénérable | Beda, il Venerable | Venerabilis, Beda | Baeda, Venerabilis | Beda, Presbyter Anglosaxonis | Beda, el Venerable | Bedamus, Venerabilis | Bede | Pseudo-Bede | Beda, den Aervaerdigen | Beda, Sacerdos",
-            "date_of_birth": "0670",
-            "date_of_death": "0735",
-            "place": [
-              {
-                "id": 35,
-                "value": "Newcastle upon Tyne"
-              }
-            ],
-            "date_birth_certainty": false,
-            "date_death_certainty": true,
-            "occupation": "Benedictine"
-          }
-        ],
-        "manuscripts": [],
-        "title": "Commentary Pentateuch",
-        "genre": {
-          "id": 14727,
-          "value": "Commentary",
-          "color": "darker-green"
-        },
-        "notes": "",
-        "notes__author": "",
-        "institutional_context": [],
-        "published_edition": [
-          {
-            "id": 2,
-            "name": "Patrologia Latina",
-            "jad_id": "jad_sources_occurrences__2",
-            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
-          }
-        ],
-        "date_certainty": true,
-        "date": [
-          {
-            "id": 12,
-            "value": "early 8th cen."
-          }
-        ],
-        "link_digital_editions": "",
-        "author_certainty": true,
-        "incipit": null,
-        "volume_edition_or_individual_editor": "91",
-        "other_editions": null,
-        "view_label": "Commentary Pentateuch ",
-        "prev": {
-          "id": "jad_work__116",
-          "label": "Commentary Matthew "
         },
         "next": {
           "id": "jad_work__118",
@@ -11966,12 +11970,12 @@
         "other_editions": null,
         "view_label": "Commentary Isaiah ",
         "prev": {
-          "id": "jad_work__874",
-          "label": "Commentary Lamentationes "
+          "id": "jad_work__879",
+          "label": " "
         },
         "next": {
-          "id": "jad_work__89",
-          "label": "Commentary Matthew "
+          "id": "jad_work__880",
+          "label": " "
         }
       },
       {
@@ -12042,8 +12046,8 @@
         "other_editions": null,
         "view_label": "Commentary Matthew ",
         "prev": {
-          "id": "jad_work__88",
-          "label": "Commentary Isaiah "
+          "id": "jad_work__880",
+          "label": " "
         },
         "next": {
           "id": "jad_work__9",
@@ -16293,7 +16297,7 @@
         },
         "next": {
           "id": "jad_work__570",
-          "label": "Breuiarium ab urbe condita "
+          "label": "Breviarium ab urbe condita "
         }
       },
       {
@@ -24769,12 +24773,12 @@
         },
         "next": {
           "id": "jad_work__413",
-          "label": "Super Euangelium Iohannis reportatio "
+          "label": "Super Evangelium Iohannis reportatio "
         }
       },
       {
         "id": 413,
-        "name": "Super Euangelium Iohannis reportatio ",
+        "name": "Super Evangelium Iohannis reportatio ",
         "jad_id": "jad_work__413",
         "author": [
           {
@@ -24799,7 +24803,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Super Euangelium Iohannis reportatio",
+        "title": "Super Evangelium Iohannis reportatio",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -24828,19 +24832,19 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "Marietti 1952",
         "other_editions": null,
-        "view_label": "Super Euangelium Iohannis reportatio ",
+        "view_label": "Super Evangelium Iohannis reportatio ",
         "prev": {
           "id": "jad_work__412",
           "label": "In Psalmos reportatio "
         },
         "next": {
           "id": "jad_work__414",
-          "label": "Super Euangelium Matthaei reportatio "
+          "label": "Super Evangelium Matthaei reportatio "
         }
       },
       {
         "id": 414,
-        "name": "Super Euangelium Matthaei reportatio ",
+        "name": "Super Evangelium Matthaei reportatio ",
         "jad_id": "jad_work__414",
         "author": [
           {
@@ -24865,7 +24869,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Super Euangelium Matthaei reportatio",
+        "title": "Super Evangelium Matthaei reportatio",
         "genre": {
           "id": 14727,
           "value": "Commentary",
@@ -24894,10 +24898,10 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "S. Thomae Aquinatis Super evangelium S. Matthaei lectura, ed. Raffaele Cai (Torino–Roma 1951).",
         "other_editions": null,
-        "view_label": "Super Euangelium Matthaei reportatio ",
+        "view_label": "Super Evangelium Matthaei reportatio ",
         "prev": {
           "id": "jad_work__413",
-          "label": "Super Euangelium Iohannis reportatio "
+          "label": "Super Evangelium Iohannis reportatio "
         },
         "next": {
           "id": "jad_work__415",
@@ -30254,9 +30258,9 @@
         "manuscripts": [],
         "title": "Expositio in psalmum David",
         "genre": {
-          "id": 14727,
-          "value": "Commentary",
-          "color": "darker-green"
+          "id": 14726,
+          "value": "Sermons",
+          "color": "darker-pink"
         },
         "notes": "",
         "notes__author": "",
@@ -30289,6 +30293,72 @@
         "next": {
           "id": "jad_work__256",
           "label": "Evangelicarum harmoniarum interpretatio "
+        }
+      },
+      {
+        "id": 876,
+        "name": "Enarrationes in XII psalmos Davidicos ",
+        "jad_id": "jad_work__876",
+        "author": [
+          {
+            "id": 108,
+            "name": "Ambrosius of Milan",
+            "jad_id": "jad_author__108",
+            "gnd_url": "https://d-nb.info/gnd/11850245X",
+            "notes": "",
+            "lebensdaten": "",
+            "alt_name": "Saint'Ambrogio | Ambrosius, of Milan | Ambrosius, Mailand, Bischof, Heiliger | Ambrogio, Santo | Ambrosius, Mediolanensis, Episcopus | Ambrosius, von Mailand | Ambrosij, Mediolanski | Amvrosij, Mediolanskij | Ambroise, Saint | Ambrosius, Mediolanensis | Ambrosio, de Milán | Ambrosius, Christian Writer | Ambrosius, Saint | Pseudo-Ambrosius | Ambrosius, Scriptor Ecclesiasticus | Ambroise, de Milan | Ambrosius, Episcopus Mediolanensis | Ambrogio, di Milano | Ambrosiaster | Ambrosius von Mailand | Ambrosius, Sanctus | Ambrosius, Bischof | Ambroźy, Świe̜ty | Ambrosius, Kirchenvater | Ambrosius, Episcopus | Ambrose, Saint | Saint Ambrose",
+            "date_of_birth": "0339",
+            "date_of_death": "0397",
+            "place": [
+              {
+                "id": 57,
+                "value": "Milan"
+              }
+            ],
+            "date_birth_certainty": true,
+            "date_death_certainty": true,
+            "occupation": "Bishop of Milan"
+          }
+        ],
+        "manuscripts": [],
+        "title": "Enarrationes in XII psalmos Davidicos",
+        "genre": {
+          "id": 14727,
+          "value": "Commentary",
+          "color": "darker-green"
+        },
+        "notes": "",
+        "notes__author": "",
+        "institutional_context": [],
+        "published_edition": [
+          {
+            "id": 2,
+            "name": "Patrologia Latina",
+            "jad_id": "jad_sources_occurrences__2",
+            "digi_url": "https://mlat.uzh.ch/browser?path=/38"
+          }
+        ],
+        "date_certainty": true,
+        "date": [
+          {
+            "id": 26,
+            "value": "around 400"
+          }
+        ],
+        "link_digital_editions": "",
+        "author_certainty": true,
+        "incipit": "",
+        "volume_edition_or_individual_editor": "",
+        "other_editions": "",
+        "view_label": "Enarrationes in XII psalmos Davidicos ",
+        "prev": {
+          "id": "jad_work__875",
+          "label": "Commentary Lamentationes "
+        },
+        "next": {
+          "id": "jad_work__877",
+          "label": " "
         }
       }
     ]
@@ -42376,7 +42446,7 @@
         "view_label": "Sermones de tempore ",
         "prev": {
           "id": "jad_work__414",
-          "label": "Super Euangelium Matthaei reportatio "
+          "label": "Super Evangelium Matthaei reportatio "
         },
         "next": {
           "id": "jad_work__416",
@@ -46806,8 +46876,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 19,
-            "value": "around 900"
+            "id": 18,
+            "value": "around 1000"
           }
         ],
         "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_lang_1/index.htm#page/(III)/mode/1up",
@@ -46872,8 +46942,8 @@
         "date_certainty": true,
         "date": [
           {
-            "id": 19,
-            "value": "around 900"
+            "id": 18,
+            "value": "around 1000"
           }
         ],
         "link_digital_editions": "https://www.dmgh.de/mgh_ss_rer_lang_1/index.htm#page/(III)/mode/1up",
@@ -48850,7 +48920,7 @@
         },
         "next": {
           "id": "jad_work__558",
-          "label": "Milleloquium ueritatis Augustini "
+          "label": "Milleloquium veritatis Augustini "
         }
       }
     ]
@@ -48886,7 +48956,7 @@
     "related__works": [
       {
         "id": 558,
-        "name": "Milleloquium ueritatis Augustini ",
+        "name": "Milleloquium veritatis Augustini ",
         "jad_id": "jad_work__558",
         "author": [
           {
@@ -48911,7 +48981,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Milleloquium ueritatis Augustini",
+        "title": "Milleloquium veritatis Augustini",
         "genre": {
           "id": 15024,
           "value": "Theological treatise",
@@ -48940,7 +49010,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "ed. Lukas J. Dorfbauer, Wiener Studien 123 (2010)",
         "other_editions": "",
-        "view_label": "Milleloquium ueritatis Augustini ",
+        "view_label": "Milleloquium veritatis Augustini ",
         "prev": {
           "id": "jad_work__557",
           "label": "Libellus de uita et moribus imperatorum breuiatus "
@@ -49040,7 +49110,7 @@
         "view_label": "Fabularius ",
         "prev": {
           "id": "jad_work__558",
-          "label": "Milleloquium ueritatis Augustini "
+          "label": "Milleloquium veritatis Augustini "
         },
         "next": {
           "id": "jad_work__56",
@@ -49749,7 +49819,7 @@
     "related__works": [
       {
         "id": 570,
-        "name": "Breuiarium ab urbe condita ",
+        "name": "Breviarium ab urbe condita ",
         "jad_id": "jad_work__570",
         "author": [
           {
@@ -49774,7 +49844,7 @@
           }
         ],
         "manuscripts": [],
-        "title": "Breuiarium ab urbe condita",
+        "title": "Breviarium ab urbe condita",
         "genre": {
           "id": 14731,
           "value": "Chronicle",
@@ -49803,7 +49873,7 @@
         "incipit": "",
         "volume_edition_or_individual_editor": "Teubner 1979",
         "other_editions": "",
-        "view_label": "Breuiarium ab urbe condita ",
+        "view_label": "Breviarium ab urbe condita ",
         "prev": {
           "id": "jad_work__57",
           "label": "Commentary Isaiah "
@@ -49903,7 +49973,7 @@
         "view_label": "Commentarii in euangelia ",
         "prev": {
           "id": "jad_work__570",
-          "label": "Breuiarium ab urbe condita "
+          "label": "Breviarium ab urbe condita "
         },
         "next": {
           "id": "jad_work__572",
@@ -56036,8 +56106,8 @@
           "label": "Commentary Isaiah "
         },
         "next": {
-          "id": "jad_work__88",
-          "label": "Commentary Isaiah "
+          "id": "jad_work__875",
+          "label": "Commentary Lamentationes "
         }
       }
     ]
