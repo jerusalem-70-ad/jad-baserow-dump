@@ -62,12 +62,7 @@ MODEL_CONFIG = [
         "verbose_name_sg": "Keywords",
         "file_name": "keywords",
         "label_lookup_expression": "$.name",
-        "related_objects": [
-            {
-                "source_file": "passages",
-                "lookup_field": "keywords",
-            },
-        ],
+       
     },
 ]
 
