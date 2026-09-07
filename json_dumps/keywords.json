@@ -1368,18 +1368,44 @@
   "219": {
     "id": 219,
     "order": "102.00000000000000000000",
-    "name": "",
-    "short_description": "",
+    "name": "Old Testament story",
+    "short_description": "A story from the Old Testament is narrated within the same context, for example, from the Books of Kings or the Deuteronomium. These stories served different purposes, and could bring in various elements, for instance, models for kingship, but often they figured as typological prefigurations of the Roman conquest.",
     "jad_id": "jad_keyword__219",
     "part_of_deprecated": [],
-    "part_of": null
+    "part_of": {
+      "id": 23152,
+      "value": "Biblical elements",
+      "color": "dark-purple"
+    }
   },
   "220": {
     "id": 220,
     "order": "103.00000000000000000000",
+    "name": "King Solomon/ David",
+    "short_description": "King Solomon and/or David appear within the passage, often with reference to Solomon's building of the Jewish Temple (which was then destroyed a second time in the Roman conquest).",
+    "jad_id": "jad_keyword__220",
+    "part_of_deprecated": [],
+    "part_of": {
+      "id": 23152,
+      "value": "Biblical elements",
+      "color": "dark-purple"
+    }
+  },
+  "221": {
+    "id": 221,
+    "order": "104.00000000000000000000",
     "name": "",
     "short_description": "",
-    "jad_id": "jad_keyword__220",
+    "jad_id": "jad_keyword__221",
+    "part_of_deprecated": [],
+    "part_of": null
+  },
+  "222": {
+    "id": 222,
+    "order": "105.00000000000000000000",
+    "name": "",
+    "short_description": "",
+    "jad_id": "jad_keyword__222",
     "part_of_deprecated": [],
     "part_of": null
   }

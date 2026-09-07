@@ -5359,7 +5359,7 @@
     "author": [
       {
         "id": 60,
-        "value": "Eusebius of Caesarea",
+        "value": "Eusebius of Caesarea (Rufinus)",
         "order": "59.00000000000000000000"
       }
     ],
@@ -10351,49 +10351,6 @@
     "volume_edition_or_individual_editor": "23",
     "other_editions": null
   },
-  "222": {
-    "id": 222,
-    "order": "220.00000000000000000000",
-    "name": "Epistola ",
-    "jad_id": "jad_work__222",
-    "author": [
-      {
-        "id": 64,
-        "value": "Geoffrey of Admont",
-        "order": "63.00000000000000000000"
-      }
-    ],
-    "manuscripts": [],
-    "title": "Epistola",
-    "genre": {
-      "id": 18135,
-      "value": "Letters",
-      "color": "darker-orange"
-    },
-    "notes": "",
-    "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [
-      {
-        "id": 2,
-        "value": "Patrologia Latina",
-        "order": "2.00000000000000000000"
-      }
-    ],
-    "date_certainty": true,
-    "date": [
-      {
-        "id": 4,
-        "value": "mid 12th cen.",
-        "order": "4.00000000000000000000"
-      }
-    ],
-    "link_digital_editions": "",
-    "author_certainty": true,
-    "incipit": "",
-    "volume_edition_or_individual_editor": null,
-    "other_editions": null
-  },
   "223": {
     "id": 223,
     "order": "221.00000000000000000000",
@@ -11177,7 +11134,7 @@
     "link_digital_editions": "https://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ219278304",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "Liverani (Florenz 1863)",
+    "volume_edition_or_individual_editor": "*Spicilegium Liberianum, Pars 1: Millenario major*, ed. Francesco Liverani (Florence 1863).",
     "other_editions": null
   },
   "242": {
@@ -11363,10 +11320,10 @@
         "order": "61.00000000000000000000"
       }
     ],
-    "link_digital_editions": "https://digital.onb.ac.at/OnbViewer/viewer.faces?doc=ABO_%2BZ222436500",
+    "link_digital_editions": "https://viewer.onb.ac.at/107E2108/569",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "Evangelia apocrypha : adhibitis plurimis codicibus Graecis et Latinis maximam partem nunc primum consultis atque ineditorum copia insignibus, ed. Konstantin von Tischendorf (Leipzig 1876).",
+    "volume_edition_or_individual_editor": "Evangelia apocrypha: adhibitis plurimis codicibus Graecis et Latinis maximam partem nunc primum consultis atque ineditorum copia insignibus, ed. Konstantin von Tischendorf (Leipzig 1876).",
     "other_editions": null
   },
   "246": {
@@ -12332,49 +12289,6 @@
     "volume_edition_or_individual_editor": "69",
     "other_editions": null
   },
-  "267": {
-    "id": 267,
-    "order": "265.00000000000000000000",
-    "name": "Complexiones in epistulis apostolorum ",
-    "jad_id": "jad_work__267",
-    "author": [
-      {
-        "id": 114,
-        "value": "Cassiodorus Flavius Magnus Aurelius",
-        "order": "113.00000000000000000000"
-      }
-    ],
-    "manuscripts": [],
-    "title": "Complexiones in epistulis apostolorum",
-    "genre": {
-      "id": 14727,
-      "value": "Commentary",
-      "color": "darker-green"
-    },
-    "notes": "",
-    "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [
-      {
-        "id": 2,
-        "value": "Patrologia Latina",
-        "order": "2.00000000000000000000"
-      }
-    ],
-    "date_certainty": true,
-    "date": [
-      {
-        "id": 56,
-        "value": "mid 6th cen.",
-        "order": "56.00000000000000000000"
-      }
-    ],
-    "link_digital_editions": "https://mlat.uzh.ch/browser?path=/1027/2919/7917",
-    "author_certainty": true,
-    "incipit": "",
-    "volume_edition_or_individual_editor": "70",
-    "other_editions": null
-  },
   "268": {
     "id": 268,
     "order": "266.00000000000000000000",
@@ -12737,9 +12651,9 @@
     "jad_id": "jad_work__276",
     "author": [
       {
-        "id": 60,
-        "value": "Eusebius of Caesarea",
-        "order": "59.00000000000000000000"
+        "id": 27,
+        "value": "Hieronymus Sophronius Eusebius",
+        "order": "27.00000000000000000000"
       }
     ],
     "manuscripts": [],
@@ -12759,61 +12673,18 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_certainty": false,
-    "date": [
-      {
-        "id": 36,
-        "value": "early 4th cen.",
-        "order": "36.00000000000000000000"
-      }
-    ],
-    "link_digital_editions": "https://mlat.uzh.ch/browser?path=/21578/21530/21415",
-    "author_certainty": false,
-    "incipit": "",
-    "volume_edition_or_individual_editor": "27",
-    "other_editions": null
-  },
-  "277": {
-    "id": 277,
-    "order": "275.00000000000000000000",
-    "name": "Evangelium ",
-    "jad_id": "jad_work__277",
-    "author": [
-      {
-        "id": 120,
-        "value": "Eusebius of Vercelli",
-        "order": "119.00000000000000000000"
-      }
-    ],
-    "manuscripts": [],
-    "title": "Evangelium",
-    "genre": {
-      "id": 14727,
-      "value": "Commentary",
-      "color": "darker-green"
-    },
-    "notes": "",
-    "notes__author": "",
-    "institutional_context": [],
-    "published_edition": [
-      {
-        "id": 2,
-        "value": "Patrologia Latina",
-        "order": "2.00000000000000000000"
-      }
-    ],
     "date_certainty": true,
     "date": [
       {
-        "id": 59,
-        "value": "mid 4th cen.",
-        "order": "59.00000000000000000000"
+        "id": 26,
+        "value": "around 400",
+        "order": "26.00000000000000000000"
       }
     ],
-    "link_digital_editions": "https://mlat.uzh.ch/browser?path=/935/343/6898",
+    "link_digital_editions": "https://mlat.uzh.ch/browser?path=/21578/21530/21415",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "12",
+    "volume_edition_or_individual_editor": "27",
     "other_editions": null
   },
   "278": {
@@ -15497,7 +15368,7 @@
   "340": {
     "id": 340,
     "order": "328.00000000000000000000",
-    "name": "Tractatus de diuersis materiis praedicabilibus ",
+    "name": "Tractatus de diversis materiis praedicabilibus ",
     "jad_id": "jad_work__340",
     "author": [
       {
@@ -15507,7 +15378,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "Tractatus de diuersis materiis praedicabilibus",
+    "title": "Tractatus de diversis materiis praedicabilibus",
     "genre": {
       "id": 18453,
       "value": "Preaching material or tool",
@@ -17408,7 +17279,7 @@
   "386": {
     "id": 386,
     "order": "373.00000000000000000000",
-    "name": "Sermones in epistolas et euangelia dominicalia totius anni ",
+    "name": "Sermones in epistolas et evangelia dominicalia totius anni ",
     "jad_id": "jad_work__386",
     "author": [
       {
@@ -17418,7 +17289,7 @@
       }
     ],
     "manuscripts": [],
-    "title": "Sermones in epistolas et euangelia dominicalia totius anni",
+    "title": "Sermones in epistolas et evangelia dominicalia totius anni",
     "genre": {
       "id": 14726,
       "value": "Sermons",
@@ -22590,7 +22461,7 @@
     "author": [
       {
         "id": 352,
-        "value": "Antonius of Padua, saint",
+        "value": "Antonius of Padua",
         "order": "229.00000000000000000000"
       }
     ],
@@ -23892,7 +23763,7 @@
     "author": [
       {
         "id": 378,
-        "value": "Johannes Parisiensis, canon St Victor",
+        "value": "Johannes Parisiensis/ St Victor",
         "order": "255.00000000000000000000"
       }
     ],

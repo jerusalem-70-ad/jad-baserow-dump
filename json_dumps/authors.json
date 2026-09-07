@@ -1254,7 +1254,7 @@
   "60": {
     "id": 60,
     "order": "59.00000000000000000000",
-    "name": "Eusebius of Caesarea",
+    "name": "Eusebius of Caesarea (Rufinus)",
     "jad_id": "jad_author__60",
     "gnd_url": "https://d-nb.info/gnd/118531425",
     "notes": "",
@@ -2474,8 +2474,8 @@
       }
     ],
     "date_birth_certainty": false,
-    "date_death_certainty": true,
-    "occupation": null
+    "date_death_certainty": false,
+    "occupation": "Benedictine"
   },
   "116": {
     "id": 116,
@@ -2562,28 +2562,6 @@
       }
     ],
     "date_birth_certainty": true,
-    "date_death_certainty": false,
-    "occupation": null
-  },
-  "120": {
-    "id": 120,
-    "order": "119.00000000000000000000",
-    "name": "Eusebius of Vercelli",
-    "jad_id": "jad_author__120",
-    "gnd_url": "https://d-nb.info/gnd/100969259",
-    "notes": "",
-    "lebensdaten": "",
-    "alt_name": "Eusebius, de Vercelli | Eusèbe, de Verceil, Bischof | Eusebios, von Vercellae | Pseudo-Eusebius, Vercellensis | Eusebius, Bischof | Eusèbe, de Verceil | Eusebios, Bischof | Eusebius, of Vercelli | Eusebio, di Vercelli | Eusebius, de Vercelli, Bischof | Eusebio, di Vercelli, Bischof | Eusebius, Sanctus | Eusebius, Sanctus, Bischof | Eusebius, Martyr | Eusebio, von Vercelli | Eusebius, von Vercelli, Bischof | Eusebius, of Vercelli, Bischof | Eusebius, Episcopus | Eusebius, von Vercelli | Eusebius, Sardus | Eusebius, Vercellensis, Bischof | Eusebio, San | Eusebius, Vercellensis, Episcopus | Eusebio, San, Bischof | Eusebius, Lector | Pseudo-Eusebius, Vercellensis, Bischof | Eusebios, von Vercellae, Bischof | Eusebius, Sardus, Bischof | Eusèbe, di Vercelli | Vercellensis, Eusebius, Bischof",
-    "date_of_birth": "0280",
-    "date_of_death": "0370",
-    "place": [
-      {
-        "id": 69,
-        "value": "Vercelli",
-        "order": "69.00000000000000000000"
-      }
-    ],
-    "date_birth_certainty": false,
     "date_death_certainty": false,
     "occupation": null
   },
@@ -5260,7 +5238,7 @@
   "352": {
     "id": 352,
     "order": "229.00000000000000000000",
-    "name": "Antonius of Padua, saint",
+    "name": "Antonius of Padua",
     "jad_id": "jad_author__352",
     "gnd_url": "https://d-nb.info/gnd/118503510",
     "notes": "",
@@ -5277,7 +5255,7 @@
     ],
     "date_birth_certainty": false,
     "date_death_certainty": true,
-    "occupation": null
+    "occupation": "Saint"
   },
   "353": {
     "id": 353,
@@ -5798,7 +5776,7 @@
   "378": {
     "id": 378,
     "order": "255.00000000000000000000",
-    "name": "Johannes Parisiensis, canon St Victor",
+    "name": "Johannes Parisiensis/ St Victor",
     "jad_id": "jad_author__378",
     "gnd_url": "https://d-nb.info/gnd/119080664",
     "notes": "",
