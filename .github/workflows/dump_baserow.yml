@@ -27,9 +27,7 @@ jobs:
       - name: enrich the data (places)
         run: python enrich_places.py
       - name: dump the data
-        run: |
-          python dump_data.py
-          python process_data.py
+        run: python dump_data.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
