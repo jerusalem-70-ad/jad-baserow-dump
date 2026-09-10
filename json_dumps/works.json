@@ -30937,24 +30937,52 @@
   "877": {
     "id": 877,
     "order": "662.00000000000000000000",
-    "name": " ",
+    "name": "Sermones ",
     "jad_id": "jad_work__877",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 542,
+        "value": "Ademar of Chabannes",
+        "order": "301.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 427,
+        "value": "BNF, Latin 2469",
+        "order": "248.00000000000000000000"
+      }
+    ],
+    "title": "Sermones",
+    "genre": {
+      "id": 14726,
+      "value": "Sermons",
+      "color": "darker-pink"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 127,
+        "value": "early 11th cen.",
+        "order": "95.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": "",
-    "updated": "2026-08-31T16:28:26.837765Z"
+    "updated": "2026-09-09T15:57:36.501974Z"
   },
   "878": {
     "id": 878,

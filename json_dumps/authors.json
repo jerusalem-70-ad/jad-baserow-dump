@@ -7082,19 +7082,25 @@
   "542": {
     "id": 542,
     "order": "301.00000000000000000000",
-    "name": "",
+    "name": "Ademar of Chabannes",
     "jad_id": "jad_author__542",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118643835",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "alt_name": "Adhemarus, Cabannensis | Ademarus, Sancti Cybardi | Ademarus, Engolismensis | Ademarus, de Chabannes | Ademarus Cabannensis | Ademar, von Saint-Martial, 988-1034 | Ademarus, d'Angoulême | Ademar, d'Angoulême | Autmarus cabannensis | Ademarus, Sancti Cibardi | Adémar, de Chabannes | Chabannes, Adémar de | Ademar, von Chabannes | Ademarus Engolismensis | Autmarus, Cabannensis | Chabannes, Ademaro di | Adémar d'Angoulême | Ademarus Sancti Cibardi | Ademar, of Saint Cybard | Ademar of Saint Martial | Ademar, of Saint Martial | Ademarus Sancti Cibardi Engolismensis | Adhemarus Cabannensis | Ademarus, Sancti Cibardi Engolismensis | Ademar of Saint Cybard | Ademar, de Chabannes",
+    "date_of_birth": "0988",
+    "date_of_death": "1034",
+    "place": [
+      {
+        "id": 167,
+        "value": "Limoges",
+        "order": "141.00000000000000000000"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
     "occupation": "",
-    "updated": "2026-08-19T12:47:10.969512Z"
+    "updated": "2026-09-10T10:15:47.562968Z"
   },
   "543": {
     "id": 543,
@@ -7112,5 +7118,39 @@
     "date_death_certainty": true,
     "occupation": "",
     "updated": "2026-08-19T12:47:12.026064Z"
+  },
+  "574": {
+    "id": 574,
+    "order": "303.00000000000000000000",
+    "name": "",
+    "jad_id": "jad_author__574",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "occupation": "",
+    "updated": "2026-09-09T15:53:13.223497Z"
+  },
+  "575": {
+    "id": 575,
+    "order": "304.00000000000000000000",
+    "name": "",
+    "jad_id": "jad_author__575",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "occupation": "",
+    "updated": "2026-09-09T15:53:14.067184Z"
   }
 }
