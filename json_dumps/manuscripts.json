@@ -2743,14 +2743,14 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "format": "",
+    "format": "15 x 22, 288 ff.",
     "library_full": [
       {
         "id": 33,
         "value": "Magdalene College Cambridge"
       }
     ],
-    "updated": "2025-03-27T14:58:37.972840Z"
+    "updated": "2026-10-15T09:06:25.634269Z"
   },
   "73": {
     "id": 73,
@@ -9545,23 +9545,82 @@
   "429": {
     "id": 429,
     "order": "250.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 55,
+        "value": "Cambridge, Corpus Christi, MS 321"
+      }
+    ],
     "jad_id": "jad_manuscript__429",
-    "library": [],
-    "idno": "",
-    "catalog_url": "",
-    "digi_url": "",
+    "library": [
+      {
+        "id": 55,
+        "value": "Cambridge, Corpus Christi",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "idno": "MS 321",
+    "catalog_url": "https://www.corpus.cam.ac.uk/sites/default/files/downloads/m.r._james_cccc_catalogue_1912_vol._ii.pdf",
+    "digi_url": "https://parker.stanford.edu/parker/catalog/js431dq0778",
     "institutional_context": [],
-    "date_written": [],
-    "format": "",
-    "library_full": [],
-    "updated": "2026-09-09T15:55:03.966655Z"
+    "date_written": [
+      {
+        "id": 43,
+        "value": "14th cen.",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "format": "22 x 15, 218 ff.",
+    "library_full": [
+      {
+        "id": 55,
+        "value": "Cambridge, Corpus Christi College"
+      }
+    ],
+    "updated": "2026-10-15T08:02:19.491485Z"
   },
   "430": {
     "id": 430,
     "order": "251.00000000000000000000",
-    "name": [],
+    "name": [
+      {
+        "id": 56,
+        "value": "Peterhouse, MS 211"
+      }
+    ],
     "jad_id": "jad_manuscript__430",
+    "library": [
+      {
+        "id": 56,
+        "value": "Peterhouse",
+        "order": "50.00000000000000000000"
+      }
+    ],
+    "idno": "MS 211",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [
+      {
+        "id": 47,
+        "value": "13th cen., second half",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "format": "22 x 15, 111 ff.",
+    "library_full": [
+      {
+        "id": 56,
+        "value": "Peterhouse Library"
+      }
+    ],
+    "updated": "2026-10-15T08:28:22.489658Z"
+  },
+  "460": {
+    "id": 460,
+    "order": "252.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__460",
     "library": [],
     "idno": "",
     "catalog_url": "",
@@ -9570,6 +9629,111 @@
     "date_written": [],
     "format": "",
     "library_full": [],
-    "updated": "2026-09-09T15:55:07.213416Z"
+    "updated": "2026-10-15T07:58:31.261850Z"
+  },
+  "461": {
+    "id": 461,
+    "order": "253.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__461",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "updated": "2026-10-15T07:58:31.790617Z"
+  },
+  "462": {
+    "id": 462,
+    "order": "254.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__462",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "updated": "2026-10-15T07:58:33.560875Z"
+  },
+  "463": {
+    "id": 463,
+    "order": "255.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__463",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "updated": "2026-10-15T07:58:34.853024Z"
+  },
+  "464": {
+    "id": 464,
+    "order": "256.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__464",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "updated": "2026-10-15T07:58:35.831725Z"
+  },
+  "465": {
+    "id": 465,
+    "order": "257.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__465",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "updated": "2026-10-15T07:58:37.637824Z"
+  },
+  "493": {
+    "id": 493,
+    "order": "258.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__493",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "updated": "2026-10-15T08:24:45.706142Z"
+  },
+  "494": {
+    "id": 494,
+    "order": "259.00000000000000000000",
+    "name": [],
+    "jad_id": "jad_manuscript__494",
+    "library": [],
+    "idno": "",
+    "catalog_url": "",
+    "digi_url": "",
+    "institutional_context": [],
+    "date_written": [],
+    "format": "",
+    "library_full": [],
+    "updated": "2026-10-15T08:24:46.640750Z"
   }
 }

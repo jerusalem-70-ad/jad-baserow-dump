@@ -30987,24 +30987,52 @@
   "878": {
     "id": 878,
     "order": "663.00000000000000000000",
-    "name": " ",
+    "name": "Commentary Matthew ",
     "jad_id": "jad_work__878",
-    "author": [],
-    "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "author": [
+      {
+        "id": 384,
+        "value": "Petrus Johannis Olivi",
+        "order": "261.00000000000000000000"
+      }
+    ],
+    "manuscripts": [
+      {
+        "id": 429,
+        "value": "Cambridge, Corpus Christi, MS 321",
+        "order": "250.00000000000000000000"
+      }
+    ],
+    "title": "Commentary Matthew",
+    "genre": {
+      "id": 14727,
+      "value": "Commentary",
+      "color": "darker-green"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 1,
+        "value": "None",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 22,
+        "value": "late 13th cen.",
+        "order": "22.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": "",
-    "updated": "2026-08-31T16:28:28.267237Z"
+    "updated": "2026-10-15T08:03:10.652926Z"
   },
   "879": {
     "id": 879,
@@ -31049,5 +31077,93 @@
     "volume_edition_or_individual_editor": "",
     "other_editions": "",
     "updated": "2026-09-01T07:08:46.112434Z"
+  },
+  "912": {
+    "id": 912,
+    "order": "666.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__912",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": "",
+    "updated": "2026-10-15T08:02:51.603292Z"
+  },
+  "913": {
+    "id": 913,
+    "order": "667.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__913",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": "",
+    "updated": "2026-10-15T08:02:52.149509Z"
+  },
+  "914": {
+    "id": 914,
+    "order": "668.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__914",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": "",
+    "updated": "2026-10-15T08:02:53.248841Z"
+  },
+  "915": {
+    "id": 915,
+    "order": "669.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__915",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": "",
+    "updated": "2026-10-15T08:02:53.757016Z"
   }
 }

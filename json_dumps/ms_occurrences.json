@@ -4474,7 +4474,7 @@
         "order": "67.00000000000000000000"
       }
     ],
-    "position_in_ms": "87v-91r",
+    "position_in_ms": "86r-92v",
     "main_ms": false,
     "facsimile_position": "",
     "created_by": {
@@ -4486,14 +4486,14 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2025-03-27",
+    "last_modified_on": "2026-10-15",
     "ms_locus": [
       {
         "ids": {
           "database_table_3496": 72,
           "database_table_3497": 33
         },
-        "value": "Cambr., Magd. Coll., F.4.15, f. 87v-91r"
+        "value": "Cambr., Magd. Coll., F.4.15, f. 86r-92v"
       }
     ]
   },
@@ -27250,10 +27250,22 @@
     "id": 932,
     "order": "661.00000000000000000000",
     "jad_id": "jad_ms_occurence__932",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2843,
+        "value": "missis exercitibus suis, id est romanis",
+        "order": "2431.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 429,
+        "value": "Cambridge, Corpus Christi, MS 321",
+        "order": "250.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "167v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -27264,17 +27276,37 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-09-09",
-    "ms_locus": []
+    "last_modified_on": "2026-10-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 429,
+          "database_table_3497": 55
+        },
+        "value": "Cambridge, Corpus Christi, MS 321, f. 167v"
+      }
+    ]
   },
   "933": {
     "id": 933,
     "order": "662.00000000000000000000",
     "jad_id": "jad_ms_occurence__933",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2844,
+        "value": "quod romani funditus destruetur ad litteram",
+        "order": "2432.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 429,
+        "value": "Cambridge, Corpus Christi, MS 321",
+        "order": "250.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "175r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -27285,17 +27317,37 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-09-09",
-    "ms_locus": []
+    "last_modified_on": "2026-10-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 429,
+          "database_table_3497": 55
+        },
+        "value": "Cambridge, Corpus Christi, MS 321, f. 175r"
+      }
+    ]
   },
   "934": {
     "id": 934,
     "order": "663.00000000000000000000",
     "jad_id": "jad_ms_occurence__934",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2845,
+        "value": "in captivitate romanorum",
+        "order": "2433.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 429,
+        "value": "Cambridge, Corpus Christi, MS 321",
+        "order": "250.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "175v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -27306,17 +27358,37 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-09-09",
-    "ms_locus": []
+    "last_modified_on": "2026-10-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 429,
+          "database_table_3497": 55
+        },
+        "value": "Cambridge, Corpus Christi, MS 321, f. 175v"
+      }
+    ]
   },
   "935": {
     "id": 935,
     "order": "664.00000000000000000000",
     "jad_id": "jad_ms_occurence__935",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2846,
+        "value": "captivitatem Iudeorum factam per romanos",
+        "order": "2434.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 429,
+        "value": "Cambridge, Corpus Christi, MS 321",
+        "order": "250.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "176r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -27327,17 +27399,37 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-09-09",
-    "ms_locus": []
+    "last_modified_on": "2026-10-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 429,
+          "database_table_3497": 55
+        },
+        "value": "Cambridge, Corpus Christi, MS 321, f. 176r"
+      }
+    ]
   },
   "936": {
     "id": 936,
     "order": "665.00000000000000000000",
     "jad_id": "jad_ms_occurence__936",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2847,
+        "value": "abhominatio fuit exercitus romanus",
+        "order": "2435.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 429,
+        "value": "Cambridge, Corpus Christi, MS 321",
+        "order": "250.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "176v",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -27348,17 +27440,37 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-09-09",
-    "ms_locus": []
+    "last_modified_on": "2026-10-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 429,
+          "database_table_3497": 55
+        },
+        "value": "Cambridge, Corpus Christi, MS 321, f. 176v"
+      }
+    ]
   },
   "937": {
     "id": 937,
     "order": "666.00000000000000000000",
     "jad_id": "jad_ms_occurence__937",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2848,
+        "value": "temporalem captivitatem Iudeorum factam a romanis",
+        "order": "2436.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 429,
+        "value": "Cambridge, Corpus Christi, MS 321",
+        "order": "250.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "177r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -27369,17 +27481,37 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-09-09",
-    "ms_locus": []
+    "last_modified_on": "2026-10-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 429,
+          "database_table_3497": 55
+        },
+        "value": "Cambridge, Corpus Christi, MS 321, f. 177r"
+      }
+    ]
   },
   "938": {
     "id": 938,
     "order": "667.00000000000000000000",
     "jad_id": "jad_ms_occurence__938",
-    "occurrence": [],
-    "manuscript": [],
-    "position_in_ms": "",
-    "main_ms": false,
+    "occurrence": [
+      {
+        "id": 2878,
+        "value": "subversionem urbis predixit futuram",
+        "order": "2437.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 430,
+        "value": "Peterhouse, MS 211",
+        "order": "251.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "39r",
+    "main_ms": true,
     "facsimile_position": "",
     "created_by": {
       "id": 85,
@@ -27390,7 +27522,306 @@
       "id": 85,
       "name": "amarx"
     },
-    "last_modified_on": "2026-09-09",
+    "last_modified_on": "2026-10-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 430,
+          "database_table_3497": 56
+        },
+        "value": "Peterhouse, MS 211, f. 39r"
+      }
+    ]
+  },
+  "965": {
+    "id": 965,
+    "order": "668.00000000000000000000",
+    "jad_id": "jad_ms_occurence__965",
+    "occurrence": [
+      {
+        "id": 2879,
+        "value": "quando flevit super civitatem Ierusalem",
+        "order": "2438.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 430,
+        "value": "Peterhouse, MS 211",
+        "order": "251.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "40v",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-10-15",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-10-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 430,
+          "database_table_3497": 56
+        },
+        "value": "Peterhouse, MS 211, f. 40v"
+      }
+    ]
+  },
+  "966": {
+    "id": 966,
+    "order": "669.00000000000000000000",
+    "jad_id": "jad_ms_occurence__966",
+    "occurrence": [
+      {
+        "id": 2911,
+        "value": "flevit enim super civitatem Ierusalem",
+        "order": "2439.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 430,
+        "value": "Peterhouse, MS 211",
+        "order": "251.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "42r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-10-15",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-10-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 430,
+          "database_table_3497": 56
+        },
+        "value": "Peterhouse, MS 211, f. 42r"
+      }
+    ]
+  },
+  "967": {
+    "id": 967,
+    "order": "670.00000000000000000000",
+    "jad_id": "jad_ms_occurence__967",
+    "occurrence": [
+      {
+        "id": 2912,
+        "value": "videns Ihesus civitatem Ierusalem flevit super eam",
+        "order": "2440.00000000000000000000"
+      }
+    ],
+    "manuscript": [
+      {
+        "id": 430,
+        "value": "Peterhouse, MS 211",
+        "order": "251.00000000000000000000"
+      }
+    ],
+    "position_in_ms": "32r",
+    "main_ms": true,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-10-15",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-10-15",
+    "ms_locus": [
+      {
+        "ids": {
+          "database_table_3496": 430,
+          "database_table_3497": 56
+        },
+        "value": "Peterhouse, MS 211, f. 32r"
+      }
+    ]
+  },
+  "968": {
+    "id": 968,
+    "order": "671.00000000000000000000",
+    "jad_id": "jad_ms_occurence__968",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-10-15",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-10-15",
+    "ms_locus": []
+  },
+  "969": {
+    "id": 969,
+    "order": "672.00000000000000000000",
+    "jad_id": "jad_ms_occurence__969",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-10-15",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-10-15",
+    "ms_locus": []
+  },
+  "970": {
+    "id": 970,
+    "order": "673.00000000000000000000",
+    "jad_id": "jad_ms_occurence__970",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-10-15",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-10-15",
+    "ms_locus": []
+  },
+  "971": {
+    "id": 971,
+    "order": "674.00000000000000000000",
+    "jad_id": "jad_ms_occurence__971",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-10-15",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-10-15",
+    "ms_locus": []
+  },
+  "972": {
+    "id": 972,
+    "order": "675.00000000000000000000",
+    "jad_id": "jad_ms_occurence__972",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-10-15",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-10-15",
+    "ms_locus": []
+  },
+  "973": {
+    "id": 973,
+    "order": "676.00000000000000000000",
+    "jad_id": "jad_ms_occurence__973",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-10-15",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-10-15",
+    "ms_locus": []
+  },
+  "974": {
+    "id": 974,
+    "order": "677.00000000000000000000",
+    "jad_id": "jad_ms_occurence__974",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-10-15",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-10-15",
+    "ms_locus": []
+  },
+  "975": {
+    "id": 975,
+    "order": "678.00000000000000000000",
+    "jad_id": "jad_ms_occurence__975",
+    "occurrence": [],
+    "manuscript": [],
+    "position_in_ms": "",
+    "main_ms": false,
+    "facsimile_position": "",
+    "created_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "created_on": "2026-10-15",
+    "last_modified_by": {
+      "id": 85,
+      "name": "amarx"
+    },
+    "last_modified_on": "2026-10-15",
     "ms_locus": []
   }
 }
