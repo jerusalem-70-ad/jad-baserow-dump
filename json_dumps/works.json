@@ -31037,24 +31037,46 @@
   "879": {
     "id": 879,
     "order": "664.00000000000000000000",
-    "name": " ",
+    "name": "De Antichristo ",
     "jad_id": "jad_work__879",
-    "author": [],
+    "author": [
+      {
+        "id": 543,
+        "value": "Adso of Montier-en-Der",
+        "order": "302.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "De Antichristo",
+    "genre": {
+      "id": 14732,
+      "value": "Idiosyncratic work",
+      "color": "dark-red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 69,
+        "value": "late 10th cen.",
+        "order": "68.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": "",
-    "updated": "2026-09-01T07:08:45.264441Z"
+    "updated": "2026-10-15T13:07:11.560622Z"
   },
   "880": {
     "id": 880,

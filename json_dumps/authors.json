@@ -7088,7 +7088,7 @@
     "notes": "",
     "lebensdaten": "",
     "alt_name": "Adhemarus, Cabannensis | Ademarus, Sancti Cybardi | Ademarus, Engolismensis | Ademarus, de Chabannes | Ademarus Cabannensis | Ademar, von Saint-Martial, 988-1034 | Ademarus, d'Angoulême | Ademar, d'Angoulême | Autmarus cabannensis | Ademarus, Sancti Cibardi | Adémar, de Chabannes | Chabannes, Adémar de | Ademar, von Chabannes | Ademarus Engolismensis | Autmarus, Cabannensis | Chabannes, Ademaro di | Adémar d'Angoulême | Ademarus Sancti Cibardi | Ademar, of Saint Cybard | Ademar of Saint Martial | Ademar, of Saint Martial | Ademarus Sancti Cibardi Engolismensis | Adhemarus Cabannensis | Ademarus, Sancti Cibardi Engolismensis | Ademar of Saint Cybard | Ademar, de Chabannes",
-    "date_of_birth": "0988",
+    "date_of_birth": "0990",
     "date_of_death": "1034",
     "place": [
       {
@@ -7097,27 +7097,33 @@
         "order": "141.00000000000000000000"
       }
     ],
-    "date_birth_certainty": true,
+    "date_birth_certainty": false,
     "date_death_certainty": true,
     "occupation": "",
-    "updated": "2026-09-10T10:15:47.562968Z"
+    "updated": "2026-10-15T13:06:22.975930Z"
   },
   "543": {
     "id": 543,
     "order": "302.00000000000000000000",
-    "name": "",
+    "name": "Adso of Montier-en-Der",
     "jad_id": "jad_author__543",
-    "gnd_url": "",
+    "gnd_url": "https://d-nb.info/gnd/118647091",
     "notes": "",
     "lebensdaten": "",
-    "alt_name": "",
-    "date_of_birth": "",
-    "date_of_death": "",
-    "place": [],
+    "alt_name": "Adsone, Emerico | Asson | Azo, Dervensis | Azzo | Asso, Hemericus | Hemericus | Adso, von Montier-en-Der | Adson, Dervensis, Abt | Asso | Adso, Abbas | Azzone, di Montier-en-Der | Adso, Hemericus | Azo, Hemericus | Adso, of Montier-en-Der | Hermiricus | Adson, Héméric | Adso | Adso, Dervensis, Abt | Adso, Philosophus | Azon | Arson | Adso, Deruensis | Azon, Dervensis | Adson, de Montier-en-Der | Adson, Abbas Dervensis | Asson, Dervensis | Adso, Luxoviensis | Adso, Hermiricus",
+    "date_of_birth": "0915",
+    "date_of_death": "0992",
+    "place": [
+      {
+        "id": 310,
+        "value": "Montier-en-Der",
+        "order": "167.00000000000000000000"
+      }
+    ],
     "date_birth_certainty": true,
     "date_death_certainty": true,
-    "occupation": "",
-    "updated": "2026-08-19T12:47:12.026064Z"
+    "occupation": "Abbot",
+    "updated": "2026-10-16T10:08:52.203029Z"
   },
   "574": {
     "id": 574,
@@ -7152,5 +7158,39 @@
     "date_death_certainty": true,
     "occupation": "",
     "updated": "2026-09-09T15:53:14.067184Z"
+  },
+  "607": {
+    "id": 607,
+    "order": "305.00000000000000000000",
+    "name": "",
+    "jad_id": "jad_author__607",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "occupation": "",
+    "updated": "2026-10-15T13:06:33.721930Z"
+  },
+  "608": {
+    "id": 608,
+    "order": "306.00000000000000000000",
+    "name": "",
+    "jad_id": "jad_author__608",
+    "gnd_url": "",
+    "notes": "",
+    "lebensdaten": "",
+    "alt_name": "",
+    "date_of_birth": "",
+    "date_of_death": "",
+    "place": [],
+    "date_birth_certainty": true,
+    "date_death_certainty": true,
+    "occupation": "",
+    "updated": "2026-10-15T13:06:34.684003Z"
   }
 }
