@@ -31081,24 +31081,46 @@
   "880": {
     "id": 880,
     "order": "665.00000000000000000000",
-    "name": " ",
+    "name": "Gesta regis Henrici Secundi ",
     "jad_id": "jad_work__880",
-    "author": [],
+    "author": [
+      {
+        "id": 574,
+        "value": "Roger of Howden",
+        "order": "303.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "Gesta regis Henrici Secundi",
+    "genre": {
+      "id": 14731,
+      "value": "Chronicle",
+      "color": "red"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 17,
+        "value": "Rolls Series",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 5,
+        "value": "late 12th cen.",
+        "order": "5.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "",
+    "volume_edition_or_individual_editor": "49",
     "other_editions": "",
-    "updated": "2026-09-01T07:08:46.112434Z"
+    "updated": "2026-10-16T14:04:42.063919Z"
   },
   "912": {
     "id": 912,
