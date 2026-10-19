@@ -107055,7 +107055,13 @@
     "text_paragraph": "CAPUT XXI.   De Jesu ascensione, eaque praedicta; et de discipulorum praedicatione et gestis.\n\n¶\n    Ordinata vero discipulis suis Evangelii ac nominis sui praedicatione, circumfudit se repente nubes, eumque in coelum sustulit, quadragesimo post passionem die, sicut Daniel fore ostenderat *, dicens: Et ecce in nubibus coeli ut filius hominis veniens, usque ad vetustum dierum pervenit.   Discipuli vero per provincias dispersi fundamenta Ecclesiae ubique posuerunt, facientes et ipsi in nomine magistri Dei magna, et pene incredibilia miracula; quia discedens instruxerat eos virtute ac potestate, qua posset novae annuntiationis ratio fundari, et confirmari: p. 0516C | sed et futura aperuit illis omnia, quae Petrus p. 0517A | et Paulus p. 0517A | Romae praedicaverunt, et ea praedicatio in memoriam scripta permansit; in qua cum multa alia mira, tum etiam hoc futurum esse dixerunt, ut post breve tempus immitteret Deus regem, qui expugnaret Judaeos, et civitates eorum solo adaequaret, ipsos autem fame sitique confectos obsideret.   Tum fore ut corporibus suorum vescerentur, et consumerent se invicem; postremo ut capti venirent in manus hostium, et in conspectu suo vexari acerbissime conjuges suas cernerent, violari ac prostitui virgines, diripi pueros, allidi parvulos, omnia denique igni ferroque vastari, captivos in perpetuum terris suis exterminari; eo quod exultaverint super amantissimum et probatissimum Dei Filium.   Itaque post illorum obitum, cum eos Nero interemisset, p. 0517B | Judaeorum nomen et gentem Vespasianus extinxit, fecitque omnia quae illi futura praedixerant.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 566,
+        "value": "Dan. 7,13",
+        "order": "404.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 311,
@@ -107065,6 +107071,21 @@
     ],
     "sources_used": [],
     "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "Typology",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 29,
+        "value": "40-43 years of penance",
+        "order": "29.00000000000000000000"
+      },
       {
         "id": 30,
         "value": "Vision of violence or extinction",
@@ -107110,9 +107131,9 @@
     "edition_link": "",
     "ai_bible_refs": "Daniel 7:13",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -107125,7 +107146,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-05-11T14:27:39.220790Z"
+    "updated": "2026-10-19T09:28:37.946700Z"
   },
   "851": {
     "id": 851,
@@ -107137,7 +107158,38 @@
     "text_paragraph": "De solis obscuratione Amos ita dicit: In illo die, dicit Dominus, occidet sol meridie, et obtenebrabitur dies lucis; et convertam dies festos vestros in luctum, p. 1054B | et cantica vestra in lamentationem.   Item Jeremias de civitate Hierosolyma in qua passus est: Et subivit sol ei, cum adhuc dies medius esset, confusa est et maledicta, reliquos eorum in gladium dabo.   Nec frustra haec dicta sunt.   Siquidem post breve tempus imperator Vespasianus Judaeos debellavit, et terras eorum ferro ignique depopulatus est, obsessos fame subegit, Hierosolymam evertit, captivos triumphavit, caeteris, qui reliqui fuerunt, terris suis interdixit, nequando iis ad solum patrium reverti liceret.   Quae a Deo propter illam Christi crucem facta sunt, ut hoc in Scripturis eorum Salomon ante testatus sit dicens: Et erit Israel in perditionem, et in improperium populo, et domus haec erit deserta, et omnis qui transiet per illam, admirabitur et dicet: Propter quam rem Deus fecit terrae huic et huic domui haec mala?   et dicent, quia dereliquerunt p. 1054C | Dominum Deum suum, et persecuti sunt Regem suum dilectissimum Deo, et cruciaverunt illum in humilitate magna: pro hoc importavit illis Deus mala haec.   Quid enim non mererentur, qui Dominum, qui ad salutem ipsorum venerat, peremerunt.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 29,
+        "value": "Mt. 23,38",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 65,
+        "value": "Jer. 15,9",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 69,
+        "value": "Amos 8,10",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 1128,
+        "value": "Amos 8,9",
+        "order": "833.00000000000000000000"
+      },
+      {
+        "id": 1922,
+        "value": "3 Reg. 9,8",
+        "order": "1542.00000000000000000000"
+      },
+      {
+        "id": 1923,
+        "value": "Deut. 29,24",
+        "order": "1543.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 312,
@@ -107148,9 +107200,29 @@
     "sources_used": [],
     "keywords": [
       {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
         "id": 10,
         "value": "Typology",
         "order": "10.00000000000000000000"
+      },
+      {
+        "id": 15,
+        "value": "Vengeance",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "Vision of violence or extinction",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 135,
+        "value": "Jews as killers Christ",
+        "order": "81.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -107187,9 +107259,9 @@
     "edition_link": "",
     "ai_bible_refs": "Amos 8:9-10; 1 Kings 9:8-9; Jeremiah 15:9",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -107202,7 +107274,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-04-03T11:48:11.960484Z"
+    "updated": "2026-10-19T09:37:15.269629Z"
   },
   "852": {
     "id": 852,
@@ -107225,9 +107297,29 @@
     "sources_used": [],
     "keywords": [
       {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "Vision of violence or extinction",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 31,
+        "value": "Discussions Roman Empire",
+        "order": "31.00000000000000000000"
+      },
+      {
         "id": 204,
         "value": "Emperor Nero (r.54-68)",
         "order": "87.00000000000000000000"
+      },
+      {
+        "id": 217,
+        "value": "Paratext",
+        "order": "100.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -107264,9 +107356,9 @@
     "edition_link": "",
     "ai_bible_refs": null,
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -107279,7 +107371,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-09-01T09:10:32.536498Z"
+    "updated": "2026-10-19T10:00:32.337535Z"
   },
   "853": {
     "id": 853,
@@ -107302,9 +107394,19 @@
     "sources_used": [],
     "keywords": [
       {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
         "id": 16,
         "value": "Concurrence Easter",
         "order": "16.00000000000000000000"
+      },
+      {
+        "id": 23,
+        "value": "Temple",
+        "order": "23.00000000000000000000"
       },
       {
         "id": 30,
@@ -107312,14 +107414,49 @@
         "order": "30.00000000000000000000"
       },
       {
+        "id": 31,
+        "value": "Discussions Roman Empire",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 58,
+        "value": "The very last conquest",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 62,
+        "value": "Computistic concerns",
+        "order": "62.00000000000000000000"
+      },
+      {
         "id": 70,
         "value": "Flavius Josephus (c.38-c.100)",
         "order": "70.00000000000000000000"
       },
       {
+        "id": 105,
+        "value": "Elaborate discussion",
+        "order": "77.00000000000000000000"
+      },
+      {
+        "id": 202,
+        "value": "Geographical features Holy Land",
+        "order": "85.00000000000000000000"
+      },
+      {
         "id": 204,
         "value": "Emperor Nero (r.54-68)",
         "order": "87.00000000000000000000"
+      },
+      {
+        "id": 215,
+        "value": "Anticipating signs",
+        "order": "98.00000000000000000000"
+      },
+      {
+        "id": 217,
+        "value": "Paratext",
+        "order": "100.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -107356,9 +107493,9 @@
     "edition_link": "",
     "ai_bible_refs": null,
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -107371,7 +107508,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-08-21T11:34:46.904051Z"
+    "updated": "2026-10-19T10:14:37.194051Z"
   },
   "854": {
     "id": 854,
@@ -107383,7 +107520,13 @@
     "text_paragraph": "Sexcentis enim annis transactis nemo ad talem pervenit honorem, nisi Titus, Trajanus, et alii imperatores, qui magistratus contra barbaricas nationes obtinentes, mirabiliter triumphaverunt.   Exuviisque ostensis, et ex bello mancipiis, in media urbe pompis haec publicavit, quod triumphum Romani vocant, sic, veteri quidem modo, sed pedestri incedens, in domum suam, usque ad Hippodromum.   Erant autem exuviae quidquid administratorio principis ordini competebat, id est throni aurei, et essedae, quibus regum uxores vehebantur, ornatus etiam de lapidibus pretiosis compositus, p. 0985A | argenti quoque multa millia talentorum, et diversorum imperialium vasorum, quae Gensericus despoliato Romano palatio in Africam tulit, inter quae erant et Judaeorum vasa, quae Titus Vespasiani filius post captam Hierosolymam Romam detulerat.   Mancipia vero erant ex triumpho, tam ipse Gelimer vestimentum quoddam portans purpureum, et cognatio ejus universa.   Vandalorum quoque quotquot valde prolixae staturae ac boni corporis erant.   Cumque Gelimer in Hippodromum pervenisset, et tam imperatorem supra tribunal sedentem, quam ex utraque parte vulgus astans vidisset, non quiescebat clamans: « Vanitas vanitatum, et omnia vanitas.   » Pertingentem autem eum juxta imperatoris tribunal, purpura ejus ablata pronum cadere et adorare imperatorem coegerunt.   At vero imperator Gelimeri p. 0985B | praedia in Galatia multa contulit, et amoena, et cum omnibus suis cognatis in his habitare permisit.   Verum in ordinem patricii non provexit, eo quod ab Arii secta discedere minime consentiret.   Salomone praeterea remp. moderante, Maurusi praelium adversus Afros moverunt.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 1924,
+        "value": "Koh. 1,2",
+        "order": "1544.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 313,
@@ -107392,7 +107535,13 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 31,
+        "value": "Discussions Roman Empire",
+        "order": "31.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 5,
@@ -107427,9 +107576,9 @@
     "edition_link": "",
     "ai_bible_refs": "Ecclesiastes 1:2",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -107442,7 +107591,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-05-05T10:49:20.165911Z"
+    "updated": "2026-10-19T10:22:23.281219Z"
   },
   "855": {
     "id": 855,
@@ -107453,7 +107602,7 @@
     "position_in_work": "B1, Ch3",
     "text_paragraph": "Cyrillus Hierosolymorum p. 0797C | (subdit), qui ante Epiphanium floruit, in rebus quae jam pridem in ea urbe contigerunt apprime versatus, valde stricta oratione haeretici in Judaeam adventum, ut pestilenti contagione illam regionem afficeret, describit; et statim, nulla voce interposita qua cum Mosaicae legis doctoribus disputationes indicarentur, subjicit: Morbo exstincto illo, Dominus sedavit pestilentiam.   Photius tandem, breviori usus sermone, scripsit acerba morte Scythianum periisse.   Ex hac porro scriptorum dicendi varietate sibi gratulatur Beausobre, et quasi in scirpo nodum quaerens, Gallice Graecum Epiphanii textum, multis notis et animadversionibus interpolatum reddidit, contendens hujus narrationem prorsus cadere, nemine alio ipsi suffragante; immo ipsi aperte refragantibus Judaeorum historiis, quae, cum Judaici populi excidium, tum Hierosolymitani templi eversionem, Titi et Vespasiani armis et militibus factam patefaciunt, ob quae impossibile penitus Scythiano fuisset cum sacerdotibus Judaicis disputationibus congredi, et deinde p. 0797D | praestigiis et magicis incantationibus illius urbis templum conscendere.   Itaque jam depopulata urbe, temploque ad solum redacto, Scythianus illa omnia facinora quae narrat Epiphanius praestare non potuisset, praesertim cum apostolorum aevo illic non venerit, ut ipsi jam primo hujus operis capite contra Epiphanii fidem ultro dedimus, illius verba in laxiori significatione esse sumenda explicantes.\n\n¶\n    p. 0798A | Veritatis speciem haec omnia prae se ferre quis existimabit qui Judaici populi historias post Titi imperium non lustravit?   Secus tamen judicabunt Judaicarum rerum periti, qui norunt Hierosolymam, a Tito et Vespasiano nondum plene deletam, variis aedificiis et turribus superstitibus, iterum ab Adriano, hujus nominis imperatore, fuisse aedificatam, et ab alienigenis non solum, sed a multis Judaeorum millibus fuisse inhabitatam.   Tum, videlicet, cum vetusto mutato in Aeliae nomine, Rufus, Judaeae praeses, armata manu sibi ab imperatore Adriano decreta, eos tumultuantes, duce Barcocheba, strenuo ac crudeli viro, qui ad seditionem excitaverat, compressit, multa virorum millia, feminarum puerorumque conficiendo.   Hocce alterum sub Romanis imperatoribus Judaicae gentis excidium nos ipsi annotavimus ad Hist.   Ecclesiasticam Eusebii Caesar.   Quare perperam omnino pro firmandis suis conjecturis eum laudavit Beausobre.   Quam urbem deinde si peregrinis gentibus ex variis terrarum plagis venientibus incolere datum p. 0798B | fuit, quia in Romanorum jus conversa, ritum mutavit et nomen; non tamen Judaei in illa urbe superstites suas legales caeremonias mutarunt, sed sacerdotum et levitarum aliorumque ministrorum successione servata, quemadmodum in Assyriorum Babyloniorumque captivitatibus, Mosaicam legem in synagogis, proseuchis et 16 caeteris conventibus, rigidius obervandam inculcabant, Pharisaeis, legum doctoribus et tribuum principibus omnem conatum adhibentibus ne turbae, aut Christo nomen darent, aut Romanorum exemplo idolis servirent.   Qui ergo fieri non potuit ut, secundo labente saeculo, Scythianus Hierosolymam seu Aeliam adventans, Judaici populi sacerdotes fuerit aggressus, suis disputationibus probaturus, vetus Testamentum et Mosaicam legem a malo auctore deo duxisse originem; sed cum ab adversariis fuisset superatus, ad turpitudinis notam delendam, et ipse praestigiatorum artibus usus, alicujus domus tectum, juxta templi ruinas aedificatae, p. 0798C | aut aliquam ex antiquis turribus quae Titi et Vespasiani excidio superfuerant, daemonum subsidio, conscendere non tentaverit?   Haec autem inter se pugnare haud intelligo.   Maxime cum omnes noverint tertium illum librum quem Scythianus conscripserat, quemque de mysteriis appellavit, legis et prophetarum refutationes continere, eumque calumniis contra sacros veteris Testamenti scriptores abundare.   Ut igitur ejusmodi commenta et refutationes in vulgus spargeret, easque populo suaderet confingendo Mosaicam legem a malo spiritu fuisse traditam, illi opus fuit ad Judaeam primum proficisci, ut pestilenti contagione illam regionem afficeret.   Nec enim suum nequitiae virus effundere potuisset, nisi conventus, conciones disputationesque coram Judaeis ipsis habuisset.   Sed hunc tantarum blasphemiarum et sacrilegiorum virum fuisse a Deo percussum, et repentino interitu e vivis sublatum, Cyrilli loquendi modus, non tantum hisce verbis prodit: morbo exstincto illo, Dominus sedavit pestilentiam, sed aliis subsequentibus, quibus narrat Terebinthum p. 0798D | Scythianae improbitatis discipulum auri et sui magistri haereseon haeredem factum, quippe qui in Judaea et Palaestina notus ab horum finibus fuit exclusus, coactus propterea in Persidem transire.",
     "note": "",
-    "explicit_contemp_ref": "",
+    "explicit_contemp_ref": "The text offers a historical narrative on the nexus between Jews, heresy, and idol worship - a powerful model for dealing with all these groups in an author's respective present.",
     "biblical_references": [],
     "work": [
       {
@@ -107470,6 +107619,11 @@
         "order": "3.00000000000000000000"
       },
       {
+        "id": 10,
+        "value": "Typology",
+        "order": "10.00000000000000000000"
+      },
+      {
         "id": 11,
         "value": "Babylonian conquest Jerusalem (587 BC)",
         "order": "11.00000000000000000000"
@@ -107480,6 +107634,11 @@
         "order": "22.00000000000000000000"
       },
       {
+        "id": 23,
+        "value": "Temple",
+        "order": "23.00000000000000000000"
+      },
+      {
         "id": 25,
         "value": "Idol worship, paganism",
         "order": "25.00000000000000000000"
@@ -107488,6 +107647,26 @@
         "id": 26,
         "value": "Emperor Hadrian (r.117-138)",
         "order": "26.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "Vision of violence or extinction",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 31,
+        "value": "Discussions Roman Empire",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "Devilish forces",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 105,
+        "value": "Elaborate discussion",
+        "order": "77.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -107539,7 +107718,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-04-03T11:49:36.042381Z"
+    "updated": "2026-10-19T10:31:47.617950Z"
   },
   "856": {
     "id": 856,
@@ -107551,7 +107730,28 @@
     "text_paragraph": "2. [LIV] * Vespasianus 4. et Titus 3. His consulibus a Tito, filio Vespasiani, Judea capta est.   Ut Josepus dicit, undecies et centena milia fame et gladio perierunt et centum milia captivorum sunt venditi.   Evangelium secundum Matheum: « Amen dico vobis, non relinquetur hic lapis super lapidem, qui non destruetur *.   » Hieronimus sic: « Juxta historiam manifestus est sensus, quia 42. anno post passionem, sub Vespasiano et Tito, ipso cum templo magnificentissimo civitas funditus p. 0656A | est eversa, ita ut solo coequaretur.   » Haec Hieronimus.   In anno ergo 42. post passionem, hoc est cum anno passionis, in quo incepit Vespasianus annum 2, capta est Hierusalima, in diebus paschae, Josepho teste et ibi presente.   [Sanctus quoque Spiritus per os David sic: « Quanta malignatus est inimicus in sancto, et gloriati sunt qui oderunt te in medio paschae » et reliqua.   ] Cum enim noluerunt verti ad penitentiam, Domino eos exspectante per annos 40, dignum erat ut in tempore quo occiderunt Dominum etiam ipsi occiderentur.   Pascha enim Hebreorum anno predicto contigit quarta feria, in qua congregati sunt omnes principes sacerdotum et seniores populi in atrium principis sacerdotum, qui dicebatur Cahiphas, et concilium fecerunt ut Jesum dolo p. 0656B | tenerent et occiderent *.   Nostrum autem pascha 8. Kal. Aprilis, in quo crucifixerunt Dominum, in quibus Titus hiisdem diebus capit civitatem, deinde templum incendit, muros urbis universos solo coequavit; et undecies centena milia gladio et fame periisse scribit Josephus Judeorum historicus et tunc presens, et centum milia captivorum vendita et 90 milia dispersa.   Ideo autem tanta multitudo Hierusalem erat tunc, quia ex omni Judea ad templum in diebus azimorum confluebant",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 74,
+        "value": "Mt. 24,2",
+        "order": "73.00000000000000000000"
+      },
+      {
+        "id": 270,
+        "value": "Ps. 73,4",
+        "order": "268.00000000000000000000"
+      },
+      {
+        "id": 1925,
+        "value": "Mt. 26,3",
+        "order": "1545.00000000000000000000"
+      },
+      {
+        "id": 1926,
+        "value": "Mt. 26,4",
+        "order": "1546.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 315,
@@ -107562,14 +107762,54 @@
     "sources_used": [],
     "keywords": [
       {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 15,
+        "value": "Vengeance",
+        "order": "15.00000000000000000000"
+      },
+      {
         "id": 16,
         "value": "Concurrence Easter",
         "order": "16.00000000000000000000"
       },
       {
+        "id": 23,
+        "value": "Temple",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 29,
+        "value": "40-43 years of penance",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "Vision of violence or extinction",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "Chronological issues",
+        "order": "41.00000000000000000000"
+      },
+      {
         "id": 70,
         "value": "Flavius Josephus (c.38-c.100)",
         "order": "70.00000000000000000000"
+      },
+      {
+        "id": 105,
+        "value": "Elaborate discussion",
+        "order": "77.00000000000000000000"
+      },
+      {
+        "id": 135,
+        "value": "Jews as killers Christ",
+        "order": "81.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -107597,7 +107837,13 @@
         "value": "Marianus Scotus"
       }
     ],
-    "source_passage": [],
+    "source_passage": [
+      {
+        "id": 124,
+        "value": "sub Vespasiano et Tito Romanorum principibus, ita funditus est ipsa civitas eversa cum templo suo magnificentissimo",
+        "order": "124.00000000000000000000"
+      }
+    ],
     "mss_locus": [],
     "occurrence_ms": [],
     "main_ms": [],
@@ -107606,9 +107852,9 @@
     "edition_link": "",
     "ai_bible_refs": "Matthew 24:2; Psalm 74:4; Matthew 26:3-4",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -107621,7 +107867,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-04-03T14:35:51.138545Z"
+    "updated": "2026-10-19T10:44:44.885430Z"
   },
   "857": {
     "id": 857,
@@ -107644,9 +107890,24 @@
     "sources_used": [],
     "keywords": [
       {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
         "id": 16,
         "value": "Concurrence Easter",
         "order": "16.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "Vision of violence or extinction",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 31,
+        "value": "Discussions Roman Empire",
+        "order": "31.00000000000000000000"
       },
       {
         "id": 70,
@@ -107693,9 +107954,9 @@
     "edition_link": "",
     "ai_bible_refs": null,
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -107708,18 +107969,18 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-05-11T14:27:46.799323Z"
+    "updated": "2026-10-19T10:58:13.535969Z"
   },
   "858": {
     "id": 858,
     "order": "808.00000000000000000000",
-    "passage": "Contra Judeos, qui Cesti Florii avaritiam non ferentes rebellant, Vespasianus magister militiae a Nerone transmittitur",
+    "passage": "contra Judeos, qui Cesti Florii avaritiam non ferentes rebellant, Vespasianus magister militiae a Nerone transmittitur",
     "jad_id": "jad_occurrence__858",
     "language": null,
     "position_in_work": "Ch72",
-    "text_paragraph": "14. [L] * Silvanus et Otho.   [His consulibus, teste Cassiodoro, Nero Petrum et Paulum et sese interfecit.   ] L. Annius Melas, frater Senecae et Callionis, bona Lucani poetae filii sui a Nerone promeretur.   * Primus Nero super omnia scelera sua etiam primam persecutionem in Christianos facit, in qua una die beatus Petrus crucifigitur et Paulus gladio ceditur, [anno 38. post passionem].   * Contra Judeos, qui Cesti Florii avaritiam non ferentes rebellant, Vespasianus magister militiae a Nerone transmittitur.   Vespasianus multas urbes in Judea capit.   Flavius Josephus scriptor p. 0650C | historicus, dux belli Judeorum, cum a Romanis interficiendus esset, Vespasiano predixit de morte Neronis et ejus imperio.",
+    "text_paragraph": "14. [L] * Silvanus et Otho.   [His consulibus, teste Cassiodoro, Nero Petrum et Paulum et sese interfecit.   ] L. Annius Melas, frater Senecae et Callionis, bona Lucani poetae filii sui a Nerone promeretur.   * Primus Nero super omnia scelera sua etiam primam persecutionem in Christianos facit, in qua una die beatus Petrus crucifigitur et Paulus gladio ceditur, [anno 38. post passionem].   * Contra Judeos, qui Cesti Florii avaritiam non ferentes rebellant, Vespasianus magister militiae a Nerone transmittitur.   Vespasianus multas urbes in Judea capit.   Flavius Josephus scriptor p. 0650C | historicus, dux belli Judeorum, cum a Romanis interficiendus esset, Vespasiano predixit de morte Neronis et ejus imperio.  Leo secundus, successor Agathonis papae, in sua decretali epistola sic: « Si autem Petrus princeps apostolorum adjutores sibi scivit Linum et Cletum, non tamen potestatem pontificii, animas ligandi vel solvendi normam, eis tradidit; sed Clementi successori suo, qui sedem apostolicam post eum et potestatem pontificalem, tradenti sibi beato Petro apostolo, tenere promeruit.",
     "note": "",
-    "explicit_contemp_ref": "",
+    "explicit_contemp_ref": "The passage claims that Josephus was killed by the Romans (cum a Romanis interficiendus esset).",
     "biblical_references": [],
     "work": [
       {
@@ -107731,6 +107992,26 @@
     "sources_used": [],
     "keywords": [
       {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 31,
+        "value": "Discussions Roman Empire",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 52,
+        "value": "Martyrdom",
+        "order": "52.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "Gessius Florus",
+        "order": "66.00000000000000000000"
+      },
+      {
         "id": 70,
         "value": "Flavius Josephus (c.38-c.100)",
         "order": "70.00000000000000000000"
@@ -107739,6 +108020,11 @@
         "id": 204,
         "value": "Emperor Nero (r.54-68)",
         "order": "87.00000000000000000000"
+      },
+      {
+        "id": 207,
+        "value": "Ahistorical detail",
+        "order": "90.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -107775,9 +108061,9 @@
     "edition_link": "",
     "ai_bible_refs": null,
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -107790,7 +108076,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-05-11T14:27:50.650019Z"
+    "updated": "2026-10-19T11:04:46.690163Z"
   },
   "859": {
     "id": 859,
@@ -107806,7 +108092,18 @@
     "text_paragraph": "In corde enim maris montes translati sunt, cum praedicantes apostoli a Judaeae perfidia repulsi, ad intellectum gentilium venerunt.   Inde ipsi quoque in suis Actibus dicunt: Vobis oportebat primum loqui verbum Dei; sed quia repulistis illud, et indignos vos judicastis aeternae vitae, ecce convertimur ad gentes (Act. p. 0145D | XIII). Sed hanc eamdem translationem montium ipsi nescierunt, qui in Domini furore subversi sunt.   Cum enim de suis finibus Hebraei apostolos pellerent, lucrum se fecisse arbitrati sunt, quod praedicationis lumen amiserunt.   Exigentibus quippe meritis justa animadversione percussi, tanto intelligentiae errore caecati sunt, ut quod lucem perderent, hoc esse gaudium putarent.   Sed, repulsis apostolis, per Romanum protinus principem, scilicet Titum Judaea destruitur, atque in cunctis gentibus sparsa dissipatur.   Unde et translatis montibus, recte subjungitur: Qui commovet terram de loco suo et columnae ejus concutientur * .   De loco p. 0146A | quippe suo terra commota est, cum plebs Israelitica de Judaeae finibus evulsa, colla gentibus subdidit, quae subdi auctori recusavit.   Quae scilicet terra quondam columnas habuit, quia in sacerdotes et principes legis, doctores atque Pharisaeos, ruitura ejus pertinaciae structa surrexit.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 127,
+        "value": "Job 9,6",
+        "order": "126.00000000000000000000"
+      },
+      {
+        "id": 191,
+        "value": "Acts 13,46",
+        "order": "190.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 1,
@@ -107817,9 +108114,24 @@
     "sources_used": [],
     "keywords": [
       {
+        "id": 1,
+        "value": "Crusading",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
         "id": 5,
         "value": "Preaching",
         "order": "5.00000000000000000000"
+      },
+      {
+        "id": 25,
+        "value": "Idol worship, paganism",
+        "order": "25.00000000000000000000"
       },
       {
         "id": 49,
@@ -107830,6 +108142,16 @@
         "id": 64,
         "value": "peccatis nostris exigentibus",
         "order": "64.00000000000000000000"
+      },
+      {
+        "id": 134,
+        "value": "Blind or stubborn Jews",
+        "order": "80.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "God's rage",
+        "order": "97.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -107893,7 +108215,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-10-14T13:45:44.392626Z"
+    "updated": "2026-10-19T11:08:13.884156Z"
   },
   "860": {
     "id": 860,
@@ -107914,6 +108236,11 @@
         "id": 36,
         "value": "John 11,48",
         "order": "35.00000000000000000000"
+      },
+      {
+        "id": 37,
+        "value": "John 19,15",
+        "order": "36.00000000000000000000"
       }
     ],
     "work": [
@@ -107926,9 +108253,19 @@
     "sources_used": [],
     "keywords": [
       {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
         "id": 5,
         "value": "Preaching",
         "order": "5.00000000000000000000"
+      },
+      {
+        "id": 135,
+        "value": "Jews as killers Christ",
+        "order": "81.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -107971,9 +108308,9 @@
     "edition_link": "",
     "ai_bible_refs": "John 19:15; John 11:48",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -107986,7 +108323,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-09-01T09:45:47.403005Z"
+    "updated": "2026-10-19T11:10:10.128371Z"
   },
   "861": {
     "id": 861,
@@ -107999,7 +108336,7 @@
       "color": "dark-yellow"
     },
     "position_in_work": "Sermo 4, Section 3",
-    "text_paragraph": "Supra dictis testimoniis, o Judei, nullo modo contradicere potestis, nec debetis; et idcirco Dei et Virginis Filium ad redemptionem humani generis jam olim venisse in hunc mundum, non dubitare, p. 0117A | sed prompta voluntate credere debetis.   Sed vos, o miseri et infelices, semper contra Dominum contentiose egistis, et idcirco locum sanctum et gentem perdidistis, ac per universum mundum velut homicidae et reprobi dispersi estis.   Unde vos satis competenter David propheta in psalmis increpat, dicens: Illic trepidaverunt timore, ubi non erat timor * , id est damnum temporalium rerum trepidastis.   Timuistis enim perdere regnum terrenum, ubi non erat timendum; et non timuistis perdere coelum, ubi erat timendum.   Dixistis enim: Si dimittimus Christum sic, omnes credent in eum, et venient Romani, et tollent nostrum locum et gentem * .   Tunc ergo, o miseri, consilium inopis confudistis (Psal, XIII), humilem scilicet adventum Christi contempsistis; p. 0117B | et ideo cunctis sub coelo nationibus in captivitate traditi estis.\n\n¶\n    Adventus Christi ideo consilium dicitur, quia quos vocabat, non ut in praesenti saeculo, sed in solo Deo spem suam ponerent, admonebat.   Unde et Isaias consiliarium vocat eumdem Dei et Virginis Filium, dicens: Vocabitur nomen ejus admirabilis, consiliarius, Deus fortis, pater futuri saeculi, princeps pacis",
+    "text_paragraph": "Supra dictis testimoniis, o Judei, nullo modo contradicere potestis, nec debetis; et idcirco Dei et Virginis Filium ad redemptionem humani generis jam olim venisse in hunc mundum, non dubitare, p. 0117A | sed prompta voluntate credere debetis.   Sed vos, o miseri et infelices, semper contra Dominum contentiose egistis, et idcirco locum sanctum et gentem perdidistis, ac per universum mundum velut homicidae et reprobi dispersi estis.   Unde vos satis competenter David propheta in psalmis increpat, dicens: Illic trepidaverunt timore, ubi non erat timor * , id est damnum temporalium rerum trepidastis.   Timuistis enim perdere regnum terrenum, ubi non erat timendum; et non timuistis perdere coelum, ubi erat timendum.   Dixistis enim: Si dimittimus Christum sic, omnes credent in eum, et venient Romani, et tollent nostrum locum et gentem * .   Tunc ergo, o miseri, consilium inopis confudistis (Psal, XIII), humilem scilicet adventum Christi contempsistis; p. 0117B | et ideo cunctis sub coelo nationibus in captivitate traditi estis.\n\n¶\n    Adventus Christi ideo consilium dicitur, quia quos vocabat, non ut in praesenti saeculo, sed in solo Deo spem suam ponerent, admonebat.   Unde et Isaias consiliarium vocat eumdem Dei et Virginis Filium, dicens: Vocabitur nomen ejus admirabilis, consiliarius, Deus fortis, pater futuri saeculi, princeps pacis. Consilium itaque secundum humanitatem inopis, scilicet pauperis Christi, qui ad vos liberandos venerat, confudistis, id est recipere noluistis; imo, quod est infelicius, illi mala pro bonis reddidistis, dum eum cruci sine causa affixistis: et unde majorem illi reverentiam exhibere p. 0117C | debueratis, inde eum amplius contempsistis.   Et quid dicam vobis, o gens prava atque perversa?   Nullatenus intra numerum reliquiarum Israel, quae salvandae sunt, computari poteritis, nisi per eumdem Dei et Virginis Filium, cujus consilium confudistis, id est in humilitate positum contempsistis.",
     "note": "",
     "explicit_contemp_ref": "",
     "biblical_references": [
@@ -108007,6 +108344,16 @@
         "id": 36,
         "value": "John 11,48",
         "order": "35.00000000000000000000"
+      },
+      {
+        "id": 552,
+        "value": "Is. 9,5",
+        "order": "390.00000000000000000000"
+      },
+      {
+        "id": 788,
+        "value": "Ps. 52,6",
+        "order": "603.00000000000000000000"
       }
     ],
     "work": [
@@ -108027,6 +108374,21 @@
         "id": 5,
         "value": "Preaching",
         "order": "5.00000000000000000000"
+      },
+      {
+        "id": 25,
+        "value": "Idol worship, paganism",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 135,
+        "value": "Jews as killers Christ",
+        "order": "81.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "King Solomon/ David",
+        "order": "103.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -108037,7 +108399,13 @@
       }
     ],
     "authority_discourse": 0,
-    "liturgical_references": [],
+    "liturgical_references": [
+      {
+        "id": 12,
+        "value": "Christmas",
+        "order": "12.00000000000000000000"
+      }
+    ],
     "occurrence_found_in": [
       {
         "id": 2,
@@ -108063,9 +108431,9 @@
     "edition_link": "",
     "ai_bible_refs": "Isaiah 9:6; Psalms 14",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -108078,7 +108446,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-04-01T13:43:02.417081Z"
+    "updated": "2026-10-19T11:15:50.923283Z"
   },
   "862": {
     "id": 862,
@@ -123815,7 +124183,18 @@
     "text_paragraph": "Primum est, quia adversus eum letabantur et ei insultabant : Unde dicit : Et adversum me letati sunt] Unde infra in hoc Ps. dixerunt : Euge, euge.\n{a} Secundum malum est conspiratio eorum. Unde addit : {2.89ra} Δ Et convenerunt] Mt. 26.a. Tunc congregati sunt Principes sacerdotum et seniores populi : et consilium fecerunt, ut Iesum dolo tenerent et occiderent.\n{b} Tertium est flagellatio. Unde sequitur : Congregata sunt super me flagella] Ps. 128. Supra dorsum meum fabricaverunt peccatores.\n{c} Quartum est, quia eum ignorantem reputaverunt : Unde subiungit Et ignoravi id est ad modum ignorantis me habui et etiam reputatus fui.\n{d} Quintum fuit schisma : Unde sequitur : Dissipati sunt] id est per schisma divisi Io. 9.c. Dicebant ex Phariseis quidam : Non est hic homo a Deo, qui Sabbatum non custodit. Alii dicebant : Quomodo potest homo peccator hec signa facere. Et schisma erat inter eos. Vel de pena peccati potest legi : Dissipati sunt, id est per diversa loca divisi per Titum et Vespasianum.\n{e} Sextum fuit eorum obstinatio : Unde addit : Nec compuncti] licet sic dissipati, ut dictum est. Unde Stephanus arguit eos. Act. 7.f. Dura cervice et incircumcisi corde.\n{f}Septimum fuit eorum dolositas : Unde subiungit Tentaverunt me] Mt. 22.b. Quid me tentatis hypocrite ? Mt. 27.e. Si filius Dei es, descende de Cruce.\n{g} Octavum fuit derisio eorum : Unde dicit Subsannaverunt me] Sed ut ostendat magnam esse et frequentem, addit :\n{h} Subsannatione] quasi dicat, frequenter subsannaverunt. Lam. 3.b. Factus sum in derisum omni populo meo, canticum eorum tota die.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 1925,
+        "value": "Mt. 26,3",
+        "order": "1545.00000000000000000000"
+      },
+      {
+        "id": 1926,
+        "value": "Mt. 26,4",
+        "order": "1546.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 380,
@@ -123880,7 +124259,7 @@
     ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-09-03T11:33:05.575033Z"
+    "updated": "2026-10-19T10:45:52.395550Z"
   },
   "1046": {
     "id": 1046,
