@@ -5721,10 +5721,16 @@
       }
     ],
     "wip": null,
-    "bible_comm": [],
+    "bible_comm": [
+      {
+        "id": 73,
+        "value": "Mt. 22",
+        "order": "73.00000000000000000000"
+      }
+    ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-09-02T14:46:31.919056Z"
+    "updated": "2026-10-19T13:49:39.753671Z"
   },
   "35": {
     "id": 35,
@@ -5878,10 +5884,16 @@
       }
     ],
     "wip": null,
-    "bible_comm": [],
+    "bible_comm": [
+      {
+        "id": 75,
+        "value": "Mt. 24",
+        "order": "75.00000000000000000000"
+      }
+    ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-06-04T10:14:18.714479Z"
+    "updated": "2026-10-19T13:50:03.402494Z"
   },
   "37": {
     "id": 37,
@@ -19042,10 +19054,16 @@
       }
     ],
     "wip": null,
-    "bible_comm": [],
+    "bible_comm": [
+      {
+        "id": 75,
+        "value": "Mt. 24",
+        "order": "75.00000000000000000000"
+      }
+    ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-05-18T14:44:50.532334Z"
+    "updated": "2026-10-19T13:49:22.988895Z"
   },
   "138": {
     "id": 138,
@@ -108455,10 +108473,26 @@
     "jad_id": "jad_occurrence__862",
     "language": null,
     "position_in_work": "Ep.97: Responsa ad consulta Bulgarorum",
-    "text_paragraph": "Nam p. 1012B | Constantinopolitanam ecclesiam nec apostolorum quisquam instituit, nec Nicaena synodus, quae cunctis synodis celebrior et venerabilior est, ejus mentionem aliquam fecit: sed solum, quia Constantinopolis nova Roma dicta est, favore principum potius quam ratione, patriarcha ejus pontifex appellatus est.   Hierosolymitanus autem praesul, licet et ipse patriarcha dicatur, et secundum antiquam cousuetudinem ac Nicaenam synodum honorandus sit, salva tamen metropoli propria dignitate: sed et in eadem sancta et magna synodo nequaquam Jerosolymitanus, sed Aeliae episcopus dicitur.   Nam vera Jerusalem tantum in coelis est, quae est mater nostra; illa vero Jerusalem terrestris, secundum quod Dominus praedixit, adeo funditus ab Aelio Adriano imperatore Romano p. 1012C | destructa est, ut in ea nec lapis super lapidem sit derelictus, et ab eodem Aelio Adriano in alio est loco constructa; ita ut locus Dominicae crucis extra portam, nunc intra cernatur, et a praedicto Aelio Adriano urbs illa Aelia vocitetur.",
+    "text_paragraph": "Antiochenam, in qua conventu magno sanctorum facto, primum fideles dicti sunt Christiani, et quam beatus Petrus priusquam Romam veniret, per annos aliquot gubernavit.   Constantinopolitanus autem et Jerosolymitanus antistites, licet dicantur patriarchae, non tantae tamen auctoritatis, quantae superiores existunt. Nam p. 1012B | Constantinopolitanam ecclesiam nec apostolorum quisquam instituit, nec Nicaena synodus, quae cunctis synodis celebrior et venerabilior est, ejus mentionem aliquam fecit: sed solum, quia Constantinopolis nova Roma dicta est, favore principum potius quam ratione, patriarcha ejus pontifex appellatus est.   Hierosolymitanus autem praesul, licet et ipse patriarcha dicatur, et secundum antiquam cousuetudinem ac Nicaenam synodum honorandus sit, salva tamen metropoli propria dignitate: sed et in eadem sancta et magna synodo nequaquam Jerosolymitanus, sed Aeliae episcopus dicitur.   Nam vera Jerusalem tantum in coelis est, quae est mater nostra; illa vero Jerusalem terrestris, secundum quod Dominus praedixit, adeo funditus ab Aelio Adriano imperatore Romano p. 1012C | destructa est, ut in ea nec lapis super lapidem sit derelictus, et ab eodem Aelio Adriano in alio est loco constructa; ita ut locus Dominicae crucis extra portam, nunc intra cernatur, et a praedicto Aelio Adriano urbs illa Aelia vocitetur.    XCIII.\n\n    Porro quis patriarcharum secundus sit a Romano consulitis; sed juxta quod sancta Romana tenet Ecclesia, et Nicaeni canones innuunt, et sancti praesules Romanorum defendunt, et ipsa ratio docet, Alexandrinus patriarcharum a Romano papa secundus est.",
     "note": "",
-    "explicit_contemp_ref": "The letter addressed the Bulgarian prince Boris I (866), explaining to him essentials of the Christian religion",
-    "biblical_references": [],
+    "explicit_contemp_ref": "The letter addressed the Bulgarian prince Boris I (866), explaining to him essentials of the Christian religion, and also refers to the current state of Jersualem (ita ut locus Dominicae crucis extra portam, nunc intra cernatur).",
+    "biblical_references": [
+      {
+        "id": 4,
+        "value": "Lk. 19,44",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 41,
+        "value": "Gal. 4,26",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "Hebr. 13,12",
+        "order": "72.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 316,
@@ -108468,11 +108502,6 @@
     ],
     "sources_used": [],
     "keywords": [
-      {
-        "id": 3,
-        "value": "Anti-Judaism",
-        "order": "3.00000000000000000000"
-      },
       {
         "id": 14,
         "value": "Carolingian correctio",
@@ -108487,6 +108516,11 @@
         "id": 38,
         "value": "Textual recycling",
         "order": "38.00000000000000000000"
+      },
+      {
+        "id": 202,
+        "value": "Geographical features Holy Land",
+        "order": "85.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -108538,12 +108572,12 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-06-04T11:07:20.464631Z"
+    "updated": "2026-10-19T11:23:01.872299Z"
   },
   "863": {
     "id": 863,
     "order": "813.00000000000000000000",
-    "passage": "Effunde, inquit, framea, Titum et Vespasianum, meritam vindictam, et gladios quibus perdantur",
+    "passage": "effunde, inquit, framea, Titum et Vespasianum, meritam vindictam, et gladios quibus perdantur",
     "jad_id": "jad_occurrence__863",
     "language": {
       "id": 14729,
@@ -108551,10 +108585,15 @@
       "color": "dark-yellow"
     },
     "position_in_work": "Ps. 34",
-    "text_paragraph": "« Judica, Domine, nocentes me.   » Vox Christi in passione: Judica, inquit, Domine, nocentes me, redde illis juxta opera sua.   « Expugna impugnantes me, » ne semper in fortitudine sua glorientur.   « Apprehende arma » ad me defendendum et illos perdendum.   « Et exsurge in adjutorium mihi.   »\n\n¶\n    « Effunde frameam et conclude.   » Effunde, inquit, framea, Titum et Vespasianum, meritam vindictam, et gladios quibus perdantur.   « Adversus eos p. 1219C | qui persequuntur me, » et conclude eos ab hostium multitudine, ut nec unus quidem de civitate egredi vel ingredi possit.   « Dic animae meae: Salus tua ego sum.   » De qua ipsi dicebant: « Non est salus ipsi in Deo ejus *.   » Possumus etiam per frameam animam Dominicam intelligere, cujus effusione conclusi sunt Judaei, quia garrulitas et disputatio eorum omnino cessavit.   « Confundantur et revereantur.   » Confundantur, inquit, de mendacio, cum me viderint resuscitatum.   « Et revereantur, » non enim erat in rem quod timerent Romanos, nisi Christum interficerent; sed postea revera timuerunt, cum incurrentium hostium conspicerent gladios.   Vel confundantur et erubescant de peccatis.  Unde Apostolus: « Quem ergo fructum habuistis in illis, in quibus nunc p. 1219D | erubescitis?   » * Et revereantur, non daemonem, sed Dominum.   « Avertantur retrorsum et confundantur.   » Avertantur, inquit, retrorsum, ut sequantur Dominum, qui nunc diabolum imitantur.   Sive retrorsum convertantur, ut nunquam de futuris cogitent, sed sola praesentia et transitoria concupiscant, et confundantur, vel in melius, vel aeterna confusione, « cogitantes mihi mala.   Fiant tanquam pulvis ante faciem venti, » ut sicut nec pulvis vento, ita nec hostibus ipsi resistere possint.   « Et angelus Domini » malus sit « persequens eos, » ut ubicunque Judaei fuerint, eis diabolus dominetur.   Sive angelus Domini, id est Titus et Vespasianus, quos supra memoravimus.   « Fiant viae illorum tenebrae, » p. 1220A | ut non videant quo fugere possint.   « Et lubricum, » ut fugientes cadant.   « Et angelus Domini persequens eos, » ut facile capiantur, et hoc merito.   « Quoniam gratis, » id est sine causa, ipso eodem Pilato teste, *, « absconderunt mihi interitum.",
+    "text_paragraph": "« Judica, Domine, nocentes me.   » Vox Christi in passione: Judica, inquit, Domine, nocentes me, redde illis juxta opera sua.   « Expugna impugnantes me, » ne semper in fortitudine sua glorientur.   « Apprehende arma » ad me defendendum et illos perdendum.   « Et exsurge in adjutorium mihi.   »\n\n¶\n    « Effunde frameam et conclude.   » Effunde, inquit, framea, Titum et Vespasianum, meritam vindictam, et gladios quibus perdantur.   « Adversus eos p. 1219C | qui persequuntur me, » et conclude eos ab hostium multitudine, ut nec unus quidem de civitate egredi vel ingredi possit.   « Dic animae meae: Salus tua ego sum.   » De qua ipsi dicebant: « Non est salus ipsi in Deo ejus *.   » Possumus etiam per frameam animam Dominicam intelligere, cujus effusione conclusi sunt Judaei, quia garrulitas et disputatio eorum omnino cessavit.   « Confundantur et revereantur.   » Confundantur, inquit, de mendacio, cum me viderint resuscitatum.   « Et revereantur, » non enim erat in rem quod timerent Romanos, nisi Christum interficerent; sed postea revera timuerunt, cum incurrentium hostium conspicerent gladios.   Vel confundantur et erubescant de peccatis.  Unde Apostolus: « Quem ergo fructum habuistis in illis, in quibus nunc p. 1219D | erubescitis?   » * Et revereantur, non daemonem, sed Dominum.   « Avertantur retrorsum et confundantur.   » Avertantur, inquit, retrorsum, ut sequantur Dominum, qui nunc diabolum imitantur.   Sive retrorsum convertantur, ut nunquam de futuris cogitent, sed sola praesentia et transitoria concupiscant, et confundantur, vel in melius, vel aeterna confusione, « cogitantes mihi mala.   Fiant tanquam pulvis ante faciem venti, » ut sicut nec pulvis vento, ita nec hostibus ipsi resistere possint.   « Et angelus Domini » malus sit « persequens eos, » ut ubicunque Judaei fuerint, eis diabolus dominetur.   Sive angelus Domini, id est Titus et Vespasianus, quos supra memoravimus.   « Fiant viae illorum tenebrae, » p. 1220A | ut non videant quo fugere possint.   « Et lubricum, » ut fugientes cadant.   « Et angelus Domini persequens eos, » ut facile capiantur, et hoc merito.   « Quoniam gratis, » id est sine causa, ipso eodem Pilato teste, *, « absconderunt mihi interitum.  » Absconderunt utique, quia cum proditione eum occiderunt.   « Supervacue exprobraverunt animam meam, » id est sine omni illorum utilitate probaverunt quoniam Christus resurgere posset; vel etiam exprobraverunt, quia multa ei opprobria inferebant, dicentes: « Ave, Rabbi, *.   » Et: « Daemonium habes *.   »\n\n¶\n    « Veniat illi laqueus, quem ignorat, » Ego quidem non ignoravi illorum laqueos et deceptiones, ipsi autem, quae poena, qui laquei eis futuri sint, omnino p. 1220B | ignorant.",
     "note": "",
-    "explicit_contemp_ref": "",
+    "explicit_contemp_ref": "Titus and Vespasian are identified as angeli domini.",
     "biblical_references": [
+      {
+        "id": 98,
+        "value": "Ps. 34,3",
+        "order": "97.00000000000000000000"
+      },
       {
         "id": 99,
         "value": "Ps. 34,2",
@@ -108564,6 +108603,21 @@
         "id": 140,
         "value": "Ps. 34,1",
         "order": "139.00000000000000000000"
+      },
+      {
+        "id": 644,
+        "value": "Ps. 3,3",
+        "order": "482.00000000000000000000"
+      },
+      {
+        "id": 898,
+        "value": "Ps. 34,7",
+        "order": "686.00000000000000000000"
+      },
+      {
+        "id": 1927,
+        "value": "Rom. 6,21",
+        "order": "1547.00000000000000000000"
       }
     ],
     "work": [
@@ -108574,7 +108628,38 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 15,
+        "value": "Vengeance",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "Vision of violence or extinction",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 32,
+        "value": "Christian emperors",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "Devilish forces",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 135,
+        "value": "Jews as killers Christ",
+        "order": "81.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 1,
@@ -108609,9 +108694,9 @@
     "edition_link": "",
     "ai_bible_refs": "Romans 6:21; Psalm 35:3; Psalm 35:4; Psalm 35:1; Psalm 35:6; Psalm 35:2; Psalm 3:3; Psalm 35:5",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -108630,7 +108715,7 @@
     ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-09-03T11:31:41.481979Z"
+    "updated": "2026-10-19T11:32:52.003333Z"
   },
   "864": {
     "id": 864,
@@ -108642,7 +108727,28 @@
     "text_paragraph": "Non ergo in illo monte Sion Esaias aspicit vallem; sed in monte sancto, qui est Ecclesia, qui per omnem orbem Romanum, caput tulit sub toto coelo.   In quo monte, a Deo Patre Filius Dei regem se constitutum esse gratulatur, in psalmo I, dicens: Quoniam regem constituit me super Sion montem sanctum suum * : utique super Ecclesiam, cujus rex et sponsus et caput est.   Non in illo monte, ubi nullae p. 0997A | sunt portae quas diligat Deus; sed in monte Ecclesiae, qui spiritaliter appellatur.   Cujus Ecclesiae portas introeunt innocentes, justi, misericordes, continentes, et virgines: quas portas commemorat Spiritus sanctus per David in psalmo LXXXVI, dum dicit: Fundamenta ejus in montibus sanctis, diligit Dominus portas Sion.   Non illius corporalis montis, ubi jam nullae sunt portae; et post victorias Vespasiani imperatoris vix antiquarum exstant vestigia ruinarum.   Est ergo spiritalis Sion Ecclesia, in qua a Deo Patre rex constitutus est Christus; quae est in toto orbe terrarum, in quo est una Ecelesia catholica.   Nam Sion Ecclesiam esse et alio loco sanctissimus David Propheta testatur, dicens: Lauda Deum tuum, Sion, qui confortavit seras portarum tuarum, benedixit filiis p. 0997B | tuis in te * .   Per singulas provincias totius orbis, valles singulas intelligimus montis: et dum non in toto monte videt Esaias, sed in una valle, hoc est, sola Africa: in qua sola cum sufficerent templa Dei quae 55 fuerant, alia facere voluerunt principes vestri: in qua sola dejecti sunt muri, et ut fierent muri, aqua sanctae piscinae transversa est, et novitas contra antiquitatem a vobis instituta est, et aqua humana contra divinam ordinata est.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 1161,
+        "value": "Ps. 86,1",
+        "order": "866.00000000000000000000"
+      },
+      {
+        "id": 1928,
+        "value": "Ps. 2,6",
+        "order": "1548.00000000000000000000"
+      },
+      {
+        "id": 1929,
+        "value": "Ps. 86,2",
+        "order": "1549.00000000000000000000"
+      },
+      {
+        "id": 1930,
+        "value": "Ps. 147,12",
+        "order": "1550.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 318,
@@ -108651,7 +108757,23 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 63,
+        "value": "Current issues Church",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 202,
+        "value": "Geographical features Holy Land",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 220,
+        "value": "King Solomon/ David",
+        "order": "103.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 14,
@@ -108686,9 +108808,9 @@
     "edition_link": "",
     "ai_bible_refs": "Psalm 87:1-2; Psalm 2:6; Psalm 147:12-13",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -108701,7 +108823,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-05-11T11:39:48.061735Z"
+    "updated": "2026-10-19T11:38:07.304420Z"
   },
   "865": {
     "id": 865,
@@ -108713,7 +108835,28 @@
     "text_paragraph": "Omnes igitur beatitudines in semetipso Dominus ostendit.   Ad quam similitudinem etiam illud quod dixerat, Beati flentes, ipse flevit, ut hujus quoque beatitudinis jaceret fundamenta.   Flevit autem super Jerusalem, dicens: Si cognovisses et tu in die ista quae ad pacem sunt tibi, nunc autem abscondita sunt ab oculis tuis, et reliqua, usque ad cum locum ubi ait: Eo quod non cognoveris tempus visitationis tuae.   Dicat aliquis auditorum: Manifesta sunt quae dicuntur, et p. 0302D | opere completa de Jerusalem.   Circumdedit enim eam Romanus exercitus, et ad internecionem usque vastavit, tempusque veniet quando lapis super lapidem non relinquetur super eam.   Non nego et illam quidem Jerusalem propter habitatorum scelera fuisse destructam, sed quaero si et ad hanc nostram Jerusalem fletus iste pertineat.   Nos enim sumus Jerusalem quae defletur, qui nobis videmur intuitum habere majorem.   Quod si post mysteria veritatis, post sermonem Evangelii, post doctrinam Ecclesiae, post visionem p. 0303A | sacramentorum ejus, aliquis e nobis peccaverit, plangitur atque fletur.   Nemo enim gentilis fletur, sed ille qui fuit de Jerusalem, quod post peccata circumdant eam inimici, contrariae videlicet fortitudines, spiritus nequam, et immittant in circuitu ejus vallum, et obsideant eam, et lapidem super lapidem non relinquant: maxime si post multam continentiam, post aliquot annos castitatis victus quis fuerit, blandimentisque carnis illectus patientiam pudicitiamque amiserit.   Si fueris fornicatus, lapidem super lapidem non relinquent super te.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 1,
+        "value": "Lk. 19,41",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "Lk. 19,42",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Lk. 19,43",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Lk. 19,44",
+        "order": "4.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 319,
@@ -108727,6 +108870,21 @@
         "id": 5,
         "value": "Preaching",
         "order": "5.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "Typology",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 25,
+        "value": "Idol worship, paganism",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "Vision of violence or extinction",
+        "order": "30.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -108769,9 +108927,9 @@
     "edition_link": "",
     "ai_bible_refs": "Luke 19:41-44; Luke 21:6; Matthew 5:4",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -108784,7 +108942,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-04-03T14:36:26.072437Z"
+    "updated": "2026-10-19T11:41:14.459312Z"
   },
   "866": {
     "id": 866,
@@ -108796,7 +108954,23 @@
     "text_paragraph": "Tunc si quis vobis dixerit: Ecce hic Christus, aut illic, nolite credere.   Surgent enim pseudochristi et pseudoprophetae, et dabunt signa magna et prodigia, ita ut in errorem inducantur, si fieri potest, etiam electi, ecce praedixi vobis.   Ad hoc itaque ea praedixit mala quae futura erant, ut caveantur.   Et ideo tripliciter locus iste exponendus est, quia et in tribus temporibus haec praecavenda monstrantur; scilicet tempore obsidionis Romanae, quando obsessa est Hierusalem, et Judaea omnis regio vastata; necnon et in consummatione saeculi quando Antichristus, p. 0811C | cum suo capite diabolo, etiam et cum omnibus membris suis, contra Christi pugnabit Ecclesiam.   Deinde per omne tempus quod medium est, quando haereticorum astutia semper saevire non cessat contra catholicam doctrinam et apostolica instituta.   In quibus omnibus una fraus erit antichristorum, ut ita loquar, qui sub opinione scientiae Christi, etsi false, dimicare acriter nunquam cessabunt.   Nam in ipsa captivitatis obsidione, in populo Judaeorum, multi exstiterunt haeresiarchae, qui se Christos esse dicerent.   In tantum ut obsidentibus Romanis a foris, tres intus fuerint factiones; quamvis et in consummatione saeculi majora credantur et plura esse futura.   Verumtamen nescio, si signa majora sint futura diabolicis artibus, quam sunt jam ostensa p. 0811D | in omnibus mendaciis hominum, et doctrinis falsissimis ex quorum forte magisterio repullulabitur virtus prodigiorum numerosior praecisis capitibus.   Quoniam sicut dicta est una abominatio stare in loco sancto, ita et unus Antichristus futurus in fine saeculi, praedicatur.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 48,
+        "value": "Mt. 24,15",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 1210,
+        "value": "Mt. 24,24",
+        "order": "915.00000000000000000000"
+      },
+      {
+        "id": 1931,
+        "value": "Mt. 24,23",
+        "order": "1551.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 29,
@@ -108807,9 +108981,19 @@
     "sources_used": [],
     "keywords": [
       {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
         "id": 6,
         "value": "Apocalypticism",
         "order": "6.00000000000000000000"
+      },
+      {
+        "id": 14,
+        "value": "Carolingian correctio",
+        "order": "14.00000000000000000000"
       },
       {
         "id": 22,
@@ -108820,6 +109004,16 @@
         "id": 55,
         "value": "Antichrist",
         "order": "55.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "Devilish forces",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 169,
+        "value": "Three defenders of Jerusalem",
+        "order": "83.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -108856,9 +109050,9 @@
     "edition_link": "",
     "ai_bible_refs": "Matthew 24:23-25",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -108868,10 +109062,16 @@
       }
     ],
     "wip": null,
-    "bible_comm": [],
+    "bible_comm": [
+      {
+        "id": 75,
+        "value": "Mt. 24",
+        "order": "75.00000000000000000000"
+      }
+    ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-04-01T14:06:37.534296Z"
+    "updated": "2026-10-19T13:47:53.649905Z"
   },
   "867": {
     "id": 867,
@@ -108888,6 +109088,21 @@
         "id": 605,
         "value": "Lam. 2,4",
         "order": "443.00000000000000000000"
+      },
+      {
+        "id": 1932,
+        "value": "Ps. 17,26",
+        "order": "1552.00000000000000000000"
+      },
+      {
+        "id": 1933,
+        "value": "Ps. 17,27",
+        "order": "1553.00000000000000000000"
+      },
+      {
+        "id": 1934,
+        "value": "Ps. 43,4",
+        "order": "1554.00000000000000000000"
       }
     ],
     "work": [
@@ -108899,6 +109114,16 @@
     ],
     "sources_used": [],
     "keywords": [
+      {
+        "id": 6,
+        "value": "Apocalypticism",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "Typology",
+        "order": "10.00000000000000000000"
+      },
       {
         "id": 11,
         "value": "Babylonian conquest Jerusalem (587 BC)",
@@ -108915,9 +109140,24 @@
         "order": "15.00000000000000000000"
       },
       {
+        "id": 30,
+        "value": "Vision of violence or extinction",
+        "order": "30.00000000000000000000"
+      },
+      {
         "id": 36,
         "value": "Council of Paris (846)",
         "order": "36.00000000000000000000"
+      },
+      {
+        "id": 202,
+        "value": "Geographical features Holy Land",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 214,
+        "value": "God's rage",
+        "order": "97.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -108954,9 +109194,9 @@
     "edition_link": "",
     "ai_bible_refs": "Psalm 18:25-26; Psalm 44:3",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -108975,7 +109215,7 @@
     ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-08-31T16:34:37.542441Z"
+    "updated": "2026-10-19T13:55:17.048976Z"
   },
   "868": {
     "id": 868,
@@ -108987,7 +109227,33 @@
     "text_paragraph": "Et propterea dicunt ad eum, sicut aliter manifestius dicit Evangelista: Magister, vides quales lapides et qualis structura?   Videlicet ut flecterent benignissimum Jesum ad misericordiam loci illius, ne permitteret fieri quod futurum praedixerat.   Vel ostendunt ei admirantes propter duritiam cordis eorum, quasi dicerent; Proh!   dolor, quanta est adversitas populi hujus, vel caecitas, qui non credunt, ut convertantur, ne tanta deperiret fabrica templi et civitatis, quibus Jesus p. 0793B | respondens dixit: Videtis haec omnia?   Amen dico vobis, non relinquetur lapis super lapidem qui non destruatur.   Verumtamen interdum cum egrederetur de templo, et iret, haec dicta sunt.   Sed mox ut complevit dicendo quod futurum erat, exivit de templi finibus, qui conservaverat eum ne vastaretur donec fuit in eo, quod postea factum est a Romanis.   Quoniam Jesus aliud templum aeternum jam suis parabat in coelis.   Quandiu enim verbum Dei fuit apud Judaeos, non est ablatum regnum Dei ab eis.   Nunc autem ablato eo, ipsi et civitas eorum relicta est vacua et vana: Sicut tugurium in cucumerario, et sicut civitas quae vastatur * , et dispersi sunt per omnes gentes.   Quia Domino recedente a templo, omnia legis aedificia destructa sunt, et dispersi sunt p. 0793C | lapides sanctuarii in omnem ventum, ac si cineres, ne ulla in eis ultra inveniatur religio salutaris.   Qui profecto locus moraliter tanget auditores et magistros Ecclesiarum.   Quia etsi illa admirabilis fuit structura, mirabilior valde est humanae naturae fabrica, quae non ad cujuscunque exemplar constructa est, verum ad imaginem et similitudinem Dei facta est, ut templum esset ipsius, ad cujus imaginem formata est.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 74,
+        "value": "Mt. 24,2",
+        "order": "73.00000000000000000000"
+      },
+      {
+        "id": 166,
+        "value": "Lk. 21,24",
+        "order": "165.00000000000000000000"
+      },
+      {
+        "id": 537,
+        "value": "Is. 1,8",
+        "order": "375.00000000000000000000"
+      },
+      {
+        "id": 1935,
+        "value": "Mk. 13,1",
+        "order": "1555.00000000000000000000"
+      },
+      {
+        "id": 1936,
+        "value": "Lam. 4,1",
+        "order": "1556.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 29,
@@ -108996,7 +109262,23 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 23,
+        "value": "Temple",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 134,
+        "value": "Blind or stubborn Jews",
+        "order": "80.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 9,
@@ -109031,9 +109313,9 @@
     "edition_link": "",
     "ai_bible_refs": "Isaiah 1:8; Mark 13:1-2",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -109043,22 +109325,54 @@
       }
     ],
     "wip": null,
-    "bible_comm": [],
+    "bible_comm": [
+      {
+        "id": 75,
+        "value": "Mt. 24",
+        "order": "75.00000000000000000000"
+      }
+    ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-03-27T10:30:06.552070Z"
+    "updated": "2026-10-19T14:00:00.916998Z"
   },
   "869": {
     "id": 869,
     "order": "818.00000000000000000000",
-    "passage": "in vindictam crucis Christi etiam et 970 templum illud destruendum erat a Romanis",
+    "passage": "in vindictam crucis Christi etiam et templum illud destruendum erat a Romanis",
     "jad_id": "jad_occurrence__869",
     "language": null,
     "position_in_work": "B10",
     "text_paragraph": "Hujus igitur avis more Christus congregare intra se voluit et enutrire; ut qui jam conditione nascendi fuissent editi, alterius rursus regenerationis ortu et calore confoventis Dei, ex aqua et Spiritu renati, in coeleste regnum tanquam pennatis corporibus evolarent.   Unde quam bene, eo in loco ubi legitur: Spiritus Dei ferebatur super aquas * , in Hebraeo habetur merephet, quod interpretari dicitur incubabat, p. 0792A | vel confovebat; ut ostenderet quod ex aquis suo calore et sanctificatione, novum crearetur genus, quod quia isti nec Christum, nec Spiritum sanctum voluerunt recipere, ait: Ecce relinquetur vobis domus vestra deserta.   Ac si diceret: Quia noluistis congregari sub alis meis.   Et notandum quod ait, vestra, quae nimirum domus prius Dei fuerat, nunc jam non mea, neque Patris mei, sed vestra, et spelunca latronum facta est, quae augustius in toto terrarum orbe fulgebat prius.   Nunc et Synagoga deserta relinquetur a Deo, cum omnis religio transibit ad Ecclesiam, vel quia in vindictam crucis Christi etiam et 970 templum illud destruendum erat a Romanis.\n\n    Amodo non videbitis me, donec dicatis: Benedictus qui venit in nomine Domini.   Nam juxta Lucam facilior p. 0792B | sensus est, quia necdum venerat in Hierusalem, neque hoc acclamatum erat a pueris, quod futurum praedicit.   Verumtamen juxta utrumque Evangelistam, sic accipiendum est, quasi dixerit eis: Nisi poenitentiam egeritis, et confessi me fueritis Filium Dei, meam faciem, quae est cognitio vera de me, corde nunquam videbitis.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 29,
+        "value": "Mt. 23,38",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 71,
+        "value": "Mt. 3,2",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 962,
+        "value": "Lk. 19,46",
+        "order": "723.00000000000000000000"
+      },
+      {
+        "id": 1079,
+        "value": "Mt. 23,39",
+        "order": "784.00000000000000000000"
+      },
+      {
+        "id": 1937,
+        "value": "Gen. 1,2",
+        "order": "1557.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 29,
@@ -109067,7 +109381,23 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 15,
+        "value": "Vengeance",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 23,
+        "value": "Temple",
+        "order": "23.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 9,
@@ -109102,9 +109432,9 @@
     "edition_link": "",
     "ai_bible_refs": "Matthew 23:38; Genesis 1:2; Matthew 23:39",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -109114,10 +109444,16 @@
       }
     ],
     "wip": null,
-    "bible_comm": [],
+    "bible_comm": [
+      {
+        "id": 74,
+        "value": "Mt. 23",
+        "order": "74.00000000000000000000"
+      }
+    ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-05-19T14:39:12.067998Z"
+    "updated": "2026-10-19T14:11:34.162884Z"
   },
   "870": {
     "id": 870,
@@ -109129,7 +109465,18 @@
     "text_paragraph": "Discedite a me, maledicti, in ignem aeternum, qui paratus est diabolo et angelis ejus * .   Servavit autem metaphoram suam a principio, ex quo regnum coelorum simile esse dixit homini regi, qui coepit rationem ponere cum servis suis, usque in finem, quando idem judex, qui et rex supra dictus est, consummabit rationem judicii quam in primo adventu suo coepit ponere seu a principio saeculi, et complevit universa ut bonis restituat quae gesserunt, quos iste malus afflixit servus, et huic pessimo servo sua adnumeret quae sibi thesaurizavit, p. 0640D | et conservis suis crudeliter agendo intulit mala.   Idcirco sic accipiendum est, ut per omne tempus iste unus propter unitatem corporis quorum caput est, diabolus omne genus malorum intelligatur, quam ut ad aliam intelligentiam generalis haec sententia, ut quidam volunt, derivetur, qui tortores etiam Romanum contra Judaeos exercitum venisse quibus traditi sunt, interpretantur.   Sed videant quomodo omnis haec parabola huic sensui convenire possit, cum nec principium, nec finis, utique nec medium ejus, aliquid eisdem dictis consentit.   Unde sequitur:\n\n¶\n    Sic Pater meus coelestis faciet vobis si 774 non remiseritis hominibus unusquisque de cordibus vestris.   Ubi apertissime declarat pius Dominus, ad quam p. 0641A | intelligentiam hanc proposuerit parabolam, ut tota de indulgentia et remissione, quam ipsi a Deo gratis percepimus, proposita credatur, ut quia nos fratribus et conservis devotissime eamdem gratiam praestare debeamus.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 163,
+        "value": "Mt. 25,41",
+        "order": "162.00000000000000000000"
+      },
+      {
+        "id": 1938,
+        "value": "Mt. 18,35",
+        "order": "1558.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 29,
@@ -109138,7 +109485,23 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Apocalypticism",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "Devilish forces",
+        "order": "61.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 9,
@@ -109173,9 +109536,9 @@
     "edition_link": "",
     "ai_bible_refs": "Matthew 25:41; Matthew 18:35",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -109185,15 +109548,21 @@
       }
     ],
     "wip": null,
-    "bible_comm": [],
+    "bible_comm": [
+      {
+        "id": 79,
+        "value": "Mt. 18",
+        "order": "79.00000000000000000000"
+      }
+    ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-03-27T10:30:07.551729Z"
+    "updated": "2026-10-19T14:18:10.981457Z"
   },
   "871": {
     "id": 871,
     "order": "820.00000000000000000000",
-    "passage": "ubi fuerint hostiae Judaeorum et sanguis victimarum, illic, ad caedem et vastationem miserae civitatis, Romani velociores aquilis coeli congregabuntur",
+    "passage": "ad caedem et vastationem miserae civitatis, Romani velociores aquilis coeli congregabuntur",
     "jad_id": "jad_occurrence__871",
     "language": null,
     "position_in_work": "B11",
@@ -109205,6 +109574,21 @@
         "id": 230,
         "value": "Mt. 24,28",
         "order": "229.00000000000000000000"
+      },
+      {
+        "id": 1939,
+        "value": "Is. 40,31",
+        "order": "1559.00000000000000000000"
+      },
+      {
+        "id": 1940,
+        "value": "1 Thes. 4,17",
+        "order": "1560.00000000000000000000"
+      },
+      {
+        "id": 1941,
+        "value": "Is. 3,14",
+        "order": "1561.00000000000000000000"
       }
     ],
     "work": [
@@ -109215,7 +109599,33 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Apocalypticism",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 30,
+        "value": "Vision of violence or extinction",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 132,
+        "value": "Corpus Christi",
+        "order": "78.00000000000000000000"
+      },
+      {
+        "id": 202,
+        "value": "Geographical features Holy Land",
+        "order": "85.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 9,
@@ -109250,9 +109660,9 @@
     "edition_link": "",
     "ai_bible_refs": "1 Thessalonians 4:15-17; Luke 17:37; Isaiah 40:31; Matthew 24:28; Isaiah 3:14",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -109262,10 +109672,16 @@
       }
     ],
     "wip": null,
-    "bible_comm": [],
+    "bible_comm": [
+      {
+        "id": 75,
+        "value": "Mt. 24",
+        "order": "75.00000000000000000000"
+      }
+    ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-03-27T10:30:07.959999Z"
+    "updated": "2026-10-19T14:27:57.166814Z"
   },
   "872": {
     "id": 872,
@@ -109276,7 +109692,7 @@
     "position_in_work": "B10",
     "text_paragraph": "Quia sicut p. 0788C | nunquam tanta gratia Dei donata est sanctis hominibus, qualis et quanta in Christo: ita nunquam talis et tantus interitus, qualis et quantus venit super miseros Judaeos, qui et Christum peremerunt, et sanctos sunt persecuti sine ulla cordis poenitentia.   Et haec extra illa omnia dico, quae passi sunt a Romanis, et patiuntur quotidie captivi.   Nequaquam igitur dico, quod omnium praecedentium impiorum peccata venient super eos qui tunc affuerunt, et fecerunt quae narrantur; sed dicimus, sicut omnium sanctorum justitiae, non tanta meruerunt pietatis Dei bona, quanta donata sunt per Christum: sic et super Judaeos qui crucifixerunt Christum, et persecuti sunt discipulos ejus, tantum accrevit malum, quantum nulli alii pertulerunt prius.   Attamen omnis sanguis, p. 0788D | et omnia quae gesserunt, venient super generationem istam, ut omnes simul in commune sustineant et recipiant singuli suas partes quas contraxerunt; quorum malitia, quia unita ab initio usque ad finem fuit, justum est ut et poena una sit, ac si unius corporis.   Alioquin legat prudens lector Josephum, et videat impraesentiarum, quanta venerunt super Judaeos, ut corporalia paterentur, qualia passi sunt a Romanis; ita repulsi a Deo, ut adhuc hodie ludibrium sint universis gentibus.   Tum demum poterit perpendere quanta et qualia restant impiis et sceleratis, cum Deus omnia judicare et singulis reddere sua veniet.\n\n¶\n    Hierusalem, Hierusalem, quae occidis prophetas et lapidas p. 0789A | eos qui ad te missi sunt.   Haec quippe vox plangentis est et dolentis, sicut et alibi dicitur: Videns Jesus civitatem, flevit super illam * .   Non enim pius et clemens Dominus, tantum de nece sanctorum suorum habuit lamentum, neque de sanguine prophetarum omnium qui effusus est ab illis, quantum flevisse legimus de hac misera, et luxisse, sciens quod electis suis gloria per haec parabatur.   966 Sed de illorum interitu plangebat, ac si benignus et justus Dominus, quos multum dilexerat.",
     "note": "",
-    "explicit_contemp_ref": "",
+    "explicit_contemp_ref": "Reference that state initiated by Roman conquest still effects Jews until today (adhuc hodie).",
     "biblical_references": [
       {
         "id": 1,
@@ -109297,7 +109713,28 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Apocalypticism",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "Flavius Josephus (c.38-c.100)",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 135,
+        "value": "Jews as killers Christ",
+        "order": "81.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 9,
@@ -109332,9 +109769,9 @@
     "edition_link": "",
     "ai_bible_refs": "Matthew 23:37; Luke 19:41",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -109344,22 +109781,39 @@
       }
     ],
     "wip": null,
-    "bible_comm": [],
+    "bible_comm": [
+      {
+        "id": 74,
+        "value": "Mt. 23",
+        "order": "74.00000000000000000000"
+      }
+    ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-03-27T10:30:08.448276Z"
+    "updated": "2026-10-19T14:31:33.885836Z"
   },
   "873": {
     "id": 873,
     "order": "822.00000000000000000000",
-    "passage": "non longe Judaea Romanis subjecta 917 erat",
+    "passage": "non longe Judaea Romanis subjecta erat",
     "jad_id": "jad_occurrence__873",
     "language": null,
     "position_in_work": "B10",
     "text_paragraph": "Qui dicunt ei, Magister, scimus quia verax es, et viam Dei in veritate doces.   Magistrum eum vocant, sed callide, et veracem eum adulantur, ut honore vel laude sui captus, mysterium cordis sui simpliciter eis pandat.   Ad hoc quippe istos cum Herodianis miserant, ut per istos, mulcendo deciperetur, ac per illos Caesari contradicens censum dari debere, ac si reus in Caesare teneretur.   Erant enim Herodiani ministrarii Herodis regis, quem praeposuerat nuper Caesar Augustus in Judaeam, regem.   Nam non longe Judaea Romanis subjecta 917 erat, quando in toto orbe est celebrata descriptio, et facta est tributaria illis.   Unde adhuc in populo Judaeorum seditio magna erat, dicentibus aliis, quia Romani pro omnibus militabant, p. 0750B | pro securitate et pace debere Judaeos tributa, ut sancitum erat a senatu, persolvere.   At vero Pharisaei, qui sibi plaudebant in justitia sua, e contrario renitentes dicebant non debere populum Dei, qui decimas solvebat, et primitias dabat, et caetera, quae in lege jussa sunt, humanis legibus subjacere.   Unde et quidam, sicut historia refert, exstitit Judas Galilaeus, cujus memor est et Lucas in Actibus apostolorum, conducens secum multam Judaeorum multitudinem, docebat Caesari non oportere dare tributa, neque dominum, neque Caesarem appellari, quod et armis conatus est defendere; sed milites regis tales subito contriverunt ausus.",
     "note": "",
     "explicit_contemp_ref": "",
-    "biblical_references": [],
+    "biblical_references": [
+      {
+        "id": 1942,
+        "value": "Mt. 22,16",
+        "order": "1562.00000000000000000000"
+      },
+      {
+        "id": 1943,
+        "value": "Acts 5,37",
+        "order": "1563.00000000000000000000"
+      }
+    ],
     "work": [
       {
         "id": 29,
@@ -109368,7 +109822,23 @@
       }
     ],
     "sources_used": [],
-    "keywords": [],
+    "keywords": [
+      {
+        "id": 3,
+        "value": "Anti-Judaism",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 31,
+        "value": "Discussions Roman Empire",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 65,
+        "value": "Herodes",
+        "order": "65.00000000000000000000"
+      }
+    ],
     "part_of_cluster": [
       {
         "id": 9,
@@ -109403,9 +109873,9 @@
     "edition_link": "",
     "ai_bible_refs": "Acts 5:36-37",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -109415,10 +109885,16 @@
       }
     ],
     "wip": null,
-    "bible_comm": [],
+    "bible_comm": [
+      {
+        "id": 73,
+        "value": "Mt. 22",
+        "order": "73.00000000000000000000"
+      }
+    ],
     "bibliography": null,
     "image": "",
-    "updated": "2026-03-27T10:30:14.589954Z"
+    "updated": "2026-10-19T14:36:10.697582Z"
   },
   "874": {
     "id": 874,
@@ -109440,6 +109916,11 @@
         "id": 7,
         "value": "4 Reg. 2,24",
         "order": "7.00000000000000000000"
+      },
+      {
+        "id": 1944,
+        "value": "Prov. 24,16",
+        "order": "1564.00000000000000000000"
       }
     ],
     "work": [
@@ -109462,6 +109943,11 @@
         "order": "10.00000000000000000000"
       },
       {
+        "id": 25,
+        "value": "Idol worship, paganism",
+        "order": "25.00000000000000000000"
+      },
+      {
         "id": 29,
         "value": "40-43 years of penance",
         "order": "29.00000000000000000000"
@@ -109470,6 +109956,11 @@
         "id": 30,
         "value": "Vision of violence or extinction",
         "order": "30.00000000000000000000"
+      },
+      {
+        "id": 202,
+        "value": "Geographical features Holy Land",
+        "order": "85.00000000000000000000"
       }
     ],
     "part_of_cluster": [
@@ -109506,9 +109997,9 @@
     "edition_link": "",
     "ai_bible_refs": "2 Kings 2:23-24; Proverbs 24:16",
     "status": {
-      "id": 22597,
-      "value": "recorded",
-      "color": "darker-red"
+      "id": 22598,
+      "value": "edited in detail",
+      "color": "darker-orange"
     },
     "text_taken_from": [
       {
@@ -109521,7 +110012,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-04-03T14:36:52.685761Z"
+    "updated": "2026-10-19T14:39:47.789574Z"
   },
   "875": {
     "id": 875,
@@ -109783,6 +110274,11 @@
     "sources_used": [],
     "keywords": [
       {
+        "id": 10,
+        "value": "Typology",
+        "order": "10.00000000000000000000"
+      },
+      {
         "id": 11,
         "value": "Babylonian conquest Jerusalem (587 BC)",
         "order": "11.00000000000000000000"
@@ -109837,7 +110333,7 @@
     "bible_comm": [],
     "bibliography": null,
     "image": "",
-    "updated": "2026-04-03T14:37:15.031872Z"
+    "updated": "2026-10-19T14:40:12.816417Z"
   },
   "879": {
     "id": 879,
