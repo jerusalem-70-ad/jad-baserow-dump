@@ -7368,9 +7368,9 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": null,
-    "volume_edition_or_individual_editor": "Löfstedt",
+    "volume_edition_or_individual_editor": "ed. B. Löfstedt (1989-1991)",
     "other_editions": null,
-    "updated": "2026-05-05T14:09:36.644176Z"
+    "updated": "2026-10-22T09:40:00.573127Z"
   },
   "153": {
     "id": 153,
@@ -15869,9 +15869,9 @@
     "link_digital_editions": "",
     "author_certainty": true,
     "incipit": "",
-    "volume_edition_or_individual_editor": "Histoires, ed. Mathieu Arnoux (Brepols)",
+    "volume_edition_or_individual_editor": "ed. Mathieu Arnoux (Brepols, 1996)",
     "other_editions": null,
-    "updated": "2025-09-17T15:42:13.197719Z"
+    "updated": "2026-10-22T08:19:29.176602Z"
   },
   "344": {
     "id": 344,
@@ -31125,24 +31125,46 @@
   "912": {
     "id": 912,
     "order": "666.00000000000000000000",
-    "name": " ",
+    "name": "De quattuor virtutibus caritatis ",
     "jad_id": "jad_work__912",
-    "author": [],
+    "author": [
+      {
+        "id": 386,
+        "value": "Quodvultdeus of Carthago",
+        "order": "263.00000000000000000000"
+      }
+    ],
     "manuscripts": [],
-    "title": "",
-    "genre": null,
+    "title": "De quattuor virtutibus caritatis",
+    "genre": {
+      "id": 15024,
+      "value": "Theological treatise",
+      "color": "dark-cyan"
+    },
     "notes": "",
     "notes__author": "",
     "institutional_context": [],
-    "published_edition": [],
-    "date_certainty": false,
-    "date": [],
+    "published_edition": [
+      {
+        "id": 7,
+        "value": "Corpus Christianorum",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "date_certainty": true,
+    "date": [
+      {
+        "id": 58,
+        "value": "5th cen., first half",
+        "order": "58.00000000000000000000"
+      }
+    ],
     "link_digital_editions": "",
-    "author_certainty": false,
+    "author_certainty": true,
     "incipit": "",
     "volume_edition_or_individual_editor": "",
     "other_editions": "",
-    "updated": "2026-10-15T08:02:51.603292Z"
+    "updated": "2026-10-21T11:18:16.202421Z"
   },
   "913": {
     "id": 913,
@@ -31209,5 +31231,49 @@
     "volume_edition_or_individual_editor": "",
     "other_editions": "",
     "updated": "2026-10-15T08:02:53.757016Z"
+  },
+  "945": {
+    "id": 945,
+    "order": "670.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__945",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": "",
+    "updated": "2026-10-21T11:17:23.571559Z"
+  },
+  "946": {
+    "id": 946,
+    "order": "671.00000000000000000000",
+    "name": " ",
+    "jad_id": "jad_work__946",
+    "author": [],
+    "manuscripts": [],
+    "title": "",
+    "genre": null,
+    "notes": "",
+    "notes__author": "",
+    "institutional_context": [],
+    "published_edition": [],
+    "date_certainty": false,
+    "date": [],
+    "link_digital_editions": "",
+    "author_certainty": false,
+    "incipit": "",
+    "volume_edition_or_individual_editor": "",
+    "other_editions": "",
+    "updated": "2026-10-21T11:17:24.358389Z"
   }
 }
